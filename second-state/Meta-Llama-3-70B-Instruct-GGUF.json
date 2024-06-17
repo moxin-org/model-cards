@@ -1,24 +1,18 @@
 {
-    "model_id": 8341,
     "id": "second-state/Meta-Llama-3-70B-Instruct-GGUF",
     "status": "published",
-    "trace_status": "tracing",
-    "verified": "verified",
-    "featured": "featured",
     "model_type": "instruct",
     "name": "Meta-Llama-3-70B-Instruct-GGUF",
     "summary": "Meta developed and released the Meta Llama 3 family of large language models (LLMs), a collection of pretrained and instruction tuned generative text models in 8 and 70B sizes. The Llama 3 instruction tuned models are optimized for dialogue use cases and outperform many of the available open source chat models on common industry benchmarks. Further, in developing these models, we took great care to optimize helpfulness and safety.",
     "author": {
-        "name": "second-state",
-        "url": "https://github.com/second-state",
+        "name": "meta-llama",
+        "url": "https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct",
         "description": ""
     },
     "size": "70B",
     "requires": "32GB+ RAM",
     "released_at": "2024-04-29T12:40:56Z",
     "architecture": "llama",
-    "like_count": 3,
-    "download_count": 430,
     "files": [
         {
             "name": "Meta-Llama-3-70B-Instruct-Q4_0.gguf",
@@ -215,6 +209,5 @@
     "reverse_prompt": "",
     "context_size": 8192,
     "vector_size": 0,
-    "metrics": {},
-    "renamed_to": ""
+    "metrics": {}
 }
