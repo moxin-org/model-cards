@@ -1,0 +1,166 @@
+{
+    "id": "second-state/Llama-3-8B-Instruct-GGUF",
+    "status": "published",
+    "model_type": "instruct",
+    "name": "Llama-3-8B-Instruct-GGUF",
+    "summary": "Meta developed and released the Meta Llama 3 family of large language models (LLMs), a collection of pretrained and instruction tuned generative text models in 8 and 70B sizes. The Llama 3 instruction tuned models are optimized for dialogue use cases and outperform many of the available open source chat models on common industry benchmarks. Further, in developing these models, we took great care to optimize helpfulness and safety.",
+    "author": {
+        "name": "meta-llama",
+        "url": "https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct",
+        "description": ""
+    },
+    "size": "8B",
+    "requires": "8GB+ RAM",
+    "released_at": "2024-04-19T03:47:19Z",
+    "architecture": "llama",
+    "files": [
+        {
+            "name": "Meta-Llama-3-8B-Instruct-f16.gguf",
+            "size": "16068890816",
+            "quantization": "FULL PRECISION",
+            "tags": [],
+            "sha256": "1716d233aae1f0277b8717769824a24155a60403e096a5cdd598288d77d46b63",
+            "hf_download_url": "https://huggingface.co/second-state/Llama-3-8B-Instruct-GGUF/resolve/main/Meta-Llama-3-8B-Instruct-f16.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        },
+        {
+            "name": "Meta-Llama-3-8B-Instruct-Q2_K.gguf",
+            "size": "3179131104",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "d68ac41701708ea3d2ae86782512dbdda66feaeb396a170a53554724848141bf",
+            "hf_download_url": "https://huggingface.co/second-state/Llama-3-8B-Instruct-GGUF/resolve/main/Meta-Llama-3-8B-Instruct-Q2_K.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        },
+        {
+            "name": "Meta-Llama-3-8B-Instruct-Q3_K_L.gguf",
+            "size": "4321956064",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "ff72590849813d118aa8f3e73eb6375fb29c2d1e0ccca532c6756902d01800cf",
+            "hf_download_url": "https://huggingface.co/second-state/Llama-3-8B-Instruct-GGUF/resolve/main/Meta-Llama-3-8B-Instruct-Q3_K_L.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        },
+        {
+            "name": "Meta-Llama-3-8B-Instruct-Q3_K_M.gguf",
+            "size": "4018917600",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "2866937b90add3b5b9b11e9b284f63eb5e85ccdb030a90ed424d248571b3918f",
+            "hf_download_url": "https://huggingface.co/second-state/Llama-3-8B-Instruct-GGUF/resolve/main/Meta-Llama-3-8B-Instruct-Q3_K_M.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        },
+        {
+            "name": "Meta-Llama-3-8B-Instruct-Q3_K_S.gguf",
+            "size": "3664498912",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "c442b24bcab9c15df64cb47dfc147d63be081c8fab6c719c3ac48998cd0528b9",
+            "hf_download_url": "https://huggingface.co/second-state/Llama-3-8B-Instruct-GGUF/resolve/main/Meta-Llama-3-8B-Instruct-Q3_K_S.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        },
+        {
+            "name": "Meta-Llama-3-8B-Instruct-Q4_0.gguf",
+            "size": "4661211360",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "54a161a881652bf4a2bca0fb7bcf5ffcde567c71d7194814a43800757d234acd",
+            "hf_download_url": "https://huggingface.co/second-state/Llama-3-8B-Instruct-GGUF/resolve/main/Meta-Llama-3-8B-Instruct-Q4_0.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        },
+        {
+            "name": "Meta-Llama-3-8B-Instruct-Q4_K_M.gguf",
+            "size": "4920733920",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "2d4c2369f29c685f740b0f23b4f8a39fa46221eb21429ef1ffa1b14b1970bb17",
+            "hf_download_url": "https://huggingface.co/second-state/Llama-3-8B-Instruct-GGUF/resolve/main/Meta-Llama-3-8B-Instruct-Q4_K_M.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        },
+        {
+            "name": "Meta-Llama-3-8B-Instruct-Q4_K_S.gguf",
+            "size": "4692668640",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "de5a0eb7dc8f89a5858f4552b6e5133b3281ca172acdc7113cac76850143569c",
+            "hf_download_url": "https://huggingface.co/second-state/Llama-3-8B-Instruct-GGUF/resolve/main/Meta-Llama-3-8B-Instruct-Q4_K_S.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        },
+        {
+            "name": "Meta-Llama-3-8B-Instruct-Q5_0.gguf",
+            "size": "5599293664",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "bc34607cef0f441c17a1a6440ac318a15143cc05dbebf6bbf213ed79bb4f8696",
+            "hf_download_url": "https://huggingface.co/second-state/Llama-3-8B-Instruct-GGUF/resolve/main/Meta-Llama-3-8B-Instruct-Q5_0.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        },
+        {
+            "name": "Meta-Llama-3-8B-Instruct-Q5_K_M.gguf",
+            "size": "5733500128",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "d6b4f889a00afc90e1216bb5cf814b1711ed1870453c7dd8b7f15cc6001a065e",
+            "hf_download_url": "https://huggingface.co/second-state/Llama-3-8B-Instruct-GGUF/resolve/main/Meta-Llama-3-8B-Instruct-Q5_K_M.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        },
+        {
+            "name": "Meta-Llama-3-8B-Instruct-Q5_K_S.gguf",
+            "size": "5599293664",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "5ae59049f7cdb2a75ed96fae719750e4f91c61740575136f1b42fbc074b914d0",
+            "hf_download_url": "https://huggingface.co/second-state/Llama-3-8B-Instruct-GGUF/resolve/main/Meta-Llama-3-8B-Instruct-Q5_K_S.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        },
+        {
+            "name": "Meta-Llama-3-8B-Instruct-Q6_K.gguf",
+            "size": "6596006112",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "82a953c375815a00f1e36773ccd7a62d9e045bcabd1a6554ad4ddb9d337cb0f2",
+            "hf_download_url": "https://huggingface.co/second-state/Llama-3-8B-Instruct-GGUF/resolve/main/Meta-Llama-3-8B-Instruct-Q6_K.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        },
+        {
+            "name": "Meta-Llama-3-8B-Instruct-Q8_0.gguf",
+            "size": "8540770528",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "a0cc95c65e87360bfedfac50db3051d92b25f66a678959595a35a7e06556628b",
+            "hf_download_url": "https://huggingface.co/second-state/Llama-3-8B-Instruct-GGUF/resolve/main/Meta-Llama-3-8B-Instruct-Q8_0.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        }
+    ],
+    "prompt_template": "llama-3-chat",
+    "reverse_prompt": "",
+    "context_size": 4096,
+    "vector_size": 0,
+    "metrics": {}
+}
