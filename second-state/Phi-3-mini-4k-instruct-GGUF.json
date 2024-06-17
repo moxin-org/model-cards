@@ -1,0 +1,177 @@
+{
+    "id": "second-state/Phi-3-mini-4k-instruct-GGUF",
+    "status": "published",
+    "model_type": "instruct",
+    "name": "Phi-3-mini-4k-instruct",
+    "summary": "The Phi-3-Mini-4K-Instruct is a 3.8B parameters, lightweight, state-of-the-art open model trained with the Phi-3 datasets that includes both synthetic data and the filtered publicly available websites data with a focus on high-quality and reasoning dense properties. The model belongs to the Phi-3 family with the Mini version in two variants 4K and 128K which is the context length (in tokens) that it can support.\n\nThe model has underwent a post-training process that incorporates both supervised fine-tuning and direct preference optimization for the instruction following and safety measures. When assessed against benchmarks testing common sense, language understanding, math, code, long context and logical reasoning, Phi-3 Mini-4K-Instruct showcased a robust and state-of-the-art performance among models with less than 13 billion parameters.",
+    "author": {
+        "name": "microsoft",
+        "url": "https://huggingface.co/microsoft/Phi-3-mini-4k-instruct",
+        "description": ""
+    },
+    "size": "3.82B",
+    "requires": "8GB+ RAM",
+    "released_at": "2024-04-23T15:11:30Z",
+    "architecture": "llama",
+    "files": [
+        {
+            "name": "Phi-3-mini-4k-instruct-f16.gguf",
+            "size": "7643295840",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3151f5fa15470cfdefe94f17add74a0a9a7fdbef640db236487a21c110650203",
+            "hf_download_url": "https://huggingface.co/second-state/Phi-3-mini-4k-instruct-GGUF/resolve/main/Phi-3-mini-4k-instruct-f16.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        },
+        {
+            "name": "Phi-3-mini-4k-instruct-Q2_K.gguf",
+            "size": "1416202912",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "d827ee57632ec3680951550e3c8a08b749ba48cff7bcf840d7bf5a68c67d99db",
+            "hf_download_url": "https://huggingface.co/second-state/Phi-3-mini-4k-instruct-GGUF/resolve/main/Phi-3-mini-4k-instruct-Q2_K.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        },
+        {
+            "name": "Phi-3-mini-4k-instruct-Q3_K_L.gguf",
+            "size": "2087596192",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "ce340d0ba94846326dd01951c2e3199027028aa021abc2c9ca90e5ffe08cca07",
+            "hf_download_url": "https://huggingface.co/second-state/Phi-3-mini-4k-instruct-GGUF/resolve/main/Phi-3-mini-4k-instruct-Q3_K_L.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        },
+        {
+            "name": "Phi-3-mini-4k-instruct-Q3_K_M.gguf",
+            "size": "1955475616",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "2c3dbf76b07a9f1a792cdd3bf29e4204ddb229287e301a01f2873ddfcd2d4f29",
+            "hf_download_url": "https://huggingface.co/second-state/Phi-3-mini-4k-instruct-GGUF/resolve/main/Phi-3-mini-4k-instruct-Q3_K_M.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        },
+        {
+            "name": "Phi-3-mini-4k-instruct-Q3_K_S.gguf",
+            "size": "1681797280",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "1d969985fac8f7da02fc464ed52405289e1f9682f29e24494354bd8f0fa612d3",
+            "hf_download_url": "https://huggingface.co/second-state/Phi-3-mini-4k-instruct-GGUF/resolve/main/Phi-3-mini-4k-instruct-Q3_K_S.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        },
+        {
+            "name": "Phi-3-mini-4k-instruct-Q4_0.gguf",
+            "size": "2176175776",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "6f50649e74c67ec154fee88cf89966640196a360a3f3a0c90c548263b7e7cf71",
+            "hf_download_url": "https://huggingface.co/second-state/Phi-3-mini-4k-instruct-GGUF/resolve/main/Phi-3-mini-4k-instruct-Q4_0.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        },
+        {
+            "name": "Phi-3-mini-4k-instruct-Q4_K_M.gguf",
+            "size": "2393231008",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "07c46c4f7fbc286417be8a61ee1b45094ff30b5be8039e67fb403b102dc8838f",
+            "hf_download_url": "https://huggingface.co/second-state/Phi-3-mini-4k-instruct-GGUF/resolve/main/Phi-3-mini-4k-instruct-Q4_K_M.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        },
+        {
+            "name": "Phi-3-mini-4k-instruct-Q4_K_S.gguf",
+            "size": "2188758688",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "1f3df621f2fe5da21b4802001e910ac279e0d1409d90fabec0d77bdc9b294ca8",
+            "hf_download_url": "https://huggingface.co/second-state/Phi-3-mini-4k-instruct-GGUF/resolve/main/Phi-3-mini-4k-instruct-Q4_K_S.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        },
+        {
+            "name": "Phi-3-mini-4k-instruct-Q4.gguf",
+            "size": "2318919040",
+            "quantization": "Q4",
+            "tags": [],
+            "sha256": "4fed7364ee3e0c7cb4fe0880148bfdfcd1b630981efa0802a6b62ee52e7da97e",
+            "hf_download_url": "https://huggingface.co/second-state/Phi-3-mini-4k-instruct-GGUF/resolve/main/Phi-3-mini-4k-instruct-Q4.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        },
+        {
+            "name": "Phi-3-mini-4k-instruct-Q5_0.gguf",
+            "size": "2641473184",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "10dd25f058c9d246c67e77d16549ef13f65dbcc3d6e9300b43fabcbff777a1ef",
+            "hf_download_url": "https://huggingface.co/second-state/Phi-3-mini-4k-instruct-GGUF/resolve/main/Phi-3-mini-4k-instruct-Q5_0.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        },
+        {
+            "name": "Phi-3-mini-4k-instruct-Q5_K_M.gguf",
+            "size": "2815274656",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ed4479317c3d28c3b7fe68f21176cd2a1b8862cc6ee89934a2defec9f502fa50",
+            "hf_download_url": "https://huggingface.co/second-state/Phi-3-mini-4k-instruct-GGUF/resolve/main/Phi-3-mini-4k-instruct-Q5_K_M.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        },
+        {
+            "name": "Phi-3-mini-4k-instruct-Q5_K_S.gguf",
+            "size": "2641473184",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "231d5c9a40d3819c5b2186eda00592e56938dac81b0c9b0ad084f4f87ef619be",
+            "hf_download_url": "https://huggingface.co/second-state/Phi-3-mini-4k-instruct-GGUF/resolve/main/Phi-3-mini-4k-instruct-Q5_K_S.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        },
+        {
+            "name": "Phi-3-mini-4k-instruct-Q6_K.gguf",
+            "size": "3135851680",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "8d1050a276cac7381eba4bd790254d66c8441d862370dbba2f490c71139221be",
+            "hf_download_url": "https://huggingface.co/second-state/Phi-3-mini-4k-instruct-GGUF/resolve/main/Phi-3-mini-4k-instruct-Q6_K.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        },
+        {
+            "name": "Phi-3-mini-4k-instruct-Q8_0.gguf",
+            "size": "4061221024",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "8d2f3732e31c354e169cd81dcde9807a1c73b85b9a0f9b16c19013e7a4bb151c",
+            "hf_download_url": "https://huggingface.co/second-state/Phi-3-mini-4k-instruct-GGUF/resolve/main/Phi-3-mini-4k-instruct-Q8_0.gguf",
+            "china_download_url": "",
+            "ipfs_download_url": "",
+            "other_download_url": ""
+        }
+    ],
+    "prompt_template": "phi-3-chat",
+    "reverse_prompt": "",
+    "context_size": 3072,
+    "vector_size": 0,
+    "metrics": {}
+}
