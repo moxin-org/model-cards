@@ -1,0 +1,43 @@
+{
+    "id": "konz00/Toppy-M2-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "konz00",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-11T00:30:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Toppy-M2-7B.q6_k.gguf",
+            "size": "5942064800",
+            "quantization": "",
+            "tags": [],
+            "sha256": "41b31c5c17916d79970f27294a36ec71052276239c5fae0b3074eba6f7f4544c",
+            "download": {
+                "default": "https://huggingface.co/konz00/Toppy-M2-7B-GGUF/resolve/main/Toppy-M2-7B.q6_k.gguf"
+            }
+        },
+        {
+            "name": "Toppy-M2-7B.q8_0.gguf",
+            "size": "7695857312",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d20f97d2e47e194b912d03661382896e19f970c2d03c1fe90db433ed30c8c0b1",
+            "download": {
+                "default": "https://huggingface.co/konz00/Toppy-M2-7B-GGUF/resolve/main/Toppy-M2-7B.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

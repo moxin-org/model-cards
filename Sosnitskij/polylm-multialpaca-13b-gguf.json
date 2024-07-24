@@ -1,0 +1,43 @@
+{
+    "id": "Sosnitskij/polylm-multialpaca-13b-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Sosnitskij",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-06T01:44:38Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "polylm-multialpaca-13b-Q5_K_M.gguf",
+            "size": "11347860672",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "3c646a11e12f57186d6fdd451b97305304a73eb65096ea49aeb28977e6eed50e",
+            "download": {
+                "default": "https://huggingface.co/Sosnitskij/polylm-multialpaca-13b-gguf/resolve/main/polylm-multialpaca-13b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "polylm-multialpaca-13b-Q6_K.gguf",
+            "size": "12498181312",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "7ce7865c0cb4b3c3ea9d7bd3d56058594317ec1e8d634a8b06664a39ef7f7f00",
+            "download": {
+                "default": "https://huggingface.co/Sosnitskij/polylm-multialpaca-13b-gguf/resolve/main/polylm-multialpaca-13b-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

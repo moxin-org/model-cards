@@ -1,0 +1,143 @@
+{
+    "id": "SinpxAI/Dolphin-Mistral-7B-v2.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "SinpxAI",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-05T17:17:09Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "dolphin-mistral-7b-v2.1.Q2_K.gguf",
+            "size": "2719251680",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "180c43cbdea4ea5c45383c530ae046715b58400b808886e0685b9dc13056b59d",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Dolphin-Mistral-7B-v2.1-GGUF/resolve/main/dolphin-mistral-7b-v2.1.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "dolphin-mistral-7b-v2.1.Q3_K_L.gguf",
+            "size": "3822034976",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "e94d58e59ed10189f1de57dc4b3801bf3cb49c838eb76d119fb4f4e584c1477a",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Dolphin-Mistral-7B-v2.1-GGUF/resolve/main/dolphin-mistral-7b-v2.1.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "dolphin-mistral-7b-v2.1.Q3_K_M.gguf",
+            "size": "3518996512",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "d532ae9d41a9c2b6d12254bcd64f3bfc4acb98701224d2ced89fedee8819b9cc",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Dolphin-Mistral-7B-v2.1-GGUF/resolve/main/dolphin-mistral-7b-v2.1.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "dolphin-mistral-7b-v2.1.Q3_K_S.gguf",
+            "size": "3164577824",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "68fe360090b94aeffcca4e3ecb6cd86b640ea07c78e6db85fb9bf4432342d980",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Dolphin-Mistral-7B-v2.1-GGUF/resolve/main/dolphin-mistral-7b-v2.1.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "dolphin-mistral-7b-v2.1.Q4_0.gguf",
+            "size": "4108928096",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "2ad209e2dc3d2d8f5b790c4c6a63e0c3277f0d33f75944260a3b732ece0a7052",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Dolphin-Mistral-7B-v2.1-GGUF/resolve/main/dolphin-mistral-7b-v2.1.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "dolphin-mistral-7b-v2.1.Q4_K_M.gguf",
+            "size": "4368450656",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "8f90ecd1dbf958983fe0e9f3c38d42333706e39d6cf860f43d59cc420136c2b0",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Dolphin-Mistral-7B-v2.1-GGUF/resolve/main/dolphin-mistral-7b-v2.1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "dolphin-mistral-7b-v2.1.Q4_K_S.gguf",
+            "size": "4140385376",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "f78028db0f786e07449a7e2c7fd81f07ad853daf788776b418db4c8394ac5cca",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Dolphin-Mistral-7B-v2.1-GGUF/resolve/main/dolphin-mistral-7b-v2.1.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "dolphin-mistral-7b-v2.1.Q5_0.gguf",
+            "size": "4997728352",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "a5ba55cc4e4c1324f47aa555d359296f8d57f8da207266cafc156ca4c347f4c3",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Dolphin-Mistral-7B-v2.1-GGUF/resolve/main/dolphin-mistral-7b-v2.1.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "dolphin-mistral-7b-v2.1.Q5_K_M.gguf",
+            "size": "5131421792",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "7a697dcf20721b43ef4fddf98c650d891db00dc01496b64bf55c82cadf07cb91",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Dolphin-Mistral-7B-v2.1-GGUF/resolve/main/dolphin-mistral-7b-v2.1.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "dolphin-mistral-7b-v2.1.Q5_K_S.gguf",
+            "size": "4997728352",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "66d33215f02e87896e1a94dc7060f9eb24d3abd0c84e855a5b66042a5f02b84d",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Dolphin-Mistral-7B-v2.1-GGUF/resolve/main/dolphin-mistral-7b-v2.1.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "dolphin-mistral-7b-v2.1.Q6_K.gguf",
+            "size": "5942078624",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "bc2ad3ceab748a91b50ef6cb40744ad0f7d2b3974e32e10193712497de65c2c3",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Dolphin-Mistral-7B-v2.1-GGUF/resolve/main/dolphin-mistral-7b-v2.1.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "dolphin-mistral-7b-v2.1.Q8_0.gguf",
+            "size": "7695875104",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "74a99bd38e5bc9677a065b826f8eed35fb71bdb948771c36a51a4e7c725fc048",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Dolphin-Mistral-7B-v2.1-GGUF/resolve/main/dolphin-mistral-7b-v2.1.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

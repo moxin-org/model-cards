@@ -1,0 +1,113 @@
+{
+    "id": "xverse/XVERSE-7B-Chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "xverse",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-25T13:29:24Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "xverse-7b-chat-fp16.gguf",
+            "size": "14601793696",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b464d564c7d14f87de1b915365182a0389efe8a578b08cc88e0c389251c75bf5",
+            "download": {
+                "default": "https://huggingface.co/xverse/XVERSE-7B-Chat-GGUF/resolve/main/xverse-7b-chat-fp16.gguf"
+            }
+        },
+        {
+            "name": "xverse-7b-chat-q2_k.gguf",
+            "size": "2856075584",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5aedbcbe7598a790667dd151678a26e3d07955ee7065b505ee78fc7592da875a",
+            "download": {
+                "default": "https://huggingface.co/xverse/XVERSE-7B-Chat-GGUF/resolve/main/xverse-7b-chat-q2_k.gguf"
+            }
+        },
+        {
+            "name": "xverse-7b-chat-q3_k_m.gguf",
+            "size": "3649726720",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c5efde1f7bbf6db9dc793b6b738dec13e6b795ba185afd97a0b02ddf2a7dede3",
+            "download": {
+                "default": "https://huggingface.co/xverse/XVERSE-7B-Chat-GGUF/resolve/main/xverse-7b-chat-q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "xverse-7b-chat-q4_0.gguf",
+            "size": "4214811584",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d5e6ccdb0e242a70d0012fe3d127fa4c244d3b2165bf4ee6728a7e3a6520fb00",
+            "download": {
+                "default": "https://huggingface.co/xverse/XVERSE-7B-Chat-GGUF/resolve/main/xverse-7b-chat-q4_0.gguf"
+            }
+        },
+        {
+            "name": "xverse-7b-chat-q4_k_m.gguf",
+            "size": "4470008768",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b2d389379b2162650e07864f09b77a9a07cc74470a69ea95a8586bd0c55fd9c6",
+            "download": {
+                "default": "https://huggingface.co/xverse/XVERSE-7B-Chat-GGUF/resolve/main/xverse-7b-chat-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "xverse-7b-chat-q5_0.gguf",
+            "size": "5075785664",
+            "quantization": "",
+            "tags": [],
+            "sha256": "746aac85215fb7e28ad32c9eb870e27d78b8e21b87104be1ae6e7f64d3fb88c3",
+            "download": {
+                "default": "https://huggingface.co/xverse/XVERSE-7B-Chat-GGUF/resolve/main/xverse-7b-chat-q5_0.gguf"
+            }
+        },
+        {
+            "name": "xverse-7b-chat-q5_k_m.gguf",
+            "size": "5207250880",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2fbccf55a8431c22cf5e9d48535322760cc1ab9d2c4c088155a75adaa99e7e7d",
+            "download": {
+                "default": "https://huggingface.co/xverse/XVERSE-7B-Chat-GGUF/resolve/main/xverse-7b-chat-q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "xverse-7b-chat-q6_k.gguf",
+            "size": "5990570624",
+            "quantization": "",
+            "tags": [],
+            "sha256": "329f7a4fc5196ff7cbb9a38f5439574fc5e9f5e812211635dff03647024e49e2",
+            "download": {
+                "default": "https://huggingface.co/xverse/XVERSE-7B-Chat-GGUF/resolve/main/xverse-7b-chat-q6_k.gguf"
+            }
+        },
+        {
+            "name": "xverse-7b-chat-q8_0.gguf",
+            "size": "7758437632",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1f2cdfeedcf3e2fe37ba3436d2a879b3f5f5a71b9ebc2ba2e888f8a3e046388d",
+            "download": {
+                "default": "https://huggingface.co/xverse/XVERSE-7B-Chat-GGUF/resolve/main/xverse-7b-chat-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

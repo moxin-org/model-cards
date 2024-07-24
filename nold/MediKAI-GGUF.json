@@ -1,0 +1,73 @@
+{
+    "id": "nold/MediKAI-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "nold",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-10T15:35:00Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "MediKAI_Q3_K_M.gguf",
+            "size": "7035048800",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "aaffe14fa3f56adf34db286d1724563462ad8adfadee83215a9b65551f65d646",
+            "download": {
+                "default": "https://huggingface.co/nold/MediKAI-GGUF/resolve/main/MediKAI_Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "MediKAI_Q4_K_M.gguf",
+            "size": "8671613792",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "ace881bfc9631ff0a5955ec921db7203e78de28d608264faa1ef2c6bc27d2f7f",
+            "download": {
+                "default": "https://huggingface.co/nold/MediKAI-GGUF/resolve/main/MediKAI_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "MediKAI_Q5_K_M.gguf",
+            "size": "10068317024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "96036aee727d4ecaf458bf8908c4824cd9696b038dc2854b6966021abe83675f",
+            "download": {
+                "default": "https://huggingface.co/nold/MediKAI-GGUF/resolve/main/MediKAI_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "MediKAI_Q6_K.gguf",
+            "size": "11552314208",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "d29ab30ea54863ed21f557a5bc951d325c612f48896392bd0820fe27ee8000d5",
+            "download": {
+                "default": "https://huggingface.co/nold/MediKAI-GGUF/resolve/main/MediKAI_Q6_K.gguf"
+            }
+        },
+        {
+            "name": "MediKAI_Q8_0.gguf",
+            "size": "14960857952",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "472a907964f3d3f358949cff691fe2533d8f0a30203d2651be16572e308164eb",
+            "download": {
+                "default": "https://huggingface.co/nold/MediKAI-GGUF/resolve/main/MediKAI_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

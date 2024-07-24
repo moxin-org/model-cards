@@ -1,0 +1,53 @@
+{
+    "id": "mychen76/openmixtral-6x7b-v2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mychen76",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-13T06:12:35Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "openmixtral-6x7b-merged_v2.Q2_K.gguf",
+            "size": "12923491936",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "cc073a7ad01da90367a7e0ee96c466722401a0a62b19452597bb71a2f50f2d33",
+            "download": {
+                "default": "https://huggingface.co/mychen76/openmixtral-6x7b-v2-GGUF/resolve/main/openmixtral-6x7b-merged_v2.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "openmixtral-6x7b-merged_v2.Q4_K_M.gguf",
+            "size": "21435618912",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "01822f6e227915259a00d2357af6f03df803362573480bcfe8cdd0b51a54763f",
+            "download": {
+                "default": "https://huggingface.co/mychen76/openmixtral-6x7b-v2-GGUF/resolve/main/openmixtral-6x7b-merged_v2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "openmixtral-6x7b-merged_v2.Q5_K_M.gguf",
+            "size": "25134601824",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "6674d76f2f4a9b026c2458d9dd132558b2fe15fa3c6df6cf110e5e2460921ad0",
+            "download": {
+                "default": "https://huggingface.co/mychen76/openmixtral-6x7b-v2-GGUF/resolve/main/openmixtral-6x7b-merged_v2.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

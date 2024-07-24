@@ -1,0 +1,43 @@
+{
+    "id": "Akila/Mistral-of-Realms-7b-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Akila",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-01T02:49:54Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Mistral-of-Realms-7b-v1.Q5_K_M.gguf",
+            "size": "5131409088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "c1a2ad1cca159c9152a4afbd41b979d15cfd5a7167b391339734f9fd4e68a1a1",
+            "download": {
+                "default": "https://huggingface.co/Akila/Mistral-of-Realms-7b-gguf/resolve/main/Mistral-of-Realms-7b-v1.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mistral-of-Realms-7b-v1.Q8_0.gguf",
+            "size": "7695857312",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "705465ae5ce5267d1e65f9e3709458195f53f358e929a387f64b98407529cad0",
+            "download": {
+                "default": "https://huggingface.co/Akila/Mistral-of-Realms-7b-gguf/resolve/main/Mistral-of-Realms-7b-v1.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

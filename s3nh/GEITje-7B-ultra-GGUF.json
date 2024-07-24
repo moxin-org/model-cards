@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/GEITje-7B-ultra-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-04T21:29:07Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "geitje-7b-ultra.Q3_K_S.gguf",
+            "size": "3164567744",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "fd0c798844d714ce739d846e694603e0fce1c6a47957e71e72d66c46ad5dc56e",
+            "download": {
+                "default": "https://huggingface.co/s3nh/GEITje-7B-ultra-GGUF/resolve/main/geitje-7b-ultra.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "geitje-7b-ultra.Q4_K_M.gguf",
+            "size": "4368439488",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4dab3ad3a24859223d3aff358d834b70b5591eaf91a2d5371a7a565ad8b80554",
+            "download": {
+                "default": "https://huggingface.co/s3nh/GEITje-7B-ultra-GGUF/resolve/main/geitje-7b-ultra.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "geitje-7b-ultra.Q5_K_M.gguf",
+            "size": "5131409600",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "fef3e8792d5485a949848cd84a4b489bef94ea3310e6866f411991ae18fbb235",
+            "download": {
+                "default": "https://huggingface.co/s3nh/GEITje-7B-ultra-GGUF/resolve/main/geitje-7b-ultra.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "geitje-7b-ultra.Q6_K.gguf",
+            "size": "5942065344",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "7fb5f8162a6ab6a2c8dda02c4f28a0dfff909cbc6eda242045bb587b83d9e031",
+            "download": {
+                "default": "https://huggingface.co/s3nh/GEITje-7B-ultra-GGUF/resolve/main/geitje-7b-ultra.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "geitje-7b-ultra.Q8_0.gguf",
+            "size": "7695857856",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "6118dc4c7622ea4f7b7c1f140274c0c141dcf1cda712fa8ac8b0d9eaaa9eacd5",
+            "download": {
+                "default": "https://huggingface.co/s3nh/GEITje-7B-ultra-GGUF/resolve/main/geitje-7b-ultra.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

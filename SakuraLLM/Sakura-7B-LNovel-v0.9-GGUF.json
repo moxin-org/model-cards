@@ -1,0 +1,103 @@
+{
+    "id": "SakuraLLM/Sakura-7B-LNovel-v0.9-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "SakuraLLM",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-15T08:55:33Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "sakura-7b-lnovel-v0.9-fp16.gguf",
+            "size": "15449911712",
+            "quantization": "",
+            "tags": [],
+            "sha256": "cf1cf245d2db1bed305de7e8ddada55ddb7a3ced5673c4facea76250f5126969",
+            "download": {
+                "default": "https://huggingface.co/SakuraLLM/Sakura-7B-LNovel-v0.9-GGUF/resolve/main/sakura-7b-lnovel-v0.9-fp16.gguf"
+            }
+        },
+        {
+            "name": "sakura-7b-lnovel-v0.9-Q2_K.gguf",
+            "size": "3342369280",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "48eac9c0d2fb3900aede1c0ed35dfaaa3402c3df88373d01b7ec11d003c5c80f",
+            "download": {
+                "default": "https://huggingface.co/SakuraLLM/Sakura-7B-LNovel-v0.9-GGUF/resolve/main/sakura-7b-lnovel-v0.9-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "sakura-7b-lnovel-v0.9-Q3_K_M.gguf",
+            "size": "4057264640",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "80a2b50572e5ae87d02a81768e386eeba501798d3769ae31abe277aee8d70605",
+            "download": {
+                "default": "https://huggingface.co/SakuraLLM/Sakura-7B-LNovel-v0.9-GGUF/resolve/main/sakura-7b-lnovel-v0.9-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "sakura-7b-lnovel-v0.9-Q4_K_M.gguf",
+            "size": "4899217920",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "d805fd1a2991da64732970da15ccfe27fa852c1710d35e88f5daf3aa21637666",
+            "download": {
+                "default": "https://huggingface.co/SakuraLLM/Sakura-7B-LNovel-v0.9-GGUF/resolve/main/sakura-7b-lnovel-v0.9-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "sakura-7b-lnovel-v0.9-Q4KM_awq4bit.gguf",
+            "size": "4899217920",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3b3dd272f18c5bd000e46e851787d0083749996927a435ae4eac9ac1b2e9a360",
+            "download": {
+                "default": "https://huggingface.co/SakuraLLM/Sakura-7B-LNovel-v0.9-GGUF/resolve/main/sakura-7b-lnovel-v0.9-Q4KM_awq4bit.gguf"
+            }
+        },
+        {
+            "name": "sakura-7b-lnovel-v0.9-Q5_K_M.gguf",
+            "size": "5708915200",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "59d5c3c0ff6b86759a05fe5bd9179c6b7fe94efb4e28a3ad1e8ba0d05cff72fd",
+            "download": {
+                "default": "https://huggingface.co/SakuraLLM/Sakura-7B-LNovel-v0.9-GGUF/resolve/main/sakura-7b-lnovel-v0.9-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "sakura-7b-lnovel-v0.9-Q6_K.gguf",
+            "size": "6341939712",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "8e6fec91a4528ccd3cee27c459fc1590dd9919ffadb67c2272b7db8a43611163",
+            "download": {
+                "default": "https://huggingface.co/SakuraLLM/Sakura-7B-LNovel-v0.9-GGUF/resolve/main/sakura-7b-lnovel-v0.9-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "sakura-7b-lnovel-v0.9-Q8_0.gguf",
+            "size": "8211788288",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "c9c3ad851eed3bc3c37803d4e8dec2be59112716b4b354f475d415de1dde80de",
+            "download": {
+                "default": "https://huggingface.co/SakuraLLM/Sakura-7B-LNovel-v0.9-GGUF/resolve/main/sakura-7b-lnovel-v0.9-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,43 @@
+{
+    "id": "javiagu/KULLM3-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "javiagu",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-05T07:04:32Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "kullm3.Q4_K_M.gguf",
+            "size": "6461669056",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e5fb3914c9d8b477b1858296a862c28cea99e99c8cac9421e430018d92458892",
+            "download": {
+                "default": "https://huggingface.co/javiagu/KULLM3-GGUF/resolve/main/kullm3.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "kullm3.Q8_0.gguf",
+            "size": "11404156608",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "7c791aebe5e045b928e4e139c1c70f7748efb43b0a457dc9eeb6bb0fd7819569",
+            "download": {
+                "default": "https://huggingface.co/javiagu/KULLM3-GGUF/resolve/main/kullm3.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

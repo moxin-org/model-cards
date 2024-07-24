@@ -1,0 +1,243 @@
+{
+    "id": "second-state/Yi-34Bx2-MoE-60B-GGUF",
+    "status": "published",
+    "model_type": "chat",
+    "name": "Yi 2x34B",
+    "summary": "The Yi 2x34B MoE model",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "2x34B",
+    "requires": "",
+    "released_at": "2024-01-19T13:28:56Z",
+    "architecture": "Llama2",
+    "files": [
+        {
+            "name": "Yi-34Bx2-MoE-60B-Q3_K_S.gguf",
+            "size": "26316142560",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "542d54f133298916c87132a876613ff0c874453e510b745d4483c15845321c80",
+            "download": {
+                "default": "https://huggingface.co/second-state/Yi-34Bx2-MoE-60B-GGUF/resolve/main/Yi-34Bx2-MoE-60B-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Yi-34Bx2-MoE-60B-Q8_0-00003-of-00003.gguf",
+            "size": "311951552",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f7bb0091582abc00c6bd3f91303d2a83acb5bdb15e64a826a921376b5de482bc",
+            "download": {
+                "default": "https://huggingface.co/second-state/Yi-34Bx2-MoE-60B-GGUF/resolve/main/Yi-34Bx2-MoE-60B-Q8_0-00003-of-00003.gguf"
+            }
+        },
+        {
+            "name": "Yi-34Bx2-MoE-60B-Q8_0-00002-of-00003.gguf",
+            "size": "32130997856",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f2f7d8ff76c16c66abe896ac01ef5fdfb0c8dc4f7c69c0db452f4793f351edc7",
+            "download": {
+                "default": "https://huggingface.co/second-state/Yi-34Bx2-MoE-60B-GGUF/resolve/main/Yi-34Bx2-MoE-60B-Q8_0-00002-of-00003.gguf"
+            }
+        },
+        {
+            "name": "Yi-34Bx2-MoE-60B-Q8_0-00001-of-00003.gguf",
+            "size": "32178402656",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dd5d8d1ac5de21088b5c41cedbb86ddaed4e2825578fcd200365d1cb445bf6da",
+            "download": {
+                "default": "https://huggingface.co/second-state/Yi-34Bx2-MoE-60B-GGUF/resolve/main/Yi-34Bx2-MoE-60B-Q8_0-00001-of-00003.gguf"
+            }
+        },
+        {
+            "name": "Yi-34Bx2-MoE-60B-Q6_K.gguf",
+            "size": "49891694560",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "18d973edea2b8c2b5e4bf6e7d840f920c0c1d4e8fd062016751a2d1218cb885b",
+            "download": {
+                "default": "https://huggingface.co/second-state/Yi-34Bx2-MoE-60B-GGUF/resolve/main/Yi-34Bx2-MoE-60B-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Yi-34Bx2-MoE-60B-Q5_K_S.gguf",
+            "size": "41876006880",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "5fbe2d1a44a9fac4e9c0c9d15394f81d8c9597b6e676062a5b14edaac48bbe46",
+            "download": {
+                "default": "https://huggingface.co/second-state/Yi-34Bx2-MoE-60B-GGUF/resolve/main/Yi-34Bx2-MoE-60B-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Yi-34Bx2-MoE-60B-Q5_K_M.gguf",
+            "size": "43075069920",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "7d53b84df5269209060cba635c959706dde9fc60f6652203ad3451043b3fc464",
+            "download": {
+                "default": "https://huggingface.co/second-state/Yi-34Bx2-MoE-60B-GGUF/resolve/main/Yi-34Bx2-MoE-60B-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Yi-34Bx2-MoE-60B-Q5_0.gguf",
+            "size": "41876006880",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "9acc3366b8348ed84be91e21876fc26ea05694dda709b693bb5bbb8f1a3353df",
+            "download": {
+                "default": "https://huggingface.co/second-state/Yi-34Bx2-MoE-60B-GGUF/resolve/main/Yi-34Bx2-MoE-60B-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Yi-34Bx2-MoE-60B-Q4_K_S.gguf",
+            "size": "34592401376",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "357d356b44a6480fad789feac09dd14b0b5233848311729ccded2de714b0e95d",
+            "download": {
+                "default": "https://huggingface.co/second-state/Yi-34Bx2-MoE-60B-GGUF/resolve/main/Yi-34Bx2-MoE-60B-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Yi-34Bx2-MoE-60B-Q4_K_M.gguf",
+            "size": "36659423200",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "0a99f543d8f0777f14f3118bf8624978cf585d4becc9a6d4cbdbbe24d4b4189a",
+            "download": {
+                "default": "https://huggingface.co/second-state/Yi-34Bx2-MoE-60B-GGUF/resolve/main/Yi-34Bx2-MoE-60B-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Yi-34Bx2-MoE-60B-Q4_0.gguf",
+            "size": "34331830240",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "a985046bc8a9c19f4a3e06d56277e627bb2d41b8c635d4d54885e6439ee253fe",
+            "download": {
+                "default": "https://huggingface.co/second-state/Yi-34Bx2-MoE-60B-GGUF/resolve/main/Yi-34Bx2-MoE-60B-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Yi-34Bx2-MoE-60B-f16-00001-of-00008.gguf",
+            "size": "31864151872",
+            "quantization": "",
+            "tags": [],
+            "sha256": "45f7f13f428e7dbe30e5d0a886566981765c311f31ea9036f7927466e9d76821",
+            "download": {
+                "default": "https://huggingface.co/second-state/Yi-34Bx2-MoE-60B-GGUF/resolve/main/Yi-34Bx2-MoE-60B-f16-00001-of-00008.gguf"
+            }
+        },
+        {
+            "name": "Yi-34Bx2-MoE-60B-Q3_K_M.gguf",
+            "size": "29235640288",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ad2eca9417b43ec804e69d3c7f143f7da1ae76bf5a1047c1b79dad3a38719486",
+            "download": {
+                "default": "https://huggingface.co/second-state/Yi-34Bx2-MoE-60B-GGUF/resolve/main/Yi-34Bx2-MoE-60B-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Yi-34Bx2-MoE-60B-Q3_K_L.gguf",
+            "size": "31766116320",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "4b07417812bc252f18177acfd35e442bc1e4df1402a98aac360cc5d3cff9cce9",
+            "download": {
+                "default": "https://huggingface.co/second-state/Yi-34Bx2-MoE-60B-GGUF/resolve/main/Yi-34Bx2-MoE-60B-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Yi-34Bx2-MoE-60B-Q2_K.gguf",
+            "size": "22391949280",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a51505254c1b7072b61e8f2b3e7ce380237d7da6e10fddbada956d6ca7503ced",
+            "download": {
+                "default": "https://huggingface.co/second-state/Yi-34Bx2-MoE-60B-GGUF/resolve/main/Yi-34Bx2-MoE-60B-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Yi-34Bx2-MoE-60B-f16-00008-of-00008.gguf",
+            "size": "21139293632",
+            "quantization": "",
+            "tags": [],
+            "sha256": "87a0772f7209ef376ea49d4839ff3e47b224eb0ad84d7105706bf6cdcb0ca676",
+            "download": {
+                "default": "https://huggingface.co/second-state/Yi-34Bx2-MoE-60B-GGUF/resolve/main/Yi-34Bx2-MoE-60B-f16-00008-of-00008.gguf"
+            }
+        },
+        {
+            "name": "Yi-34Bx2-MoE-60B-f16-00007-of-00008.gguf",
+            "size": "31708940384",
+            "quantization": "",
+            "tags": [],
+            "sha256": "af2055652763ea9b2cc113d0178d57bb104cb1ccd1c4cc4ddd4d3d409037070a",
+            "download": {
+                "default": "https://huggingface.co/second-state/Yi-34Bx2-MoE-60B-GGUF/resolve/main/Yi-34Bx2-MoE-60B-f16-00007-of-00008.gguf"
+            }
+        },
+        {
+            "name": "Yi-34Bx2-MoE-60B-f16-00006-of-00008.gguf",
+            "size": "31708940384",
+            "quantization": "",
+            "tags": [],
+            "sha256": "16da489e2b34d29d2c17f9587643bad5bae1340f231eb8c311bba389a19e51e7",
+            "download": {
+                "default": "https://huggingface.co/second-state/Yi-34Bx2-MoE-60B-GGUF/resolve/main/Yi-34Bx2-MoE-60B-f16-00006-of-00008.gguf"
+            }
+        },
+        {
+            "name": "Yi-34Bx2-MoE-60B-f16-00005-of-00008.gguf",
+            "size": "31708940384",
+            "quantization": "",
+            "tags": [],
+            "sha256": "af32bd690224f7c1d770fcf733cd61bd693444a26ed448432ac10483b47ab137",
+            "download": {
+                "default": "https://huggingface.co/second-state/Yi-34Bx2-MoE-60B-GGUF/resolve/main/Yi-34Bx2-MoE-60B-f16-00005-of-00008.gguf"
+            }
+        },
+        {
+            "name": "Yi-34Bx2-MoE-60B-f16-00004-of-00008.gguf",
+            "size": "31708940384",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4c5dddf4e53adc86ca9b5ce32c69ba7a0f1ce2d6839469ff19f0d7470512c225",
+            "download": {
+                "default": "https://huggingface.co/second-state/Yi-34Bx2-MoE-60B-GGUF/resolve/main/Yi-34Bx2-MoE-60B-f16-00004-of-00008.gguf"
+            }
+        },
+        {
+            "name": "Yi-34Bx2-MoE-60B-f16-00003-of-00008.gguf",
+            "size": "31708940352",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1b1eda31ba2111767b9c6cc8cca26048f79190eb305f213691043b8b9a186519",
+            "download": {
+                "default": "https://huggingface.co/second-state/Yi-34Bx2-MoE-60B-GGUF/resolve/main/Yi-34Bx2-MoE-60B-f16-00003-of-00008.gguf"
+            }
+        },
+        {
+            "name": "Yi-34Bx2-MoE-60B-f16-00002-of-00008.gguf",
+            "size": "31708940352",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3f743d0d0a8c87e0dc1382d747448b8de0fa29500709330cc917a28108f1f131",
+            "download": {
+                "default": "https://huggingface.co/second-state/Yi-34Bx2-MoE-60B-GGUF/resolve/main/Yi-34Bx2-MoE-60B-f16-00002-of-00008.gguf"
+            }
+        }
+    ],
+    "prompt_template": "chatml",
+    "reverse_prompt": "",
+    "context_size": 7168,
+    "vector_size": 0,
+    "metrics": {}
+}

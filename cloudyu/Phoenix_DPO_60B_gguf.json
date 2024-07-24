@@ -1,0 +1,43 @@
+{
+    "id": "cloudyu/Phoenix_DPO_60B_gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "cloudyu",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-01T00:10:28Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "cloudyu_Phoenix_DPO_60B.Q3_K_XS.gguf",
+            "size": "24667502016",
+            "quantization": "Q3_K_XS",
+            "tags": [],
+            "sha256": "41269e95b802ea9ce5a8a1c170d2da854ff5b2434076bb50722cd33450d9e77d",
+            "download": {
+                "default": "https://huggingface.co/cloudyu/Phoenix_DPO_60B_gguf/resolve/main/cloudyu_Phoenix_DPO_60B.Q3_K_XS.gguf"
+            }
+        },
+        {
+            "name": "cloudyu_Phoenix_DPO_60B.Q4_0.gguf",
+            "size": "34333550016",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "b1f502e5c335a2419babb208b6017a46a9d93919a60557ce7e93c9906c995d4b",
+            "download": {
+                "default": "https://huggingface.co/cloudyu/Phoenix_DPO_60B_gguf/resolve/main/cloudyu_Phoenix_DPO_60B.Q4_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

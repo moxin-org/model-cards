@@ -1,0 +1,63 @@
+{
+    "id": "Aryanne/Sheared-LLaMA-2.7B-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Aryanne",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-11T22:32:43Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "q2_k-sheared-llama-2.7b.gguf",
+            "size": "1143243456",
+            "quantization": "",
+            "tags": [],
+            "sha256": "736e2bbb2595e1e0454f1ac38e89cd557bef02de8a082d9c439f1c9974302eaa",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/Sheared-LLaMA-2.7B-gguf/resolve/main/q2_k-sheared-llama-2.7b.gguf"
+            }
+        },
+        {
+            "name": "q4_0-sheared-llama-2.7b.gguf",
+            "size": "1542060736",
+            "quantization": "",
+            "tags": [],
+            "sha256": "09264b7205c8f92447e8fecc2cf9ff6d42cc8f81356da0782665e36235fbe31e",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/Sheared-LLaMA-2.7B-gguf/resolve/main/q4_0-sheared-llama-2.7b.gguf"
+            }
+        },
+        {
+            "name": "q4_1-sheared-llama-2.7b.gguf",
+            "size": "1705777856",
+            "quantization": "",
+            "tags": [],
+            "sha256": "93bac9ea1b7a68b0db8759cefa24f316dc4e1861cd3ec67c5c010b0fc48e667d",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/Sheared-LLaMA-2.7B-gguf/resolve/main/q4_1-sheared-llama-2.7b.gguf"
+            }
+        },
+        {
+            "name": "q5_k_m-sheared-llama-2.7b.gguf",
+            "size": "1921022656",
+            "quantization": "",
+            "tags": [],
+            "sha256": "88483dab8860ba08ba1edb12289d0d77130d4a269ce979cd3b6df392a7ce71f7",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/Sheared-LLaMA-2.7B-gguf/resolve/main/q5_k_m-sheared-llama-2.7b.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

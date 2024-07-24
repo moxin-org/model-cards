@@ -1,0 +1,163 @@
+{
+    "id": "maddes8cht/OpenBuddy-openbuddy-falcon-7b-v5-fp16-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "maddes8cht",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-03T16:16:11Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q4_0.gguf",
+            "size": "4248897472",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "309ea0fd12097b587a7036627a76d2c86b4f2e4490cba7321bdce0c04c15beeb",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/OpenBuddy-openbuddy-falcon-7b-v5-fp16-gguf/resolve/main/ggml-OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q4_1.gguf",
+            "size": "4682940352",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "401e652b1199c0a1e3873d5eee033c132a6e75f568f835c1d73eab7ddd7b1045",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/OpenBuddy-openbuddy-falcon-7b-v5-fp16-gguf/resolve/main/ggml-OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q4_1.gguf"
+            }
+        },
+        {
+            "name": "ggml-OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q5_0.gguf",
+            "size": "5116983232",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "6952f38c9a2163caf5d652d9f665ca11165a873e641e175522b5b7437bdc9ab6",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/OpenBuddy-openbuddy-falcon-7b-v5-fp16-gguf/resolve/main/ggml-OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q5_1.gguf",
+            "size": "5551026112",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "a7fb25594e72c85999c0e733258c9e5d11acaad7f08ec09a2091798ae5244e8c",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/OpenBuddy-openbuddy-falcon-7b-v5-fp16-gguf/resolve/main/ggml-OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q5_1.gguf"
+            }
+        },
+        {
+            "name": "ggml-OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q8_0.gguf",
+            "size": "7721240512",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "a84b6951ee51f4de6f0892dbcd3d6069641fb6ccf3de2a32f7f3caa469d46e8e",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/OpenBuddy-openbuddy-falcon-7b-v5-fp16-gguf/resolve/main/ggml-OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q8_0.gguf"
+            }
+        },
+        {
+            "name": "OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q2_K.gguf",
+            "size": "4063066048",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "b75dde42fe14999ea3e3258e359a4d055297e3a28f8768d5218f6740c4aac0aa",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/OpenBuddy-openbuddy-falcon-7b-v5-fp16-gguf/resolve/main/OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q3_K_L.gguf",
+            "size": "4601511872",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "e05f2bf458e9663f2d29114338bd9f8dd62be0285bb1c4b67fd65993bacfb321",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/OpenBuddy-openbuddy-falcon-7b-v5-fp16-gguf/resolve/main/OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q3_K_M.gguf",
+            "size": "4405356480",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "d5aec104b8ace5668319bf6bbf3f511efb6ed2313d5bf8a547c07e3a5c690fdf",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/OpenBuddy-openbuddy-falcon-7b-v5-fp16-gguf/resolve/main/OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q3_K_S.gguf",
+            "size": "4166741952",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "8237ba1e8b3657adb7de9a81612ffc27ad9c249d2af4a05856a0f2a7d418df46",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/OpenBuddy-openbuddy-falcon-7b-v5-fp16-gguf/resolve/main/OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q4_K_M.gguf",
+            "size": "5016197312",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "73e340eb174f73a3d741bdd572a157ed35023545902c3edc63cfe4271a374ba1",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/OpenBuddy-openbuddy-falcon-7b-v5-fp16-gguf/resolve/main/OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q4_K_S.gguf",
+            "size": "4786616256",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "fb22d67dcab85be322a5ba245171b784f5aa9a800a06d0ed35e8c9fa262aef20",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/OpenBuddy-openbuddy-falcon-7b-v5-fp16-gguf/resolve/main/OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q5_K_M.gguf",
+            "size": "5773645760",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "231b5ad1a061c072f208462c7bcf9e6b75b5bbfae2b1319bc06a909196cfe027",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/OpenBuddy-openbuddy-falcon-7b-v5-fp16-gguf/resolve/main/OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q5_K_S.gguf",
+            "size": "5385842624",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "10f902b04c0fba36cf4fb66068311dd3411b287b88347069334554f2131a300c",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/OpenBuddy-openbuddy-falcon-7b-v5-fp16-gguf/resolve/main/OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q6_K.gguf",
+            "size": "7081154496",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "f958a16e951e1aa4bb24852588c33cf96b9ed1228fbf5b110ec08522c4ed10a5",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/OpenBuddy-openbuddy-falcon-7b-v5-fp16-gguf/resolve/main/OpenBuddy-openbuddy-falcon-7b-v5-fp16-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,53 @@
+{
+    "id": "prince-canuma/Damysus-2.7B-Chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "prince-canuma",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-15T13:19:37Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Damysus-2.7B-Chat.f16.gguf",
+            "size": "5553825664",
+            "quantization": "",
+            "tags": [],
+            "sha256": "15a3aecca2b1fc703e11c09ed5d6fa585a2cb41c7a68363cc6bb30be21b67704",
+            "download": {
+                "default": "https://huggingface.co/prince-canuma/Damysus-2.7B-Chat-GGUF/resolve/main/Damysus-2.7B-Chat.f16.gguf"
+            }
+        },
+        {
+            "name": "Damysus-2.7B-Chat.Q4_K_M.gguf",
+            "size": "1734416640",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "b5e7f105e814ccd33aa7a6dd78f98c48b15604121837bdae3d51dda9b4b639c5",
+            "download": {
+                "default": "https://huggingface.co/prince-canuma/Damysus-2.7B-Chat-GGUF/resolve/main/Damysus-2.7B-Chat.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Damysus-2.7B-Chat.Q8_0.gguf",
+            "size": "2953104128",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "1c2f96188616dafb89d626d4782792566aea82646d14ee0923dee9b2f087e626",
+            "download": {
+                "default": "https://huggingface.co/prince-canuma/Damysus-2.7B-Chat-GGUF/resolve/main/Damysus-2.7B-Chat.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

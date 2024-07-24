@@ -1,0 +1,63 @@
+{
+    "id": "Eric111/Yarn-Mistral-7b-128k-DPO-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Eric111",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-24T20:38:05Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "yarn-mistral-7b-128k-dpo.Q2_K.gguf",
+            "size": "2719242112",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "3d92b99724a1dd0033c5a5b9241177a13da49897ff6937db212f8d8c2cc1d190",
+            "download": {
+                "default": "https://huggingface.co/Eric111/Yarn-Mistral-7b-128k-DPO-GGUF/resolve/main/yarn-mistral-7b-128k-dpo.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "yarn-mistral-7b-128k-dpo.Q4_K_M.gguf",
+            "size": "4368439168",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "001842d6c81a4c7d938d69b20ad770bfcabad31eaa7721d91db4697a56c1e865",
+            "download": {
+                "default": "https://huggingface.co/Eric111/Yarn-Mistral-7b-128k-DPO-GGUF/resolve/main/yarn-mistral-7b-128k-dpo.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "yarn-mistral-7b-128k-dpo.Q5_K_M.gguf",
+            "size": "5131409280",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "67edf1a902b7896f07c5d3ca045ffa2b40bcf63c1722a80ed7a7c3111aa88281",
+            "download": {
+                "default": "https://huggingface.co/Eric111/Yarn-Mistral-7b-128k-DPO-GGUF/resolve/main/yarn-mistral-7b-128k-dpo.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "yarn-mistral-7b-128k-dpo.Q8_0.gguf",
+            "size": "7695857536",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "29d57016d0dc207c98753a86375cc2a652ccc8b6b3fdbd2dd71f4c28fc3df98f",
+            "download": {
+                "default": "https://huggingface.co/Eric111/Yarn-Mistral-7b-128k-DPO-GGUF/resolve/main/yarn-mistral-7b-128k-dpo.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,93 @@
+{
+    "id": "s3nh/Doctor-Shotgun-TinyLlama-1.1B-32k-Instruct-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-10T08:16:51Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Doctor-Shotgun-TinyLlama-1.1B-32k-Instruct.Q2_K.gguf",
+            "size": "482142720",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "984f18444729a32a86b5a28c27bc7b98772d0ffbf156eb9e488c59a4df1948f7",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Doctor-Shotgun-TinyLlama-1.1B-32k-Instruct-GGUF/resolve/main/Doctor-Shotgun-TinyLlama-1.1B-32k-Instruct.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Doctor-Shotgun-TinyLlama-1.1B-32k-Instruct.Q3_K_S.gguf",
+            "size": "499341824",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "b8f7b29cf5af23e2508cf622c6e9b1922b4f827d6a2aaeae6f747aab64fd9cc9",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Doctor-Shotgun-TinyLlama-1.1B-32k-Instruct-GGUF/resolve/main/Doctor-Shotgun-TinyLlama-1.1B-32k-Instruct.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Doctor-Shotgun-TinyLlama-1.1B-32k-Instruct.Q4_K_M.gguf",
+            "size": "667814400",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "1e3f36e1225cfada320caab6214b54b5e78615c4064ff7a045341dff4d06b3e1",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Doctor-Shotgun-TinyLlama-1.1B-32k-Instruct-GGUF/resolve/main/Doctor-Shotgun-TinyLlama-1.1B-32k-Instruct.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Doctor-Shotgun-TinyLlama-1.1B-32k-Instruct.Q4_K_S.gguf",
+            "size": "642755072",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "a4967adbaa3394127dee1a36e28cee6a19e98ae2782ecb26f0d531bb2668059f",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Doctor-Shotgun-TinyLlama-1.1B-32k-Instruct-GGUF/resolve/main/Doctor-Shotgun-TinyLlama-1.1B-32k-Instruct.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Doctor-Shotgun-TinyLlama-1.1B-32k-Instruct.Q5_K_S.gguf",
+            "size": "766028288",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "d62ad751a4fd2e1b7d7b88318cdc3d5958adcf29c67fcd0e82b17f568ff0161f",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Doctor-Shotgun-TinyLlama-1.1B-32k-Instruct-GGUF/resolve/main/Doctor-Shotgun-TinyLlama-1.1B-32k-Instruct.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Doctor-Shotgun-TinyLlama-1.1B-32k-Instruct.Q6_K.gguf",
+            "size": "903412224",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "3d6faa0a959b9abaa643b076d50267f624fb1458cfdf480f13ec30712c696f5b",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Doctor-Shotgun-TinyLlama-1.1B-32k-Instruct-GGUF/resolve/main/Doctor-Shotgun-TinyLlama-1.1B-32k-Instruct.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Doctor-Shotgun-TinyLlama-1.1B-32k-Instruct.Q8_0.gguf",
+            "size": "1169807872",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "a2c38935ab95c0dcf68aa26dfa69f6b9c1ae664537fc21fb827860556e3b9585",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Doctor-Shotgun-TinyLlama-1.1B-32k-Instruct-GGUF/resolve/main/Doctor-Shotgun-TinyLlama-1.1B-32k-Instruct.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

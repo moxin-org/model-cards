@@ -1,0 +1,33 @@
+{
+    "id": "mizy/qwen-7b-chat-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mizy",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-08T07:47:32Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Qwen-7B-Chat-Q4_K_M.gguf",
+            "size": "4899217600",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "087cf5f25aa6befdb4737d6d60bd89e9be48d9546da0e50b56526b55a12c09a5",
+            "download": {
+                "default": "https://huggingface.co/mizy/qwen-7b-chat-gguf/resolve/main/Qwen-7B-Chat-Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,73 @@
+{
+    "id": "NurtureAI/SOLAR-10.7B-v1.0-Instruct-16k-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "NurtureAI",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-05T19:29:26Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "solar-10.7b-instruct-f16.gguf",
+            "size": "21464586816",
+            "quantization": "",
+            "tags": [],
+            "sha256": "acaa020d37f0c26e75af779763a162a8b6a3ac116c228c09a574aded2249a665",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/SOLAR-10.7B-v1.0-Instruct-16k-GGUF/resolve/main/solar-10.7b-instruct-f16.gguf"
+            }
+        },
+        {
+            "name": "solar-10.7b-instruct-q4_k_m.gguf",
+            "size": "6461667936",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f59aaa2a82427e86bbaa92a71afbcea8d24d4e14537c28269fb1c88bd090e2d2",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/SOLAR-10.7B-v1.0-Instruct-16k-GGUF/resolve/main/solar-10.7b-instruct-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "solar-10.7b-instruct-q5_k_m.gguf",
+            "size": "7597931104",
+            "quantization": "",
+            "tags": [],
+            "sha256": "27e7746fe176446f64a668213799fcf0709f6edac524277effe8552b02f66c97",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/SOLAR-10.7B-v1.0-Instruct-16k-GGUF/resolve/main/solar-10.7b-instruct-q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "solar-10.7b-instruct-q6_k.gguf",
+            "size": "8805210720",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2529106158a72937b4d88596438399c42ecad3953f606f268c9473f0e7249775",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/SOLAR-10.7B-v1.0-Instruct-16k-GGUF/resolve/main/solar-10.7b-instruct-q6_k.gguf"
+            }
+        },
+        {
+            "name": "solar-10.7b-instruct-q8_0.gguf",
+            "size": "11404155488",
+            "quantization": "",
+            "tags": [],
+            "sha256": "148c8321a27a9dc333b714273e3e8c553576e6197ac8e5d861ba0d8a3782ac2a",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/SOLAR-10.7B-v1.0-Instruct-16k-GGUF/resolve/main/solar-10.7b-instruct-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

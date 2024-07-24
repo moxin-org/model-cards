@@ -1,0 +1,43 @@
+{
+    "id": "granddad/llava-v1.5-7b-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "granddad",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-15T17:05:13Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-Q5_K_M.gguf",
+            "size": "4783157024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "78ab86394a7fd6026636a91ad82d11562d267e5e7e7ae2190e08060d87a4df67",
+            "download": {
+                "default": "https://huggingface.co/granddad/llava-v1.5-7b-gguf/resolve/main/ggml-model-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "mmproj-model-f16.gguf",
+            "size": "624434368",
+            "quantization": "",
+            "tags": [],
+            "sha256": "50da4e5b0a011615f77686f9b02613571e65d23083c225e107c08c3b1775d9b1",
+            "download": {
+                "default": "https://huggingface.co/granddad/llava-v1.5-7b-gguf/resolve/main/mmproj-model-f16.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

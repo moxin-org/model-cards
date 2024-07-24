@@ -1,0 +1,53 @@
+{
+    "id": "openvoid/DarkHermes-2.5-Mistral-7B-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "openvoid",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-14T17:37:56Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "DarkHermes-2.5-Mistral-7B-gguf.F16.gguf",
+            "size": "14484764704",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7df7a918d4b06a72e637c1d802f3bf84e41375377c7fdea4686b2376853c7362",
+            "download": {
+                "default": "https://huggingface.co/openvoid/DarkHermes-2.5-Mistral-7B-gguf/resolve/main/DarkHermes-2.5-Mistral-7B-gguf.F16.gguf"
+            }
+        },
+        {
+            "name": "DarkHermes-2.5-Mistral-7B-gguf.Q4_K_M.gguf",
+            "size": "4368450688",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "578f41db07e077877bb36f0bb46552adafc972de930a5ebc037e7ba3811b812d",
+            "download": {
+                "default": "https://huggingface.co/openvoid/DarkHermes-2.5-Mistral-7B-gguf/resolve/main/DarkHermes-2.5-Mistral-7B-gguf.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "DarkHermes-2.5-Mistral-7B-gguf.Q8_0.gguf",
+            "size": "7695875104",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "d0a3f2dc305ff327e52b8449ab3ebfbba74b3772f5a3bcfff57946d0b557a165",
+            "download": {
+                "default": "https://huggingface.co/openvoid/DarkHermes-2.5-Mistral-7B-gguf/resolve/main/DarkHermes-2.5-Mistral-7B-gguf.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,163 @@
+{
+    "id": "ichigoberry/pandafish-dt-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "ichigoberry",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-03T11:57:30Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "pandafish-dt-7b.Q2_K.gguf",
+            "size": "2719242016",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "fa4c811fa22544cf913b7ae473d5968f5ed860573b54cc3e446e3dfdd3f0c2b6",
+            "download": {
+                "default": "https://huggingface.co/ichigoberry/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "pandafish-dt-7b.Q3_K_L.gguf",
+            "size": "3615043584",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "fba80090742db5f64ed7500f2949d1b5a0bb2da0034aef1fc84249a3062c0779",
+            "download": {
+                "default": "https://huggingface.co/ichigoberry/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "pandafish-dt-7b.Q3_K_M.gguf",
+            "size": "3518986016",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ec387ca0d50b76b027438b9125900bf9e28310dd8a42bcbb25fded3f85a4433c",
+            "download": {
+                "default": "https://huggingface.co/ichigoberry/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "pandafish-dt-7b.Q3_K_S.gguf",
+            "size": "3164567328",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "8e5ec46d13b3031c94ec1f3112dae5b7fbeb2d19a3db3b1e899fa945ff0faaac",
+            "download": {
+                "default": "https://huggingface.co/ichigoberry/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "pandafish-dt-7b.Q4_0.gguf",
+            "size": "4108916512",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "408924728e5410d08fb7dbc8e172af18c720ae32d63d49b46e756833cd6e8475",
+            "download": {
+                "default": "https://huggingface.co/ichigoberry/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "pandafish-dt-7b.Q4_1.gguf",
+            "size": "4553316128",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "38d2f5c7240ecef7aac9cb5b428eff3d8a0158581c1e38ae17e5b08f368f4e38",
+            "download": {
+                "default": "https://huggingface.co/ichigoberry/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.Q4_1.gguf"
+            }
+        },
+        {
+            "name": "pandafish-dt-7b.Q4_K_M.gguf",
+            "size": "4368439072",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "218e4d9997e021165d743d82456c7034ac212c3dee351543debeebeacdb4b4a1",
+            "download": {
+                "default": "https://huggingface.co/ichigoberry/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "pandafish-dt-7b.Q4_K_S.gguf",
+            "size": "4140373792",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "419e6f89b18669540799f33e5d42d5b33f62b6f94d289f621ae1c25756a632c7",
+            "download": {
+                "default": "https://huggingface.co/ichigoberry/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "pandafish-dt-7b.Q5_0.gguf",
+            "size": "4997715744",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "5ed07eda74737d3981fecdd3b8f1fced4807c8b3c61ba1758f6b1d0038ab9546",
+            "download": {
+                "default": "https://huggingface.co/ichigoberry/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "pandafish-dt-7b.Q5_1.gguf",
+            "size": "5442115360",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "99447224cef38fb853882bf7bd9488ee5920923a527eda88c323df6527c75a12",
+            "download": {
+                "default": "https://huggingface.co/ichigoberry/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.Q5_1.gguf"
+            }
+        },
+        {
+            "name": "pandafish-dt-7b.Q5_K_M.gguf",
+            "size": "5131409184",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "b9819190fdbd11cf58938d07ce16fbf474662bdd9d3e47f73419368012bc09fa",
+            "download": {
+                "default": "https://huggingface.co/ichigoberry/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "pandafish-dt-7b.Q5_K_S.gguf",
+            "size": "4997715744",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "5b9d9722c2e15c26e2e64b9cc4c74edeb16dfbfab1a2a9ab3035ae10b346cbfb",
+            "download": {
+                "default": "https://huggingface.co/ichigoberry/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "pandafish-dt-7b.Q6_K.gguf",
+            "size": "5942064928",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "17f3c049b03ca3a8d04d8c49efeb740d7b71185049f9a10cc91559beebf27f3e",
+            "download": {
+                "default": "https://huggingface.co/ichigoberry/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "pandafish-dt-7b.Q8_0.gguf",
+            "size": "7695857440",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "fbf7958cea25ded37bec31e28ff0b9e7177c8557c4e480bdd021460326e47d14",
+            "download": {
+                "default": "https://huggingface.co/ichigoberry/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

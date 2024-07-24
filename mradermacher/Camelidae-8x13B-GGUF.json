@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Camelidae-8x13B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-20T09:54:52Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Camelidae-8x13B.IQ3_M.gguf",
+            "size": "6177789888",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "687477896f8e41b2a2afcca9f68fa0e4a48184ac7d38ec91993d721fda50ee97",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Camelidae-8x13B-GGUF/resolve/main/Camelidae-8x13B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Camelidae-8x13B.IQ3_S.gguf",
+            "size": "5852260288",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "ed93803603cc73a3acf2bbe4b3a91d4ba06ac9cfbd59685a748fe9654306ecdb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Camelidae-8x13B-GGUF/resolve/main/Camelidae-8x13B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Camelidae-8x13B.IQ3_XS.gguf",
+            "size": "5554890688",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "bc3a96808a00cae07b7c5115a17d77180031373fb1f2d13d36144c30ff09313b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Camelidae-8x13B-GGUF/resolve/main/Camelidae-8x13B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Camelidae-8x13B.IQ4_XS.gguf",
+            "size": "7212797888",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "0ee10b483c9c4776ae21dee931fd24701774483cdf72aadab8eddf263577ec49",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Camelidae-8x13B-GGUF/resolve/main/Camelidae-8x13B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Camelidae-8x13B.Q2_K.gguf",
+            "size": "5047549888",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "8b71eff01954b2f1b62398b8bded0345001a1c6f91a3d2b88f6e0c58cb1cb6b4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Camelidae-8x13B-GGUF/resolve/main/Camelidae-8x13B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Camelidae-8x13B.Q3_K_L.gguf",
+            "size": "7122839488",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "a27590ecd6eff53adfc1cdb973c18b0cff2f7b0febfc400bdee2cbd55fa983fe",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Camelidae-8x13B-GGUF/resolve/main/Camelidae-8x13B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Camelidae-8x13B.Q3_K_M.gguf",
+            "size": "6531049408",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "8c920bf8c40f3740d13195cd4830b0c2e7ec6c95cf7531c5289891f77541237a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Camelidae-8x13B-GGUF/resolve/main/Camelidae-8x13B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Camelidae-8x13B.Q3_K_S.gguf",
+            "size": "5852260288",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "e767dc51825ca8381258bfa7f1ab442f11e04b93dd88f273ec643b65025ca52e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Camelidae-8x13B-GGUF/resolve/main/Camelidae-8x13B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Camelidae-8x13B.Q4_K_M.gguf",
+            "size": "8059236288",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "adb776264630f912396b78b13e02f9e835c8de2bbc851842d82559637bbbbcd3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Camelidae-8x13B-GGUF/resolve/main/Camelidae-8x13B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Camelidae-8x13B.Q4_K_S.gguf",
+            "size": "7616458688",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "4213174e600d29d511da896bb2af7da00346164fe7b0201425346f2595563ae5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Camelidae-8x13B-GGUF/resolve/main/Camelidae-8x13B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Camelidae-8x13B.Q5_K_M.gguf",
+            "size": "9423204288",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "dc2ab9e0bf4190010b01b51b32fecca5c2b435ecaf375a0733028b23062b355a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Camelidae-8x13B-GGUF/resolve/main/Camelidae-8x13B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Camelidae-8x13B.Q5_K_S.gguf",
+            "size": "9165565888",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "abf11f549895cc67596557c7fb86e94fd9a53278183fe4dedee64488eb24ad2d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Camelidae-8x13B-GGUF/resolve/main/Camelidae-8x13B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Camelidae-8x13B.Q6_K.gguf",
+            "size": "10872420288",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "6c5b370e1f3bf3967c979d636fed4552d60006949de61b10fcf4075403d79d3b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Camelidae-8x13B-GGUF/resolve/main/Camelidae-8x13B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Camelidae-8x13B.Q8_0.gguf",
+            "size": "13984919488",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "f7b2fa4999d8dd06f15b3a5a8cc446ab01674d6965e75434be44b602f3ff2092",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Camelidae-8x13B-GGUF/resolve/main/Camelidae-8x13B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,143 @@
+{
+    "id": "bartowski/Yi-9B-Coder-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bartowski",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-13T13:33:43Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Yi-9B-Coder-Q2_K.gguf",
+            "size": "3354324736",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "fdceae26dbdfc611cc2100c2787efa3c06ec22fba8e87fbafdd01c900edddd83",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Yi-9B-Coder-GGUF/resolve/main/Yi-9B-Coder-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-Coder-Q3_K_L.gguf",
+            "size": "4690751232",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "69599fc57d4c28dfef40ba979f7659b7fd42d65dfb8d3499f9b31eed371c5f4a",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Yi-9B-Coder-GGUF/resolve/main/Yi-9B-Coder-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-Coder-Q3_K_M.gguf",
+            "size": "4324404992",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "94707595f2566c67d9f1b6216a0130d304f6d717e4e620136d442e7ab69a5065",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Yi-9B-Coder-GGUF/resolve/main/Yi-9B-Coder-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-Coder-Q3_K_S.gguf",
+            "size": "3899207424",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "718acb38a520cd0fe4802caf1f022cc05cb0ac6e9cb1580588aa2097d7fbc3cf",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Yi-9B-Coder-GGUF/resolve/main/Yi-9B-Coder-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-Coder-Q4_0.gguf",
+            "size": "5036994304",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "2d89dd2addb8177c60229c70ca2939fc1253e093c09e850fe0cc1b4a4ec78ff3",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Yi-9B-Coder-GGUF/resolve/main/Yi-9B-Coder-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-Coder-Q4_K_M.gguf",
+            "size": "5328957184",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "1972d66e8506a486dfd0f6fe2e5d4be8c941c648c9685010d10a84ba45e24504",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Yi-9B-Coder-GGUF/resolve/main/Yi-9B-Coder-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-Coder-Q4_K_S.gguf",
+            "size": "5071859456",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "9356c6be1bb8a7b36e2298c5a044a940d9cf67af2cd3294f04dbf3695484f0c4",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Yi-9B-Coder-GGUF/resolve/main/Yi-9B-Coder-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-Coder-Q5_0.gguf",
+            "size": "6107852544",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "65982931a309d9bb910fa420169008a0aa4908155cfb6b44e35a328881a18f29",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Yi-9B-Coder-GGUF/resolve/main/Yi-9B-Coder-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-Coder-Q5_K_M.gguf",
+            "size": "6258257664",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ec5c0145d45a2bebb2dd459006c2381839f1bdafe2b1066b714e33b1b308b313",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Yi-9B-Coder-GGUF/resolve/main/Yi-9B-Coder-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-Coder-Q5_K_S.gguf",
+            "size": "6107852544",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "6b47cd77f9f6b860ed39f68c8d82b837b4b5bb8f9769e83ef193188f58cb8537",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Yi-9B-Coder-GGUF/resolve/main/Yi-9B-Coder-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-Coder-Q6_K.gguf",
+            "size": "7245639424",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "f0d2743171804535d3a053e159d5d9cfa24ab08d99e8a7c377498e5e4ca91688",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Yi-9B-Coder-GGUF/resolve/main/Yi-9B-Coder-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-Coder-Q8_0.gguf",
+            "size": "9383915264",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "501164323acfc254aded2f829fc77c425885b6ee5678ffe403c3c47e196b9ba7",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Yi-9B-Coder-GGUF/resolve/main/Yi-9B-Coder-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

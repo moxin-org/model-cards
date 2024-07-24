@@ -1,0 +1,63 @@
+{
+    "id": "NurtureAI/Nexusflow-Starling-7b-32k-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "NurtureAI",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-30T22:52:41Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "nexusflow-starling-7b-f16.gguf",
+            "size": "14484764704",
+            "quantization": "",
+            "tags": [],
+            "sha256": "788bdae207080d165ededbe02efccbaa6ce46e78d134f390b6fce9833219443b",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/Nexusflow-Starling-7b-32k-GGUF/resolve/main/nexusflow-starling-7b-f16.gguf"
+            }
+        },
+        {
+            "name": "nexusflow-starling-7b-q4_k_m.gguf",
+            "size": "4368450720",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d926bacff407042851518edf75dd66366dd575adaef175f4ac9c104eb554cb4d",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/Nexusflow-Starling-7b-32k-GGUF/resolve/main/nexusflow-starling-7b-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "nexusflow-starling-7b-q6_k.gguf",
+            "size": "5942078688",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fd7953383f66c39fe020c896662e0b7a8ee3c407f2936e1ff15106421ee20301",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/Nexusflow-Starling-7b-32k-GGUF/resolve/main/nexusflow-starling-7b-q6_k.gguf"
+            }
+        },
+        {
+            "name": "nexusflow-starling-7b-q8_0.gguf",
+            "size": "7695875168",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ba8d4d15f2aa7a398c4e0bc6a09eebbe0f355e53e42dd269f062941356f98eaa",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/Nexusflow-Starling-7b-32k-GGUF/resolve/main/nexusflow-starling-7b-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

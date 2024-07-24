@@ -1,0 +1,43 @@
+{
+    "id": "Nexesenex/MiquMaid-v2-70B-alpha-Requant-iMat.GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Nexesenex",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-07T14:33:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "MiquMaid-v2-70B-alpha-Requant-b2091-iMat-c32_ch200-IQ2_XXS.gguf",
+            "size": "18289473664",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "e5b41f02ed56a2f2a9e596df91a06f6d734171ffe974ee94f8644cf203db987f",
+            "download": {
+                "default": "https://huggingface.co/Nexesenex/MiquMaid-v2-70B-alpha-Requant-iMat.GGUF/resolve/main/MiquMaid-v2-70B-alpha-Requant-b2091-iMat-c32_ch200-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "MiquMaid-v2-70B-alpha-Requant-b2091-iMat-c32_ch200-Q3_K_M.gguf",
+            "size": "33274779264",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "b0477f9ed7bb5678f75f95c99f5caa543249b2db830bd48470f142dae7d95b67",
+            "download": {
+                "default": "https://huggingface.co/Nexesenex/MiquMaid-v2-70B-alpha-Requant-iMat.GGUF/resolve/main/MiquMaid-v2-70B-alpha-Requant-b2091-iMat-c32_ch200-Q3_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,113 @@
+{
+    "id": "vilm/Quyen-v0.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "vilm",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-06T14:29:07Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "quyen-v0.1_fp16.gguf",
+            "size": "7907723776",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5f5632ebe6e81663511e5e93efc60bdc15e3a6f0edd384cb9276e8db503f4f64",
+            "download": {
+                "default": "https://huggingface.co/vilm/Quyen-v0.1-GGUF/resolve/main/quyen-v0.1_fp16.gguf"
+            }
+        },
+        {
+            "name": "Quyen-v0.1_Q2_K.gguf",
+            "size": "1620632640",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "2c23ada49191dc3de87337311f6dc8cf64da37a2af8ee5631fabce63ae74cfa0",
+            "download": {
+                "default": "https://huggingface.co/vilm/Quyen-v0.1-GGUF/resolve/main/Quyen-v0.1_Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Quyen-v0.1_Q3_K_M.gguf",
+            "size": "2026850880",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "8b995e42ec1e726c514d4e6a966e9e0c41321e50e9615c304fa742a5fdf47853",
+            "download": {
+                "default": "https://huggingface.co/vilm/Quyen-v0.1-GGUF/resolve/main/Quyen-v0.1_Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Quyen-v0.1_Q4_0.gguf",
+            "size": "2330085440",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "032fb6e938186256c92fad282ebfc8fe511fb964c9bceba89d940a4db684f84d",
+            "download": {
+                "default": "https://huggingface.co/vilm/Quyen-v0.1-GGUF/resolve/main/Quyen-v0.1_Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Quyen-v0.1_Q4_K_M.gguf",
+            "size": "2455115840",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5ada819a55be59fe1bf4047851f373fe706c18bb3ec3c1117e1620649e87917a",
+            "download": {
+                "default": "https://huggingface.co/vilm/Quyen-v0.1-GGUF/resolve/main/Quyen-v0.1_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Quyen-v0.1_Q5_0.gguf",
+            "size": "2775197760",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "1329e8083d72d3f5d2cc3d957b8016f78bc5c00d19999e28450a97f6b42a68ce",
+            "download": {
+                "default": "https://huggingface.co/vilm/Quyen-v0.1-GGUF/resolve/main/Quyen-v0.1_Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Quyen-v0.1_Q5_K_M.gguf",
+            "size": "2839607360",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "184b2662bf640fe1340ff151369b6ae7ee6a8725ed785c108a4e1a4db6a68ead",
+            "download": {
+                "default": "https://huggingface.co/vilm/Quyen-v0.1-GGUF/resolve/main/Quyen-v0.1_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Quyen-v0.1_Q6_K.gguf",
+            "size": "3248129600",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "3fffa2b2c07c9f3454b5a3297dc083fef3a20ea476b714f0bba48c254378fd02",
+            "download": {
+                "default": "https://huggingface.co/vilm/Quyen-v0.1-GGUF/resolve/main/Quyen-v0.1_Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Quyen-v0.1_Q8_0.gguf",
+            "size": "4204735040",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "3b3acf7d1657c809285542bb1a5a80a0b54ac626f2d7f8a1eb4c61cf95dcea08",
+            "download": {
+                "default": "https://huggingface.co/vilm/Quyen-v0.1-GGUF/resolve/main/Quyen-v0.1_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

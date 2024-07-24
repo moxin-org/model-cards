@@ -1,0 +1,153 @@
+{
+    "id": "second-state/OpenHermes-2.5-Mistral-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-12T13:27:11Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "OpenHermes-2.5-Mistral-7B-Q2_K.gguf",
+            "size": "3083107456",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "1da951e44e203de32b023fbf88dd5f7f615bc348e950eaa80c589ec7e88a221a",
+            "download": {
+                "default": "https://huggingface.co/second-state/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/OpenHermes-2.5-Mistral-7B-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "OpenHermes-2.5-Mistral-7B-Q3_K_L.gguf",
+            "size": "3822034880",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "01f1ca6b4e0cc34137246fcd990fdd1b7b4cca3b479906111ce8b203a5e117a9",
+            "download": {
+                "default": "https://huggingface.co/second-state/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/OpenHermes-2.5-Mistral-7B-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "OpenHermes-2.5-Mistral-7B-Q3_K_M.gguf",
+            "size": "3518996416",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "c6a1780460ce1b45a26bd08b1828b3a80617ce54ce2dce83f173859d9295b03a",
+            "download": {
+                "default": "https://huggingface.co/second-state/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/OpenHermes-2.5-Mistral-7B-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "OpenHermes-2.5-Mistral-7B-Q3_K_S.gguf",
+            "size": "3164577728",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "5ce450e11697c2382e928690fd4e41dbd6c6bb231880e15a8e7361e3724aa34d",
+            "download": {
+                "default": "https://huggingface.co/second-state/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/OpenHermes-2.5-Mistral-7B-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "OpenHermes-2.5-Mistral-7B-Q4_0.gguf",
+            "size": "4108928000",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "ba89c11d2cd357de6e152fd1adc34b6d297ae9d54e56c5a3217f3a2e84502a0f",
+            "download": {
+                "default": "https://huggingface.co/second-state/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/OpenHermes-2.5-Mistral-7B-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "OpenHermes-2.5-Mistral-7B-Q4_K_M.gguf",
+            "size": "4368450560",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "14ddcc71f610e9f5894787dbcf062d85573b5fec76374ca4d0cd5170ddd13a06",
+            "download": {
+                "default": "https://huggingface.co/second-state/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/OpenHermes-2.5-Mistral-7B-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "OpenHermes-2.5-Mistral-7B-Q4_K_S.gguf",
+            "size": "4140385280",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "b2d4e760cef98a5da427ed97492c621a017a44dbeb516ccda0a61ac9ca02b172",
+            "download": {
+                "default": "https://huggingface.co/second-state/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/OpenHermes-2.5-Mistral-7B-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "OpenHermes-2.5-Mistral-7B-Q5_0.gguf",
+            "size": "4997728256",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "4ff085ef82dd968f030b10185510af4b02149bdefa9348068f4df8dddc62a03a",
+            "download": {
+                "default": "https://huggingface.co/second-state/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/OpenHermes-2.5-Mistral-7B-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "OpenHermes-2.5-Mistral-7B-Q5_K_M.gguf",
+            "size": "5131421696",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "76746d87d2c47ce32218fe05e4b20e5fa1849f3a33c743101309e48912581536",
+            "download": {
+                "default": "https://huggingface.co/second-state/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/OpenHermes-2.5-Mistral-7B-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "OpenHermes-2.5-Mistral-7B-Q5_K_S.gguf",
+            "size": "4997728256",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "c7cde90338800e579b0dd595ba52bae6dd1a41984ef82c955c39c107f1483f20",
+            "download": {
+                "default": "https://huggingface.co/second-state/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/OpenHermes-2.5-Mistral-7B-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "OpenHermes-2.5-Mistral-7B-Q6_K.gguf",
+            "size": "5942078528",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "f7315fc5ec561dff9d4d3f7428ee25597fc9e69a4a61e89dede8964b77f8ffca",
+            "download": {
+                "default": "https://huggingface.co/second-state/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/OpenHermes-2.5-Mistral-7B-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "OpenHermes-2.5-Mistral-7B-Q8_0.gguf",
+            "size": "7695875008",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "8ed9e13ddc8de2920625cad2208adcdf4811cf175630955384f6b971b954d97f",
+            "download": {
+                "default": "https://huggingface.co/second-state/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/OpenHermes-2.5-Mistral-7B-Q8_0.gguf"
+            }
+        },
+        {
+            "name": "openhermes-2.5-mistral-7b.Q5_K_M.gguf",
+            "size": "5131421440",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "61e9e801d9e60f61a4bf1cad3e29d975ab6866f027bcef51d1550f9cc7d2cca6",
+            "download": {
+                "default": "https://huggingface.co/second-state/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/openhermes-2.5-mistral-7b.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 4096,
+    "vector_size": 0,
+    "metrics": {}
+}

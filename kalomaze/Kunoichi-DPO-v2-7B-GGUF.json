@@ -1,0 +1,43 @@
+{
+    "id": "kalomaze/Kunoichi-DPO-v2-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "kalomaze",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-15T07:46:34Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Kunoichi-DPO-v2-7B-IQ2_XS.gguf",
+            "size": "2198255232",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "1534757069c3cc3b260f1876c3c6b614c878b0784e7fe83ca101ca36f8a53654",
+            "download": {
+                "default": "https://huggingface.co/kalomaze/Kunoichi-DPO-v2-7B-GGUF/resolve/main/Kunoichi-DPO-v2-7B-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Kunoichi-DPO-v2-7B-IQ2_XXS.gguf",
+            "size": "1991685760",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "c0a5c5edee3957e679ec31ba15cb15171b2726a1ec66af85a064854a9ea68698",
+            "download": {
+                "default": "https://huggingface.co/kalomaze/Kunoichi-DPO-v2-7B-GGUF/resolve/main/Kunoichi-DPO-v2-7B-IQ2_XXS.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,43 @@
+{
+    "id": "tu9jn/Goliath-120b_SOTA_GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "tu9jn",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-16T16:06:05Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "goliath_IQ2_XS.gguf",
+            "size": "34630872288",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "365491f5309cbe7ec91c0624770b983610a8208c7ae566cda33d1a2a9230458a",
+            "download": {
+                "default": "https://huggingface.co/tu9jn/Goliath-120b_SOTA_GGUF/resolve/main/goliath_IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "goliath_Q2_K.gguf",
+            "size": "43093093600",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "7a1c65658562f3f3eff94fb323cadfc2ec0af03f480f963078d96f6dad601054",
+            "download": {
+                "default": "https://huggingface.co/tu9jn/Goliath-120b_SOTA_GGUF/resolve/main/goliath_Q2_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

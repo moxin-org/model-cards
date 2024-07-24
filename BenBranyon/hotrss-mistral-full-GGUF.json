@@ -1,0 +1,43 @@
+{
+    "id": "BenBranyon/hotrss-mistral-full-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "BenBranyon",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-23T06:28:31Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "hotrss-mistral-full.q4_k_m.gguf",
+            "size": "4368439520",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ed409beaeeef9624bdbe8ab872df576aa70b3bfa45c4f0569c66d0183db98f50",
+            "download": {
+                "default": "https://huggingface.co/BenBranyon/hotrss-mistral-full-GGUF/resolve/main/hotrss-mistral-full.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "hotrss-mistral-full.q4_K_S.gguf",
+            "size": "4140374240",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9f68f214d1bb6c881b17eb3cdb0d29a8ac0cae5e0fe4493d4ef34d7495c00a21",
+            "download": {
+                "default": "https://huggingface.co/BenBranyon/hotrss-mistral-full-GGUF/resolve/main/hotrss-mistral-full.q4_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

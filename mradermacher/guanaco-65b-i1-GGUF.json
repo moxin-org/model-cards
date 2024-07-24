@@ -1,0 +1,193 @@
+{
+    "id": "mradermacher/guanaco-65b-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-02T17:51:49Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "guanaco-65B-HF.i1-IQ3_XXS.gguf",
+            "size": "25014498336",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "abcb625b1e8fbed28c145fd103a2e3868731515059465de254d00cd9434b9978",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/guanaco-65b-i1-GGUF/resolve/main/guanaco-65B-HF.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "guanaco-65B-HF.i1-Q5_K_S.gguf",
+            "size": "45233091616",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "df7295558170f53cac6c9dd8d9c36a5eec5dc627c830bdcc45a7e8f20be595f2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/guanaco-65b-i1-GGUF/resolve/main/guanaco-65B-HF.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "guanaco-65B-HF.i1-Q5_K_M.gguf",
+            "size": "46547743776",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "63c15bd441d319345d7cface45bfa2ebab14b7c64896d0ce352451ae99f673f1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/guanaco-65b-i1-GGUF/resolve/main/guanaco-65B-HF.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "guanaco-65B-HF.i1-Q4_K_S.gguf",
+            "size": "37364315168",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "d4ba6862759ee844b82c9f17a1a67058f5f6f90d01242c148c4b1aa7cedfc28f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/guanaco-65b-i1-GGUF/resolve/main/guanaco-65B-HF.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "guanaco-65B-HF.i1-Q4_K_M.gguf",
+            "size": "39657288736",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "353461058445457998dc3a21383bdca8503a47edba2f58ec24db2de0ae6cbed3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/guanaco-65b-i1-GGUF/resolve/main/guanaco-65B-HF.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "guanaco-65B-HF.i1-Q3_K_S.gguf",
+            "size": "28469556256",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "159b407eea7020a4d228c1b2676cfeb0925d98dba310863805e9ae7c2927d76b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/guanaco-65b-i1-GGUF/resolve/main/guanaco-65B-HF.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "guanaco-65B-HF.i1-Q3_K_M.gguf",
+            "size": "31941391392",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "aa25e946c3c5570e37f013818fbe0d514590853ef1f5652fa210cd0674920ef1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/guanaco-65b-i1-GGUF/resolve/main/guanaco-65B-HF.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "guanaco-65B-HF.i1-Q3_K_L.gguf",
+            "size": "34957620256",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "d148528bfda5ccf102534428ead40e5b6460914b622d20c4e5460365382c4520",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/guanaco-65b-i1-GGUF/resolve/main/guanaco-65B-HF.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "guanaco-65B-HF.i1-Q2_K.gguf",
+            "size": "24421643296",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "b38c4e05c0c0413cbc892b7ff92157521f9da4e61c5b16844c188a9e10981deb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/guanaco-65b-i1-GGUF/resolve/main/guanaco-65B-HF.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "guanaco-65B-HF.i1-IQ1_S.gguf",
+            "size": "14552904736",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "6ffe990031697407b475321ab0328a4f1d10f7a6fcf487813f7629353c9f4faf",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/guanaco-65b-i1-GGUF/resolve/main/guanaco-65B-HF.i1-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "guanaco-65B-HF.i1-IQ3_XS.gguf",
+            "size": "26951742496",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "d2f149a7efae7c6f675f09fcc5f76c60a985dee5d0658a33a6d8065c997ce68c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/guanaco-65b-i1-GGUF/resolve/main/guanaco-65B-HF.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "guanaco-65B-HF.i1-IQ3_S.gguf",
+            "size": "28469556256",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "1f89609a853e99a6864b4496b5609c0c5f00f9927fe835d68174198aaa0cd3e0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/guanaco-65b-i1-GGUF/resolve/main/guanaco-65B-HF.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "guanaco-65B-HF.i1-IQ3_M.gguf",
+            "size": "30135153696",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "c8f2bd07a72701c251e6a8da4eaa1f37b70c762c7ab8b00067fe3e9dd0343ab2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/guanaco-65b-i1-GGUF/resolve/main/guanaco-65B-HF.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "guanaco-65B-HF.i1-IQ2_XXS.gguf",
+            "size": "17816597536",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "8c3a557111d86e65c14cb94269a7bdadac0fc1867894c7301ce2839e1336de65",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/guanaco-65b-i1-GGUF/resolve/main/guanaco-65B-HF.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "guanaco-65B-HF.i1-IQ2_XS.gguf",
+            "size": "19616216096",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "ccf66a48125e2bec3ae579e7058bb8444115eb4826523ea93aa5f7d10723a751",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/guanaco-65b-i1-GGUF/resolve/main/guanaco-65B-HF.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "guanaco-65B-HF.i1-IQ2_S.gguf",
+            "size": "21126247456",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "e720d9d4b89d59e9d2fdfc4e5f93737278fe2d36e3d560a784cc3c596db3b913",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/guanaco-65b-i1-GGUF/resolve/main/guanaco-65B-HF.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "guanaco-65B-HF.i1-IQ2_M.gguf",
+            "size": "22758093856",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "d67a8d51d91d000451fb1823b8a75e301c5ab1cd0246487ddd1a092d89d76e06",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/guanaco-65b-i1-GGUF/resolve/main/guanaco-65B-HF.i1-IQ2_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

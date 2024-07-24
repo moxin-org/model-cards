@@ -1,0 +1,43 @@
+{
+    "id": "userzyzz/hermes-vision-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "userzyzz",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-03T19:24:00Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "hermes-vision-v2_Q5_KM.gguf",
+            "size": "5131421600",
+            "quantization": "Q5_KM",
+            "tags": [],
+            "sha256": "5afd1dae3f6276ba1c772c21fe42c4c4eaecd80e757967c161ba41def734a199",
+            "download": {
+                "default": "https://huggingface.co/userzyzz/hermes-vision-gguf/resolve/main/hermes-vision-v2_Q5_KM.gguf"
+            }
+        },
+        {
+            "name": "mmproj-hermes.gguf",
+            "size": "625482912",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6c2dab833c932b6e355c3771e311791ae8ec90d53834bbc01f8de8ce6a9d9fcd",
+            "download": {
+                "default": "https://huggingface.co/userzyzz/hermes-vision-gguf/resolve/main/mmproj-hermes.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,53 @@
+{
+    "id": "Nexesenex/Nous-Hermes-2-Llama-2-70B-iMat.GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Nexesenex",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-21T20:54:57Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Nous-Hermes-2-Llama-2-70B-b2223-iMat-c32_ch500-IQ1_S_v3.gguf",
+            "size": "14535554368",
+            "quantization": "Q1_S_v3",
+            "tags": [],
+            "sha256": "d28557ba11dfc74913e9892dfdbcb98e4d348e6cfb17581e08eddcf1850079e8",
+            "download": {
+                "default": "https://huggingface.co/Nexesenex/Nous-Hermes-2-Llama-2-70B-iMat.GGUF/resolve/main/Nous-Hermes-2-Llama-2-70B-b2223-iMat-c32_ch500-IQ1_S_v3.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Llama-2-70B-b2223-iMat-c32_ch500-IQ2_XS.gguf",
+            "size": "20334179648",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "a9f6d3aef774294ccdc88d6bcfefb96951281ced89842f9f6de9ed69729f0f01",
+            "download": {
+                "default": "https://huggingface.co/Nexesenex/Nous-Hermes-2-Llama-2-70B-iMat.GGUF/resolve/main/Nous-Hermes-2-Llama-2-70B-b2223-iMat-c32_ch500-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Llama-2-70B-b2223-iMat-c32_ch500-Q3_K_M.gguf",
+            "size": "33274758208",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "7573d2dcb72b394ca7fa149e223d5fef57f2f64f5fafa4fa6213f6be954cb1a0",
+            "download": {
+                "default": "https://huggingface.co/Nexesenex/Nous-Hermes-2-Llama-2-70B-iMat.GGUF/resolve/main/Nous-Hermes-2-Llama-2-70B-b2223-iMat-c32_ch500-Q3_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

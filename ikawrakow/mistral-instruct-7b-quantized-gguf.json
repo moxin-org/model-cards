@@ -1,0 +1,73 @@
+{
+    "id": "ikawrakow/mistral-instruct-7b-quantized-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "ikawrakow",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-08T09:31:41Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistral-instruct-7b-q3k-medium.gguf",
+            "size": "3519922752",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5564ed47dfd8b6b8d5ccaaa4d9ab5ce60928d2b42ee1b7f5fe16bdd3f31c7ac5",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/mistral-instruct-7b-quantized-gguf/resolve/main/mistral-instruct-7b-q3k-medium.gguf"
+            }
+        },
+        {
+            "name": "mistral-instruct-7b-q3k-small.gguf",
+            "size": "3165504064",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c92e1bae3236dcb1397094f4a8ef1191e953b6b121bbb344de550a7d28aab11c",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/mistral-instruct-7b-quantized-gguf/resolve/main/mistral-instruct-7b-q3k-small.gguf"
+            }
+        },
+        {
+            "name": "mistral-instruct-7b-q40.gguf",
+            "size": "4109853248",
+            "quantization": "",
+            "tags": [],
+            "sha256": "47ed10e9dcfeb8133ba6ed0243a2a95422c7344d40f888b4068ba3a576822e54",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/mistral-instruct-7b-quantized-gguf/resolve/main/mistral-instruct-7b-q40.gguf"
+            }
+        },
+        {
+            "name": "mistral-instruct-7b-q4k-small.gguf",
+            "size": "4155990592",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b36923a2a2818703c3a20a85cc1d9d5e114daf46c1c1ede95666639336e834e1",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/mistral-instruct-7b-quantized-gguf/resolve/main/mistral-instruct-7b-q4k-small.gguf"
+            }
+        },
+        {
+            "name": "mistral-instruct-7b-q5k-small.gguf",
+            "size": "4998652480",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dae366cb3859cc9485399f5c01a28b98b3c369f4807be6535c484ae0545261ce",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/mistral-instruct-7b-quantized-gguf/resolve/main/mistral-instruct-7b-q5k-small.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

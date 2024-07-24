@@ -1,0 +1,153 @@
+{
+    "id": "fhai50032/BeagleLake-7B-Toxic-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "fhai50032",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-09T17:59:35Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "beaglelake-7b-toxic.Q4_K_M.gguf",
+            "size": "4368439264",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "8681ff0a53d8e28ca71094efe55d729a7b0593eea840e6506c7ca6d525233051",
+            "download": {
+                "default": "https://huggingface.co/fhai50032/BeagleLake-7B-Toxic-GGUF/resolve/main/beaglelake-7b-toxic.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "beaglelake-7b-toxic.Q5_K_M.gguf",
+            "size": "5131409376",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ce1570fc0083553ccf9890cf4a3870cc597d345809dfabaf1e80142689accda0",
+            "download": {
+                "default": "https://huggingface.co/fhai50032/BeagleLake-7B-Toxic-GGUF/resolve/main/beaglelake-7b-toxic.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "beaglelake-7b-toxic.Q8_0.gguf",
+            "size": "7695857632",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "3c1c43375d7daa89a5be32f7b6e15925b12a900e900014b98721b7f6857db4e8",
+            "download": {
+                "default": "https://huggingface.co/fhai50032/BeagleLake-7B-Toxic-GGUF/resolve/main/beaglelake-7b-toxic.Q8_0.gguf"
+            }
+        },
+        {
+            "name": "llama.cpp/models/ggml-vocab-aquila.gguf",
+            "size": "4825676",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7c53c3c516ac67c7ca12977b9690fdea3d2ef13bbaed6378f98191a13ef5ca00",
+            "download": {
+                "default": "https://huggingface.co/fhai50032/BeagleLake-7B-Toxic-GGUF/resolve/main/llama.cpp/models/ggml-vocab-aquila.gguf"
+            }
+        },
+        {
+            "name": "llama.cpp/models/ggml-vocab-baichuan.gguf",
+            "size": "1340998",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4f5b955697f3bd3108070b1d5936c7eb9fc542b81c6932e59abddec75bca1963",
+            "download": {
+                "default": "https://huggingface.co/fhai50032/BeagleLake-7B-Toxic-GGUF/resolve/main/llama.cpp/models/ggml-vocab-baichuan.gguf"
+            }
+        },
+        {
+            "name": "llama.cpp/models/ggml-vocab-falcon.gguf",
+            "size": "2547782",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ffbc7c119de7e9aab8f4257d617e3fa55f942a9f9ca84139ef3f5b1ca53836a8",
+            "download": {
+                "default": "https://huggingface.co/fhai50032/BeagleLake-7B-Toxic-GGUF/resolve/main/llama.cpp/models/ggml-vocab-falcon.gguf"
+            }
+        },
+        {
+            "name": "llama.cpp/models/ggml-vocab-gpt-neox.gguf",
+            "size": "1771431",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ae593a7f9b8bb174ed4f5019e41530463e4dac7aa06e42dee8aa650d2bdac53d",
+            "download": {
+                "default": "https://huggingface.co/fhai50032/BeagleLake-7B-Toxic-GGUF/resolve/main/llama.cpp/models/ggml-vocab-gpt-neox.gguf"
+            }
+        },
+        {
+            "name": "llama.cpp/models/ggml-vocab-gpt2.gguf",
+            "size": "1766799",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1b5f3ac19af1423adba1650d0e4a9d0a43d8bc6f9b6f48e0711b9793900eb19e",
+            "download": {
+                "default": "https://huggingface.co/fhai50032/BeagleLake-7B-Toxic-GGUF/resolve/main/llama.cpp/models/ggml-vocab-gpt2.gguf"
+            }
+        },
+        {
+            "name": "llama.cpp/models/ggml-vocab-llama.gguf",
+            "size": "",
+            "quantization": "",
+            "tags": [],
+            "sha256": "",
+            "download": {
+                "default": "https://huggingface.co/fhai50032/BeagleLake-7B-Toxic-GGUF/resolve/main/llama.cpp/models/ggml-vocab-llama.gguf"
+            }
+        },
+        {
+            "name": "llama.cpp/models/ggml-vocab-mpt.gguf",
+            "size": "1771406",
+            "quantization": "",
+            "tags": [],
+            "sha256": "55c7df0d0443a24260ac6f8d3710f224fa38137cfaec6693413b913194d47cc5",
+            "download": {
+                "default": "https://huggingface.co/fhai50032/BeagleLake-7B-Toxic-GGUF/resolve/main/llama.cpp/models/ggml-vocab-mpt.gguf"
+            }
+        },
+        {
+            "name": "llama.cpp/models/ggml-vocab-refact.gguf",
+            "size": "1720666",
+            "quantization": "",
+            "tags": [],
+            "sha256": "38ffb84a4c1aba7dc7f84358827e252874edeb80050bb0358e2b34fca09741d3",
+            "download": {
+                "default": "https://huggingface.co/fhai50032/BeagleLake-7B-Toxic-GGUF/resolve/main/llama.cpp/models/ggml-vocab-refact.gguf"
+            }
+        },
+        {
+            "name": "llama.cpp/models/ggml-vocab-stablelm-3b-4e1t.gguf",
+            "size": "1768581",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8d9bc7a5570cf02a9d9347afa2a5d3847a9a96e88309b9b41c929b871021a6dd",
+            "download": {
+                "default": "https://huggingface.co/fhai50032/BeagleLake-7B-Toxic-GGUF/resolve/main/llama.cpp/models/ggml-vocab-stablelm-3b-4e1t.gguf"
+            }
+        },
+        {
+            "name": "llama.cpp/models/ggml-vocab-starcoder.gguf",
+            "size": "1719281",
+            "quantization": "",
+            "tags": [],
+            "sha256": "621db3ccdfcc3e5ed687fbba6dec9c6b29cec9f3c48172435a704f6321689b66",
+            "download": {
+                "default": "https://huggingface.co/fhai50032/BeagleLake-7B-Toxic-GGUF/resolve/main/llama.cpp/models/ggml-vocab-starcoder.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

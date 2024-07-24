@@ -1,0 +1,93 @@
+{
+    "id": "jeiku/NewJeans_3B_GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "jeiku",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-27T06:20:56Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "NewJeans_3B-f16.gguf",
+            "size": "5593341696",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c0c71fefa0f1b36af401e9435885028e330bdb3281e6f8a98988391c4c6a6de9",
+            "download": {
+                "default": "https://huggingface.co/jeiku/NewJeans_3B_GGUF/resolve/main/NewJeans_3B-f16.gguf"
+            }
+        },
+        {
+            "name": "NewJeans_3B-Q2_K.gguf",
+            "size": "1083755840",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "0f7004f26a5e09fb202b93522145893a9fe380c3170688e234847ab103a96fd2",
+            "download": {
+                "default": "https://huggingface.co/jeiku/NewJeans_3B_GGUF/resolve/main/NewJeans_3B-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "NewJeans_3B-Q3_K.gguf",
+            "size": "1391419200",
+            "quantization": "Q3_K",
+            "tags": [],
+            "sha256": "b2d14df3b48afb5d72463df04075db4480b15eea22c8330f8a08ff09301c7069",
+            "download": {
+                "default": "https://huggingface.co/jeiku/NewJeans_3B_GGUF/resolve/main/NewJeans_3B-Q3_K.gguf"
+            }
+        },
+        {
+            "name": "NewJeans_3B-Q4_K_S.gguf",
+            "size": "1620695360",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "2850cd6f3a45f1d7322e9108c69de7d9ca794d6f2d2c4f75baacdb1e70e368dd",
+            "download": {
+                "default": "https://huggingface.co/jeiku/NewJeans_3B_GGUF/resolve/main/NewJeans_3B-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "NewJeans_3B-Q4_K.gguf",
+            "size": "1708595520",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "bb641557a9429ef81bfdb448fc853506e39d2d2c6e76e5c7447a3bd7a675c538",
+            "download": {
+                "default": "https://huggingface.co/jeiku/NewJeans_3B_GGUF/resolve/main/NewJeans_3B-Q4_K.gguf"
+            }
+        },
+        {
+            "name": "NewJeans_3B-Q5_K.gguf",
+            "size": "1993390400",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "91eaf2e5347bae86135eeba91715e9d700360150575f6093a6ead53197488faf",
+            "download": {
+                "default": "https://huggingface.co/jeiku/NewJeans_3B_GGUF/resolve/main/NewJeans_3B-Q5_K.gguf"
+            }
+        },
+        {
+            "name": "NewJeans_3B-Q6_K.gguf",
+            "size": "2295984960",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "e09c8af8d12d2960e004352d543a2345832d5be61ff601902a98132c7430ef70",
+            "download": {
+                "default": "https://huggingface.co/jeiku/NewJeans_3B_GGUF/resolve/main/NewJeans_3B-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

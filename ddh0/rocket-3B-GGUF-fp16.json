@@ -1,0 +1,43 @@
+{
+    "id": "ddh0/rocket-3B-GGUF-fp16",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "ddh0",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-22T22:34:54Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "rocket-3B-fp16.gguf",
+            "size": "5593341312",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d5aad32446f4859639654f4505a9a04f11f2ecbbeef5786a861078abcb9d8415",
+            "download": {
+                "default": "https://huggingface.co/ddh0/rocket-3B-GGUF-fp16/resolve/main/rocket-3B-fp16.gguf"
+            }
+        },
+        {
+            "name": "rocket-3B-q8_0-LOT.gguf",
+            "size": "3093654976",
+            "quantization": "",
+            "tags": [],
+            "sha256": "80a4a9b7cedc2afa4977490854bf68b29dc9ca9fef4660ad4199cb23e1fb3f2b",
+            "download": {
+                "default": "https://huggingface.co/ddh0/rocket-3B-GGUF-fp16/resolve/main/rocket-3B-q8_0-LOT.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

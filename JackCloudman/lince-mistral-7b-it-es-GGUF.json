@@ -1,0 +1,53 @@
+{
+    "id": "JackCloudman/lince-mistral-7b-it-es-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "JackCloudman",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-27T07:55:11Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "clibrain-lince-mistral-7b-it-Q4_K_M.gguf",
+            "size": "4368438944",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e519772ba78909cfcefb6c9aa0434cd8090f1123d1a7dd8fe26453b7383b2803",
+            "download": {
+                "default": "https://huggingface.co/JackCloudman/lince-mistral-7b-it-es-GGUF/resolve/main/clibrain-lince-mistral-7b-it-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "clibrain-lince-mistral-7b-it-Q5_K_S.gguf",
+            "size": "4997715616",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "55e6d6da76e8b19405df2514c94f5742878a10c0ea47bf0ade0a9bd9c7ab29ef",
+            "download": {
+                "default": "https://huggingface.co/JackCloudman/lince-mistral-7b-it-es-GGUF/resolve/main/clibrain-lince-mistral-7b-it-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "clibrain-lince-mistral-7b-it-Q6_K.gguf",
+            "size": "5942064800",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "22372f2b843d6d8c707178c681310f226866b9e182c62f1553909f26ca2bd480",
+            "download": {
+                "default": "https://huggingface.co/JackCloudman/lince-mistral-7b-it-es-GGUF/resolve/main/clibrain-lince-mistral-7b-it-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

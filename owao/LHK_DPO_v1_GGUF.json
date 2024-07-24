@@ -1,0 +1,103 @@
+{
+    "id": "owao/LHK_DPO_v1_GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "owao",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-28T20:19:19Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "LHK_DPO_v1_Q3_K_L.gguf",
+            "size": "6729209760",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "81be98bf0f6ace4cd540e5e883158a1ebdf8b8cee9e46a6be9c05075f3d2eafe",
+            "download": {
+                "default": "https://huggingface.co/owao/LHK_DPO_v1_GGUF/resolve/main/LHK_DPO_v1_Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "LHK_DPO_v1_Q3_K_M.gguf",
+            "size": "6205970336",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "b570e5a23060e18c0c486b75d0af0b83483ed206d25a7b97e84e1a911a730adb",
+            "download": {
+                "default": "https://huggingface.co/owao/LHK_DPO_v1_GGUF/resolve/main/LHK_DPO_v1_Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "LHK_DPO_v1_Q4_K_M.gguf",
+            "size": "7782086560",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c37c2b93eef7ee533bfd91a0cb52d7b83bc1f731a22d1428526953e0fcf77962",
+            "download": {
+                "default": "https://huggingface.co/owao/LHK_DPO_v1_GGUF/resolve/main/LHK_DPO_v1_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "LHK_DPO_v1_Q4_K_S.gguf",
+            "size": "7341160352",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "8fee4dbbbba6b24344d29a88254bfc3434a1aee64958ddea9737fa9af6c1036b",
+            "download": {
+                "default": "https://huggingface.co/owao/LHK_DPO_v1_GGUF/resolve/main/LHK_DPO_v1_Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "LHK_DPO_v1_Q5_K_M.gguf",
+            "size": "9132259232",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "9cfa7c88950ce74b094fe63676305119d5b617ae546f3cd7163a0b91ef4fc4e1",
+            "download": {
+                "default": "https://huggingface.co/owao/LHK_DPO_v1_GGUF/resolve/main/LHK_DPO_v1_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "LHK_DPO_v1_Q5_K_S.gguf",
+            "size": "8873785248",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "2bc3270dd9400bad73a6c496a9978e4dbde3c0234548c1a60b0a61f7671d3568",
+            "download": {
+                "default": "https://huggingface.co/owao/LHK_DPO_v1_GGUF/resolve/main/LHK_DPO_v1_Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "LHK_DPO_v1_Q6_K.gguf",
+            "size": "10566817696",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "191b694772ebf922618b01063491f2e8b3243f379b1d1a61b56a588c40e7c916",
+            "download": {
+                "default": "https://huggingface.co/owao/LHK_DPO_v1_GGUF/resolve/main/LHK_DPO_v1_Q6_K.gguf"
+            }
+        },
+        {
+            "name": "LHK_DPO_v1_Q8_0.gguf",
+            "size": "13685856160",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "5c56a688dbec2c344a796c42cfa20fbb3b9e82bd078c7edffef7392f486c8c3a",
+            "download": {
+                "default": "https://huggingface.co/owao/LHK_DPO_v1_GGUF/resolve/main/LHK_DPO_v1_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

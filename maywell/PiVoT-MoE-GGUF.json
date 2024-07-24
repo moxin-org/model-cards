@@ -1,0 +1,63 @@
+{
+    "id": "maywell/PiVoT-MoE-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "maywell",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-16T21:50:33Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "PiVoT-MoE-q3_k_m.gguf",
+            "size": "15701794048",
+            "quantization": "",
+            "tags": [],
+            "sha256": "92fa3c371cf82378c55767ee37e3d391320cf5515dd129e5ed0a8f08a06815db",
+            "download": {
+                "default": "https://huggingface.co/maywell/PiVoT-MoE-GGUF/resolve/main/PiVoT-MoE-q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "PiVoT-MoE-q4_0.gguf",
+            "size": "20343946496",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ce6e5005397eaf4d1367623b7646d4e16d91164bd930df6db6c85765e1b4484e",
+            "download": {
+                "default": "https://huggingface.co/maywell/PiVoT-MoE-GGUF/resolve/main/PiVoT-MoE-q4_0.gguf"
+            }
+        },
+        {
+            "name": "PiVoT-MoE-q4_k_m.gguf",
+            "size": "20369898752",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0e703456150e8388d512e472d37b837b4edb8965858842ed50931ebf21ffdfde",
+            "download": {
+                "default": "https://huggingface.co/maywell/PiVoT-MoE-GGUF/resolve/main/PiVoT-MoE-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "PiVoT-MoE-q6_k.gguf",
+            "size": "29616741632",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f8919144665a6d310182aff5559c7b5d983e5247a971712f6bc35e06fc14784b",
+            "download": {
+                "default": "https://huggingface.co/maywell/PiVoT-MoE-GGUF/resolve/main/PiVoT-MoE-q6_k.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

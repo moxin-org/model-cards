@@ -1,0 +1,143 @@
+{
+    "id": "second-state/Gemma-2b-it-GGUF",
+    "status": "published",
+    "model_type": "instruct",
+    "name": "Gemma-2b-it-GGUF",
+    "summary": "Gemma is a family of lightweight, state-of-the-art open models from Google, built from the same research and technology used to create the Gemini models. They are text-to-text, decoder-only large language models, available in English, with open weights, pre-trained variants, and instruction-tuned variants. Gemma models are well-suited for a variety of text generation tasks, including question answering, summarization, and reasoning. Their relatively small size makes it possible to deploy them in environments with limited resources such as a laptop, desktop or your own cloud infrastructure, democratizing access to state of the art AI models and helping foster innovation for everyone.",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "2B",
+    "requires": "8GB+ RAM",
+    "released_at": "2024-02-22T07:40:54Z",
+    "architecture": "gemma",
+    "files": [
+        {
+            "name": "gemma-2b-it-Q2_K.gguf",
+            "size": "899876576",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "5da5b09366c874152e9534dff67b216caca309a0161ae8cb8d67e081fbac5188",
+            "download": {
+                "default": "https://huggingface.co/second-state/Gemma-2b-it-GGUF/resolve/main/gemma-2b-it-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-it-Q3_K_L.gguf",
+            "size": "1260791520",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "e9982545dca5b9635c54117d7c94fd321bceaf2a976e4e37f586078b01d9cf85",
+            "download": {
+                "default": "https://huggingface.co/second-state/Gemma-2b-it-GGUF/resolve/main/gemma-2b-it-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-it-Q3_K_M.gguf",
+            "size": "1179002592",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "1aaf1e97ddc18ff2ac57fd4f2d473d6f056037e6b2d342e11bb29d5b01a9c17b",
+            "download": {
+                "default": "https://huggingface.co/second-state/Gemma-2b-it-GGUF/resolve/main/gemma-2b-it-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-it-Q3_K_S.gguf",
+            "size": "1083180768",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "b2791a9951aa0754c8bfe3d25dd9f8c74a9fdb79d41b9471c98409c4b49baf30",
+            "download": {
+                "default": "https://huggingface.co/second-state/Gemma-2b-it-GGUF/resolve/main/gemma-2b-it-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-it-Q4_0.gguf",
+            "size": "1416021728",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "4bd85c44737a479629143258eb4db6b69e9f514170fa005aae84ca23f258a94b",
+            "download": {
+                "default": "https://huggingface.co/second-state/Gemma-2b-it-GGUF/resolve/main/gemma-2b-it-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-it-Q4_K_M.gguf",
+            "size": "1495095008",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4d736aa91fa06bb4d72a9e9017ad4e5c6a8fc16fb01b748c9b8332293c855402",
+            "download": {
+                "default": "https://huggingface.co/second-state/Gemma-2b-it-GGUF/resolve/main/gemma-2b-it-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-it-Q4_K_S.gguf",
+            "size": "1424672480",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "8d58f956b21c7d14b044618492091dfbec0327fe5b466beac41c44bacccd1d4c",
+            "download": {
+                "default": "https://huggingface.co/second-state/Gemma-2b-it-GGUF/resolve/main/gemma-2b-it-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-it-Q5_0.gguf",
+            "size": "1729283808",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "3436d24d3bd052ab101c1defbca7d6507dcd02b85288b0478b4b17b2da87c218",
+            "download": {
+                "default": "https://huggingface.co/second-state/Gemma-2b-it-GGUF/resolve/main/gemma-2b-it-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-it-Q5_K_M.gguf",
+            "size": "1770018528",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e4774942dd004164457d089e49ccaa3d6d0bb89e4ac08e5db9c4f375c1f6b64d",
+            "download": {
+                "default": "https://huggingface.co/second-state/Gemma-2b-it-GGUF/resolve/main/gemma-2b-it-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-it-Q5_K_S.gguf",
+            "size": "1729283808",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "3f7ecb8c626014d42f797db5faea93b972aab4b2e55d45fdbe6ee9198a713784",
+            "download": {
+                "default": "https://huggingface.co/second-state/Gemma-2b-it-GGUF/resolve/main/gemma-2b-it-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-it-Q6_K.gguf",
+            "size": "2062124768",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "efc91a84b5c94dc469bd3afad328e886388c49a5bd2e5ae9f8c619e50f59f186",
+            "download": {
+                "default": "https://huggingface.co/second-state/Gemma-2b-it-GGUF/resolve/main/gemma-2b-it-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-it-Q8_0.gguf",
+            "size": "2669070048",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "21fd5daaae2382397fecc67b312d40a1c699cc61200e28e806591302ba6e3040",
+            "download": {
+                "default": "https://huggingface.co/second-state/Gemma-2b-it-GGUF/resolve/main/gemma-2b-it-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "gemma-instruct",
+    "reverse_prompt": "",
+    "context_size": 2048,
+    "vector_size": 0,
+    "metrics": {}
+}

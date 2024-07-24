@@ -1,0 +1,73 @@
+{
+    "id": "TheBloke/SauerkrautLM-3B-v1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-14T21:01:32Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "sauerkrautlm-3b-v1.Q4_0.gguf",
+            "size": "1979924160",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "e8fcaed1d178fa785367e9994346ccd40f9aa79e5218452874e49672cc2d2431",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/SauerkrautLM-3B-v1-GGUF/resolve/main/sauerkrautlm-3b-v1.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "sauerkrautlm-3b-v1.Q4_1.gguf",
+            "size": "2187668160",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "c6e96107112e66438ed5e69f13696759d0b6c023306fa11499f08449936dfe30",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/SauerkrautLM-3B-v1-GGUF/resolve/main/sauerkrautlm-3b-v1.Q4_1.gguf"
+            }
+        },
+        {
+            "name": "sauerkrautlm-3b-v1.Q5_0.gguf",
+            "size": "2395412160",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "43bbe89c64e55d490d9a858246002651374fb96a30be0b770fb8b71e366d0604",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/SauerkrautLM-3B-v1-GGUF/resolve/main/sauerkrautlm-3b-v1.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "sauerkrautlm-3b-v1.Q5_1.gguf",
+            "size": "2603156160",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "9100d644df569e884ab0d5adcb97bc2c20d11260442bfd80c9f887266672262f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/SauerkrautLM-3B-v1-GGUF/resolve/main/sauerkrautlm-3b-v1.Q5_1.gguf"
+            }
+        },
+        {
+            "name": "sauerkrautlm-3b-v1.Q8_0.gguf",
+            "size": "3641876160",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "eb118e3b3a0f7f6f9e3167b2ed7f4b43bd05dae27b514b3e8efd118e93f848c3",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/SauerkrautLM-3B-v1-GGUF/resolve/main/sauerkrautlm-3b-v1.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

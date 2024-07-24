@@ -1,0 +1,63 @@
+{
+    "id": "janhq/vistral-7b-chat-dpo-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "janhq",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-14T09:32:44Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "vistral-7b-chat-dpo.Q3_K_M.gguf",
+            "size": "3552858144",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "f47ff1b3f835cdcb25b6c0f4edf1c3ebad658486aa35d1d90340335f6b92c7bb",
+            "download": {
+                "default": "https://huggingface.co/janhq/vistral-7b-chat-dpo-GGUF/resolve/main/vistral-7b-chat-dpo.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "vistral-7b-chat-dpo.Q4_K_M.gguf",
+            "size": "4405775936",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "1fffa66372b6d190d254bff3d4b292e81fb3c4ee3460aae00c3c4bac4da0647d",
+            "download": {
+                "default": "https://huggingface.co/janhq/vistral-7b-chat-dpo-GGUF/resolve/main/vistral-7b-chat-dpo.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "vistral-7b-chat-dpo.Q5_K_M.gguf",
+            "size": "5172006976",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "8aa714811ddc36ea012f4bb858a072852094957f5b9253fb3b24cafa63754996",
+            "download": {
+                "default": "https://huggingface.co/janhq/vistral-7b-chat-dpo-GGUF/resolve/main/vistral-7b-chat-dpo.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "vistral-7b-chat-dpo.Q8_0.gguf",
+            "size": "7752556064",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "3288c35b3c04c0e3a3ee2e598d617bd57cf10a606bec7fcff11fa9eefcd95da0",
+            "download": {
+                "default": "https://huggingface.co/janhq/vistral-7b-chat-dpo-GGUF/resolve/main/vistral-7b-chat-dpo.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

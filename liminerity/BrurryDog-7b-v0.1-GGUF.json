@@ -1,0 +1,43 @@
+{
+    "id": "liminerity/BrurryDog-7b-v0.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "liminerity",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-20T01:41:30Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "brurrydog-7b-v0.1.Q4_K_M.gguf",
+            "size": "4368438944",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "93a3254f554a219962aa3888ab289d9736dfc51f306c17625b1843f169fdbfaa",
+            "download": {
+                "default": "https://huggingface.co/liminerity/BrurryDog-7b-v0.1-GGUF/resolve/main/brurrydog-7b-v0.1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "brurrydog-7b-v0.1.Q5_K_M.gguf",
+            "size": "5131409056",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "926074a8602d7d434fd6b5ee3a124be6cde09f32fdf2b4fdb75b23e42c6f8563",
+            "download": {
+                "default": "https://huggingface.co/liminerity/BrurryDog-7b-v0.1-GGUF/resolve/main/brurrydog-7b-v0.1.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

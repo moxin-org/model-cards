@@ -1,0 +1,43 @@
+{
+    "id": "Mollel/swahili-Instruct-llama-2-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Mollel",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-03T19:24:18Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "swahili-instruct-llama-2-7b.Q4_K_M.gguf",
+            "size": "4178007648",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "3e587fdf3ac7f951e834aa3005da2686835a1d7a3ef2da536db51583dea1214c",
+            "download": {
+                "default": "https://huggingface.co/Mollel/swahili-Instruct-llama-2-7b-GGUF/resolve/main/swahili-instruct-llama-2-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "swahili-instruct-llama-2-7b.Q5_K_M.gguf",
+            "size": "4888891488",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "617e6c616684e0822410b12ecdeb0fce420a7f92bd57e78193a461fffe6fb4e2",
+            "download": {
+                "default": "https://huggingface.co/Mollel/swahili-Instruct-llama-2-7b-GGUF/resolve/main/swahili-instruct-llama-2-7b.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

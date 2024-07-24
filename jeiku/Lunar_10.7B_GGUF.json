@@ -1,0 +1,83 @@
+{
+    "id": "jeiku/Lunar_10.7B_GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "jeiku",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-19T05:18:47Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-IQ3_XXS.gguf",
+            "size": "4265162816",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "afe81fd7bf3886647e0238f6f01b8c6fb22add185722ca379e5de5b04062a3e1",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Lunar_10.7B_GGUF/resolve/main/ggml-model-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q2_K.gguf",
+            "size": "4003231808",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "4d81865ae2b853d135adb2bf0aaf9d613f99a3fcbb7d8cd8b77448adb294b732",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Lunar_10.7B_GGUF/resolve/main/ggml-model-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q3_K.gguf",
+            "size": "5195667520",
+            "quantization": "Q3_K",
+            "tags": [],
+            "sha256": "b0e6426c8b70ebaf3120e15b4c112e1a33a91bdd6840b04d7eaba4d30344a6b7",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Lunar_10.7B_GGUF/resolve/main/ggml-model-Q3_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q4_K.gguf",
+            "size": "6461667392",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "c3c733db9a928f0c5fafc13b126dca86fa3ae48b173d53e6e0e38368dfdab073",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Lunar_10.7B_GGUF/resolve/main/ggml-model-Q4_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q5_K.gguf",
+            "size": "7597930560",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "d7d6b7f5f97628fa8359dd170416cd5132d72f3e70727bd7cf12644171ab9468",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Lunar_10.7B_GGUF/resolve/main/ggml-model-Q5_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q6_K.gguf",
+            "size": "8805210176",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "5e5e7c074485bdf6cbaf0edceedf61d8b6f6e22d4e3834a2178801667eaed940",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Lunar_10.7B_GGUF/resolve/main/ggml-model-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

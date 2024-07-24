@@ -1,0 +1,123 @@
+{
+    "id": "LoneStriker/CodeMate-v0.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LoneStriker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-29T01:17:57Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "CodeMate-v0.1-Q2_K.gguf",
+            "size": "12505690368",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "44fcd6c1522fa9f4c0b7b3dac1be21984368b368c0a58c89a4d7ee388d4b6517",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/CodeMate-v0.1-GGUF/resolve/main/CodeMate-v0.1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "CodeMate-v0.1-Q3_K_L.gguf",
+            "size": "17771524352",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "fe5a74c97ed28e83e2a9682f40854634e6e7be4512958a7e64f858de09055ce0",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/CodeMate-v0.1-GGUF/resolve/main/CodeMate-v0.1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "CodeMate-v0.1-Q3_K_M.gguf",
+            "size": "16306139392",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "26ee1f7f0dd6cc82f34e8239db7d56059e400c7e78b08f7cd80ee91d28512db4",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/CodeMate-v0.1-GGUF/resolve/main/CodeMate-v0.1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "CodeMate-v0.1-Q3_K_S.gguf",
+            "size": "14605349120",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "f04ed9ab5cf57fd05519a67ca7ff9f45cceeb7af1b706679f785d558f54b2da2",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/CodeMate-v0.1-GGUF/resolve/main/CodeMate-v0.1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "CodeMate-v0.1-Q4_K_M.gguf",
+            "size": "20219900160",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "421d6ea43b8027be7a34303384b54f40028f01a686b8301e5be3c74bc30da7d4",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/CodeMate-v0.1-GGUF/resolve/main/CodeMate-v0.1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "CodeMate-v0.1-Q4_K_S.gguf",
+            "size": "19191509248",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "7eca52072b86134e9cbf132437a13cff27cb03f9cc468b65f1a8d9bc22f4ad46",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/CodeMate-v0.1-GGUF/resolve/main/CodeMate-v0.1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "CodeMate-v0.1-Q5_K_M.gguf",
+            "size": "23838798080",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "27e7adc5f7f9b4821eb4befa2763ef2f113135c474e44ea1b0f1ab1a25234b1d",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/CodeMate-v0.1-GGUF/resolve/main/CodeMate-v0.1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "CodeMate-v0.1-Q5_K_S.gguf",
+            "size": "23237177600",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "f3d415951fa78d34938498886de284d8e32f3b604beabff5949c63685cccb3e0",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/CodeMate-v0.1-GGUF/resolve/main/CodeMate-v0.1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "CodeMate-v0.1-Q6_K.gguf",
+            "size": "27683877120",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "59aa46b5223d2d0f6b0d98ea9c6b4a5b1ad6862d1905cfb2c29f0fbe61a9e4f7",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/CodeMate-v0.1-GGUF/resolve/main/CodeMate-v0.1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "CodeMate-v0.1-Q8_0.gguf",
+            "size": "35856052480",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "fe92d02ee1243427c4a3ba1fb11da592d7dcf36394e07a056875f4bf22106628",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/CodeMate-v0.1-GGUF/resolve/main/CodeMate-v0.1-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

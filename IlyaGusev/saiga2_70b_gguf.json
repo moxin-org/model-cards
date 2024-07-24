@@ -1,0 +1,43 @@
+{
+    "id": "IlyaGusev/saiga2_70b_gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "IlyaGusev",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-04T19:31:40Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-q2_K.gguf",
+            "size": "29279253408",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5e7d244b5cd7633041bcb2bfdae2a6a0ed0392fc317eca48dc3a007055f69f10",
+            "download": {
+                "default": "https://huggingface.co/IlyaGusev/saiga2_70b_gguf/resolve/main/ggml-model-q2_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_1.gguf",
+            "size": "43166823328",
+            "quantization": "",
+            "tags": [],
+            "sha256": "80b4a893292ec33aeeadeef15ba5c66975ab79778c2d33bce3d576c95983d0c2",
+            "download": {
+                "default": "https://huggingface.co/IlyaGusev/saiga2_70b_gguf/resolve/main/ggml-model-q4_1.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

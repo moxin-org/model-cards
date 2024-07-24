@@ -1,0 +1,63 @@
+{
+    "id": "nold/34b-beta-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "nold",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-17T18:39:28Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "34b-beta_Q4_K_M.gguf",
+            "size": "20658710784",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "dc11a5d711785af05871c338f355fc2c65db9727ac0ba992b43bb9e3bce2e32c",
+            "download": {
+                "default": "https://huggingface.co/nold/34b-beta-GGUF/resolve/main/34b-beta_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "34b-beta_Q5_K_M.gguf",
+            "size": "24321845504",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "871406cc8cf7bcd24eb2ecf55ca7e3a10e9c2afafc07822591d4d5006b909990",
+            "download": {
+                "default": "https://huggingface.co/nold/34b-beta-GGUF/resolve/main/34b-beta_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "34b-beta_Q6_K.gguf",
+            "size": "28213926144",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "0412bbac6ef05b4647a0f9a87ce63b3e2e27e7aa843ae112aa2eb15b114da9a2",
+            "download": {
+                "default": "https://huggingface.co/nold/34b-beta-GGUF/resolve/main/34b-beta_Q6_K.gguf"
+            }
+        },
+        {
+            "name": "34b-beta_Q8_0.gguf",
+            "size": "36542281984",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "984547b9ddd10be6c95b2ecf85c6ca3fa2716216b18f5b2f62ba293d0018a98c",
+            "download": {
+                "default": "https://huggingface.co/nold/34b-beta-GGUF/resolve/main/34b-beta_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

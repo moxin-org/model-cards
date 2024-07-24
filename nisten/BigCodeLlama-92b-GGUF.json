@@ -1,0 +1,43 @@
+{
+    "id": "nisten/BigCodeLlama-92b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "nisten",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-30T03:37:31Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "bin/BigCodeLlama-92b-q3kl.gguf",
+            "size": "49071000224",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fddf82685a66e054509328b364f61a44044ae7fb45f9b303a48006a71f1b78aa",
+            "download": {
+                "default": "https://huggingface.co/nisten/BigCodeLlama-92b-GGUF/resolve/main/bin/BigCodeLlama-92b-q3kl.gguf"
+            }
+        },
+        {
+            "name": "bin/BigCodeLlama-92b-q3km.gguf",
+            "size": "45097945760",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b59a3a4c5198a42fbc6cd8a5e379d3bd1d3e14ebcbf92c7897082a5ec52a35ec",
+            "download": {
+                "default": "https://huggingface.co/nisten/BigCodeLlama-92b-GGUF/resolve/main/bin/BigCodeLlama-92b-q3km.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

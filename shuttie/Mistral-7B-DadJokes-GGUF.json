@@ -1,0 +1,33 @@
+{
+    "id": "shuttie/Mistral-7B-DadJokes-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "shuttie",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-10T09:42:22Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-q4_0.gguf",
+            "size": "4108916288",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3c81c159c2f513ab39b21ca8b6075f2ec5daaa68a2799873b7de0297e4b209ad",
+            "download": {
+                "default": "https://huggingface.co/shuttie/Mistral-7B-DadJokes-GGUF/resolve/main/ggml-model-q4_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

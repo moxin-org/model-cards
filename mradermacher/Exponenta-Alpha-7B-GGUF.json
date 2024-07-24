@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/Exponenta-Alpha-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-29T07:24:22Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Exponenta-Alpha-7B.IQ3_M.gguf",
+            "size": "3439515328",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "17d740d4009b6433729c79c689407d0c5587d81075c166bff151c256c0249b4e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Exponenta-Alpha-7B-GGUF/resolve/main/Exponenta-Alpha-7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Exponenta-Alpha-7B.IQ3_S.gguf",
+            "size": "3337017024",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "e769a55fa31f2142d85bc3cae37078950abeb029a9807dda7943791ba0945705",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Exponenta-Alpha-7B-GGUF/resolve/main/Exponenta-Alpha-7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Exponenta-Alpha-7B.IQ3_XS.gguf",
+            "size": "3173439168",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "29cacb184a47d2c362eaf06ad75553b68e31b92142ecd844cbfd131da3ca6f19",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Exponenta-Alpha-7B-GGUF/resolve/main/Exponenta-Alpha-7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Exponenta-Alpha-7B.IQ4_NL.gguf",
+            "size": "4309677760",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "386dbf99c614cd775e184fc0dabceff690271bd59437b2b395aa267b7f08d0ce",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Exponenta-Alpha-7B-GGUF/resolve/main/Exponenta-Alpha-7B.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Exponenta-Alpha-7B.IQ4_XS.gguf",
+            "size": "4099012288",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "f59c4ee86aa253151f8bfbca44a29d09c243a8791f381dc3ebb7d09dff92cdb4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Exponenta-Alpha-7B-GGUF/resolve/main/Exponenta-Alpha-7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Exponenta-Alpha-7B.Q2_K.gguf",
+            "size": "2873865920",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "40b785ba0998a35afc49979dd0f75b5f1d0b3d46ef873d82c150854a34cdc768",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Exponenta-Alpha-7B-GGUF/resolve/main/Exponenta-Alpha-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Exponenta-Alpha-7B.Q3_K_L.gguf",
+            "size": "3976648384",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "bdc166e31fd88d0e88e118333f8aa74900219cd04cec756746aa2dd266d63431",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Exponenta-Alpha-7B-GGUF/resolve/main/Exponenta-Alpha-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Exponenta-Alpha-7B.Q3_K_M.gguf",
+            "size": "3673609920",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "6b3eb279307ef164a42e0eb6a5b3289c7c28f837e2f47dc3ff95fd7d18255ef1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Exponenta-Alpha-7B-GGUF/resolve/main/Exponenta-Alpha-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Exponenta-Alpha-7B.Q3_K_S.gguf",
+            "size": "3319191232",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "09970749a9f10c59d75e8bbe7378557601f7ab158a0bfc3c06285e5be7a9fde6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Exponenta-Alpha-7B-GGUF/resolve/main/Exponenta-Alpha-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Exponenta-Alpha-7B.Q4_0.gguf",
+            "size": "4263540416",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "b05fcea3d1c71e7468d4724a1cbcf775c602970d6ec387019c2ece6b8ea8e59f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Exponenta-Alpha-7B-GGUF/resolve/main/Exponenta-Alpha-7B.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Exponenta-Alpha-7B.Q4_K_M.gguf",
+            "size": "4523062976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "3e4413d39abae160a804f68efde81afc45e3332ab054bca7dedc4c97107ccecc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Exponenta-Alpha-7B-GGUF/resolve/main/Exponenta-Alpha-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Exponenta-Alpha-7B.Q4_K_S.gguf",
+            "size": "4294997696",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "d48f2e8b0cd5e06a36c30e028176c838f8a23a6c016484348da27f3ec6f56340",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Exponenta-Alpha-7B-GGUF/resolve/main/Exponenta-Alpha-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Exponenta-Alpha-7B.Q5_K_M.gguf",
+            "size": "5286033088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "899bcff3692f431155ea890a2183ceea871ae89de64e5cc0f89fd0f1af7762fe",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Exponenta-Alpha-7B-GGUF/resolve/main/Exponenta-Alpha-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Exponenta-Alpha-7B.Q5_K_S.gguf",
+            "size": "5152339648",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "2b3ab341e856b77fb7e075c21711e44513956bb1ba1a6a8e5557be4e0cb51158",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Exponenta-Alpha-7B-GGUF/resolve/main/Exponenta-Alpha-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Exponenta-Alpha-7B.Q6_K.gguf",
+            "size": "6096688832",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "981348a3b0d16d8b75b866247cefa0ee51fb94e49d72c48c928de55d37e6f5f6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Exponenta-Alpha-7B-GGUF/resolve/main/Exponenta-Alpha-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Exponenta-Alpha-7B.Q8_0.gguf",
+            "size": "7818737344",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "373fa05db7c869a1d457fe601605a39f385792beb7c65f057445bbf4ecb996df",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Exponenta-Alpha-7B-GGUF/resolve/main/Exponenta-Alpha-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

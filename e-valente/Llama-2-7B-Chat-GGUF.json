@@ -1,0 +1,33 @@
+{
+    "id": "e-valente/Llama-2-7B-Chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "e-valente",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-20T14:04:09Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-q4_0.gguf",
+            "size": "3825806912",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b45779b06d080b1dfa79dcfe7e388422a2257fc58bce672d98cb5772abbf81c2",
+            "download": {
+                "default": "https://huggingface.co/e-valente/Llama-2-7B-Chat-GGUF/resolve/main/ggml-model-q4_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

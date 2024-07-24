@@ -1,0 +1,153 @@
+{
+    "id": "second-state/Nomic-embed-text-v1.5-Embedding-GGUF",
+    "status": "published",
+    "model_type": "embedding",
+    "name": "Nomic embed text v1.5",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-17T07:20:09Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "nomic-embed-text-v1.5-f16.gguf",
+            "size": "274290656",
+            "quantization": "",
+            "tags": [],
+            "sha256": "970aa74c0a90ef7482477cf803618e776e173c007bf957f635f1015bfcfef0e6",
+            "download": {
+                "default": "https://huggingface.co/second-state/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5-f16.gguf"
+            }
+        },
+        {
+            "name": "nomic-embed-text-v1.5-Q2_K.gguf",
+            "size": "60898496",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a4c866c03c8af2f3123706ff8cba70ff592fa051afbf7b04fda0c68fead91e43",
+            "download": {
+                "default": "https://huggingface.co/second-state/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "nomic-embed-text-v1.5-Q3_K_L.gguf",
+            "size": "80749760",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "8d2cae32753d05b3b69df10347296d92044d145d9db96d4da438199cb032a451",
+            "download": {
+                "default": "https://huggingface.co/second-state/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "nomic-embed-text-v1.5-Q3_K_M.gguf",
+            "size": "76326080",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e03621409622db7407c19d0de90be92f4ab07d6b13eb45d9add1632094d89d02",
+            "download": {
+                "default": "https://huggingface.co/second-state/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "nomic-embed-text-v1.5-Q3_K_S.gguf",
+            "size": "68805824",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "47a7b702d2142a4e2ddfad0e4b62080083247621ca6ee37b3c3a7fea0be364f8",
+            "download": {
+                "default": "https://huggingface.co/second-state/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "nomic-embed-text-v1.5-Q4_0.gguf",
+            "size": "83846336",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "4f341a8377a42437fb4accd964ca321d94b7bfba84884b267ecf194f5ea88c82",
+            "download": {
+                "default": "https://huggingface.co/second-state/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "nomic-embed-text-v1.5-Q4_K_M.gguf",
+            "size": "90150080",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "145b7a8e6cec3574a8097520aee6b92cc9f314ad581e5b1a50b372b43b2ab20b",
+            "download": {
+                "default": "https://huggingface.co/second-state/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "nomic-embed-text-v1.5-Q4_K_S.gguf",
+            "size": "84141248",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "423b9717112e6e52c836c53dd70898d4bdda4aad3cc82d421af8f2ea049fb335",
+            "download": {
+                "default": "https://huggingface.co/second-state/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "nomic-embed-text-v1.5-Q5_0.gguf",
+            "size": "98002112",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "8b5b03f194d68f6ca4d27de603f30fcb9927507c9dbb11157e6ec132e14a1987",
+            "download": {
+                "default": "https://huggingface.co/second-state/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "nomic-embed-text-v1.5-Q5_K_M.gguf",
+            "size": "102702272",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "cb5a133f05aa0a52137f4d95450259706605a93a147f507badecce0a98f26432",
+            "download": {
+                "default": "https://huggingface.co/second-state/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "nomic-embed-text-v1.5-Q5_K_S.gguf",
+            "size": "98002112",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "2a3da0d1279c9ef2534aa21b1884a5b9a43991e79da21e0b52bd82a58d701ffd",
+            "download": {
+                "default": "https://huggingface.co/second-state/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "nomic-embed-text-v1.5-Q6_K.gguf",
+            "size": "113042624",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "eb493e4207527228c2febbca9476147fc260c5b15b14998608ee017f09e30e46",
+            "download": {
+                "default": "https://huggingface.co/second-state/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "nomic-embed-text-v1.5-Q8_0.gguf",
+            "size": "146146528",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "43d36b4cff72b36cfb081dbb2bf70ce1ce74f5875537d90343b69bc229f7d481",
+            "download": {
+                "default": "https://huggingface.co/second-state/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 8192,
+    "vector_size": 768,
+    "metrics": {}
+}

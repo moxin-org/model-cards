@@ -1,0 +1,53 @@
+{
+    "id": "KnutJaegersberg/Qwen-1_8B-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "KnutJaegersberg",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-04T10:54:09Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "deacon-1_8B-Q6_K.gguf",
+            "size": "1578625440",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b60434f4e2b9238be2d70288be847626577a0821715e3c9c9fc50afd206c94bf",
+            "download": {
+                "default": "https://huggingface.co/KnutJaegersberg/Qwen-1_8B-gguf/resolve/main/deacon-1_8B-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "platypus-qwen-1_8B-Q6_K.gguf",
+            "size": "1578625440",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "67e4574d8f4bf8374ce3041e0341d67332c6bb68f9f977e0421073c8d28ef1ce",
+            "download": {
+                "default": "https://huggingface.co/KnutJaegersberg/Qwen-1_8B-gguf/resolve/main/platypus-qwen-1_8B-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Qwen-1_8B-Q6_K.gguf",
+            "size": "1578913120",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "eb8610320b89bec7fe000232184f2abd4f951d4f243dd73d608290fc3360d1fb",
+            "download": {
+                "default": "https://huggingface.co/KnutJaegersberg/Qwen-1_8B-gguf/resolve/main/Qwen-1_8B-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

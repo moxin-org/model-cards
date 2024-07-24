@@ -1,0 +1,43 @@
+{
+    "id": "s3nh/nsfw-noromaid-mistral-instruct-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-14T00:10:57Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "nsfw-noromaid-mistral-instruct.Q4_K_M.gguf",
+            "size": "4368439520",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "7c9bf9893641d5333b8958d6d99feb71fa3600815a5c5d49bb6f053278a29e87",
+            "download": {
+                "default": "https://huggingface.co/s3nh/nsfw-noromaid-mistral-instruct-GGUF/resolve/main/nsfw-noromaid-mistral-instruct.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "nsfw-noromaid-mistral-instruct.Q5_K_M.gguf",
+            "size": "5131409632",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "b03dac63049ee89a0bb699f37ec7e06d166c27be664cda04e90c3211df7d7c36",
+            "download": {
+                "default": "https://huggingface.co/s3nh/nsfw-noromaid-mistral-instruct-GGUF/resolve/main/nsfw-noromaid-mistral-instruct.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

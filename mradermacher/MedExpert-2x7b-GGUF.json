@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/MedExpert-2x7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-20T12:29:40Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "MedExpert-2x7b.IQ3_M.gguf",
+            "size": "4754373088",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "208f656feba7effc0185fc829a89200d13144ea66cfba07b82fc09e3d2c2f3fe",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MedExpert-2x7b-GGUF/resolve/main/MedExpert-2x7b.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "MedExpert-2x7b.IQ3_S.gguf",
+            "size": "4635163104",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "9f6031a41382dc60e6b4ead6b17cc9078c9583db893863825e109671ffe451de",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MedExpert-2x7b-GGUF/resolve/main/MedExpert-2x7b.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "MedExpert-2x7b.IQ3_XS.gguf",
+            "size": "4374526432",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "92f6f54b5ffdbe36de708fe661f8f2bd38670644da03863c374b6dbac310c157",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MedExpert-2x7b-GGUF/resolve/main/MedExpert-2x7b.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "MedExpert-2x7b.IQ4_XS.gguf",
+            "size": "5723527648",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "81167a82547a68c6c756615ec9deb2ca4e389e9f9dc8689c9c250338255b15ad",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MedExpert-2x7b-GGUF/resolve/main/MedExpert-2x7b.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "MedExpert-2x7b.Q2_K.gguf",
+            "size": "3967539680",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a8a8fe38fe1476240c22d83754e8a1e53c2abe66cec3a6acd1f8191bd913fee0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MedExpert-2x7b-GGUF/resolve/main/MedExpert-2x7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "MedExpert-2x7b.Q3_K_L.gguf",
+            "size": "5534317024",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "faaad39b8731423ac49a69404599d22516cecb7726e2c23154fc846c8a1b6fc5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MedExpert-2x7b-GGUF/resolve/main/MedExpert-2x7b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "MedExpert-2x7b.Q3_K_M.gguf",
+            "size": "5113313760",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e4ba8d081cb2d170b81e94236b502dfc208235d04aaf798768cdb83f0530bb7a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MedExpert-2x7b-GGUF/resolve/main/MedExpert-2x7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "MedExpert-2x7b.Q3_K_S.gguf",
+            "size": "4617337312",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "97ea1878bdbba90f08084501628d0fda410f0476d226c9c6903530b8dc6e723d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MedExpert-2x7b-GGUF/resolve/main/MedExpert-2x7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "MedExpert-2x7b.Q4_K_M.gguf",
+            "size": "6352050656",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5ebdb86a6842697461d201e3db5a5647aecd2d5ffc6e304edf0c908ca451f311",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MedExpert-2x7b-GGUF/resolve/main/MedExpert-2x7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "MedExpert-2x7b.Q4_K_S.gguf",
+            "size": "6009952736",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "bc959ccfc6b7934c97103183e2e93afdaa4a99684886499acd50ce1dad7d1351",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MedExpert-2x7b-GGUF/resolve/main/MedExpert-2x7b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "MedExpert-2x7b.Q5_K_M.gguf",
+            "size": "7429593568",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "9000aab8ad8b0ed724e279426b1d9024e05d4cc8d5a26efd46b54f5c2d4c766a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MedExpert-2x7b-GGUF/resolve/main/MedExpert-2x7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "MedExpert-2x7b.Q5_K_S.gguf",
+            "size": "7229053408",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "80383379976ded47a3b3a3b499a1619a4ccf4267568e3ef2002ea61701714dd9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MedExpert-2x7b-GGUF/resolve/main/MedExpert-2x7b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "MedExpert-2x7b.Q6_K.gguf",
+            "size": "8574482912",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "bd82de8b9f3b3bf76f395b3bf55aaaa3e288347aa358a5372fa760d94243e6de",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MedExpert-2x7b-GGUF/resolve/main/MedExpert-2x7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "MedExpert-2x7b.Q8_0.gguf",
+            "size": "11027913184",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "7d49a648ef75466ab884cb24687e367e9187f5171babb1e9f5b5f113c3a8e376",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MedExpert-2x7b-GGUF/resolve/main/MedExpert-2x7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

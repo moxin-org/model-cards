@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/merlinite-7B-dpo-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-22T11:04:34Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "merlinite-7B-dpo.IQ3_M.gguf",
+            "size": "3439595200",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "4057e6c2bf982d2d3ab2314cd98949768e7b7c837821a4d61c27d61754f91783",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/merlinite-7B-dpo-GGUF/resolve/main/merlinite-7B-dpo.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "merlinite-7B-dpo.IQ3_S.gguf",
+            "size": "3337096896",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "faea3207f8d2feda75ccfb64f6757d3ac464ef32c74721c8a19c7c65219214fa",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/merlinite-7B-dpo-GGUF/resolve/main/merlinite-7B-dpo.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "merlinite-7B-dpo.IQ3_XS.gguf",
+            "size": "3155693248",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "c737625afa1545bd07f9dbf835172e68450b643642571375a8aaaadf64182bcd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/merlinite-7B-dpo-GGUF/resolve/main/merlinite-7B-dpo.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "merlinite-7B-dpo.IQ4_XS.gguf",
+            "size": "4099095488",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "a6313a67dea82cacdb37058ca3cb545f4adbc3c305652d571c3f96d0687522cb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/merlinite-7B-dpo-GGUF/resolve/main/merlinite-7B-dpo.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "merlinite-7B-dpo.Q2_K.gguf",
+            "size": "2873942464",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "c8b0a4ef07e5b3b8a8c3351b10ee4322f50dce1fdbd30f42433a2c1171064dbb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/merlinite-7B-dpo-GGUF/resolve/main/merlinite-7B-dpo.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "merlinite-7B-dpo.Q3_K_L.gguf",
+            "size": "3976728256",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "95646fb9143613ea377eaaf8617a7dc95b74deb6b95aa287415fa870c4ef4165",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/merlinite-7B-dpo-GGUF/resolve/main/merlinite-7B-dpo.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "merlinite-7B-dpo.Q3_K_M.gguf",
+            "size": "3673689792",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "fefc6b912c3a39a0bac986bcab4021c7cf4e212e1fa8ea277ce6251d65e31301",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/merlinite-7B-dpo-GGUF/resolve/main/merlinite-7B-dpo.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "merlinite-7B-dpo.Q3_K_S.gguf",
+            "size": "3319271104",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "7cd52a2f0299df035bcddff440b0844edad47895003770f50d8c2d19f42779ed",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/merlinite-7B-dpo-GGUF/resolve/main/merlinite-7B-dpo.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "merlinite-7B-dpo.Q4_K_M.gguf",
+            "size": "4523147200",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "19df061c88498ac7ace476b58831148b0d7f0b02cca06a88d6781fb56900e539",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/merlinite-7B-dpo-GGUF/resolve/main/merlinite-7B-dpo.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "merlinite-7B-dpo.Q4_K_S.gguf",
+            "size": "4295081920",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "5f5565f4e1139a9f709956fcf01f8e57fe38fdf45ebaf134d6831c581fb6bd2c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/merlinite-7B-dpo-GGUF/resolve/main/merlinite-7B-dpo.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "merlinite-7B-dpo.Q5_K_M.gguf",
+            "size": "5286121408",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "7e00fd32f2a208b8cee4a6b2ac149554094518c33880e1a4d34c1473f09db890",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/merlinite-7B-dpo-GGUF/resolve/main/merlinite-7B-dpo.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "merlinite-7B-dpo.Q5_K_S.gguf",
+            "size": "5152427968",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "19dd637bc6d62fa669b18114d851110b62c172f5e69eaa0ed058b362f856b835",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/merlinite-7B-dpo-GGUF/resolve/main/merlinite-7B-dpo.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "merlinite-7B-dpo.Q6_K.gguf",
+            "size": "6096781504",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "650458a24ac5216b429b70e763bfd6f51f66acbb03f1f9b017c77d2d278821e9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/merlinite-7B-dpo-GGUF/resolve/main/merlinite-7B-dpo.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "merlinite-7B-dpo.Q8_0.gguf",
+            "size": "7818837952",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "2184d21ca1b3fbf074c33f807d0796da6bb555a96fe5986b8f329ea7ad229ab9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/merlinite-7B-dpo-GGUF/resolve/main/merlinite-7B-dpo.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

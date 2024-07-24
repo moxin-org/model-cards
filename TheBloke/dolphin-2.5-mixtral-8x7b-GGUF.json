@@ -1,0 +1,103 @@
+{
+    "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-14T10:34:15Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "dolphin-2.5-mixtral-8x7b.Q2_K.gguf",
+            "size": "15644044256",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "d8e2917942aae7f94876e8f85f9a07cb29d8a46116cf8f1993ced333337167d0",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/dolphin-2.5-mixtral-8x7b-GGUF/resolve/main/dolphin-2.5-mixtral-8x7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.5-mixtral-8x7b.Q3_K_M.gguf",
+            "size": "20363366176",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "2365ffc25ecbde7ea52bfa7d63849ea5d9fc9dcee196281ebbbc218e6ef485c3",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/dolphin-2.5-mixtral-8x7b-GGUF/resolve/main/dolphin-2.5-mixtral-8x7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.5-mixtral-8x7b.Q4_0.gguf",
+            "size": "26441544544",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "d303f2b9e493b8d97eff6240b9918fecce8fa4c0e5a5b137e713c8b72aebfbf8",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/dolphin-2.5-mixtral-8x7b-GGUF/resolve/main/dolphin-2.5-mixtral-8x7b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.5-mixtral-8x7b.Q4_K_M.gguf",
+            "size": "26441544544",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "ee4474c3f6f9c20d7ba738ab63c7c19d3e1471749a72e8624e5b9db0c827b525",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/dolphin-2.5-mixtral-8x7b-GGUF/resolve/main/dolphin-2.5-mixtral-8x7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.5-mixtral-8x7b.Q5_0.gguf",
+            "size": "32229291872",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "759c59e8eb9b740617bb11bfa146c7edbe28afda17ce67fa68cf68cc7f06a445",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/dolphin-2.5-mixtral-8x7b-GGUF/resolve/main/dolphin-2.5-mixtral-8x7b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.5-mixtral-8x7b.Q5_K_M.gguf",
+            "size": "32229291872",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "b0a57cd79a0a1b056e964984fcfb94f6802d4e7487efe463b18fba6d6147734e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/dolphin-2.5-mixtral-8x7b-GGUF/resolve/main/dolphin-2.5-mixtral-8x7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.5-mixtral-8x7b.Q6_K.gguf",
+            "size": "38378773408",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "7ffbe467a18122de2a16772e7fcd3ccd6131203c2ce721f53fab03446a246684",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/dolphin-2.5-mixtral-8x7b-GGUF/resolve/main/dolphin-2.5-mixtral-8x7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.5-mixtral-8x7b.Q8_0.gguf",
+            "size": "49624279840",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "3a3c74c0bf306844ef6d255fbc4369769fd4a4c274f1fe9b6c55cf623cf56aed",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/dolphin-2.5-mixtral-8x7b-GGUF/resolve/main/dolphin-2.5-mixtral-8x7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

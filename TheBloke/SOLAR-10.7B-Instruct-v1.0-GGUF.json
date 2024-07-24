@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/SOLAR-10.7B-Instruct-v1.0-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-13T13:14:17Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "solar-10.7b-instruct-v1.0.Q2_K.gguf",
+            "size": "4549016160",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "b7fdad94bf72f8cc0d301c7681943c080106cb924f50082ff0a7d9e2c085a39d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/SOLAR-10.7B-Instruct-v1.0-GGUF/resolve/main/solar-10.7b-instruct-v1.0.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "solar-10.7b-instruct-v1.0.Q3_K_L.gguf",
+            "size": "5650750048",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "c9e2410185ab5786ea0405d020d2179defeddeece69915b4c2744093718ae4b7",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/SOLAR-10.7B-Instruct-v1.0-GGUF/resolve/main/solar-10.7b-instruct-v1.0.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "solar-10.7b-instruct-v1.0.Q3_K_M.gguf",
+            "size": "5188328032",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "8db479c9d8dedd29c80af92ef24b5fff26aca6d73c01172298a79f49e0d0c4e5",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/SOLAR-10.7B-Instruct-v1.0-GGUF/resolve/main/solar-10.7b-instruct-v1.0.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "solar-10.7b-instruct-v1.0.Q3_K_S.gguf",
+            "size": "4664564320",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "b290453ea26a125d2b84f27d1e1abb6e1c4e13fc10657f638b95a5ba07bc5aba",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/SOLAR-10.7B-Instruct-v1.0-GGUF/resolve/main/solar-10.7b-instruct-v1.0.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "solar-10.7b-instruct-v1.0.Q4_0.gguf",
+            "size": "6072384096",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "213e62babaa30d528eba1e84295bcc5eb0aba39f1facd494c589f55b1cbe753f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/SOLAR-10.7B-Instruct-v1.0-GGUF/resolve/main/solar-10.7b-instruct-v1.0.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "solar-10.7b-instruct-v1.0.Q4_K_M.gguf",
+            "size": "6461667936",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "0f0a4bd237c1ccecabc3c85d08da6e1b9e667942f5117993d0c93149e08ba745",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/SOLAR-10.7B-Instruct-v1.0-GGUF/resolve/main/solar-10.7b-instruct-v1.0.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "solar-10.7b-instruct-v1.0.Q4_K_S.gguf",
+            "size": "6103841376",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "8caaf00c40cc596455ac3f30134ada1d353a4b04ed8528f213383420acb7a944",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/SOLAR-10.7B-Instruct-v1.0-GGUF/resolve/main/solar-10.7b-instruct-v1.0.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "solar-10.7b-instruct-v1.0.Q5_0.gguf",
+            "size": "7397390944",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "2b25c675df1c0fbc28bf852ca31da8b3020d87955026ae4d1dbe2598d3533260",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/SOLAR-10.7B-Instruct-v1.0-GGUF/resolve/main/solar-10.7b-instruct-v1.0.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "solar-10.7b-instruct-v1.0.Q5_K_M.gguf",
+            "size": "7597931104",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "4ade240f5dcc253272158f3659a56f5b1da8405510707476d23a7df943aa35f7",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/SOLAR-10.7B-Instruct-v1.0-GGUF/resolve/main/solar-10.7b-instruct-v1.0.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "solar-10.7b-instruct-v1.0.Q5_K_S.gguf",
+            "size": "7397390944",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "8ee0ca22fb12d0a78c25f891b37fe8848cc7d0e1500803aec6c8fd3197860dba",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/SOLAR-10.7B-Instruct-v1.0-GGUF/resolve/main/solar-10.7b-instruct-v1.0.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "solar-10.7b-instruct-v1.0.Q6_K.gguf",
+            "size": "8805210720",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "904e28152b4d7e12b1e6bcf96ec610ee5ae4dd39593df1aa5fdde8ea7e47f19e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/SOLAR-10.7B-Instruct-v1.0-GGUF/resolve/main/solar-10.7b-instruct-v1.0.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "solar-10.7b-instruct-v1.0.Q8_0.gguf",
+            "size": "11404155488",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "f8e3bb1b09ff245aaa11605bde7da976c1dd5847303a93c3993fa7882fe84391",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/SOLAR-10.7B-Instruct-v1.0-GGUF/resolve/main/solar-10.7b-instruct-v1.0.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

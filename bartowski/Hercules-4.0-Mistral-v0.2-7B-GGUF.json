@@ -1,0 +1,183 @@
+{
+    "id": "bartowski/Hercules-4.0-Mistral-v0.2-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bartowski",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-26T15:00:45Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Hercules-4.0-Mistral-v0.2-7B-IQ3_M.gguf",
+            "size": "3284892064",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "67f89b122b3b662395030af03812eab2a8cba1211d170193bf01017bafe749e3",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hercules-4.0-Mistral-v0.2-7B-GGUF/resolve/main/Hercules-4.0-Mistral-v0.2-7B-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Mistral-v0.2-7B-IQ3_S.gguf",
+            "size": "3182393760",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "9536d9cf36b10d7ba506ee0be133b310e14480069a1eeab0c02019f50efb2a47",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hercules-4.0-Mistral-v0.2-7B-GGUF/resolve/main/Hercules-4.0-Mistral-v0.2-7B-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Mistral-v0.2-7B-IQ4_NL.gguf",
+            "size": "4155054496",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "36ee96c52504caa7c8abd0067661968ffa85f13f60a4585fe89ff3d6dddda5d4",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hercules-4.0-Mistral-v0.2-7B-GGUF/resolve/main/Hercules-4.0-Mistral-v0.2-7B-IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Mistral-v0.2-7B-IQ4_XS.gguf",
+            "size": "3944389024",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "20c34ba2542cece16ec20dc1cba000bb24877eca4f9f4b143e23a194dfa0bc27",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hercules-4.0-Mistral-v0.2-7B-GGUF/resolve/main/Hercules-4.0-Mistral-v0.2-7B-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Mistral-v0.2-7B-Q2_K.gguf",
+            "size": "2719242656",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "3d49a77493cba031108b644fda79406f569318b561b1d125bbc1a403fcffa3b4",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hercules-4.0-Mistral-v0.2-7B-GGUF/resolve/main/Hercules-4.0-Mistral-v0.2-7B-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Mistral-v0.2-7B-Q3_K_L.gguf",
+            "size": "3822025120",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "f18ca44645fe6de1b5dd01de31e3c5eb86800a84432c520c36a0be84ba7a52d0",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hercules-4.0-Mistral-v0.2-7B-GGUF/resolve/main/Hercules-4.0-Mistral-v0.2-7B-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Mistral-v0.2-7B-Q3_K_M.gguf",
+            "size": "3518986656",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "c5f3e221bf1fe6a79a5874bc302ccf0a116c4c16a2a596c25afb6d1697d41f03",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hercules-4.0-Mistral-v0.2-7B-GGUF/resolve/main/Hercules-4.0-Mistral-v0.2-7B-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Mistral-v0.2-7B-Q3_K_S.gguf",
+            "size": "3164567968",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "d56d7ba5a18a84fdd582b1b1bfbea7f62f0d1714287006c929f320e51f949898",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hercules-4.0-Mistral-v0.2-7B-GGUF/resolve/main/Hercules-4.0-Mistral-v0.2-7B-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Mistral-v0.2-7B-Q4_0.gguf",
+            "size": "4108917152",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "73c780b8387e977d2308c03e86d977d9d523221bfcd9f353df4bf1237dd6671b",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hercules-4.0-Mistral-v0.2-7B-GGUF/resolve/main/Hercules-4.0-Mistral-v0.2-7B-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Mistral-v0.2-7B-Q4_K_M.gguf",
+            "size": "4368439712",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "fded06c6f2ff7156d7eb54aebe271869dcc9f7661e3aaa68758135ed1d9e6a44",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hercules-4.0-Mistral-v0.2-7B-GGUF/resolve/main/Hercules-4.0-Mistral-v0.2-7B-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Mistral-v0.2-7B-Q4_K_S.gguf",
+            "size": "4140374432",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "f416f79e78b428f64450cad50b1d3176282abb3b508deba9e193e04a01fe0777",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hercules-4.0-Mistral-v0.2-7B-GGUF/resolve/main/Hercules-4.0-Mistral-v0.2-7B-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Mistral-v0.2-7B-Q5_0.gguf",
+            "size": "4997716384",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "4e0cae4ca5a5e6a752830b1f9bb2a504459593ffb06aaebeb52f56aa3cfe62e5",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hercules-4.0-Mistral-v0.2-7B-GGUF/resolve/main/Hercules-4.0-Mistral-v0.2-7B-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Mistral-v0.2-7B-Q5_K_M.gguf",
+            "size": "5131409824",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f7e0602b0c4e3aff862609e8313a8943607a9f20b1ca363c8311164ce95e759b",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hercules-4.0-Mistral-v0.2-7B-GGUF/resolve/main/Hercules-4.0-Mistral-v0.2-7B-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Mistral-v0.2-7B-Q5_K_S.gguf",
+            "size": "4997716384",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "06f92dd62a7abc092d3249014570330473450748ef4e14ccbfbd8d35e190a739",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hercules-4.0-Mistral-v0.2-7B-GGUF/resolve/main/Hercules-4.0-Mistral-v0.2-7B-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Mistral-v0.2-7B-Q6_K.gguf",
+            "size": "5942065568",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "9c928bb6a92b395a24cea7ba27f7065c8a5ed04955311f63ff9277d19f06cb0a",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hercules-4.0-Mistral-v0.2-7B-GGUF/resolve/main/Hercules-4.0-Mistral-v0.2-7B-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Mistral-v0.2-7B-Q8_0.gguf",
+            "size": "7695858080",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "a3fbf7cebb62d8477050b7382d6204f508a262aae804fc6ba94a011c68128ab6",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hercules-4.0-Mistral-v0.2-7B-GGUF/resolve/main/Hercules-4.0-Mistral-v0.2-7B-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

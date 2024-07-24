@@ -1,0 +1,43 @@
+{
+    "id": "elklab/LLaMAntino-2-chat-7b-hf-UltraChat-ITA-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "elklab",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-19T17:45:47Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llamantino-2-chat-7b-hf-ultrachat-ita.Q4_K_M.gguf",
+            "size": "4081004288",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "28128e2b3a9bc134017dd97cf47d15dee1840905962faa04b838ba8dff99c305",
+            "download": {
+                "default": "https://huggingface.co/elklab/LLaMAntino-2-chat-7b-hf-UltraChat-ITA-GGUF/resolve/main/llamantino-2-chat-7b-hf-ultrachat-ita.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "llamantino-2-chat-7b-hf-ultrachat-ita.Q5_K_M.gguf",
+            "size": "4783156992",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "2ae6e7f549d23db4875213aaefff3a3defb579fb7d32c848ec18420cac9da142",
+            "download": {
+                "default": "https://huggingface.co/elklab/LLaMAntino-2-chat-7b-hf-UltraChat-ITA-GGUF/resolve/main/llamantino-2-chat-7b-hf-ultrachat-ita.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

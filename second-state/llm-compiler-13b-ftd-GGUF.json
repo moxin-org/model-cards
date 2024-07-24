@@ -1,0 +1,153 @@
+{
+    "id": "second-state/llm-compiler-13b-ftd-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-06-29T10:19:14Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llm-compiler-13b-ftd-f16.gguf",
+            "size": "26033303648",
+            "quantization": "",
+            "tags": [],
+            "sha256": "58704ba2b0ba29877c1992ee7e42e070be8b17ae51da512537dd99e68f2f9c28",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-13b-ftd-GGUF/resolve/main/llm-compiler-13b-ftd-f16.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-13b-ftd-Q2_K.gguf",
+            "size": "4854270048",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "ef7346a36391915b19b5b34adc587eaf812f5655bc30c4942e1587a28609bafa",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-13b-ftd-GGUF/resolve/main/llm-compiler-13b-ftd-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-13b-ftd-Q3_K_L.gguf",
+            "size": "6929559648",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "6b531c0b9f6ea9a04e3762fe472851e912da3af36c62f891a4c8cc32464402a7",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-13b-ftd-GGUF/resolve/main/llm-compiler-13b-ftd-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-13b-ftd-Q3_K_M.gguf",
+            "size": "6337769568",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e8d47be8dffb7f0370db9d9e6e897dcfde33a260673a30700736cde7ffc359be",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-13b-ftd-GGUF/resolve/main/llm-compiler-13b-ftd-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-13b-ftd-Q3_K_S.gguf",
+            "size": "5658980448",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "d0e3bfbcb61ed4b4992240f3bdc37f759c77f17b9f6670266a4a7eb896303fc9",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-13b-ftd-GGUF/resolve/main/llm-compiler-13b-ftd-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-13b-ftd-Q4_0.gguf",
+            "size": "7365834848",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "6bf74032a5a48f901f7bb81bc751944ec8e4a9dffb07793c2b6eec8dad56e268",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-13b-ftd-GGUF/resolve/main/llm-compiler-13b-ftd-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-13b-ftd-Q4_K_M.gguf",
+            "size": "7865956448",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "3fa49018a0b805656adbdc81b0460f52f88dbf7890ed32ce4ab96d3f23a68ddd",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-13b-ftd-GGUF/resolve/main/llm-compiler-13b-ftd-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-13b-ftd-Q4_K_S.gguf",
+            "size": "7423178848",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "6b9335e719c7e3f2e0929469c8c4f5a27428a517f519871ed2943850d5f13319",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-13b-ftd-GGUF/resolve/main/llm-compiler-13b-ftd-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-13b-ftd-Q5_0.gguf",
+            "size": "8972286048",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "c9b96bda35949483321293bd889288c530f1de676a3fd22924f4980430aab3b4",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-13b-ftd-GGUF/resolve/main/llm-compiler-13b-ftd-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-13b-ftd-Q5_K_M.gguf",
+            "size": "9229924448",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "bfdc0cc25d58f5bb2bcc0891e075914ef3641778160f39b092f7abfcf476f0bb",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-13b-ftd-GGUF/resolve/main/llm-compiler-13b-ftd-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-13b-ftd-Q5_K_S.gguf",
+            "size": "8972286048",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "bc870cdf5adc16cec6a1b0d379bd3b71c10c5d5f9d97cfb646826e0d66caa923",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-13b-ftd-GGUF/resolve/main/llm-compiler-13b-ftd-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-13b-ftd-Q6_K.gguf",
+            "size": "10679140448",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "e4464e72cc597f982b4dce3e839ce58c11ee9054a924c4420cd9d8154503ab8b",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-13b-ftd-GGUF/resolve/main/llm-compiler-13b-ftd-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-13b-ftd-Q8_0.gguf",
+            "size": "13831319648",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "66f5a6cec07bbe88bb57b61931091fb488a24904562334e9c5e4c0c338fb821a",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-13b-ftd-GGUF/resolve/main/llm-compiler-13b-ftd-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 5120,
+    "vector_size": 0,
+    "metrics": null
+}

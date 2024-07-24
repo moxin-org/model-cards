@@ -1,0 +1,233 @@
+{
+    "id": "mradermacher/Qwen1.5-32B-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-06T08:44:38Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Qwen1.5-32B.i1-IQ4_XS.gguf",
+            "size": "17559457440",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "5bf0f17d33ad76e9d6658b371fefc222d2ccbab3cce2f2cca203086b6daade9b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Qwen1.5-32B-i1-GGUF/resolve/main/Qwen1.5-32B.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-32B.i1-Q6_K.gguf",
+            "size": "26679713440",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "f2759e6a42e17b17feed00c57a1512c4982f0cfc8c53328c4fd4ee84cb6120c7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Qwen1.5-32B-i1-GGUF/resolve/main/Qwen1.5-32B.i1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-32B.i1-Q5_K_S.gguf",
+            "size": "22465236640",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "51791e3aba0822fcf9169c5dbae176272d81c5c7418455ab07378c1cf2a1b302",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Qwen1.5-32B-i1-GGUF/resolve/main/Qwen1.5-32B.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-32B.i1-Q5_K_M.gguf",
+            "size": "23083568800",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "1e4440415307cc79109fac2dd3c8089c710b0a2f567a639c822b7462a49bbbfc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Qwen1.5-32B-i1-GGUF/resolve/main/Qwen1.5-32B.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-32B.i1-Q4_K_S.gguf",
+            "size": "18641538720",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "713c466cfb80f200f4adb24525347db1c23e62a3f012219fa98b94e0746e0783",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Qwen1.5-32B-i1-GGUF/resolve/main/Qwen1.5-32B.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-32B.i1-Q4_K_M.gguf",
+            "size": "19698962080",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c521db298f6f1b6640b89e35c7d571eacde378e17aee3c5ea792760a11244c41",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Qwen1.5-32B-i1-GGUF/resolve/main/Qwen1.5-32B.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-32B.i1-Q4_0.gguf",
+            "size": "18568793760",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "4df0b52a9ae13ed8eb4aef690df301a3d99ceaf9cff37bd2e59b9cc28ebb3732",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Qwen1.5-32B-i1-GGUF/resolve/main/Qwen1.5-32B.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-32B.i1-Q3_K_S.gguf",
+            "size": "14284193440",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "1457cbb77292fab24479da8ea03cdb082b0efd37b26499ec7f2ed0b69847607f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Qwen1.5-32B-i1-GGUF/resolve/main/Qwen1.5-32B.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-32B.i1-Q3_K_M.gguf",
+            "size": "15815114400",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "72fba29c4704f46c2edb07d8947e7afe98ca7f4d6f116003c956097e24b6fac9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Qwen1.5-32B-i1-GGUF/resolve/main/Qwen1.5-32B.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-32B.i1-Q3_K_L.gguf",
+            "size": "17117314720",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "85361c428936ff2cd1ecd477bc5ba0df0e376a7fa3a36094ac1827e315e05647",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Qwen1.5-32B-i1-GGUF/resolve/main/Qwen1.5-32B.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-32B.i1-Q2_K.gguf",
+            "size": "12222000800",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "dce849d8b21e77c8e987dfecb6e557c91024b0d0845da7bcef8f60f49a7aa1b6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Qwen1.5-32B-i1-GGUF/resolve/main/Qwen1.5-32B.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-32B.i1-IQ1_M.gguf",
+            "size": "7875960480",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "9f93a7edb724f2e8ab84284c4b4530b52c7e774d376c6515951c7f5e33fd2feb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Qwen1.5-32B-i1-GGUF/resolve/main/Qwen1.5-32B.i1-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-32B.i1-IQ3_XXS.gguf",
+            "size": "12742930080",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "d70d43eabb09e4807da1be762dff9e3b8567c95bf170fd567d4441aef4ce414f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Qwen1.5-32B-i1-GGUF/resolve/main/Qwen1.5-32B.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-32B.i1-IQ3_XS.gguf",
+            "size": "13603274400",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "d56001be8733667f565e11cd1a231234c0c523dc039b39a171ae37364b4e8014",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Qwen1.5-32B-i1-GGUF/resolve/main/Qwen1.5-32B.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-32B.i1-IQ3_S.gguf",
+            "size": "14328757920",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "29969a1d07deca12cbebd210b550133f1891b2a898af4ca255ddb87d14c8f95d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Qwen1.5-32B-i1-GGUF/resolve/main/Qwen1.5-32B.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-32B.i1-IQ3_M.gguf",
+            "size": "14700592800",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "58c66d8440a8f6bfa4df6bff9cb7aa68c0672edb8fe3d5fb9a541bd546f9a883",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Qwen1.5-32B-i1-GGUF/resolve/main/Qwen1.5-32B.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-32B.i1-IQ2_XXS.gguf",
+            "size": "8962629280",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "5715908d3cb1839b4a3e1ba84fa729293c7342ab6f495bac3318f36a76b17ef0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Qwen1.5-32B-i1-GGUF/resolve/main/Qwen1.5-32B.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-32B.i1-IQ2_XS.gguf",
+            "size": "9884393120",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "53165326b3f67d144c615f897f2300d8e04d6ef82a029d7e53480259625baa4a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Qwen1.5-32B-i1-GGUF/resolve/main/Qwen1.5-32B.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-32B.i1-IQ2_S.gguf",
+            "size": "10313346720",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "6fb09b9cbeaeb5c91c4ab6169ffbb193d76a85783740f42544a1e07f266e348e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Qwen1.5-32B-i1-GGUF/resolve/main/Qwen1.5-32B.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-32B.i1-IQ2_M.gguf",
+            "size": "11182681760",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "4e3f7b1672e3a9ac999e86a0b3bcc734d5e161c8a3c5da5891336e2f5b5828ae",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Qwen1.5-32B-i1-GGUF/resolve/main/Qwen1.5-32B.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-32B.i1-IQ1_S.gguf",
+            "size": "7223959200",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "60b4fb298892001002ef11dddc788e929d3977c8375d43f41a6c9d4ec8146209",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Qwen1.5-32B-i1-GGUF/resolve/main/Qwen1.5-32B.i1-IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "ycros/DolphinLimaTrio-Mixtral-8x7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "ycros",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-11T11:26:56Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "DolphinLimaTrio-Mixtral-8x7b.Q5_K_M.gguf",
+            "size": "32229279104",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "1f162dcaec90efa9e2f852be0ca3729ea4ef441fb81cc7404aabd04680f6f52e",
+            "download": {
+                "default": "https://huggingface.co/ycros/DolphinLimaTrio-Mixtral-8x7b-GGUF/resolve/main/DolphinLimaTrio-Mixtral-8x7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "DolphinLimaTrio-Mixtral-8x7b.Q6_K.gguf",
+            "size": "38378759552",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "21fa6ee6c94bd9403c049b32b99a99f99ee59d9cd398d55b542c6fcf230ab6fb",
+            "download": {
+                "default": "https://huggingface.co/ycros/DolphinLimaTrio-Mixtral-8x7b-GGUF/resolve/main/DolphinLimaTrio-Mixtral-8x7b.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

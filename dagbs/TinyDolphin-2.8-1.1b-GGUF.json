@@ -1,0 +1,113 @@
+{
+    "id": "dagbs/TinyDolphin-2.8-1.1b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "dagbs",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-22T01:18:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "TinyDolphin-2.8-1.1b.Q2_K.gguf",
+            "size": "432135328",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "092f748ebfba7f4782ab4178918220412597a8350978fcbfbdeabc56e6a76abf",
+            "download": {
+                "default": "https://huggingface.co/dagbs/TinyDolphin-2.8-1.1b-GGUF/resolve/main/TinyDolphin-2.8-1.1b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "TinyDolphin-2.8-1.1b.Q3_K_L.gguf",
+            "size": "591531584",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "f1d0ddd10e07e2d40d39e852c159c7320ed0226db1e1ef4f9ec2283e33838b98",
+            "download": {
+                "default": "https://huggingface.co/dagbs/TinyDolphin-2.8-1.1b-GGUF/resolve/main/TinyDolphin-2.8-1.1b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "TinyDolphin-2.8-1.1b.Q3_K_M.gguf",
+            "size": "548408896",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "339fb6b5bee4b51f327b0de1373a9dc0a77f3d91c37b39d7acc2f731bd2059a6",
+            "download": {
+                "default": "https://huggingface.co/dagbs/TinyDolphin-2.8-1.1b-GGUF/resolve/main/TinyDolphin-2.8-1.1b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "TinyDolphin-2.8-1.1b.Q3_K_S.gguf",
+            "size": "499347008",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "50555f09c7e891212037865fd80ca01b45bad6f203031bd3053c814818d7b9d5",
+            "download": {
+                "default": "https://huggingface.co/dagbs/TinyDolphin-2.8-1.1b-GGUF/resolve/main/TinyDolphin-2.8-1.1b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "TinyDolphin-2.8-1.1b.Q4_K_M.gguf",
+            "size": "667820128",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5e33e7f22eba92874e7d6804a9bdfdafdaa197b38a04894245dd98e56c6a63e8",
+            "download": {
+                "default": "https://huggingface.co/dagbs/TinyDolphin-2.8-1.1b-GGUF/resolve/main/TinyDolphin-2.8-1.1b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "TinyDolphin-2.8-1.1b.Q4_K_S.gguf",
+            "size": "639877216",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "b74ab0e39cf60975f3f02e03a00271f1c1e94216d439ca07cb18089395e51ba1",
+            "download": {
+                "default": "https://huggingface.co/dagbs/TinyDolphin-2.8-1.1b-GGUF/resolve/main/TinyDolphin-2.8-1.1b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "TinyDolphin-2.8-1.1b.Q5_K_S.gguf",
+            "size": "766034528",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "f459c380df290625e3ce3a66cc75a78cbc8baab16661cf767e0796980f84b325",
+            "download": {
+                "default": "https://huggingface.co/dagbs/TinyDolphin-2.8-1.1b-GGUF/resolve/main/TinyDolphin-2.8-1.1b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "TinyDolphin-2.8-1.1b.Q6_K.gguf",
+            "size": "903419008",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "92f3e3e445ea3192b299d8786eae0b3572c0dd0ab9563fb5aaa4f43322f7460f",
+            "download": {
+                "default": "https://huggingface.co/dagbs/TinyDolphin-2.8-1.1b-GGUF/resolve/main/TinyDolphin-2.8-1.1b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "TinyDolphin-2.8-1.1b.Q8_0.gguf",
+            "size": "1169816640",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "412f9f68104b1e80948cb4a050ac12b1e3346b372ea42501b1291b1a39e0f166",
+            "download": {
+                "default": "https://huggingface.co/dagbs/TinyDolphin-2.8-1.1b-GGUF/resolve/main/TinyDolphin-2.8-1.1b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

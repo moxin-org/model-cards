@@ -1,0 +1,73 @@
+{
+    "id": "patrickbdevaney/biomistral-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "patrickbdevaney",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-27T06:30:49Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "biomistral-f16.gguf",
+            "size": "14484731968",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f5e6c28bf47941ced4002557df4dccdfd3756b6d9c3313956038fea5d14d6797",
+            "download": {
+                "default": "https://huggingface.co/patrickbdevaney/biomistral-gguf/resolve/main/biomistral-f16.gguf"
+            }
+        },
+        {
+            "name": "biomistral-Q2_K.gguf",
+            "size": "3083098240",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "ee7bbc757ca6a98429fa5a391204c735d47dc2810e20ade7e46f9b7b5f725caa",
+            "download": {
+                "default": "https://huggingface.co/patrickbdevaney/biomistral-gguf/resolve/main/biomistral-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "biomistral-Q3_K_M.gguf",
+            "size": "3518986368",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "9a3e50d1cbb92b15fde04f62388c87b5f7b05fe371c8cc2c2ebfc3394fe27a0e",
+            "download": {
+                "default": "https://huggingface.co/patrickbdevaney/biomistral-gguf/resolve/main/biomistral-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "biomistral-Q5_K_M.gguf",
+            "size": "5131409536",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f4880cad99fd420b473f55bd3d10c53a7f3a5efabc04479b8f90961a871165f0",
+            "download": {
+                "default": "https://huggingface.co/patrickbdevaney/biomistral-gguf/resolve/main/biomistral-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "biomistral-Q8.gguf",
+            "size": "7695857792",
+            "quantization": "",
+            "tags": [],
+            "sha256": "395c01b80c512385c44d6a9705b22ecfe8be5134650185ae61ec1ab368dd7888",
+            "download": {
+                "default": "https://huggingface.co/patrickbdevaney/biomistral-gguf/resolve/main/biomistral-Q8.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

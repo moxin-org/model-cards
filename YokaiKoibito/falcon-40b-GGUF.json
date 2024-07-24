@@ -1,0 +1,123 @@
+{
+    "id": "YokaiKoibito/falcon-40b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "YokaiKoibito",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-05T06:49:30Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "falcon-40b-Q2_K.gguf",
+            "size": "17399970048",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "db1e54d72c681c0324a83fb5746821947cd91f787457681d04f7c8e7c49c2ac0",
+            "download": {
+                "default": "https://huggingface.co/YokaiKoibito/falcon-40b-GGUF/resolve/main/falcon-40b-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "falcon-40b-Q3_K_L.gguf",
+            "size": "21598566656",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "041be080dc7717dee992e85fc97c3db5f8e0c40fdd1173ceb052fb31464f045c",
+            "download": {
+                "default": "https://huggingface.co/YokaiKoibito/falcon-40b-GGUF/resolve/main/falcon-40b-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "falcon-40b-Q3_K_M.gguf",
+            "size": "20061354240",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "5fd286b9e1b0a884614ccb20d6e39d4c1725cde9bf837709e5bfe8d725a162ed",
+            "download": {
+                "default": "https://huggingface.co/YokaiKoibito/falcon-40b-GGUF/resolve/main/falcon-40b-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "falcon-40b-Q3_K_S.gguf",
+            "size": "18323077376",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "b42e83cca8317089a948a0fd5a5b5b2a1267283354a51a4e6253cccfa70e7747",
+            "download": {
+                "default": "https://huggingface.co/YokaiKoibito/falcon-40b-GGUF/resolve/main/falcon-40b-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "falcon-40b-Q4_K_M.gguf",
+            "size": "25452574976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "6ad6b97a2e0f1d134c209fd8cc4db16bb8722ffcd16826ce83a2e319ddaa495f",
+            "download": {
+                "default": "https://huggingface.co/YokaiKoibito/falcon-40b-GGUF/resolve/main/falcon-40b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "falcon-40b-Q4_K_S.gguf",
+            "size": "23808407808",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "e0708e69352ae9da96b8fb6f2dbf094713a1bc88138266d851056b2fbe14b1f4",
+            "download": {
+                "default": "https://huggingface.co/YokaiKoibito/falcon-40b-GGUF/resolve/main/falcon-40b-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "falcon-40b-Q5_K_M.gguf",
+            "size": "30642239744",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "cca6cbec3a7250d12a89c3eac257852c0700d2c94b1c087a4d329a28b77e8975",
+            "download": {
+                "default": "https://huggingface.co/YokaiKoibito/falcon-40b-GGUF/resolve/main/falcon-40b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "falcon-40b-Q5_K_S.gguf",
+            "size": "28971071744",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "ed37d0846b8327b6677a39f7b81ae5a193ddc12711b095c1399fdebe8ffe101e",
+            "download": {
+                "default": "https://huggingface.co/YokaiKoibito/falcon-40b-GGUF/resolve/main/falcon-40b-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "falcon-40b-Q6_K.gguf",
+            "size": "34456402176",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "45e370a8cc451d406cc804191be389c58362d66a3e3ba38ef29f402f7815b977",
+            "download": {
+                "default": "https://huggingface.co/YokaiKoibito/falcon-40b-GGUF/resolve/main/falcon-40b-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "falcon-40b-Q8_0.gguf",
+            "size": "44459063552",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "d763515626e50fd5c88b5059c94b489ab05309a9367da599f826e9354ee04427",
+            "download": {
+                "default": "https://huggingface.co/YokaiKoibito/falcon-40b-GGUF/resolve/main/falcon-40b-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

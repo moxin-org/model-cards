@@ -1,0 +1,93 @@
+{
+    "id": "second-state/Liberated-Qwen1.5-72B-GGUF",
+    "status": "published",
+    "model_type": "unknown",
+    "name": "Qwen 1.5 72B with Liberated finetuning",
+    "summary": "Better at RAG and prompt following",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "72b",
+    "requires": "",
+    "released_at": "2024-03-07T09:17:08Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Liberated-Qwen1.5-72B-Q2_K.gguf",
+            "size": "28461062848",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "f89d0fa0ab2959b1089c7af6b1c8511055ee7361862a5aedfb64d84019b36163",
+            "download": {
+                "default": "https://huggingface.co/second-state/Liberated-Qwen1.5-72B-GGUF/resolve/main/Liberated-Qwen1.5-72B-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Liberated-Qwen1.5-72B-Q3_K_L.gguf",
+            "size": "38486137536",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "5d827d879b4493c25c1df3050392bfdfccd167a0893a4491763b654f9715bb8b",
+            "download": {
+                "default": "https://huggingface.co/second-state/Liberated-Qwen1.5-72B-GGUF/resolve/main/Liberated-Qwen1.5-72B-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Liberated-Qwen1.5-72B-Q3_K_M.gguf",
+            "size": "35927612096",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "f59ba3a099fece434176e4ff752f44b22455121cf34fac4998199a9dfde9f38d",
+            "download": {
+                "default": "https://huggingface.co/second-state/Liberated-Qwen1.5-72B-GGUF/resolve/main/Liberated-Qwen1.5-72B-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Liberated-Qwen1.5-72B-Q3_K_S.gguf",
+            "size": "32949656256",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "d3755c5a1e443b37a5828e9b9dec6ea2589b49e3f22f2c295a1149a1ba5053b1",
+            "download": {
+                "default": "https://huggingface.co/second-state/Liberated-Qwen1.5-72B-GGUF/resolve/main/Liberated-Qwen1.5-72B-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Liberated-Qwen1.5-72B-Q4_0.gguf",
+            "size": "41000393408",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "6a67afa5e38430a71b0e219f7912dc12afb531c5ec0894c6bce85f9076a93652",
+            "download": {
+                "default": "https://huggingface.co/second-state/Liberated-Qwen1.5-72B-GGUF/resolve/main/Liberated-Qwen1.5-72B-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Liberated-Qwen1.5-72B-Q4_K_M.gguf",
+            "size": "44104178368",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "b4873343a987a7de9c2423ca096c4b6225ec0b94dbfa7b7c997c0a6a422eda29",
+            "download": {
+                "default": "https://huggingface.co/second-state/Liberated-Qwen1.5-72B-GGUF/resolve/main/Liberated-Qwen1.5-72B-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Liberated-Qwen1.5-72B-Q4_K_S.gguf",
+            "size": "41923140288",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "a9f7a586387d69109c88370fcd39dc72630026119e496ae31b1210631cf3706b",
+            "download": {
+                "default": "https://huggingface.co/second-state/Liberated-Qwen1.5-72B-GGUF/resolve/main/Liberated-Qwen1.5-72B-Q4_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "chatml",
+    "reverse_prompt": "",
+    "context_size": 8192,
+    "vector_size": 0,
+    "metrics": {}
+}

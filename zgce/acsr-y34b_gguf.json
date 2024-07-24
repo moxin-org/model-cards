@@ -1,0 +1,43 @@
+{
+    "id": "zgce/acsr-y34b_gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "zgce",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-16T09:41:29Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "acsr-y34b-Q5_K_M.gguf",
+            "size": "24321845184",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f2775a34738106ae4b6b0ea872959c9ebc6bf722f2a314a4c77c5e43433a805b",
+            "download": {
+                "default": "https://huggingface.co/zgce/acsr-y34b_gguf/resolve/main/acsr-y34b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "acsr-y34b-Q8_0.gguf",
+            "size": "36542281664",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "fdb4b424de13b5529f8313dd94eb3f92d1a995c63336d0fd95b41b0a0a11c1f7",
+            "download": {
+                "default": "https://huggingface.co/zgce/acsr-y34b_gguf/resolve/main/acsr-y34b-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

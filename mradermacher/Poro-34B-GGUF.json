@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Poro-34B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-09T18:29:24Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Poro-34B.IQ3_M.gguf",
+            "size": "17115797664",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "51545863344b1f5aa45d59f2b4beff74ea0b438bdca48c55464d3bc1c7b197cc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-GGUF/resolve/main/Poro-34B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.IQ3_S.gguf",
+            "size": "15478053024",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "313bf813bf723c98e26cb3c1d37be2d212aa8dca86c01bee27f00c324c6bc66e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-GGUF/resolve/main/Poro-34B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.IQ3_XS.gguf",
+            "size": "15083067552",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "f536485388cf02cc67d5ad137a9d588c3c3c11e332f9c5248bc10bfbd8bc52cf",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-GGUF/resolve/main/Poro-34B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.IQ4_XS.gguf",
+            "size": "19145373856",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "c2448c9f132ba291888ba0138f55830b94440b9af4a06486631d1449ea1b301d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-GGUF/resolve/main/Poro-34B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.Q2_K.gguf",
+            "size": "13412350112",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "5ea4986096fd498eacabaa38f73407c8566b7ac9843d1d230ab3e9b8894fef42",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-GGUF/resolve/main/Poro-34B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.Q3_K_L.gguf",
+            "size": "20160075936",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "d62ed9cfb4987580a4a18b3c3cbaaf83ad79864b540e1babc2bc98373b037860",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-GGUF/resolve/main/Poro-34B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.Q3_K_M.gguf",
+            "size": "18503063712",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "3bc9e999f5907c4fe50188a11d0b5a2f0dbceee57ed4b5cdbf9d8ccc957db77c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-GGUF/resolve/main/Poro-34B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.Q3_K_S.gguf",
+            "size": "15478053024",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "b4f8814d3cc7017a04100b9f6390687c3eddb88c643de6e5153117485ac75217",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-GGUF/resolve/main/Poro-34B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.Q4_K_M.gguf",
+            "size": "22439901344",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5df5fd2c40525f5f8d57bcdef25676636646f0ffaa2601eb5d39219915d02155",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-GGUF/resolve/main/Poro-34B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.Q4_K_S.gguf",
+            "size": "20175960224",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "7d0967fc6b9fcd1ef43aaef92e16d51e5d308342c73b66e98b456b136342e95c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-GGUF/resolve/main/Poro-34B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.Q5_K_M.gguf",
+            "size": "26113472672",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "488414d5c9319820e42208fa0a84ac9a3966d57c7010c2cfc0734e624c103b24",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-GGUF/resolve/main/Poro-34B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.Q5_K_S.gguf",
+            "size": "24298305696",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "a514e9bc57f95382a87e6d4bc12be792a259f525dc1c52a2d646b9717def6047",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-GGUF/resolve/main/Poro-34B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.Q6_K.gguf",
+            "size": "28842072224",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "044f0c6c1f79a3e35032a0ae6d6a090b59dfa5459a4251abdd5c625030a94a6c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-GGUF/resolve/main/Poro-34B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.Q8_0.gguf",
+            "size": "37349972128",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "45d96d2f3d4459104fbbfd64c3960e5ef506c9f47a6baad5cbf5c11931e5e793",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-GGUF/resolve/main/Poro-34B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

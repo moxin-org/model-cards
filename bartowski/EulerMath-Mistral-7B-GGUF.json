@@ -1,0 +1,243 @@
+{
+    "id": "bartowski/EulerMath-Mistral-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bartowski",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-10T03:50:07Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "EulerMath-Mistral-7B-IQ4_XS.gguf",
+            "size": "3907693984",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "c55752a68979cb06421c3be170154b835258222172c1d32fb1d4daf66c90c511",
+            "download": {
+                "default": "https://huggingface.co/bartowski/EulerMath-Mistral-7B-GGUF/resolve/main/EulerMath-Mistral-7B-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "EulerMath-Mistral-7B-Q8_0.gguf",
+            "size": "7695866368",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "721ae34342e4ba58c380763a3fc5afbb3dad0d54248a5f4d95fcdbd2002cfc2a",
+            "download": {
+                "default": "https://huggingface.co/bartowski/EulerMath-Mistral-7B-GGUF/resolve/main/EulerMath-Mistral-7B-Q8_0.gguf"
+            }
+        },
+        {
+            "name": "EulerMath-Mistral-7B-Q6_K.gguf",
+            "size": "5942071872",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "6ad8818340bba7ff11f84f772d38f5fe35768cd259f3feb776f81e215018222e",
+            "download": {
+                "default": "https://huggingface.co/bartowski/EulerMath-Mistral-7B-GGUF/resolve/main/EulerMath-Mistral-7B-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "EulerMath-Mistral-7B-Q5_K_S.gguf",
+            "size": "4997722144",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "416c2942b4e855429a83fcd2b74b54d8e95cda111c8991f9cf75324a5db9e635",
+            "download": {
+                "default": "https://huggingface.co/bartowski/EulerMath-Mistral-7B-GGUF/resolve/main/EulerMath-Mistral-7B-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "EulerMath-Mistral-7B-Q5_K_M.gguf",
+            "size": "5131415584",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "d54233bda306ed22b296072a0e178816d44ff002a906dd85740ee9bb403d2680",
+            "download": {
+                "default": "https://huggingface.co/bartowski/EulerMath-Mistral-7B-GGUF/resolve/main/EulerMath-Mistral-7B-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "EulerMath-Mistral-7B-Q4_K_S.gguf",
+            "size": "4140379680",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "9b32a8f24c8a5ceb76dd7116340e7c6ede2e3b61fc4a10cf3f4642f854ab2a3a",
+            "download": {
+                "default": "https://huggingface.co/bartowski/EulerMath-Mistral-7B-GGUF/resolve/main/EulerMath-Mistral-7B-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "EulerMath-Mistral-7B-Q4_K_M.gguf",
+            "size": "4368444960",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "01103cfeaffc04bcf05ad7f2b06d0e78425d828d5de4eddcd93c0ea00fb6633b",
+            "download": {
+                "default": "https://huggingface.co/bartowski/EulerMath-Mistral-7B-GGUF/resolve/main/EulerMath-Mistral-7B-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "EulerMath-Mistral-7B-Q3_K_S.gguf",
+            "size": "3164572672",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "25ff4b371eb2add75d0d2d9eb47d21118507618801336e0ec220b941a593c081",
+            "download": {
+                "default": "https://huggingface.co/bartowski/EulerMath-Mistral-7B-GGUF/resolve/main/EulerMath-Mistral-7B-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "EulerMath-Mistral-7B-Q3_K_M.gguf",
+            "size": "3518991360",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "766c7bb48a4210359d7d24c9f423b65386f002a41098a0ff75fc56404fb9ebc2",
+            "download": {
+                "default": "https://huggingface.co/bartowski/EulerMath-Mistral-7B-GGUF/resolve/main/EulerMath-Mistral-7B-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "EulerMath-Mistral-7B-Q3_K_L.gguf",
+            "size": "3822029824",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "06f974f2a51947bff14b3088ff374d4dea873d49ae0224a65fe8180e7e93dc4f",
+            "download": {
+                "default": "https://huggingface.co/bartowski/EulerMath-Mistral-7B-GGUF/resolve/main/EulerMath-Mistral-7B-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "EulerMath-Mistral-7B-Q2_K.gguf",
+            "size": "2719246944",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "6064f1ff10b1518168893c6088373a2035b5ded6c2675b784a9c45a91e200256",
+            "download": {
+                "default": "https://huggingface.co/bartowski/EulerMath-Mistral-7B-GGUF/resolve/main/EulerMath-Mistral-7B-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "EulerMath-Mistral-7B-IQ1_M.gguf",
+            "size": "1754449984",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "18ec03d6e0ca7e7352a47db0347e0b6e200233dd4483cde6bfc4c3f488828129",
+            "download": {
+                "default": "https://huggingface.co/bartowski/EulerMath-Mistral-7B-GGUF/resolve/main/EulerMath-Mistral-7B-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "EulerMath-Mistral-7B-IQ4_NL.gguf",
+            "size": "4125699616",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "80e45da2b61a966fa390953b8afbdd295ec1f0a13dc854d5d66e5db97f66176d",
+            "download": {
+                "default": "https://huggingface.co/bartowski/EulerMath-Mistral-7B-GGUF/resolve/main/EulerMath-Mistral-7B-IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "EulerMath-Mistral-7B-IQ3_XXS.gguf",
+            "size": "2827348448",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "f03cab4079bc205f5541ea03d9a938e8e83c083a84d32591bd4361127630c7bd",
+            "download": {
+                "default": "https://huggingface.co/bartowski/EulerMath-Mistral-7B-GGUF/resolve/main/EulerMath-Mistral-7B-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "EulerMath-Mistral-7B-IQ3_XS.gguf",
+            "size": "3018820608",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "67b1f8e582ff6c44aa324e3fb234399d6d5c0f4d6df2de548fdacaa2b6061644",
+            "download": {
+                "default": "https://huggingface.co/bartowski/EulerMath-Mistral-7B-GGUF/resolve/main/EulerMath-Mistral-7B-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "EulerMath-Mistral-7B-IQ3_S.gguf",
+            "size": "3182398464",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "9b811a6c94307b77fcd0bcc998edf5439fd115063259a2cdc308f78525d7c5e9",
+            "download": {
+                "default": "https://huggingface.co/bartowski/EulerMath-Mistral-7B-GGUF/resolve/main/EulerMath-Mistral-7B-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "EulerMath-Mistral-7B-IQ3_M.gguf",
+            "size": "3284896768",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "0b900768fcf23666b2a28675d87368f5106aa58e3c890cb94f9f2b1e8e7f80c9",
+            "download": {
+                "default": "https://huggingface.co/bartowski/EulerMath-Mistral-7B-GGUF/resolve/main/EulerMath-Mistral-7B-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "EulerMath-Mistral-7B-IQ2_XXS.gguf",
+            "size": "1991690304",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "98224db49de388414e844e211d5085a8687af19d5f790d7ea516cdbe75691374",
+            "download": {
+                "default": "https://huggingface.co/bartowski/EulerMath-Mistral-7B-GGUF/resolve/main/EulerMath-Mistral-7B-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "EulerMath-Mistral-7B-IQ2_XS.gguf",
+            "size": "2198259776",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "0aa8a889acb96fcaba8208d5bcc18376340d3c5912155282031f0ad0748300c0",
+            "download": {
+                "default": "https://huggingface.co/bartowski/EulerMath-Mistral-7B-GGUF/resolve/main/EulerMath-Mistral-7B-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "EulerMath-Mistral-7B-IQ2_S.gguf",
+            "size": "2310924768",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "86d36f829c2fb4d714158ee459925d85184da0d9de7483f9da9d47751baba640",
+            "download": {
+                "default": "https://huggingface.co/bartowski/EulerMath-Mistral-7B-GGUF/resolve/main/EulerMath-Mistral-7B-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "EulerMath-Mistral-7B-IQ2_M.gguf",
+            "size": "2500717024",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "802ddb02c78d4b3e02f26440967e30ca5d49e7355144b6f6ef3adb77790bdb34",
+            "download": {
+                "default": "https://huggingface.co/bartowski/EulerMath-Mistral-7B-GGUF/resolve/main/EulerMath-Mistral-7B-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "EulerMath-Mistral-7B-IQ1_S.gguf",
+            "size": "1612105792",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "9b71aebac61cff79d20c9c9b7ab0451c6c4087e4ed6af30003841e1f70cdfdd9",
+            "download": {
+                "default": "https://huggingface.co/bartowski/EulerMath-Mistral-7B-GGUF/resolve/main/EulerMath-Mistral-7B-IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

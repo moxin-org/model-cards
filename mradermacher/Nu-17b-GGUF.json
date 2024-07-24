@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Nu-17b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-10T00:07:49Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Nu-17b.IQ3_M.gguf",
+            "size": "7726052064",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "b760d86e8dad6dfa2c8a8143b6b78560ee139f86215c67fb8e9ccb99926cf913",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nu-17b-GGUF/resolve/main/Nu-17b.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Nu-17b.IQ3_S.gguf",
+            "size": "7486517984",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "e0842a6462141594274eeb09faa014c15724dd3133b88d54eeb9ac4095debdc8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nu-17b-GGUF/resolve/main/Nu-17b.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Nu-17b.IQ3_XS.gguf",
+            "size": "7055684320",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "fdebe0f23c632d4ee96e3b3aafd77c68a690f48d87d2e754ec1fa05362d0eeb4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nu-17b-GGUF/resolve/main/Nu-17b.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Nu-17b.IQ4_XS.gguf",
+            "size": "9273365216",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "902fbf993f0d157d62d407835673cd00ff2cadb8514f326e023c9b44a2631b8a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nu-17b-GGUF/resolve/main/Nu-17b.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Nu-17b.Q2_K.gguf",
+            "size": "6404838112",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "5feffb4349fa5f417cf6ff77368021ebc669a83dd107271e5eb39255e6865a68",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nu-17b-GGUF/resolve/main/Nu-17b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Nu-17b.Q3_K_L.gguf",
+            "size": "9005642464",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "2a01fee79f3fd90530287632cd40af2435c9b98e0e2a1f92d21f48a331b413fd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nu-17b-GGUF/resolve/main/Nu-17b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Nu-17b.Q3_K_M.gguf",
+            "size": "8278979296",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "4b76a9441aba55fcce6494b1dd99de6db0641a7dcb57fbf334a334dbc20f195b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nu-17b-GGUF/resolve/main/Nu-17b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Nu-17b.Q3_K_S.gguf",
+            "size": "7444181728",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "abe43616c8696607831f05460923b2e1b9bf1adca7d4a92f18089b7f7fbf8b56",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nu-17b-GGUF/resolve/main/Nu-17b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Nu-17b.Q4_K_M.gguf",
+            "size": "10279441120",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a24e96b531e3398a7e016c1766a0fc44fb3e6816a9b8466e5e87afdbe39c7f18",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nu-17b-GGUF/resolve/main/Nu-17b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Nu-17b.Q4_K_S.gguf",
+            "size": "9731232480",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "d2ab79d524ec31dba562e8afd18414bb5952f266a5d2da078c7fb60431bd9203",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nu-17b-GGUF/resolve/main/Nu-17b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Nu-17b.Q5_K_M.gguf",
+            "size": "12068967136",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "6597f3e0a00ecfe4bbe9e7d7d9c873f34faa5a6488218a0337721cdc1c85753a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nu-17b-GGUF/resolve/main/Nu-17b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Nu-17b.Q5_K_S.gguf",
+            "size": "11751445216",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "78ed47241b4e03cc8492fd08c57211a291ddafe0ccd11494e30b16e8ffc5fa5a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nu-17b-GGUF/resolve/main/Nu-17b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Nu-17b.Q6_K.gguf",
+            "size": "13970338528",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "fb700406a8be632f82d6dc61d7c059e76d397c25fa9a473230376218e013d50a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nu-17b-GGUF/resolve/main/Nu-17b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Nu-17b.Q8_0.gguf",
+            "size": "18016555744",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "fa1e7b01a63f6f79cc794cf54a3d9f1e6ddc75531e3f36535f3e0ba1798674ea",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nu-17b-GGUF/resolve/main/Nu-17b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,73 @@
+{
+    "id": "mradermacher/MegaDolphin-120b-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-21T06:47:17Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "MegaDolphin-120b.i1-IQ1_S.gguf",
+            "size": "25565448768",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "37405ec6de16e11e07358d108e284a1cb2111d803174ea591a281e34c61449bd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MegaDolphin-120b-i1-GGUF/resolve/main/MegaDolphin-120b.i1-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "MegaDolphin-120b.i1-IQ2_XS.gguf",
+            "size": "35724053056",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "4c9b74e59ab1a741b83b291e179323d7b662ca07133e1fe24da5258fc7504836",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MegaDolphin-120b-i1-GGUF/resolve/main/MegaDolphin-120b.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "MegaDolphin-120b.i1-IQ2_XXS.gguf",
+            "size": "32142117440",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "aa4aa439d415be9902b1e9bd98d286c622633564009f6eda570e0eee4ebdd026",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MegaDolphin-120b-i1-GGUF/resolve/main/MegaDolphin-120b.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "MegaDolphin-120b.i1-IQ3_XXS.gguf",
+            "size": "47190071616",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "511bac5e528ae4f54085ac6b6a867164be9d7719e3153789ce392f9bed7f423c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MegaDolphin-120b-i1-GGUF/resolve/main/MegaDolphin-120b.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "MegaDolphin-120b.i1-Q2_K.gguf",
+            "size": "44495391296",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "66a3c866012aea735f522cdb194b2e19399b59319d66fddc32af4c35d4d4e96b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MegaDolphin-120b-i1-GGUF/resolve/main/MegaDolphin-120b.i1-Q2_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

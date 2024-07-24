@@ -1,0 +1,83 @@
+{
+    "id": "Azure99/blossom-v4-yi-34b-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Azure99",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-24T05:45:01Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-q4_k_m.gguf",
+            "size": "20658710496",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3a8e4c923bf433cb8a592dbeb0f86fb0947978c716938361922c129f70331bca",
+            "download": {
+                "default": "https://huggingface.co/Azure99/blossom-v4-yi-34b-gguf/resolve/main/ggml-model-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_k_s.gguf",
+            "size": "19598649312",
+            "quantization": "",
+            "tags": [],
+            "sha256": "30cb5c35acdd4d1133a7d6b7eaf5dbe2410dc390b9de1a5c97aa4afc4a8c9b39",
+            "download": {
+                "default": "https://huggingface.co/Azure99/blossom-v4-yi-34b-gguf/resolve/main/ggml-model-q4_k_s.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_k_m.gguf",
+            "size": "24321845216",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6ded945a0724388f6de52a97cfbed5efa221a7a11c6c85926b2606e01269726d",
+            "download": {
+                "default": "https://huggingface.co/Azure99/blossom-v4-yi-34b-gguf/resolve/main/ggml-model-q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_k_s.gguf",
+            "size": "23707690976",
+            "quantization": "",
+            "tags": [],
+            "sha256": "61859a492a9564038d758fee435bcb3e09af4d3a6aaa23b3c01af219d84269c1",
+            "download": {
+                "default": "https://huggingface.co/Azure99/blossom-v4-yi-34b-gguf/resolve/main/ggml-model-q5_k_s.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q6_k.gguf",
+            "size": "28213925856",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3b57a06d29d4db385a894b15cde7a50d9ada1d875b74512e35c7c91ed4d4591f",
+            "download": {
+                "default": "https://huggingface.co/Azure99/blossom-v4-yi-34b-gguf/resolve/main/ggml-model-q6_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q8_0.gguf",
+            "size": "36542281696",
+            "quantization": "",
+            "tags": [],
+            "sha256": "58e5c63c1d59f133f78a5616fc38dc7847047ea1b3834821edf78a37fc372210",
+            "download": {
+                "default": "https://huggingface.co/Azure99/blossom-v4-yi-34b-gguf/resolve/main/ggml-model-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

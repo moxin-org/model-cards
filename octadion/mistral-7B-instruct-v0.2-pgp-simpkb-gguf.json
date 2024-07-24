@@ -1,0 +1,53 @@
+{
+    "id": "octadion/mistral-7B-instruct-v0.2-pgp-simpkb-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "octadion",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-29T02:39:54Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistral-7B-instruct-v0.2-pgp-simpkb-Q4_K_M.gguf",
+            "size": "4368439488",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "47de705a5458817e78678f6a221f65163de877f3f9391e4d59d87b69d756f315",
+            "download": {
+                "default": "https://huggingface.co/octadion/mistral-7B-instruct-v0.2-pgp-simpkb-gguf/resolve/main/mistral-7B-instruct-v0.2-pgp-simpkb-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral-7B-instruct-v0.2-pgp-simpkb-Q4_K_S.gguf",
+            "size": "4140374208",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "f64995a2b4a63720b1c25cb303c1b6841a3c0dd4d7176d44f73f7dd6113bbc70",
+            "download": {
+                "default": "https://huggingface.co/octadion/mistral-7B-instruct-v0.2-pgp-simpkb-gguf/resolve/main/mistral-7B-instruct-v0.2-pgp-simpkb-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "mistral-7B-instruct-v0.2-pgp-simpkb-Q5_K_M.gguf",
+            "size": "5131409600",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "b5a49de55c63801f5d6a2edae7a6c84be06373520d9bc67095fa7b6269b82623",
+            "download": {
+                "default": "https://huggingface.co/octadion/mistral-7B-instruct-v0.2-pgp-simpkb-gguf/resolve/main/mistral-7B-instruct-v0.2-pgp-simpkb-Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

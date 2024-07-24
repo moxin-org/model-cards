@@ -1,0 +1,73 @@
+{
+    "id": "saishf/Kuro-Lotus-10.7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "saishf",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-03T01:04:30Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Kuro-Lotus-10.7B-Q2_K.gguf",
+            "size": "4003231904",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "4a119f5fe65c4c359ca61e3c2fd8634ea6efc04d42d7b06ac52fa537812ff9e2",
+            "download": {
+                "default": "https://huggingface.co/saishf/Kuro-Lotus-10.7B-GGUF/resolve/main/Kuro-Lotus-10.7B-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Kuro-Lotus-10.7B-Q3_K_M.gguf",
+            "size": "5195667616",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "52f6b46d142d02fc318059925184e4b725842fcd024347e561f30bf470de5c85",
+            "download": {
+                "default": "https://huggingface.co/saishf/Kuro-Lotus-10.7B-GGUF/resolve/main/Kuro-Lotus-10.7B-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Kuro-Lotus-10.7B-Q4_K_M.gguf",
+            "size": "6461667488",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "fb52e8fe8b676e9995e1a2b24c24522d0a2894d1128d2ff606a717e87b750e50",
+            "download": {
+                "default": "https://huggingface.co/saishf/Kuro-Lotus-10.7B-GGUF/resolve/main/Kuro-Lotus-10.7B-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Kuro-Lotus-10.7B-Q5_K_M.gguf",
+            "size": "7597930656",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f3a8d93127db430c65083670c4ae1fc18cfdcc23126f51e2d72389de3229c290",
+            "download": {
+                "default": "https://huggingface.co/saishf/Kuro-Lotus-10.7B-GGUF/resolve/main/Kuro-Lotus-10.7B-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Kuro-Lotus-10.7B-Q6_K.gguf",
+            "size": "8805210272",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "ebfa06e77291752011172a9c6ebf50763836db04f976762955eab5529ebb8611",
+            "download": {
+                "default": "https://huggingface.co/saishf/Kuro-Lotus-10.7B-GGUF/resolve/main/Kuro-Lotus-10.7B-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

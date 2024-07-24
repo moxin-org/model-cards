@@ -1,0 +1,233 @@
+{
+    "id": "mradermacher/lynn-7b-alpha-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-04T16:46:18Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "lynn-7b-alpha.i1-IQ4_XS.gguf",
+            "size": "4062312096",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "825dec6ec07c6f043264a9661300c472e9f4d39d8966c26416f8caf693eff404",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lynn-7b-alpha-i1-GGUF/resolve/main/lynn-7b-alpha.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "lynn-7b-alpha.i1-Q6_K.gguf",
+            "size": "6096688800",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "205a7eb8a21697cb4f29028b5b09ed08338b5b158ab84330193a8a71b8fda6bf",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lynn-7b-alpha-i1-GGUF/resolve/main/lynn-7b-alpha.i1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "lynn-7b-alpha.i1-Q5_K_S.gguf",
+            "size": "5152339616",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "c68f5f3a205e7e45f3ab667d89b2cb83bb4306966c90f24e6661f621899885b6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lynn-7b-alpha-i1-GGUF/resolve/main/lynn-7b-alpha.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "lynn-7b-alpha.i1-Q5_K_M.gguf",
+            "size": "5286033056",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "90a9fcbf1e941107d183efaacb5d5675de6327e459cf965d62009eef19a166aa",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lynn-7b-alpha-i1-GGUF/resolve/main/lynn-7b-alpha.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "lynn-7b-alpha.i1-Q4_K_S.gguf",
+            "size": "4294997664",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "6eadfc8ffd5af7239c375810b8abe8e96dc4ca5e24d6451c8629979183f10050",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lynn-7b-alpha-i1-GGUF/resolve/main/lynn-7b-alpha.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "lynn-7b-alpha.i1-Q4_K_M.gguf",
+            "size": "4523062944",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "53c1373bb502dc80ae5610eca495ccdb11c1e4a57603596a932b1ec8ebd28c71",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lynn-7b-alpha-i1-GGUF/resolve/main/lynn-7b-alpha.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "lynn-7b-alpha.i1-Q4_0.gguf",
+            "size": "4278220448",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "88c1edb1f9a8bf129214dd22a8c4d331a6971f2009f52cceb5dca745312590a1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lynn-7b-alpha-i1-GGUF/resolve/main/lynn-7b-alpha.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "lynn-7b-alpha.i1-Q3_K_S.gguf",
+            "size": "3319191200",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "18422b143f6f3be9068c446674627d81d938cd43124d776b228453a6191eb7d8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lynn-7b-alpha-i1-GGUF/resolve/main/lynn-7b-alpha.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "lynn-7b-alpha.i1-Q3_K_M.gguf",
+            "size": "3673609888",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "b1c0384fc8e0da3b998a6bbd657aeb7e8ea2f7f12a4684d88bfda9b24c2ea8a9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lynn-7b-alpha-i1-GGUF/resolve/main/lynn-7b-alpha.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "lynn-7b-alpha.i1-Q3_K_L.gguf",
+            "size": "3976648352",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "51ce2a652f10122afd4443e9d0468fac94b36fc3cf3543ae72e01a1b0a1eb1ce",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lynn-7b-alpha-i1-GGUF/resolve/main/lynn-7b-alpha.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "lynn-7b-alpha.i1-Q2_K.gguf",
+            "size": "2873865888",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "075b044f78784f911747c1115519846dd5d2b747ab8b1190e2f46c97c28152b9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lynn-7b-alpha-i1-GGUF/resolve/main/lynn-7b-alpha.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "lynn-7b-alpha.i1-IQ1_M.gguf",
+            "size": "1926477472",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "de494e7e24dbbd2c1bc5febe83e2d3ac392b1d18c5d85e3581de996b0d6ae54e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lynn-7b-alpha-i1-GGUF/resolve/main/lynn-7b-alpha.i1-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "lynn-7b-alpha.i1-IQ3_XXS.gguf",
+            "size": "2999375520",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "3115fe55ae4a9fe8d0549562f7b2356acd28617222e5ce895de698da7498c2d2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lynn-7b-alpha-i1-GGUF/resolve/main/lynn-7b-alpha.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "lynn-7b-alpha.i1-IQ3_XS.gguf",
+            "size": "3173439136",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "b9115a23b87fb86df8e05ca076a9c106479a6b6d2e6f3acc170986cc343c1778",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lynn-7b-alpha-i1-GGUF/resolve/main/lynn-7b-alpha.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "lynn-7b-alpha.i1-IQ3_S.gguf",
+            "size": "3337016992",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "0591bc0bd10e051f7b3c2afcf9209f503c5bbdf2bae9d5783f4216ec9a796431",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lynn-7b-alpha-i1-GGUF/resolve/main/lynn-7b-alpha.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "lynn-7b-alpha.i1-IQ3_M.gguf",
+            "size": "3439515296",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "0e0ffc5a7347c20743553c692bb5f8bf66308df8cd3688b57c8c95b2889e2743",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lynn-7b-alpha-i1-GGUF/resolve/main/lynn-7b-alpha.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "lynn-7b-alpha.i1-IQ2_XXS.gguf",
+            "size": "2163717792",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "08863896cc9159d15de890c0e4cbac342fc4cd27b0cf5c549afacf74872d8542",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lynn-7b-alpha-i1-GGUF/resolve/main/lynn-7b-alpha.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "lynn-7b-alpha.i1-IQ2_XS.gguf",
+            "size": "2370287264",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "248b80777a9cc24762c748dfdcf59ba44c7f0eb7c8a03535d3d89d0006ff27f0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lynn-7b-alpha-i1-GGUF/resolve/main/lynn-7b-alpha.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "lynn-7b-alpha.i1-IQ2_S.gguf",
+            "size": "2482951840",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "a962d318b1fda636879026447ae99dd64fe70acfd67f867a76c77d337a0a01ba",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lynn-7b-alpha-i1-GGUF/resolve/main/lynn-7b-alpha.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "lynn-7b-alpha.i1-IQ2_M.gguf",
+            "size": "2672744096",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "1233717d5d91e22dc27c70de5c44b30fcb3786ad73ff48cfcbcf499d1b27e706",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lynn-7b-alpha-i1-GGUF/resolve/main/lynn-7b-alpha.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "lynn-7b-alpha.i1-IQ1_S.gguf",
+            "size": "1784133280",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "71ed1d402e1910fb114e27fbdd21c942cf7c3d78995b08c783bc127623acc2ca",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lynn-7b-alpha-i1-GGUF/resolve/main/lynn-7b-alpha.i1-IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

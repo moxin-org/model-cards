@@ -1,0 +1,83 @@
+{
+    "id": "macadeliccc/CodeLlama-70b-Instruct-hf-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "macadeliccc",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-30T03:48:17Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "CodeLlama-70b-Instruct-hf.q2_k.gguf",
+            "size": "25462588416",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a79ae268099b968be7a9874511a9cdf4ea431d4bfdbca3d0fea2bf5fc9891ac0",
+            "download": {
+                "default": "https://huggingface.co/macadeliccc/CodeLlama-70b-Instruct-hf-GGUF/resolve/main/CodeLlama-70b-Instruct-hf.q2_k.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-70b-Instruct-hf.q3_k_m.gguf",
+            "size": "33274902528",
+            "quantization": "",
+            "tags": [],
+            "sha256": "674e740efbfaf48b7e52e89a4220b1072baf2ec7e81f2cb23a1d62252fe5314d",
+            "download": {
+                "default": "https://huggingface.co/macadeliccc/CodeLlama-70b-Instruct-hf-GGUF/resolve/main/CodeLlama-70b-Instruct-hf.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-70b-Instruct-hf.q4_0.gguf",
+            "size": "38872431616",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b08aecf777d5f03308b5f1b2fe1e315d6de803d6f98267522aedf528d509d7f7",
+            "download": {
+                "default": "https://huggingface.co/macadeliccc/CodeLlama-70b-Instruct-hf-GGUF/resolve/main/CodeLlama-70b-Instruct-hf.q4_0.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-70b-Instruct-hf.q4_k_m.gguf",
+            "size": "41423092736",
+            "quantization": "",
+            "tags": [],
+            "sha256": "665921ae4d833dfa55dc30e8b28e77ec5fd8405ecf7c932da414cdcacef476f2",
+            "download": {
+                "default": "https://huggingface.co/macadeliccc/CodeLlama-70b-Instruct-hf-GGUF/resolve/main/CodeLlama-70b-Instruct-hf.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-70b-Instruct-hf.q5_0.gguf",
+            "size": "47461596160",
+            "quantization": "",
+            "tags": [],
+            "sha256": "eb63c234144068c09af7756ece536bbf8fcda7459a3b3f59c919a93c93e43dea",
+            "download": {
+                "default": "https://huggingface.co/macadeliccc/CodeLlama-70b-Instruct-hf-GGUF/resolve/main/CodeLlama-70b-Instruct-hf.q5_0.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-70b-Instruct-hf.q5_k_m.gguf",
+            "size": "48753966080",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d8e2486b53c8d6a09d7b71336553f9784ba3d0a6804c36f9ccbe301c9b65da02",
+            "download": {
+                "default": "https://huggingface.co/macadeliccc/CodeLlama-70b-Instruct-hf-GGUF/resolve/main/CodeLlama-70b-Instruct-hf.q5_k_m.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,63 @@
+{
+    "id": "NurtureAI/Hermes-2-Pro-Mistral-13B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "NurtureAI",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-07T01:08:19Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "hermes-2-pro-13b-f16.gguf",
+            "size": "24955039008",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d038f6251ce83ce57f8eb1e8e04e9a473b005d2c1409b79b393c2bfe5ae14a29",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/Hermes-2-Pro-Mistral-13B-GGUF/resolve/main/hermes-2-pro-13b-f16.gguf"
+            }
+        },
+        {
+            "name": "hermes-2-pro-13b-q4_k_m.gguf",
+            "size": "7508463968",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9f4c0eb2d5d1de71b0c94021770151273f4de3c32b4f18044af79f914fd9f191",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/Hermes-2-Pro-Mistral-13B-GGUF/resolve/main/hermes-2-pro-13b-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "hermes-2-pro-13b-q5_k.gguf",
+            "size": "8831390048",
+            "quantization": "",
+            "tags": [],
+            "sha256": "579d0342829097168bc99e2d7ba4f5c1b27df3be4a2b8687c8a6048efcc15c3e",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/Hermes-2-Pro-Mistral-13B-GGUF/resolve/main/hermes-2-pro-13b-q5_k.gguf"
+            }
+        },
+        {
+            "name": "hermes-2-pro-13b-q8_0.gguf",
+            "size": "13258583392",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1d96576e580a0da35664663bcc6f3dd719f2f9cb0b7d454c8455e7bf354db3b2",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/Hermes-2-Pro-Mistral-13B-GGUF/resolve/main/hermes-2-pro-13b-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

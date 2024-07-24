@@ -1,0 +1,163 @@
+{
+    "id": "oblivious/Refact-1.6B-fim-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "oblivious",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-01T17:20:10Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "refact-1_6b-Q2_K.gguf",
+            "size": "698708256",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "b831f483c3b92efe7ca6bf49a60f9f7dda1a0653467d50f2e37f13e9095d563c",
+            "download": {
+                "default": "https://huggingface.co/oblivious/Refact-1.6B-fim-GGUF/resolve/main/refact-1_6b-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "refact-1_6b-Q3_K_L.gguf",
+            "size": "853845280",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "dfdaf7cf67ac287d67cfe5e719dd254a399f94eb5f236f3f88b4f4939e32aa43",
+            "download": {
+                "default": "https://huggingface.co/oblivious/Refact-1.6B-fim-GGUF/resolve/main/refact-1_6b-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "refact-1_6b-Q3_K_M.gguf",
+            "size": "793322784",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e30e5041b4b319b3f2190ac303f2d11adc572e72362aedba671961ac026f5b75",
+            "download": {
+                "default": "https://huggingface.co/oblivious/Refact-1.6B-fim-GGUF/resolve/main/refact-1_6b-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "refact-1_6b-Q3_K_S.gguf",
+            "size": "723002656",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "67cce2faefad56be9f2ef6ce7f543c510174250458797fa0dc31f18880d703d5",
+            "download": {
+                "default": "https://huggingface.co/oblivious/Refact-1.6B-fim-GGUF/resolve/main/refact-1_6b-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "refact-1_6b-Q4_0.gguf",
+            "size": "920217888",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "2363480c1c4bf7500f4e0016cac7ed3aee4831578dde4211f64ea73f4e14b81a",
+            "download": {
+                "default": "https://huggingface.co/oblivious/Refact-1.6B-fim-GGUF/resolve/main/refact-1_6b-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "refact-1_6b-Q4_1.gguf",
+            "size": "1013025056",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "32cf9c01fa5159438e5980c86b5d7350658461faf3e14f8d9235d97ab4d63ea8",
+            "download": {
+                "default": "https://huggingface.co/oblivious/Refact-1.6B-fim-GGUF/resolve/main/refact-1_6b-Q4_1.gguf"
+            }
+        },
+        {
+            "name": "refact-1_6b-Q4_K_M.gguf",
+            "size": "968337696",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "241741c3bb51c99d53ecb2e1891b66e8058e99876e07e82d21f050deb2f090c9",
+            "download": {
+                "default": "https://huggingface.co/oblivious/Refact-1.6B-fim-GGUF/resolve/main/refact-1_6b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "refact-1_6b-Q4_K_S.gguf",
+            "size": "926050592",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "71df078ff473768999a252f066043f824094101bb2666325c3cff0827f5fa26c",
+            "download": {
+                "default": "https://huggingface.co/oblivious/Refact-1.6B-fim-GGUF/resolve/main/refact-1_6b-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "refact-1_6b-Q5_0.gguf",
+            "size": "1105832224",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "8b06ee9d9744db0d9cd04f85f7b3e37efdb93b442f077df4bb66aff71548144d",
+            "download": {
+                "default": "https://huggingface.co/oblivious/Refact-1.6B-fim-GGUF/resolve/main/refact-1_6b-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "refact-1_6b-Q5_1.gguf",
+            "size": "1198639392",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "1439b0e246cdca5c06e5dd853dc46659a70687c78e8d528849e810ab3bf16f7c",
+            "download": {
+                "default": "https://huggingface.co/oblivious/Refact-1.6B-fim-GGUF/resolve/main/refact-1_6b-Q5_1.gguf"
+            }
+        },
+        {
+            "name": "refact-1_6b-Q5_K_M.gguf",
+            "size": "1130621216",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "d9bacddb2d07b94e3f4e20faa80bef12cfe1f5dd780280a7bf67ecb7d250359d",
+            "download": {
+                "default": "https://huggingface.co/oblivious/Refact-1.6B-fim-GGUF/resolve/main/refact-1_6b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "refact-1_6b-Q5_K_S.gguf",
+            "size": "1105832224",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "fdbe88d9432ed40b8424691fb795010120316557516645eb08e992d210f83a88",
+            "download": {
+                "default": "https://huggingface.co/oblivious/Refact-1.6B-fim-GGUF/resolve/main/refact-1_6b-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "refact-1_6b-Q6_K.gguf",
+            "size": "1303047456",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "e6aeade4c43463ac0c1daf83fe343a7b2d95e5847d71e376c3f3f34a1983e373",
+            "download": {
+                "default": "https://huggingface.co/oblivious/Refact-1.6B-fim-GGUF/resolve/main/refact-1_6b-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "refact-1_6b-Q8_0.gguf",
+            "size": "1687086368",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "2298c7e2ad48d17e9db5c46e783b55dfe9e8ed99a00364b9c1f3bd14c0f6519f",
+            "download": {
+                "default": "https://huggingface.co/oblivious/Refact-1.6B-fim-GGUF/resolve/main/refact-1_6b-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

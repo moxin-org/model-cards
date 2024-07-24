@@ -1,0 +1,153 @@
+{
+    "id": "brittlewis12/stable-code-instruct-3b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "brittlewis12",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-25T19:57:10Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "stable-code-3b-q4_k_m.gguf",
+            "size": "1708595936",
+            "quantization": "",
+            "tags": [],
+            "sha256": "31b41fd17357e3a10e0dd46334d0b81b0a6374454ac3d8a6fbf24a6980e1dbdd",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stable-code-instruct-3b-GGUF/resolve/main/stable-code-3b-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "stable-code-3b-q5_k_m.gguf",
+            "size": "1993390816",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fb4c6323f9c6a7bfc1ed72fe50f790ad8db65dcdc47c806eaed87c106b3122bf",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stable-code-instruct-3b-GGUF/resolve/main/stable-code-3b-q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "stable-code-instruct-3b.fp16.gguf",
+            "size": "5593342112",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9b9550acf05c50160bf3ad9756062c4431f17cf9e9ff0158ef1230cd846091ea",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stable-code-instruct-3b-GGUF/resolve/main/stable-code-instruct-3b.fp16.gguf"
+            }
+        },
+        {
+            "name": "stable-code-instruct-3b.Q2_K.gguf",
+            "size": "1083756256",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "d8f3dc6d820f71ddcb2bf0749abb1017cc6753f7e252e8b7751a58e64002c2e3",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stable-code-instruct-3b-GGUF/resolve/main/stable-code-instruct-3b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "stable-code-instruct-3b.Q3_K_L.gguf",
+            "size": "1508565216",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "2f9b7e7d477a756d2cbc7a6313843afa510111e6a64abc9c72b8d91d2cd50e3b",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stable-code-instruct-3b-GGUF/resolve/main/stable-code-instruct-3b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "stable-code-instruct-3b.Q3_K_M.gguf",
+            "size": "1391419616",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "a0abf49a249ce89be933c2f089b587859af8fb5d274f089441c76482ec36eb90",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stable-code-instruct-3b-GGUF/resolve/main/stable-code-instruct-3b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "stable-code-instruct-3b.Q3_K_S.gguf",
+            "size": "1254449376",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "d920545957af897bafe514fefa0709e67db3d5daf6c82a8412cf76704f4b2744",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stable-code-instruct-3b-GGUF/resolve/main/stable-code-instruct-3b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "stable-code-instruct-3b.Q4_K_M.gguf",
+            "size": "1708595936",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4a3a4ca7e7b81a7dddb139c39817e0f2f7636d4d7c0b2087368b9c2eaf417434",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stable-code-instruct-3b-GGUF/resolve/main/stable-code-instruct-3b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "stable-code-instruct-3b.Q4_K_S.gguf",
+            "size": "1620695776",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "f901215ade142d933591fbe50320e6b11e81840ca1ecd6d4753ca0f380e1d4ea",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stable-code-instruct-3b-GGUF/resolve/main/stable-code-instruct-3b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "stable-code-instruct-3b.Q5_K_M.gguf",
+            "size": "1993390816",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f952b22a1682bb0c2862c7fb391833e0122d7192ce4f9270840f95a63cf403b8",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stable-code-instruct-3b-GGUF/resolve/main/stable-code-instruct-3b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "stable-code-instruct-3b.Q5_K_S.gguf",
+            "size": "1941863136",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "c123f8cff87c3fd21ddf1a11d3c6aa15983fdfc32f936ca0fbf1d3f73de7397b",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stable-code-instruct-3b-GGUF/resolve/main/stable-code-instruct-3b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "stable-code-instruct-3b.Q6_K.gguf",
+            "size": "2295985376",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "bf5a4fa7220ccef6f4d58faf9bbf04c574101aed056aec5563d65115974d01d4",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stable-code-instruct-3b-GGUF/resolve/main/stable-code-instruct-3b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "stable-code-instruct-3b.Q8_0.gguf",
+            "size": "2972926176",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "2ffc06aacad9b90fe633c3920d3784618d7419e5704151e9ab7087a5958a3c63",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stable-code-instruct-3b-GGUF/resolve/main/stable-code-instruct-3b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

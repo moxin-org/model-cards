@@ -1,0 +1,73 @@
+{
+    "id": "nold/Smaug-34B-v0.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "nold",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-13T19:59:16Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Smaug-34B-v0.1_Q2_K.gguf",
+            "size": "12825233984",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "5d7b71bd353d0808244d81f96684fc1cb6815b7bbdcc2316ea5e8ab41403e088",
+            "download": {
+                "default": "https://huggingface.co/nold/Smaug-34B-v0.1-GGUF/resolve/main/Smaug-34B-v0.1_Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Smaug-34B-v0.1_Q4_K_M.gguf",
+            "size": "20658711104",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e6c3691d6002ff9f9c0d5b072ba988d90301c714ad5b8c0f26120fd8383be821",
+            "download": {
+                "default": "https://huggingface.co/nold/Smaug-34B-v0.1-GGUF/resolve/main/Smaug-34B-v0.1_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Smaug-34B-v0.1_Q5_K_M.gguf",
+            "size": "24321845824",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f9c02730d15f5ea3b48a7552659710bdee922955d97d51df0a61fd064f665392",
+            "download": {
+                "default": "https://huggingface.co/nold/Smaug-34B-v0.1-GGUF/resolve/main/Smaug-34B-v0.1_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Smaug-34B-v0.1_Q6_K.gguf",
+            "size": "28213926464",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "d3f124ad825338a03d918b9c5a96892cd3b1e4eef2c5c9e07fdfd4ef8411fb15",
+            "download": {
+                "default": "https://huggingface.co/nold/Smaug-34B-v0.1-GGUF/resolve/main/Smaug-34B-v0.1_Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Smaug-34B-v0.1_Q8_0.gguf",
+            "size": "36542282304",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "bcbe493fb02a0edc16f63bba5a81afb94c183f1112fee761d0b7cfb05e13862d",
+            "download": {
+                "default": "https://huggingface.co/nold/Smaug-34B-v0.1-GGUF/resolve/main/Smaug-34B-v0.1_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

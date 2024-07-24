@@ -1,0 +1,63 @@
+{
+    "id": "Undi95/Nete-13B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Undi95",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-25T23:59:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Nete-13B.q4_k_s.gguf",
+            "size": "7414331360",
+            "quantization": "",
+            "tags": [],
+            "sha256": "34a597a556073c1abef0cb86fd497d1b880b914c4953d1f4ba2cda166d68e61b",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Nete-13B-GGUF/resolve/main/Nete-13B.q4_k_s.gguf"
+            }
+        },
+        {
+            "name": "Nete-13B.q5_k_m.gguf",
+            "size": "9229924320",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5c37eb553aef6b06fe73c95e0234c40c9551d368c250fbbf9e45d625bc25ec80",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Nete-13B-GGUF/resolve/main/Nete-13B.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "Nete-13B.q6_k.gguf",
+            "size": "10679140320",
+            "quantization": "",
+            "tags": [],
+            "sha256": "85f415fd40aa76d5b961d15c7727452d60e9d908b31582d2f39f0e24547b66b8",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Nete-13B-GGUF/resolve/main/Nete-13B.q6_k.gguf"
+            }
+        },
+        {
+            "name": "Nete-13B.q8_0.gguf",
+            "size": "13831319520",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f740125a96f522a2865f1602687c9efaa6f8867bbca421cc8de1c934e81d66ff",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Nete-13B-GGUF/resolve/main/Nete-13B.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

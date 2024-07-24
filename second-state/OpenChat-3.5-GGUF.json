@@ -1,0 +1,153 @@
+{
+    "id": "second-state/OpenChat-3.5-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-03T02:50:58Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "openchat_3.5-Q2_K.gguf",
+            "size": "2719251648",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "2176c14ff38a2c8161acec418ca8ffdbf7e973cf985ed3bc8b403b92919373d4",
+            "download": {
+                "default": "https://huggingface.co/second-state/OpenChat-3.5-GGUF/resolve/main/openchat_3.5-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "openchat_3.5-Q3_K_L.gguf",
+            "size": "3822034944",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "1dd4eb92693e0af42a0c7afdef7f19591cf3270ae395a2681eb028e7ce2509a8",
+            "download": {
+                "default": "https://huggingface.co/second-state/OpenChat-3.5-GGUF/resolve/main/openchat_3.5-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "openchat_3.5-Q3_K_M.gguf",
+            "size": "3518996480",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "4bbe83e03ae403920405d448007d754a37893e4ce595a056fe80515576e084dd",
+            "download": {
+                "default": "https://huggingface.co/second-state/OpenChat-3.5-GGUF/resolve/main/openchat_3.5-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "openchat_3.5-Q3_K_S.gguf",
+            "size": "3164577792",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "31494676038d8caeefa92cf4b76a44af702f156a74efc5261548e1f8448cf937",
+            "download": {
+                "default": "https://huggingface.co/second-state/OpenChat-3.5-GGUF/resolve/main/openchat_3.5-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "openchat_3.5-Q4_0.gguf",
+            "size": "4108928064",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "12c68c3c6293e5bcdab2025153a1439d7391c832bc789af4aa00478e1cf6428f",
+            "download": {
+                "default": "https://huggingface.co/second-state/OpenChat-3.5-GGUF/resolve/main/openchat_3.5-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "openchat_3.5-Q4_K_M.gguf",
+            "size": "4368450624",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "d57d81a2eed62f34408cb0db03818a51e7ca49cab2ea63d68f0bb1ee0d25bf15",
+            "download": {
+                "default": "https://huggingface.co/second-state/OpenChat-3.5-GGUF/resolve/main/openchat_3.5-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "openchat_3.5-Q4_K_S.gguf",
+            "size": "4140385344",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "70de5c4800c172f4bdfa3158243dda533de0c0f314c688d4c38e10180953aad8",
+            "download": {
+                "default": "https://huggingface.co/second-state/OpenChat-3.5-GGUF/resolve/main/openchat_3.5-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "openchat_3.5-Q5_0.gguf",
+            "size": "4997728320",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "2ef65c6363d7aa99db0156db7e5f8cdc4bc2f424be9d551ecc260c9d5d77c898",
+            "download": {
+                "default": "https://huggingface.co/second-state/OpenChat-3.5-GGUF/resolve/main/openchat_3.5-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "openchat_3.5-Q5_K_M.gguf",
+            "size": "5131421760",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "cea9e09a3e1d0fa779224710a543a07d92af46a64090af7a32001b94faf66a92",
+            "download": {
+                "default": "https://huggingface.co/second-state/OpenChat-3.5-GGUF/resolve/main/openchat_3.5-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "openchat_3.5-Q5_K_S.gguf",
+            "size": "4997728320",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "a72a7a30612df0378f4bfb30dc30f58922cb85b04c1aa2a21f5c3d01b3494819",
+            "download": {
+                "default": "https://huggingface.co/second-state/OpenChat-3.5-GGUF/resolve/main/openchat_3.5-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "openchat_3.5-Q6_K.gguf",
+            "size": "5942078592",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "905d216a9f9d1b653668ae4fae0222a48d1a576d4043228cdf0ae2e24785d610",
+            "download": {
+                "default": "https://huggingface.co/second-state/OpenChat-3.5-GGUF/resolve/main/openchat_3.5-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "openchat_3.5-Q8_0.gguf",
+            "size": "7695875072",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "787cc439ae6c90ffe3fcb977c3b0f84c5978f3cbb8e55f67973d349839c218b9",
+            "download": {
+                "default": "https://huggingface.co/second-state/OpenChat-3.5-GGUF/resolve/main/openchat_3.5-Q8_0.gguf"
+            }
+        },
+        {
+            "name": "openchat_3.5.Q5_K_M.gguf",
+            "size": "5131421440",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "3abf26b0f2ff11394351a23f8d538a1404a2afb69465a6bbaba8836fef51899d",
+            "download": {
+                "default": "https://huggingface.co/second-state/OpenChat-3.5-GGUF/resolve/main/openchat_3.5.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 4096,
+    "vector_size": 0,
+    "metrics": {}
+}

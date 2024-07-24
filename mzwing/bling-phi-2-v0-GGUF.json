@@ -1,0 +1,163 @@
+{
+    "id": "mzwing/bling-phi-2-v0-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mzwing",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-27T09:25:18Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "bling-phi-2-v0.F16.gguf",
+            "size": "5563088672",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fd0151e17f20c4b975465b7b4a540b2e32e3f6ea93c36d1229867fd204040251",
+            "download": {
+                "default": "https://huggingface.co/mzwing/bling-phi-2-v0-GGUF/resolve/main/bling-phi-2-v0.F16.gguf"
+            }
+        },
+        {
+            "name": "bling-phi-2-v0.F32.gguf",
+            "size": "11120541472",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9d521d79252994c0f3d725f0acb70c87bfe9c6924eb0c621259bff3ee99c4f05",
+            "download": {
+                "default": "https://huggingface.co/mzwing/bling-phi-2-v0-GGUF/resolve/main/bling-phi-2-v0.F32.gguf"
+            }
+        },
+        {
+            "name": "bling-phi-2-v0.Q2_K.gguf",
+            "size": "1088413536",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "d2c7ce6e013e84f44296ec73dab261c3bc42506506947372935b786a14ee36df",
+            "download": {
+                "default": "https://huggingface.co/mzwing/bling-phi-2-v0-GGUF/resolve/main/bling-phi-2-v0.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "bling-phi-2-v0.Q3_K_L.gguf",
+            "size": "1604714336",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "ffa15c1e9a5b04b352f07170ae2abb3a1ed261a45cda99cd15297d194ed6274d",
+            "download": {
+                "default": "https://huggingface.co/mzwing/bling-phi-2-v0-GGUF/resolve/main/bling-phi-2-v0.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "bling-phi-2-v0.Q3_K_M.gguf",
+            "size": "1486749536",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "1e21702f5a4868ba634b12f199efc4b0a846eadf18653115dacf0d78451f4e6d",
+            "download": {
+                "default": "https://huggingface.co/mzwing/bling-phi-2-v0-GGUF/resolve/main/bling-phi-2-v0.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "bling-phi-2-v0.Q3_K_S.gguf",
+            "size": "1250819936",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "aaf031f3261ef0f113f1396f0532013d59ba7166f3e7c4c111098b1328e538cf",
+            "download": {
+                "default": "https://huggingface.co/mzwing/bling-phi-2-v0-GGUF/resolve/main/bling-phi-2-v0.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "bling-phi-2-v0.Q4_0.gguf",
+            "size": "1602461536",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "fdbf829bba900bf7988e052ef8184ef32b1c0eaa6bed9c0a26eb82aaa76ff0e6",
+            "download": {
+                "default": "https://huggingface.co/mzwing/bling-phi-2-v0-GGUF/resolve/main/bling-phi-2-v0.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "bling-phi-2-v0.Q4_K_M.gguf",
+            "size": "1789239136",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e4b4dcb4e7701ef0d31679d6e04a25468e05f2419934a22d59d30a74d10bcece",
+            "download": {
+                "default": "https://huggingface.co/mzwing/bling-phi-2-v0-GGUF/resolve/main/bling-phi-2-v0.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "bling-phi-2-v0.Q4_K_S.gguf",
+            "size": "1628675936",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "fd9d6aaffec6568074489708e0492d7a6cc281ae7b29f30e41ae2653ecc3aace",
+            "download": {
+                "default": "https://huggingface.co/mzwing/bling-phi-2-v0-GGUF/resolve/main/bling-phi-2-v0.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "bling-phi-2-v0.Q5_0.gguf",
+            "size": "1933418336",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "6a407092abd44d6d9fc0b5abd20c6c7e3ce471da5c446b696e352331e4c4c5da",
+            "download": {
+                "default": "https://huggingface.co/mzwing/bling-phi-2-v0-GGUF/resolve/main/bling-phi-2-v0.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "bling-phi-2-v0.Q5_K_M.gguf",
+            "size": "2072682336",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "55b64c12af6f9517005f16daeb6bf28d950f4145c4df7a9bd5cf13d19a2e2b28",
+            "download": {
+                "default": "https://huggingface.co/mzwing/bling-phi-2-v0-GGUF/resolve/main/bling-phi-2-v0.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "bling-phi-2-v0.Q5_K_S.gguf",
+            "size": "1933418336",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "2c10594bcec0995b95bdfbbc68f09c3328246168ffb8a7a32ec276e644103032",
+            "download": {
+                "default": "https://huggingface.co/mzwing/bling-phi-2-v0-GGUF/resolve/main/bling-phi-2-v0.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "bling-phi-2-v0.Q6_K.gguf",
+            "size": "2285059936",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "9329ad4959ddfdf736b04e72e72594d594ba2a281a60ee39f9ab2851f8748f63",
+            "download": {
+                "default": "https://huggingface.co/mzwing/bling-phi-2-v0-GGUF/resolve/main/bling-phi-2-v0.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "bling-phi-2-v0.Q8_0.gguf",
+            "size": "2958032736",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "03f237774d81b67488b20f5f95eed25ac549bed9289d9fa24963b94a80034025",
+            "download": {
+                "default": "https://huggingface.co/mzwing/bling-phi-2-v0-GGUF/resolve/main/bling-phi-2-v0.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

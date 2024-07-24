@@ -1,0 +1,153 @@
+{
+    "id": "mradermacher/silicon-maid-7b-x8-MoE-v2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-22T17:43:27Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "silicon-maid-7b-x8-MoE-v2.IQ3_M.gguf",
+            "size": "21583332768",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "1e52c9dcc848e27fef50a296851d05215ec7ab1f97270860ab2857feff4aca52",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/silicon-maid-7b-x8-MoE-v2-GGUF/resolve/main/silicon-maid-7b-x8-MoE-v2.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "silicon-maid-7b-x8-MoE-v2.IQ3_S.gguf",
+            "size": "20585088416",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "c08f0b75dc3a006a45a803d4d7007a9b026323baf9cabf1b43ee0939a4ba54fc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/silicon-maid-7b-x8-MoE-v2-GGUF/resolve/main/silicon-maid-7b-x8-MoE-v2.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "silicon-maid-7b-x8-MoE-v2.IQ3_XS.gguf",
+            "size": "19436897696",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "f9ca7412579827efb3dd877fedde150269dbecc7abf0083e355f3de2c39c36df",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/silicon-maid-7b-x8-MoE-v2-GGUF/resolve/main/silicon-maid-7b-x8-MoE-v2.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "silicon-maid-7b-x8-MoE-v2.IQ4_XS.gguf",
+            "size": "25526707616",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "13b4e8325e307ed6f3fd153301475b96ee0d078868bd4899559a5984047f6b13",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/silicon-maid-7b-x8-MoE-v2-GGUF/resolve/main/silicon-maid-7b-x8-MoE-v2.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "silicon-maid-7b-x8-MoE-v2.Q2_K.gguf",
+            "size": "17463797152",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a02a9fe4eee8026979d9556995c6c241ba607c705e308c644c1f687b5bb60481",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/silicon-maid-7b-x8-MoE-v2-GGUF/resolve/main/silicon-maid-7b-x8-MoE-v2.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "silicon-maid-7b-x8-MoE-v2.Q3_K_L.gguf",
+            "size": "24322213280",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "83efd8c20a1d4070af2c6364681de95606fcd52cba9392dfb291ea6879a0025e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/silicon-maid-7b-x8-MoE-v2-GGUF/resolve/main/silicon-maid-7b-x8-MoE-v2.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "silicon-maid-7b-x8-MoE-v2.Q3_K_M.gguf",
+            "size": "22699017632",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "7deee4b93eb843bc691768ef3f9fcf1f1ff72d72458b8d2e1404335d08086418",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/silicon-maid-7b-x8-MoE-v2-GGUF/resolve/main/silicon-maid-7b-x8-MoE-v2.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "silicon-maid-7b-x8-MoE-v2.Q3_K_S.gguf",
+            "size": "20585088416",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "16ab3dc1dd0db40f386512202f36d87ca76238d1c69609ea14e243a16d130019",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/silicon-maid-7b-x8-MoE-v2-GGUF/resolve/main/silicon-maid-7b-x8-MoE-v2.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "silicon-maid-7b-x8-MoE-v2.Q4_K_M.gguf",
+            "size": "28601034144",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "09cea50edde6c8448f2d36c34cbaf665f61fcfd2cb664a070b80d9553427a589",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/silicon-maid-7b-x8-MoE-v2-GGUF/resolve/main/silicon-maid-7b-x8-MoE-v2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "silicon-maid-7b-x8-MoE-v2.Q4_K_S.gguf",
+            "size": "26898146720",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "cba8484d91aa844bb88d9df6136cc3cb9df9c42c9752c38d7468c1cbe92bb0f4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/silicon-maid-7b-x8-MoE-v2-GGUF/resolve/main/silicon-maid-7b-x8-MoE-v2.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "silicon-maid-7b-x8-MoE-v2.Q5_K_M.gguf",
+            "size": "33382147488",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "270af14d52762ece78fac726d14b434f1d44daecd3497b96c432a8e7a9d98f10",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/silicon-maid-7b-x8-MoE-v2-GGUF/resolve/main/silicon-maid-7b-x8-MoE-v2.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "silicon-maid-7b-x8-MoE-v2.Q5_K_S.gguf",
+            "size": "32383903136",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "4fcda29a14e9b0f4f5e8b8e68e49f56340a6bfeb57f72839016b53f659e6d4c3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/silicon-maid-7b-x8-MoE-v2-GGUF/resolve/main/silicon-maid-7b-x8-MoE-v2.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "silicon-maid-7b-x8-MoE-v2.Q6_K.gguf",
+            "size": "38533383584",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "0eb12a645c6f353725e759b87e04036e09f3d4f5106bc5b971a4a1d6e69c7db6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/silicon-maid-7b-x8-MoE-v2-GGUF/resolve/main/silicon-maid-7b-x8-MoE-v2.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

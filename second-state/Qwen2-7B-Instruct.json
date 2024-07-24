@@ -1,0 +1,153 @@
+{
+    "id": "second-state/Qwen2-7B-Instruct-GGUF",
+    "status": "published",
+    "model_type": "instruct",
+    "name": "Qwen2-7B-Instruct",
+    "summary": "Qwen2-7B-Instruct",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "7b",
+    "requires": "",
+    "released_at": "2024-06-07T02:45:12Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Qwen2-7B-Instruct-f16.gguf",
+            "size": "15237850656",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2640a828a839956454e9904b5811c8b7cfd3a1323312e3bf3bcc05a978fa38e5",
+            "download": {
+                "default": "https://huggingface.co/second-state/Qwen2-7B-Instruct-GGUF/resolve/main/Qwen2-7B-Instruct-f16.gguf"
+            }
+        },
+        {
+            "name": "Qwen2-7B-Instruct-Q2_K.gguf",
+            "size": "3015937568",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "848963f9fc73581a55722ec7df655f9e1b0cd3ec4d3e3285309d222ac7fddf16",
+            "download": {
+                "default": "https://huggingface.co/second-state/Qwen2-7B-Instruct-GGUF/resolve/main/Qwen2-7B-Instruct-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Qwen2-7B-Instruct-Q3_K_L.gguf",
+            "size": "4088456736",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "bec871859dfb3b162b4a8dd942a01d3249cc238a0766615c74862826495e1f41",
+            "download": {
+                "default": "https://huggingface.co/second-state/Qwen2-7B-Instruct-GGUF/resolve/main/Qwen2-7B-Instruct-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Qwen2-7B-Instruct-Q3_K_M.gguf",
+            "size": "3808388640",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "57496563e116df4f86a1fec21e46f5b05ee649a8d00b7942f82540abcb5697a4",
+            "download": {
+                "default": "https://huggingface.co/second-state/Qwen2-7B-Instruct-GGUF/resolve/main/Qwen2-7B-Instruct-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Qwen2-7B-Instruct-Q3_K_S.gguf",
+            "size": "3492365856",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "0095bd5776b379ad84e14768205bd5626d1414021660a9ca146b7956677dab3a",
+            "download": {
+                "default": "https://huggingface.co/second-state/Qwen2-7B-Instruct-GGUF/resolve/main/Qwen2-7B-Instruct-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Qwen2-7B-Instruct-Q4_0.gguf",
+            "size": "4431388192",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "97d64ebb159ff2940801c0e3be85ce0f62c49c7fdc7b6e4d4bbd01dff1624792",
+            "download": {
+                "default": "https://huggingface.co/second-state/Qwen2-7B-Instruct-GGUF/resolve/main/Qwen2-7B-Instruct-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Qwen2-7B-Instruct-Q4_K_M.gguf",
+            "size": "4683071008",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "143bc13bb99079bba3b47c3e4309cd143dbf020f558acb606906d4d4e8ff7ac6",
+            "download": {
+                "default": "https://huggingface.co/second-state/Qwen2-7B-Instruct-GGUF/resolve/main/Qwen2-7B-Instruct-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Qwen2-7B-Instruct-Q4_K_S.gguf",
+            "size": "4457766432",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "335dc196141077df3c2b366cdc030dc9eb3fb56a8715dbd2ab0f6bfbee436711",
+            "download": {
+                "default": "https://huggingface.co/second-state/Qwen2-7B-Instruct-GGUF/resolve/main/Qwen2-7B-Instruct-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Qwen2-7B-Instruct-Q5_0.gguf",
+            "size": "5315173920",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "78a590030cfd708f4d572c6a217d62b7aaa8b06b755465e5aea429d04297ffc0",
+            "download": {
+                "default": "https://huggingface.co/second-state/Qwen2-7B-Instruct-GGUF/resolve/main/Qwen2-7B-Instruct-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Qwen2-7B-Instruct-Q5_K_M.gguf",
+            "size": "5444828704",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "cd190a5a43c597ac946b6595351ea4410ccb43462856e608c553ca3f0889c88d",
+            "download": {
+                "default": "https://huggingface.co/second-state/Qwen2-7B-Instruct-GGUF/resolve/main/Qwen2-7B-Instruct-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Qwen2-7B-Instruct-Q5_K_S.gguf",
+            "size": "5315173920",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "87154b1089727deb7d1952c58e3039c3245e250603c0bce751946ccc4334b8e6",
+            "download": {
+                "default": "https://huggingface.co/second-state/Qwen2-7B-Instruct-GGUF/resolve/main/Qwen2-7B-Instruct-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Qwen2-7B-Instruct-Q6_K.gguf",
+            "size": "6254196256",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "babb35399ae032173c01aee36f46246aaa114730374bf3fecaa435ea7eef6cd0",
+            "download": {
+                "default": "https://huggingface.co/second-state/Qwen2-7B-Instruct-GGUF/resolve/main/Qwen2-7B-Instruct-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Qwen2-7B-Instruct-Q8_0.gguf",
+            "size": "8098522656",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "8c3c7010ad6ed817799645fc4d83cf607132311677fe53408bd812dcdeb1311f",
+            "download": {
+                "default": "https://huggingface.co/second-state/Qwen2-7B-Instruct-GGUF/resolve/main/Qwen2-7B-Instruct-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "chatml",
+    "reverse_prompt": "",
+    "context_size": 131072,
+    "vector_size": 0,
+    "metrics": {}
+}

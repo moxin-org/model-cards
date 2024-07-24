@@ -1,0 +1,83 @@
+{
+    "id": "Sao10K/Stheno-v2-Alpha-F2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Sao10K",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-24T16:56:30Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Stheno-v2-Alpha.q3_K_S.gguf",
+            "size": "5658980224",
+            "quantization": "",
+            "tags": [],
+            "sha256": "42e78de76b8b28b7292881e93483a8d4f0501ac751d1757b6771ed19fc04b532",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Stheno-v2-Alpha-F2-GGUF/resolve/main/Stheno-v2-Alpha.q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Stheno-v2-Alpha.q4_K_S.gguf",
+            "size": "7414331264",
+            "quantization": "",
+            "tags": [],
+            "sha256": "69a263b23604ee82e91043d39e96f94b2a03e92cc61cff184597aed8c5169edb",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Stheno-v2-Alpha-F2-GGUF/resolve/main/Stheno-v2-Alpha.q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Stheno-v2-Alpha.q5_K_M.gguf",
+            "size": "9229924224",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e87e08581f5ce71233ca23cf537abbe132b3253d1464bc86403f64afe86b40b2",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Stheno-v2-Alpha-F2-GGUF/resolve/main/Stheno-v2-Alpha.q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Stheno-v2-Alpha.q5_K_S.gguf",
+            "size": "8972285824",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a8f80eb83852aad89016c7ffbbcb3d59e2bd4d9b1a042d0ff66c73e9f4b0a0be",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Stheno-v2-Alpha-F2-GGUF/resolve/main/Stheno-v2-Alpha.q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Stheno-v2-Alpha.q6_K.gguf",
+            "size": "10679140224",
+            "quantization": "",
+            "tags": [],
+            "sha256": "72226d7f5ff62a6c64ec7ba1d15ff4b598783c62665b0e0104bfd1feacefbd79",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Stheno-v2-Alpha-F2-GGUF/resolve/main/Stheno-v2-Alpha.q6_K.gguf"
+            }
+        },
+        {
+            "name": "Stheno-v2-Alpha.q8_0.gguf",
+            "size": "13831319424",
+            "quantization": "",
+            "tags": [],
+            "sha256": "deffc97100435693b9c790489c9680ca36880a74e73eaaaa8f984376f8c5c3f5",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Stheno-v2-Alpha-F2-GGUF/resolve/main/Stheno-v2-Alpha.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,43 @@
+{
+    "id": "Bobblack225/Tulpar-7b-v2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Bobblack225",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-10T19:52:49Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tulpar-7b-v2.Q4_K_M.gguf",
+            "size": "4368438912",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "b5d0a5416484543a6b495a38571a165152d0f06e8c882e40484135b8679b9663",
+            "download": {
+                "default": "https://huggingface.co/Bobblack225/Tulpar-7b-v2-GGUF/resolve/main/tulpar-7b-v2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "tulpar-7b-v2.Q5_K_M.gguf",
+            "size": "5131409024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "6452368b60a99d6af44a56aeb2b671757e7fa5c5b9d949878e3a2b0556a5ca99",
+            "download": {
+                "default": "https://huggingface.co/Bobblack225/Tulpar-7b-v2-GGUF/resolve/main/tulpar-7b-v2.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

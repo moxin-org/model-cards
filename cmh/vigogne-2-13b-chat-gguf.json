@@ -1,0 +1,123 @@
+{
+    "id": "cmh/vigogne-2-13b-chat-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "cmh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-20T22:47:00Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "vigogne-2-13b-chat-f16.gguf",
+            "size": "26033303392",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c3a6626e73d19d5267daf85fc740e2e7bef1f81fb17885a5f94171c334bfa499",
+            "download": {
+                "default": "https://huggingface.co/cmh/vigogne-2-13b-chat-gguf/resolve/main/vigogne-2-13b-chat-f16.gguf"
+            }
+        },
+        {
+            "name": "vigogne-2-13b-chat-Q3_K_L.gguf",
+            "size": "6929559424",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "604978cfb143f3af492341cda12b76c687d198572f0cb7ee8d74e97034faa254",
+            "download": {
+                "default": "https://huggingface.co/cmh/vigogne-2-13b-chat-gguf/resolve/main/vigogne-2-13b-chat-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "vigogne-2-13b-chat-Q3_K_M.gguf",
+            "size": "6337769344",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "8946add320ac5f2799f2f05d9dd31552696d7a1934fb2021bd28fca2d22b28e6",
+            "download": {
+                "default": "https://huggingface.co/cmh/vigogne-2-13b-chat-gguf/resolve/main/vigogne-2-13b-chat-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "vigogne-2-13b-chat-Q3_K_S.gguf",
+            "size": "5658980224",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "4d8152bdfa6c01b4031582f18fdb1f6613d4c2a95454397ab7751b748ec00467",
+            "download": {
+                "default": "https://huggingface.co/cmh/vigogne-2-13b-chat-gguf/resolve/main/vigogne-2-13b-chat-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "vigogne-2-13b-chat-Q4_K_M.gguf",
+            "size": "7865956224",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4792ff485e339af215d44e870bc26d6fed5fad1a3d1b4deccdc3afdf5d4a7c33",
+            "download": {
+                "default": "https://huggingface.co/cmh/vigogne-2-13b-chat-gguf/resolve/main/vigogne-2-13b-chat-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "vigogne-2-13b-chat-Q4_K_S.gguf",
+            "size": "7414331264",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "a51bb5d3b3780690d7413d855374d213c427673ed6d99b7998c88a3e87a7419f",
+            "download": {
+                "default": "https://huggingface.co/cmh/vigogne-2-13b-chat-gguf/resolve/main/vigogne-2-13b-chat-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "vigogne-2-13b-chat-Q5_K_M.gguf",
+            "size": "9229924224",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "fba68bd7458bd12314ad7709e237f8657cb11bdb7fc98aa62d2f2df1d5621e62",
+            "download": {
+                "default": "https://huggingface.co/cmh/vigogne-2-13b-chat-gguf/resolve/main/vigogne-2-13b-chat-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "vigogne-2-13b-chat-Q5_K_S.gguf",
+            "size": "8972285824",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "4effefe43dd25c61050d9f702e2a419dfc2a13c21460c106ac1fcae6c62070dc",
+            "download": {
+                "default": "https://huggingface.co/cmh/vigogne-2-13b-chat-gguf/resolve/main/vigogne-2-13b-chat-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "vigogne-2-13b-chat-Q6_K.gguf",
+            "size": "10679140224",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "2549af122a37a30dd21d5781b13fe14ed08d7d08ee7e37dfcf92f90ae9ac8fda",
+            "download": {
+                "default": "https://huggingface.co/cmh/vigogne-2-13b-chat-gguf/resolve/main/vigogne-2-13b-chat-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "vigogne-2-13b-chat-Q8_0.gguf",
+            "size": "13831319424",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "b60902eef7ed30d030d6e1b79495379882ab6b94b2073c9a9b5ddf597ef7940e",
+            "download": {
+                "default": "https://huggingface.co/cmh/vigogne-2-13b-chat-gguf/resolve/main/vigogne-2-13b-chat-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

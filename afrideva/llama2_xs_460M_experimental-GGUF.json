@@ -1,0 +1,83 @@
+{
+    "id": "afrideva/llama2_xs_460M_experimental-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-22T23:35:17Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llama2_xs_460m_experimental.q2_k.gguf",
+            "size": "212556704",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5d13842537a699b6a4b0d041991385f74279ce486aa762980111d41baebcb119",
+            "download": {
+                "default": "https://huggingface.co/afrideva/llama2_xs_460M_experimental-GGUF/resolve/main/llama2_xs_460m_experimental.q2_k.gguf"
+            }
+        },
+        {
+            "name": "llama2_xs_460m_experimental.q3_k_m.gguf",
+            "size": "238874528",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1164e0d296d8a72c2249a337a4721be012c1d4bee68dc8e61b8900291d5d5c16",
+            "download": {
+                "default": "https://huggingface.co/afrideva/llama2_xs_460M_experimental-GGUF/resolve/main/llama2_xs_460m_experimental.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "llama2_xs_460m_experimental.q4_k_m.gguf",
+            "size": "288514976",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5f9573e073499281ce3bc1242abab99a3983d9bd208e5d05be49c61712e5318e",
+            "download": {
+                "default": "https://huggingface.co/afrideva/llama2_xs_460M_experimental-GGUF/resolve/main/llama2_xs_460m_experimental.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "llama2_xs_460m_experimental.q5_k_m.gguf",
+            "size": "333292448",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3e8424159443aa6d223b8adad295d0e1eba5e1d635bf9af52fcc04e09385196a",
+            "download": {
+                "default": "https://huggingface.co/afrideva/llama2_xs_460M_experimental-GGUF/resolve/main/llama2_xs_460m_experimental.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "llama2_xs_460m_experimental.q6_k.gguf",
+            "size": "380868512",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d022b15f874017bcb1efede3b7944840227b0943a7c8d6e5201f7c8de791c4ca",
+            "download": {
+                "default": "https://huggingface.co/afrideva/llama2_xs_460M_experimental-GGUF/resolve/main/llama2_xs_460m_experimental.q6_k.gguf"
+            }
+        },
+        {
+            "name": "llama2_xs_460m_experimental.q8_0.gguf",
+            "size": "492670880",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9d84b43db7c2967dbe35ef6fa0ba358a7c0f72c65fb7f8bc31378e4c73707ae8",
+            "download": {
+                "default": "https://huggingface.co/afrideva/llama2_xs_460M_experimental-GGUF/resolve/main/llama2_xs_460m_experimental.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

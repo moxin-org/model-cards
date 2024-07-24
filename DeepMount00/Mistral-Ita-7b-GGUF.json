@@ -1,0 +1,53 @@
+{
+    "id": "DeepMount00/Mistral-Ita-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "DeepMount00",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-08T16:00:11Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistal-Ita-7b-q3_k_m.gguf",
+            "size": "",
+            "quantization": "",
+            "tags": [],
+            "sha256": "142b6880d6da6fdd6f8b9c6dbe6703a115ad987975de810ac351782a46f125b7",
+            "download": {
+                "default": "https://huggingface.co/DeepMount00/Mistral-Ita-7b-GGUF/resolve/main/mistal-Ita-7b-q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "mistal-Ita-7b-q4_k_m.gguf",
+            "size": "",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0c5f78c05b2d0d19e5c938dbfaea6721c365b69f69132aa2552063a155f24774",
+            "download": {
+                "default": "https://huggingface.co/DeepMount00/Mistral-Ita-7b-GGUF/resolve/main/mistal-Ita-7b-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "mistal-Ita-7b-q5_k_m.gguf",
+            "size": "",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ffafe7f5a5d4d63fdf83e921cabf28159085bffaadeb34381aac098267eb962b",
+            "download": {
+                "default": "https://huggingface.co/DeepMount00/Mistral-Ita-7b-GGUF/resolve/main/mistal-Ita-7b-q5_k_m.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

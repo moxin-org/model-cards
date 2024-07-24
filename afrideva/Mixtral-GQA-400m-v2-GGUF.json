@@ -1,0 +1,93 @@
+{
+    "id": "afrideva/Mixtral-GQA-400m-v2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-27T16:19:31Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mixtral-gqa-400m-v2.fp16.gguf",
+            "size": "4012884640",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5ecf4c3e0a3f9030e76c42230dc34cdcda197e83b16137da8df6193ccc564460",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Mixtral-GQA-400m-v2-GGUF/resolve/main/mixtral-gqa-400m-v2.fp16.gguf"
+            }
+        },
+        {
+            "name": "mixtral-gqa-400m-v2.q2_k.gguf",
+            "size": "703279808",
+            "quantization": "",
+            "tags": [],
+            "sha256": "43bb170f4bb1b6356f25e35624c23fd5e7e18fc990c4e9bbf4df0d87b4ed76ea",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Mixtral-GQA-400m-v2-GGUF/resolve/main/mixtral-gqa-400m-v2.q2_k.gguf"
+            }
+        },
+        {
+            "name": "mixtral-gqa-400m-v2.q3_k_m.gguf",
+            "size": "899859136",
+            "quantization": "",
+            "tags": [],
+            "sha256": "83aadab52787c105a87e50f3a14c6e49fb2db187f284b38bfd573107453b8f67",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Mixtral-GQA-400m-v2-GGUF/resolve/main/mixtral-gqa-400m-v2.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "mixtral-gqa-400m-v2.q4_k_m.gguf",
+            "size": "1152553664",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d533c3a33070b1ac6c40ee47958629d9556303db0a2ad8ee2eaebe9901655fb8",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Mixtral-GQA-400m-v2-GGUF/resolve/main/mixtral-gqa-400m-v2.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "mixtral-gqa-400m-v2.q5_k_m.gguf",
+            "size": "1393529536",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d737e4e7a8800400d0bd485056e2782fb021dc52912006f420587805837b2072",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Mixtral-GQA-400m-v2-GGUF/resolve/main/mixtral-gqa-400m-v2.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "mixtral-gqa-400m-v2.q6_k.gguf",
+            "size": "1649566400",
+            "quantization": "",
+            "tags": [],
+            "sha256": "cb33093956ae6efb00dfe763eb1dbb720ba73ac2a93e87cae88c42b7663e89f9",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Mixtral-GQA-400m-v2-GGUF/resolve/main/mixtral-gqa-400m-v2.q6_k.gguf"
+            }
+        },
+        {
+            "name": "mixtral-gqa-400m-v2.q8_0.gguf",
+            "size": "2132329152",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5cdab65e77cd01d000b3522b93f06543b21667b56ce639cd77fd95be3ea3c395",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Mixtral-GQA-400m-v2-GGUF/resolve/main/mixtral-gqa-400m-v2.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

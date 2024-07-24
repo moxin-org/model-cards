@@ -1,0 +1,173 @@
+{
+    "id": "mradermacher/NexusMistral2-7B-slerp-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-31T13:04:21Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "NexusMistral2-7B-slerp.IQ3_M.gguf",
+            "size": "3439515840",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "9667daeb570722cfe184fc4e3aa984daa7a61f2af0ab7d09a5ae61c1c61c6dc6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusMistral2-7B-slerp-GGUF/resolve/main/NexusMistral2-7B-slerp.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "NexusMistral2-7B-slerp.IQ3_S.gguf",
+            "size": "3337017536",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "d64baa99f92f2e970547e2f98e4c721bfb2f226cdf9d07adc23c58b8c5911743",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusMistral2-7B-slerp-GGUF/resolve/main/NexusMistral2-7B-slerp.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "NexusMistral2-7B-slerp.IQ3_XS.gguf",
+            "size": "3173439680",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "3c0e9116199c0e5b6108414b5bc122394f487b32107336635aebe4eff0c72c6f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusMistral2-7B-slerp-GGUF/resolve/main/NexusMistral2-7B-slerp.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "NexusMistral2-7B-slerp.IQ4_XS.gguf",
+            "size": "4099012800",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "4ae21c3d6497300014d57384a45d6850236ed57cf416c6b910ee646ebdf66490",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusMistral2-7B-slerp-GGUF/resolve/main/NexusMistral2-7B-slerp.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "NexusMistral2-7B-slerp.Q2_K.gguf",
+            "size": "2873866432",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "805ca038a0bcc7aae99bec2493ca51c3f5737e13a0625b64656e5b14948676f5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusMistral2-7B-slerp-GGUF/resolve/main/NexusMistral2-7B-slerp.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "NexusMistral2-7B-slerp.Q3_K_L.gguf",
+            "size": "3976648896",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "8afa29a58927e43190395302357712e3b4bbd20a75d45b2e57d9164e1ae1c6a6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusMistral2-7B-slerp-GGUF/resolve/main/NexusMistral2-7B-slerp.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "NexusMistral2-7B-slerp.Q3_K_M.gguf",
+            "size": "3673610432",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "1cf40a984ad2eb3828e1e8ca69fdc7d651c7d241f24f1149b6c317f2c48f3647",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusMistral2-7B-slerp-GGUF/resolve/main/NexusMistral2-7B-slerp.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "NexusMistral2-7B-slerp.Q3_K_S.gguf",
+            "size": "3319191744",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "d687b652323ec41d5c9298591cfab14cb6005575fc664055d995d9fb4c836790",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusMistral2-7B-slerp-GGUF/resolve/main/NexusMistral2-7B-slerp.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "NexusMistral2-7B-slerp.Q4_0.gguf",
+            "size": "4263540928",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "9c6c0749d53e55bde19df6951876264dfa95697f1d7d70727d217c1f79aaa439",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusMistral2-7B-slerp-GGUF/resolve/main/NexusMistral2-7B-slerp.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "NexusMistral2-7B-slerp.Q4_K_M.gguf",
+            "size": "4523063488",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4ad3ac1312726cf9ff290b13ba018de87f11796d792ccbc1531c805e8612e509",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusMistral2-7B-slerp-GGUF/resolve/main/NexusMistral2-7B-slerp.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "NexusMistral2-7B-slerp.Q4_K_S.gguf",
+            "size": "4294998208",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "149e90c071f7e016b1e062243b8bc925b868df05dac6d056f2afe5fd8ade3df1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusMistral2-7B-slerp-GGUF/resolve/main/NexusMistral2-7B-slerp.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "NexusMistral2-7B-slerp.Q5_K_M.gguf",
+            "size": "5286033600",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "a2535b17509d4a427341bd341cd784eef32d20d5367fbde8e381c8d554473a34",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusMistral2-7B-slerp-GGUF/resolve/main/NexusMistral2-7B-slerp.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "NexusMistral2-7B-slerp.Q5_K_S.gguf",
+            "size": "5152340160",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "366a3ba70feb88237e297199affafdf44c85c717621a32b73ebf17de3b6a2d0c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusMistral2-7B-slerp-GGUF/resolve/main/NexusMistral2-7B-slerp.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "NexusMistral2-7B-slerp.Q6_K.gguf",
+            "size": "6096689344",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "d896f6cf1a2d73a5e0bb4302311ce9d130dd3ee6e00a39ee9ee053bd7ab77b40",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusMistral2-7B-slerp-GGUF/resolve/main/NexusMistral2-7B-slerp.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "NexusMistral2-7B-slerp.Q8_0.gguf",
+            "size": "7818737856",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "25c30f794b59cc7504c53df84e4060b69dc2400960a8d749eb1c61273f4ec4f5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusMistral2-7B-slerp-GGUF/resolve/main/NexusMistral2-7B-slerp.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

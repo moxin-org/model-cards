@@ -1,0 +1,43 @@
+{
+    "id": "LDCC/LDCC-SOLAR-10.7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LDCC",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-29T01:11:01Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-f16.gguf",
+            "size": "21727126720",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3fc5c13a202425b163b22350f60e076819d208d935a1110547f8bb73711456de",
+            "download": {
+                "default": "https://huggingface.co/LDCC/LDCC-SOLAR-10.7B-GGUF/resolve/main/ggml-model-f16.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q8_0.gguf",
+            "size": "11543815360",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d1930fd310985f09a4d4bac3f797679cf3e3a3f386f8a0c0999553e8654f4a85",
+            "download": {
+                "default": "https://huggingface.co/LDCC/LDCC-SOLAR-10.7B-GGUF/resolve/main/ggml-model-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,43 @@
+{
+    "id": "pitou-ice/Hermes-2-Pro-Mistral-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "pitou-ice",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-15T22:41:44Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Hermes-2-Pro-Mistral-7B-q4_0.gguf",
+            "size": "4109098784",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b15eff80197c3dc48fec1b072e6ae24ee3ee68e552e9a5fc48108dc5912a87d2",
+            "download": {
+                "default": "https://huggingface.co/pitou-ice/Hermes-2-Pro-Mistral-7B-GGUF/resolve/main/Hermes-2-Pro-Mistral-7B-q4_0.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Mistral-7B-q8_0.gguf",
+            "size": "7696136992",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f1cd19c87efdeb87d20dde371a7f751573a6ff155c10b388bcf9702805484813",
+            "download": {
+                "default": "https://huggingface.co/pitou-ice/Hermes-2-Pro-Mistral-7B-GGUF/resolve/main/Hermes-2-Pro-Mistral-7B-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

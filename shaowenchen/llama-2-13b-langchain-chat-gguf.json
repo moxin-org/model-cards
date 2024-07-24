@@ -1,0 +1,173 @@
+{
+    "id": "shaowenchen/llama-2-13b-langchain-chat-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "shaowenchen",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-13T11:35:51Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llama-2-13b-langchain-chat.gguf",
+            "size": "26033303392",
+            "quantization": "",
+            "tags": [],
+            "sha256": "817b7705f38b5356c077b1a85bc8c35d123346a889ec155f5b24f85954206cb6",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/llama-2-13b-langchain-chat-gguf/resolve/main/llama-2-13b-langchain-chat.gguf"
+            }
+        },
+        {
+            "name": "llama-2-13b-langchain-chat.Q2_K.gguf",
+            "size": "5429348224",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "1e5a9b5dfa253be4f1498cc8ea880495b79906ff7c92b39de09182ab6488085b",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/llama-2-13b-langchain-chat-gguf/resolve/main/llama-2-13b-langchain-chat.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "llama-2-13b-langchain-chat.Q3_K_L.gguf",
+            "size": "6929559424",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "4da369126765cae2fe19ddaa0694d324542149f3411070c381450f23fe4ab656",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/llama-2-13b-langchain-chat-gguf/resolve/main/llama-2-13b-langchain-chat.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "llama-2-13b-langchain-chat.Q3_K_S.gguf",
+            "size": "5658980224",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "4a8ec94b2b618b06dda639a658898d75b792c4e17e300ab683bafc3b71283c1b",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/llama-2-13b-langchain-chat-gguf/resolve/main/llama-2-13b-langchain-chat.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "llama-2-13b-langchain-chat.Q3_K.gguf",
+            "size": "6337769344",
+            "quantization": "Q3_K",
+            "tags": [],
+            "sha256": "e5e3e2fb2dc68f931fcaa650df275e6853df1b105adda5f2c4f36c8fc70dcb10",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/llama-2-13b-langchain-chat-gguf/resolve/main/llama-2-13b-langchain-chat.Q3_K.gguf"
+            }
+        },
+        {
+            "name": "llama-2-13b-langchain-chat.Q4_0.gguf",
+            "size": "7365834624",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "6ef4d30881a4f0d87290ad0424e976b1250a79608935b41d35f28d6b6037689b",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/llama-2-13b-langchain-chat-gguf/resolve/main/llama-2-13b-langchain-chat.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "llama-2-13b-langchain-chat.Q4_1.gguf",
+            "size": "8169060224",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "82349084bccfcc0b2a887d1d19f29c2bba462fadfdeca5e3a5db45b6036d5d8f",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/llama-2-13b-langchain-chat-gguf/resolve/main/llama-2-13b-langchain-chat.Q4_1.gguf"
+            }
+        },
+        {
+            "name": "llama-2-13b-langchain-chat.Q4_K_S.gguf",
+            "size": "7414331264",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "5c4a0bfe4499b0cf8af79334e3a7f50951a01364376e95d00d0094d538dfbf33",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/llama-2-13b-langchain-chat-gguf/resolve/main/llama-2-13b-langchain-chat.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "llama-2-13b-langchain-chat.Q4_K.gguf",
+            "size": "7865956224",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "d61613772f755b89b6ddc6c1025d43eea788e581764a1d6d3e7f24db52e6fddd",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/llama-2-13b-langchain-chat-gguf/resolve/main/llama-2-13b-langchain-chat.Q4_K.gguf"
+            }
+        },
+        {
+            "name": "llama-2-13b-langchain-chat.Q5_0.gguf",
+            "size": "8972285824",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "ae747c0fa494c259d26e845c051b6ceef431389cb3291cf703f5fc5403f6b368",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/llama-2-13b-langchain-chat-gguf/resolve/main/llama-2-13b-langchain-chat.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "llama-2-13b-langchain-chat.Q5_1.gguf",
+            "size": "9775511424",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "fadb9d0b0dea6ae18a3af32617ba2b4b6c50c5fb47dd7d5d8e0a5354c2e2cca3",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/llama-2-13b-langchain-chat-gguf/resolve/main/llama-2-13b-langchain-chat.Q5_1.gguf"
+            }
+        },
+        {
+            "name": "llama-2-13b-langchain-chat.Q5_K_S.gguf",
+            "size": "8972285824",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "11e4d1fa7e246955996d7a2e35d2a6b718bd67ed112803a72d9cf40274f5f5d4",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/llama-2-13b-langchain-chat-gguf/resolve/main/llama-2-13b-langchain-chat.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "llama-2-13b-langchain-chat.Q5_K.gguf",
+            "size": "9229924224",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "bd8287194aff5c0d17fcb2ec47d3ec2e9e73f858b5c48d9fae05be1f180545fc",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/llama-2-13b-langchain-chat-gguf/resolve/main/llama-2-13b-langchain-chat.Q5_K.gguf"
+            }
+        },
+        {
+            "name": "llama-2-13b-langchain-chat.Q6_K.gguf",
+            "size": "10679140224",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "873c6fd256c2581ce225765e6c1d59e71a06833b4f0d7582449e25ffa3f12b78",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/llama-2-13b-langchain-chat-gguf/resolve/main/llama-2-13b-langchain-chat.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "llama-2-13b-langchain-chat.Q8_0.gguf",
+            "size": "13831319424",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "a55b21e468d50370a7fb840557cc34cb6577ab11217455d2373dfc5cccfd49fe",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/llama-2-13b-langchain-chat-gguf/resolve/main/llama-2-13b-langchain-chat.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/pandafish-dt-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-03T19:03:45Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "pandafish-dt-7b.IQ3_M.gguf",
+            "size": "3439515392",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "aa70ed6904dfe8e4881b01c40182bfdf36929760bd4964af1503768356267deb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "pandafish-dt-7b.IQ3_S.gguf",
+            "size": "3337017088",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "4c8e18a107b188ed847c26d36571c617518ed82d835ca84e5119da694e75f588",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "pandafish-dt-7b.IQ3_XS.gguf",
+            "size": "3173439232",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "7427cea85b5b2e4202a9749015c8d90f8e3c6ca476de704d688bbedcc607c847",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "pandafish-dt-7b.IQ4_XS.gguf",
+            "size": "4099012352",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "a099cd6102c3357e1a226fa193b6eaa42ace47d3a3e8bc2437601601b98a0221",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "pandafish-dt-7b.Q2_K.gguf",
+            "size": "2873865984",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "c9f94978caf0796f5247f315dd45cc99b5f33fb466040208911a7751a601fd2a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "pandafish-dt-7b.Q3_K_L.gguf",
+            "size": "3976648448",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "4d600d58558f50c670a8d58fbc391f80110648d26960c4af7a9c5a88903e7f72",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "pandafish-dt-7b.Q3_K_M.gguf",
+            "size": "3673609984",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "daa517a479f39535cc20a44b341a311e9bf4b95ac7e3dbec13cfb2ac7c9b7514",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "pandafish-dt-7b.Q3_K_S.gguf",
+            "size": "3319191296",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "c0840bd12e15abf51260fc4cb7aa3e7998cd16924547f00b34662d86ff73f0b8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "pandafish-dt-7b.Q4_K_M.gguf",
+            "size": "4523063040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "60082bf2884802cff387dd084da3ccb5304fd8caf33dc3cf048929cb86336295",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "pandafish-dt-7b.Q4_K_S.gguf",
+            "size": "4294997760",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "59b5ff6816e89f659c26e0745e3cd5d7e23c237313b055dbf8a66854e8ab197d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "pandafish-dt-7b.Q5_K_M.gguf",
+            "size": "5286033152",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "6b30cfa782fbacb3a8556add755a5a65e348a307406efc4739eb560a33574f3b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "pandafish-dt-7b.Q5_K_S.gguf",
+            "size": "5152339712",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "776a97a06b760e60212d15491017cfdf9bdce5b8e033b133219562a4689241c3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "pandafish-dt-7b.Q6_K.gguf",
+            "size": "6096688896",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "30afe923eb0f7a3076d7f05d56d92fc5ae0000aa556a7b73f7877e0b12916c6d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "pandafish-dt-7b.Q8_0.gguf",
+            "size": "7818737408",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "7d96b472a3588d01b2f711659537942476e3a6892a9b889445e8c05ec5306f93",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pandafish-dt-7b-GGUF/resolve/main/pandafish-dt-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

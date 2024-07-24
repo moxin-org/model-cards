@@ -1,0 +1,53 @@
+{
+    "id": "IlyaGusev/saiga_mistral_7b_gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "IlyaGusev",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-09T17:44:21Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "model-q2_K.gguf",
+            "size": "3083107232",
+            "quantization": "",
+            "tags": [],
+            "sha256": "178e59c10b8bd6fc31a6596f4a4250aff5b66c370018910fb2ead50a0a57594a",
+            "download": {
+                "default": "https://huggingface.co/IlyaGusev/saiga_mistral_7b_gguf/resolve/main/model-q2_K.gguf"
+            }
+        },
+        {
+            "name": "model-q4_K.gguf",
+            "size": "4368450336",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2798f33ff63c791a21f05c1ee9a10bc95630b17225c140c197188a3d5cf32644",
+            "download": {
+                "default": "https://huggingface.co/IlyaGusev/saiga_mistral_7b_gguf/resolve/main/model-q4_K.gguf"
+            }
+        },
+        {
+            "name": "model-q8_0.gguf",
+            "size": "7695874784",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a39fdd999a61231b274ea7ed14aaca0e77e1bd8754699542328a84ceaeba4ab6",
+            "download": {
+                "default": "https://huggingface.co/IlyaGusev/saiga_mistral_7b_gguf/resolve/main/model-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

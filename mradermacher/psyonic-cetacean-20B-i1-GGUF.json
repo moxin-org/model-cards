@@ -1,0 +1,193 @@
+{
+    "id": "mradermacher/psyonic-cetacean-20B-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-05T07:27:14Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "psyonic-cetacean-20B.i1-IQ3_XXS.gguf",
+            "size": "7802828320",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "7a72209c1f6a6eb4122d207d1519b0d46bc85cca51283c952297ccbe282dd031",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/psyonic-cetacean-20B-i1-GGUF/resolve/main/psyonic-cetacean-20B.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "psyonic-cetacean-20B.i1-Q5_K_S.gguf",
+            "size": "13964041760",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "efce24d152f0992822558df2c35aa942d6e522d54021a7b6142b52aa29031d93",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/psyonic-cetacean-20B-i1-GGUF/resolve/main/psyonic-cetacean-20B.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "psyonic-cetacean-20B.i1-Q5_K_M.gguf",
+            "size": "14350499360",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "7af9076d6d451dea708b2ddf19cb80f8344c4a19114dc67a7419a4c44ef71e3c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/psyonic-cetacean-20B-i1-GGUF/resolve/main/psyonic-cetacean-20B.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "psyonic-cetacean-20B.i1-Q4_K_S.gguf",
+            "size": "11560345120",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "abe61945e44743032f5302a7003ef58126a91304b3d9d6437881c0398f9f8338",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/psyonic-cetacean-20B-i1-GGUF/resolve/main/psyonic-cetacean-20B.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "psyonic-cetacean-20B.i1-Q4_K_M.gguf",
+            "size": "12235488800",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a333099a29e54f373759513f1f27cd37919cdd514544a37f712d2d6ba8759d46",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/psyonic-cetacean-20B-i1-GGUF/resolve/main/psyonic-cetacean-20B.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "psyonic-cetacean-20B.i1-Q3_K_S.gguf",
+            "size": "8851650080",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "83117e83fdb87fc4c4a2524c9cee74ac565f060a477586a9989a7c35ffcd156b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/psyonic-cetacean-20B-i1-GGUF/resolve/main/psyonic-cetacean-20B.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "psyonic-cetacean-20B.i1-Q3_K_M.gguf",
+            "size": "9899284000",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "966e2701f5328fa054002d1166967fdcd742ce7b936cd378415a877a7eb3caa0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/psyonic-cetacean-20B-i1-GGUF/resolve/main/psyonic-cetacean-20B.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "psyonic-cetacean-20B.i1-Q3_K_L.gguf",
+            "size": "10821047840",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "c0811d2d7b286a37213106d3b6bdd1b473f72bc948ff36710bd2f091d13b1858",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/psyonic-cetacean-20B-i1-GGUF/resolve/main/psyonic-cetacean-20B.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "psyonic-cetacean-20B.i1-Q2_K.gguf",
+            "size": "7613500960",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a06d986efc162415aba151db58ce9b42fbc28971a41b9425f438e36a6f5cfb5d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/psyonic-cetacean-20B-i1-GGUF/resolve/main/psyonic-cetacean-20B.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "psyonic-cetacean-20B.i1-IQ1_S.gguf",
+            "size": "4609023520",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "9236a3408fdc78d3d66207fff36102e541b2e7e0e28cd8445f58ed794c710792",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/psyonic-cetacean-20B-i1-GGUF/resolve/main/psyonic-cetacean-20B.i1-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "psyonic-cetacean-20B.i1-IQ3_XS.gguf",
+            "size": "8387409440",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "cd1edf1663b154e483e8759a78b0b55469792d943e34e8b6ea121a888232b7fb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/psyonic-cetacean-20B-i1-GGUF/resolve/main/psyonic-cetacean-20B.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "psyonic-cetacean-20B.i1-IQ3_S.gguf",
+            "size": "8851650080",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "048a9176e1a88cec212628fd68a86340a7f14a093a75a99f466abbc1f2e14861",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/psyonic-cetacean-20B-i1-GGUF/resolve/main/psyonic-cetacean-20B.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "psyonic-cetacean-20B.i1-IQ3_M.gguf",
+            "size": "9349170720",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "8418669012f5dc58ed344a02e2a3078c2bb78c21243804c11b84904af7e640a4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/psyonic-cetacean-20B-i1-GGUF/resolve/main/psyonic-cetacean-20B.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "psyonic-cetacean-20B.i1-IQ2_XXS.gguf",
+            "size": "5604023840",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "8ce541a274570771f050c5cbe17e3be05f5a81183f925a37c990619c8140ad59",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/psyonic-cetacean-20B-i1-GGUF/resolve/main/psyonic-cetacean-20B.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "psyonic-cetacean-20B.i1-IQ2_XS.gguf",
+            "size": "6152314400",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "388425972feb2f73545269939a5b6f3470ff557fc1f9163a80576dd7024c2951",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/psyonic-cetacean-20B-i1-GGUF/resolve/main/psyonic-cetacean-20B.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "psyonic-cetacean-20B.i1-IQ2_S.gguf",
+            "size": "6612899360",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "e8e53064495f1bdc50a3904a8062e45221e241e2199d97f5f0f72354e39ed12c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/psyonic-cetacean-20B-i1-GGUF/resolve/main/psyonic-cetacean-20B.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "psyonic-cetacean-20B.i1-IQ2_M.gguf",
+            "size": "7110399520",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "b6e75fa614d35b8a78fa7fcb3f6f715b6167d7abb91785600b99645855dac3fd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/psyonic-cetacean-20B-i1-GGUF/resolve/main/psyonic-cetacean-20B.i1-IQ2_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

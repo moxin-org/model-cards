@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/Hermes-2-DPO_WestLake-7B-v2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-29T08:19:56Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Hermes-2-DPO_WestLake-7B-v2.IQ3_M.gguf",
+            "size": "3439515680",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "bf6f9deeb339279a0e554f6bac71d67167df5388207f3fff2c977a67e8bfd6f7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hermes-2-DPO_WestLake-7B-v2-GGUF/resolve/main/Hermes-2-DPO_WestLake-7B-v2.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-DPO_WestLake-7B-v2.IQ3_S.gguf",
+            "size": "3337017376",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "23f1449b9fef5ed96b63ca6d347f8c1ca96ed3a923853bf3d3f8483f6374aae3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hermes-2-DPO_WestLake-7B-v2-GGUF/resolve/main/Hermes-2-DPO_WestLake-7B-v2.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-DPO_WestLake-7B-v2.IQ3_XS.gguf",
+            "size": "3173439520",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "9a078ded32ec40f9eae49da1820741c5e71c4785bc0cd7e9f0fcae4a13da7810",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hermes-2-DPO_WestLake-7B-v2-GGUF/resolve/main/Hermes-2-DPO_WestLake-7B-v2.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-DPO_WestLake-7B-v2.IQ4_NL.gguf",
+            "size": "4309678112",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "f37d19b658ea6e88df50690a312ddf9840a88d45145289c056d7479118822f0f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hermes-2-DPO_WestLake-7B-v2-GGUF/resolve/main/Hermes-2-DPO_WestLake-7B-v2.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-DPO_WestLake-7B-v2.IQ4_XS.gguf",
+            "size": "4099012640",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "f5f080957f1f71dc1e6556783b84e3f0ba08f2aff61317063e0968251e6897dc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hermes-2-DPO_WestLake-7B-v2-GGUF/resolve/main/Hermes-2-DPO_WestLake-7B-v2.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-DPO_WestLake-7B-v2.Q2_K.gguf",
+            "size": "2873866272",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "14c7c2affe2d67a6fc8f94441861091397d9b750f1d5540a713c59f455be1b0d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hermes-2-DPO_WestLake-7B-v2-GGUF/resolve/main/Hermes-2-DPO_WestLake-7B-v2.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-DPO_WestLake-7B-v2.Q3_K_L.gguf",
+            "size": "3976648736",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "de2226c61cadb5b25619a597ed1d0dce8723c3960be2749464d1b36c827f62a1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hermes-2-DPO_WestLake-7B-v2-GGUF/resolve/main/Hermes-2-DPO_WestLake-7B-v2.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-DPO_WestLake-7B-v2.Q3_K_M.gguf",
+            "size": "3673610272",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "f93ea31962fc77c75bc92b2b77036b2a60d638ef49955180b6b81af70e910831",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hermes-2-DPO_WestLake-7B-v2-GGUF/resolve/main/Hermes-2-DPO_WestLake-7B-v2.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-DPO_WestLake-7B-v2.Q3_K_S.gguf",
+            "size": "3319191584",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "15e0fc51d811893a28e972e05df9d12aee5f77f3828c375c9281aa84441cf01a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hermes-2-DPO_WestLake-7B-v2-GGUF/resolve/main/Hermes-2-DPO_WestLake-7B-v2.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-DPO_WestLake-7B-v2.Q4_0.gguf",
+            "size": "4263540768",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "82accd94b4e113273d9d4f06b4155fdb4e3a2ce5030c7dea7cc18dd177ddd7c8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hermes-2-DPO_WestLake-7B-v2-GGUF/resolve/main/Hermes-2-DPO_WestLake-7B-v2.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-DPO_WestLake-7B-v2.Q4_K_M.gguf",
+            "size": "4523063328",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "7a19291647404296f4bf382bef8fac38dd780fff66e6feabab54466bade133a9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hermes-2-DPO_WestLake-7B-v2-GGUF/resolve/main/Hermes-2-DPO_WestLake-7B-v2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-DPO_WestLake-7B-v2.Q4_K_S.gguf",
+            "size": "4294998048",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "fa56e8088f55e7c5b53479082be75e26e1a1a8e9161d9c38ee3be8cfb47c47ff",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hermes-2-DPO_WestLake-7B-v2-GGUF/resolve/main/Hermes-2-DPO_WestLake-7B-v2.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-DPO_WestLake-7B-v2.Q5_K_M.gguf",
+            "size": "5286033440",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "465d2607444fe3131187f4aa08752d9d0adf8eb3287a1e037f5180f1ce1d9740",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hermes-2-DPO_WestLake-7B-v2-GGUF/resolve/main/Hermes-2-DPO_WestLake-7B-v2.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-DPO_WestLake-7B-v2.Q5_K_S.gguf",
+            "size": "5152340000",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "8542a0ba6612e8350ca7ddbb8fe3a7cf26efa22a24b8e5ae1800bb12a8261c37",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hermes-2-DPO_WestLake-7B-v2-GGUF/resolve/main/Hermes-2-DPO_WestLake-7B-v2.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-DPO_WestLake-7B-v2.Q6_K.gguf",
+            "size": "6096689184",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "d6374dc5cc89f87a74a33fdf680d179aab246e40e2e279edd7cb7613a81f9dee",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hermes-2-DPO_WestLake-7B-v2-GGUF/resolve/main/Hermes-2-DPO_WestLake-7B-v2.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-DPO_WestLake-7B-v2.Q8_0.gguf",
+            "size": "7818737696",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "42ad3e17aa0e08390be326c63622d08433569a34c5d80fce781220c88892663e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hermes-2-DPO_WestLake-7B-v2-GGUF/resolve/main/Hermes-2-DPO_WestLake-7B-v2.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

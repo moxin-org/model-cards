@@ -1,0 +1,103 @@
+{
+    "id": "mradermacher/DoubleGold-v0.5-123b-32k-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-30T07:05:14Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "DoubleGold-v0.5-123b-32k.i1-IQ1_M.gguf",
+            "size": "28828318880",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "0a4a5bddeef503a5157144c612bd517892b1cab3c00ba7396d393d391e038814",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/DoubleGold-v0.5-123b-32k-i1-GGUF/resolve/main/DoubleGold-v0.5-123b-32k.i1-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "DoubleGold-v0.5-123b-32k.i1-IQ1_S.gguf",
+            "size": "26294434976",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "c33829392f92df78dcdbc5fe1f51c34eccee123e4663ad13139ae157590e4792",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/DoubleGold-v0.5-123b-32k-i1-GGUF/resolve/main/DoubleGold-v0.5-123b-32k.i1-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "DoubleGold-v0.5-123b-32k.i1-IQ2_M.gguf",
+            "size": "41925442720",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "d690b881fba537102e1fd48dacab29ffac152d0755ab0cd289fcceb8d57505b1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/DoubleGold-v0.5-123b-32k-i1-GGUF/resolve/main/DoubleGold-v0.5-123b-32k.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "DoubleGold-v0.5-123b-32k.i1-IQ2_S.gguf",
+            "size": "38546930848",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "ac446783be6331f620e3cbb050365c15bbb5ef142657fb8bc8124bff336c0e2c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/DoubleGold-v0.5-123b-32k-i1-GGUF/resolve/main/DoubleGold-v0.5-123b-32k.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "DoubleGold-v0.5-123b-32k.i1-IQ2_XS.gguf",
+            "size": "36731960480",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "d66c404c42bc415d8edccc1452518e9721d0727e7ee7131d4075bcb05061950b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/DoubleGold-v0.5-123b-32k-i1-GGUF/resolve/main/DoubleGold-v0.5-123b-32k.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "DoubleGold-v0.5-123b-32k.i1-IQ2_XXS.gguf",
+            "size": "33051458720",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "1821bb25e52e8946174fb9135a7b4680d7b08c4a637fdb588f261e52a00f54c0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/DoubleGold-v0.5-123b-32k-i1-GGUF/resolve/main/DoubleGold-v0.5-123b-32k.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "DoubleGold-v0.5-123b-32k.i1-IQ3_XXS.gguf",
+            "size": "47804808352",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "a1f9400fa615416758548afd1c3ea3c0fa71a8bee7efa1bf23da7fe056c99aee",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/DoubleGold-v0.5-123b-32k-i1-GGUF/resolve/main/DoubleGold-v0.5-123b-32k.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "DoubleGold-v0.5-123b-32k.i1-Q2_K.gguf",
+            "size": "45749189792",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "b8696c3ac8699ed82d0a0a1fc86b9fee78ebaae641c692a6c301c118a0328d70",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/DoubleGold-v0.5-123b-32k-i1-GGUF/resolve/main/DoubleGold-v0.5-123b-32k.i1-Q2_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

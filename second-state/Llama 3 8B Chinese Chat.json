@@ -1,0 +1,153 @@
+{
+    "id": "second-state/Llama3-8B-Chinese-Chat-GGUF",
+    "status": "published",
+    "model_type": "chat",
+    "name": "Llama 3 8B Chinese Chat",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "8B",
+    "requires": "",
+    "released_at": "2024-04-28T08:16:17Z",
+    "architecture": "Llama3",
+    "files": [
+        {
+            "name": "Llama3-8B-Chinese-Chat-f16.gguf",
+            "size": "16068891136",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9e39ea928e212aea73bac8dac48932420ac777db6dbe4e9e99acde11cca790ed",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama3-8B-Chinese-Chat-GGUF/resolve/main/Llama3-8B-Chinese-Chat-f16.gguf"
+            }
+        },
+        {
+            "name": "Llama3-8B-Chinese-Chat-Q2_K.gguf",
+            "size": "3179131424",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "ae1fb02bb5253b537b92359835974d5410c401d3e71340064e19d4f687f01b02",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama3-8B-Chinese-Chat-GGUF/resolve/main/Llama3-8B-Chinese-Chat-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Llama3-8B-Chinese-Chat-Q3_K_L.gguf",
+            "size": "4321956384",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "c5c9f44212079f90d997c9d0d79cf90dcbeae65e4f2c47f45a4028464fb22937",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama3-8B-Chinese-Chat-GGUF/resolve/main/Llama3-8B-Chinese-Chat-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Llama3-8B-Chinese-Chat-Q3_K_M.gguf",
+            "size": "4018917920",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ed44bdaf5ac37c63cac3606b6f3db309f1f2db9c8e09232f6a9b98c47e34ddf1",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama3-8B-Chinese-Chat-GGUF/resolve/main/Llama3-8B-Chinese-Chat-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Llama3-8B-Chinese-Chat-Q3_K_S.gguf",
+            "size": "3664499232",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "af030fe2fc9652a3451e89d420fd5cae296dcfe1ffb880d5d4965365def15c91",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama3-8B-Chinese-Chat-GGUF/resolve/main/Llama3-8B-Chinese-Chat-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Llama3-8B-Chinese-Chat-Q4_0.gguf",
+            "size": "4661211680",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "73064c6edda9b9b8fda420c149bba8c04c7a679cc669186b6ee0565daa0a8410",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama3-8B-Chinese-Chat-GGUF/resolve/main/Llama3-8B-Chinese-Chat-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Llama3-8B-Chinese-Chat-Q4_K_M.gguf",
+            "size": "4920734240",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a55993b028fb0efb4fec7a037e01798ab7719ec34cdd9da3eab796518194de60",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama3-8B-Chinese-Chat-GGUF/resolve/main/Llama3-8B-Chinese-Chat-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Llama3-8B-Chinese-Chat-Q4_K_S.gguf",
+            "size": "4692668960",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "40306ba4879483589d9fc800cafee7a64a61a3c38431cc91e8531db9165c9eb1",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama3-8B-Chinese-Chat-GGUF/resolve/main/Llama3-8B-Chinese-Chat-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Llama3-8B-Chinese-Chat-Q5_0.gguf",
+            "size": "5599293984",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "bf1042eb7c05add185db91cd111f867a6173b1bd4a18f6035f1c9bb8d8058136",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama3-8B-Chinese-Chat-GGUF/resolve/main/Llama3-8B-Chinese-Chat-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Llama3-8B-Chinese-Chat-Q5_K_M.gguf",
+            "size": "5732987424",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "35d2be904a200d8d3aa01b81aaecf1e2ba5611c9f292ab9aa73a5239992d57bf",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama3-8B-Chinese-Chat-GGUF/resolve/main/Llama3-8B-Chinese-Chat-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Llama3-8B-Chinese-Chat-Q5_K_S.gguf",
+            "size": "5599293984",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "405807c22621ec95cfbee32fa390249635b56c913f09171c9a6d78dc100274ee",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama3-8B-Chinese-Chat-GGUF/resolve/main/Llama3-8B-Chinese-Chat-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Llama3-8B-Chinese-Chat-Q6_K.gguf",
+            "size": "6596006432",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "900ea801d4a4acbe2b574a60c2693f2f1985f8ea029a2ad9f57959fcebbc3716",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama3-8B-Chinese-Chat-GGUF/resolve/main/Llama3-8B-Chinese-Chat-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Llama3-8B-Chinese-Chat-Q8_0.gguf",
+            "size": "8540770848",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "b825f93301b3eb89f80ea6824db1247d81bbd975999a6914d4595b12aa74c00e",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama3-8B-Chinese-Chat-GGUF/resolve/main/Llama3-8B-Chinese-Chat-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "llama-3-chat",
+    "reverse_prompt": "",
+    "context_size": 8192,
+    "vector_size": 0,
+    "metrics": {}
+}

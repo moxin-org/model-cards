@@ -1,0 +1,93 @@
+{
+    "id": "afrideva/Smol-Llama-101M-Chat-v1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-29T01:11:44Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "smol-llama-101m-chat-v1.fp16.gguf",
+            "size": "204250464",
+            "quantization": "",
+            "tags": [],
+            "sha256": "34132a21850a13f16dc1a766e01bb20d5c257c06c66b45476b3ff7707363d220",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Smol-Llama-101M-Chat-v1-GGUF/resolve/main/smol-llama-101m-chat-v1.fp16.gguf"
+            }
+        },
+        {
+            "name": "smol-llama-101m-chat-v1.q2_k.gguf",
+            "size": "51904640",
+            "quantization": "",
+            "tags": [],
+            "sha256": "718c042c8e3837ca9e75084058bbbc9a4986a31bbed5824fccebbab32322d9f3",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Smol-Llama-101M-Chat-v1-GGUF/resolve/main/smol-llama-101m-chat-v1.q2_k.gguf"
+            }
+        },
+        {
+            "name": "smol-llama-101m-chat-v1.q3_k_m.gguf",
+            "size": "58035584",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ccc87c355bb639ecf2821b4a2060ccbc7071db6a8e34d56ca26323aeb0e29fa5",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Smol-Llama-101M-Chat-v1-GGUF/resolve/main/smol-llama-101m-chat-v1.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "smol-llama-101m-chat-v1.q4_k_m.gguf",
+            "size": "66378368",
+            "quantization": "",
+            "tags": [],
+            "sha256": "68f70b3f9aa690c40c412dea5c03a22f971cde81bca3eef588dd5a1d0412e64c",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Smol-Llama-101M-Chat-v1-GGUF/resolve/main/smol-llama-101m-chat-v1.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "smol-llama-101m-chat-v1.q5_k_m.gguf",
+            "size": "75311744",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0102b97cdee1a411bfa8c5a28cd8bf3f7d6d32c7a02d808061ed2b762e7fa0f7",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Smol-Llama-101M-Chat-v1-GGUF/resolve/main/smol-llama-101m-chat-v1.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "smol-llama-101m-chat-v1.q6_k.gguf",
+            "size": "84803456",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1a3be3781da878e36417b7d2789083855a09029a4a2db04856e2494669f4b1ea",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Smol-Llama-101M-Chat-v1-GGUF/resolve/main/smol-llama-101m-chat-v1.q6_k.gguf"
+            }
+        },
+        {
+            "name": "smol-llama-101m-chat-v1.q8_0.gguf",
+            "size": "109325696",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0a9d4ea4169d365287e42f54e64c6142efa2ee31bf8b96dba1b880b33b27cdbb",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Smol-Llama-101M-Chat-v1-GGUF/resolve/main/smol-llama-101m-chat-v1.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

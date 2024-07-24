@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/Sina-Loki-7b-Merge-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-24T02:21:57Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Sina-Loki-7b-Merge.IQ3_M.gguf",
+            "size": "3439515328",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "4d2b97c52ccd819df2f9bd6a265cc375ebfc23c86535b63b3f4e6c09de56efd7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Loki-7b-Merge-GGUF/resolve/main/Sina-Loki-7b-Merge.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Sina-Loki-7b-Merge.IQ3_S.gguf",
+            "size": "3337017024",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "8e73789918278d7d452a31c00aaaa2ec04ae673b0240ec0ee68aedeb4d59ecd9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Loki-7b-Merge-GGUF/resolve/main/Sina-Loki-7b-Merge.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Sina-Loki-7b-Merge.IQ3_XS.gguf",
+            "size": "3173439168",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "5e29eee284009bd94cd8634bcbfbd5d3045ffc976269ccf073d083bd45e8a190",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Loki-7b-Merge-GGUF/resolve/main/Sina-Loki-7b-Merge.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Sina-Loki-7b-Merge.IQ4_NL.gguf",
+            "size": "4309677760",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "998b084c494aa0b5475450562f1751730f857041e1807f7d15f54a978c75e0c3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Loki-7b-Merge-GGUF/resolve/main/Sina-Loki-7b-Merge.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Sina-Loki-7b-Merge.IQ4_XS.gguf",
+            "size": "4099012288",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "2076ad82cf8837bdabb0b79f6d348c284e257ea9ff875a92101e21f276b2e542",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Loki-7b-Merge-GGUF/resolve/main/Sina-Loki-7b-Merge.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Sina-Loki-7b-Merge.Q2_K.gguf",
+            "size": "2873865920",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "c10ffd0091b031d82576daaa6aefc0098fed3d10b802aee7cda40790b15cc09a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Loki-7b-Merge-GGUF/resolve/main/Sina-Loki-7b-Merge.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Sina-Loki-7b-Merge.Q3_K_L.gguf",
+            "size": "3976648384",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "50e400429fc76e86719a39a0fe0bc3dca3ab8e094c3212e22c9316c9cf339fd4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Loki-7b-Merge-GGUF/resolve/main/Sina-Loki-7b-Merge.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Sina-Loki-7b-Merge.Q3_K_M.gguf",
+            "size": "3673609920",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "19b7da2ede2cf7a7b90affebe8d79e73618211cb47a143bd997acebf4b4674e5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Loki-7b-Merge-GGUF/resolve/main/Sina-Loki-7b-Merge.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Sina-Loki-7b-Merge.Q3_K_S.gguf",
+            "size": "3319191232",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "ffd0ae69e50151fbb9135220b8c8bd74651e010b42b06b71cf23a134c323e17b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Loki-7b-Merge-GGUF/resolve/main/Sina-Loki-7b-Merge.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Sina-Loki-7b-Merge.Q4_0.gguf",
+            "size": "4263540416",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "fc892134d3b3f47ead3d928fc9c47a11412a3eef70f941d00ccd163ae13c07fd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Loki-7b-Merge-GGUF/resolve/main/Sina-Loki-7b-Merge.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Sina-Loki-7b-Merge.Q4_K_M.gguf",
+            "size": "4523062976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "86cd6840312249dc97b631d3fb0dba079ba36e707034cf6487f93b2dfb1c5d7a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Loki-7b-Merge-GGUF/resolve/main/Sina-Loki-7b-Merge.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Sina-Loki-7b-Merge.Q4_K_S.gguf",
+            "size": "4294997696",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "62d97475bea3e16607a41382dfa1f965481c775a2a986db85dfabc61d4e616e3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Loki-7b-Merge-GGUF/resolve/main/Sina-Loki-7b-Merge.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Sina-Loki-7b-Merge.Q5_K_M.gguf",
+            "size": "5286033088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "9c90959953e1af6624b38e649955f14f3ea8cdee81aac03e00010a9df936c103",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Loki-7b-Merge-GGUF/resolve/main/Sina-Loki-7b-Merge.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Sina-Loki-7b-Merge.Q5_K_S.gguf",
+            "size": "5152339648",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "6ee3b0edf875bde63cda9f363c54753c868e51017fcff96c7d062f5cdf09129a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Loki-7b-Merge-GGUF/resolve/main/Sina-Loki-7b-Merge.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Sina-Loki-7b-Merge.Q6_K.gguf",
+            "size": "6096688832",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "72cffd8a5629512a018a80774a90b1e7503106ceaba5d9ddb0abbe903ef1bc85",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Loki-7b-Merge-GGUF/resolve/main/Sina-Loki-7b-Merge.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Sina-Loki-7b-Merge.Q8_0.gguf",
+            "size": "7818737344",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "327d510de6d49cb97505dbca4899af9a83077169d28d7302620f230028944143",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Loki-7b-Merge-GGUF/resolve/main/Sina-Loki-7b-Merge.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

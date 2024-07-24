@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/Lelantos-Maid-DPO-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-17T10:37:40Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "lelantos-maid-dpo-7b.Q3_K_S.gguf",
+            "size": "3164577600",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "336a0832aa0653e9b7ec0d08422f3dd37649b61e50022837e492d7f2c607aba2",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Lelantos-Maid-DPO-7B-GGUF/resolve/main/lelantos-maid-dpo-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "lelantos-maid-dpo-7b.Q4_K_M.gguf",
+            "size": "4368450432",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a0270d3c4957a520a8136386c45008f6ab89d7be83102522772f8779fa58ca88",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Lelantos-Maid-DPO-7B-GGUF/resolve/main/lelantos-maid-dpo-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "lelantos-maid-dpo-7b.Q5_K_M.gguf",
+            "size": "5131421568",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "b84d7704fd11407f85a4702278c9bdafcd4007f89a3b8b62f229a8f2be8575ab",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Lelantos-Maid-DPO-7B-GGUF/resolve/main/lelantos-maid-dpo-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "lelantos-maid-dpo-7b.Q6_K.gguf",
+            "size": "5942078400",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b4204dd04f005d4e3e577f29dc9aa1e292cd373c0a913009d274ff86c81319b5",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Lelantos-Maid-DPO-7B-GGUF/resolve/main/lelantos-maid-dpo-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "lelantos-maid-dpo-7b.Q8_0.gguf",
+            "size": "7695874880",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "1016bfa93a6c1970def6801fe303b933284faa6e74179423f37076a2f8ec51e0",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Lelantos-Maid-DPO-7B-GGUF/resolve/main/lelantos-maid-dpo-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

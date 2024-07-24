@@ -1,0 +1,153 @@
+{
+    "id": "QuantFactory/dolphin-2.2.1-mistral-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "QuantFactory",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-09T14:05:59Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "dolphin-2.2.1-mistral-7b.IQ3_S.gguf",
+            "size": "3182403648",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "06274b7af9688024541fb3ba3166398b10e3457b6153d77b3c09ef80449a3407",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/dolphin-2.2.1-mistral-7b-GGUF/resolve/main/dolphin-2.2.1-mistral-7b.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.2.1-mistral-7b.Q2_K.gguf",
+            "size": "2719251712",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "b2696edcecfd04337c3828ccbe3bbf6b5ddd9cccd2d4b55e48b6ba2024a05508",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/dolphin-2.2.1-mistral-7b-GGUF/resolve/main/dolphin-2.2.1-mistral-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.2.1-mistral-7b.Q3_K_L.gguf",
+            "size": "3822035008",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "287de3ce836fe8dd73969765c7649f7b72308da6db82e22af48261c6d23acf56",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/dolphin-2.2.1-mistral-7b-GGUF/resolve/main/dolphin-2.2.1-mistral-7b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.2.1-mistral-7b.Q3_K_M.gguf",
+            "size": "3518996544",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ca6712c061353be29890cc1eb3606fbdcc970b24f12e68953c70dac4dada7a39",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/dolphin-2.2.1-mistral-7b-GGUF/resolve/main/dolphin-2.2.1-mistral-7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.2.1-mistral-7b.Q3_K_S.gguf",
+            "size": "3164577856",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "964d6c887c03a6bc6f53fae0d4ea9da0006c1633bcf296e1f14dfe5b88ba6a4e",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/dolphin-2.2.1-mistral-7b-GGUF/resolve/main/dolphin-2.2.1-mistral-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.2.1-mistral-7b.Q4_0.gguf",
+            "size": "4108928128",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "96766bbc95e2199dc3bfd6606a815faadd1d546305a99595e29d352f88b03754",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/dolphin-2.2.1-mistral-7b-GGUF/resolve/main/dolphin-2.2.1-mistral-7b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.2.1-mistral-7b.Q4_K_M.gguf",
+            "size": "4368450688",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "808475f3c43de7591497ce0d9913e7076389d820210de3d4480fc2a6a09c8efd",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/dolphin-2.2.1-mistral-7b-GGUF/resolve/main/dolphin-2.2.1-mistral-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.2.1-mistral-7b.Q4_K_S.gguf",
+            "size": "4140385408",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "f995ea15128b1886c232267052c44217b3a03b41a54293aea418d8ab21477757",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/dolphin-2.2.1-mistral-7b-GGUF/resolve/main/dolphin-2.2.1-mistral-7b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.2.1-mistral-7b.Q5_0.gguf",
+            "size": "4997728384",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "16b62bf70ca8faa3353233079c02f26575aa4f236e73fe7c9973f1aefc0cb747",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/dolphin-2.2.1-mistral-7b-GGUF/resolve/main/dolphin-2.2.1-mistral-7b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.2.1-mistral-7b.Q5_K_M.gguf",
+            "size": "5131421824",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "6b3fa352abb18733d49f14a8437f0e90aff142a35a57acc2038f1edc54cf7776",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/dolphin-2.2.1-mistral-7b-GGUF/resolve/main/dolphin-2.2.1-mistral-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.2.1-mistral-7b.Q5_K_S.gguf",
+            "size": "4997728384",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "6a583d0f3a7e9a855eea9bb7ec1f3c2e8ae438c54ebee0ac8abc6adb1e7eba74",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/dolphin-2.2.1-mistral-7b-GGUF/resolve/main/dolphin-2.2.1-mistral-7b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.2.1-mistral-7b.Q6_K.gguf",
+            "size": "5942078656",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "24146cf4533bbaf22a59cf5af073afcc5b0bafd5563265f764aeb1f4cb282042",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/dolphin-2.2.1-mistral-7b-GGUF/resolve/main/dolphin-2.2.1-mistral-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.2.1-mistral-7b.Q8_0.gguf",
+            "size": "7695875136",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "8e9794c849f84d20dc5a804c29e143936e220467256224fe3c5aa7ba65331232",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/dolphin-2.2.1-mistral-7b-GGUF/resolve/main/dolphin-2.2.1-mistral-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "mradermacher/saily_100b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-13T20:15:34Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "saily_100b.IQ3_XS.gguf",
+            "size": "48284855552",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "0127e1c6717fa0192672e6849cd736964cda55cc7fb309169619811646ec22cc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/saily_100b-GGUF/resolve/main/saily_100b.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "saily_100b.Q2_K.gguf",
+            "size": "43554974976",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "17ef79d17c13148d107fa833aa4345cec4cfd399d1f008b87c781a1e083202f3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/saily_100b-GGUF/resolve/main/saily_100b.Q2_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

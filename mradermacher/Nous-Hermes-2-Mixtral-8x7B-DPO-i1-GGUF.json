@@ -1,0 +1,253 @@
+{
+    "id": "mradermacher/Nous-Hermes-2-Mixtral-8x7B-DPO-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-27T15:42:01Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.i1-IQ4_XS.gguf",
+            "size": "25233127360",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "7f9d89ec6a55c9d374a1ff93dc28088976aced3a1c2c5298fc905d337b5e80f4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nous-Hermes-2-Mixtral-8x7B-DPO-i1-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.i1-Q6_K.gguf",
+            "size": "38533406976",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "3b64e82ddf1479de3e2e1eb68dbbd11231da0b75941f373fd569512978e79d24",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nous-Hermes-2-Mixtral-8x7B-DPO-i1-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.i1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.i1-Q5_K_S.gguf",
+            "size": "32382549184",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "84bba5195d568b36deec5ac839b5fc05c0d8dfb6957ead7dff4612a542e0be6e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nous-Hermes-2-Mixtral-8x7B-DPO-i1-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.i1-Q5_K_M.gguf",
+            "size": "33380793536",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "299a4c89cac01fc67f998c9bb3c8f7a81ffad80661439c1657f61d60f5f42220",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nous-Hermes-2-Mixtral-8x7B-DPO-i1-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.i1-Q4_K_S.gguf",
+            "size": "26896660672",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "b2f28dd3cda20ef235d041da9bf519cb9640c93cebe03b96cf9f395169e6fa01",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nous-Hermes-2-Mixtral-8x7B-DPO-i1-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.i1-Q4_K_M.gguf",
+            "size": "28599548096",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "9d8f4c3ae5507aa9fddd54f6ccaaea2b4418e4572c6601c045459e01a43b61df",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nous-Hermes-2-Mixtral-8x7B-DPO-i1-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.i1-Q4_0.gguf",
+            "size": "26713618624",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "d4573dde012598e18b348dbae26e4a708da3bc48b0b750977fa3f59308218fb6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nous-Hermes-2-Mixtral-8x7B-DPO-i1-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.i1-Q3_K_XS.gguf",
+            "size": "19210816128",
+            "quantization": "Q3_K_XS",
+            "tags": [],
+            "sha256": "542cab6ee1e6c23438f90490c75cf8b2907c4061949271978a9631f100adc4b6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nous-Hermes-2-Mixtral-8x7B-DPO-i1-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.i1-Q3_K_XS.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.i1-Q3_K_S.gguf",
+            "size": "20583462016",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "07b38b50211eb37c2ae114ee48aaac22b02ace8fc0433c673950ee8ab462f6c8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nous-Hermes-2-Mixtral-8x7B-DPO-i1-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.i1-Q3_K_M.gguf",
+            "size": "22697391232",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "3e5e1a45991f7254012fcf9e37d9a7965dce96746a1d58e7d74303c3b1236327",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nous-Hermes-2-Mixtral-8x7B-DPO-i1-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.i1-Q3_K_L.gguf",
+            "size": "24320586880",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "70a774ea9431a8b02b320d66b881a817469405af9489684760e7c8edf9380dc9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nous-Hermes-2-Mixtral-8x7B-DPO-i1-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.i1-Q2_K.gguf",
+            "size": "17462063424",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "d3e854f18542d80b15e4badeddc00119a4d14b51d974afd3966cbdbb569efc52",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nous-Hermes-2-Mixtral-8x7B-DPO-i1-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.i1-IQ1_M.gguf",
+            "size": "11017171264",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "d519c4a94345849bd5ae69a7c0b41130c447f3b388ddae1b10033fd54070a59b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nous-Hermes-2-Mixtral-8x7B-DPO-i1-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.i1-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.i1-IQ4_NL.gguf",
+            "size": "26663286976",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "7f228accebe905ab738367d6abd6be928c977c674fe3541684ce7d5760b64fc6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nous-Hermes-2-Mixtral-8x7B-DPO-i1-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.i1-IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.i1-IQ3_XXS.gguf",
+            "size": "18461726912",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "4192a6ca574dd9e6dd8e1178728080cd4c37d0bfca384f88a80bc877cbd7e11d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nous-Hermes-2-Mixtral-8x7B-DPO-i1-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.i1-IQ3_XS.gguf",
+            "size": "19435229824",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "8ac59e4d736b8192a367dd54620848f981f386d9f9a4718d288cdb4e086ef7e5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nous-Hermes-2-Mixtral-8x7B-DPO-i1-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.i1-IQ3_S.gguf",
+            "size": "20583462016",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "005bc937b303c40863570fb523a13b4a111a3618c2d3aef5d9875b47225c15da",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nous-Hermes-2-Mixtral-8x7B-DPO-i1-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.i1-IQ3_M.gguf",
+            "size": "21581706368",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "470d8e3396fc0bfed788bee8c3775207cbba259a682e49f8a428c2b5d4817f16",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nous-Hermes-2-Mixtral-8x7B-DPO-i1-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.i1-IQ2_XXS.gguf",
+            "size": "12452942144",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "1818bc366a9440759f2cd9e04308958c8e48678f2a01e62b033e2ecaf517533c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nous-Hermes-2-Mixtral-8x7B-DPO-i1-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.i1-IQ2_XS.gguf",
+            "size": "13841289536",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "f24615ad2eb177f347883fb4b158ea02652b5da1ff3446a571ee295fb50e3c76",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nous-Hermes-2-Mixtral-8x7B-DPO-i1-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.i1-IQ2_S.gguf",
+            "size": "14296052864",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "d9c5909b16668a68441da6af854626f134e6f41f66d591cced2d1fac3e4a2ecb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nous-Hermes-2-Mixtral-8x7B-DPO-i1-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.i1-IQ2_M.gguf",
+            "size": "15663428736",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "697c2aac07de7579dbed6f0208d46321da476416fd73c99c992ca19d5507cfd0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nous-Hermes-2-Mixtral-8x7B-DPO-i1-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.i1-IQ1_S.gguf",
+            "size": "9709801792",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "86eae3bda2e8ac6f09f03628ba8e298fc21592928579b9163fd293c383774890",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nous-Hermes-2-Mixtral-8x7B-DPO-i1-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.i1-IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

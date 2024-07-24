@@ -1,0 +1,123 @@
+{
+    "id": "antiven0m/speculor-2.7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "antiven0m",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-19T06:54:57Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "speculor-2.7b-f16.gguf",
+            "size": "5563096064",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d028d35e703cc5e80dd3a9f6dfe590f79fb7c009e5e5c8882fbb8f561f7eb8ae",
+            "download": {
+                "default": "https://huggingface.co/antiven0m/speculor-2.7b-GGUF/resolve/main/speculor-2.7b-f16.gguf"
+            }
+        },
+        {
+            "name": "speculor-2.7b-IQ1_S.gguf",
+            "size": "699096064",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "77a4827adf1668becebdd0ff1c3949257bc7c94b4a6aa1def40de9327ada6b3a",
+            "download": {
+                "default": "https://huggingface.co/antiven0m/speculor-2.7b-GGUF/resolve/main/speculor-2.7b-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "speculor-2.7b-IQ2_XS.gguf",
+            "size": "882596864",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "eb676c9232b453401a9db18207a384be32161252fa3147ba10bc72cd029f5ea6",
+            "download": {
+                "default": "https://huggingface.co/antiven0m/speculor-2.7b-GGUF/resolve/main/speculor-2.7b-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "speculor-2.7b-IQ3_M.gguf",
+            "size": "1334385664",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "8b25e4e094255a2a169f3dc32b81722922ac5623a71f2317cb6b3f3b5e560b00",
+            "download": {
+                "default": "https://huggingface.co/antiven0m/speculor-2.7b-GGUF/resolve/main/speculor-2.7b-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "speculor-2.7b-IQ3_XS.gguf",
+            "size": "1201675264",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "41f677fc722bb47f519919890fb35653e17235e1f324b853205ddf640261479f",
+            "download": {
+                "default": "https://huggingface.co/antiven0m/speculor-2.7b-GGUF/resolve/main/speculor-2.7b-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "speculor-2.7b-IQ4_XS.gguf",
+            "size": "1519729664",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "8222fde9d02da44e642ff2f3e47e66c584c1b683c23a7b0bdc3b50b9024cf375",
+            "download": {
+                "default": "https://huggingface.co/antiven0m/speculor-2.7b-GGUF/resolve/main/speculor-2.7b-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "speculor-2.7b-Q3_K.gguf",
+            "size": "1432689664",
+            "quantization": "Q3_K",
+            "tags": [],
+            "sha256": "ff755a6e6e40a16fdb5f9327be4fd303c5631b77c8449367910b3e60cf601610",
+            "download": {
+                "default": "https://huggingface.co/antiven0m/speculor-2.7b-GGUF/resolve/main/speculor-2.7b-Q3_K.gguf"
+            }
+        },
+        {
+            "name": "speculor-2.7b-Q4_K.gguf",
+            "size": "1737636864",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "812155ec3433771f12cca50dd306aee0fa0e15391e11b351d222cbc7c132fa3c",
+            "download": {
+                "default": "https://huggingface.co/antiven0m/speculor-2.7b-GGUF/resolve/main/speculor-2.7b-Q4_K.gguf"
+            }
+        },
+        {
+            "name": "speculor-2.7b-Q5_K_S.gguf",
+            "size": "1933425664",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "5b7493c8b9c7698fc99f3b9f71bbe08344564fe010e881a04e0c8675ceec7fee",
+            "download": {
+                "default": "https://huggingface.co/antiven0m/speculor-2.7b-GGUF/resolve/main/speculor-2.7b-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "speculor-2.7b-Q6_K.gguf",
+            "size": "2285067264",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "dd879ab1d5da0bbd80d262e392b37e416bbee54184e633ca9faaaccb4d9e1172",
+            "download": {
+                "default": "https://huggingface.co/antiven0m/speculor-2.7b-GGUF/resolve/main/speculor-2.7b-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

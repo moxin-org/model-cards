@@ -1,0 +1,143 @@
+{
+    "id": "second-state/WizardCoder-Python-7B-v1.0-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-17T08:06:03Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "WizardCoder-Python-7B-V1.0-Q2_K.gguf",
+            "size": "2532868480",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "aade30c3576023f5645daff39fd7e0b96ad06828f672fcddaad33f14e44a775c",
+            "download": {
+                "default": "https://huggingface.co/second-state/WizardCoder-Python-7B-v1.0-GGUF/resolve/main/WizardCoder-Python-7B-V1.0-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "WizardCoder-Python-7B-V1.0-Q3_K_L.gguf",
+            "size": "3597116192",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "68eb0a98b41358ac21dce6bc6db18e0c91eee5905f526ebc972198e90b1233f2",
+            "download": {
+                "default": "https://huggingface.co/second-state/WizardCoder-Python-7B-v1.0-GGUF/resolve/main/WizardCoder-Python-7B-V1.0-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "WizardCoder-Python-7B-V1.0-Q3_K_M.gguf",
+            "size": "3298009888",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "fa999fcbff987c83ad7f1961c598c08947aff65dd7dc7948c800e5b49fa8db26",
+            "download": {
+                "default": "https://huggingface.co/second-state/WizardCoder-Python-7B-v1.0-GGUF/resolve/main/WizardCoder-Python-7B-V1.0-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "WizardCoder-Python-7B-V1.0-Q3_K_S.gguf",
+            "size": "2948309792",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "ae1ae76ca547984025d3785b3b449f6e3d7f4808b2942349e0cf14772d935e7d",
+            "download": {
+                "default": "https://huggingface.co/second-state/WizardCoder-Python-7B-v1.0-GGUF/resolve/main/WizardCoder-Python-7B-V1.0-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "WizardCoder-Python-7B-V1.0-Q4_0.gguf",
+            "size": "3825812800",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "158ff5ae22141f0c4d1692ab433431dc1a49c7c56acef8d55f5b5e907f665663",
+            "download": {
+                "default": "https://huggingface.co/second-state/WizardCoder-Python-7B-v1.0-GGUF/resolve/main/WizardCoder-Python-7B-V1.0-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "WizardCoder-Python-7B-V1.0-Q4_K_M.gguf",
+            "size": "4081009984",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "df0d8906a97deeec15e9b1ebc399f65bf203d43e978fdb076e56ddf2a3899117",
+            "download": {
+                "default": "https://huggingface.co/second-state/WizardCoder-Python-7B-v1.0-GGUF/resolve/main/WizardCoder-Python-7B-V1.0-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "WizardCoder-Python-7B-V1.0-Q4_K_S.gguf",
+            "size": "3856745792",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "af93491123629ed1a001b604cf89e527f6d480290cfc84e447f237b114747011",
+            "download": {
+                "default": "https://huggingface.co/second-state/WizardCoder-Python-7B-v1.0-GGUF/resolve/main/WizardCoder-Python-7B-V1.0-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "WizardCoder-Python-7B-V1.0-Q5_0.gguf",
+            "size": "4651697984",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "1a01482ccfc8d3e117497ed214d43af6a1ca72a16829f0c23d61e801040e461d",
+            "download": {
+                "default": "https://huggingface.co/second-state/WizardCoder-Python-7B-v1.0-GGUF/resolve/main/WizardCoder-Python-7B-V1.0-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "WizardCoder-Python-7B-V1.0-Q5_K_M.gguf",
+            "size": "4783163200",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ff61076feb2f3c9d049d12869532d6f5feb855ce501eff1a3d155ac6d29f283a",
+            "download": {
+                "default": "https://huggingface.co/second-state/WizardCoder-Python-7B-v1.0-GGUF/resolve/main/WizardCoder-Python-7B-V1.0-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "WizardCoder-Python-7B-V1.0-Q5_K_S.gguf",
+            "size": "4651697984",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "2355a2a39e60bdace15544e35dc1bd0edebc3c144c04ffe1b1647312ee554d17",
+            "download": {
+                "default": "https://huggingface.co/second-state/WizardCoder-Python-7B-v1.0-GGUF/resolve/main/WizardCoder-Python-7B-V1.0-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "WizardCoder-Python-7B-V1.0-Q6_K.gguf",
+            "size": "5529200992",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "cbb31e4dd9b46985980683aee27aeb96af867d67eee40b39abba99d0a0717df7",
+            "download": {
+                "default": "https://huggingface.co/second-state/WizardCoder-Python-7B-v1.0-GGUF/resolve/main/WizardCoder-Python-7B-V1.0-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "WizardCoder-Python-7B-V1.0-Q8_0.gguf",
+            "size": "7161098528",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "6f5e3f81a754da768d4c1a4019435181595b81378c6a8405d558f0a742e49ee7",
+            "download": {
+                "default": "https://huggingface.co/second-state/WizardCoder-Python-7B-v1.0-GGUF/resolve/main/WizardCoder-Python-7B-V1.0-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 4096,
+    "vector_size": 0,
+    "metrics": {}
+}

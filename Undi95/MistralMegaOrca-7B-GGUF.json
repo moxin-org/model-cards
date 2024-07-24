@@ -1,0 +1,73 @@
+{
+    "id": "Undi95/MistralMegaOrca-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Undi95",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-07T17:30:08Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "MistralMegaOrca-7B.q3_k_m.gguf",
+            "size": "3518985856",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c5a6f6e6a208149e691266fd650f8da696c7d31bcfe20c66453e306db6138ef9",
+            "download": {
+                "default": "https://huggingface.co/Undi95/MistralMegaOrca-7B-GGUF/resolve/main/MistralMegaOrca-7B.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "MistralMegaOrca-7B.q4_k_s.gguf",
+            "size": "4140373632",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5cac7d2536401cca9f204c60fd3baae3cf4c4623b22296b5b87c45ab4b7dd182",
+            "download": {
+                "default": "https://huggingface.co/Undi95/MistralMegaOrca-7B-GGUF/resolve/main/MistralMegaOrca-7B.q4_k_s.gguf"
+            }
+        },
+        {
+            "name": "MistralMegaOrca-7B.q5_k_m.gguf",
+            "size": "5131409024",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6acd67e54f3b71ea6e812b74959ff2072e708e56b99ff6c55150a3dfdc6bb7fe",
+            "download": {
+                "default": "https://huggingface.co/Undi95/MistralMegaOrca-7B-GGUF/resolve/main/MistralMegaOrca-7B.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "MistralMegaOrca-7B.q6_k.gguf",
+            "size": "5942064768",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f274441218aa257fe10d910501addd511f54a882bf9563d54c73bc1bad031b33",
+            "download": {
+                "default": "https://huggingface.co/Undi95/MistralMegaOrca-7B-GGUF/resolve/main/MistralMegaOrca-7B.q6_k.gguf"
+            }
+        },
+        {
+            "name": "MistralMegaOrca-7B.q8_0.gguf",
+            "size": "7695857280",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5193f6ed6a8ceddb505b52b2072dd531b594a2b961aed1ae686fbe62c9f0937d",
+            "download": {
+                "default": "https://huggingface.co/Undi95/MistralMegaOrca-7B-GGUF/resolve/main/MistralMegaOrca-7B.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

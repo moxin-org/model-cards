@@ -1,0 +1,133 @@
+{
+    "id": "boomerchan/Magdump-13b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "boomerchan",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-24T19:28:22Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "magdump-13b-f16.gguf",
+            "size": "26033303424",
+            "quantization": "",
+            "tags": [],
+            "sha256": "19fe5f6cac0071f1bd3cff12643562c08474aff919c004e867c9312dffb44e7c",
+            "download": {
+                "default": "https://huggingface.co/boomerchan/Magdump-13b-GGUF/resolve/main/magdump-13b-f16.gguf"
+            }
+        },
+        {
+            "name": "magdump-13b-Q2_K.gguf",
+            "size": "5429348288",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a23317274719111d2fa67df6d41829bb529970c655dc701c2bce6803c5165ffb",
+            "download": {
+                "default": "https://huggingface.co/boomerchan/Magdump-13b-GGUF/resolve/main/magdump-13b-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "magdump-13b-Q3_K_L.gguf",
+            "size": "6929559488",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "93d836e81ca071fbc2213bd33cd750857c19b036c16ff43dd368c52ade12b951",
+            "download": {
+                "default": "https://huggingface.co/boomerchan/Magdump-13b-GGUF/resolve/main/magdump-13b-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "magdump-13b-Q3_K_M.gguf",
+            "size": "6337769408",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "0ddf0bb18321d7be8784e89ccb1c5ec49d217d272a87319ae39574ec4172c563",
+            "download": {
+                "default": "https://huggingface.co/boomerchan/Magdump-13b-GGUF/resolve/main/magdump-13b-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "magdump-13b-Q3_K_S.gguf",
+            "size": "5658980288",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "d80e0d9f060b0daf1b05461d490bd62d39edd27533dc0ff2795bfe5c22c23472",
+            "download": {
+                "default": "https://huggingface.co/boomerchan/Magdump-13b-GGUF/resolve/main/magdump-13b-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "magdump-13b-Q4_K_M.gguf",
+            "size": "7865956288",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "33bf6c8bd7eca0073a781259bd69f69957fc7b6e6c80ae53a11463ebcb08bc31",
+            "download": {
+                "default": "https://huggingface.co/boomerchan/Magdump-13b-GGUF/resolve/main/magdump-13b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "magdump-13b-Q4_K_S.gguf",
+            "size": "7414331328",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "19df9da1693b38ff81281040de5d4bdc2ff1e491684a0fc54eaed5d903f69318",
+            "download": {
+                "default": "https://huggingface.co/boomerchan/Magdump-13b-GGUF/resolve/main/magdump-13b-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "magdump-13b-Q5_K_M.gguf",
+            "size": "9229924288",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ab67430ea7d7cfcc2000afa457516e0191ecce1872578a0bac9a61f2550ea92e",
+            "download": {
+                "default": "https://huggingface.co/boomerchan/Magdump-13b-GGUF/resolve/main/magdump-13b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "magdump-13b-Q5_K_S.gguf",
+            "size": "8972285888",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "8b6b607f4f61594cf61d2182f40f1bff5e5c75a6fc4fe39681e482d0a34c9f53",
+            "download": {
+                "default": "https://huggingface.co/boomerchan/Magdump-13b-GGUF/resolve/main/magdump-13b-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "magdump-13b-Q6_K.gguf",
+            "size": "10679140288",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "15a2eeed7ae23884ae93f43a2c64981082e728f85309b9c0171a4ca8622537f0",
+            "download": {
+                "default": "https://huggingface.co/boomerchan/Magdump-13b-GGUF/resolve/main/magdump-13b-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "magdump-13b-Q8_0.gguf",
+            "size": "13831319488",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "573c29691d26f6fa6a54151f4cee7292d1807eb3f72d1090ebfc36576a8d79e9",
+            "download": {
+                "default": "https://huggingface.co/boomerchan/Magdump-13b-GGUF/resolve/main/magdump-13b-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

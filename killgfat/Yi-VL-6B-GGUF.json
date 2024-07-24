@@ -1,0 +1,53 @@
+{
+    "id": "killgfat/Yi-VL-6B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "killgfat",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-21T15:07:48Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "yi-vl-6b.IQ4_XS.gguf",
+            "size": "3336785504",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "19d40149a20dc34890354faadd69b2ea292a0528db1cdc499d46fa7be20d91d2",
+            "download": {
+                "default": "https://huggingface.co/killgfat/Yi-VL-6B-GGUF/resolve/main/yi-vl-6b.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "yi-vl-6b.Q4_K_M.gguf",
+            "size": "3673968224",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e6da1e1b731a381662b6d647d233a5fc8a41c00e7bd00c830aaf88d9ad1d32e1",
+            "download": {
+                "default": "https://huggingface.co/killgfat/Yi-VL-6B-GGUF/resolve/main/yi-vl-6b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "yi-vl-6b.Q5_K_M.gguf",
+            "size": "4304424544",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "49153e92f075c2f1afdcbf14b2e93e2f4ea2760a32bfe9feac65d3b86cd22c0d",
+            "download": {
+                "default": "https://huggingface.co/killgfat/Yi-VL-6B-GGUF/resolve/main/yi-vl-6b.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

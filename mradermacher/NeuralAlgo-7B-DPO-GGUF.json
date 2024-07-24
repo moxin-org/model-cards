@@ -1,0 +1,173 @@
+{
+    "id": "mradermacher/NeuralAlgo-7B-DPO-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-31T17:23:51Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "NeuralAlgo-7B-DPO.IQ3_M.gguf",
+            "size": "3439515392",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "afe7ce7b2fdd590583b419bd6093b301a97d0ab36b70f0cfb6fc1538c3844c42",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralAlgo-7B-DPO-GGUF/resolve/main/NeuralAlgo-7B-DPO.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "NeuralAlgo-7B-DPO.IQ3_S.gguf",
+            "size": "3337017088",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "e66d7d370c409b2601e27af7420b7818926555cdd9b1ebf473f0757ffff99391",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralAlgo-7B-DPO-GGUF/resolve/main/NeuralAlgo-7B-DPO.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "NeuralAlgo-7B-DPO.IQ3_XS.gguf",
+            "size": "3173439232",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "36271f3ed08b8709ad7eeb52f0e0793a775962f30f358d99f8e83b709882f1a7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralAlgo-7B-DPO-GGUF/resolve/main/NeuralAlgo-7B-DPO.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "NeuralAlgo-7B-DPO.IQ4_XS.gguf",
+            "size": "4099012352",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "179786555c4f2d9a6b3a8c71609e1cb26489699849cef73300751a65bde86541",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralAlgo-7B-DPO-GGUF/resolve/main/NeuralAlgo-7B-DPO.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "NeuralAlgo-7B-DPO.Q2_K.gguf",
+            "size": "2873865984",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "c6ade510f471680faef299c0864f40c467bfb700071375f6c6b2c43ab04398ec",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralAlgo-7B-DPO-GGUF/resolve/main/NeuralAlgo-7B-DPO.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "NeuralAlgo-7B-DPO.Q3_K_L.gguf",
+            "size": "3976648448",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "13701a6baed81726dd19857e3851cf7e071ad1aa9687ec5400b2973ba291f364",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralAlgo-7B-DPO-GGUF/resolve/main/NeuralAlgo-7B-DPO.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "NeuralAlgo-7B-DPO.Q3_K_M.gguf",
+            "size": "3673609984",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ba29a522206e1b3278a86186d9139d4141b4ff62eba58f27528a04d932c2a38c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralAlgo-7B-DPO-GGUF/resolve/main/NeuralAlgo-7B-DPO.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "NeuralAlgo-7B-DPO.Q3_K_S.gguf",
+            "size": "3319191296",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "dc6f1c42306522244e926a4b810b72c10523fd7bf17c48df12e42191fb64f2ec",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralAlgo-7B-DPO-GGUF/resolve/main/NeuralAlgo-7B-DPO.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "NeuralAlgo-7B-DPO.Q4_0.gguf",
+            "size": "4263540480",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "f9f3100a04c326bf1b46255242a6681ad2cab9a15ff22fffa62a97ac9030ba6a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralAlgo-7B-DPO-GGUF/resolve/main/NeuralAlgo-7B-DPO.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "NeuralAlgo-7B-DPO.Q4_K_M.gguf",
+            "size": "4523063040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "9741f162c85d8c7452471b620ba4499ca640f48ee72835b17721e63be5c29907",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralAlgo-7B-DPO-GGUF/resolve/main/NeuralAlgo-7B-DPO.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "NeuralAlgo-7B-DPO.Q4_K_S.gguf",
+            "size": "4294997760",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "73229e8f99bf898252d592f69d3ae6c528f74130b7b94b284e676cdb7952e1b4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralAlgo-7B-DPO-GGUF/resolve/main/NeuralAlgo-7B-DPO.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "NeuralAlgo-7B-DPO.Q5_K_M.gguf",
+            "size": "5286033152",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "a60c594796d063d668e952a10b8923d00be9e698e7b2d967851ce5a61a2ad6d3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralAlgo-7B-DPO-GGUF/resolve/main/NeuralAlgo-7B-DPO.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "NeuralAlgo-7B-DPO.Q5_K_S.gguf",
+            "size": "5152339712",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "361c6854d8fa02d0e648902680d4e3afd79cb1c4bfa0496bb617f19de464e3f3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralAlgo-7B-DPO-GGUF/resolve/main/NeuralAlgo-7B-DPO.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "NeuralAlgo-7B-DPO.Q6_K.gguf",
+            "size": "6096688896",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "be8305845cb19ff15817457f6b47231fbfbdce343cc9fe2fd29ff27af7a24a11",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralAlgo-7B-DPO-GGUF/resolve/main/NeuralAlgo-7B-DPO.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "NeuralAlgo-7B-DPO.Q8_0.gguf",
+            "size": "7818737408",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "f84c034f84de3ff6df3703e29fd8cf930e70564b238c3dd2f3928a36a8bcc776",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralAlgo-7B-DPO-GGUF/resolve/main/NeuralAlgo-7B-DPO.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

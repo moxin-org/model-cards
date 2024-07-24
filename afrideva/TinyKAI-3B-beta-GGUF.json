@@ -1,0 +1,83 @@
+{
+    "id": "afrideva/TinyKAI-3B-beta-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-10T04:11:38Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tinykai-3b-beta.q2_k.gguf",
+            "size": "2147988096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a82d42df272752533cd26b1e2242712e88d687d811cf25f03b4d8b7c9a66b08e",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyKAI-3B-beta-GGUF/resolve/main/tinykai-3b-beta.q2_k.gguf"
+            }
+        },
+        {
+            "name": "tinykai-3b-beta.q3_k_m.gguf",
+            "size": "2270612096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3564c1c794b944e956a9fd6ef2fb7804031a972bfa3cea25b46b0a23fdd60ce2",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyKAI-3B-beta-GGUF/resolve/main/tinykai-3b-beta.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "tinykai-3b-beta.q4_k_m.gguf",
+            "size": "2580116096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "200dd0e8da6fc008553d99365dd463e8ea7ed52c5c8eee73a8d4d2459e427605",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyKAI-3B-beta-GGUF/resolve/main/tinykai-3b-beta.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "tinykai-3b-beta.q5_k_m.gguf",
+            "size": "2757076096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "650e1ccde933cf499f0da916d07954576284d50ec75ae113cc4832b9d44f4a1c",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyKAI-3B-beta-GGUF/resolve/main/tinykai-3b-beta.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "tinykai-3b-beta.q6_k.gguf",
+            "size": "3641876096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "da8783cb47522a0d10f3c156755e8d36052fbb1046802e4933b7cd0e1a10102b",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyKAI-3B-beta-GGUF/resolve/main/tinykai-3b-beta.q6_k.gguf"
+            }
+        },
+        {
+            "name": "tinykai-3b-beta.q8_0.gguf",
+            "size": "3641876096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9dac3904503ef6683a232193aa0d0d57a9d5e419345387e9dd80f19b3a6c2fc1",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyKAI-3B-beta-GGUF/resolve/main/tinykai-3b-beta.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

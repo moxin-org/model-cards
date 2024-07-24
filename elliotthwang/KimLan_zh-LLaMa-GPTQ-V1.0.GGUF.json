@@ -1,0 +1,43 @@
+{
+    "id": "elliotthwang/KimLan_zh-LLaMa-GPTQ-V1.0.GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "elliotthwang",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-27T12:49:03Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "KimLan_zh-LLaMa-GPTQ-Q4_km.gguf",
+            "size": "4081977472",
+            "quantization": "Q4_km",
+            "tags": [],
+            "sha256": "5f89be4868681adb2e4aef4228e7bbb8c067afbd463eefbefce93666d5a95e2d",
+            "download": {
+                "default": "https://huggingface.co/elliotthwang/KimLan_zh-LLaMa-GPTQ-V1.0.GGUF/resolve/main/KimLan_zh-LLaMa-GPTQ-Q4_km.gguf"
+            }
+        },
+        {
+            "name": "KimLan_zh-LLaMa-GPTQ-Q5_km.gguf",
+            "size": "4784130176",
+            "quantization": "Q5_km",
+            "tags": [],
+            "sha256": "5147faad45c11b9e4a6fc27bfca2661c28dc0a064f11b4cdcf1366014e2e859f",
+            "download": {
+                "default": "https://huggingface.co/elliotthwang/KimLan_zh-LLaMa-GPTQ-V1.0.GGUF/resolve/main/KimLan_zh-LLaMa-GPTQ-Q5_km.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,153 @@
+{
+    "id": "second-state/Llama-3-Instruct-8B-SimPO-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-05-28T02:33:56Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Llama-3-Instruct-8B-SimPO-f16.gguf",
+            "size": "16068890464",
+            "quantization": "",
+            "tags": [],
+            "sha256": "39a567c56c820eb87990b90077ceafc6ee1702cfd02e1de16d0d13fc94522fbc",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-Instruct-8B-SimPO-GGUF/resolve/main/Llama-3-Instruct-8B-SimPO-f16.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-Instruct-8B-SimPO-Q2_K.gguf",
+            "size": "3179130720",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "e0e0ae2e9cd50322d2d3fa2e5cce9bba28a3584d727c62d86e480d7a27b7cf87",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-Instruct-8B-SimPO-GGUF/resolve/main/Llama-3-Instruct-8B-SimPO-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-Instruct-8B-SimPO-Q3_K_L.gguf",
+            "size": "4321955680",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "6f2dcfbe5312e07f20151c257cbcc8fc5f7c5c0e8f3e5aea133d92b656df7fba",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-Instruct-8B-SimPO-GGUF/resolve/main/Llama-3-Instruct-8B-SimPO-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-Instruct-8B-SimPO-Q3_K_M.gguf",
+            "size": "4018917216",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "54a992c745825ba15d5e5548a581ea1d7fc209f46a5d711856c824184cdce0ec",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-Instruct-8B-SimPO-GGUF/resolve/main/Llama-3-Instruct-8B-SimPO-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-Instruct-8B-SimPO-Q3_K_S.gguf",
+            "size": "3664498528",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "c2be87d4409f29467b1746ca62e09bfbed3b1448d454789e5f8d3936ff7d15a0",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-Instruct-8B-SimPO-GGUF/resolve/main/Llama-3-Instruct-8B-SimPO-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-Instruct-8B-SimPO-Q4_0.gguf",
+            "size": "4661210976",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "97caffe9f321d15af8f49bd4322ab6f14ca21efa7f05b025e61cd926c6a4905e",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-Instruct-8B-SimPO-GGUF/resolve/main/Llama-3-Instruct-8B-SimPO-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-Instruct-8B-SimPO-Q4_K_M.gguf",
+            "size": "4920733536",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4546465936dc83d1dd46e6e867b0cfcfd858a2b214217b390ae0473ac432dc66",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-Instruct-8B-SimPO-GGUF/resolve/main/Llama-3-Instruct-8B-SimPO-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-Instruct-8B-SimPO-Q4_K_S.gguf",
+            "size": "4692668256",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "42c15a07f6409fe2b3db4dac8a8d86a79dd9f52df50c0d73f096aa6101584cbe",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-Instruct-8B-SimPO-GGUF/resolve/main/Llama-3-Instruct-8B-SimPO-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-Instruct-8B-SimPO-Q5_0.gguf",
+            "size": "5599293280",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "46dc1ff1602f86c081bdd63d5cd875f7c1b92a3d7a7201df63ec84fe4c6d45bb",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-Instruct-8B-SimPO-GGUF/resolve/main/Llama-3-Instruct-8B-SimPO-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-Instruct-8B-SimPO-Q5_K_M.gguf",
+            "size": "5732986720",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ef4ba180d625ca4ced6f2a77609de3c284c810aeee4335cfba9648419c410a43",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-Instruct-8B-SimPO-GGUF/resolve/main/Llama-3-Instruct-8B-SimPO-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-Instruct-8B-SimPO-Q5_K_S.gguf",
+            "size": "5599293280",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "5f71b73ccd34493a08c606e1b066ddc7eac838d95801f0b186e42933ebc5027d",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-Instruct-8B-SimPO-GGUF/resolve/main/Llama-3-Instruct-8B-SimPO-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-Instruct-8B-SimPO-Q6_K.gguf",
+            "size": "6596005728",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "e133af8bfc7c5cfabac86494b5bf467202b31a365bff1aca08a7874b86382c27",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-Instruct-8B-SimPO-GGUF/resolve/main/Llama-3-Instruct-8B-SimPO-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-Instruct-8B-SimPO-Q8_0.gguf",
+            "size": "8540770144",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "4a0e0c69c60efb7b408debc84e649c744952fec61860e38f7095214c638937f8",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-Instruct-8B-SimPO-GGUF/resolve/main/Llama-3-Instruct-8B-SimPO-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 4096,
+    "vector_size": 0,
+    "metrics": null
+}

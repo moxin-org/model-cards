@@ -1,0 +1,43 @@
+{
+    "id": "marianna13/llava-phi-2-3b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "marianna13",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-11T20:47:52Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-f16.gguf",
+            "size": "5563095648",
+            "quantization": "",
+            "tags": [],
+            "sha256": "468e0186f8ed67e42ad70f4d5ea23141596f844d155fad38ba593e83297daea1",
+            "download": {
+                "default": "https://huggingface.co/marianna13/llava-phi-2-3b-GGUF/resolve/main/ggml-model-f16.gguf"
+            }
+        },
+        {
+            "name": "mmproj-model-f16.gguf",
+            "size": "600829120",
+            "quantization": "",
+            "tags": [],
+            "sha256": "03b4efa2bafe36055a45800ba2634d3ab13670c7bc99560cd2750c5ec32ef41d",
+            "download": {
+                "default": "https://huggingface.co/marianna13/llava-phi-2-3b-GGUF/resolve/main/mmproj-model-f16.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,53 @@
+{
+    "id": "elliotthwang/KimLanpure-phi-2-zh.GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "elliotthwang",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-26T12:22:49Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "KimLam_phi-2-zh-q4_k_m.gguf",
+            "size": "1737636448",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1f0cee361e826dc85428876851310de1aace365b22a4371acba2993c40ab4b33",
+            "download": {
+                "default": "https://huggingface.co/elliotthwang/KimLanpure-phi-2-zh.GGUF/resolve/main/KimLam_phi-2-zh-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "KimLam_phi-2-zh-q5_k_m.gguf",
+            "size": "2003057248",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3671ba7d38c73bad274d824d38e958b5940d637ad2b5988ad2d0f9a84ecd8f87",
+            "download": {
+                "default": "https://huggingface.co/elliotthwang/KimLanpure-phi-2-zh.GGUF/resolve/main/KimLam_phi-2-zh-q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "KimLam_phi-2-zh-q8_0.gguf",
+            "size": "2958039648",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9d61d53f97bd517ce5e6227777912bb736568f96ad23b99a46ca853b96ed7cca",
+            "download": {
+                "default": "https://huggingface.co/elliotthwang/KimLanpure-phi-2-zh.GGUF/resolve/main/KimLam_phi-2-zh-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

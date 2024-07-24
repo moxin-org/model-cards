@@ -1,0 +1,43 @@
+{
+    "id": "guinmoon/SantaCoder-1B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "guinmoon",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-01T07:06:50Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "SantaCoder-1B-f16.gguf",
+            "size": "2454687232",
+            "quantization": "",
+            "tags": [],
+            "sha256": "902105f06fe2395973d4497a4e539e329dcc5940a3cf5bc516968ecafcd5f5a1",
+            "download": {
+                "default": "https://huggingface.co/guinmoon/SantaCoder-1B-GGUF/resolve/main/SantaCoder-1B-f16.gguf"
+            }
+        },
+        {
+            "name": "SantaCoder-1B-Q5_K.gguf",
+            "size": "901715488",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "df436880dfb953e42f7e51315ab90e95953de77fc4fda802a3cc8c05112c81bb",
+            "download": {
+                "default": "https://huggingface.co/guinmoon/SantaCoder-1B-GGUF/resolve/main/SantaCoder-1B-Q5_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

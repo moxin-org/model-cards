@@ -1,0 +1,43 @@
+{
+    "id": "Danielbrdz/CodeBarcenas-13b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Danielbrdz",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-06T16:42:20Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "CodeBarcenas-13b.Q4_K_M.gguf",
+            "size": "8059249408",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "40ac20b278b576a98edc2f7c7c4f5c96012bf1113e4355132cab5f609eb68b0a",
+            "download": {
+                "default": "https://huggingface.co/Danielbrdz/CodeBarcenas-13b-GGUF/resolve/main/CodeBarcenas-13b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "CodeBarcenas-13b.Q5_K_M.gguf",
+            "size": "9402737408",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e603ce85427e245c4fea805ea69700429d37c4ad15697a52ac267e228b556391",
+            "download": {
+                "default": "https://huggingface.co/Danielbrdz/CodeBarcenas-13b-GGUF/resolve/main/CodeBarcenas-13b.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

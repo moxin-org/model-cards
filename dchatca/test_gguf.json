@@ -1,0 +1,33 @@
+{
+    "id": "dchatca/test_gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "dchatca",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-31T18:36:10Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "test_gguf-unsloth.Q4_K_M.gguf",
+            "size": "4404662016",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4ba2fb57120009c8d0071dc744ee503be00dba9f9b2d0c8048b1bd03108e06f5",
+            "download": {
+                "default": "https://huggingface.co/dchatca/test_gguf/resolve/main/test_gguf-unsloth.Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

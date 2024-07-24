@@ -1,0 +1,63 @@
+{
+    "id": "janhq/jan-repo-v1.1-sft-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "janhq",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-04T09:08:16Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "jan-repo-v1.1-sft.Q3_K_M.gguf",
+            "size": "3519922464",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ba0549c0fbc63a6bb7a92510c9e7fb8812c7279e4087c61ad6a7a3a6a0dce6c0",
+            "download": {
+                "default": "https://huggingface.co/janhq/jan-repo-v1.1-sft-GGUF/resolve/main/jan-repo-v1.1-sft.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "jan-repo-v1.1-sft.Q4_K_M.gguf",
+            "size": "4369375520",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "0a1d45cb50960603a3bccc5fa2cd461a8a98b60d12cb41b9e531af70ea352f73",
+            "download": {
+                "default": "https://huggingface.co/janhq/jan-repo-v1.1-sft-GGUF/resolve/main/jan-repo-v1.1-sft.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "jan-repo-v1.1-sft.Q5_K_M.gguf",
+            "size": "5132345632",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "29450ffd84fc98a4e35fe515259c4b0f08ad1495d9bc294612862c3c05dfd47b",
+            "download": {
+                "default": "https://huggingface.co/janhq/jan-repo-v1.1-sft-GGUF/resolve/main/jan-repo-v1.1-sft.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "jan-repo-v1.1-sft.Q8_0.gguf",
+            "size": "7696793888",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "891c72a8c02ef2ccb40fbee541e86241bd9e16e34de2fd1d49da95cb26fbe82b",
+            "download": {
+                "default": "https://huggingface.co/janhq/jan-repo-v1.1-sft-GGUF/resolve/main/jan-repo-v1.1-sft.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

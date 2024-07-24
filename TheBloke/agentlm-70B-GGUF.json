@@ -1,0 +1,123 @@
+{
+    "id": "TheBloke/agentlm-70B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-20T22:13:02Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "agentlm-70b.Q2_K.gguf",
+            "size": "29281669024",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "0eaf4c6bb9f9b0054da32ed6bed537b290fc720d404646ef5aca8a688ff6f255",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/agentlm-70B-GGUF/resolve/main/agentlm-70b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "agentlm-70b.Q3_K_L.gguf",
+            "size": "36150464416",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "8489d9c5acb66a5af83a3d67c3bdbd55d523e2424e2fdcebadfe6eed9a3b8829",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/agentlm-70B-GGUF/resolve/main/agentlm-70b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "agentlm-70b.Q3_K_M.gguf",
+            "size": "33189285792",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "4d2387368427223fc4db5d5fe37025db4027a151c37352df5879cbbc5dfda8e8",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/agentlm-70B-GGUF/resolve/main/agentlm-70b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "agentlm-70b.Q3_K_S.gguf",
+            "size": "29921922976",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "c9f6f762fbe7bf2a8490e70df1d7b750569043c8f3f4428c8e8efbce317e9af7",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/agentlm-70B-GGUF/resolve/main/agentlm-70b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "agentlm-70b.Q4_0.gguf",
+            "size": "38875156384",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "a45053243d6d83c2edf96a79d5bd71bee9238173f321f2bb396d98711ce8de53",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/agentlm-70B-GGUF/resolve/main/agentlm-70b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "agentlm-70b.Q4_K_M.gguf",
+            "size": "41425817504",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c9535e8f97ae3dbae9191648165150cdbe8caef4e3b678f42d5db140853592f7",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/agentlm-70B-GGUF/resolve/main/agentlm-70b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "agentlm-70b.Q4_K_S.gguf",
+            "size": "39076482976",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "8023ce39b75f3a68b6261031f108120266fb7e076642988a9b0a23bcd8407820",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/agentlm-70B-GGUF/resolve/main/agentlm-70b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "agentlm-70b.Q5_0.gguf",
+            "size": "47464566688",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "165a03925822003d179ab0a957500e92d5ea73c7c0c198e87c79bc070060dc76",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/agentlm-70B-GGUF/resolve/main/agentlm-70b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "agentlm-70b.Q5_K_M.gguf",
+            "size": "48756936608",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5f37c7a5e444c8955685feec1eb0874994367740c78ff04d90bdec79a1657045",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/agentlm-70B-GGUF/resolve/main/agentlm-70b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "agentlm-70b.Q5_K_S.gguf",
+            "size": "47464566688",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "b5732c4a470f3694204e8d401a3a8971413e3b07f7c518d92f2352d1a8b1c71b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/agentlm-70B-GGUF/resolve/main/agentlm-70b.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,103 @@
+{
+    "id": "Kquant03/MistralTrix-4x9B-ERP-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Kquant03",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-06T02:31:19Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-q2_k.gguf",
+            "size": "10038070240",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4fdf148948639d143e5eef97119b7fff065aabbbe5951c4caa42b1171c102725",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/MistralTrix-4x9B-ERP-GGUF/resolve/main/ggml-model-q2_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q3_k_m.gguf",
+            "size": "13111651296",
+            "quantization": "",
+            "tags": [],
+            "sha256": "00cc4e2c274cbaac93df02a4ea342f331c2f7b4526498b2ace02e256c4cedc45",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/MistralTrix-4x9B-ERP-GGUF/resolve/main/ggml-model-q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_0.gguf",
+            "size": "16982838240",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ad454489b3a2d036f288fea48ddb3488ec095a790fff39cbe477a69441019456",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/MistralTrix-4x9B-ERP-GGUF/resolve/main/ggml-model-q4_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_k_m.gguf",
+            "size": "17004465120",
+            "quantization": "",
+            "tags": [],
+            "sha256": "91df16f3c21bd23a4325ec9ccf88744c8ef35fd83453458f96a7979b10620c37",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/MistralTrix-4x9B-ERP-GGUF/resolve/main/ggml-model-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_0.gguf",
+            "size": "20732152800",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d96829afee90d243c90b078efb2590a7b92c2efa0e919fc6dcf3157f2a82f890",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/MistralTrix-4x9B-ERP-GGUF/resolve/main/ggml-model-q5_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_k_m.gguf",
+            "size": "20743293920",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e45c8870033bc96ee819dac591d9e095d7119965efb44c9727e647042e8c3ed6",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/MistralTrix-4x9B-ERP-GGUF/resolve/main/ggml-model-q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q6_k.gguf",
+            "size": "24715799520",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f8c2d0afe75d8f3e511091f7f793b92b2a6fdad992f54e04b9bb418143ad4efd",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/MistralTrix-4x9B-ERP-GGUF/resolve/main/ggml-model-q6_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q8_0.gguf",
+            "size": "32011840480",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dfdccbf0d35108074ba48a941d26c4b5309ca625080cf663af23e5fd03742164",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/MistralTrix-4x9B-ERP-GGUF/resolve/main/ggml-model-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

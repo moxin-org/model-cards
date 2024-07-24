@@ -1,0 +1,63 @@
+{
+    "id": "LoneStriker/Skywork-13B-Spicyboros-3.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LoneStriker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-01T11:50:41Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Skywork-13B-Spicyboros-3.1-Q3_K_M.gguf",
+            "size": "6777889504",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "d9f3692bf47ad95055e873da5458fd07be059c20c70e165f12b88335b9a6a2e6",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Skywork-13B-Spicyboros-3.1-GGUF/resolve/main/Skywork-13B-Spicyboros-3.1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Skywork-13B-Spicyboros-3.1-Q4_K_M.gguf",
+            "size": "8395803168",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "ac02b29960f6c5ed40e7391012f785fc8a8955a0e2d5df41c96177bed509ade4",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Skywork-13B-Spicyboros-3.1-GGUF/resolve/main/Skywork-13B-Spicyboros-3.1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Skywork-13B-Spicyboros-3.1-Q6_K.gguf",
+            "size": "11367721792",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "60a76a782edbf691748e55e9563e7d64a63aecb5bc4d16bec927b71d2b19b475",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Skywork-13B-Spicyboros-3.1-GGUF/resolve/main/Skywork-13B-Spicyboros-3.1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Skywork-13B-Spicyboros-3.1-Q8_0.gguf",
+            "size": "14722897664",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "ced065e23933e351781d6cff59890c76609c472a943a6d41a496aaa51442cc4b",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Skywork-13B-Spicyboros-3.1-GGUF/resolve/main/Skywork-13B-Spicyboros-3.1-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

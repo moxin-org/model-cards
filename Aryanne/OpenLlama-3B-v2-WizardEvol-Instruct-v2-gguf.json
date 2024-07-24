@@ -1,0 +1,63 @@
+{
+    "id": "Aryanne/OpenLlama-3B-v2-WizardEvol-Instruct-v2-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Aryanne",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-01T13:25:21Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "q4_0-openllama-3b-WizardEvol-v2.gguf",
+            "size": "1979924096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "cf511dd6d5f6393fa3ef930390b96451574a05652004d746980af5e2850ea2b5",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/OpenLlama-3B-v2-WizardEvol-Instruct-v2-gguf/resolve/main/q4_0-openllama-3b-WizardEvol-v2.gguf"
+            }
+        },
+        {
+            "name": "q4_1-openllama-3b-WizardEvol-v2.gguf",
+            "size": "2187668096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e269c09c5e1a449f440612cc5bd2badd3893ea8f210dca6ecd90c6f65e93f1f8",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/OpenLlama-3B-v2-WizardEvol-Instruct-v2-gguf/resolve/main/q4_1-openllama-3b-WizardEvol-v2.gguf"
+            }
+        },
+        {
+            "name": "q5_0-openllama-3b-WizardEvol-v2.gguf",
+            "size": "2395412096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c77812b2a385222fba43f708198417c60f62d8a1d18a1c703bc2760b41a09b1e",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/OpenLlama-3B-v2-WizardEvol-Instruct-v2-gguf/resolve/main/q5_0-openllama-3b-WizardEvol-v2.gguf"
+            }
+        },
+        {
+            "name": "q5_1-openllama-3b-WizardEvol-v2.gguf",
+            "size": "2603156096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2b3626e798e95979371e455b6a00c917ed9ce569f3ab0e6016dcbc1b307e2f69",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/OpenLlama-3B-v2-WizardEvol-Instruct-v2-gguf/resolve/main/q5_1-openllama-3b-WizardEvol-v2.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

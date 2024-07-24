@@ -1,0 +1,153 @@
+{
+    "id": "second-state/DeepSeek-V2-Lite-Chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-07-08T14:53:50Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "DeepSeek-V2-Lite-Chat-f16.gguf",
+            "size": "31424033088",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3ef9ac89c78b82e188cad8c75d0cb630899e08510a97d6fa41431139573f697c",
+            "download": {
+                "default": "https://huggingface.co/second-state/DeepSeek-V2-Lite-Chat-GGUF/resolve/main/DeepSeek-V2-Lite-Chat-f16.gguf"
+            }
+        },
+        {
+            "name": "DeepSeek-V2-Lite-Chat-Q2_K.gguf",
+            "size": "6430464320",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "92df94f2f131ea5761bb454f6157303348142af258f93f9701d9f1db3758be75",
+            "download": {
+                "default": "https://huggingface.co/second-state/DeepSeek-V2-Lite-Chat-GGUF/resolve/main/DeepSeek-V2-Lite-Chat-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "DeepSeek-V2-Lite-Chat-Q3_K_L.gguf",
+            "size": "8459398464",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "959d3d626a1888724b5df16fddd0ba69c6117e8326ed43d89b841817675f58e4",
+            "download": {
+                "default": "https://huggingface.co/second-state/DeepSeek-V2-Lite-Chat-GGUF/resolve/main/DeepSeek-V2-Lite-Chat-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "DeepSeek-V2-Lite-Chat-Q3_K_M.gguf",
+            "size": "8126606656",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "17c1b1c347222101f5bfce551c5ec6807cd81bcf0303b7c183948621dc4aa7d4",
+            "download": {
+                "default": "https://huggingface.co/second-state/DeepSeek-V2-Lite-Chat-GGUF/resolve/main/DeepSeek-V2-Lite-Chat-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "DeepSeek-V2-Lite-Chat-Q3_K_S.gguf",
+            "size": "7487663424",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "54eb4c28d6a1e38d0c22392a3f269d1c37b09e07cd6328a30e76ce7bddccfc15",
+            "download": {
+                "default": "https://huggingface.co/second-state/DeepSeek-V2-Lite-Chat-GGUF/resolve/main/DeepSeek-V2-Lite-Chat-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "DeepSeek-V2-Lite-Chat-Q4_0.gguf",
+            "size": "8905109824",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "526451466948e0a74158b43588bca6269bc46392d0c6689e98a011af7d412aaa",
+            "download": {
+                "default": "https://huggingface.co/second-state/DeepSeek-V2-Lite-Chat-GGUF/resolve/main/DeepSeek-V2-Lite-Chat-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "DeepSeek-V2-Lite-Chat-Q4_K_M.gguf",
+            "size": "10364416320",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "30b4fb4ab1fbe1c6a827303ea898296c9faf8f54d6cdf8b9fbdda7a7ebfb292a",
+            "download": {
+                "default": "https://huggingface.co/second-state/DeepSeek-V2-Lite-Chat-GGUF/resolve/main/DeepSeek-V2-Lite-Chat-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "DeepSeek-V2-Lite-Chat-Q4_K_S.gguf",
+            "size": "9533608256",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "07e8cde8c7f2baa606bc58d7470739a962113b94a75efaed10d626a071461f4e",
+            "download": {
+                "default": "https://huggingface.co/second-state/DeepSeek-V2-Lite-Chat-GGUF/resolve/main/DeepSeek-V2-Lite-Chat-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "DeepSeek-V2-Lite-Chat-Q5_0.gguf",
+            "size": "10841764160",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "7fd631ce1222b84366dd75e2b0d5da3615747a9865f4a75eac965909d35c3c38",
+            "download": {
+                "default": "https://huggingface.co/second-state/DeepSeek-V2-Lite-Chat-GGUF/resolve/main/DeepSeek-V2-Lite-Chat-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "DeepSeek-V2-Lite-Chat-Q5_K_M.gguf",
+            "size": "11851313472",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e76c60363eadb48c1fd3678b0dcbbabb39b959f336ae0c7c6e51396f6b18ad96",
+            "download": {
+                "default": "https://huggingface.co/second-state/DeepSeek-V2-Lite-Chat-GGUF/resolve/main/DeepSeek-V2-Lite-Chat-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "DeepSeek-V2-Lite-Chat-Q5_K_S.gguf",
+            "size": "11143057728",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "5b039106af0b8b68b678c27eb156b47375569a2eb4644b5adb58f368216a9070",
+            "download": {
+                "default": "https://huggingface.co/second-state/DeepSeek-V2-Lite-Chat-GGUF/resolve/main/DeepSeek-V2-Lite-Chat-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "DeepSeek-V2-Lite-Chat-Q6_K.gguf",
+            "size": "14066971968",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "232ec7dbfdb340d3ca020508b1e2e2791da2ae2baac21cf2f0491b781a314be1",
+            "download": {
+                "default": "https://huggingface.co/second-state/DeepSeek-V2-Lite-Chat-GGUF/resolve/main/DeepSeek-V2-Lite-Chat-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "DeepSeek-V2-Lite-Chat-Q8_0.gguf",
+            "size": "16702517568",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "458d8dbb5c64109623751f3c7e691f285770a6521bf06bf86172980b995b3bde",
+            "download": {
+                "default": "https://huggingface.co/second-state/DeepSeek-V2-Lite-Chat-GGUF/resolve/main/DeepSeek-V2-Lite-Chat-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 2048,
+    "vector_size": 0,
+    "metrics": null
+}

@@ -1,0 +1,163 @@
+{
+    "id": "cmp-nct/llava-1.6-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "cmp-nct",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-02T02:17:56Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-mistral-7b-q_5_k.gguf",
+            "size": "5131409664",
+            "quantization": "",
+            "tags": [],
+            "sha256": "886abdae005f4ced83220991bea48b2fbc8fb4d30923244e1eff83afb2cff226",
+            "download": {
+                "default": "https://huggingface.co/cmp-nct/llava-1.6-gguf/resolve/main/ggml-mistral-7b-q_5_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-mistral-q_4_k.gguf",
+            "size": "4368439552",
+            "quantization": "",
+            "tags": [],
+            "sha256": "88188da86ad34038687a7e618e58fee723a4e2ce818d4a5f00783f82e1673c42",
+            "download": {
+                "default": "https://huggingface.co/cmp-nct/llava-1.6-gguf/resolve/main/ggml-mistral-q_4_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-yi-34b-f16-q_3_k.gguf",
+            "size": "16654924032",
+            "quantization": "",
+            "tags": [],
+            "sha256": "bc74eb3db3b7d8e94d7a1e925dc2f225527aa226ad7cc60f51496a2b580a0488",
+            "download": {
+                "default": "https://huggingface.co/cmp-nct/llava-1.6-gguf/resolve/main/ggml-yi-34b-f16-q_3_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-yi-34b-f16-q_5_k.gguf",
+            "size": "24321845504",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d79b3acb4668dc90401e9e2ff88a8e1d05f2dee16a159af7d7b476dabe5fef51",
+            "download": {
+                "default": "https://huggingface.co/cmp-nct/llava-1.6-gguf/resolve/main/ggml-yi-34b-f16-q_5_k.gguf"
+            }
+        },
+        {
+            "name": "mmproj-llava-34b-f16-q6_k.gguf",
+            "size": "288750272",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6839f8492abd75207eb0837f4ffc64488646d447f61241a452ec25422a30898f",
+            "download": {
+                "default": "https://huggingface.co/cmp-nct/llava-1.6-gguf/resolve/main/mmproj-llava-34b-f16-q6_k.gguf"
+            }
+        },
+        {
+            "name": "mmproj-mistral7b-f16-q6_k.gguf",
+            "size": "257747648",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f54540bba525cfc2015c191ecd9a5ccf1d0ad21734ce19b1e59fbbf18869b963",
+            "download": {
+                "default": "https://huggingface.co/cmp-nct/llava-1.6-gguf/resolve/main/mmproj-mistral7b-f16-q6_k.gguf"
+            }
+        },
+        {
+            "name": "mmproj-mistral7b-f16.gguf",
+            "size": "624451168",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b569399e8b652c0f1cd3e629faef3c608328f4e6af612f9574b9c52a573c3f7d",
+            "download": {
+                "default": "https://huggingface.co/cmp-nct/llava-1.6-gguf/resolve/main/mmproj-mistral7b-f16.gguf"
+            }
+        },
+        {
+            "name": "mmproj-vicuna13b-f16-q6_k.gguf",
+            "size": "266361536",
+            "quantization": "",
+            "tags": [],
+            "sha256": "432e6b612515f3dd45ea0b28ae2c4cc6abed71eb2bf08375aea348efab440b6a",
+            "download": {
+                "default": "https://huggingface.co/cmp-nct/llava-1.6-gguf/resolve/main/mmproj-vicuna13b-f16-q6_k.gguf"
+            }
+        },
+        {
+            "name": "mmproj-vicuna13b-f16.gguf",
+            "size": "645434976",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8a8b5c950e286f6a9e9d960a330288c65872ba6e6506bbd7184fa1aaf267c7b9",
+            "download": {
+                "default": "https://huggingface.co/cmp-nct/llava-1.6-gguf/resolve/main/mmproj-vicuna13b-f16.gguf"
+            }
+        },
+        {
+            "name": "mmproj-vicuna7b-f16-q6_k.gguf",
+            "size": "257747648",
+            "quantization": "",
+            "tags": [],
+            "sha256": "525d6c1c477bf9ed1f8767f9098e94996d1e276e96e65d65a99d0d01c8ff5371",
+            "download": {
+                "default": "https://huggingface.co/cmp-nct/llava-1.6-gguf/resolve/main/mmproj-vicuna7b-f16-q6_k.gguf"
+            }
+        },
+        {
+            "name": "mmproj-vicuna7b-f16.gguf",
+            "size": "624451168",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5f5cae7b030574604caf4068ddf96db2a7250398363437271e08689d085ab816",
+            "download": {
+                "default": "https://huggingface.co/cmp-nct/llava-1.6-gguf/resolve/main/mmproj-vicuna7b-f16.gguf"
+            }
+        },
+        {
+            "name": "vicuna-13b-q5_k.gguf",
+            "size": "9229924352",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fac8ecd642ac1c2dd8ef8fb6d6daac349293051b468f5fdc21921b94dfb2916a",
+            "download": {
+                "default": "https://huggingface.co/cmp-nct/llava-1.6-gguf/resolve/main/vicuna-13b-q5_k.gguf"
+            }
+        },
+        {
+            "name": "vicuna-13b-q6_k.gguf",
+            "size": "10679140352",
+            "quantization": "",
+            "tags": [],
+            "sha256": "10ac7b9b5a700da070606e6163606b029c06d188183f9e9f27d3e32380374758",
+            "download": {
+                "default": "https://huggingface.co/cmp-nct/llava-1.6-gguf/resolve/main/vicuna-13b-q6_k.gguf"
+            }
+        },
+        {
+            "name": "vicuna-7b-q5_k.gguf",
+            "size": "4783157056",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c0e346e7f58e4c2349f2c993c8f3889395da81eed4ac8aa9a8c6c0214a3b66ee",
+            "download": {
+                "default": "https://huggingface.co/cmp-nct/llava-1.6-gguf/resolve/main/vicuna-7b-q5_k.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

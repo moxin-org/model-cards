@@ -1,0 +1,43 @@
+{
+    "id": "scribis/Filostrato_Instruct_merged-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "scribis",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-30T13:43:42Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Q4_K_M.gguf",
+            "size": "",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6c94a92dfac5de8f12d6598a2b52443e602502ac19a75cbee233eea86367dd51",
+            "download": {
+                "default": "https://huggingface.co/scribis/Filostrato_Instruct_merged-GGUF/resolve/main/Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Q5_0.gguf",
+            "size": "",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d98218effad92294a48beb98c407a39b903d4df8702091fe9bb43521b9501ea5",
+            "download": {
+                "default": "https://huggingface.co/scribis/Filostrato_Instruct_merged-GGUF/resolve/main/Q5_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

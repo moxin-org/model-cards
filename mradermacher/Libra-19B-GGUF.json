@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Libra-19B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-17T06:09:36Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Libra-19B.IQ3_M.gguf",
+            "size": "9062572512",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "9d3543af4bd1ad83c0e2543d71b72112fbb94a44bd60a7c60df91d9752bfa843",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Libra-19B-GGUF/resolve/main/Libra-19B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Libra-19B.IQ3_S.gguf",
+            "size": "8578978272",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "2df2eacc006eea18329f8c2551ccbd2176011ef8becb05743689d1b03f90abe2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Libra-19B-GGUF/resolve/main/Libra-19B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Libra-19B.IQ3_XS.gguf",
+            "size": "8132923872",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "5c84e5dbd6e6d0e953d1e9d0778f9a2c9cea435338f9442bc9d7ba0c0575f354",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Libra-19B-GGUF/resolve/main/Libra-19B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Libra-19B.IQ4_XS.gguf",
+            "size": "10605935072",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "1c99b56e87c24b0189fd4aaedb28777d1d5e3215a0f69f2a42202c6df24bc64a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Libra-19B-GGUF/resolve/main/Libra-19B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Libra-19B.Q2_K.gguf",
+            "size": "7380232672",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "c6a39694366cb75fedce91729c9f557b17b90d32cc257c2b1c4c1672968aca7b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Libra-19B-GGUF/resolve/main/Libra-19B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Libra-19B.Q3_K_L.gguf",
+            "size": "10484847072",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "bd9d7ad4c849f2828e66b181b48cff3e6d71350cbfb9dc2921fc7b3247bd2c68",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Libra-19B-GGUF/resolve/main/Libra-19B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Libra-19B.Q3_K_M.gguf",
+            "size": "9593885152",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "a1eee3ecb80f943d8d587ef4a938a7d452127941740c3be4914427ab91a1d85d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Libra-19B-GGUF/resolve/main/Libra-19B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Libra-19B.Q3_K_S.gguf",
+            "size": "8578978272",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "97575615f916df2cf59700205206a893564a0b7add35441222ae6e5f70c0ab68",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Libra-19B-GGUF/resolve/main/Libra-19B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Libra-19B.Q4_K_M.gguf",
+            "size": "11878562272",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "7da1e32e05b88bbcbd04bda99bd98c3d811e821b4d60750d6e4ab7935e633dbc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Libra-19B-GGUF/resolve/main/Libra-19B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Libra-19B.Q4_K_S.gguf",
+            "size": "11203418592",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "e8d151ce7fa47bfeedd16d75945d8da210f8ff5b069921a9debf09a65d86fcc0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Libra-19B-GGUF/resolve/main/Libra-19B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Libra-19B.Q5_K_M.gguf",
+            "size": "13914274272",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "3a657ebe03e435e0c031124a0d582d5c0509ad81bac112229a25764bb1ef4fe6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Libra-19B-GGUF/resolve/main/Libra-19B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Libra-19B.Q5_K_S.gguf",
+            "size": "13527816672",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "0807046deafb08a5b489e80e747f4bea1e249d45216b82e7a69dbe3001142ba9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Libra-19B-GGUF/resolve/main/Libra-19B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Libra-19B.Q6_K.gguf",
+            "size": "16077218272",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "60952a88bd43ed1e4c0796ada43ca63fcf6a965b0efac43334dd85a3e5609603",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Libra-19B-GGUF/resolve/main/Libra-19B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Libra-19B.Q8_0.gguf",
+            "size": "20726127072",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "2a33d7c6c87f0821e880ac0355fd581637f62f9d5763859f6b960e5ffa09b878",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Libra-19B-GGUF/resolve/main/Libra-19B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

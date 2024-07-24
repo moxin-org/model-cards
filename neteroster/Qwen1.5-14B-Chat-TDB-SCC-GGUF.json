@@ -1,0 +1,53 @@
+{
+    "id": "neteroster/Qwen1.5-14B-Chat-TDB-SCC-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "neteroster",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-10T09:18:30Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "qwen1.5-14b-chat-tdb-scc-f16.gguf",
+            "size": "28342597024",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b5bf8106966cfc8f33d716450ab55f368c3509c690c8925acd91f27563cf1816",
+            "download": {
+                "default": "https://huggingface.co/neteroster/Qwen1.5-14B-Chat-TDB-SCC-GGUF/resolve/main/qwen1.5-14b-chat-tdb-scc-f16.gguf"
+            }
+        },
+        {
+            "name": "qwen1.5-14b-chat-tdb-scc-Q6_K.gguf",
+            "size": "12310156768",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "8b8521d79a6e7c7dd75cdeec8d9fb334304c5d534db5878d88cad7f59ece47a9",
+            "download": {
+                "default": "https://huggingface.co/neteroster/Qwen1.5-14B-Chat-TDB-SCC-GGUF/resolve/main/qwen1.5-14b-chat-tdb-scc-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "qwen1.5-14b-chat-tdb-scc-Q8_0.gguf",
+            "size": "15061726688",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "6eeba617df359f30a989e0015f9c71b8dbcae5200dd27f28fad411d4604b49dc",
+            "download": {
+                "default": "https://huggingface.co/neteroster/Qwen1.5-14B-Chat-TDB-SCC-GGUF/resolve/main/qwen1.5-14b-chat-tdb-scc-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

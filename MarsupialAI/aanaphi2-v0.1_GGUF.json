@@ -1,0 +1,53 @@
+{
+    "id": "MarsupialAI/aanaphi2-v0.1_GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "MarsupialAI",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-26T20:30:42Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "aanaphi2_fp16.gguf",
+            "size": "5563095872",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1791421a9e5c7711da038785795ea9a108c85607bf6cdba286368b4d3ffc3f51",
+            "download": {
+                "default": "https://huggingface.co/MarsupialAI/aanaphi2-v0.1_GGUF/resolve/main/aanaphi2_fp16.gguf"
+            }
+        },
+        {
+            "name": "aanaphi2_Q2k.gguf",
+            "size": "1194916704",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6809b02211eb8b823c5d6eed0948c70769672e2eb174b96c8a37864e5691ed1a",
+            "download": {
+                "default": "https://huggingface.co/MarsupialAI/aanaphi2-v0.1_GGUF/resolve/main/aanaphi2_Q2k.gguf"
+            }
+        },
+        {
+            "name": "aanaphi2_Q8.gguf",
+            "size": "2958039904",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e2f0a53be573665b25f4713455fee37c1b5eab536e0bd9816a2c1425441bc3d9",
+            "download": {
+                "default": "https://huggingface.co/MarsupialAI/aanaphi2-v0.1_GGUF/resolve/main/aanaphi2_Q8.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,243 @@
+{
+    "id": "mradermacher/HuginnV5.6-12.6B-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-02T07:50:51Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "HuginnV5.6-12.6B.i1-IQ4_XS.gguf",
+            "size": "7092776288",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "d1120b4f1dabf8944b5ece00980fcc5cfd713facfe891b85ae9b4f8004949c87",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HuginnV5.6-12.6B-i1-GGUF/resolve/main/HuginnV5.6-12.6B.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "HuginnV5.6-12.6B.i1-Q6_K.gguf",
+            "size": "10749300064",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "102ac63b0c73ccf68fe056b4418261e12238ded89f956b4bf789667524861dfa",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HuginnV5.6-12.6B-i1-GGUF/resolve/main/HuginnV5.6-12.6B.i1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "HuginnV5.6-12.6B.i1-Q5_K_S.gguf",
+            "size": "9051811168",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "fea2b0df81724aa6b254d27f206691b61ee865b202aa9ce60e0d2d2efc1c1245",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HuginnV5.6-12.6B-i1-GGUF/resolve/main/HuginnV5.6-12.6B.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "HuginnV5.6-12.6B.i1-Q5_K_M.gguf",
+            "size": "9294130528",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "3223f881ddfcc765bafcc78b46f20185e1f9ef0f651689031a2b0233c6739bbd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HuginnV5.6-12.6B-i1-GGUF/resolve/main/HuginnV5.6-12.6B.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "HuginnV5.6-12.6B.i1-Q4_K_S.gguf",
+            "size": "7507651936",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "fdf7031d55eba54cf1d1ad5248fcc2d9ca1505a4efe323eb6ed370186e42ea10",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HuginnV5.6-12.6B-i1-GGUF/resolve/main/HuginnV5.6-12.6B.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "HuginnV5.6-12.6B.i1-Q4_K_M.gguf",
+            "size": "7924559200",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e904c0b462df59f55290cd1afce9d3464c6f6b0387b607da32ad0732061a03df",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HuginnV5.6-12.6B-i1-GGUF/resolve/main/HuginnV5.6-12.6B.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "HuginnV5.6-12.6B.i1-Q4_0.gguf",
+            "size": "7479864672",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "304a92d17eab648674743ad508cada7c7dcbb5cfc7dff3eeba0920eacac1bccd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HuginnV5.6-12.6B-i1-GGUF/resolve/main/HuginnV5.6-12.6B.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "HuginnV5.6-12.6B.i1-Q3_K_S.gguf",
+            "size": "5756685664",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "7bb41550743c023ad7e758ed84ae85bd23fdf1fcc3bb3966a8a7d1bd54d0a06c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HuginnV5.6-12.6B-i1-GGUF/resolve/main/HuginnV5.6-12.6B.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "HuginnV5.6-12.6B.i1-Q3_K_M.gguf",
+            "size": "6393630048",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "c7cdb5ca0557e7f9edc8d0f2920a4e3e6ba7930c9c1de1ce8ebb649d50a6f5dd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HuginnV5.6-12.6B-i1-GGUF/resolve/main/HuginnV5.6-12.6B.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "HuginnV5.6-12.6B.i1-Q3_K_L.gguf",
+            "size": "6948326752",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "6ff8683464dbda8aad67382cbc22d2e0afc5b2fd8490fa957358c68d7025501f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HuginnV5.6-12.6B-i1-GGUF/resolve/main/HuginnV5.6-12.6B.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "HuginnV5.6-12.6B.i1-Q2_K.gguf",
+            "size": "4960349536",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "01fa2832a7d6eae025aef91a3aa9cfb9348f8787a43125df603b39cc13ae0079",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HuginnV5.6-12.6B-i1-GGUF/resolve/main/HuginnV5.6-12.6B.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "HuginnV5.6-12.6B.i1-IQ1_M.gguf",
+            "size": "3069570400",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "ad9bc4d8a157e7f382280522359dc619fe121629a1b602be3914501b9d5a93e1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HuginnV5.6-12.6B-i1-GGUF/resolve/main/HuginnV5.6-12.6B.i1-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "HuginnV5.6-12.6B.i1-IQ4_NL.gguf",
+            "size": "7484583264",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "ddbfe53786a1540d589b74ef3b3d42c2a8ed45afede96197a653b3dcb8833c9c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HuginnV5.6-12.6B-i1-GGUF/resolve/main/HuginnV5.6-12.6B.i1-IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "HuginnV5.6-12.6B.i1-IQ3_XXS.gguf",
+            "size": "5177019744",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "5915ef5abed2f56973bd90d25048cebe9b4af2ee016f93a5c464431adb5ad7c0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HuginnV5.6-12.6B-i1-GGUF/resolve/main/HuginnV5.6-12.6B.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "HuginnV5.6-12.6B.i1-IQ3_XS.gguf",
+            "size": "5462953312",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "04ae93a6d73382bd22f3ff8aea22bf0992db78611e25c11433bdfa016cbe6ee9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HuginnV5.6-12.6B-i1-GGUF/resolve/main/HuginnV5.6-12.6B.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "HuginnV5.6-12.6B.i1-IQ3_S.gguf",
+            "size": "5788994912",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "a932e663bd3bc0e997cebff4c90e18be014a5f39536ffa745200bd35ae9ec9fb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HuginnV5.6-12.6B-i1-GGUF/resolve/main/HuginnV5.6-12.6B.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "HuginnV5.6-12.6B.i1-IQ3_M.gguf",
+            "size": "5972823392",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "59e7c8cf0e80d34b25ce52e346968eeb9a8c31777d727a264a2bfdada0454f93",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HuginnV5.6-12.6B-i1-GGUF/resolve/main/HuginnV5.6-12.6B.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "HuginnV5.6-12.6B.i1-IQ2_XXS.gguf",
+            "size": "3672173920",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "c3d687296dfcb7fa60d1db230aa1f53642f64ca9793eb6b560fa02f26c093e3b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HuginnV5.6-12.6B-i1-GGUF/resolve/main/HuginnV5.6-12.6B.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "HuginnV5.6-12.6B.i1-IQ2_XS.gguf",
+            "size": "4047039840",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "93a12b52c838286e9f87ea599db634838c58ad355529a1ac8470bc7769d34370",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HuginnV5.6-12.6B-i1-GGUF/resolve/main/HuginnV5.6-12.6B.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "HuginnV5.6-12.6B.i1-IQ2_S.gguf",
+            "size": "4238937440",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "912faafbb68a567040f543788e14fc71d511bd06521e2f39e63b02c04fe300e8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HuginnV5.6-12.6B-i1-GGUF/resolve/main/HuginnV5.6-12.6B.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "HuginnV5.6-12.6B.i1-IQ2_M.gguf",
+            "size": "4583394656",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "93f7489f7d54b42c139afdd1092ba8e57b80f57e0318fd0d809a13725cc2677b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HuginnV5.6-12.6B-i1-GGUF/resolve/main/HuginnV5.6-12.6B.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "HuginnV5.6-12.6B.i1-IQ1_S.gguf",
+            "size": "2983259488",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "40d1381b83a57e0926242ce6ae1e511a3e5407ee55830dd5423e730a18ac0754",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HuginnV5.6-12.6B-i1-GGUF/resolve/main/HuginnV5.6-12.6B.i1-IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

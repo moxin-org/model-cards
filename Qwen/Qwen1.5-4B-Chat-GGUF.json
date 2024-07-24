@@ -1,0 +1,103 @@
+{
+    "id": "Qwen/Qwen1.5-4B-Chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Qwen",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-03T12:02:20Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "qwen1_5-4b-chat-q2_k.gguf",
+            "size": "1620632672",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b13e88d44aa72fb70bcf42ea6d75632f8762f1d3db1fb41da98e8e0ef921187c",
+            "download": {
+                "default": "https://huggingface.co/Qwen/Qwen1.5-4B-Chat-GGUF/resolve/main/qwen1_5-4b-chat-q2_k.gguf"
+            }
+        },
+        {
+            "name": "qwen1_5-4b-chat-q3_k_m.gguf",
+            "size": "2026850912",
+            "quantization": "",
+            "tags": [],
+            "sha256": "68fe2247b42aeb3b8b0b2d513aa8017b5824ab70db748ae26732e89b37e1158d",
+            "download": {
+                "default": "https://huggingface.co/Qwen/Qwen1.5-4B-Chat-GGUF/resolve/main/qwen1_5-4b-chat-q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "qwen1_5-4b-chat-q4_0.gguf",
+            "size": "2330085472",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5085ba5f79beb2dcbf57af22c31c5f84239371857cce60df335dd0f74629a7f1",
+            "download": {
+                "default": "https://huggingface.co/Qwen/Qwen1.5-4B-Chat-GGUF/resolve/main/qwen1_5-4b-chat-q4_0.gguf"
+            }
+        },
+        {
+            "name": "qwen1_5-4b-chat-q4_k_m.gguf",
+            "size": "2455115872",
+            "quantization": "",
+            "tags": [],
+            "sha256": "426143ccd3241b9547c2b70c622b4f4ef3436ee07e44991bd69ad84b36cd9b9b",
+            "download": {
+                "default": "https://huggingface.co/Qwen/Qwen1.5-4B-Chat-GGUF/resolve/main/qwen1_5-4b-chat-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "qwen1_5-4b-chat-q5_0.gguf",
+            "size": "2775197792",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5a352e6b52cefa92821692ba6dc21926401e30bf19c276e784171bde0a1294a6",
+            "download": {
+                "default": "https://huggingface.co/Qwen/Qwen1.5-4B-Chat-GGUF/resolve/main/qwen1_5-4b-chat-q5_0.gguf"
+            }
+        },
+        {
+            "name": "qwen1_5-4b-chat-q5_k_m.gguf",
+            "size": "2839607392",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0ec65d29e2ecca847efee640b49e9eeb21c35ae8999dfd4d7b2a3036c5947f05",
+            "download": {
+                "default": "https://huggingface.co/Qwen/Qwen1.5-4B-Chat-GGUF/resolve/main/qwen1_5-4b-chat-q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "qwen1_5-4b-chat-q6_k.gguf",
+            "size": "3248129632",
+            "quantization": "",
+            "tags": [],
+            "sha256": "97b90c87b544d28f1e01d7e757ada336d3733ec453ea6ab9ba3ed0719dd6264d",
+            "download": {
+                "default": "https://huggingface.co/Qwen/Qwen1.5-4B-Chat-GGUF/resolve/main/qwen1_5-4b-chat-q6_k.gguf"
+            }
+        },
+        {
+            "name": "qwen1_5-4b-chat-q8_0.gguf",
+            "size": "4204735072",
+            "quantization": "",
+            "tags": [],
+            "sha256": "efbacf6b114ff14c102bd2e16395668fedb8522beee8f43167b28b524de1418b",
+            "download": {
+                "default": "https://huggingface.co/Qwen/Qwen1.5-4B-Chat-GGUF/resolve/main/qwen1_5-4b-chat-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

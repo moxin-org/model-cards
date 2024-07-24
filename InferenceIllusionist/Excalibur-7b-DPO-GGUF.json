@@ -1,0 +1,73 @@
+{
+    "id": "InferenceIllusionist/Excalibur-7b-DPO-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "InferenceIllusionist",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-28T19:36:00Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Excalibur-7b-DPO-Q5_K_M.gguf",
+            "size": "5131409184",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "89cde40b7df6c9ff0992e070ae3b9b7c85e29cf8f4349a239311bfc80f571131",
+            "download": {
+                "default": "https://huggingface.co/InferenceIllusionist/Excalibur-7b-DPO-GGUF/resolve/main/Excalibur-7b-DPO-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Excalibur-7b-DPO-Q6_K.gguf",
+            "size": "5942064928",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b3997663ca6385ce314fdf889d61e2cb70840189e652aac6c879df2bab6e2605",
+            "download": {
+                "default": "https://huggingface.co/InferenceIllusionist/Excalibur-7b-DPO-GGUF/resolve/main/Excalibur-7b-DPO-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Excalibur-7b-DPO-Q8_0.gguf",
+            "size": "7695857440",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "acb269bd9cad9762e9856f66984cd2b60c6bb99332496696854cdf7de9e7e218",
+            "download": {
+                "default": "https://huggingface.co/InferenceIllusionist/Excalibur-7b-DPO-GGUF/resolve/main/Excalibur-7b-DPO-Q8_0.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-mmproj-v1.5-Q4_1.gguf",
+            "size": "196851520",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "6d315e796371d31289b6382aa5fff67e2e77dd510da4a9148124fcea52c59266",
+            "download": {
+                "default": "https://huggingface.co/InferenceIllusionist/Excalibur-7b-DPO-GGUF/resolve/main/mistral-7b-mmproj-v1.5-Q4_1.gguf"
+            }
+        },
+        {
+            "name": "mmproj-model-f16.gguf",
+            "size": "624451168",
+            "quantization": "",
+            "tags": [],
+            "sha256": "00205ee8a0d7a381900cd031e43105f86aa0d8c07bf329851e85c71a26632d16",
+            "download": {
+                "default": "https://huggingface.co/InferenceIllusionist/Excalibur-7b-DPO-GGUF/resolve/main/mmproj-model-f16.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

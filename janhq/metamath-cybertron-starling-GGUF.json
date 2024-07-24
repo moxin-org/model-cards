@@ -1,0 +1,63 @@
+{
+    "id": "janhq/metamath-cybertron-starling-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "janhq",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-09T08:26:12Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "metamath-cybertron-starling.Q3_K_M.gguf",
+            "size": "3518985856",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ee0538127f3e96fc2b4f1509b7d45102062585f043e557770d57408fa9a3496a",
+            "download": {
+                "default": "https://huggingface.co/janhq/metamath-cybertron-starling-GGUF/resolve/main/metamath-cybertron-starling.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "metamath-cybertron-starling.Q4_K_M.gguf",
+            "size": "4368438912",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "91f703d2173cd399207bf1f78d1b6eefc51e0fa3e9cc4f9db51db3e078f38ce8",
+            "download": {
+                "default": "https://huggingface.co/janhq/metamath-cybertron-starling-GGUF/resolve/main/metamath-cybertron-starling.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "metamath-cybertron-starling.Q5_K_M.gguf",
+            "size": "5131409024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "aee870cf66b500dcf7de2ef52822888576e42830c599840412567607737d379e",
+            "download": {
+                "default": "https://huggingface.co/janhq/metamath-cybertron-starling-GGUF/resolve/main/metamath-cybertron-starling.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "metamath-cybertron-starling.Q8_0.gguf",
+            "size": "7695857280",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "f69648ed64b39c3072de05cecc3cbad909f082a4dd939990343a7b40b6beaf13",
+            "download": {
+                "default": "https://huggingface.co/janhq/metamath-cybertron-starling-GGUF/resolve/main/metamath-cybertron-starling.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

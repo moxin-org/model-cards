@@ -1,0 +1,93 @@
+{
+    "id": "jeiku/Sausage_3B_GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "jeiku",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-22T23:13:09Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Sausage-f16.gguf",
+            "size": "5593341696",
+            "quantization": "",
+            "tags": [],
+            "sha256": "78a9253c8ce931975180cc27139a18eb8d428fd62c4d92b3df08d6d2bb0cbf4f",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Sausage_3B_GGUF/resolve/main/Sausage-f16.gguf"
+            }
+        },
+        {
+            "name": "Sausage-Q2_K.gguf",
+            "size": "1083755840",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "245a7c5b81e87a494954018329b5cf5d1eabdc4a4984143edd6472429d9c9e10",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Sausage_3B_GGUF/resolve/main/Sausage-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Sausage-Q3_K.gguf",
+            "size": "1391419200",
+            "quantization": "Q3_K",
+            "tags": [],
+            "sha256": "3871fa0930ceedbb282ab3c4db468bce427edb62d1ed96fc063353e1fe802711",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Sausage_3B_GGUF/resolve/main/Sausage-Q3_K.gguf"
+            }
+        },
+        {
+            "name": "Sausage-Q4_K_S.gguf",
+            "size": "1620695360",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "f5931aab3633952d92b1c2486b64e19ffc9d496cd7909220af72219dfd77ddb8",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Sausage_3B_GGUF/resolve/main/Sausage-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Sausage-Q4_K.gguf",
+            "size": "1708595520",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "7b345552b99e4275932f517a630982816ac23bcc10a0e06919b3effc95412c23",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Sausage_3B_GGUF/resolve/main/Sausage-Q4_K.gguf"
+            }
+        },
+        {
+            "name": "Sausage-Q5_K.gguf",
+            "size": "1993390400",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "567987892efe241b68cd6146ce8fe94c812dd3fe19cbb77e910a44b81cb9f9ea",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Sausage_3B_GGUF/resolve/main/Sausage-Q5_K.gguf"
+            }
+        },
+        {
+            "name": "Sausage-Q6_K.gguf",
+            "size": "2295984960",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "6a6745d3e090f995b2146302e58a8544e8ad0d087b97ae8eb2f391d880356252",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Sausage_3B_GGUF/resolve/main/Sausage-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

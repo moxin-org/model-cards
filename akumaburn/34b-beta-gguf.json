@@ -1,0 +1,73 @@
+{
+    "id": "akumaburn/34b-beta-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "akumaburn",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-29T21:20:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "34b-beta-Q2_K_M.gguf",
+            "size": "12825233696",
+            "quantization": "Q2_K_M",
+            "tags": [],
+            "sha256": "06e37222320ca6aaf168004e4dcc28daf2fbdf2099ffa52fe1388caaee74d77e",
+            "download": {
+                "default": "https://huggingface.co/akumaburn/34b-beta-gguf/resolve/main/34b-beta-Q2_K_M.gguf"
+            }
+        },
+        {
+            "name": "34b-beta-Q3_K_M.gguf",
+            "size": "16654924064",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "c61883dce9368207aa056b54d766271fd92c493dd80d6e9134354907a18a77d3",
+            "download": {
+                "default": "https://huggingface.co/akumaburn/34b-beta-gguf/resolve/main/34b-beta-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "34b-beta-Q4_K_M.gguf",
+            "size": "20658710816",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "d0335037eea0f11f67c6ace1ae361e26b93902dc00230d420283780649f2d6a3",
+            "download": {
+                "default": "https://huggingface.co/akumaburn/34b-beta-gguf/resolve/main/34b-beta-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "34b-beta-Q5_K_M.gguf",
+            "size": "24321845536",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e85648f699a95b7c9b4ae795ca93ced4bc49785e09573e9f873e0c3a01bf8937",
+            "download": {
+                "default": "https://huggingface.co/akumaburn/34b-beta-gguf/resolve/main/34b-beta-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "34b-beta-Q6_K_M.gguf",
+            "size": "28213926176",
+            "quantization": "Q6_K_M",
+            "tags": [],
+            "sha256": "51c0f349fa9657981ee76f80217fbe6f173185b21b0e9db1ef45f16c85ae4659",
+            "download": {
+                "default": "https://huggingface.co/akumaburn/34b-beta-gguf/resolve/main/34b-beta-Q6_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

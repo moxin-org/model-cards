@@ -1,0 +1,83 @@
+{
+    "id": "alpindale/miquella-120b-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "alpindale",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-01T02:00:08Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "miquella-120b.IQ2_XS.gguf",
+            "size": "34630872416",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "76c0a1a9a54054854c18230ed9ecfe0446e44703b0e6f048f615395fb159b821",
+            "download": {
+                "default": "https://huggingface.co/alpindale/miquella-120b-gguf/resolve/main/miquella-120b.IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "miquella-120b.IQ2_XXS.gguf",
+            "size": "31128366432",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "aa5fa801430d6d5a4466fdb4366717938f65d0a24b261176ec15f2e017deb176",
+            "download": {
+                "default": "https://huggingface.co/alpindale/miquella-120b-gguf/resolve/main/miquella-120b.IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "miquella-120b.IQ3_XXS.gguf",
+            "size": "45883977056",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "8d9f38e1ce5c953d6c0747f6eecaf5b58812b719d47d63482d551c4120823e30",
+            "download": {
+                "default": "https://huggingface.co/alpindale/miquella-120b-gguf/resolve/main/miquella-120b.IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "miquella-120b.Q2_K_S.gguf",
+            "size": "39979674976",
+            "quantization": "Q2_K_S",
+            "tags": [],
+            "sha256": "39d2dc16ed29f940997866b999c5a86a03ccc0a10388e1578a46844c5df25546",
+            "download": {
+                "default": "https://huggingface.co/alpindale/miquella-120b-gguf/resolve/main/miquella-120b.Q2_K_S.gguf"
+            }
+        },
+        {
+            "name": "miquella-120b.Q2_K.gguf",
+            "size": "43245727072",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "bd5fd1b6fda623333b31880f1ac0f474cf2434139a4c6b8b8ac5a694d2b32699",
+            "download": {
+                "default": "https://huggingface.co/alpindale/miquella-120b-gguf/resolve/main/miquella-120b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "miquella-120b.Q3_K_XS.gguf",
+            "size": "47875796320",
+            "quantization": "Q3_K_XS",
+            "tags": [],
+            "sha256": "cbf9fa837d99ff39a95b3e0fde304f0a050c04068ec15f4931a65b330c67e3c1",
+            "download": {
+                "default": "https://huggingface.co/alpindale/miquella-120b-gguf/resolve/main/miquella-120b.Q3_K_XS.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

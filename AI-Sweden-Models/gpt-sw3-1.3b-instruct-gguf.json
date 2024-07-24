@@ -1,0 +1,53 @@
+{
+    "id": "AI-Sweden-Models/gpt-sw3-1.3b-instruct-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "AI-Sweden-Models",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-07T12:10:13Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "gpt-sw3-1.3b-instruct-f16.gguf",
+            "size": "2952704192",
+            "quantization": "",
+            "tags": [],
+            "sha256": "bc1f42c02c2b94b09baa290ee50d6fb524a8798755904ec733b80a1bf426fead",
+            "download": {
+                "default": "https://huggingface.co/AI-Sweden-Models/gpt-sw3-1.3b-instruct-gguf/resolve/main/gpt-sw3-1.3b-instruct-f16.gguf"
+            }
+        },
+        {
+            "name": "gpt-sw3-1.3b-instruct-Q4_K_M.gguf",
+            "size": "956846304",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "cba9add8ed534ff3e4cf4195ab5a848e503da54b5823aefbf6196dc80ea26c8f",
+            "download": {
+                "default": "https://huggingface.co/AI-Sweden-Models/gpt-sw3-1.3b-instruct-gguf/resolve/main/gpt-sw3-1.3b-instruct-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "gpt-sw3-1.3b-instruct-Q5_K_M.gguf",
+            "size": "1101943008",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "a26148c78babe68ec3da72bd331f8994aa5e80edd3774a501936c1f3eed8d0a9",
+            "download": {
+                "default": "https://huggingface.co/AI-Sweden-Models/gpt-sw3-1.3b-instruct-gguf/resolve/main/gpt-sw3-1.3b-instruct-Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,93 @@
+{
+    "id": "afrideva/Zephyr-3.43B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-15T23:53:52Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "zephyr-3.43b.fp16.gguf",
+            "size": "6862451104",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ec04ca3c11abcec996dcfa7fef776b236df4e6bab1f498fc15a44f6118b5468a",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Zephyr-3.43B-GGUF/resolve/main/zephyr-3.43b.fp16.gguf"
+            }
+        },
+        {
+            "name": "zephyr-3.43b.q2_k.gguf",
+            "size": "1461043168",
+            "quantization": "",
+            "tags": [],
+            "sha256": "44aafd1b4fb3e037f758aa8b1a8f40b1fbfc590ef8bc7038b6983ecf10a8e161",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Zephyr-3.43B-GGUF/resolve/main/zephyr-3.43b.q2_k.gguf"
+            }
+        },
+        {
+            "name": "zephyr-3.43b.q3_k_m.gguf",
+            "size": "1697067488",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e9464f24f768da76dab8ce52962afbee12b8ec0daa078640cf243ef6c99b67e2",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Zephyr-3.43B-GGUF/resolve/main/zephyr-3.43b.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "zephyr-3.43b.q4_k_m.gguf",
+            "size": "2090777568",
+            "quantization": "",
+            "tags": [],
+            "sha256": "cf4f400c5b8fadbec26f597dadd13540496bf97583a0f80e39309ec6805f0046",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Zephyr-3.43B-GGUF/resolve/main/zephyr-3.43b.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "zephyr-3.43b.q5_k_m.gguf",
+            "size": "2442746848",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3f6c1b6e596710865feb8ee369bccbfaea2e96d78e0712322c5bf404389bfb35",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Zephyr-3.43B-GGUF/resolve/main/zephyr-3.43b.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "zephyr-3.43b.q6_k.gguf",
+            "size": "2816714208",
+            "quantization": "",
+            "tags": [],
+            "sha256": "291d8104ccd7a54cbb84ee0b6b6939a760464dbd00d685582c5a35c1207b7a8f",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Zephyr-3.43B-GGUF/resolve/main/zephyr-3.43b.q6_k.gguf"
+            }
+        },
+        {
+            "name": "zephyr-3.43b.q8_0.gguf",
+            "size": "3647295968",
+            "quantization": "",
+            "tags": [],
+            "sha256": "286e11781e2c94bbabe83216cc82db3ab7d65e4d867a8e9d89e2bbd2c0654040",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Zephyr-3.43B-GGUF/resolve/main/zephyr-3.43b.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

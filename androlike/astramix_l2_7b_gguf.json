@@ -1,0 +1,43 @@
+{
+    "id": "androlike/astramix_l2_7b_gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "androlike",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-08-31T18:05:26Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "astramix_l2_7b_f16.gguf",
+            "size": "13478104736",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6e4ddb1fb3af78f30e1b63afc8de7b7a9370d1f52c0ee90ec8f418e57d7231a9",
+            "download": {
+                "default": "https://huggingface.co/androlike/astramix_l2_7b_gguf/resolve/main/astramix_l2_7b_f16.gguf"
+            }
+        },
+        {
+            "name": "astramix_l2_7b_Q5_K_M.gguf",
+            "size": "4783156928",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "d9fa44450a3534f81615a0294b309be765c6fa56435e43a65c35f4dc782c0c0c",
+            "download": {
+                "default": "https://huggingface.co/androlike/astramix_l2_7b_gguf/resolve/main/astramix_l2_7b_Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

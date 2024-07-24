@@ -1,0 +1,33 @@
+{
+    "id": "CultriX/NeuralTrix-bf16-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "CultriX",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-14T19:42:43Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "neuraltrix-bf16.Q6_K.gguf",
+            "size": "5942064768",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b5b1601b8b0cf8367ee4795f91022f631d5563ae8cf3c9d55b0d2e8fd0d5665d",
+            "download": {
+                "default": "https://huggingface.co/CultriX/NeuralTrix-bf16-GGUF/resolve/main/neuraltrix-bf16.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

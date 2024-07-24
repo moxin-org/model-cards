@@ -1,0 +1,153 @@
+{
+    "id": "mradermacher/maid-yuzu-v7-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-13T18:14:46Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "maid-yuzu-v7.IQ3_M.gguf",
+            "size": "21583332736",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "c48636a79a2d5ece739963923b5929ce363c4b825ae40c8af8e6e02c0b6e8a66",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/maid-yuzu-v7-GGUF/resolve/main/maid-yuzu-v7.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "maid-yuzu-v7.IQ3_S.gguf",
+            "size": "20585088384",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "3fd63924b3335548a959212735ed02c113ae9ddc075c877400bdeac510ed707a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/maid-yuzu-v7-GGUF/resolve/main/maid-yuzu-v7.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "maid-yuzu-v7.IQ3_XS.gguf",
+            "size": "19436897664",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "f64dbcd85b1222f6f96a0804ee7ad8c0a98ccf7b39dea896a33b9ec9697e1b4d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/maid-yuzu-v7-GGUF/resolve/main/maid-yuzu-v7.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "maid-yuzu-v7.IQ4_XS.gguf",
+            "size": "25526707584",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "cccee01d491222a0b5a76d7d2104b9dc5ef7342a972a5f1d6b1fecd1f5b06d4c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/maid-yuzu-v7-GGUF/resolve/main/maid-yuzu-v7.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "maid-yuzu-v7.Q2_K.gguf",
+            "size": "17463797120",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "f0c97ae7c86150c641f4dfc73de3b84a01ef36fee2496cc8b8378bc132a4161a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/maid-yuzu-v7-GGUF/resolve/main/maid-yuzu-v7.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "maid-yuzu-v7.Q3_K_L.gguf",
+            "size": "24322213248",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "1fe69c72cffb4db92d0e62a08c680891a8e02cd074660dded8adef718e677822",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/maid-yuzu-v7-GGUF/resolve/main/maid-yuzu-v7.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "maid-yuzu-v7.Q3_K_M.gguf",
+            "size": "22699017600",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "0088c72bfad60eb955054249e30747d554180d9e27c01bb0be93546ac9e5ecc9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/maid-yuzu-v7-GGUF/resolve/main/maid-yuzu-v7.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "maid-yuzu-v7.Q3_K_S.gguf",
+            "size": "20585088384",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "226392ee22868920443676d10c268d04545a99f1e8731c493b64c723b9ee1c75",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/maid-yuzu-v7-GGUF/resolve/main/maid-yuzu-v7.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "maid-yuzu-v7.Q4_K_M.gguf",
+            "size": "28601034112",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "04ea954696ce05ff8310457759609181368a38034bd27fa76ec2ee5c71b5ccb2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/maid-yuzu-v7-GGUF/resolve/main/maid-yuzu-v7.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "maid-yuzu-v7.Q4_K_S.gguf",
+            "size": "26898146688",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "2c1bc0347d8809e3f046b01901478f0f7586f32037f557f747e7e76dacc34991",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/maid-yuzu-v7-GGUF/resolve/main/maid-yuzu-v7.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "maid-yuzu-v7.Q5_K_M.gguf",
+            "size": "33382147456",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "a67de0e420a5fe18795156d1dae578c6b2a82efd4de0a292625789e7f32419f7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/maid-yuzu-v7-GGUF/resolve/main/maid-yuzu-v7.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "maid-yuzu-v7.Q5_K_S.gguf",
+            "size": "32383903104",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "4a2a03b942a48ba50cf8b7cbf9280c597ee48a371ab2c9cf8844bb4ab3beb5b8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/maid-yuzu-v7-GGUF/resolve/main/maid-yuzu-v7.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "maid-yuzu-v7.Q6_K.gguf",
+            "size": "38533383552",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "912784f351e12a745adbe520e54704f38bb4a6fa963540b4481023773d58e48c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/maid-yuzu-v7-GGUF/resolve/main/maid-yuzu-v7.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,143 @@
+{
+    "id": "ddosxd/zephyr-beta-16k-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "ddosxd",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-18T12:58:39Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "zephyr_16k_Q2_K.gguf",
+            "size": "3083097760",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "d92398bede8339bcba24db866eb8d72e8eec55bfe9c214e061251ebbeb03b405",
+            "download": {
+                "default": "https://huggingface.co/ddosxd/zephyr-beta-16k-gguf/resolve/main/zephyr_16k_Q2_K.gguf"
+            }
+        },
+        {
+            "name": "zephyr_16k_Q3_K_L.gguf",
+            "size": "3822024352",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "73982980c10d90b9552d3683f830a52ae3d2d2bc07848f1ffa00616816e83315",
+            "download": {
+                "default": "https://huggingface.co/ddosxd/zephyr-beta-16k-gguf/resolve/main/zephyr_16k_Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "zephyr_16k_Q3_K_M.gguf",
+            "size": "3518985888",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ab818d8a337edb0f728fda203eb766c7ffa9ea576a4c45fd605d5758d36df2eb",
+            "download": {
+                "default": "https://huggingface.co/ddosxd/zephyr-beta-16k-gguf/resolve/main/zephyr_16k_Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "zephyr_16k_Q3_K_S.gguf",
+            "size": "3164567200",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "a871a5ddabff9cabe7c4bc8939e5101c344cf3f10a89916075675d3c25420abe",
+            "download": {
+                "default": "https://huggingface.co/ddosxd/zephyr-beta-16k-gguf/resolve/main/zephyr_16k_Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "zephyr_16k_Q4_0.gguf",
+            "size": "4108916384",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "e5f304a2f3929e6da53976ea5c014837dedbaf3a094c3be98755cefda3188925",
+            "download": {
+                "default": "https://huggingface.co/ddosxd/zephyr-beta-16k-gguf/resolve/main/zephyr_16k_Q4_0.gguf"
+            }
+        },
+        {
+            "name": "zephyr_16k_Q4_1.gguf",
+            "size": "4553316000",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "bc16a16d0571bd41cc3819cff0038e62df18e3965b40e8791b2ad5e56af7d53f",
+            "download": {
+                "default": "https://huggingface.co/ddosxd/zephyr-beta-16k-gguf/resolve/main/zephyr_16k_Q4_1.gguf"
+            }
+        },
+        {
+            "name": "zephyr_16k_Q4_K_M.gguf",
+            "size": "4368438944",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "903785f6c0753bb5c192aa00856683209280968e0517c76a393042c4a380cb03",
+            "download": {
+                "default": "https://huggingface.co/ddosxd/zephyr-beta-16k-gguf/resolve/main/zephyr_16k_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "zephyr_16k_Q4_K_S.gguf",
+            "size": "4140373664",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "3660418c89107183c711d96f35754f08b81c3ef0b024612d2d5d3fd822ad26f5",
+            "download": {
+                "default": "https://huggingface.co/ddosxd/zephyr-beta-16k-gguf/resolve/main/zephyr_16k_Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "zephyr_16k_Q5_0.gguf",
+            "size": "4997715616",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "e4cfc8a405a7d6193fbf2d13d280e4f653ad92ccce93f0008e3d1bfbec835174",
+            "download": {
+                "default": "https://huggingface.co/ddosxd/zephyr-beta-16k-gguf/resolve/main/zephyr_16k_Q5_0.gguf"
+            }
+        },
+        {
+            "name": "zephyr_16k_Q5_1.gguf",
+            "size": "5442115232",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "d23293867a89bf2230cd793b8ecc512325dddfe48af873f11a23f70394a4a027",
+            "download": {
+                "default": "https://huggingface.co/ddosxd/zephyr-beta-16k-gguf/resolve/main/zephyr_16k_Q5_1.gguf"
+            }
+        },
+        {
+            "name": "zephyr_16k_Q5_K_M.gguf",
+            "size": "5131409056",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "6acc385502dd0f9a33904df077536c4b5a5b19a7d18b45fe6e42ea969b3fe24c",
+            "download": {
+                "default": "https://huggingface.co/ddosxd/zephyr-beta-16k-gguf/resolve/main/zephyr_16k_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "zephyr_16k_Q5_K_S.gguf",
+            "size": "4997715616",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "c8744197fcab523a7c0c57e440e3b72f42ecb6f04ad98dc8d9b8165d3de7fe43",
+            "download": {
+                "default": "https://huggingface.co/ddosxd/zephyr-beta-16k-gguf/resolve/main/zephyr_16k_Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

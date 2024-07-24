@@ -1,0 +1,43 @@
+{
+    "id": "advanced-stack/openllm-claire-7b-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "advanced-stack",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-14T09:49:42Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Claire-7B-0.1-fp16.gguf",
+            "size": "14437278592",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dff8c56b69f325494c6f4e40d39fc839fa80c20369d032e9285d07349ed447aa",
+            "download": {
+                "default": "https://huggingface.co/advanced-stack/openllm-claire-7b-gguf/resolve/main/Claire-7B-0.1-fp16.gguf"
+            }
+        },
+        {
+            "name": "Claire-7B-0.1-Q5_1.gguf",
+            "size": "5508500416",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "be67668f1432008f8a1fc2f3164ffcea4c51561891aa163312b107a7ca194df7",
+            "download": {
+                "default": "https://huggingface.co/advanced-stack/openllm-claire-7b-gguf/resolve/main/Claire-7B-0.1-Q5_1.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

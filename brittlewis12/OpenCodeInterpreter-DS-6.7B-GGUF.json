@@ -1,0 +1,133 @@
+{
+    "id": "brittlewis12/OpenCodeInterpreter-DS-6.7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "brittlewis12",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-23T13:41:28Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "opencodeinterpreter-ds-6.7b.fp16.gguf",
+            "size": "13482861664",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d389fb0ef8f84062bedc63b6bbd8d3fd76f1e865d7f4698cbfcf063114250a59",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/OpenCodeInterpreter-DS-6.7B-GGUF/resolve/main/opencodeinterpreter-ds-6.7b.fp16.gguf"
+            }
+        },
+        {
+            "name": "opencodeinterpreter-ds-6.7b.Q2_K.gguf",
+            "size": "2534630560",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "5077e6b1cb798473919ed1f7a262a73438798e47d939b988aa03880ee44d61d1",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/OpenCodeInterpreter-DS-6.7B-GGUF/resolve/main/opencodeinterpreter-ds-6.7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "opencodeinterpreter-ds-6.7b.Q3_K_L.gguf",
+            "size": "3598984352",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "fd06bdfe1cc33e4e9897dccac9e86f20bc079d5a0be3401dba18517c82e684fc",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/OpenCodeInterpreter-DS-6.7B-GGUF/resolve/main/opencodeinterpreter-ds-6.7b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "opencodeinterpreter-ds-6.7b.Q3_K_M.gguf",
+            "size": "3299878048",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "824724a473eebf72520a36bb15ee80543fd4d13bd34172b0b3eeb2ba22899414",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/OpenCodeInterpreter-DS-6.7B-GGUF/resolve/main/opencodeinterpreter-ds-6.7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "opencodeinterpreter-ds-6.7b.Q3_K_S.gguf",
+            "size": "2950177952",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "0ec752e9ab2e051e279c07d1bdab206995c8f2bc2b5ae8d2da9594f3a52052ad",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/OpenCodeInterpreter-DS-6.7B-GGUF/resolve/main/opencodeinterpreter-ds-6.7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "opencodeinterpreter-ds-6.7b.Q4_K_M.gguf",
+            "size": "4083016864",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "055392080c1b998e2206b89953a4e961c5df7f3c2ebf84d037625a5da10c9d1f",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/OpenCodeInterpreter-DS-6.7B-GGUF/resolve/main/opencodeinterpreter-ds-6.7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "opencodeinterpreter-ds-6.7b.Q4_K_S.gguf",
+            "size": "3858752672",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "9648099d2e845ba79c4308e8f429cf946e28ff659aebb8fe5591416a212c2eae",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/OpenCodeInterpreter-DS-6.7B-GGUF/resolve/main/opencodeinterpreter-ds-6.7b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "opencodeinterpreter-ds-6.7b.Q5_K_M.gguf",
+            "size": "4785300640",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "021b628829bb37c016fbfd37c0d3f39070e6305efc527f7cfe4f585bcf9e5dc2",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/OpenCodeInterpreter-DS-6.7B-GGUF/resolve/main/opencodeinterpreter-ds-6.7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "opencodeinterpreter-ds-6.7b.Q5_K_S.gguf",
+            "size": "4653835424",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "e3b2133f93a4037808c72b380fff48d6395d71eac655672317396a7838ba3dc6",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/OpenCodeInterpreter-DS-6.7B-GGUF/resolve/main/opencodeinterpreter-ds-6.7b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "opencodeinterpreter-ds-6.7b.Q6_K.gguf",
+            "size": "5531477152",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "3b29cf1afed7c6a22cf146b2820e52dd74245e29f890b9778ae63e9dce79fa5c",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/OpenCodeInterpreter-DS-6.7B-GGUF/resolve/main/opencodeinterpreter-ds-6.7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "opencodeinterpreter-ds-6.7b.Q8_0.gguf",
+            "size": "7163880608",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "b4fddc1b5750bfb29817214b9bbab18431c87eb25c5393fbb906863bd66ca6a0",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/OpenCodeInterpreter-DS-6.7B-GGUF/resolve/main/opencodeinterpreter-ds-6.7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

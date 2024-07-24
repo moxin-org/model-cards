@@ -1,0 +1,53 @@
+{
+    "id": "allstax/Bodhi-unstable-v0.0.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "allstax",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-05T04:19:48Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "bodhi-unstable-v0.0.1.Q5_K_M.gguf",
+            "size": "5131421888",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "32b8f69e411d4543dea6564f24ec08876d5b9ae7aab7bc3356c0ba6a3622d89e",
+            "download": {
+                "default": "https://huggingface.co/allstax/Bodhi-unstable-v0.0.1-GGUF/resolve/main/bodhi-unstable-v0.0.1.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "bodhi-unstable-v0.0.1.Q6_K.gguf",
+            "size": "5942078720",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "1e8e4e79113ad8fdab4a9ee7d31b65b8d159fea442b0397dfe6c7a30ce194282",
+            "download": {
+                "default": "https://huggingface.co/allstax/Bodhi-unstable-v0.0.1-GGUF/resolve/main/bodhi-unstable-v0.0.1.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "bodhi-unstable-v0.0.1.Q8_0.gguf",
+            "size": "7695875200",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "60665376afcd9848a4e8779c836279ee19098232f750e6825d047be77ebf1504",
+            "download": {
+                "default": "https://huggingface.co/allstax/Bodhi-unstable-v0.0.1-GGUF/resolve/main/bodhi-unstable-v0.0.1.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

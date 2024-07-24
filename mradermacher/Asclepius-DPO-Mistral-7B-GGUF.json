@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/Asclepius-DPO-Mistral-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-29T02:46:09Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Asclepius-DPO-Mistral-7B.IQ3_M.gguf",
+            "size": "3439515328",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "449b1f6df23dbb461ef2ba570d638a3896be24ffb70a7cc037439e213b4a5bb1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Asclepius-DPO-Mistral-7B-GGUF/resolve/main/Asclepius-DPO-Mistral-7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Asclepius-DPO-Mistral-7B.IQ3_S.gguf",
+            "size": "3337017024",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "1e1a84efb43b2122ec0177023a31dca380ae922edc47ca10fcc75d8122fbcb37",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Asclepius-DPO-Mistral-7B-GGUF/resolve/main/Asclepius-DPO-Mistral-7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Asclepius-DPO-Mistral-7B.IQ3_XS.gguf",
+            "size": "3173439168",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "76d6ea154340337f3148e15fc9d4ee17634c763efe7000002419bceac667523f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Asclepius-DPO-Mistral-7B-GGUF/resolve/main/Asclepius-DPO-Mistral-7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Asclepius-DPO-Mistral-7B.IQ4_NL.gguf",
+            "size": "4309677760",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "818aeca406fd7b27fe685419976764db9934a64daea4d1c2b70042cb70fefdd1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Asclepius-DPO-Mistral-7B-GGUF/resolve/main/Asclepius-DPO-Mistral-7B.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Asclepius-DPO-Mistral-7B.IQ4_XS.gguf",
+            "size": "4099012288",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "7f5e81f18fe2c082b9fffb1d2e9ae45bee65fb1c3867bb2c7a0143bc7e86854c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Asclepius-DPO-Mistral-7B-GGUF/resolve/main/Asclepius-DPO-Mistral-7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Asclepius-DPO-Mistral-7B.Q2_K.gguf",
+            "size": "2873865920",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "5b4a34a714d8400dfea7aad5cdf60d45a6636102a391d32b6d27f43a1b7e364f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Asclepius-DPO-Mistral-7B-GGUF/resolve/main/Asclepius-DPO-Mistral-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Asclepius-DPO-Mistral-7B.Q3_K_L.gguf",
+            "size": "3976648384",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "42389f2058b1c81f53249176d9595b2153df63cbfffaed78318ed256d900f28f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Asclepius-DPO-Mistral-7B-GGUF/resolve/main/Asclepius-DPO-Mistral-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Asclepius-DPO-Mistral-7B.Q3_K_M.gguf",
+            "size": "3673609920",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "495fa4f6a100b399f645c0683e0019f4a95bd31d4596ab13bcd5052e08061d7b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Asclepius-DPO-Mistral-7B-GGUF/resolve/main/Asclepius-DPO-Mistral-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Asclepius-DPO-Mistral-7B.Q3_K_S.gguf",
+            "size": "3319191232",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "60ad12e4e403194fb5beae2b4b76fe7754e773727f9fec6e63183db98795b991",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Asclepius-DPO-Mistral-7B-GGUF/resolve/main/Asclepius-DPO-Mistral-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Asclepius-DPO-Mistral-7B.Q4_0.gguf",
+            "size": "4263540416",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "853b0eba1f6607898274537f3b50d8cc1f755563d41b03db6188811dbbe6cd89",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Asclepius-DPO-Mistral-7B-GGUF/resolve/main/Asclepius-DPO-Mistral-7B.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Asclepius-DPO-Mistral-7B.Q4_K_M.gguf",
+            "size": "4523062976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c06663363ddca4e5f95f57280f09aa9e8830f16e8ad9f548a17dc0a1c7cb81a7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Asclepius-DPO-Mistral-7B-GGUF/resolve/main/Asclepius-DPO-Mistral-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Asclepius-DPO-Mistral-7B.Q4_K_S.gguf",
+            "size": "4294997696",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "2c0f9c64ecb722e1d2893699bda5bd9021e1f273092eadfc3543b255d3ef21ad",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Asclepius-DPO-Mistral-7B-GGUF/resolve/main/Asclepius-DPO-Mistral-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Asclepius-DPO-Mistral-7B.Q5_K_M.gguf",
+            "size": "5286033088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5d1ecddb3e36bd88e0e0845180e3afadda852af8c360c866487fa77b3638bdca",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Asclepius-DPO-Mistral-7B-GGUF/resolve/main/Asclepius-DPO-Mistral-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Asclepius-DPO-Mistral-7B.Q5_K_S.gguf",
+            "size": "5152339648",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "c767a3be3cdf83578bb94d81331edc6b140f5f0e2510deebcbd88780ac18fc20",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Asclepius-DPO-Mistral-7B-GGUF/resolve/main/Asclepius-DPO-Mistral-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Asclepius-DPO-Mistral-7B.Q6_K.gguf",
+            "size": "6096688832",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "8e3057cf1c4b7b5f22199c258b73c673b618949e3ed78b1733344ed2ba8813a8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Asclepius-DPO-Mistral-7B-GGUF/resolve/main/Asclepius-DPO-Mistral-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Asclepius-DPO-Mistral-7B.Q8_0.gguf",
+            "size": "7818737344",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "b66a00a622d5076ae6c026863572276e9989ca6076c8e2f834c027eb3eb69b6a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Asclepius-DPO-Mistral-7B-GGUF/resolve/main/Asclepius-DPO-Mistral-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,43 @@
+{
+    "id": "Hodginson/living-pa-gguf-v2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Hodginson",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-27T04:26:45Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "living-pa-gguf-v2.q4_K_S.gguf",
+            "size": "4140373792",
+            "quantization": "",
+            "tags": [],
+            "sha256": "52fba9cdca5b0398bdac17eedd73a9f2bf687b2d7d7d2c27e92e93f727cfcdb7",
+            "download": {
+                "default": "https://huggingface.co/Hodginson/living-pa-gguf-v2-GGUF/resolve/main/living-pa-gguf-v2.q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "living-pa-gguf-v2.q5_K_M.gguf",
+            "size": "5131409184",
+            "quantization": "",
+            "tags": [],
+            "sha256": "43be3fe02972984a353423f6b8366e2f3200689163eb4a6a99741fd79dcff15e",
+            "download": {
+                "default": "https://huggingface.co/Hodginson/living-pa-gguf-v2-GGUF/resolve/main/living-pa-gguf-v2.q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

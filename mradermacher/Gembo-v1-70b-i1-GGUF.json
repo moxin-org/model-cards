@@ -1,0 +1,223 @@
+{
+    "id": "mradermacher/Gembo-v1-70b-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-09T03:25:54Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Gembo-v1-70b.i1-IQ4_XS.gguf",
+            "size": "36829819936",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "639918d1fc88f864676e363068d3e7ae3dc59fd68a3d861706208c8c95ed1edf",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gembo-v1-70b-i1-GGUF/resolve/main/Gembo-v1-70b.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Gembo-v1-70b.i1-Q5_K_S.gguf",
+            "size": "47461397536",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "48fb4fd9843ecd1a62323becb4044a18ca6a11346432c52df9088a4547af48c2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gembo-v1-70b-i1-GGUF/resolve/main/Gembo-v1-70b.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Gembo-v1-70b.i1-Q5_K_M.gguf",
+            "size": "48753767456",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ca8a279e2ef2892d8f15ba023d6b7faa054f2b7036b12a80829837d734e39035",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gembo-v1-70b-i1-GGUF/resolve/main/Gembo-v1-70b.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Gembo-v1-70b.i1-Q4_K_S.gguf",
+            "size": "39249736736",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "fb0b6f09aa80c9b5ad974950fa16759a46f17d7e35c39b2d6ca4188f7d0f5a1c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gembo-v1-70b-i1-GGUF/resolve/main/Gembo-v1-70b.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Gembo-v1-70b.i1-Q4_K_M.gguf",
+            "size": "41422910496",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c92eab0df0525247ad286180a2646a8b18aa0b151c0ee7c6b8e90a54c5e31c09",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gembo-v1-70b-i1-GGUF/resolve/main/Gembo-v1-70b.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Gembo-v1-70b.i1-Q4_0.gguf",
+            "size": "39019050016",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "643a815a50018c3a012b30a5f8d4d959c86959d5cc88bb6c6f4224f5b3e5fac0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gembo-v1-70b-i1-GGUF/resolve/main/Gembo-v1-70b.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Gembo-v1-70b.i1-Q3_K_S.gguf",
+            "size": "29919294496",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "7c0fe586327e67913092802e50610369037d2d640753ebb757b239852cdf0c67",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gembo-v1-70b-i1-GGUF/resolve/main/Gembo-v1-70b.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Gembo-v1-70b.i1-Q3_K_M.gguf",
+            "size": "33274737696",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "c6d45be30c3270dd19c46a25ec590133425ea3d27bcf56838a6475b819a58be6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gembo-v1-70b-i1-GGUF/resolve/main/Gembo-v1-70b.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Gembo-v1-70b.i1-Q3_K_L.gguf",
+            "size": "36147835936",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "752ae0ef060b3eefc9e46f6865fa821d7343e389d39bac0d17faff860998acce",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gembo-v1-70b-i1-GGUF/resolve/main/Gembo-v1-70b.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Gembo-v1-70b.i1-Q2_K.gguf",
+            "size": "25462436896",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "31ff0a9a2b12efd59ec49c72fd9d5f5285b86a0c4d7e6286b7751b19fef398c0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gembo-v1-70b-i1-GGUF/resolve/main/Gembo-v1-70b.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Gembo-v1-70b.i1-IQ1_M.gguf",
+            "size": "15943250976",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "9c87987ccb945716dbc5bc4bfca4f17d1bbe61e06da922af89d435ae49050167",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gembo-v1-70b-i1-GGUF/resolve/main/Gembo-v1-70b.i1-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "Gembo-v1-70b.i1-IQ3_XXS.gguf",
+            "size": "26581464096",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "030b62bddeef905b35bbf6836ff4f5c50eccf936f33b60c5c83c2b6cfae9c605",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gembo-v1-70b-i1-GGUF/resolve/main/Gembo-v1-70b.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "Gembo-v1-70b.i1-IQ3_XS.gguf",
+            "size": "28314973216",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "7e484a585dcbcb2d1fb1f837bcfda7d79e8d31e6cfabd975ead10c7c58926ef7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gembo-v1-70b-i1-GGUF/resolve/main/Gembo-v1-70b.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Gembo-v1-70b.i1-IQ3_S.gguf",
+            "size": "29919294496",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "9799ab4e6b97ba163b62abc274396d6b7c99c8ad3eac80b22b201cee297d75d2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gembo-v1-70b-i1-GGUF/resolve/main/Gembo-v1-70b.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Gembo-v1-70b.i1-IQ3_M.gguf",
+            "size": "30944277536",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "1b1b892237337637db3f8c312a4959454c2375c519a41f6b1cc2275e68da6e8b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gembo-v1-70b-i1-GGUF/resolve/main/Gembo-v1-70b.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Gembo-v1-70b.i1-IQ2_XXS.gguf",
+            "size": "18289439776",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "24db626a3cf70327c3f8d0bb899c3ebe2f0b905d9aa5ab756183869b5a76bb29",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gembo-v1-70b-i1-GGUF/resolve/main/Gembo-v1-70b.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "Gembo-v1-70b.i1-IQ2_XS.gguf",
+            "size": "20334162976",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "40a6f026ba5f496f485113c7e711848ac48d814357dc5ec1a6b43939aee1d768",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gembo-v1-70b-i1-GGUF/resolve/main/Gembo-v1-70b.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Gembo-v1-70b.i1-IQ2_S.gguf",
+            "size": "21354312736",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "519af59d664b5e21720e863a717912039f9752a380d58cf80db409c9989454d1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gembo-v1-70b-i1-GGUF/resolve/main/Gembo-v1-70b.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "Gembo-v1-70b.i1-IQ2_M.gguf",
+            "size": "23231263776",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "5830c51afe659622302e0234c6064b9cf3e28d3ffbd47ad7e678e3d0827d623e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gembo-v1-70b-i1-GGUF/resolve/main/Gembo-v1-70b.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "Gembo-v1-70b.i1-IQ1_S.gguf",
+            "size": "14535537696",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "6fe9b67c4e579c7b94069bc8abbc17b8936e11b06eaf2c1a9ad6956a55f75b99",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gembo-v1-70b-i1-GGUF/resolve/main/Gembo-v1-70b.i1-IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

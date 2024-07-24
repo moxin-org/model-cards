@@ -1,0 +1,83 @@
+{
+    "id": "kirp/TinyLlama-1.1B-Chat-v0.2-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "kirp",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-23T15:48:05Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-q2_k.gguf",
+            "size": "482149824",
+            "quantization": "",
+            "tags": [],
+            "sha256": "32c40b341e2347c9ed5fc8034ccdc7b3635b55b3fc34e4d3a6a7fd580dc7c7ac",
+            "download": {
+                "default": "https://huggingface.co/kirp/TinyLlama-1.1B-Chat-v0.2-gguf/resolve/main/ggml-model-q2_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q3_k.gguf",
+            "size": "549853248",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e360dc9dd213e90d48b1f107ce9e33b8ebe8df09e54ea415fb14cdfb973d5b49",
+            "download": {
+                "default": "https://huggingface.co/kirp/TinyLlama-1.1B-Chat-v0.2-gguf/resolve/main/ggml-model-q3_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_0.gguf",
+            "size": "636734304",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c30df1518f1a7f01d3afda6b0c3968ad15422e85bc92c43af3e6092003adc2aa",
+            "download": {
+                "default": "https://huggingface.co/kirp/TinyLlama-1.1B-Chat-v0.2-gguf/resolve/main/ggml-model-q4_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_k_m.gguf",
+            "size": "667822944",
+            "quantization": "",
+            "tags": [],
+            "sha256": "95b306ad99d16d6bdf1fdf9d31e6d476f55e62629a9d696ed8b773bd39b61493",
+            "download": {
+                "default": "https://huggingface.co/kirp/TinyLlama-1.1B-Chat-v0.2-gguf/resolve/main/ggml-model-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_0.gguf",
+            "size": "766037600",
+            "quantization": "",
+            "tags": [],
+            "sha256": "64cd3171881de17e3d1e5dacb1d0b3edda30806ada585c1a1786c060572891ed",
+            "download": {
+                "default": "https://huggingface.co/kirp/TinyLlama-1.1B-Chat-v0.2-gguf/resolve/main/ggml-model-q5_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_k_m.gguf",
+            "size": "782052960",
+            "quantization": "",
+            "tags": [],
+            "sha256": "68ee10b2ef8fb0215de11224f41a579039109feff0d0e472f7f4909a0fcad069",
+            "download": {
+                "default": "https://huggingface.co/kirp/TinyLlama-1.1B-Chat-v0.2-gguf/resolve/main/ggml-model-q5_k_m.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,43 @@
+{
+    "id": "maridze/Mistral_2_7b_fine_tune_custom_data_gguf_v2",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "maridze",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-26T11:08:38Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-f16.gguf",
+            "size": "14484764416",
+            "quantization": "",
+            "tags": [],
+            "sha256": "40a7943bcd530682d7dbc56415617b874fcd42b646d0f4bb82ec8f4e27b483d8",
+            "download": {
+                "default": "https://huggingface.co/maridze/Mistral_2_7b_fine_tune_custom_data_gguf_v2/resolve/main/ggml-model-f16.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q8_0.gguf",
+            "size": "7695874848",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9c55746ec87542a7eca9880083432db38052cd9d2f0f79949c9262cccfeb3fe9",
+            "download": {
+                "default": "https://huggingface.co/maridze/Mistral_2_7b_fine_tune_custom_data_gguf_v2/resolve/main/ggml-model-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

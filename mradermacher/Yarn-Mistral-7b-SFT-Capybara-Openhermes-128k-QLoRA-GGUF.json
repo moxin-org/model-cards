@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-04T15:18:44Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.IQ3_M.gguf",
+            "size": "3439535872",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "f0f1a2e038e3952cee6a6e16220dd73e99509666dc9456c1d2196722d4937b08",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA-GGUF/resolve/main/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.IQ3_S.gguf",
+            "size": "3337037568",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "a631060fdeedfe8b3488cdb11da242aebb5a524c2e7b1e62f43774be9904d05e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA-GGUF/resolve/main/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.IQ3_XS.gguf",
+            "size": "3173459712",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "4c9e3ea393bd6831b891f151d96fc7e42aa428de21f993d58abc9e826bd65287",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA-GGUF/resolve/main/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.IQ4_XS.gguf",
+            "size": "4099033664",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "797caa1e699577bd5168db407e28eb7dc1cac99149524b6a22fa65430a602a52",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA-GGUF/resolve/main/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.Q2_K.gguf",
+            "size": "2873885632",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "d65f64b6c2a5b23d280d3fa3fa23bcdaaf03957fe55d0a44b945ef3cb68d590e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA-GGUF/resolve/main/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.Q3_K_L.gguf",
+            "size": "3976668928",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "4cece57c6af2177abe6373d7cc6c26a96f00631d71a62bf7a0d906f0d54ff917",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA-GGUF/resolve/main/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.Q3_K_M.gguf",
+            "size": "3673630464",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "b07df8b2970797836bbc758ed84c8e1004f60a26adfb04039ecf60fb558d205e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA-GGUF/resolve/main/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.Q3_K_S.gguf",
+            "size": "3319211776",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "5984acff5295a1241cb15977a5aa66194cb0077a016707e691f9cc0d8f3d3600",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA-GGUF/resolve/main/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.Q4_K_M.gguf",
+            "size": "4523084608",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "2ca783e0751fb68bb44087b1b40dd9bfb65a04e23eebac72d1b9ca0f852295fd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA-GGUF/resolve/main/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.Q4_K_S.gguf",
+            "size": "4295019328",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "2e4c3bf66d8b4e77c31c060343f052adc423dad5d87703dcb3cad3828f795643",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA-GGUF/resolve/main/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.Q5_K_M.gguf",
+            "size": "5286055744",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "582bc69c5aa98747b7cd5e7898b5f56044b62e1e059bc37476e89a0814f8ea4d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA-GGUF/resolve/main/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.Q5_K_S.gguf",
+            "size": "5152362304",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "2a3e9658358915a3b28dfd90a2534e9cc47fb5942e28df78d5f1eea609581e89",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA-GGUF/resolve/main/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.Q6_K.gguf",
+            "size": "6096712576",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "5f225880271425ed73b6772e52e4c00b6868a30749df238b2d660b20eef68e76",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA-GGUF/resolve/main/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.Q8_0.gguf",
+            "size": "7818763072",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "3f539799827574550014e11fc90ccdd80dc75c60608f1fbc3ce14f4cb6dbcd98",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA-GGUF/resolve/main/Yarn-Mistral-7b-SFT-Capybara-Openhermes-128k-QLoRA.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

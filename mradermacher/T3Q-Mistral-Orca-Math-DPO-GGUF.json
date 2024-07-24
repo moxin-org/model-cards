@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/T3Q-Mistral-Orca-Math-DPO-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-19T09:36:33Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "T3Q-Mistral-Orca-Math-DPO.IQ3_M.gguf",
+            "size": "3439515392",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "57633840409408bccd02f3968bd473051ac1d4148cbc03b396727536ee7ea75f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-Mistral-Orca-Math-DPO-GGUF/resolve/main/T3Q-Mistral-Orca-Math-DPO.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "T3Q-Mistral-Orca-Math-DPO.IQ3_S.gguf",
+            "size": "3337017088",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "4ab91fbbbaff94111b94541ca03f236fc516e6057b7ffe320bc504ae7ea1bb68",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-Mistral-Orca-Math-DPO-GGUF/resolve/main/T3Q-Mistral-Orca-Math-DPO.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "T3Q-Mistral-Orca-Math-DPO.IQ3_XS.gguf",
+            "size": "3155613440",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "3b7872007f77c6de768915f542b7cc2e7d181479773a85fd2808bacf69ac41fb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-Mistral-Orca-Math-DPO-GGUF/resolve/main/T3Q-Mistral-Orca-Math-DPO.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "T3Q-Mistral-Orca-Math-DPO.IQ4_XS.gguf",
+            "size": "4099012352",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "77d3ed81ebba6751e0c8f377b964534f69917ce286d5bbf007bf161c4d1c4e70",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-Mistral-Orca-Math-DPO-GGUF/resolve/main/T3Q-Mistral-Orca-Math-DPO.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "T3Q-Mistral-Orca-Math-DPO.Q2_K.gguf",
+            "size": "2873865984",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "6d194ed42028f00b491abbb1973726fb2b3d6683b24719698fc0dfcb8730a632",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-Mistral-Orca-Math-DPO-GGUF/resolve/main/T3Q-Mistral-Orca-Math-DPO.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "T3Q-Mistral-Orca-Math-DPO.Q3_K_L.gguf",
+            "size": "3976648448",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "b4819a6cd8e48c2e6e9cc3aae00238e68dfe8304b67612fe48032b0f8ddabb85",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-Mistral-Orca-Math-DPO-GGUF/resolve/main/T3Q-Mistral-Orca-Math-DPO.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "T3Q-Mistral-Orca-Math-DPO.Q3_K_M.gguf",
+            "size": "3673609984",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e5e70ee0070d18df1f04eb1b6391ea77e002db122612e027b38ccc21ada191b8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-Mistral-Orca-Math-DPO-GGUF/resolve/main/T3Q-Mistral-Orca-Math-DPO.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "T3Q-Mistral-Orca-Math-DPO.Q3_K_S.gguf",
+            "size": "3319191296",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "07702302ea05077169ad7415f40aa3df3719bb8218fcd52a4239c4dbc2372689",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-Mistral-Orca-Math-DPO-GGUF/resolve/main/T3Q-Mistral-Orca-Math-DPO.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "T3Q-Mistral-Orca-Math-DPO.Q4_K_M.gguf",
+            "size": "4523063040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "f5f886913485888332c0f284a42503242570c3ac8b4cae584d2c5caf50ae8097",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-Mistral-Orca-Math-DPO-GGUF/resolve/main/T3Q-Mistral-Orca-Math-DPO.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "T3Q-Mistral-Orca-Math-DPO.Q4_K_S.gguf",
+            "size": "4294997760",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "7d07d792266d8bb40fc475414bc62a88e14a2c8b4c8069255c40d02a2e1e1401",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-Mistral-Orca-Math-DPO-GGUF/resolve/main/T3Q-Mistral-Orca-Math-DPO.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "T3Q-Mistral-Orca-Math-DPO.Q5_K_M.gguf",
+            "size": "5286033152",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ee90bc88f4763631e1caa4d28eef918aaee30e57f45b7976e8632354c20b9d06",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-Mistral-Orca-Math-DPO-GGUF/resolve/main/T3Q-Mistral-Orca-Math-DPO.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "T3Q-Mistral-Orca-Math-DPO.Q5_K_S.gguf",
+            "size": "5152339712",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "01acaeda3d1fa0a8c02670f5f128a8123a341f0cba5bb1c93fd6941dabf9fd90",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-Mistral-Orca-Math-DPO-GGUF/resolve/main/T3Q-Mistral-Orca-Math-DPO.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "T3Q-Mistral-Orca-Math-DPO.Q6_K.gguf",
+            "size": "6096688896",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "e853d52ddb9411f7d3c2cdc853ff640143c818f99ed3e87d6befe35508bef31d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-Mistral-Orca-Math-DPO-GGUF/resolve/main/T3Q-Mistral-Orca-Math-DPO.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "T3Q-Mistral-Orca-Math-DPO.Q8_0.gguf",
+            "size": "7818737408",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "95fc65882ae91a8bb67b9418835a5e1b627f533c0e251b0535f365abe2589f3d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-Mistral-Orca-Math-DPO-GGUF/resolve/main/T3Q-Mistral-Orca-Math-DPO.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

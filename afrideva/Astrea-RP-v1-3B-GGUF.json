@@ -1,0 +1,93 @@
+{
+    "id": "afrideva/Astrea-RP-v1-3B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-26T00:30:10Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "astrea-rp-v1-3b.fp16.gguf",
+            "size": "5593341696",
+            "quantization": "",
+            "tags": [],
+            "sha256": "15b800c61fdd1db3c88df0a1966cec4647eae3dbe0cda0859a275a287171bace",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Astrea-RP-v1-3B-GGUF/resolve/main/astrea-rp-v1-3b.fp16.gguf"
+            }
+        },
+        {
+            "name": "astrea-rp-v1-3b.q2_k.gguf",
+            "size": "1198771520",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3c9b948d9bc877934714b0ec8e59e1e41fcef8da3173cce7d33accef4ea750a5",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Astrea-RP-v1-3B-GGUF/resolve/main/astrea-rp-v1-3b.q2_k.gguf"
+            }
+        },
+        {
+            "name": "astrea-rp-v1-3b.q3_k_m.gguf",
+            "size": "1391419200",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3ee4163f1157466ae1bb48d7fbbea4b739a2c0ac16c01e699bd03c93ab5d5bf8",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Astrea-RP-v1-3B-GGUF/resolve/main/astrea-rp-v1-3b.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "astrea-rp-v1-3b.q4_k_m.gguf",
+            "size": "1708595520",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ee6e6cec6358463ab70959824663bff4a40f8c193d625795e79bbd15d93aaf97",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Astrea-RP-v1-3B-GGUF/resolve/main/astrea-rp-v1-3b.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "astrea-rp-v1-3b.q5_k_m.gguf",
+            "size": "1993390400",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fc462939c04f43d590db0f2a39cfd73606a955523d1d80ed7fd9bf4d2a3ee6e6",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Astrea-RP-v1-3B-GGUF/resolve/main/astrea-rp-v1-3b.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "astrea-rp-v1-3b.q6_k.gguf",
+            "size": "2295984960",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0d299865874b9e825268bfa75c53893d8686d532724eaba9ca38de01e1d8b02c",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Astrea-RP-v1-3B-GGUF/resolve/main/astrea-rp-v1-3b.q6_k.gguf"
+            }
+        },
+        {
+            "name": "astrea-rp-v1-3b.q8_0.gguf",
+            "size": "2972925760",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8ea8e13ae79fc2bd91fa156aeb6a714d8281e57b082c77bb71a10680cab758c0",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Astrea-RP-v1-3B-GGUF/resolve/main/astrea-rp-v1-3b.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

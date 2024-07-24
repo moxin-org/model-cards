@@ -1,0 +1,113 @@
+{
+    "id": "LoneStriker/Fimbulvetr-10.7B-v1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LoneStriker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-27T09:36:35Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Fimbulvetr-10.7B-v1-Q3_K_L.gguf",
+            "size": "5650749536",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "f7456dabbc871b23a4d98b5eed9e5d8cdf134c41fdf52ba38543edb0892bdd18",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Fimbulvetr-10.7B-v1-GGUF/resolve/main/Fimbulvetr-10.7B-v1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Fimbulvetr-10.7B-v1-Q3_K_M.gguf",
+            "size": "5195667552",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "dab31f9065b1534df02a0e53776ac91206de234a74cf8452c5cecd44c39dc56c",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Fimbulvetr-10.7B-v1-GGUF/resolve/main/Fimbulvetr-10.7B-v1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Fimbulvetr-10.7B-v1-Q3_K_S.gguf",
+            "size": "4664563808",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "c848c3c42f36aa3025afb31fe1048fb9122732d91200e6dbf1a9de5a305d4b9b",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Fimbulvetr-10.7B-v1-GGUF/resolve/main/Fimbulvetr-10.7B-v1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Fimbulvetr-10.7B-v1-Q4_K_M.gguf",
+            "size": "6461667424",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "789529c65efafb9417790996b3a549ae8ed28f8a27c87c3c0e3bc61a71b69d3f",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Fimbulvetr-10.7B-v1-GGUF/resolve/main/Fimbulvetr-10.7B-v1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Fimbulvetr-10.7B-v1-Q4_K_S.gguf",
+            "size": "6118520928",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "46b3abd30770b93ed039a7d5688779e162cb2ee15b8dfb913cecd51a18467fc6",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Fimbulvetr-10.7B-v1-GGUF/resolve/main/Fimbulvetr-10.7B-v1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Fimbulvetr-10.7B-v1-Q5_K_M.gguf",
+            "size": "7597930592",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e06c0298192afefdb128ff4c1f234c10af63b26e7581660097b399454f563031",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Fimbulvetr-10.7B-v1-GGUF/resolve/main/Fimbulvetr-10.7B-v1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Fimbulvetr-10.7B-v1-Q5_K_S.gguf",
+            "size": "7397390432",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "2fb2cdc6f225b16ff6d5f0af067a83db70e0e6f3d714ac9ce4b654d67840c6db",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Fimbulvetr-10.7B-v1-GGUF/resolve/main/Fimbulvetr-10.7B-v1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Fimbulvetr-10.7B-v1-Q6_K.gguf",
+            "size": "8805210208",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "472d1e03923e1b59c4801da2629ac8dafe506bc269d0b10f73a1f7d1c7acdfb0",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Fimbulvetr-10.7B-v1-GGUF/resolve/main/Fimbulvetr-10.7B-v1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Fimbulvetr-10.7B-v1-Q8_0.gguf",
+            "size": "11404154976",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "24055e4153efe4244f36782f3abdbfcfbd38e6bd0bd833863fc682efdfeee8cf",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Fimbulvetr-10.7B-v1-GGUF/resolve/main/Fimbulvetr-10.7B-v1-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

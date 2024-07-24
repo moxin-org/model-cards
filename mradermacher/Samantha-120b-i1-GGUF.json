@@ -1,0 +1,73 @@
+{
+    "id": "mradermacher/Samantha-120b-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-18T08:07:41Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Samantha-120b.i1-IQ1_S.gguf",
+            "size": "25565410240",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "6ff0734a43d5bc852d3479b72b38444c9d3db42212530374bc724c675434ac76",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Samantha-120b-i1-GGUF/resolve/main/Samantha-120b.i1-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "Samantha-120b.i1-IQ2_XS.gguf",
+            "size": "35724014528",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "8f231ab389274984166e0f948ab4ff4f75e14a06a9bf97d2fb5b72d8824fdb19",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Samantha-120b-i1-GGUF/resolve/main/Samantha-120b.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Samantha-120b.i1-IQ2_XXS.gguf",
+            "size": "32142078912",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "f01b545ed8136d085431a2657314e8fba421bcad38c20ac3fd1bd27718be70d4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Samantha-120b-i1-GGUF/resolve/main/Samantha-120b.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "Samantha-120b.i1-IQ3_XXS.gguf",
+            "size": "47190029248",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "4e5947614ad5fc0f60ce91a5b46c90fd5ca4537fefb5c761a3444099e9f02178",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Samantha-120b-i1-GGUF/resolve/main/Samantha-120b.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "Samantha-120b.i1-Q2_K.gguf",
+            "size": "44495352768",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "802fad039dec791a97b3b4400121be3bb777c46fa200db9b933c39730d9055ee",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Samantha-120b-i1-GGUF/resolve/main/Samantha-120b.i1-Q2_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

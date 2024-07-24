@@ -1,0 +1,73 @@
+{
+    "id": "nold/Yi-34B-200K-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "nold",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-07T20:59:05Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Yi-34B-200K_Q3_K_M.gguf",
+            "size": "16654923840",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "b2a53bdf3bdce684633462ee87e7077b7ddae17d3a4180c58ecbe6c006fc815c",
+            "download": {
+                "default": "https://huggingface.co/nold/Yi-34B-200K-GGUF/resolve/main/Yi-34B-200K_Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Yi-34B-200K_Q4_K_M.gguf",
+            "size": "20658710592",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "1702a43ec08d1f7d7dfd17f3f5265ff45b2d148ed0f88fa739dcc4635bbc9621",
+            "download": {
+                "default": "https://huggingface.co/nold/Yi-34B-200K-GGUF/resolve/main/Yi-34B-200K_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Yi-34B-200K_Q5_K_M.gguf",
+            "size": "24321845312",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f76296506b6e313b5dabc8c714463e24cc1e81524ad753ff9f961e8c7144a740",
+            "download": {
+                "default": "https://huggingface.co/nold/Yi-34B-200K-GGUF/resolve/main/Yi-34B-200K_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Yi-34B-200K_Q6_K.gguf",
+            "size": "28213925952",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "89a89b9414b8998312680160c4b6c71a160bb17ffe78116b98bdb15847815240",
+            "download": {
+                "default": "https://huggingface.co/nold/Yi-34B-200K-GGUF/resolve/main/Yi-34B-200K_Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Yi-34B-200K_Q8_0.gguf",
+            "size": "36542281792",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "b5ab3a0bbc1da53b1c785a99bbcf3fbf1d254c3ce52f6e096423a00d5f3ecf78",
+            "download": {
+                "default": "https://huggingface.co/nold/Yi-34B-200K-GGUF/resolve/main/Yi-34B-200K_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

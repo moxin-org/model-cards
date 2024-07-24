@@ -1,0 +1,33 @@
+{
+    "id": "mradermacher/athena-120b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-01T05:58:00Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "athena-120b.Q2_K.gguf",
+            "size": "45019640768",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "461bd2b5c2e18f7343edb128cd20b1055045c8a8ed35c236495ea46134521701",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/athena-120b-GGUF/resolve/main/athena-120b.Q2_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

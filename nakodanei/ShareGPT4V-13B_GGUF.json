@@ -1,0 +1,43 @@
+{
+    "id": "nakodanei/ShareGPT4V-13B_GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "nakodanei",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-21T17:34:23Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mmproj-model-f16.gguf",
+            "size": "645414048",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7d3f8515805393ad0cb64389fd77e122477dad4d47a417e16369e897ac5c2171",
+            "download": {
+                "default": "https://huggingface.co/nakodanei/ShareGPT4V-13B_GGUF/resolve/main/mmproj-model-f16.gguf"
+            }
+        },
+        {
+            "name": "ShareGPT4V-13B-Q4_K_M.gguf",
+            "size": "7865956320",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "d0cd6e45cd204b08a4a1d4e89cd97bf93c6cc5f3ba588bab40397149117a1bb9",
+            "download": {
+                "default": "https://huggingface.co/nakodanei/ShareGPT4V-13B_GGUF/resolve/main/ShareGPT4V-13B-Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

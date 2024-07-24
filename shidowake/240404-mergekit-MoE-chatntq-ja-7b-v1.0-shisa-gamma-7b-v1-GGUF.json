@@ -1,0 +1,43 @@
+{
+    "id": "shidowake/240404-mergekit-MoE-chatntq-ja-7b-v1.0-shisa-gamma-7b-v1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "shidowake",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-04T10:28:03Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-q4_K_M.gguf",
+            "size": "7782081664",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4eed1265bca98127d9bb08b60140e717af452eafe09555a53c05a1f86856513c",
+            "download": {
+                "default": "https://huggingface.co/shidowake/240404-mergekit-MoE-chatntq-ja-7b-v1.0-shisa-gamma-7b-v1-GGUF/resolve/main/ggml-model-q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_K_S.gguf",
+            "size": "7341155456",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e71b2e4be8f19091cb274cecb3219c0bc3939d23b23dacf79726f2574d8902f8",
+            "download": {
+                "default": "https://huggingface.co/shidowake/240404-mergekit-MoE-chatntq-ja-7b-v1.0-shisa-gamma-7b-v1-GGUF/resolve/main/ggml-model-q4_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

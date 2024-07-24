@@ -1,0 +1,73 @@
+{
+    "id": "LoneStriker/zephyr-7b-gemma-v0.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LoneStriker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-02T03:19:27Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "zephyr-7b-gemma-v0.1-Q3_K_L.gguf",
+            "size": "4717901600",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "3f1977f5295de6897b5d2938f17cdd0d6e104512bdee56e4c26e7396f747a4b9",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/zephyr-7b-gemma-v0.1-GGUF/resolve/main/zephyr-7b-gemma-v0.1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-gemma-v0.1-Q4_K_M.gguf",
+            "size": "5338593056",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "0756c5d91b2938a6e6489c18aad5e8b88d74373c3f0ab886450d337f141bd812",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/zephyr-7b-gemma-v0.1-GGUF/resolve/main/zephyr-7b-gemma-v0.1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-gemma-v0.1-Q5_K_M.gguf",
+            "size": "6153336608",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "10c8af17cbbc96abf51a278a73dbb2476a10cc35c6a8de7302c4215f1a9c5f7a",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/zephyr-7b-gemma-v0.1-GGUF/resolve/main/zephyr-7b-gemma-v0.1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-gemma-v0.1-Q6_K.gguf",
+            "size": "7019001632",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "302c0cb1981bd710d708a435cf7a69f6a11565a4dcc1f840a1bac445296558f5",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/zephyr-7b-gemma-v0.1-GGUF/resolve/main/zephyr-7b-gemma-v0.1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-gemma-v0.1-Q8_0.gguf",
+            "size": "9086678816",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "99d1fd0f414fe325ac0f98aa5deb01b5e0be91e2dc1e2b7c0d468606003a2b46",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/zephyr-7b-gemma-v0.1-GGUF/resolve/main/zephyr-7b-gemma-v0.1-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

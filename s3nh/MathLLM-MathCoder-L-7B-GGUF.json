@@ -1,0 +1,93 @@
+{
+    "id": "s3nh/MathLLM-MathCoder-L-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-06T07:53:10Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "MathLLM-MathCoder-L-7B.Q2_K.gguf",
+            "size": "2825978528",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "b1b5112fee8900686b583611b1f9e42ab014071b5ffa42c5da809763316e3eec",
+            "download": {
+                "default": "https://huggingface.co/s3nh/MathLLM-MathCoder-L-7B-GGUF/resolve/main/MathLLM-MathCoder-L-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "MathLLM-MathCoder-L-7B.Q3_K_S.gguf",
+            "size": "2948345760",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "d09b0e5ba9f953202ddf3ef38236c9e0f6310913ab34f7116a7f089ae4b749b1",
+            "download": {
+                "default": "https://huggingface.co/s3nh/MathLLM-MathCoder-L-7B-GGUF/resolve/main/MathLLM-MathCoder-L-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "MathLLM-MathCoder-L-7B.Q4_K_M.gguf",
+            "size": "4081049760",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5341fcec5dd9ebead83c238d23eb03f10942774d994ff5944ec70b9d84425e4a",
+            "download": {
+                "default": "https://huggingface.co/s3nh/MathLLM-MathCoder-L-7B-GGUF/resolve/main/MathLLM-MathCoder-L-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "MathLLM-MathCoder-L-7B.Q4_K_S.gguf",
+            "size": "3856785568",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "8db479ac398bd326f3aa6057ed390fbf07a980e476eb7035bc8ec339b4bca874",
+            "download": {
+                "default": "https://huggingface.co/s3nh/MathLLM-MathCoder-L-7B-GGUF/resolve/main/MathLLM-MathCoder-L-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "MathLLM-MathCoder-L-7B.Q5_K_S.gguf",
+            "size": "4651741344",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "dad0c8d9d9a0504863f0552afa42c899321079041adc023958ad899bdd724229",
+            "download": {
+                "default": "https://huggingface.co/s3nh/MathLLM-MathCoder-L-7B-GGUF/resolve/main/MathLLM-MathCoder-L-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "MathLLM-MathCoder-L-7B.Q6_K.gguf",
+            "size": "5529248160",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "c3b10e4cf4ae02923f7b75ee150aeceace1cf205d7ebfe8fb4791154eb32ca78",
+            "download": {
+                "default": "https://huggingface.co/s3nh/MathLLM-MathCoder-L-7B-GGUF/resolve/main/MathLLM-MathCoder-L-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "MathLLM-MathCoder-L-7B.Q8_0.gguf",
+            "size": "7161159584",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "3190fb6a18df6943d633ac2a659fd5ef83d00ae4ca8fee4e203851207e178628",
+            "download": {
+                "default": "https://huggingface.co/s3nh/MathLLM-MathCoder-L-7B-GGUF/resolve/main/MathLLM-MathCoder-L-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,93 @@
+{
+    "id": "s3nh/AdaptLLM-law-LLM-13B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-02T07:58:47Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "AdaptLLM-law-LLM-13B.Q2_K.gguf",
+            "size": "5429354176",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "033d30d98841169d4f0cc7b67b3f874c1e15493c7392cab8a01be1680cc9b964",
+            "download": {
+                "default": "https://huggingface.co/s3nh/AdaptLLM-law-LLM-13B-GGUF/resolve/main/AdaptLLM-law-LLM-13B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "AdaptLLM-law-LLM-13B.Q3_K_S.gguf",
+            "size": "5658986688",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "92994e03cb13f2bcd9002ec28c94a8cc078adf6577eef8b3b5bcf6381e8c5cdb",
+            "download": {
+                "default": "https://huggingface.co/s3nh/AdaptLLM-law-LLM-13B-GGUF/resolve/main/AdaptLLM-law-LLM-13B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "AdaptLLM-law-LLM-13B.Q4_K_M.gguf",
+            "size": "7865963360",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "2a5141adc82d8c29aef46372dedf91af35a2a91b8179b6e190bbcffd5eb5782d",
+            "download": {
+                "default": "https://huggingface.co/s3nh/AdaptLLM-law-LLM-13B-GGUF/resolve/main/AdaptLLM-law-LLM-13B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "AdaptLLM-law-LLM-13B.Q4_K_S.gguf",
+            "size": "7414338400",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "678964e5c88f6cfa69bd1a307bfd5527be952b3f93de842c4aad3e41cbcc2d6b",
+            "download": {
+                "default": "https://huggingface.co/s3nh/AdaptLLM-law-LLM-13B-GGUF/resolve/main/AdaptLLM-law-LLM-13B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "AdaptLLM-law-LLM-13B.Q5_K_S.gguf",
+            "size": "8972293600",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "931fcd59fcfabc789dae4587805c5ba91f3936f70a410038bddef7a90522111d",
+            "download": {
+                "default": "https://huggingface.co/s3nh/AdaptLLM-law-LLM-13B-GGUF/resolve/main/AdaptLLM-law-LLM-13B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "AdaptLLM-law-LLM-13B.Q6_K.gguf",
+            "size": "10679148704",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "9ab4e014584d2622171969d4b50a390f2275cfe7f7d4e66c1759b045b6f70929",
+            "download": {
+                "default": "https://huggingface.co/s3nh/AdaptLLM-law-LLM-13B-GGUF/resolve/main/AdaptLLM-law-LLM-13B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "AdaptLLM-law-LLM-13B.Q8_0.gguf",
+            "size": "13831330336",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "0e0e7628ce4d0cc2101d57d1ae5d333234f21f75809229ca926b9ba79f43b5a2",
+            "download": {
+                "default": "https://huggingface.co/s3nh/AdaptLLM-law-LLM-13B-GGUF/resolve/main/AdaptLLM-law-LLM-13B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

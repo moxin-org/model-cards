@@ -1,0 +1,103 @@
+{
+    "id": "TheBloke/Starling-LM-alpha-8x7B-MoE-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-16T20:42:55Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "starling-lm-alpha-8x7b-moe.Q2_K.gguf",
+            "size": "15644980544",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "03eb691e9cd1e3e2b564b6a415034dfe3abef61a16114658e154f51df528a8cd",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Starling-LM-alpha-8x7B-MoE-GGUF/resolve/main/starling-lm-alpha-8x7b-moe.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "starling-lm-alpha-8x7b-moe.Q3_K_M.gguf",
+            "size": "20364302464",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e0171b7222a817253ed5c0f85054f3977bba4ee44d722553672c879dbb861005",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Starling-LM-alpha-8x7B-MoE-GGUF/resolve/main/starling-lm-alpha-8x7b-moe.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "starling-lm-alpha-8x7b-moe.Q4_0.gguf",
+            "size": "26442480832",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "111db738e1f1031ca1bf1b0e6f8a3bc587fd2b1373e975f13bbea406c2895bd3",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Starling-LM-alpha-8x7B-MoE-GGUF/resolve/main/starling-lm-alpha-8x7b-moe.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "starling-lm-alpha-8x7b-moe.Q4_K_M.gguf",
+            "size": "26442480832",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "d3bf4966511601bcd4c7eca5751421ab944a7b9173219cbb7154994c16d5358b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Starling-LM-alpha-8x7B-MoE-GGUF/resolve/main/starling-lm-alpha-8x7b-moe.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "starling-lm-alpha-8x7b-moe.Q5_0.gguf",
+            "size": "32230228160",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "b41d3771dff9f198abf0c49f125d6dfcb706a758f376ea41c297668bc83b3141",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Starling-LM-alpha-8x7B-MoE-GGUF/resolve/main/starling-lm-alpha-8x7b-moe.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "starling-lm-alpha-8x7b-moe.Q5_K_M.gguf",
+            "size": "32230228160",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "918ad6407cb73a281a4bcb4819e82ca82044e39ff061936ea40b6dc1272e3c6d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Starling-LM-alpha-8x7B-MoE-GGUF/resolve/main/starling-lm-alpha-8x7b-moe.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "starling-lm-alpha-8x7b-moe.Q6_K.gguf",
+            "size": "38379709696",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "ed9a88e802bcec30da12a8c3f11990f6fb7d8eef35b5b936a2ad97eb0d1ee10f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Starling-LM-alpha-8x7B-MoE-GGUF/resolve/main/starling-lm-alpha-8x7b-moe.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "starling-lm-alpha-8x7b-moe.Q8_0.gguf",
+            "size": "49625216128",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "3b68a5a989f55c7ba348e916a29dcb0ba08dd693efc4a31f1ac8408bdee278d9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Starling-LM-alpha-8x7B-MoE-GGUF/resolve/main/starling-lm-alpha-8x7b-moe.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

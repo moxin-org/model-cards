@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Blitz-AI-7B-DPO-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-22T06:11:44Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Blitz-AI-7B-DPO.IQ3_M.gguf",
+            "size": "4106070816",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "2adae3fa095b3e2e55c4d1272ee63b7d9d5eebefdf3492177d0c836d69909c32",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Blitz-AI-7B-DPO-GGUF/resolve/main/Blitz-AI-7B-DPO.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Blitz-AI-7B-DPO.IQ3_S.gguf",
+            "size": "3982404384",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "347b4a53db3946679cc323d8b421422e1c68933d8ea80126106d2bbc532a5b31",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Blitz-AI-7B-DPO-GGUF/resolve/main/Blitz-AI-7B-DPO.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Blitz-AI-7B-DPO.IQ3_XS.gguf",
+            "size": "3800738592",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "12be5397f034dea26bb632817a5e864443e59db1559c378e15d7bbb7ed4c9af2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Blitz-AI-7B-DPO-GGUF/resolve/main/Blitz-AI-7B-DPO.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Blitz-AI-7B-DPO.IQ4_XS.gguf",
+            "size": "4805012256",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "1e53e381721c8e0fd041e7a37308de049e6fc352b46d9d115b4b360d8be61767",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Blitz-AI-7B-DPO-GGUF/resolve/main/Blitz-AI-7B-DPO.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Blitz-AI-7B-DPO.Q2_K.gguf",
+            "size": "3481447200",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "d18a240b21fefc8d64c4ca4a69328f56288cdfd984449f67ba0e69ddd0aca870",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Blitz-AI-7B-DPO-GGUF/resolve/main/Blitz-AI-7B-DPO.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Blitz-AI-7B-DPO.Q3_K_L.gguf",
+            "size": "4709067552",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "eace418b8e70354436233345ee6d3252d045f3b7a63df08eb2efdb781389d78c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Blitz-AI-7B-DPO-GGUF/resolve/main/Blitz-AI-7B-DPO.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Blitz-AI-7B-DPO.Q3_K_M.gguf",
+            "size": "4369328928",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "c3c507b5776a2a08a8cbbfd72d176c40d7d76f846920938e423f6e3345d74ccc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Blitz-AI-7B-DPO-GGUF/resolve/main/Blitz-AI-7B-DPO.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Blitz-AI-7B-DPO.Q3_K_S.gguf",
+            "size": "3982404384",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "6edfedf73fcbdb2a7e5e5f9e3569dfd672db4392e01592593182250f88447ef3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Blitz-AI-7B-DPO-GGUF/resolve/main/Blitz-AI-7B-DPO.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Blitz-AI-7B-DPO.Q4_K_M.gguf",
+            "size": "5329759008",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "dafac906bc0cdbc79e18ad8512b70e3b93fc8092290f1c9c1b7b480fd51109d1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Blitz-AI-7B-DPO-GGUF/resolve/main/Blitz-AI-7B-DPO.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Blitz-AI-7B-DPO.Q4_K_S.gguf",
+            "size": "5046446880",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "f64db4942c0dd2fc2095831a9c9919ccee0c9c2eff3dee0c65e1336163e38c33",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Blitz-AI-7B-DPO-GGUF/resolve/main/Blitz-AI-7B-DPO.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Blitz-AI-7B-DPO.Q5_K_M.gguf",
+            "size": "6144502560",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "08e0399b7b387ea854eb55ab14f81e09090ad93d76e4ca390d5033c452029ac9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Blitz-AI-7B-DPO-GGUF/resolve/main/Blitz-AI-7B-DPO.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Blitz-AI-7B-DPO.Q5_K_S.gguf",
+            "size": "5980728096",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "0ab4e5655c55cfb5f3ee82bc065655607939947b01e30c14728a133e512c91cf",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Blitz-AI-7B-DPO-GGUF/resolve/main/Blitz-AI-7B-DPO.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Blitz-AI-7B-DPO.Q6_K.gguf",
+            "size": "7010167584",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "658fd68cc6cd833906e09676c1ace7351adc2d3a819af81a2a024194ab3c7b51",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Blitz-AI-7B-DPO-GGUF/resolve/main/Blitz-AI-7B-DPO.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Blitz-AI-7B-DPO.Q8_0.gguf",
+            "size": "9077844768",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "dcc2067653d4664d8a0f673c55db37907e514cfedde43a96771e28bb8149633e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Blitz-AI-7B-DPO-GGUF/resolve/main/Blitz-AI-7B-DPO.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/NexusRaven-15B-pass-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-29T02:13:08Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "NexusRaven-15B-pass.IQ3_M.gguf",
+            "size": "7333882336",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "efc8d31f38516e369d1128baabb4934cadb63b73323e195eac5b1794e12e82bb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusRaven-15B-pass-GGUF/resolve/main/NexusRaven-15B-pass.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "NexusRaven-15B-pass.IQ3_S.gguf",
+            "size": "6943246816",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "f538a4c3c7f8b17481f40c3fc7d8d99ae128d4dd1aea933a64a2e21a3a62b15e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusRaven-15B-pass-GGUF/resolve/main/NexusRaven-15B-pass.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "NexusRaven-15B-pass.IQ3_XS.gguf",
+            "size": "6586403296",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "6495c58c897fe45387aa1100685a7590a96136c585018389319e915e6e19a3e6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusRaven-15B-pass-GGUF/resolve/main/NexusRaven-15B-pass.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "NexusRaven-15B-pass.IQ4_NL.gguf",
+            "size": "9040220576",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "ed6bc4ed933f6ba5e0020a09c060f9c2121e385301c547cf788719fe69350fac",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusRaven-15B-pass-GGUF/resolve/main/NexusRaven-15B-pass.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "NexusRaven-15B-pass.IQ4_XS.gguf",
+            "size": "8572576416",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "6d49554ae42d51069911ce010dddd77b5bb570bb510daf0b7c8f9b38b742c5d8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusRaven-15B-pass-GGUF/resolve/main/NexusRaven-15B-pass.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "NexusRaven-15B-pass.Q2_K.gguf",
+            "size": "5980909856",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "acd3a2316bac8b1f38806955fc0d07d5fc6df52857d65220b9e1cbb0c8746f8a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusRaven-15B-pass-GGUF/resolve/main/NexusRaven-15B-pass.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "NexusRaven-15B-pass.Q3_K_L.gguf",
+            "size": "8467941856",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "c9fb708b9fc1f3055ca4771cdee380ec2509f6983263e572ca7bed2b9421517b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusRaven-15B-pass-GGUF/resolve/main/NexusRaven-15B-pass.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "NexusRaven-15B-pass.Q3_K_M.gguf",
+            "size": "7761791456",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "30122c5f09471e853ddf9fb8275c128e9f213e248b3b48a2db1bd953e8d66ab6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusRaven-15B-pass-GGUF/resolve/main/NexusRaven-15B-pass.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "NexusRaven-15B-pass.Q3_K_S.gguf",
+            "size": "6943246816",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "5b18a4bf1c4ccb45e3485313122366687b86a42ee871a41e364a807444313378",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusRaven-15B-pass-GGUF/resolve/main/NexusRaven-15B-pass.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "NexusRaven-15B-pass.Q4_0.gguf",
+            "size": "8987136416",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "47240c738e582f616c7226ff294c7119f68095c635054a23beddbc333539fbd0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusRaven-15B-pass-GGUF/resolve/main/NexusRaven-15B-pass.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "NexusRaven-15B-pass.Q4_K_M.gguf",
+            "size": "9587282336",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "6da88d1ee5ec60928d4a2e69d08089e298caba1a9995d57d49ac42698dc694e2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusRaven-15B-pass-GGUF/resolve/main/NexusRaven-15B-pass.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "NexusRaven-15B-pass.Q4_K_S.gguf",
+            "size": "9053327776",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "50c17d4d4f1ad4c645bb5e55e5d6191005179598822e000c4709b558e1391f20",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusRaven-15B-pass-GGUF/resolve/main/NexusRaven-15B-pass.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "NexusRaven-15B-pass.Q5_K_M.gguf",
+            "size": "11219963296",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "d9619391cee829f5a3f2a3c36bd221971ebefec7d208bf5e2aab2268c410ffcc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusRaven-15B-pass-GGUF/resolve/main/NexusRaven-15B-pass.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "NexusRaven-15B-pass.Q5_K_S.gguf",
+            "size": "10910797216",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "edaa4464b7868c36ef6d8306e050500de1fac357234a636cfff51c3ff421901c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusRaven-15B-pass-GGUF/resolve/main/NexusRaven-15B-pass.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "NexusRaven-15B-pass.Q6_K.gguf",
+            "size": "12954686816",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "c127221e140fe2bc71bb9f8ed1bf1d0445e22892dfd6b800c5b1bf6edacd9861",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusRaven-15B-pass-GGUF/resolve/main/NexusRaven-15B-pass.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "NexusRaven-15B-pass.Q8_0.gguf",
+            "size": "16681779616",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "149dd9dfc39e309dfa5aa2ae4246612be3c9b13f9b68acb0d3af1a705913c88d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexusRaven-15B-pass-GGUF/resolve/main/NexusRaven-15B-pass.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

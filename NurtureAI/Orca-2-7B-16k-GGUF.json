@@ -1,0 +1,63 @@
+{
+    "id": "NurtureAI/Orca-2-7B-16k-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "NurtureAI",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-22T19:19:06Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "orca-2-7b-16k-f16.gguf",
+            "size": "13478154112",
+            "quantization": "",
+            "tags": [],
+            "sha256": "db4adb73888c38993659be1a969f87e05f533ed3ba29495263bd63a45b9974c8",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/Orca-2-7B-16k-GGUF/resolve/main/orca-2-7b-16k-f16.gguf"
+            }
+        },
+        {
+            "name": "orca-2-7b-16k-q3_k_m.gguf",
+            "size": "3298020288",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ed1418a241e220cadeb1c22d159218dd173c55e84982e6d68a232d975f807e58",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/Orca-2-7B-16k-GGUF/resolve/main/orca-2-7b-16k-q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "orca-2-7b-16k-q4_k_m.gguf",
+            "size": "4081021472",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4fa7653529cd9a7a0ca3c73f08ca2e1a13985df9a44e57648373736eae556d42",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/Orca-2-7B-16k-GGUF/resolve/main/orca-2-7b-16k-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "orca-2-7b-16k-q8_0.gguf",
+            "size": "7161116096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7976e42ce05e6f60db98c30aadbe63e1e5a72dc5164bb79cc54e10d8d27b35a9",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/Orca-2-7B-16k-GGUF/resolve/main/orca-2-7b-16k-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

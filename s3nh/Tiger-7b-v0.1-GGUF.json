@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/Tiger-7b-v0.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-19T09:02:17Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tiger-7b-v0.1.Q3_K_S.gguf",
+            "size": "3164567776",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "6ed073bb1d13344c68e3a0b1cf354d589196a829e8abde6f3ef0f416b0da4e06",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Tiger-7b-v0.1-GGUF/resolve/main/tiger-7b-v0.1.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "tiger-7b-v0.1.Q4_K_M.gguf",
+            "size": "4368439520",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "cc8af43aa1fa260aae6597d75132730ae6ba4be5a94b4df30348d340df4786a7",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Tiger-7b-v0.1-GGUF/resolve/main/tiger-7b-v0.1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "tiger-7b-v0.1.Q5_K_M.gguf",
+            "size": "5131409632",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "0e15cd44f2029c1f5584037791c80af33a83632bfbf37572a1de827183365692",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Tiger-7b-v0.1-GGUF/resolve/main/tiger-7b-v0.1.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "tiger-7b-v0.1.Q6_K.gguf",
+            "size": "5942065376",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "c9a585a340bcde88460578487637d3c8550bc85e3b68504abaa19f7f1825a33a",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Tiger-7b-v0.1-GGUF/resolve/main/tiger-7b-v0.1.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "tiger-7b-v0.1.Q8_0.gguf",
+            "size": "7695857888",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "a686e48700d6a5e623d3bcb6e2dc43a2ace37100b2eee0defc2209b1c5dd75ef",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Tiger-7b-v0.1-GGUF/resolve/main/tiger-7b-v0.1.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

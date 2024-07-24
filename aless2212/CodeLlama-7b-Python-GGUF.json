@@ -1,0 +1,53 @@
+{
+    "id": "aless2212/CodeLlama-7b-Python-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "aless2212",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-19T22:46:42Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "CodeLlama-7b-Python.Q4_K_M.gguf",
+            "size": "4081004384",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "32b5181dea6ba97177c86ed6829b3095a25554497e0281be0b722bacac389f51",
+            "download": {
+                "default": "https://huggingface.co/aless2212/CodeLlama-7b-Python-GGUF/resolve/main/CodeLlama-7b-Python.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-7b-Python.Q5_K_M.gguf",
+            "size": "4783157088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ae8db5770c865c2083e394efe6b73e8a1d2342dbd977ac81b2332a3b34af4eb4",
+            "download": {
+                "default": "https://huggingface.co/aless2212/CodeLlama-7b-Python-GGUF/resolve/main/CodeLlama-7b-Python.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-7b-Python.Q6_K.gguf",
+            "size": "5529194336",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "cec798167f876d8bea20a405511ea2aad32854108ec9594fb01ac8cafaaaf652",
+            "download": {
+                "default": "https://huggingface.co/aless2212/CodeLlama-7b-Python-GGUF/resolve/main/CodeLlama-7b-Python.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

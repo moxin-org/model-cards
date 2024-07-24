@@ -1,0 +1,243 @@
+{
+    "id": "bartowski/aixcoder-7b-base-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bartowski",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-11T17:57:39Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "aixcoder-7b-base-IQ4_XS.gguf",
+            "size": "4089122336",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "69450eb7fd5141827d3dc0b1d4dd224bfe87792bcf3dd203bb11a2da1b25f8fc",
+            "download": {
+                "default": "https://huggingface.co/bartowski/aixcoder-7b-base-GGUF/resolve/main/aixcoder-7b-base-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "aixcoder-7b-base-Q8_0.gguf",
+            "size": "7899123232",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "21f3135088894ea4edf11e6853eee5bddb0f6130818dc2cbf69311da1eeb2299",
+            "download": {
+                "default": "https://huggingface.co/bartowski/aixcoder-7b-base-GGUF/resolve/main/aixcoder-7b-base-Q8_0.gguf"
+            }
+        },
+        {
+            "name": "aixcoder-7b-base-Q6_K.gguf",
+            "size": "6558256672",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "a6c0a69b3b0d982a20fa8f8aeecbba854174f8449f661453cb7c8120523148c9",
+            "download": {
+                "default": "https://huggingface.co/bartowski/aixcoder-7b-base-GGUF/resolve/main/aixcoder-7b-base-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "aixcoder-7b-base-Q5_K_S.gguf",
+            "size": "5257236000",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "7436a6e01f9504ce60c7a7691c26b05e097fc9bac2b59400d9af7c65459bde81",
+            "download": {
+                "default": "https://huggingface.co/bartowski/aixcoder-7b-base-GGUF/resolve/main/aixcoder-7b-base-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "aixcoder-7b-base-Q5_K_M.gguf",
+            "size": "5562371616",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "7dca88b63970be90ef4f0990328a4da2a1306add7707d58ff56803aa5dbe3a28",
+            "download": {
+                "default": "https://huggingface.co/bartowski/aixcoder-7b-base-GGUF/resolve/main/aixcoder-7b-base-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "aixcoder-7b-base-Q4_K_S.gguf",
+            "size": "4488760864",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "6c5c3f10b9a45ee360dc4e73622d925a0334085eecd39be873cfcdf09b22adbc",
+            "download": {
+                "default": "https://huggingface.co/bartowski/aixcoder-7b-base-GGUF/resolve/main/aixcoder-7b-base-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "aixcoder-7b-base-Q4_K_M.gguf",
+            "size": "4844621344",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "575cacc8188789b53a87ed00df9906eae99590db168e35b13fda116420467b6b",
+            "download": {
+                "default": "https://huggingface.co/bartowski/aixcoder-7b-base-GGUF/resolve/main/aixcoder-7b-base-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "aixcoder-7b-base-Q3_K_S.gguf",
+            "size": "3526299168",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "3bb0b88b18d06e086960dd0012622357daf4030fdec89fe4cbb71675cd617384",
+            "download": {
+                "default": "https://huggingface.co/bartowski/aixcoder-7b-base-GGUF/resolve/main/aixcoder-7b-base-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "aixcoder-7b-base-Q3_K_M.gguf",
+            "size": "3860860448",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "2620678e04351ae6ad2a4995a773be8d7aed8f52f3e3ea44f1b85f5084a8b754",
+            "download": {
+                "default": "https://huggingface.co/bartowski/aixcoder-7b-base-GGUF/resolve/main/aixcoder-7b-base-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "aixcoder-7b-base-Q3_K_L.gguf",
+            "size": "4054781472",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "b0aec8f84cdf08fdf4c7f2aa777be8e1cac68e3a5680ddd1ef6f49b77913951f",
+            "download": {
+                "default": "https://huggingface.co/bartowski/aixcoder-7b-base-GGUF/resolve/main/aixcoder-7b-base-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "aixcoder-7b-base-Q2_K.gguf",
+            "size": "3070430752",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "f53f524cd5c325913b81667f85075565c94d35953d2847d07718b31539a9ed6b",
+            "download": {
+                "default": "https://huggingface.co/bartowski/aixcoder-7b-base-GGUF/resolve/main/aixcoder-7b-base-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "aixcoder-7b-base-IQ1_M.gguf",
+            "size": "2463305248",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "21b66db1427c2da8c314d0599ee10a2186795688acf876854bc65ea975a9b6ea",
+            "download": {
+                "default": "https://huggingface.co/bartowski/aixcoder-7b-base-GGUF/resolve/main/aixcoder-7b-base-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "aixcoder-7b-base-IQ4_NL.gguf",
+            "size": "4251651616",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "61f209b78ac33c5583837cd53220d840282446d1c18732a90ddadbe508516a08",
+            "download": {
+                "default": "https://huggingface.co/bartowski/aixcoder-7b-base-GGUF/resolve/main/aixcoder-7b-base-IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "aixcoder-7b-base-IQ3_XXS.gguf",
+            "size": "3266252320",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "827fd4f4f1ed4f6522f3ca04821b8d18f563676dbd71098a68badbb3ee8cd529",
+            "download": {
+                "default": "https://huggingface.co/bartowski/aixcoder-7b-base-GGUF/resolve/main/aixcoder-7b-base-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "aixcoder-7b-base-IQ3_XS.gguf",
+            "size": "3379367456",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "75b49f5a1a396302b61acd050ae38e1d5f3a4a35ea1103f7412a844fd86e2eb6",
+            "download": {
+                "default": "https://huggingface.co/bartowski/aixcoder-7b-base-GGUF/resolve/main/aixcoder-7b-base-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "aixcoder-7b-base-IQ3_S.gguf",
+            "size": "3544124960",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "2eaa6a22f9da84627f81253237330614101abee2ea5bd7a830f5cd47e1195cee",
+            "download": {
+                "default": "https://huggingface.co/bartowski/aixcoder-7b-base-GGUF/resolve/main/aixcoder-7b-base-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "aixcoder-7b-base-IQ3_M.gguf",
+            "size": "3645050400",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "76f9d4815fa697f514c8ebb1e00419d251ad1865e8806dd476b6a84f36ac9b8c",
+            "download": {
+                "default": "https://huggingface.co/bartowski/aixcoder-7b-base-GGUF/resolve/main/aixcoder-7b-base-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "aixcoder-7b-base-IQ2_XXS.gguf",
+            "size": "2637631008",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "65059e5e087fd8c94fc5b4d9f5437eb538bb9396992042dca1613ddd7cfb1492",
+            "download": {
+                "default": "https://huggingface.co/bartowski/aixcoder-7b-base-GGUF/resolve/main/aixcoder-7b-base-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "aixcoder-7b-base-IQ2_XS.gguf",
+            "size": "2793868832",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "f3236ae2bf85d9d8dbd70fe67c4bb088ef9f7f9e8eb26dc70455bc8b9a4cd5a2",
+            "download": {
+                "default": "https://huggingface.co/bartowski/aixcoder-7b-base-GGUF/resolve/main/aixcoder-7b-base-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "aixcoder-7b-base-IQ2_S.gguf",
+            "size": "2889813536",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "408dd7b7aabf7454350812e3f8fb460cd843f6bd5e1de7af09d91be07d73672b",
+            "download": {
+                "default": "https://huggingface.co/bartowski/aixcoder-7b-base-GGUF/resolve/main/aixcoder-7b-base-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "aixcoder-7b-base-IQ2_M.gguf",
+            "size": "3029274144",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "72afbe30a14c778ff5343e6219a2cb9e38cd12f83ed3cbfd05b33dff650e7464",
+            "download": {
+                "default": "https://huggingface.co/bartowski/aixcoder-7b-base-GGUF/resolve/main/aixcoder-7b-base-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "aixcoder-7b-base-IQ1_S.gguf",
+            "size": "2358709792",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "84682a5d37681ca8271d0563781a4a4c42603bc834379b39348387b80b1f5353",
+            "download": {
+                "default": "https://huggingface.co/bartowski/aixcoder-7b-base-GGUF/resolve/main/aixcoder-7b-base-IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

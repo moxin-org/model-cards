@@ -1,0 +1,73 @@
+{
+    "id": "vbuhoijymzoi/MiniCPM-2B-dpo-bf16-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "vbuhoijymzoi",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-10T07:45:16Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "minicpm-2b-dpo-bf16.Q3_K_L.gguf",
+            "size": "1453891488",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "353c344528bf2cc6523a168181014ffeed834d6b514d0f93ea73181cbcc8d529",
+            "download": {
+                "default": "https://huggingface.co/vbuhoijymzoi/MiniCPM-2B-dpo-bf16-GGUF/resolve/main/minicpm-2b-dpo-bf16.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "minicpm-2b-dpo-bf16.Q4_K_M.gguf",
+            "size": "1729503200",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "de4ea65ded46ffe23d30ba9656574ed27c477c127f719cb3d2533fc47adc305b",
+            "download": {
+                "default": "https://huggingface.co/vbuhoijymzoi/MiniCPM-2B-dpo-bf16-GGUF/resolve/main/minicpm-2b-dpo-bf16.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "minicpm-2b-dpo-bf16.Q5_K_M.gguf",
+            "size": "2007052544",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "074e0cf5b2ba7142ac0e8efb044639eccfcce6702fcbfe8a9355e014993e45d2",
+            "download": {
+                "default": "https://huggingface.co/vbuhoijymzoi/MiniCPM-2B-dpo-bf16-GGUF/resolve/main/minicpm-2b-dpo-bf16.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "minicpm-2b-dpo-bf16.Q6_K.gguf",
+            "size": "2367267136",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "dcf418df9f5aac0b9c7e7b0798dd5d6327f1634f126206bc7543f4c8488b8930",
+            "download": {
+                "default": "https://huggingface.co/vbuhoijymzoi/MiniCPM-2B-dpo-bf16-GGUF/resolve/main/minicpm-2b-dpo-bf16.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "minicpm-2b-dpo-bf16.Q8_0.gguf",
+            "size": "2898590816",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "4f97df40cc7c4a542da78004d2cedd1a123f8b59b0edcfebb6212a2798e94ee7",
+            "download": {
+                "default": "https://huggingface.co/vbuhoijymzoi/MiniCPM-2B-dpo-bf16-GGUF/resolve/main/minicpm-2b-dpo-bf16.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

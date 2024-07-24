@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/HoloLewd-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-26T16:05:54Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "HoloLewd-7B.IQ3_M.gguf",
+            "size": "3439515392",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "383b36fefd6e5e945b6bc03285e01a946f6e2e5f477195e2d63007e166a080b5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HoloLewd-7B-GGUF/resolve/main/HoloLewd-7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "HoloLewd-7B.IQ3_S.gguf",
+            "size": "3337017088",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "e49db68c927a4872175e7618e97533c3cc367516a4b3382d0ce2566af1f7891e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HoloLewd-7B-GGUF/resolve/main/HoloLewd-7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "HoloLewd-7B.IQ3_XS.gguf",
+            "size": "3173439232",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "919a42e19b6b432610430437aebaeca0c260393a6998fe28b6426786f5363a02",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HoloLewd-7B-GGUF/resolve/main/HoloLewd-7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "HoloLewd-7B.IQ4_NL.gguf",
+            "size": "4309677824",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "cc9397fb809e431596716f876eba0680c49ca9021ab8364db16b446741eed574",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HoloLewd-7B-GGUF/resolve/main/HoloLewd-7B.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "HoloLewd-7B.IQ4_XS.gguf",
+            "size": "4099012352",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "8eb6122189e743f649cfb3065b06383616704768de07cf29a4dc1d41dda8b6d0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HoloLewd-7B-GGUF/resolve/main/HoloLewd-7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "HoloLewd-7B.Q2_K.gguf",
+            "size": "2873865984",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "3e31f963bc5279704d3c1b153a29b9175cd30e4be9214e2e58b8be524a7e44b5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HoloLewd-7B-GGUF/resolve/main/HoloLewd-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "HoloLewd-7B.Q3_K_L.gguf",
+            "size": "3976648448",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "847b52721a63512a615d577a63f92f3bdea58bbdbcfe3c9010cdad5845fac680",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HoloLewd-7B-GGUF/resolve/main/HoloLewd-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "HoloLewd-7B.Q3_K_M.gguf",
+            "size": "3673609984",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "3eade5ac9b240c02b28c105fe90973c38bae0dd897168f3c77eb708a838af27a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HoloLewd-7B-GGUF/resolve/main/HoloLewd-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "HoloLewd-7B.Q3_K_S.gguf",
+            "size": "3319191296",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "912bacdcc2a5708287da7959254df06902b1cf0759ecd52c99ad03292469f285",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HoloLewd-7B-GGUF/resolve/main/HoloLewd-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "HoloLewd-7B.Q4_0.gguf",
+            "size": "4263540480",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "966210e44d5fc06642768f12ad5c915f735d89583879b51da2dda716b5b9131f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HoloLewd-7B-GGUF/resolve/main/HoloLewd-7B.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "HoloLewd-7B.Q4_K_M.gguf",
+            "size": "4523063040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "45c8c0034171de01320f4a7d2d8476471fcabb62fc8a3cbbe27c4d792657a9b6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HoloLewd-7B-GGUF/resolve/main/HoloLewd-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "HoloLewd-7B.Q4_K_S.gguf",
+            "size": "4294997760",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "876cf6c69d75a33797551ecf8d8b641d29dc63b1c3cdd6b7dc09680b0ee4ba8a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HoloLewd-7B-GGUF/resolve/main/HoloLewd-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "HoloLewd-7B.Q5_K_M.gguf",
+            "size": "5286033152",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "4e1f06923c96aace9086b025a7cc8df8318b71b2631532c5043a6bde07ab878d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HoloLewd-7B-GGUF/resolve/main/HoloLewd-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "HoloLewd-7B.Q5_K_S.gguf",
+            "size": "5152339712",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "6aefb4fd8219582819b0d2da38a5b663be5dd472446458572f045b13a985a422",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HoloLewd-7B-GGUF/resolve/main/HoloLewd-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "HoloLewd-7B.Q6_K.gguf",
+            "size": "6096688896",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "e0916131ddf96b0ea1fa5dde9d09b364de846b535fa7fdaddfb0f5375cfdb4f5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HoloLewd-7B-GGUF/resolve/main/HoloLewd-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "HoloLewd-7B.Q8_0.gguf",
+            "size": "7818737408",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "7f9d1ece93436c56369d3597d67bf6f57d32509ecc99a5c4494bcc59db5d20a5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HoloLewd-7B-GGUF/resolve/main/HoloLewd-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

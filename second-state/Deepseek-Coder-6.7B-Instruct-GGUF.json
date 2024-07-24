@@ -1,0 +1,143 @@
+{
+    "id": "second-state/Deepseek-Coder-6.7B-Instruct-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-01T13:43:23Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "deepseek-coder-6.7b-instruct-Q2_K.gguf",
+            "size": "2534630336",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "342bfc01b7028fca291ab90e331127fab4cad78afdcbb5e1f9936a406d4841ad",
+            "download": {
+                "default": "https://huggingface.co/second-state/Deepseek-Coder-6.7B-Instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-6.7b-instruct-Q3_K_L.gguf",
+            "size": "3598984128",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "e874f82b7e38ccc2914fbd680149c8bde7c719d3c038abe750dfb48ad2fb0ddc",
+            "download": {
+                "default": "https://huggingface.co/second-state/Deepseek-Coder-6.7B-Instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-6.7b-instruct-Q3_K_M.gguf",
+            "size": "3299877824",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "83c29200bc472a881cc4d65a4aa7ba7dfd6284043e7b7b3eb4f9078d78b32339",
+            "download": {
+                "default": "https://huggingface.co/second-state/Deepseek-Coder-6.7B-Instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-6.7b-instruct-Q3_K_S.gguf",
+            "size": "2950177728",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "8119adb94c689fbfdc8e542ef39e73692f42af1a0ab01aa12c2bbae90ac3d868",
+            "download": {
+                "default": "https://huggingface.co/second-state/Deepseek-Coder-6.7B-Instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-6.7b-instruct-Q4_0.gguf",
+            "size": "3827819456",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "3f61183151ec77900b595c52075e26cb1e185f5140ccc2fa09d4f588f65a91bc",
+            "download": {
+                "default": "https://huggingface.co/second-state/Deepseek-Coder-6.7B-Instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-6.7b-instruct-Q4_K_M.gguf",
+            "size": "4083016640",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "786e1d90ef74d3555cfbc9bb8ea5352e308b757a152b9fbd4f1f4380a877af0a",
+            "download": {
+                "default": "https://huggingface.co/second-state/Deepseek-Coder-6.7B-Instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-6.7b-instruct-Q4_K_S.gguf",
+            "size": "3858752448",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "c3b78bc5ab63bc961508c849d68d45f45f0054120b67ce3faf417c6bb1dd3593",
+            "download": {
+                "default": "https://huggingface.co/second-state/Deepseek-Coder-6.7B-Instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-6.7b-instruct-Q5_0.gguf",
+            "size": "4653835200",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "d0b7729ec3f595b0ca7ba5e2ca4c56398c4d2d27feb035f147b471a26b88faa4",
+            "download": {
+                "default": "https://huggingface.co/second-state/Deepseek-Coder-6.7B-Instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-6.7b-instruct-Q5_K_M.gguf",
+            "size": "4785300416",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "81c6fb56729ca9f95a73edd23ad58b4e64a27b53d0171a03716690b4bed8b2fc",
+            "download": {
+                "default": "https://huggingface.co/second-state/Deepseek-Coder-6.7B-Instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-6.7b-instruct-Q5_K_S.gguf",
+            "size": "4653835200",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "fcba13914281120b8348ec66520d299ec410825a79efb6bcbffaa982e94547bf",
+            "download": {
+                "default": "https://huggingface.co/second-state/Deepseek-Coder-6.7B-Instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-6.7b-instruct-Q6_K.gguf",
+            "size": "5531476928",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "6ce63db9906bcda9370f06006490c04662329dd958db6ebdda1f24b5ed0f32b0",
+            "download": {
+                "default": "https://huggingface.co/second-state/Deepseek-Coder-6.7B-Instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-6.7b-instruct-Q8_0.gguf",
+            "size": "7163880384",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "3740dc08d61a3483f4c29fcd48c254cc29697ac1c9eafd4f2ea9edca039c4ebc",
+            "download": {
+                "default": "https://huggingface.co/second-state/Deepseek-Coder-6.7B-Instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 4096,
+    "vector_size": 0,
+    "metrics": {}
+}

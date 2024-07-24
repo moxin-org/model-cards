@@ -1,0 +1,43 @@
+{
+    "id": "mlabonne/NeuralMarcoro14-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mlabonne",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-07T16:18:35Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "neuralmarcoro14-7b.Q4_K_M.gguf",
+            "size": "4369375232",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "dc3251b880ea2df71fe98f04013b06548574359c7a60ff354bac9a5208578388",
+            "download": {
+                "default": "https://huggingface.co/mlabonne/NeuralMarcoro14-7B-GGUF/resolve/main/neuralmarcoro14-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "neuralmarcoro14-7b.Q5_K_M.gguf",
+            "size": "5132345344",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "932dc383e9f2704202c29738fad20a8c9138c10b23cb8161a065090621e66d25",
+            "download": {
+                "default": "https://huggingface.co/mlabonne/NeuralMarcoro14-7B-GGUF/resolve/main/neuralmarcoro14-7b.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

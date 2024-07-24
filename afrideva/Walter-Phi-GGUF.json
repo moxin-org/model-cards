@@ -1,0 +1,93 @@
+{
+    "id": "afrideva/Walter-Phi-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-17T17:32:09Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "walter-phi.fp16.gguf",
+            "size": "2832102880",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ec625a3929f6f757053368f23130fc830f198a28cc990e2be2e49a28c7deece4",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Walter-Phi-GGUF/resolve/main/walter-phi.fp16.gguf"
+            }
+        },
+        {
+            "name": "walter-phi.q2_k.gguf",
+            "size": "580164448",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d281ba39164096bdfcd8780f1287dcbf64f4520c73d519f09ecaf60a51aea820",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Walter-Phi-GGUF/resolve/main/walter-phi.q2_k.gguf"
+            }
+        },
+        {
+            "name": "walter-phi.q3_k_m.gguf",
+            "size": "739523616",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4a403317c1e2c3c65f561da1f86e8b9c67c4f23d1ba465548f8c00c41b0d1d67",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Walter-Phi-GGUF/resolve/main/walter-phi.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "walter-phi.q4_k_m.gguf",
+            "size": "890960512",
+            "quantization": "",
+            "tags": [],
+            "sha256": "752248b37c3e6608193f9b213618fba35e15932f938ac49967fb4a171006bae7",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Walter-Phi-GGUF/resolve/main/walter-phi.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "walter-phi.q5_k_m.gguf",
+            "size": "1023373696",
+            "quantization": "",
+            "tags": [],
+            "sha256": "84692ebc536dd380b8e8f41ce22ebfb92a67895df431a12c34954b9ded1c2ce2",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Walter-Phi-GGUF/resolve/main/walter-phi.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "walter-phi.q6_k.gguf",
+            "size": "1164062720",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c1bfe75ef936070e3e9ff365c137aab582ca8410b6973eeef651e825cd9ebfe8",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Walter-Phi-GGUF/resolve/main/walter-phi.q6_k.gguf"
+            }
+        },
+        {
+            "name": "walter-phi.q8_0.gguf",
+            "size": "1506508032",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b682617011c47c6472e9c979a8b31a134eaf5cc893946a6f8339fc5131db2c78",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Walter-Phi-GGUF/resolve/main/walter-phi.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

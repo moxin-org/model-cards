@@ -1,0 +1,43 @@
+{
+    "id": "ozayezerceli/TinyLama-1.1b-CypherGen-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "ozayezerceli",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-21T22:13:45Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tinylama-1.1b-cyphergen.Q4_K_M.gguf",
+            "size": "667814880",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "2fa81704a97479a6d2767983e591e438563088aec4e70e07b3642bc7d2f5e5ee",
+            "download": {
+                "default": "https://huggingface.co/ozayezerceli/TinyLama-1.1b-CypherGen-GGUF/resolve/main/tinylama-1.1b-cyphergen.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "tinylama-1.1b-cyphergen.Q5_K_M.gguf",
+            "size": "782044128",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "4198f7dc83f7c2e8138b689981e2bdc3b35c4777968ef6f475941e750c60b151",
+            "download": {
+                "default": "https://huggingface.co/ozayezerceli/TinyLama-1.1b-CypherGen-GGUF/resolve/main/tinylama-1.1b-cyphergen.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

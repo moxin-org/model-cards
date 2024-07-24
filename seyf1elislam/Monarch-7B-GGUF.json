@@ -1,0 +1,63 @@
+{
+    "id": "seyf1elislam/Monarch-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "seyf1elislam",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-06T01:36:39Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "monarch-7b.Q4_K_M.gguf",
+            "size": "4368438912",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "0ebc92e8b379a184c0a3cf7b960cd7050f18399c36a9acf9a33611b7fc6e225d",
+            "download": {
+                "default": "https://huggingface.co/seyf1elislam/Monarch-7B-GGUF/resolve/main/monarch-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "monarch-7b.Q5_K_M.gguf",
+            "size": "5131409024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "8600a738ce296eaaaff0f36e10209f27c4a74aa2075eb73f9615f9d4cc604a40",
+            "download": {
+                "default": "https://huggingface.co/seyf1elislam/Monarch-7B-GGUF/resolve/main/monarch-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "monarch-7b.Q6_K.gguf",
+            "size": "5942064768",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "df85a6c9ab1ec1e058e5cc7019473a273b8e5881e54fe5ac05e05cbff78c1022",
+            "download": {
+                "default": "https://huggingface.co/seyf1elislam/Monarch-7B-GGUF/resolve/main/monarch-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "monarch-7b.Q8_0.gguf",
+            "size": "7695857280",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "808ebb691afd4c5672d7cd0b8ccaa100d9de078a0a4e0df0489d4825d963e291",
+            "download": {
+                "default": "https://huggingface.co/seyf1elislam/Monarch-7B-GGUF/resolve/main/monarch-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

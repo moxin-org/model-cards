@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/FrankenMonarch-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-19T21:19:49Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "FrankenMonarch-7B.IQ3_M.gguf",
+            "size": "4999674240",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "099c22867bc4bba1d55bd0a857b4d26948f59fcb2ea378ae791712d80d4e843c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/FrankenMonarch-7B-GGUF/resolve/main/FrankenMonarch-7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "FrankenMonarch-7B.IQ3_S.gguf",
+            "size": "4845926784",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "a12ade63ac815b8dd9b945e3e39bf24673562a9f0fa2c74222c17596411dd54b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/FrankenMonarch-7B-GGUF/resolve/main/FrankenMonarch-7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "FrankenMonarch-7B.IQ3_XS.gguf",
+            "size": "4573821312",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "0e2eb9c27a03f65e110452fe7ef62a1a49b01e7a33aff2072b5ebeaf2c61c6f6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/FrankenMonarch-7B-GGUF/resolve/main/FrankenMonarch-7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "FrankenMonarch-7B.IQ4_XS.gguf",
+            "size": "5982263680",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "e6b453faad86e0911f41ffb8dcb0fd36d3cba02004635ddb851c798162d68a65",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/FrankenMonarch-7B-GGUF/resolve/main/FrankenMonarch-7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "FrankenMonarch-7B.Q2_K.gguf",
+            "size": "4157856128",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "fced71f591573ff8f34178a216432dd378d3573a21d4823cc60bc6df6137897c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/FrankenMonarch-7B-GGUF/resolve/main/FrankenMonarch-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "FrankenMonarch-7B.Q3_K_L.gguf",
+            "size": "5805373824",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "a9e9c89dafc99e9a85a18c50b27a34f6bc6f14af25c78b93be3cec57c2ae33c8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/FrankenMonarch-7B-GGUF/resolve/main/FrankenMonarch-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "FrankenMonarch-7B.Q3_K_M.gguf",
+            "size": "5350291840",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "343c30c9207fa2f1c481833448dc6b99e0028b8ac6ab40f76793eadcf93190b8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/FrankenMonarch-7B-GGUF/resolve/main/FrankenMonarch-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "FrankenMonarch-7B.Q3_K_S.gguf",
+            "size": "4819188096",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "dfb6570fbb0f071b84a527d3769c4f892aa3e9e469e214257d9ed65e6c827db8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/FrankenMonarch-7B-GGUF/resolve/main/FrankenMonarch-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "FrankenMonarch-7B.Q4_K_M.gguf",
+            "size": "6616291712",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "58900ba299168b7aca9dabd79837e7345bf5bdf5e5f53e5a337a38d809dbb34f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/FrankenMonarch-7B-GGUF/resolve/main/FrankenMonarch-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "FrankenMonarch-7B.Q4_K_S.gguf",
+            "size": "6273145216",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "d691427bc52d29b3aa22353d3be18326f546588738284c9c3cc0554e26333b6f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/FrankenMonarch-7B-GGUF/resolve/main/FrankenMonarch-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "FrankenMonarch-7B.Q5_K_M.gguf",
+            "size": "7752554880",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "592a7fb4883d7c6e92030ff4b0cb96e926a0b94af51c3ae7360841cd84ff9856",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/FrankenMonarch-7B-GGUF/resolve/main/FrankenMonarch-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "FrankenMonarch-7B.Q5_K_S.gguf",
+            "size": "7552014720",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "92a6a3302c41e29026f9c5c2cb869531bd4f05a0d163c6bca043b637e9791742",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/FrankenMonarch-7B-GGUF/resolve/main/FrankenMonarch-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "FrankenMonarch-7B.Q6_K.gguf",
+            "size": "8959834496",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "6bdb679267a3ce3d276058bf3a0eeb9480dc050fb6fdc2c780f9533acf7f886f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/FrankenMonarch-7B-GGUF/resolve/main/FrankenMonarch-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "FrankenMonarch-7B.Q8_0.gguf",
+            "size": "11527035264",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "e9f1ccd4b0108dc007b4923297b6ab73eec4113321b993f9abe31643839e10fb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/FrankenMonarch-7B-GGUF/resolve/main/FrankenMonarch-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

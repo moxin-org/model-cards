@@ -1,0 +1,73 @@
+{
+    "id": "Sao10K/HACM7-Mistral-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Sao10K",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-17T04:50:07Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "HACM7-Mistral-7B.q3_K_S.gguf",
+            "size": "3164567168",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9b5ac5192aca71f42e8905cd5b7bd63fe7187adfb756fd4640201abf002e1dee",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/HACM7-Mistral-7B-GGUF/resolve/main/HACM7-Mistral-7B.q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "HACM7-Mistral-7B.q4_K_M.gguf",
+            "size": "4368438912",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3d583b3a2407978d402ce71e6bf385aa1eab9e835cbc48baf55ed76948439446",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/HACM7-Mistral-7B-GGUF/resolve/main/HACM7-Mistral-7B.q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "HACM7-Mistral-7B.q5_K_M.gguf",
+            "size": "5131409024",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5b8cc8794bd950f1c785194bcd65644ce8e377094cf6ec6a9acc288b6979132a",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/HACM7-Mistral-7B-GGUF/resolve/main/HACM7-Mistral-7B.q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "HACM7-Mistral-7B.q6_K.gguf",
+            "size": "5942064768",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a217a6f4be386abe34e3af6bd952da58a26acd389c8ddb9cf3976abd3a071c5c",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/HACM7-Mistral-7B-GGUF/resolve/main/HACM7-Mistral-7B.q6_K.gguf"
+            }
+        },
+        {
+            "name": "HACM7-Mistral-7B.q8_0.gguf",
+            "size": "7695857280",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2c240fd6b6efb8019a5f7e634d9f94df0799f83af39e5e78a13daefc45abb307",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/HACM7-Mistral-7B-GGUF/resolve/main/HACM7-Mistral-7B.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

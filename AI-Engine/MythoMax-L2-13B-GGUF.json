@@ -1,0 +1,53 @@
+{
+    "id": "AI-Engine/MythoMax-L2-13B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "AI-Engine",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-24T17:53:57Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "MythoMax-L2-13B.Q2_K.gguf",
+            "size": "5429348224",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "c594b8728b61fe7527e3de079b140c21f9baaa1ad33b5896448ed22f825c5691",
+            "download": {
+                "default": "https://huggingface.co/AI-Engine/MythoMax-L2-13B-GGUF/resolve/main/MythoMax-L2-13B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "MythoMax-L2-13B.Q5_K_M.gguf",
+            "size": "9229924224",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "46ee3da6ceed644cdfbc71036fbeab72895044d94bcd95891406d9ea09fa7f20",
+            "download": {
+                "default": "https://huggingface.co/AI-Engine/MythoMax-L2-13B-GGUF/resolve/main/MythoMax-L2-13B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "MythoMax-L2-13B.Q8_0.gguf",
+            "size": "13831319424",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "8746ad01d9ae7c5d1b5490198f51843b83a444a75bebd5d1afd744cab35e0b76",
+            "download": {
+                "default": "https://huggingface.co/AI-Engine/MythoMax-L2-13B-GGUF/resolve/main/MythoMax-L2-13B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

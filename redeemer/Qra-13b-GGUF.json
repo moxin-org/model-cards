@@ -1,0 +1,103 @@
+{
+    "id": "redeemer/Qra-13b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "redeemer",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-10T11:33:57Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Qra-13b_IQ3_XS.gguf",
+            "size": "5361610816",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "c2c4e4124c264f0dd8ee6cb4d604222709c7e5774515119030ec4721c0735a3e",
+            "download": {
+                "default": "https://huggingface.co/redeemer/Qra-13b-GGUF/resolve/main/Qra-13b_IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Qra-13b_IQ4_NL.gguf",
+            "size": "7410071616",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "376131d84d0e27dc695463cbdfff47fbea0338fa5a77b68748310f0468c6e629",
+            "download": {
+                "default": "https://huggingface.co/redeemer/Qra-13b-GGUF/resolve/main/Qra-13b_IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Qra-13b_IQ4_XS.gguf",
+            "size": "7019518016",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "2676f63294135707a5ccbf7b19bc30b6ac4f2a3b1a5a2ec5dadb439494b9df07",
+            "download": {
+                "default": "https://huggingface.co/redeemer/Qra-13b-GGUF/resolve/main/Qra-13b_IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Qra-13b_Q3_K_M.gguf",
+            "size": "6337769536",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "3a889c5e44c8968d698b374c04c2dd97aff164ba3cf0643b680501572e7cb566",
+            "download": {
+                "default": "https://huggingface.co/redeemer/Qra-13b-GGUF/resolve/main/Qra-13b_Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Qra-13b_Q4_K_M.gguf",
+            "size": "7865956416",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "39278f42997f9dfb2f44cccd12aacf8496a11c931d6e3c2ccd4cc8431ffe627b",
+            "download": {
+                "default": "https://huggingface.co/redeemer/Qra-13b-GGUF/resolve/main/Qra-13b_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Qra-13b_Q5_K_M.gguf",
+            "size": "9229924416",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "695dea2610f3ebf00b846c30117398e9202f2f2a2f9c9696f15cd2bef16c09b9",
+            "download": {
+                "default": "https://huggingface.co/redeemer/Qra-13b-GGUF/resolve/main/Qra-13b_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Qra-13b_Q6_K.gguf",
+            "size": "10679140416",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "10233f5e6e490412803f384c88010b7c1a08a7bd1d724fc8c82c8748ed097743",
+            "download": {
+                "default": "https://huggingface.co/redeemer/Qra-13b-GGUF/resolve/main/Qra-13b_Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Qra-13b_Q8_0.gguf",
+            "size": "13831319616",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "269ead8a9b16b3ca11e49074e90fb4d1882552e7de5ee43ca69b891714f010f7",
+            "download": {
+                "default": "https://huggingface.co/redeemer/Qra-13b-GGUF/resolve/main/Qra-13b_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

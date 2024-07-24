@@ -1,0 +1,53 @@
+{
+    "id": "Aryanne/MommyGPT-3B-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Aryanne",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-14T01:36:34Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "q4_0-mommygpt-3b.gguf",
+            "size": "1979939840",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5c699ea6c5fcc9950bff1105ab424e8ff1ad2868e98a709e2f9e3e023e4c68e7",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/MommyGPT-3B-gguf/resolve/main/q4_0-mommygpt-3b.gguf"
+            }
+        },
+        {
+            "name": "q4_1-mommygpt-3b.gguf",
+            "size": "2187684448",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ded31366bcbd8b64a35489a888791f31f840326f365c05f6903218b08d1fdf46",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/MommyGPT-3B-gguf/resolve/main/q4_1-mommygpt-3b.gguf"
+            }
+        },
+        {
+            "name": "q5_0-mommygpt-3b.gguf",
+            "size": "2395429056",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ede4e967b3fd6e8bc9e0a8721478ecdd9b0f92e42f9368225279360b561c4c16",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/MommyGPT-3B-gguf/resolve/main/q5_0-mommygpt-3b.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

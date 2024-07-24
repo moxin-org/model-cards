@@ -1,0 +1,53 @@
+{
+    "id": "Azazelle/Tippy-Toppy-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Azazelle",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-04T18:35:13Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Tippy-Toppy-7b-Q4_K_S.gguf",
+            "size": "4141310016",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "173077d718ac44b48fe7a63ab9bcc7bea7809b9da2b23ebd38f9a508b3f3e1c9",
+            "download": {
+                "default": "https://huggingface.co/Azazelle/Tippy-Toppy-7b-GGUF/resolve/main/Tippy-Toppy-7b-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Tippy-Toppy-7b-Q5_K_M.gguf",
+            "size": "5132345408",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "219f7d86c4cb8de434e9eb5b3d512039843276f0321f3fa0022f2c6cb2054d59",
+            "download": {
+                "default": "https://huggingface.co/Azazelle/Tippy-Toppy-7b-GGUF/resolve/main/Tippy-Toppy-7b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Tippy-Toppy-7b.gguf",
+            "size": "14485667872",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6dfff0b55c83c842dc94312da6c4045f1a380f847c4bf6353258151c795c5406",
+            "download": {
+                "default": "https://huggingface.co/Azazelle/Tippy-Toppy-7b-GGUF/resolve/main/Tippy-Toppy-7b.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

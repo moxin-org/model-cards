@@ -1,0 +1,93 @@
+{
+    "id": "afrideva/gpt2-small-danish-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-28T19:26:35Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "gpt2-small-danish.fp16.gguf",
+            "size": "328205088",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5fc8d4066fa9197e344c322780fb941385a306c03772c86936049e59bf6031a6",
+            "download": {
+                "default": "https://huggingface.co/afrideva/gpt2-small-danish-GGUF/resolve/main/gpt2-small-danish.fp16.gguf"
+            }
+        },
+        {
+            "name": "gpt2-small-danish.q2_k.gguf",
+            "size": "81297024",
+            "quantization": "",
+            "tags": [],
+            "sha256": "be1af882dbe4786419ce518a9ce403a4604ec0356e7c57b5be42bf2062ca3a48",
+            "download": {
+                "default": "https://huggingface.co/afrideva/gpt2-small-danish-GGUF/resolve/main/gpt2-small-danish.q2_k.gguf"
+            }
+        },
+        {
+            "name": "gpt2-small-danish.q3_k_m.gguf",
+            "size": "95563584",
+            "quantization": "",
+            "tags": [],
+            "sha256": "685d1e1b3a7eb2d1b3894fdabea3fa84493dd30584b50c4bddb9a00c4c39d38d",
+            "download": {
+                "default": "https://huggingface.co/afrideva/gpt2-small-danish-GGUF/resolve/main/gpt2-small-danish.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "gpt2-small-danish.q4_k_m.gguf",
+            "size": "110268288",
+            "quantization": "",
+            "tags": [],
+            "sha256": "de01db2ec4742b1b52900255879ee6c41abefccecdff39f7ea677aeb560a6c95",
+            "download": {
+                "default": "https://huggingface.co/afrideva/gpt2-small-danish-GGUF/resolve/main/gpt2-small-danish.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "gpt2-small-danish.q5_k_m.gguf",
+            "size": "124204512",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e927fe29565adeb29b424b807ade88f83013fc6f37aacae3954a75f5b83b3543",
+            "download": {
+                "default": "https://huggingface.co/afrideva/gpt2-small-danish-GGUF/resolve/main/gpt2-small-danish.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "gpt2-small-danish.q6_k.gguf",
+            "size": "136015392",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9d675e17a6f3999d75e93669b3195f0054c31b70e834ea6cc6a1da3bcbd6d6c5",
+            "download": {
+                "default": "https://huggingface.co/afrideva/gpt2-small-danish-GGUF/resolve/main/gpt2-small-danish.q6_k.gguf"
+            }
+        },
+        {
+            "name": "gpt2-small-danish.q8_0.gguf",
+            "size": "175471584",
+            "quantization": "",
+            "tags": [],
+            "sha256": "42ce5d3527aa5cabb195cfa81d4735e41e5487debc282fbed2d7c1b8ffddc1cc",
+            "download": {
+                "default": "https://huggingface.co/afrideva/gpt2-small-danish-GGUF/resolve/main/gpt2-small-danish.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

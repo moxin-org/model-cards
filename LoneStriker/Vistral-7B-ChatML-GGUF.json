@@ -1,0 +1,113 @@
+{
+    "id": "LoneStriker/Vistral-7B-ChatML-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LoneStriker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-13T14:58:49Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Vistral-7B-ChatML-Q3_K_L.gguf",
+            "size": "3854781984",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "1ab6a751d538ec035bceaf88e2c68d9df217d7d8836747ef47f3f1bf2d8da88f",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Vistral-7B-ChatML-GGUF/resolve/main/Vistral-7B-ChatML-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Vistral-7B-ChatML-Q3_K_M.gguf",
+            "size": "3551743520",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "f57fff05385a79ddce9154f4589973cbb437ed0ff17dea8b92f1ac1f174978c3",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Vistral-7B-ChatML-GGUF/resolve/main/Vistral-7B-ChatML-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Vistral-7B-ChatML-Q3_K_S.gguf",
+            "size": "3197324832",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "b61fd10da1e28641b20cd78ab7e25ddf5b93a2259ee1895027988293460b9cb0",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Vistral-7B-ChatML-GGUF/resolve/main/Vistral-7B-ChatML-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Vistral-7B-ChatML-Q4_K_M.gguf",
+            "size": "4404661312",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "cdca9c4f26ae61dbd453524bdd71f8f0c03b1a71ba8d2caee219efee146dc010",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Vistral-7B-ChatML-GGUF/resolve/main/Vistral-7B-ChatML-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Vistral-7B-ChatML-Q4_K_S.gguf",
+            "size": "4176596032",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "306fa0ffd9ae67b1c57a04c9335f011cf8d0f6929f5b3798f119a6d16bcbed94",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Vistral-7B-ChatML-GGUF/resolve/main/Vistral-7B-ChatML-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Vistral-7B-ChatML-Q5_K_M.gguf",
+            "size": "5170892352",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "21605ad7f2077e91d346779d36eeaf854adc13924b7ac822b9435b8ddb028b8b",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Vistral-7B-ChatML-GGUF/resolve/main/Vistral-7B-ChatML-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Vistral-7B-ChatML-Q5_K_S.gguf",
+            "size": "5037198912",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "fff2be0f87c5a8a419d78dd0d8a4ca3fb5f06b3a40b0a5fccd7d068507ecaa96",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Vistral-7B-ChatML-GGUF/resolve/main/Vistral-7B-ChatML-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Vistral-7B-ChatML-Q6_K.gguf",
+            "size": "5985012832",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "9f0d076da5edddfa8e4ec3d27c15245ae2bf24b9256eceb18e383142e5339d31",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Vistral-7B-ChatML-GGUF/resolve/main/Vistral-7B-ChatML-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Vistral-7B-ChatML-Q8_0.gguf",
+            "size": "7751441440",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "560de40a3daddc551331d1fdf21b6c94b0ed31877d3ce360c6feb839186e02e6",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Vistral-7B-ChatML-GGUF/resolve/main/Vistral-7B-ChatML-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

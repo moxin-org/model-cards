@@ -1,0 +1,73 @@
+{
+    "id": "Dracones/Midnight-Miqu-103B-v1.0-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Dracones",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-06T15:41:48Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Midnight-Miqu-103B-v1.0-IQ3_XXS.gguf",
+            "size": "42024553216",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "8a5a95644899cc16b3d1aa8f9b3a7f9af0464c51cadfdd02f1a6549bd8e176e5",
+            "download": {
+                "default": "https://huggingface.co/Dracones/Midnight-Miqu-103B-v1.0-GGUF/resolve/main/Midnight-Miqu-103B-v1.0-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "Midnight-Miqu-103B-v1.0-Q2_K.gguf",
+            "size": "37916920576",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "dd1750e08a36a4645f6fd63e7528695f56d85f37930e0cb587735221cc018d62",
+            "download": {
+                "default": "https://huggingface.co/Dracones/Midnight-Miqu-103B-v1.0-GGUF/resolve/main/Midnight-Miqu-103B-v1.0-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Midnight-Miqu-103B-v1.0-Q3_K_M.gguf",
+            "size": "49609476864",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "a4114d5876da76efd8e6997b0e79ba06ee4d6813efd28a69532f433de08e162b",
+            "download": {
+                "default": "https://huggingface.co/Dracones/Midnight-Miqu-103B-v1.0-GGUF/resolve/main/Midnight-Miqu-103B-v1.0-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Midnight-Miqu-103B-v1.0-Q3_K_S.gguf",
+            "size": "44455201536",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "b1c1bbc7bb1400c51340562877023a726192ef57fea0dc1d10490c4a4f1c6408",
+            "download": {
+                "default": "https://huggingface.co/Dracones/Midnight-Miqu-103B-v1.0-GGUF/resolve/main/Midnight-Miqu-103B-v1.0-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Midnight-Miqu-103B-v1.0-Q3_K_XS.gguf",
+            "size": "41958279936",
+            "quantization": "Q3_K_XS",
+            "tags": [],
+            "sha256": "de4760e06a2032c9020dbf4424326a92ae309711e86a3edcc5753479fcc1df67",
+            "download": {
+                "default": "https://huggingface.co/Dracones/Midnight-Miqu-103B-v1.0-GGUF/resolve/main/Midnight-Miqu-103B-v1.0-Q3_K_XS.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

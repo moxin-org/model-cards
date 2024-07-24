@@ -1,0 +1,73 @@
+{
+    "id": "l3utterfly/Qwen1.5-1.8B-layla-v4-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "l3utterfly",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-02T09:12:22Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Qwen1.5-1.8B-layla-v4-f16.gguf",
+            "size": "3680098208",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f098b3e666400cd2594fcbefbc741ae8669f63d8de6906ff6b5d7859c92921d8",
+            "download": {
+                "default": "https://huggingface.co/l3utterfly/Qwen1.5-1.8B-layla-v4-gguf/resolve/main/Qwen1.5-1.8B-layla-v4-f16.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-1.8B-layla-v4-Q4_K.gguf",
+            "size": "1217753024",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "c469bebcef578e899466f0e4aca55e2ae12e3be2a4053d3047d2dde2130fc18e",
+            "download": {
+                "default": "https://huggingface.co/l3utterfly/Qwen1.5-1.8B-layla-v4-gguf/resolve/main/Qwen1.5-1.8B-layla-v4-Q4_K.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-1.8B-layla-v4-Q5_K.gguf",
+            "size": "1376776128",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "e192bafcf5c0f96bb7cfdaf08e14f56da1d9fcb1193c7536f168bcb2fdf7bc97",
+            "download": {
+                "default": "https://huggingface.co/l3utterfly/Qwen1.5-1.8B-layla-v4-gguf/resolve/main/Qwen1.5-1.8B-layla-v4-Q5_K.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-1.8B-layla-v4-Q6_K.gguf",
+            "size": "1579026368",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "be0fd02d9e2ea766ec33a73216270eb1678eaae25dc27a088303fe14fefe9a79",
+            "download": {
+                "default": "https://huggingface.co/l3utterfly/Qwen1.5-1.8B-layla-v4-gguf/resolve/main/Qwen1.5-1.8B-layla-v4-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-1.8B-layla-v4-Q8_0.gguf",
+            "size": "1958303680",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "28ebd07aaa2b299d54e5b51849b294d6c4938a0cfa24d247ac6e157adfe6ae5f",
+            "download": {
+                "default": "https://huggingface.co/l3utterfly/Qwen1.5-1.8B-layla-v4-gguf/resolve/main/Qwen1.5-1.8B-layla-v4-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

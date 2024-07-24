@@ -1,0 +1,53 @@
+{
+    "id": "NeverSleep/CausalLM-RP-34B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "NeverSleep",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-24T13:37:48Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "CausalLM-RP-34B.q4_k_m.gguf",
+            "size": "20658710784",
+            "quantization": "",
+            "tags": [],
+            "sha256": "07ff6202f674bddb6c51ca78ab5d0cb5cea0fcc7d8680f251a82fd057c8d040a",
+            "download": {
+                "default": "https://huggingface.co/NeverSleep/CausalLM-RP-34B-GGUF/resolve/main/CausalLM-RP-34B.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "CausalLM-RP-34B.q5_k_m.gguf",
+            "size": "24321845504",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ebbb249afade3ce1e5fbcf7106272ec49dea0608de4980d861712f6e7f0ca9e4",
+            "download": {
+                "default": "https://huggingface.co/NeverSleep/CausalLM-RP-34B-GGUF/resolve/main/CausalLM-RP-34B.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "CausalLM-RP-34B.q8_0.gguf",
+            "size": "36542281984",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f1884cbc766e33b9e3b48138cc784a6dd55eb3f56fead6c1168de7de1bc60412",
+            "download": {
+                "default": "https://huggingface.co/NeverSleep/CausalLM-RP-34B-GGUF/resolve/main/CausalLM-RP-34B.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,183 @@
+{
+    "id": "bartowski/Tess-7B-v2.0-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bartowski",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-25T23:05:23Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Tess-7B-v2.0-IQ3_M.gguf",
+            "size": "3284891936",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "e66f36b5338cc43c666b4021dfab18ee8dff3fc315d519e5f39467eeced29623",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-7B-v2.0-GGUF/resolve/main/Tess-7B-v2.0-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Tess-7B-v2.0-IQ3_S.gguf",
+            "size": "3182393632",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "69b5c9cd9ea16a9ba186460c048811cdaaaa418666249b1ffa5b6e36167d939b",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-7B-v2.0-GGUF/resolve/main/Tess-7B-v2.0-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Tess-7B-v2.0-IQ4_NL.gguf",
+            "size": "4155054368",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "05f0a587aba80f335cb476d5e8ecf2f1b301693589028e5ed0cd327eed08e8a1",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-7B-v2.0-GGUF/resolve/main/Tess-7B-v2.0-IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Tess-7B-v2.0-IQ4_XS.gguf",
+            "size": "3944388896",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "35c97763ed2f4978b1cf53e282fdf6725e5709b5e39e7f347d732375d04884d0",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-7B-v2.0-GGUF/resolve/main/Tess-7B-v2.0-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Tess-7B-v2.0-Q2_K.gguf",
+            "size": "2719242528",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "ed490e50841dc9ad7bac8e6b0f663fdd06ecf5c2f693e3e5ac243f6b25bed7cd",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-7B-v2.0-GGUF/resolve/main/Tess-7B-v2.0-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Tess-7B-v2.0-Q3_K_L.gguf",
+            "size": "3822024992",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "590958788a8e46d12a5fbba183b1a7444bce6c52518db6874dcce1e8c778264f",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-7B-v2.0-GGUF/resolve/main/Tess-7B-v2.0-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Tess-7B-v2.0-Q3_K_M.gguf",
+            "size": "3518986528",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "c558f96b8d774fcb0e1e5a479ca922ac36462f9345d5f4498166f96cf0a64946",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-7B-v2.0-GGUF/resolve/main/Tess-7B-v2.0-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Tess-7B-v2.0-Q3_K_S.gguf",
+            "size": "3164567840",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "f080a3e73c12bd58e95f5c9c62801f0f64298a5568cf5de51f8f359ad3b83225",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-7B-v2.0-GGUF/resolve/main/Tess-7B-v2.0-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Tess-7B-v2.0-Q4_0.gguf",
+            "size": "4108917024",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "8f46fd90a84dda8bad39fbe7383a740cabb9ed8014942329c695cff614f023f3",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-7B-v2.0-GGUF/resolve/main/Tess-7B-v2.0-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Tess-7B-v2.0-Q4_K_M.gguf",
+            "size": "4368439584",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "dd63bda362e8b40c3f00e484334e431f06761b4b7559cec59298cf012fac837b",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-7B-v2.0-GGUF/resolve/main/Tess-7B-v2.0-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Tess-7B-v2.0-Q4_K_S.gguf",
+            "size": "4140374304",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "59a0cc5a9fa45d50e58f98c5ea0068768175c772af20084aeb8601125cb1413d",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-7B-v2.0-GGUF/resolve/main/Tess-7B-v2.0-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Tess-7B-v2.0-Q5_0.gguf",
+            "size": "4997716256",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "0ef681bb7bd7c1d5255d1bfc31f95da33e0efbb311fa35806920795fbb20ec63",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-7B-v2.0-GGUF/resolve/main/Tess-7B-v2.0-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Tess-7B-v2.0-Q5_K_M.gguf",
+            "size": "5131409696",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "c0d22409ef1537faf0692b9eddd5ddf3a377d18a39b497c1174afed9f1046151",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-7B-v2.0-GGUF/resolve/main/Tess-7B-v2.0-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Tess-7B-v2.0-Q5_K_S.gguf",
+            "size": "4997716256",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "ba3c47c851241d0421b3fe1d253389d235f5684678ec5ea13db6fdba156cbe1a",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-7B-v2.0-GGUF/resolve/main/Tess-7B-v2.0-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Tess-7B-v2.0-Q6_K.gguf",
+            "size": "5942065440",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b21eedb539178cdc7f11a548c601b09b981904cdc79d5bee679fccd18943344f",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-7B-v2.0-GGUF/resolve/main/Tess-7B-v2.0-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Tess-7B-v2.0-Q8_0.gguf",
+            "size": "7695857952",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "c3dc282ab51fb96fb34e4fd5e6379182842b2159da65b1f8bdeed214f027570c",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-7B-v2.0-GGUF/resolve/main/Tess-7B-v2.0-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

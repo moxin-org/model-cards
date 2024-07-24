@@ -1,0 +1,103 @@
+{
+    "id": "koesn/Dolphin-2.8-Experiment26-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "koesn",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-15T05:46:50Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "dolphin-2.8-experiment26-7b.IQ3_M.gguf",
+            "size": "3284902272",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "f1dd830494ec91114f9840afb5dbe4c1475e0c79c9852fef176e898598adc6f2",
+            "download": {
+                "default": "https://huggingface.co/koesn/Dolphin-2.8-Experiment26-7B-GGUF/resolve/main/dolphin-2.8-experiment26-7b.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.8-experiment26-7b.IQ3_S.gguf",
+            "size": "3182403968",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "67fd9827fbec00184c7e1a5e0290894353b29a98f0e0a990dbe83c0fb10c9da2",
+            "download": {
+                "default": "https://huggingface.co/koesn/Dolphin-2.8-Experiment26-7B-GGUF/resolve/main/dolphin-2.8-experiment26-7b.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.8-experiment26-7b.IQ4_NL.gguf",
+            "size": "4155065792",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "81b17aafbd65680462ea314e5c791fe75ec6cbeee1f21d0a94990a996b6eb050",
+            "download": {
+                "default": "https://huggingface.co/koesn/Dolphin-2.8-Experiment26-7B-GGUF/resolve/main/dolphin-2.8-experiment26-7b.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.8-experiment26-7b.Q4_0.gguf",
+            "size": "4108928448",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "53675444a03e262d3153f8b9de73a86edcf102c5a6952f0e025eecec03a61e81",
+            "download": {
+                "default": "https://huggingface.co/koesn/Dolphin-2.8-Experiment26-7B-GGUF/resolve/main/dolphin-2.8-experiment26-7b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.8-experiment26-7b.Q4_K_M.gguf",
+            "size": "4368451008",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "87e3bd00e747bc536eef9a700b4998651b1d9331dab100a44ece8ab182cce677",
+            "download": {
+                "default": "https://huggingface.co/koesn/Dolphin-2.8-Experiment26-7B-GGUF/resolve/main/dolphin-2.8-experiment26-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.8-experiment26-7b.Q5_K_M.gguf",
+            "size": "5131422144",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "3f04a1743176a38578cec8f849c1b69f05cc637f6e009566cb7478210748333e",
+            "download": {
+                "default": "https://huggingface.co/koesn/Dolphin-2.8-Experiment26-7B-GGUF/resolve/main/dolphin-2.8-experiment26-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.8-experiment26-7b.Q6_K.gguf",
+            "size": "5942078976",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "d70bb4966f929a460823023be6fb0bb20354cb391181cdced17f4eb533ac54c9",
+            "download": {
+                "default": "https://huggingface.co/koesn/Dolphin-2.8-Experiment26-7B-GGUF/resolve/main/dolphin-2.8-experiment26-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.8-experiment26-7b.Q8_0.gguf",
+            "size": "7695875456",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "2be8e97b75cbc92520478dc99e7c066517e2c91a865147d500a4050c7331bb9f",
+            "download": {
+                "default": "https://huggingface.co/koesn/Dolphin-2.8-Experiment26-7B-GGUF/resolve/main/dolphin-2.8-experiment26-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

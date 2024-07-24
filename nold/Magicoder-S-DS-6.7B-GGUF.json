@@ -1,0 +1,63 @@
+{
+    "id": "nold/Magicoder-S-DS-6.7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "nold",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-11T09:52:16Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Magicoder-S-DS-6.7B_Q2_K.gguf",
+            "size": "2534104960",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "475cc908db9c8f07eaec3c46ff1b168dd30a1c919035be005f3601016b6a047f",
+            "download": {
+                "default": "https://huggingface.co/nold/Magicoder-S-DS-6.7B-GGUF/resolve/main/Magicoder-S-DS-6.7B_Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Magicoder-S-DS-6.7B_Q4_K_M.gguf",
+            "size": "4082491264",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4a722c4de1f180f30b341de8760f78135461314749ba03a48bd3dab43b34a0f7",
+            "download": {
+                "default": "https://huggingface.co/nold/Magicoder-S-DS-6.7B-GGUF/resolve/main/Magicoder-S-DS-6.7B_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Magicoder-S-DS-6.7B_Q5_K_M.gguf",
+            "size": "4784775040",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "c874eb946d740e6bcc6d89ac52d1e9be1cb2b4246eda8c2abda71c7c13705aa3",
+            "download": {
+                "default": "https://huggingface.co/nold/Magicoder-S-DS-6.7B-GGUF/resolve/main/Magicoder-S-DS-6.7B_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Magicoder-S-DS-6.7B_Q8_0.gguf",
+            "size": "7163355008",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "5a2647acceb933a9c967b39505f06e936b42604a6a75153675e35f3462a46d2c",
+            "download": {
+                "default": "https://huggingface.co/nold/Magicoder-S-DS-6.7B-GGUF/resolve/main/Magicoder-S-DS-6.7B_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

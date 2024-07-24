@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/OverBloom-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-03T03:57:02Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "OverBloom-7b.IQ3_M.gguf",
+            "size": "3602970080",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "e3fc22f6261721379c1dbbf587a56c9d1cffd5b660b9c65ddf8d02c8041b2d7a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OverBloom-7b-GGUF/resolve/main/OverBloom-7b.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "OverBloom-7b.IQ3_S.gguf",
+            "size": "3500471776",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "54505fb575265096898d06f14c0529d8cf22c33c5e1eac7aad0ebb0374d4c07d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OverBloom-7b-GGUF/resolve/main/OverBloom-7b.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "OverBloom-7b.IQ3_XS.gguf",
+            "size": "3336893920",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "438b5695c13f38b0bd9f1bab7e21c0fac1f321951d9c830fd38a94f95eafd29e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OverBloom-7b-GGUF/resolve/main/OverBloom-7b.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "OverBloom-7b.IQ4_XS.gguf",
+            "size": "4269282784",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "800c7ce4b5ad871b74cb4b35ca0321543ca3d78279f77359b1b8c4003a65e19a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OverBloom-7b-GGUF/resolve/main/OverBloom-7b.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "OverBloom-7b.Q2_K.gguf",
+            "size": "3030504928",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "8f33ce6bbe2461800622b076a1916d744cc6c12bef62d482992a02fd1ff909e8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OverBloom-7b-GGUF/resolve/main/OverBloom-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "OverBloom-7b.Q3_K_L.gguf",
+            "size": "4140103136",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "aedd173fc5c6b7b2d4df6082de5e074bef4545441589e2b05bf1cfcb1ba219a3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OverBloom-7b-GGUF/resolve/main/OverBloom-7b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "OverBloom-7b.Q3_K_M.gguf",
+            "size": "3837064672",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "86ac8cc23eb4ef5a2d386e8b455c970b80a5e9be1f695f3024abba62dd79948d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OverBloom-7b-GGUF/resolve/main/OverBloom-7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "OverBloom-7b.Q3_K_S.gguf",
+            "size": "3482645984",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "d5f40fc058f11774ab503ebc6fc34b5e8ada0d3b4f10c71f30927d7b22949377",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OverBloom-7b-GGUF/resolve/main/OverBloom-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "OverBloom-7b.Q4_K_M.gguf",
+            "size": "4695430624",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "7144e8e9c2c27a879484ce0ab85d1ab875847a061e55ae964be2ba29004d8bde",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OverBloom-7b-GGUF/resolve/main/OverBloom-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "OverBloom-7b.Q4_K_S.gguf",
+            "size": "4467365344",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "0582eab657493611fe62b6e38de7ff8d67d132f57b0293127b4c65c11c1389c0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OverBloom-7b-GGUF/resolve/main/OverBloom-7b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "OverBloom-7b.Q5_K_M.gguf",
+            "size": "5466789344",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "99e2b720aca53345841fea5c7c3f4d9d4c0e70632c59003443f34d035799d554",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OverBloom-7b-GGUF/resolve/main/OverBloom-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "OverBloom-7b.Q5_K_S.gguf",
+            "size": "5333095904",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "fcf7881a77adbcd5fd9e0dd7ded93592953759165aa91e311fcc0ae03346f89d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OverBloom-7b-GGUF/resolve/main/OverBloom-7b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "OverBloom-7b.Q6_K.gguf",
+            "size": "6286357984",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "64b10a0480197588ec555dc243cf9823f90f971c3ab545c799f349f32f9e866a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OverBloom-7b-GGUF/resolve/main/OverBloom-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "OverBloom-7b.Q8_0.gguf",
+            "size": "8024659424",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "07313634ba055c9e8afa98cfd111aef2c5c7b91374c9828023d0b6098b71e4a7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OverBloom-7b-GGUF/resolve/main/OverBloom-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

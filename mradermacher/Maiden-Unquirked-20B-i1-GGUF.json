@@ -1,0 +1,213 @@
+{
+    "id": "mradermacher/Maiden-Unquirked-20B-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-23T15:42:17Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Maiden-Unquirked-20B.i1-IQ4_XS.gguf",
+            "size": "10865622592",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "574dc6f989137a42c7c3ddcca72b0230127bc30eb9a9e661dd001af2405480a5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Maiden-Unquirked-20B-i1-GGUF/resolve/main/Maiden-Unquirked-20B.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Maiden-Unquirked-20B.i1-Q6_K.gguf",
+            "size": "16597698112",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "1e94250c21ea91ae9c5b9ed0f800682d92ee29a9382dc8b8ea041ab3d89cad28",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Maiden-Unquirked-20B-i1-GGUF/resolve/main/Maiden-Unquirked-20B.i1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Maiden-Unquirked-20B.i1-Q5_K_S.gguf",
+            "size": "13964041792",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "c1775d61578270a80f40c1cef66c2929615889cd0c90a0ecea34888bdcf8ffc0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Maiden-Unquirked-20B-i1-GGUF/resolve/main/Maiden-Unquirked-20B.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Maiden-Unquirked-20B.i1-Q5_K_M.gguf",
+            "size": "14350499392",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e9385039f602babcd87b8cdd4107f2d597a076ddaeb160f92269fa59d8040845",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Maiden-Unquirked-20B-i1-GGUF/resolve/main/Maiden-Unquirked-20B.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Maiden-Unquirked-20B.i1-Q4_K_S.gguf",
+            "size": "11560345152",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "809c5445e20c80183bee6f207a9e65956677b09ee088a7b81d550acafe0443ee",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Maiden-Unquirked-20B-i1-GGUF/resolve/main/Maiden-Unquirked-20B.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Maiden-Unquirked-20B.i1-Q4_K_M.gguf",
+            "size": "12235488832",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "fcfd1b49cc49bd51267b0a58c5a4fca3d96a5d65919383926281cb1ffb4dca81",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Maiden-Unquirked-20B-i1-GGUF/resolve/main/Maiden-Unquirked-20B.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Maiden-Unquirked-20B.i1-Q3_K_S.gguf",
+            "size": "8851650112",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "c6a435c4d1c8e92b6749a864b6ee30710ace330c64dec98c54ccabefd896e3c9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Maiden-Unquirked-20B-i1-GGUF/resolve/main/Maiden-Unquirked-20B.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Maiden-Unquirked-20B.i1-Q3_K_M.gguf",
+            "size": "9899284032",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "41ee44ad2e91f6eb8acff6caf1e3606803276cd3558e365d762d6e676a1d7a9b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Maiden-Unquirked-20B-i1-GGUF/resolve/main/Maiden-Unquirked-20B.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Maiden-Unquirked-20B.i1-Q3_K_L.gguf",
+            "size": "10821047872",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "e2f5c55cccae1d6b9ca536ce05a8f3a5e887c57ccb479a248b89010e166204e3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Maiden-Unquirked-20B-i1-GGUF/resolve/main/Maiden-Unquirked-20B.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Maiden-Unquirked-20B.i1-Q2_K.gguf",
+            "size": "7613500992",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "3ebc06abe6347d0c91c8e039d4047edf9e3c5877b1dea50075f05c9cf0f29be4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Maiden-Unquirked-20B-i1-GGUF/resolve/main/Maiden-Unquirked-20B.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Maiden-Unquirked-20B.i1-IQ1_S.gguf",
+            "size": "4609023552",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "f3bf70b28f2a2ebc9cef4dbf664c3e34697af5a46cec6e6e8ab886d0426e8924",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Maiden-Unquirked-20B-i1-GGUF/resolve/main/Maiden-Unquirked-20B.i1-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "Maiden-Unquirked-20B.i1-IQ3_XXS.gguf",
+            "size": "7802828352",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "4de14e6f574f4fc32f06fbdbae9402dbf633ace6746bd7db566f7e49bc7574be",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Maiden-Unquirked-20B-i1-GGUF/resolve/main/Maiden-Unquirked-20B.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "Maiden-Unquirked-20B.i1-IQ3_XS.gguf",
+            "size": "8387409472",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "fcf85f8c8a4f9296392da0b1ef998f1f31a3989e66a00d504a2c29c5085b813d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Maiden-Unquirked-20B-i1-GGUF/resolve/main/Maiden-Unquirked-20B.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Maiden-Unquirked-20B.i1-IQ3_S.gguf",
+            "size": "8851650112",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "9849fd736d765e33e2bcd09f064b1a42e064ab4c3398922d89a898ffe9de5cc3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Maiden-Unquirked-20B-i1-GGUF/resolve/main/Maiden-Unquirked-20B.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Maiden-Unquirked-20B.i1-IQ3_M.gguf",
+            "size": "9349170752",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "5f6c9b7fa35161f25ffd2e039026286b6a36138b3c55bc8d1aef8f0e96e64d3b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Maiden-Unquirked-20B-i1-GGUF/resolve/main/Maiden-Unquirked-20B.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Maiden-Unquirked-20B.i1-IQ2_XXS.gguf",
+            "size": "5604023872",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "61a2a7045c9d9c15fc02d7e5a5cf8fdebba450f3b45f0c4e065bf47f5859c4be",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Maiden-Unquirked-20B-i1-GGUF/resolve/main/Maiden-Unquirked-20B.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "Maiden-Unquirked-20B.i1-IQ2_XS.gguf",
+            "size": "6152314432",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "953860dfa5214ceda4447ce1518f71b9d89ede2df5640b3a092d56b94e644b20",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Maiden-Unquirked-20B-i1-GGUF/resolve/main/Maiden-Unquirked-20B.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Maiden-Unquirked-20B.i1-IQ2_S.gguf",
+            "size": "6612899392",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "8b6bf67593727424f115d7d4262d46be6f52f0b172960ebc7150ec06ef4abb3f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Maiden-Unquirked-20B-i1-GGUF/resolve/main/Maiden-Unquirked-20B.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "Maiden-Unquirked-20B.i1-IQ2_M.gguf",
+            "size": "7110399552",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "7ebaed29ae6a6771fe8e2040c390a85ed99ddb13e4e9aca53716f1b7850e3362",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Maiden-Unquirked-20B-i1-GGUF/resolve/main/Maiden-Unquirked-20B.i1-IQ2_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,53 @@
+{
+    "id": "Kooten/DaringMaid-13B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Kooten",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-15T11:51:41Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "DaringMaid-13B-Q3_K_M.gguf",
+            "size": "6337769440",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "7127be5b9b8cdf993fc5290433d9c48c7890e2cf725451e8e41ef8f199fce7fa",
+            "download": {
+                "default": "https://huggingface.co/Kooten/DaringMaid-13B-GGUF/resolve/main/DaringMaid-13B-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "DaringMaid-13B-Q4_K_M.gguf",
+            "size": "7865956320",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "793ab66757fc5616612110a6e99581bed972144d2bef83c5160755d7ce0e8de4",
+            "download": {
+                "default": "https://huggingface.co/Kooten/DaringMaid-13B-GGUF/resolve/main/DaringMaid-13B-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "DaringMaid-13B-Q5_K_M.gguf",
+            "size": "9229924320",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "c446cd5d0f0b1100b40a1e6f43678aa04b5b97c453c340f0dad91a5c7b540a03",
+            "download": {
+                "default": "https://huggingface.co/Kooten/DaringMaid-13B-GGUF/resolve/main/DaringMaid-13B-Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

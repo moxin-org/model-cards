@@ -1,0 +1,53 @@
+{
+    "id": "Tatvajsh/AHS_OPS_GGUF_V_1.0",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Tatvajsh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-31T20:51:54Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-q8_0.gguf",
+            "size": "3641876096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0f7445c3180a61f76a70abecb42afd9a41bbd738141655f8af284c644907d9a5",
+            "download": {
+                "default": "https://huggingface.co/Tatvajsh/AHS_OPS_GGUF_V_1.0/resolve/main/ggml-model-q8_0.gguf"
+            }
+        },
+        {
+            "name": "OPS_MODEL_Q4.gguf",
+            "size": "1979924128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d8191acea21776b35cd38129783a5f8fc560dbf6ab990e09e2d5ef3ce77d43fd",
+            "download": {
+                "default": "https://huggingface.co/Tatvajsh/AHS_OPS_GGUF_V_1.0/resolve/main/OPS_MODEL_Q4.gguf"
+            }
+        },
+        {
+            "name": "OPS_WPCS_Q4.gguf",
+            "size": "1979924128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b03898a0275cbdff3c882fb0f53029086a62d8b52199b3ba4458f82664a2afec",
+            "download": {
+                "default": "https://huggingface.co/Tatvajsh/AHS_OPS_GGUF_V_1.0/resolve/main/OPS_WPCS_Q4.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

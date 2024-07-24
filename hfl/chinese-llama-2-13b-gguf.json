@@ -1,0 +1,163 @@
+{
+    "id": "hfl/chinese-llama-2-13b-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "hfl",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-16T03:21:16Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-f16.gguf",
+            "size": "26510913248",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c6fbd94d377d1a89fef8f18662a7d48b608037db18bb2e70d79b4d78b4c40c6b",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-13b-gguf/resolve/main/ggml-model-f16.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q2_k-im.gguf",
+            "size": "4991758112",
+            "quantization": "",
+            "tags": [],
+            "sha256": "957e07ad355d479289bf2c2510aebe6b64e3f6e2f9a87ed369a3236ac5b961ec",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-13b-gguf/resolve/main/ggml-model-q2_k-im.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q2_k.gguf",
+            "size": "5566836416",
+            "quantization": "",
+            "tags": [],
+            "sha256": "74fd1178c111b949de5026a25a5364bf87c5d46ed4da32d9f7fbd083c5ee1751",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-13b-gguf/resolve/main/ggml-model-q2_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q3_k-im.gguf",
+            "size": "6487371552",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9fb8ccf19471a164f0b008022cbf99aaf09056947f97b11256ce49dbecfa2c06",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-13b-gguf/resolve/main/ggml-model-q3_k-im.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q3_k.gguf",
+            "size": "6487371456",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4b4d3f74c83fc14a236e81495bbadc886c87d977b167bbc5081d6e2838aa0109",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-13b-gguf/resolve/main/ggml-model-q3_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_0.gguf",
+            "size": "7531278016",
+            "quantization": "",
+            "tags": [],
+            "sha256": "95993c9ec36d284803ea9b1d1a2328fe3a56de13a39c59e7bf0da325ee5db15d",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-13b-gguf/resolve/main/ggml-model-q4_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_k-im.gguf",
+            "size": "8031399712",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ec5ced3d5599a618ad83020f23904fb923b0157ff2edbdbc30941f3372f45c81",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-13b-gguf/resolve/main/ggml-model-q4_k-im.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_k.gguf",
+            "size": "8031399616",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e1a811382f3d21ce18500cf231a87b2eda206765fdec161239a853f4571a6602",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-13b-gguf/resolve/main/ggml-model-q4_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_0.gguf",
+            "size": "9152638656",
+            "quantization": "",
+            "tags": [],
+            "sha256": "298619b7dbbb582281aee62de9dbd1ec2c605158cc114e14aad5e0f24c38a93d",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-13b-gguf/resolve/main/ggml-model-q5_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_k-im.gguf",
+            "size": "9410277152",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0c93b01f79f2886a81469c33608cbca09db24dc247c8c269c4b80976316d8120",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-13b-gguf/resolve/main/ggml-model-q5_k-im.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_k.gguf",
+            "size": "9410277056",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7424de30ca58c3a79195ce28714b8b8cf46db783884af34ad30a8709866ac01e",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-13b-gguf/resolve/main/ggml-model-q5_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q6_k-im.gguf",
+            "size": "10875334432",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e7b03874fef3e2c19078f413ae07e6bda79e86ddc21b9b1ba8bc8a47f85365a0",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-13b-gguf/resolve/main/ggml-model-q6_k-im.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q6_k.gguf",
+            "size": "10875334336",
+            "quantization": "",
+            "tags": [],
+            "sha256": "43c84b0b8f07dae17760da5dec5a4424e4f3cf3838a6009550d152a8600871cf",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-13b-gguf/resolve/main/ggml-model-q6_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q8_0.gguf",
+            "size": "14085287616",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d0c0409b93e4f9357b9c50cad583f475924b253090a052220c0898c56b0006e3",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-13b-gguf/resolve/main/ggml-model-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

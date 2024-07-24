@@ -1,0 +1,43 @@
+{
+    "id": "vishanoberoi/Llama-2-7b-chat-hf-finedtuned-to-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "vishanoberoi",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-20T08:22:58Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "finetuned-16b.gguf",
+            "size": "13478105632",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fc822022ae797ed7c489e3d2f77e3ac85b31af7523ebed8e6e81cae9ea9c5246",
+            "download": {
+                "default": "https://huggingface.co/vishanoberoi/Llama-2-7b-chat-hf-finedtuned-to-GGUF/resolve/main/finetuned-16b.gguf"
+            }
+        },
+        {
+            "name": "finetuned.gguf",
+            "size": "7161090592",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b6a5a2ab530f3c297392a13670cd710efddf6b209c574229eed23d5f5a940b77",
+            "download": {
+                "default": "https://huggingface.co/vishanoberoi/Llama-2-7b-chat-hf-finedtuned-to-GGUF/resolve/main/finetuned.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

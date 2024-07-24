@@ -1,0 +1,103 @@
+{
+    "id": "SicariusSicariiStuff/Tinybra_13B_GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "SicariusSicariiStuff",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-29T22:09:33Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Tinybra_13B_FP16.gguf",
+            "size": "26034276864",
+            "quantization": "",
+            "tags": [],
+            "sha256": "332483d8124e5beff62af9ccfafeb0b1b3a4db3594263cb5411c491eb42ccb8c",
+            "download": {
+                "default": "https://huggingface.co/SicariusSicariiStuff/Tinybra_13B_GGUF/resolve/main/Tinybra_13B_FP16.gguf"
+            }
+        },
+        {
+            "name": "Tinybra_13B_Q2_K.gguf",
+            "size": "5430321696",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "4104d2fa49cd25a4f11e5d66bdf143a44313bc12e89311e6abead62e852d27f2",
+            "download": {
+                "default": "https://huggingface.co/SicariusSicariiStuff/Tinybra_13B_GGUF/resolve/main/Tinybra_13B_Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Tinybra_13B_Q3_K_L.gguf",
+            "size": "6930532896",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "2c17798724503ab5a18f8cac3c5fcc117c0e0971ddcb51c628b2bb678a475d2d",
+            "download": {
+                "default": "https://huggingface.co/SicariusSicariiStuff/Tinybra_13B_GGUF/resolve/main/Tinybra_13B_Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Tinybra_13B_Q3_K_M.gguf",
+            "size": "6338742816",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "3f4272d41ea0b999587b65d7e941f9a70aa9de3d6b397915197a8d3106c876d9",
+            "download": {
+                "default": "https://huggingface.co/SicariusSicariiStuff/Tinybra_13B_GGUF/resolve/main/Tinybra_13B_Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Tinybra_13B_Q3_K_S.gguf",
+            "size": "5659953696",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "3117fb835f2924f7fdfac7d7e1c8644527198526b97d09fdb1e62bd0cc880242",
+            "download": {
+                "default": "https://huggingface.co/SicariusSicariiStuff/Tinybra_13B_GGUF/resolve/main/Tinybra_13B_Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Tinybra_13B_Q4_K_M.gguf",
+            "size": "7866929696",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "fd0aec088743e80b2d59ef2ef3ce6085b51846fb2b71d6601078d07c630ccd47",
+            "download": {
+                "default": "https://huggingface.co/SicariusSicariiStuff/Tinybra_13B_GGUF/resolve/main/Tinybra_13B_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Tinybra_13B_Q5_K_M.gguf",
+            "size": "9230897696",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "6523f9b3289f8e8ebe7c8c9dabee23c498ac65925a02ecd990ad46c22d122ec6",
+            "download": {
+                "default": "https://huggingface.co/SicariusSicariiStuff/Tinybra_13B_GGUF/resolve/main/Tinybra_13B_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Tinybra_13B_Q5_K_S.gguf",
+            "size": "8973259296",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "74eb5c6e8a31c0d1629b13096265a078859051cba3a987a671bb08c73fb83b74",
+            "download": {
+                "default": "https://huggingface.co/SicariusSicariiStuff/Tinybra_13B_GGUF/resolve/main/Tinybra_13B_Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

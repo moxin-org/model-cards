@@ -1,0 +1,63 @@
+{
+    "id": "kat33/openbuddy-llama2-13b-v8.1-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "kat33",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-27T02:39:12Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "openbuddy-llama2-13b-v8.1-f16.gguf",
+            "size": "26148754816",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6c0f36c6325432e5f8ab19b43269839ca671250516bc22c931b7ab1e0610c55b",
+            "download": {
+                "default": "https://huggingface.co/kat33/openbuddy-llama2-13b-v8.1-gguf/resolve/main/openbuddy-llama2-13b-v8.1-f16.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-llama2-13b-v8.1-Q4_K_M.gguf",
+            "size": "7905938848",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c3308e631f6a4702143e555008bde392ba5fd137f4d4d393181ce420aa5f7469",
+            "download": {
+                "default": "https://huggingface.co/kat33/openbuddy-llama2-13b-v8.1-gguf/resolve/main/openbuddy-llama2-13b-v8.1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-llama2-13b-v8.1-Q5_K_M.gguf",
+            "size": "9273511328",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "3376c2d084be73796392f2abbc1943b529e01a28906bd7b29d1e7687e32b9b77",
+            "download": {
+                "default": "https://huggingface.co/kat33/openbuddy-llama2-13b-v8.1-gguf/resolve/main/openbuddy-llama2-13b-v8.1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-llama2-13b-v8.1-Q6_K.gguf",
+            "size": "10726557088",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "e610de7421548ca4296ff568a565b1b5f1ab5211edc8f534457eb471744f23e8",
+            "download": {
+                "default": "https://huggingface.co/kat33/openbuddy-llama2-13b-v8.1-gguf/resolve/main/openbuddy-llama2-13b-v8.1-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

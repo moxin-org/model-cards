@@ -1,0 +1,63 @@
+{
+    "id": "alchemonaut/QuartetAnemoi-70B-t0.0001-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "alchemonaut",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-08T03:03:29Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "QuartetAnemoi-70B-t0.0001-Q2_K.gguf",
+            "size": "25462436928",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "6ccdfa5ea7afb9a41c9707ed3f914b1de67e1f95c43c774c16c78487ec9c68ba",
+            "download": {
+                "default": "https://huggingface.co/alchemonaut/QuartetAnemoi-70B-t0.0001-GGUF/resolve/main/QuartetAnemoi-70B-t0.0001-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "QuartetAnemoi-70B-t0.0001-Q3_K.gguf",
+            "size": "33274737728",
+            "quantization": "Q3_K",
+            "tags": [],
+            "sha256": "30f2636524e19fad5239cbbd68b297ec0f23878ce92b61e7980ed679d1e78e0e",
+            "download": {
+                "default": "https://huggingface.co/alchemonaut/QuartetAnemoi-70B-t0.0001-GGUF/resolve/main/QuartetAnemoi-70B-t0.0001-Q3_K.gguf"
+            }
+        },
+        {
+            "name": "QuartetAnemoi-70B-t0.0001-Q4_K.gguf",
+            "size": "41422910528",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "affba09038fcf431740198b126fdb209f5dccde29795aa1dc2679c9ff8ec18fd",
+            "download": {
+                "default": "https://huggingface.co/alchemonaut/QuartetAnemoi-70B-t0.0001-GGUF/resolve/main/QuartetAnemoi-70B-t0.0001-Q4_K.gguf"
+            }
+        },
+        {
+            "name": "QuartetAnemoi-70B-t0.0001-Q5_K.gguf",
+            "size": "48753767488",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "debb14cc050d03a3f630985572c082398cb661e97a0a47d26ef914f23ce157d9",
+            "download": {
+                "default": "https://huggingface.co/alchemonaut/QuartetAnemoi-70B-t0.0001-GGUF/resolve/main/QuartetAnemoi-70B-t0.0001-Q5_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

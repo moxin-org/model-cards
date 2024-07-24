@@ -1,0 +1,93 @@
+{
+    "id": "tooktang/Nanbeige2-8B-Chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "tooktang",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-09T13:10:38Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Nanbeige2-8B-chat-f16.gguf",
+            "size": "15546583392",
+            "quantization": "",
+            "tags": [],
+            "sha256": "805f3f3c377fd7f172e31c78a5cc7998036f41a93b13e9b1b2aa028f4ea4b191",
+            "download": {
+                "default": "https://huggingface.co/tooktang/Nanbeige2-8B-Chat-GGUF/resolve/main/Nanbeige2-8B-chat-f16.gguf"
+            }
+        },
+        {
+            "name": "Nanbeige2-8B-chat-Q2_K.gguf",
+            "size": "2959968640",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "1da70fd6360e438a5aec0536e1c23bd3b50678089117ec4ef9280b7259f46063",
+            "download": {
+                "default": "https://huggingface.co/tooktang/Nanbeige2-8B-Chat-GGUF/resolve/main/Nanbeige2-8B-chat-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Nanbeige2-8B-chat-Q3_K_M.gguf",
+            "size": "3828550016",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ad5522149fcab10dd507aefe518a7efa4772bcc542ee41e865b2052f78a3f622",
+            "download": {
+                "default": "https://huggingface.co/tooktang/Nanbeige2-8B-Chat-GGUF/resolve/main/Nanbeige2-8B-chat-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Nanbeige2-8B-chat-Q4_0.gguf",
+            "size": "4436986240",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "46ddb86c01f1742563601bb8612bd7f3e243a1df9d0d34207932a921b2307fa5",
+            "download": {
+                "default": "https://huggingface.co/tooktang/Nanbeige2-8B-Chat-GGUF/resolve/main/Nanbeige2-8B-chat-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Nanbeige2-8B-chat-Q5_K.gguf",
+            "size": "5525981568",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "dc087f98283d3326fb0bab54bbe6f6fcc7aea518ff7a08fa28f2d2e98f1db38a",
+            "download": {
+                "default": "https://huggingface.co/tooktang/Nanbeige2-8B-Chat-GGUF/resolve/main/Nanbeige2-8B-chat-Q5_K.gguf"
+            }
+        },
+        {
+            "name": "Nanbeige2-8B-chat-Q6_K.gguf",
+            "size": "6377998720",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "19b8e693b822a20b709de63fa3b3a6f3b4d78b072ed2dd66799af1248ef2376c",
+            "download": {
+                "default": "https://huggingface.co/tooktang/Nanbeige2-8B-Chat-GGUF/resolve/main/Nanbeige2-8B-chat-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Nanbeige2-8B-chat-Q8_0.gguf",
+            "size": "8260290944",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "9dc84db370b0c9d3298d93df8734c3e0e5798f12d325582f114d8d781389dce1",
+            "download": {
+                "default": "https://huggingface.co/tooktang/Nanbeige2-8B-Chat-GGUF/resolve/main/Nanbeige2-8B-chat-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

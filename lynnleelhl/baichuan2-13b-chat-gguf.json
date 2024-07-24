@@ -1,0 +1,43 @@
+{
+    "id": "lynnleelhl/baichuan2-13b-chat-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "lynnleelhl",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-18T10:39:02Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-f16.gguf",
+            "size": "27797048896",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ebc06d98644538ec5629f064c8f0ff577b837810330c2fcbca1285b7d14fa337",
+            "download": {
+                "default": "https://huggingface.co/lynnleelhl/baichuan2-13b-chat-gguf/resolve/main/ggml-model-f16.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4.gguf",
+            "size": "7987103392",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c65a9025c9dcda125c847b74d98bb4eea309a6880b71b717990f8e70be4f3c62",
+            "download": {
+                "default": "https://huggingface.co/lynnleelhl/baichuan2-13b-chat-gguf/resolve/main/ggml-model-q4.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

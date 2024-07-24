@@ -1,0 +1,73 @@
+{
+    "id": "Kooten/DaringMaid-20B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Kooten",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-14T16:40:18Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "DaringMaid-20B-IQ2_XS.gguf",
+            "size": "5937274400",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "ce4df6ac598e844e01113f0a55165a73bd68ab4e6d4a472594462e27fb8244b2",
+            "download": {
+                "default": "https://huggingface.co/Kooten/DaringMaid-20B-GGUF/resolve/main/DaringMaid-20B-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "DaringMaid-20B-IQ2_XXS.gguf",
+            "size": "5388983840",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "9b9f186a04a4a206ab4f57c8e54be957f7b060d42c4924ccfe894f8c56d689d6",
+            "download": {
+                "default": "https://huggingface.co/Kooten/DaringMaid-20B-GGUF/resolve/main/DaringMaid-20B-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "DaringMaid-20B-Q3_K_M.gguf",
+            "size": "9697156640",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "17274b12434718bf29926855b7dbcf07ea87c49067cb36ae3f9b40f20fd7ec07",
+            "download": {
+                "default": "https://huggingface.co/Kooten/DaringMaid-20B-GGUF/resolve/main/DaringMaid-20B-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "DaringMaid-20B-Q4_K_M.gguf",
+            "size": "12042208800",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "865bec909287b192d7f7608073ce2c2e24c275930f96d9f973e90b6d4ac6ef77",
+            "download": {
+                "default": "https://huggingface.co/Kooten/DaringMaid-20B-GGUF/resolve/main/DaringMaid-20B-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "DaringMaid-20B-Q5_K_M.gguf",
+            "size": "14157219360",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "cae0049dab2e258ab77b72007ece645d3b4653f0c30c2d5de36adec7de4ca922",
+            "download": {
+                "default": "https://huggingface.co/Kooten/DaringMaid-20B-GGUF/resolve/main/DaringMaid-20B-Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

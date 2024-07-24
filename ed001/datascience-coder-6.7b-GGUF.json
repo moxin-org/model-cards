@@ -1,0 +1,53 @@
+{
+    "id": "ed001/datascience-coder-6.7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "ed001",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-04T21:18:42Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "datascience-coder-6.7b.Q4_K_M.gguf",
+            "size": "4083016896",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "68d9a8dd8bb53c5d224259ab0ec9416b7f9ab42cfa8844777f5c3052779513dc",
+            "download": {
+                "default": "https://huggingface.co/ed001/datascience-coder-6.7b-GGUF/resolve/main/datascience-coder-6.7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "datascience-coder-6.7b.Q5_K_M.gguf",
+            "size": "4785300672",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "4f3b7c82eede95e1c5b822b89dc2f4d992b7128058c68d1cda62cb4cb600a333",
+            "download": {
+                "default": "https://huggingface.co/ed001/datascience-coder-6.7b-GGUF/resolve/main/datascience-coder-6.7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "datascience-coder-6.7b.Q8_0.gguf",
+            "size": "7163880640",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "1a4808e35b1a39570d770b44981fe512860f99ed86265d1a3e15f7dc83eff434",
+            "download": {
+                "default": "https://huggingface.co/ed001/datascience-coder-6.7b-GGUF/resolve/main/datascience-coder-6.7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,123 @@
+{
+    "id": "MaziyarPanahi/Llama-2-7b-chat-hf-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "MaziyarPanahi",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-03T01:26:39Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Llama-2-7b-chat-hf.Q2_K.gguf",
+            "size": "2532864608",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "93de49d8dd2b49afe4c545b982bbb7b669bb51eaae4bad06eb8c72943876f26b",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/Llama-2-7b-chat-hf-GGUF/resolve/main/Llama-2-7b-chat-hf.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.Q3_K_L.gguf",
+            "size": "3597111904",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "79941608439417db9a39881ca2ca09f647876a7429acafeaa9468d7d387397ad",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/Llama-2-7b-chat-hf-GGUF/resolve/main/Llama-2-7b-chat-hf.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.Q3_K_M.gguf",
+            "size": "3298005600",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "3a41b8186730b95db8e38fc67fb8e2bd6be3db6c1b8a2f576cc354827dc77fd3",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/Llama-2-7b-chat-hf-GGUF/resolve/main/Llama-2-7b-chat-hf.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.Q3_K_S.gguf",
+            "size": "2948305504",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "e2c4f0eadedf4cfbfa083fb8accd9743168ca4ded8327ada1bd7df4b470aa219",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/Llama-2-7b-chat-hf-GGUF/resolve/main/Llama-2-7b-chat-hf.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.Q4_K_M.gguf",
+            "size": "4081005152",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "97df9c11b68b7d1a8b4ae964b473ec9f8a8195d5050b509fbf1011465b9774a9",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/Llama-2-7b-chat-hf-GGUF/resolve/main/Llama-2-7b-chat-hf.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.Q4_K_S.gguf",
+            "size": "3856740960",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "7ce422186b658881762e065b856761ca74420a99bb2b2797db54cd38509954ff",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/Llama-2-7b-chat-hf-GGUF/resolve/main/Llama-2-7b-chat-hf.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.Q5_K_M.gguf",
+            "size": "4783157856",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "a60b877672b1f8a4fa07efae03105144bacbdba3c3f6d90755dfb78f74e66c16",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/Llama-2-7b-chat-hf-GGUF/resolve/main/Llama-2-7b-chat-hf.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.Q5_K_S.gguf",
+            "size": "4651692640",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "4f78db11e48f7e4e7e74eeacdec48192de6ebfa4c1eb5320f8f29edf85e56ae1",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/Llama-2-7b-chat-hf-GGUF/resolve/main/Llama-2-7b-chat-hf.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.Q6_K.gguf",
+            "size": "5529195104",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "70a1e94c0eefcfba8cc407b7e2cc0aeca9ba63a48bc5580987e9786092a568dd",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/Llama-2-7b-chat-hf-GGUF/resolve/main/Llama-2-7b-chat-hf.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.Q8_0.gguf",
+            "size": "7161090656",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "edc144a62dbf51a0d7e806b5bea17f621af2a508dfe84fb115c7dbf0c31e2838",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/Llama-2-7b-chat-hf-GGUF/resolve/main/Llama-2-7b-chat-hf.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

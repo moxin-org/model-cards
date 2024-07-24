@@ -1,0 +1,173 @@
+{
+    "id": "rozek/LLaMA-2-7B-32K_GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "rozek",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-08-28T05:54:49Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "LLaMA-2-7B-32K-f16.gguf",
+            "size": "13477973312",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e3d35765b8d093caeee0522cbd91dbc77004e57658553d0f6eb12be3977367ec",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K_GGUF/resolve/main/LLaMA-2-7B-32K-f16.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Q2_K.gguf",
+            "size": "2825940576",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "8de3178b296106908f117a3bf5227363e5b2e351221201f6fbd353828e30f5c7",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K_GGUF/resolve/main/LLaMA-2-7B-32K-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Q3_K_L.gguf",
+            "size": "3597110880",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "411ef4cca3766f376d2a8014aac2a38344b02c6fb8d2cde887b3f02b0d5ee975",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K_GGUF/resolve/main/LLaMA-2-7B-32K-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Q3_K_M.gguf",
+            "size": "3298004576",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "a0e97cd95fd8ce7e3155035e3468f58913582186324f68b52769b148478ac9ba",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K_GGUF/resolve/main/LLaMA-2-7B-32K-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Q3_K_S.gguf",
+            "size": "2948304480",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "34d578ce7257215bb4b1593df2929a0f4b0746425c9bed8493439f076d496fbb",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K_GGUF/resolve/main/LLaMA-2-7B-32K-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Q4_0.gguf",
+            "size": "3825806944",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "88fdd58ad51028cc8528201f0018621eff90b42946f8c2ffe4a86405df994470",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K_GGUF/resolve/main/LLaMA-2-7B-32K-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Q4_1.gguf",
+            "size": "4238749280",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "c913f7dc63a8d1cc56495c1b039709aa11458eb238b7283bd2186d33a16c6204",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K_GGUF/resolve/main/LLaMA-2-7B-32K-Q4_1.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Q4_K_M.gguf",
+            "size": "4081004128",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "45d41a16aa2b18172b18c01a0ad710d210c422558e094861654ea90eb917caf9",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K_GGUF/resolve/main/LLaMA-2-7B-32K-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Q4_K_S.gguf",
+            "size": "3856739936",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "e7667c07e657d3ccd745e3da6f7675d1931fb006dff6a31844269aeecf6b69d7",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K_GGUF/resolve/main/LLaMA-2-7B-32K-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Q5_0.gguf",
+            "size": "4651691616",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "0685668926e1c5264d44ef05313d299446180f814b7d5b2ee5e898215ac9549f",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K_GGUF/resolve/main/LLaMA-2-7B-32K-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Q5_1.gguf",
+            "size": "5064633952",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "9648a61ed1a771a670f06cb932170618638b52fabbf261efd3165bdad025cb65",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K_GGUF/resolve/main/LLaMA-2-7B-32K-Q5_1.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Q5_K_M.gguf",
+            "size": "4783156832",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "8e7616f6602888856a88a9ecd6e80cd102fcf1b3e71cd8ddcd305580dbbebd82",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K_GGUF/resolve/main/LLaMA-2-7B-32K-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Q5_K_S.gguf",
+            "size": "4651691616",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "65ce5ed497425173b9ce30a0668d8134f1dc93d57fc63f7846652b8d2c7af20e",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K_GGUF/resolve/main/LLaMA-2-7B-32K-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Q6_K.gguf",
+            "size": "5529194080",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "8816aa2adb10f2ba17a249734eb5b74038e3278007eb3ef742e954e391d11b12",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K_GGUF/resolve/main/LLaMA-2-7B-32K-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Q8_0.gguf",
+            "size": "7161089632",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "74f3b5c8c5e16bf289b69810b1535324bb0eacdefaa44cd94310f0260741dea8",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K_GGUF/resolve/main/LLaMA-2-7B-32K-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

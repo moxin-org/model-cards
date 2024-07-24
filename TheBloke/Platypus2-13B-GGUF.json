@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/Platypus2-13B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-05T04:51:48Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "platypus2-13b.Q2_K.gguf",
+            "size": "5429348224",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "ae92db947f189d3d036b53b5fb43c303f422594ddbb0db7e1eee1eedf74897cb",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Platypus2-13B-GGUF/resolve/main/platypus2-13b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "platypus2-13b.Q3_K_L.gguf",
+            "size": "6929559424",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "e3c3332d969ff3d37382b99079ec62d154e9a036b6a629974dc5c1d1936deaf1",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Platypus2-13B-GGUF/resolve/main/platypus2-13b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "platypus2-13b.Q3_K_M.gguf",
+            "size": "6337769344",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "b5a05f97e6031877786d0ccc87f1f5b29ddd9f77ec48f4e312c080c1e9b28144",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Platypus2-13B-GGUF/resolve/main/platypus2-13b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "platypus2-13b.Q3_K_S.gguf",
+            "size": "5658980224",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "49346a96afc42deb3373bb81f08bb5dcf7e15c24ff36a11d0e766f5f079a172c",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Platypus2-13B-GGUF/resolve/main/platypus2-13b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "platypus2-13b.Q4_0.gguf",
+            "size": "7365834624",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "bdbe81462228450923e25c048d23ea79e71db45ab2b29d73fd8a3342f85e40cd",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Platypus2-13B-GGUF/resolve/main/platypus2-13b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "platypus2-13b.Q4_K_M.gguf",
+            "size": "7865956224",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "587134ddb609f28831477d5d2ea66e83058b2b986135972464fff635afa02d2d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Platypus2-13B-GGUF/resolve/main/platypus2-13b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "platypus2-13b.Q4_K_S.gguf",
+            "size": "7414331264",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "9f188ab16dd28491395d4c8ce36135affd0e62693e16c760e791dbb4756e3310",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Platypus2-13B-GGUF/resolve/main/platypus2-13b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "platypus2-13b.Q5_0.gguf",
+            "size": "8972285824",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "d9be05e1617b9596b0b5cfe6e3cf236cf227f577a5a47bddbd7d92f0189dccda",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Platypus2-13B-GGUF/resolve/main/platypus2-13b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "platypus2-13b.Q5_K_M.gguf",
+            "size": "9229924224",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "c2748e15f56da13a3043baf82b1506d512a4abbf402ba4ed1dfab7c17567baa1",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Platypus2-13B-GGUF/resolve/main/platypus2-13b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "platypus2-13b.Q5_K_S.gguf",
+            "size": "8972285824",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "53b5a31929e91edfbf2046e8b7a7efb3c89ab5f88d05ba0fe1d8c1340b46c226",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Platypus2-13B-GGUF/resolve/main/platypus2-13b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "platypus2-13b.Q6_K.gguf",
+            "size": "10679140224",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "c954ca06d5abd9fdee5ec3ec62389ee7cd2577d5f754b43e782721933c6a52a5",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Platypus2-13B-GGUF/resolve/main/platypus2-13b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "platypus2-13b.Q8_0.gguf",
+            "size": "13831319424",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "de679edf495b092b5ae3f1e6fbb1dfe5ef2f41ae937a8e02d50c1e4bd63da4c2",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Platypus2-13B-GGUF/resolve/main/platypus2-13b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

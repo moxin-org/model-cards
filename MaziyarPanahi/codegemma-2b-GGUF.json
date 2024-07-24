@@ -1,0 +1,153 @@
+{
+    "id": "MaziyarPanahi/codegemma-2b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "MaziyarPanahi",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-09T13:58:45Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "codegemma-2b.fp16.gguf",
+            "size": "5018535008",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ba8083e431ba407b8378dc310d327049c58f51efc428b954df5c0272ba4ae4f7",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/codegemma-2b-GGUF/resolve/main/codegemma-2b.fp16.gguf"
+            }
+        },
+        {
+            "name": "codegemma-2b.IQ3_XS.gguf",
+            "size": "1244357760",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "f532c3844bb66bd8f77d93fb47af79df9197af222d5e68b557ffd3159cf8d7a7",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/codegemma-2b-GGUF/resolve/main/codegemma-2b.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "codegemma-2b.IQ4_XS.gguf",
+            "size": "1501217920",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "727a5a6abb969b623914cf0c9158c171ee7ea7cfe613a66fdf69bf22800c0a20",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/codegemma-2b-GGUF/resolve/main/codegemma-2b.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "codegemma-2b.Q2_K.gguf",
+            "size": "1157923968",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "b34e07e6918147fb8b635595199d50ec4a58e1e3868082dc695076b570f14718",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/codegemma-2b-GGUF/resolve/main/codegemma-2b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "codegemma-2b.Q3_K_L.gguf",
+            "size": "1465590912",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "39a63bbd116d2adc35c0a901182194784876e8744976196bfda76d236a3aee82",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/codegemma-2b-GGUF/resolve/main/codegemma-2b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "codegemma-2b.Q3_K_M.gguf",
+            "size": "1383801984",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ae52d309cbaafc2b04d7780f49e6df1e06407cfde0d54413f836e8928d69702d",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/codegemma-2b-GGUF/resolve/main/codegemma-2b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "codegemma-2b.Q3_K_S.gguf",
+            "size": "1287980160",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "00f88d2cc84bc050372fbb8e34162b08d3861fb6c210618008bf6f235d909a13",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/codegemma-2b-GGUF/resolve/main/codegemma-2b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "codegemma-2b.Q4_K_M.gguf",
+            "size": "1630262400",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "8540e785efac4cd39b92cd554c19b55f8eb85dca8e6528183814211439060a59",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/codegemma-2b-GGUF/resolve/main/codegemma-2b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "codegemma-2b.Q4_K_S.gguf",
+            "size": "1559839872",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "0571236803ecdeb365e00545795865b97b4de9b60d708f105421c4d546babcb1",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/codegemma-2b-GGUF/resolve/main/codegemma-2b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "codegemma-2b.Q5_K_M.gguf",
+            "size": "1839649920",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "95df68a7e794e54347a78077ea732215ade295262c99ec1fd1986df4b989aae5",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/codegemma-2b-GGUF/resolve/main/codegemma-2b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "codegemma-2b.Q5_K_S.gguf",
+            "size": "1798915200",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "8da42c3d0a30659e41f55871e049c4326f29d5a29aa6483927974b8640382454",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/codegemma-2b-GGUF/resolve/main/codegemma-2b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "codegemma-2b.Q6_K.gguf",
+            "size": "2062124160",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "19ab268d5f3fe3bd1549bf235f074cc900345eba968f300d5ef117e8fdda1ab4",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/codegemma-2b-GGUF/resolve/main/codegemma-2b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "codegemma-2b.Q8_0.gguf",
+            "size": "2669069440",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "7119d8c92ea5c5974afcf6817cc74cd50ffbc73f178d9dbc94b9a370c52cc9e4",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/codegemma-2b-GGUF/resolve/main/codegemma-2b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

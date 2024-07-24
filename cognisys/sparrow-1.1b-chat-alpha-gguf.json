@@ -1,0 +1,43 @@
+{
+    "id": "cognisys/sparrow-1.1b-chat-alpha-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "cognisys",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-27T17:16:04Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "sparrow-1.1b-chat-alpha-f16.gguf",
+            "size": "2201041440",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5cf0e28f73d91e353db80e2ac929e286c9cf90a47a0a2213e5b561e328714fdf",
+            "download": {
+                "default": "https://huggingface.co/cognisys/sparrow-1.1b-chat-alpha-gguf/resolve/main/sparrow-1.1b-chat-alpha-f16.gguf"
+            }
+        },
+        {
+            "name": "sparrow-1.1b-chat-alpha-q8_0.gguf",
+            "size": "1169820960",
+            "quantization": "",
+            "tags": [],
+            "sha256": "49f00df39851c2affcf3cc6f20db41feb2b43a26e9f2cecd4e50042eba3f9136",
+            "download": {
+                "default": "https://huggingface.co/cognisys/sparrow-1.1b-chat-alpha-gguf/resolve/main/sparrow-1.1b-chat-alpha-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

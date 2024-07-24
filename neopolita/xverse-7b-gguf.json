@@ -1,0 +1,83 @@
+{
+    "id": "neopolita/xverse-7b-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "neopolita",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-31T11:44:07Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "xverse-7b_q2_k.gguf",
+            "size": "2856477696",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8efb63069b45934f8bd3f02e8b65f1b3e38b6e173693bd179632686e0830cd63",
+            "download": {
+                "default": "https://huggingface.co/neopolita/xverse-7b-gguf/resolve/main/xverse-7b_q2_k.gguf"
+            }
+        },
+        {
+            "name": "xverse-7b_q3_k_m.gguf",
+            "size": "3649726720",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8f6525b0cffd29e0f1d5e47cc7329bec5ed0b769661a851c5155d6b1c7889660",
+            "download": {
+                "default": "https://huggingface.co/neopolita/xverse-7b-gguf/resolve/main/xverse-7b_q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "xverse-7b_q4_k_m.gguf",
+            "size": "4470008768",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1763ffd21f83c921934234a8368ca022ccd05777a1337d29ef901aeacd70d717",
+            "download": {
+                "default": "https://huggingface.co/neopolita/xverse-7b-gguf/resolve/main/xverse-7b_q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "xverse-7b_q5_k_m.gguf",
+            "size": "5207250880",
+            "quantization": "",
+            "tags": [],
+            "sha256": "90419601b88f730a38adc37d21c938e59f4a8a05f6eb7145833bf83db71be301",
+            "download": {
+                "default": "https://huggingface.co/neopolita/xverse-7b-gguf/resolve/main/xverse-7b_q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "xverse-7b_q6_k.gguf",
+            "size": "5990570624",
+            "quantization": "",
+            "tags": [],
+            "sha256": "89453cb5a2555203ded4472ec69916ae71b8630af8e6264fa115cbf5001ebabb",
+            "download": {
+                "default": "https://huggingface.co/neopolita/xverse-7b-gguf/resolve/main/xverse-7b_q6_k.gguf"
+            }
+        },
+        {
+            "name": "xverse-7b_q8_0.gguf",
+            "size": "7758437632",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8ef5e6bd637437bd0cb8c86b5cfa1ce0a61d7b9d6bc29cf5b92ddba45749f1b8",
+            "download": {
+                "default": "https://huggingface.co/neopolita/xverse-7b-gguf/resolve/main/xverse-7b_q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

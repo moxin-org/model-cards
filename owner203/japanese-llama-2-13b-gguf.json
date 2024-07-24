@@ -1,0 +1,53 @@
+{
+    "id": "owner203/japanese-llama-2-13b-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "owner203",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-20T05:37:09Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-f16.gguf",
+            "size": "26609590656",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b28d3466ecba2b9d807e2fb6a73a1036800e27da395d09ed95731017eedfca13",
+            "download": {
+                "default": "https://huggingface.co/owner203/japanese-llama-2-13b-gguf/resolve/main/ggml-model-f16.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_0.gguf",
+            "size": "7565528320",
+            "quantization": "",
+            "tags": [],
+            "sha256": "459b95d9bef30b9f403d5c490c787317348f0075b0ef42eb5e73123edf7ad9bf",
+            "download": {
+                "default": "https://huggingface.co/owner203/japanese-llama-2-13b-gguf/resolve/main/ggml-model-q4_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q8_0.gguf",
+            "size": "14137808320",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c628a140c88e4aaa9dca670149d5b0957003403e522126177fb575f247c49b79",
+            "download": {
+                "default": "https://huggingface.co/owner203/japanese-llama-2-13b-gguf/resolve/main/ggml-model-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

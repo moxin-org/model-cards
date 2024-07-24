@@ -1,0 +1,53 @@
+{
+    "id": "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Telugu-LLM-Labs",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-18T07:38:59Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "FP16.gguf",
+            "size": "17081755968",
+            "quantization": "",
+            "tags": [],
+            "sha256": "28b9071da1cca621e76d0ff42e457a5c3ad14b0ca93b2051fa8e4b8d71ab6c46",
+            "download": {
+                "default": "https://huggingface.co/Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0-gguf/resolve/main/FP16.gguf"
+            }
+        },
+        {
+            "name": "Q4_K_M.gguf",
+            "size": "5329758592",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "df677df3bbde0cc60671136b8d0852bb04724e3d88ab2293799a64a5e1aacc1f",
+            "download": {
+                "default": "https://huggingface.co/Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0-gguf/resolve/main/Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Q5_K_M.gguf",
+            "size": "6144502144",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "cce97bb4e2d1ddb706bde61bcba9e175d3c3108dcc02ae409a8c711d90771a60",
+            "download": {
+                "default": "https://huggingface.co/Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0-gguf/resolve/main/Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

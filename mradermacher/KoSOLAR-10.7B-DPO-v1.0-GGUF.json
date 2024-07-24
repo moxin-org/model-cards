@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/KoSOLAR-10.7B-DPO-v1.0-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-03T18:43:39Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "KoSOLAR-10.7B-DPO-v1.0.IQ3_M.gguf",
+            "size": "5261818464",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "55553dc87b303115b4fa446752e4f26bd2d6d906f2a2221042a91f66b3aaada7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/KoSOLAR-10.7B-DPO-v1.0-GGUF/resolve/main/KoSOLAR-10.7B-DPO-v1.0.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "KoSOLAR-10.7B-DPO-v1.0.IQ3_S.gguf",
+            "size": "5108071008",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "1939210077ff24d7abfe6123be45a8ba8f7e6dd4ad0862631083cf8d16a4306c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/KoSOLAR-10.7B-DPO-v1.0-GGUF/resolve/main/KoSOLAR-10.7B-DPO-v1.0.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "KoSOLAR-10.7B-DPO-v1.0.IQ3_XS.gguf",
+            "size": "4862704224",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "7a89d709a893c62be19650d71264ce491ef8bf8a3d41971a6ec8e8cc5eaa7d3a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/KoSOLAR-10.7B-DPO-v1.0-GGUF/resolve/main/KoSOLAR-10.7B-DPO-v1.0.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "KoSOLAR-10.7B-DPO-v1.0.IQ4_XS.gguf",
+            "size": "6244407904",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "4d2187f669a22e9c0a5bcd7723b63cec28ed9bded0973ec84ad31491f8eee9c2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/KoSOLAR-10.7B-DPO-v1.0-GGUF/resolve/main/KoSOLAR-10.7B-DPO-v1.0.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "KoSOLAR-10.7B-DPO-v1.0.Q2_K.gguf",
+            "size": "4420000352",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "393468346743a7f0df085aa40c8f3d73b19d3f24a200874231ff68ba8755e13f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/KoSOLAR-10.7B-DPO-v1.0-GGUF/resolve/main/KoSOLAR-10.7B-DPO-v1.0.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "KoSOLAR-10.7B-DPO-v1.0.Q3_K_L.gguf",
+            "size": "6067518048",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "27835e6cc097986e03e81e561078ad753e8a47df7e36d6c47da25a36dce539f2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/KoSOLAR-10.7B-DPO-v1.0-GGUF/resolve/main/KoSOLAR-10.7B-DPO-v1.0.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "KoSOLAR-10.7B-DPO-v1.0.Q3_K_M.gguf",
+            "size": "5612436064",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ad2ba033fdeb2b7855ec5a951f5e77c7a9f964affbed15f5f8ce032b78616733",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/KoSOLAR-10.7B-DPO-v1.0-GGUF/resolve/main/KoSOLAR-10.7B-DPO-v1.0.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "KoSOLAR-10.7B-DPO-v1.0.Q3_K_S.gguf",
+            "size": "5081332320",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "c6b4e5ad2ba79152b9831ab6f0862ef9bf0ba6545a5280476ca21b7785d4ada8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/KoSOLAR-10.7B-DPO-v1.0-GGUF/resolve/main/KoSOLAR-10.7B-DPO-v1.0.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "KoSOLAR-10.7B-DPO-v1.0.Q4_K_M.gguf",
+            "size": "6878435936",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "03c970a8afba378ac7e80d257238f2d377d160767057f0230ae1a42dab7c7958",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/KoSOLAR-10.7B-DPO-v1.0-GGUF/resolve/main/KoSOLAR-10.7B-DPO-v1.0.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "KoSOLAR-10.7B-DPO-v1.0.Q4_K_S.gguf",
+            "size": "6535289440",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "f44a90b325c9229f09dee575fb037b540631eaca48d75e00ebe6099efeb38e66",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/KoSOLAR-10.7B-DPO-v1.0-GGUF/resolve/main/KoSOLAR-10.7B-DPO-v1.0.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "KoSOLAR-10.7B-DPO-v1.0.Q5_K_M.gguf",
+            "size": "8014699104",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "d29a6541b785118d79a10fbd86451aac1be60e490afd2f6a8ef7d4266d6e3bb3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/KoSOLAR-10.7B-DPO-v1.0-GGUF/resolve/main/KoSOLAR-10.7B-DPO-v1.0.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "KoSOLAR-10.7B-DPO-v1.0.Q5_K_S.gguf",
+            "size": "7814158944",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "cfba9403738e21a042775446c5f72f6e0f8b140173b9da184e596cf3bb253a5b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/KoSOLAR-10.7B-DPO-v1.0-GGUF/resolve/main/KoSOLAR-10.7B-DPO-v1.0.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "KoSOLAR-10.7B-DPO-v1.0.Q6_K.gguf",
+            "size": "9221978720",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "82949b29e9fa302c38bb55103aad5358b92d64a9ba4adf6495d2578bee4da6ba",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/KoSOLAR-10.7B-DPO-v1.0-GGUF/resolve/main/KoSOLAR-10.7B-DPO-v1.0.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "KoSOLAR-10.7B-DPO-v1.0.Q8_0.gguf",
+            "size": "11789179488",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "123b638c7595e8d154cd6a0f5aaaf2d77709ce72b1e2fc746f4e19fc5dfb44c9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/KoSOLAR-10.7B-DPO-v1.0-GGUF/resolve/main/KoSOLAR-10.7B-DPO-v1.0.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

@@ -1,0 +1,143 @@
+{
+    "id": "second-state/ChatAllInOne-Yi-34B-200K-V1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-14T12:51:58Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ChatAllInOne-Yi-34B-200K-V1-Q2_K.gguf",
+            "size": "12825233472",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "02dd7e2ab48f0f2371e4d7d58077905a62911ec896d2c10f3374ccb7635400de",
+            "download": {
+                "default": "https://huggingface.co/second-state/ChatAllInOne-Yi-34B-200K-V1-GGUF/resolve/main/ChatAllInOne-Yi-34B-200K-V1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "ChatAllInOne-Yi-34B-200K-V1-Q3_K_L.gguf",
+            "size": "18139445312",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "b6101281d18fd78f0d60bfed4b67a54bb1bad5ba3672cbcc6451820b8e99eb31",
+            "download": {
+                "default": "https://huggingface.co/second-state/ChatAllInOne-Yi-34B-200K-V1-GGUF/resolve/main/ChatAllInOne-Yi-34B-200K-V1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "ChatAllInOne-Yi-34B-200K-V1-Q3_K_M.gguf",
+            "size": "16654923840",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "553e866520bfaedea34a63abf5db39bc8396c7ecda0d78279048ac28638e3b27",
+            "download": {
+                "default": "https://huggingface.co/second-state/ChatAllInOne-Yi-34B-200K-V1-GGUF/resolve/main/ChatAllInOne-Yi-34B-200K-V1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "ChatAllInOne-Yi-34B-200K-V1-Q3_K_S.gguf",
+            "size": "14960293952",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "ce8699c09ff85a88ba7859561ef4f87d4d3cf0f9307129be649af0d2127236a4",
+            "download": {
+                "default": "https://huggingface.co/second-state/ChatAllInOne-Yi-34B-200K-V1-GGUF/resolve/main/ChatAllInOne-Yi-34B-200K-V1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "ChatAllInOne-Yi-34B-200K-V1-Q4_0.gguf",
+            "size": "19466528832",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "9e84acfcecff3ffd23e28552924724f3ee3d38b8d37f0dc9540c47b1464a3260",
+            "download": {
+                "default": "https://huggingface.co/second-state/ChatAllInOne-Yi-34B-200K-V1-GGUF/resolve/main/ChatAllInOne-Yi-34B-200K-V1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "ChatAllInOne-Yi-34B-200K-V1-Q4_K_M.gguf",
+            "size": "20658710592",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "73adb3356a36aba9c8b816e9fd39a3d7e5b738459546ef18974b719a20216981",
+            "download": {
+                "default": "https://huggingface.co/second-state/ChatAllInOne-Yi-34B-200K-V1-GGUF/resolve/main/ChatAllInOne-Yi-34B-200K-V1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "ChatAllInOne-Yi-34B-200K-V1-Q4_K_S.gguf",
+            "size": "19598649408",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "dd20fe5a20ce64792d5d4620a7fd3655866be0102d78dc8b3d2a109f6cdb9f01",
+            "download": {
+                "default": "https://huggingface.co/second-state/ChatAllInOne-Yi-34B-200K-V1-GGUF/resolve/main/ChatAllInOne-Yi-34B-200K-V1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "ChatAllInOne-Yi-34B-200K-V1-Q5_0.gguf",
+            "size": "23707691072",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "ec8b32859acb4f25f4752175d7f137b9115234398e23dbb10e4f43181c06aa83",
+            "download": {
+                "default": "https://huggingface.co/second-state/ChatAllInOne-Yi-34B-200K-V1-GGUF/resolve/main/ChatAllInOne-Yi-34B-200K-V1-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "ChatAllInOne-Yi-34B-200K-V1-Q5_K_M.gguf",
+            "size": "24321845312",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "9e346fda5b6b3f75065985878e0424d1946ce8f60b4f04e55881ed06431352bb",
+            "download": {
+                "default": "https://huggingface.co/second-state/ChatAllInOne-Yi-34B-200K-V1-GGUF/resolve/main/ChatAllInOne-Yi-34B-200K-V1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "ChatAllInOne-Yi-34B-200K-V1-Q5_K_S.gguf",
+            "size": "23707691072",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "1f45334970c93f8a78df464e4c4873874903481535dbb9a3299f103ee82185ee",
+            "download": {
+                "default": "https://huggingface.co/second-state/ChatAllInOne-Yi-34B-200K-V1-GGUF/resolve/main/ChatAllInOne-Yi-34B-200K-V1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "ChatAllInOne-Yi-34B-200K-V1-Q6_K.gguf",
+            "size": "28213925952",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "7d3a1fb7d3d03bf0ab3fef1e46ad86e66cbf6adc4c107628970f2e8ec0a50ef5",
+            "download": {
+                "default": "https://huggingface.co/second-state/ChatAllInOne-Yi-34B-200K-V1-GGUF/resolve/main/ChatAllInOne-Yi-34B-200K-V1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "ChatAllInOne-Yi-34B-200K-V1-Q8_0.gguf",
+            "size": "36542281792",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "6ebfea5d0504de12cfe42e119541cbe1a89d69533d7fe2bd5d1dce6cda0c36e4",
+            "download": {
+                "default": "https://huggingface.co/second-state/ChatAllInOne-Yi-34B-200K-V1-GGUF/resolve/main/ChatAllInOne-Yi-34B-200K-V1-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 7168,
+    "vector_size": 0,
+    "metrics": {}
+}

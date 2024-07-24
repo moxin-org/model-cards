@@ -1,0 +1,133 @@
+{
+    "id": "brittlewis12/TinyOpenHermes-1.1B-4k-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "brittlewis12",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-21T05:02:55Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tinyopenhermes-1.1b-4k.fp16.gguf",
+            "size": "2201016960",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fd948f96b859842fd3a863183a25d79101a2a0c855db95bd76e898cf7b53134c",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/TinyOpenHermes-1.1B-4k-GGUF/resolve/main/tinyopenhermes-1.1b-4k.fp16.gguf"
+            }
+        },
+        {
+            "name": "tinyopenhermes-1.1b-4k.Q2_K.gguf",
+            "size": "432130752",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "11d6c58128e6eeb7c4e76181c46e0b57008170e78db8624b8efb7ebdd8176e09",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/TinyOpenHermes-1.1B-4k-GGUF/resolve/main/tinyopenhermes-1.1b-4k.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "tinyopenhermes-1.1b-4k.Q3_K_L.gguf",
+            "size": "591526592",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "589754c780ca86e23dbe139de0e9d0b271264d92f6f0ac4b3a7e1ebfa52096e9",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/TinyOpenHermes-1.1B-4k-GGUF/resolve/main/tinyopenhermes-1.1b-4k.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "tinyopenhermes-1.1b-4k.Q3_K_M.gguf",
+            "size": "548403904",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "9fbf0e86d82ba4348d1a64eef6c37926df7c9a582ebcc9fdd36c4302857b0aa1",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/TinyOpenHermes-1.1B-4k-GGUF/resolve/main/tinyopenhermes-1.1b-4k.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "tinyopenhermes-1.1b-4k.Q3_K_S.gguf",
+            "size": "499342016",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "41c3b75ce9d19c348686cc128596f4a3a9f63865c11e58c72c7337a27b4261cf",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/TinyOpenHermes-1.1B-4k-GGUF/resolve/main/tinyopenhermes-1.1b-4k.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "tinyopenhermes-1.1b-4k.Q4_K_M.gguf",
+            "size": "667814592",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "d0c4841b1e8e693d863d0ea54ea101d4a8df215841ef02aa752e5a1745f9bcf6",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/TinyOpenHermes-1.1B-4k-GGUF/resolve/main/tinyopenhermes-1.1b-4k.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "tinyopenhermes-1.1b-4k.Q4_K_S.gguf",
+            "size": "639871680",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "c7a8f6b1f1ab50652b8d67a2dd20f7e86191b7b0ea07c38c6ef95c4cc9ef5e1b",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/TinyOpenHermes-1.1B-4k-GGUF/resolve/main/tinyopenhermes-1.1b-4k.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "tinyopenhermes-1.1b-4k.Q5_K_M.gguf",
+            "size": "782043840",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ef0596b8fa8828a33b647eb6eaf73efe7f1a200a7dc15afc4f3b22730feb4992",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/TinyOpenHermes-1.1B-4k-GGUF/resolve/main/tinyopenhermes-1.1b-4k.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "tinyopenhermes-1.1b-4k.Q5_K_S.gguf",
+            "size": "766028480",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "87142916086902c91c06abba03f6dbb92eb66af2a48824b48e04ae5e199e3148",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/TinyOpenHermes-1.1B-4k-GGUF/resolve/main/tinyopenhermes-1.1b-4k.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "tinyopenhermes-1.1b-4k.Q6_K.gguf",
+            "size": "903412416",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "3d9fe0d9d6d04bda197fc18444cc56737008b5d06629f6be654c7a6711d7a8cf",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/TinyOpenHermes-1.1B-4k-GGUF/resolve/main/tinyopenhermes-1.1b-4k.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "tinyopenhermes-1.1b-4k.Q8_0.gguf",
+            "size": "1169808064",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "9143f524130f3dd9d2deb5de782954b19c5504a8e259844fbff5f8ed3ffcb8bf",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/TinyOpenHermes-1.1B-4k-GGUF/resolve/main/tinyopenhermes-1.1b-4k.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

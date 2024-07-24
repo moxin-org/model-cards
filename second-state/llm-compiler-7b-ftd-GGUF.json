@@ -1,0 +1,153 @@
+{
+    "id": "second-state/llm-compiler-7b-ftd-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-06-29T10:22:03Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llm-compiler-7b-ftd-f16.gguf",
+            "size": "13478104960",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b1f75d4f55656dbc7b2052f06d1eb1eaf99ed5d7aaf306f520e72136bd98f829",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-7b-ftd-GGUF/resolve/main/llm-compiler-7b-ftd-f16.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-7b-ftd-Q2_K.gguf",
+            "size": "2532863872",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "7196a23999c22eb54e6b96612f314bd0e0cd4e4945483a732710949f63661cb6",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-7b-ftd-GGUF/resolve/main/llm-compiler-7b-ftd-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-7b-ftd-Q3_K_L.gguf",
+            "size": "3597111168",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "5c691f5119cf467b363928f8d88d9418df2f075a7a891a2a53f0f173fd017866",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-7b-ftd-GGUF/resolve/main/llm-compiler-7b-ftd-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-7b-ftd-Q3_K_M.gguf",
+            "size": "3298004864",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "db8ae0056c0b18ab6374930f2aefdd3e6c4eaabe85e2a2cf6a94f3afca1495ed",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-7b-ftd-GGUF/resolve/main/llm-compiler-7b-ftd-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-7b-ftd-Q3_K_S.gguf",
+            "size": "2948304768",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "b872e7611a3beb4a183b936a1d4d8dc44329fb42ea94ffbd8cb6fead7fa54c04",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-7b-ftd-GGUF/resolve/main/llm-compiler-7b-ftd-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-7b-ftd-Q4_0.gguf",
+            "size": "3825807232",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "2e268640e541dcb658131be78c7635c74a3aba53a9f6187f42749f1774a9adfc",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-7b-ftd-GGUF/resolve/main/llm-compiler-7b-ftd-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-7b-ftd-Q4_K_M.gguf",
+            "size": "4081004416",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "ba608b8f0d5c5d779d20973d90fc479337f88f823a0f191d1972b6ef90c4be33",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-7b-ftd-GGUF/resolve/main/llm-compiler-7b-ftd-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-7b-ftd-Q4_K_S.gguf",
+            "size": "3856740224",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "a5df5e5acaf163b47fd529739644aaa47fb510a05d2c17d08ecdb8feb7aebd58",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-7b-ftd-GGUF/resolve/main/llm-compiler-7b-ftd-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-7b-ftd-Q5_0.gguf",
+            "size": "4651691904",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "4668f30560094ec76548f1e040ee6439dd7c913214aeb57e23599eb473dc41d3",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-7b-ftd-GGUF/resolve/main/llm-compiler-7b-ftd-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-7b-ftd-Q5_K_M.gguf",
+            "size": "4783157120",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "95003f19e378c854ae1d6b3714bc30e4787f9e6c5673f92c006e49b2499599a4",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-7b-ftd-GGUF/resolve/main/llm-compiler-7b-ftd-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-7b-ftd-Q5_K_S.gguf",
+            "size": "4651691904",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "78e50e6e825427d613d4f27c83fb79fff50a13f901794163d683bcb35b0a1b2a",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-7b-ftd-GGUF/resolve/main/llm-compiler-7b-ftd-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-7b-ftd-Q6_K.gguf",
+            "size": "5529194368",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "7173b0b8bc292788673c1687d09d861643a7702f3fdd569f697c34c9c8b55967",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-7b-ftd-GGUF/resolve/main/llm-compiler-7b-ftd-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-7b-ftd-Q8_0.gguf",
+            "size": "7161089920",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "be40a09ea18ffc6ed60e480b836f2f3ca4d8a916970c209fe6ebf178f4156164",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-7b-ftd-GGUF/resolve/main/llm-compiler-7b-ftd-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 4096,
+    "vector_size": 0,
+    "metrics": null
+}

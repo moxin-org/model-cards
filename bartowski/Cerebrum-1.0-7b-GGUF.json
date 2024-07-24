@@ -1,0 +1,143 @@
+{
+    "id": "bartowski/Cerebrum-1.0-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bartowski",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-13T14:02:17Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Cerebrum-1.0-7b-Q2_K.gguf",
+            "size": "2719243072",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "7fcd26b0e4e755fa3be7214592a7f6f4ef4e82e5ce94dedf8c44950df90563ea",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Cerebrum-1.0-7b-GGUF/resolve/main/Cerebrum-1.0-7b-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Cerebrum-1.0-7b-Q3_K_L.gguf",
+            "size": "3822025536",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "5b0fe726445ea95fa91d5d2ac9b2fdefbe1622f465b8a69297195bc4e9d10d06",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Cerebrum-1.0-7b-GGUF/resolve/main/Cerebrum-1.0-7b-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Cerebrum-1.0-7b-Q3_K_M.gguf",
+            "size": "3518987072",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "a31d2f48587181def95a081c5a6d695b9819a93b3ae5a6c98eeba96971194132",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Cerebrum-1.0-7b-GGUF/resolve/main/Cerebrum-1.0-7b-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Cerebrum-1.0-7b-Q3_K_S.gguf",
+            "size": "3164568384",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "6baa643f94a312117c8ca1fa0920f213f5f29e4ae4919d91ea44bf31a238d3e2",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Cerebrum-1.0-7b-GGUF/resolve/main/Cerebrum-1.0-7b-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Cerebrum-1.0-7b-Q4_0.gguf",
+            "size": "4108917568",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "0e948fd74ce7f1fd3e92d9dd905ac23737a02b8513e0e5729afcef990e3a5f0e",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Cerebrum-1.0-7b-GGUF/resolve/main/Cerebrum-1.0-7b-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Cerebrum-1.0-7b-Q4_K_M.gguf",
+            "size": "4368440128",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5b9064719a75ea6f0050f50585d89858f54aec7cc2ea07f5285ac582ec6c45fc",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Cerebrum-1.0-7b-GGUF/resolve/main/Cerebrum-1.0-7b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Cerebrum-1.0-7b-Q4_K_S.gguf",
+            "size": "4140374848",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "38e628f7e7c70cf27fede9d51cb0cc5a15029970a1f7d6a5e9d67e6ebffaec51",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Cerebrum-1.0-7b-GGUF/resolve/main/Cerebrum-1.0-7b-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Cerebrum-1.0-7b-Q5_0.gguf",
+            "size": "4997716800",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "45dd2b3c013725deebf7c6dd51bd457eea84a02d1b8138d629c49faf7e6a7b49",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Cerebrum-1.0-7b-GGUF/resolve/main/Cerebrum-1.0-7b-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Cerebrum-1.0-7b-Q5_K_M.gguf",
+            "size": "5131410240",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "9442d94563eb4e6479f6c6aa8629e9f44814859a9ad0016f2ab986740920a495",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Cerebrum-1.0-7b-GGUF/resolve/main/Cerebrum-1.0-7b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Cerebrum-1.0-7b-Q5_K_S.gguf",
+            "size": "4997716800",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "9dff8c477b5f3f0c9d8293f641c70e4fdcc3d839e9213daf5131e2c811978d33",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Cerebrum-1.0-7b-GGUF/resolve/main/Cerebrum-1.0-7b-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Cerebrum-1.0-7b-Q6_K.gguf",
+            "size": "5942065984",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "0b86cf739d73df6dbfe9af4ec90d0f12b5d5cbd64c5fa375e0360e6995932bc2",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Cerebrum-1.0-7b-GGUF/resolve/main/Cerebrum-1.0-7b-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Cerebrum-1.0-7b-Q8_0.gguf",
+            "size": "7695858496",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "e894dd0732eb0d7e8965e4f4ed4b1f007ccf13493f8e46e7e2b429c4c0b782b4",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Cerebrum-1.0-7b-GGUF/resolve/main/Cerebrum-1.0-7b-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

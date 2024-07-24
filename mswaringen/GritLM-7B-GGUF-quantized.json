@@ -1,0 +1,43 @@
+{
+    "id": "mswaringen/GritLM-7B-GGUF-quantized",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mswaringen",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-28T13:03:39Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "GritLM-7B-GGUF-Q4_K_M.gguf",
+            "size": "4368439424",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "dde0280220e09f04165ab813a0486ad2bc7022b48d51433c6e66fa6126340fae",
+            "download": {
+                "default": "https://huggingface.co/mswaringen/GritLM-7B-GGUF-quantized/resolve/main/GritLM-7B-GGUF-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "GritLM-7B-GGUF-Q8_0.gguf",
+            "size": "7695857792",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "e54d63897f256848f05f32120addec0821f32e96a401b5910660e22db2e5357e",
+            "download": {
+                "default": "https://huggingface.co/mswaringen/GritLM-7B-GGUF-quantized/resolve/main/GritLM-7B-GGUF-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

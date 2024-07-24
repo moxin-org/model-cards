@@ -1,0 +1,43 @@
+{
+    "id": "tsunemoto/openchat_3.5-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "tsunemoto",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-11T03:06:51Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "openchat_3.5.Q4_K_M.gguf",
+            "size": "4368450624",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "f3ea8844179668d1633007505a967e07375ec42b3973536ca62e4c68ee6da1da",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/openchat_3.5-GGUF/resolve/main/openchat_3.5.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "openchat_3.5.Q5_K_M.gguf",
+            "size": "3044494848",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "38a60d50da51119b5e738dcb4b641873e181d9c40975321fd933a162218aa73c",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/openchat_3.5-GGUF/resolve/main/openchat_3.5.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

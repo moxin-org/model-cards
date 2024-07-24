@@ -1,0 +1,133 @@
+{
+    "id": "brittlewis12/Memphis-CoT-3B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "brittlewis12",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-31T01:06:29Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "memphis-cot-3b.fp16.gguf",
+            "size": "5593341760",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2a6f908ab67f1f15b30406968dafdec44e4975931eaaa486d6140541b55cc74b",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Memphis-CoT-3B-GGUF/resolve/main/memphis-cot-3b.fp16.gguf"
+            }
+        },
+        {
+            "name": "memphis-cot-3b.Q2_K.gguf",
+            "size": "1083755936",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "623705c03e027f58288865a315f5f3a4e3de852a3ea5dfc53ec7439859ebcbf8",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Memphis-CoT-3B-GGUF/resolve/main/memphis-cot-3b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "memphis-cot-3b.Q3_K_L.gguf",
+            "size": "1508564896",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "c0937d32fa4a5f6a0d69d99876e1632dc4189a80a3e219f8b4c75d4a0b93ed4d",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Memphis-CoT-3B-GGUF/resolve/main/memphis-cot-3b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "memphis-cot-3b.Q3_K_M.gguf",
+            "size": "1391419296",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "58a28e76133c5e6587a331b199a6e4d56f229dc56dac760662e098ebea10750d",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Memphis-CoT-3B-GGUF/resolve/main/memphis-cot-3b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "memphis-cot-3b.Q3_K_S.gguf",
+            "size": "1254449056",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "de9017037a52389c45206400240e21bc6510f047ecd6b27f3661aa09e8ac44e1",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Memphis-CoT-3B-GGUF/resolve/main/memphis-cot-3b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "memphis-cot-3b.Q4_K_M.gguf",
+            "size": "1708595616",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4d4456e61c282806b3f9ec941c45c28ea682a6d654aae60f3e8848c12c91a295",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Memphis-CoT-3B-GGUF/resolve/main/memphis-cot-3b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "memphis-cot-3b.Q4_K_S.gguf",
+            "size": "1620695456",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "4af89a7fa9d3d10d0e6fd4dccc28e1b973deb5696a7106ea28a789508be95f29",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Memphis-CoT-3B-GGUF/resolve/main/memphis-cot-3b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "memphis-cot-3b.Q5_K_M.gguf",
+            "size": "1993390496",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "dd9fe63c50700a9e1fed8073e814bdbc79becb337ace7d96d5a495d6f73c7a88",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Memphis-CoT-3B-GGUF/resolve/main/memphis-cot-3b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "memphis-cot-3b.Q5_K_S.gguf",
+            "size": "1941862816",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "41e1b217517de05e80134aa71886c9a83c2c4ff5a81f61cfb4b27a2a6f89ee5d",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Memphis-CoT-3B-GGUF/resolve/main/memphis-cot-3b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "memphis-cot-3b.Q6_K.gguf",
+            "size": "2295985056",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "2f55942102479b4e1acefd0a2788f3498aac4c8c1f26e84e1d1a494d7ab0b970",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Memphis-CoT-3B-GGUF/resolve/main/memphis-cot-3b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "memphis-cot-3b.Q8_0.gguf",
+            "size": "2972925856",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "865d593632f922ead60cc82e9e3843ebaaa667655850644291466bc9fdba22ca",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Memphis-CoT-3B-GGUF/resolve/main/memphis-cot-3b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

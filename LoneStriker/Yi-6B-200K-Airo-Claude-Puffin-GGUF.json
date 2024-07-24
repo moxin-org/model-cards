@@ -1,0 +1,73 @@
+{
+    "id": "LoneStriker/Yi-6B-200K-Airo-Claude-Puffin-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LoneStriker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-12T10:04:19Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Yi-6B-200K-Airo-Claude-Puffin-Q3_K_M.gguf",
+            "size": "2992846080",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "b3600005caf6df4d76f14a7a8abe5def3634bd18171719ac273e5ba90e21dd67",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Yi-6B-200K-Airo-Claude-Puffin-GGUF/resolve/main/Yi-6B-200K-Airo-Claude-Puffin-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Yi-6B-200K-Airo-Claude-Puffin-Q4_K_M.gguf",
+            "size": "3673979200",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "88ca8d324be85633aa77e2c2955c0de638e752633b3db435a226bd1b85ccb4f9",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Yi-6B-200K-Airo-Claude-Puffin-GGUF/resolve/main/Yi-6B-200K-Airo-Claude-Puffin-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Yi-6B-200K-Airo-Claude-Puffin-Q4_K_S.gguf",
+            "size": "3502930240",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "fcf0ce139623a88f3cba39a1263e2e18e33ebbf9b33f68d3417a3282531b5dcc",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Yi-6B-200K-Airo-Claude-Puffin-GGUF/resolve/main/Yi-6B-200K-Airo-Claude-Puffin-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Yi-6B-200K-Airo-Claude-Puffin-Q6_K.gguf",
+            "size": "4974297472",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b3cb2cc36901000f18362080664fcc67e29df9d44402849a1b4b8565d9b7447b",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Yi-6B-200K-Airo-Claude-Puffin-GGUF/resolve/main/Yi-6B-200K-Airo-Claude-Puffin-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Yi-6B-200K-Airo-Claude-Puffin-Q8_0.gguf",
+            "size": "6442144000",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "973105d8e73500bdf88632ceeb2a30c23a41a0eaa4e07d4958937427814b34cb",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Yi-6B-200K-Airo-Claude-Puffin-GGUF/resolve/main/Yi-6B-200K-Airo-Claude-Puffin-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,43 @@
+{
+    "id": "megaaziib/Miacaroni-7B-Indonesia-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "megaaziib",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-21T21:56:48Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "miacaroni-7b-indonesia.Q4_K_M.gguf",
+            "size": "4368438976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "77f3c305deb5acf122d85b45ef29c6842c7fb6232d54cbd246523d0c6d1643bb",
+            "download": {
+                "default": "https://huggingface.co/megaaziib/Miacaroni-7B-Indonesia-GGUF/resolve/main/miacaroni-7b-indonesia.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "miacaroni-7b-indonesia.Q5_K_M.gguf",
+            "size": "5131409088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "546caeab3fe51c5490a3799d1b1dd0f40098bedda44a8f6c807bc2557b59e6eb",
+            "download": {
+                "default": "https://huggingface.co/megaaziib/Miacaroni-7B-Indonesia-GGUF/resolve/main/miacaroni-7b-indonesia.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

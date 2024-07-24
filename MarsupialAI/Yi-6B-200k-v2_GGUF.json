@@ -1,0 +1,83 @@
+{
+    "id": "MarsupialAI/Yi-6B-200k-v2_GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "MarsupialAI",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-09T17:24:49Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Yi-6B-200k-v2_fp16.gguf",
+            "size": "12124097824",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dfc60834fd1afa7c87fe8b43003280a8c9e8e597dcaf6272a24f2033f0c52e5b",
+            "download": {
+                "default": "https://huggingface.co/MarsupialAI/Yi-6B-200k-v2_GGUF/resolve/main/Yi-6B-200k-v2_fp16.gguf"
+            }
+        },
+        {
+            "name": "Yi-6B-200k-v2_Q3km.gguf",
+            "size": "2992835936",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dbccc5fedad667153caca9dbebcb83d2f09f44c02c81849afd0f7589c19e1a63",
+            "download": {
+                "default": "https://huggingface.co/MarsupialAI/Yi-6B-200k-v2_GGUF/resolve/main/Yi-6B-200k-v2_Q3km.gguf"
+            }
+        },
+        {
+            "name": "Yi-6B-200k-v2_Q4km.gguf",
+            "size": "3673967968",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d036734cfa2152dbf6ddf9991a5af386168029f9c2634e97ec513919ce8934b4",
+            "download": {
+                "default": "https://huggingface.co/MarsupialAI/Yi-6B-200k-v2_GGUF/resolve/main/Yi-6B-200k-v2_Q4km.gguf"
+            }
+        },
+        {
+            "name": "Yi-6B-200k-v2_Q5km.gguf",
+            "size": "4304424288",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6f240cccaa7556d53ca8afc0eacf9a8a83ce572748d7a819c4ea4ffbdbc1d193",
+            "download": {
+                "default": "https://huggingface.co/MarsupialAI/Yi-6B-200k-v2_GGUF/resolve/main/Yi-6B-200k-v2_Q5km.gguf"
+            }
+        },
+        {
+            "name": "Yi-6B-200k-v2_Q6.gguf",
+            "size": "4974284128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e8f18b49392b9d87cedc66ebe9d32c3ed9ec95743bfde663156f5b638ed90003",
+            "download": {
+                "default": "https://huggingface.co/MarsupialAI/Yi-6B-200k-v2_GGUF/resolve/main/Yi-6B-200k-v2_Q6.gguf"
+            }
+        },
+        {
+            "name": "Yi-6B-200k-v2_Q8.gguf",
+            "size": "6442126688",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d707553ab6ab1494c9f149633ebb5afb24fcbdf4e04a5032768dd42ed30df4e7",
+            "download": {
+                "default": "https://huggingface.co/MarsupialAI/Yi-6B-200k-v2_GGUF/resolve/main/Yi-6B-200k-v2_Q8.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

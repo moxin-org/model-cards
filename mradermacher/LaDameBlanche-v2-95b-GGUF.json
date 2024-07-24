@@ -1,0 +1,83 @@
+{
+    "id": "mradermacher/LaDameBlanche-v2-95b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-02T03:02:40Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "LaDameBlanche-v2-95b.IQ3_M.gguf",
+            "size": "42595726752",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "924072b7891d8ed8034b79f4eb04ff426932aa4001cd313683a8e432790799ec",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LaDameBlanche-v2-95b-GGUF/resolve/main/LaDameBlanche-v2-95b.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "LaDameBlanche-v2-95b.IQ3_S.gguf",
+            "size": "41209771424",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "ea71d782696f02cfce73b00ba2a41ef18d027562ff801c8b1ddcedca93171f41",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LaDameBlanche-v2-95b-GGUF/resolve/main/LaDameBlanche-v2-95b.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "LaDameBlanche-v2-95b.IQ3_XS.gguf",
+            "size": "38992819616",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "a5f06f8a6a9f0b95e21fcf0200d62e63a7dd8657c9ca3ffa5973649b2fde31d8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LaDameBlanche-v2-95b-GGUF/resolve/main/LaDameBlanche-v2-95b.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "LaDameBlanche-v2-95b.Q2_K.gguf",
+            "size": "35091576224",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "8929285889db429905a7f6cc5797663c8c14e327d51f5e08225a6995f43f5cb5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LaDameBlanche-v2-95b-GGUF/resolve/main/LaDameBlanche-v2-95b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "LaDameBlanche-v2-95b.Q3_K_M.gguf",
+            "size": "45799912864",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "862e66a95d862eadd074d3f322be14a6163fac97a59ac23ffa1a72958a3baf96",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LaDameBlanche-v2-95b-GGUF/resolve/main/LaDameBlanche-v2-95b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "LaDameBlanche-v2-95b.Q3_K_S.gguf",
+            "size": "41087219104",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "9934774b1b26f29af036b1845aa9adc0678ef26df684d9b5a9135f69405f6d41",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LaDameBlanche-v2-95b-GGUF/resolve/main/LaDameBlanche-v2-95b.Q3_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

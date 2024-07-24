@@ -1,0 +1,83 @@
+{
+    "id": "RichardErkhov/google_-_gemma-2b-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "RichardErkhov",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-12T05:10:45Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "gemma-2b.IQ3_M.gguf",
+            "size": "1308173440",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "b9be746ae69119626015b6ed62f8c20f5278e307ab9c49022e7631d2823a563c",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/google_-_gemma-2b-gguf/resolve/main/gemma-2b.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b.IQ3_S.gguf",
+            "size": "1289233536",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "47bacd4747b84bdbb758187e296a4f09264e2cfea4cd401854db24e7161eb85d",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/google_-_gemma-2b-gguf/resolve/main/gemma-2b.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b.IQ3_XS.gguf",
+            "size": "1244357760",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "20b56a5954570d597515e14116baa39ea9657dfa792b794ce4e569ff71be0062",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/google_-_gemma-2b-gguf/resolve/main/gemma-2b.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b.Q2_K.gguf",
+            "size": "1157923968",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "7497026eb5e8fe885692f6bb843f47f8ba0442b5178c09e98722cf981cbf12b7",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/google_-_gemma-2b-gguf/resolve/main/gemma-2b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b.Q3_K_S.gguf",
+            "size": "1287980160",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "0a5e06b74676bdcad45792bdd2924da5d8b5698a0700f68a4a328ba8e541028e",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/google_-_gemma-2b-gguf/resolve/main/gemma-2b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b.Q3_K.gguf",
+            "size": "1383801984",
+            "quantization": "Q3_K",
+            "tags": [],
+            "sha256": "dd1d29505b3d8df9439f256ab632feedb589bdf512f5ca6ee7b65f0a06119a0f",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/google_-_gemma-2b-gguf/resolve/main/gemma-2b.Q3_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

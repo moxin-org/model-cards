@@ -1,0 +1,123 @@
+{
+    "id": "TheBloke/LLaMA-65B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-20T02:33:10Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llama-65b.Q2_K.gguf",
+            "size": "27043165088",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "27d4b0ec42fbcd388df81fe6af9438d64064087a186dbde0d2527ea8ffa9f557",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/LLaMA-65B-GGUF/resolve/main/llama-65b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "llama-65b.Q3_K_L.gguf",
+            "size": "34648372128",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "1e8ce5698ef3733cdf52fb33291fd021b3100e20bdcabfb772e5d16a5830494a",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/LLaMA-65B-GGUF/resolve/main/llama-65b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "llama-65b.Q3_K_M.gguf",
+            "size": "31564510112",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "1ca58b2597a3bfbc13b85e7b9b8601053935383755abaeaeff50609e0af072e2",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/LLaMA-65B-GGUF/resolve/main/llama-65b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama-65b.Q3_K_S.gguf",
+            "size": "28160308128",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "661c9878544f7b3cbe907e9b787c9738b4fa2683d59fbdc23212b0fd898cc4ab",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/LLaMA-65B-GGUF/resolve/main/llama-65b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "llama-65b.Q4_0.gguf",
+            "size": "36796068768",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "9c9c0c22add65c44e246415929984b6c704abd3551605a766eee2e84dbe0d56b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/LLaMA-65B-GGUF/resolve/main/llama-65b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "llama-65b.Q4_K_M.gguf",
+            "size": "39348040608",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "6e57fa77665f75a2e2ab0e37a45fb8f0b20f5454c432f2549aee5904bf4d17e7",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/LLaMA-65B-GGUF/resolve/main/llama-65b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama-65b.Q4_K_S.gguf",
+            "size": "36919800736",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "e1233e80e303f4a2c3ebff28de36e19ac2b1fefbba56d1ac8f68c47138fd9447",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/LLaMA-65B-GGUF/resolve/main/llama-65b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "llama-65b.Q5_0.gguf",
+            "size": "44923843488",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "cb8fbed12580c37b8d41c3ae7dd3fa49d2351592efda053192dcd786553c35b6",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/LLaMA-65B-GGUF/resolve/main/llama-65b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "llama-65b.Q5_K_M.gguf",
+            "size": "46238495648",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e74cc64524a22e90bcdfbdb66a7d47fc5e74e5658ababf2e1319628aca8f68fb",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/LLaMA-65B-GGUF/resolve/main/llama-65b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama-65b.Q5_K_S.gguf",
+            "size": "44923843488",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "2d7eca5a6211ec7438a97991a0d4e73436c6c5e2287158a4725b035d9e5e7baf",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/LLaMA-65B-GGUF/resolve/main/llama-65b.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

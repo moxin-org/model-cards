@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/NeuralNinja-2x-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-05T00:55:22Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "NeuralNinja-2x-7B.IQ3_M.gguf",
+            "size": "5738830016",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "fd12d1a3dd41340c702339f2915a264e3fa863c50b0e02514b836ee53a9ad96a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralNinja-2x-7B-GGUF/resolve/main/NeuralNinja-2x-7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "NeuralNinja-2x-7B.IQ3_S.gguf",
+            "size": "5605136576",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "7f9e766d792fdd25c3ae955f0609ade1651f4d391d37428e26e154bcff0dbbb2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralNinja-2x-7B-GGUF/resolve/main/NeuralNinja-2x-7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "NeuralNinja-2x-7B.IQ3_XS.gguf",
+            "size": "5298428096",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "5cd61249e5356d622c1324b6d99773e4bc89a416124cb97a4a46f8c31e7d2229",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralNinja-2x-7B-GGUF/resolve/main/NeuralNinja-2x-7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "NeuralNinja-2x-7B.IQ4_XS.gguf",
+            "size": "6976354496",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "7485c01a08f0ed2a949fce19cf15e4f60e4f0ec1898ddf64fa8b76945b019dde",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralNinja-2x-7B-GGUF/resolve/main/NeuralNinja-2x-7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "NeuralNinja-2x-7B.Q2_K.gguf",
+            "size": "4760303808",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "f4389f51c63765136bd19b44c52da20d920f9870fa2369593d90bdf113a8cb2e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralNinja-2x-7B-GGUF/resolve/main/NeuralNinja-2x-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "NeuralNinja-2x-7B.Q3_K_L.gguf",
+            "size": "6729210048",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "2d924c51a484b9861a4163ee20faf19712a5569e4dad6a3c134e536263bf8afd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralNinja-2x-7B-GGUF/resolve/main/NeuralNinja-2x-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "NeuralNinja-2x-7B.Q3_K_M.gguf",
+            "size": "6205970624",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "b70387652f48b8182dae454e536170c67783959df23ec7e2bf9d945b85c1a0fd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralNinja-2x-7B-GGUF/resolve/main/NeuralNinja-2x-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "NeuralNinja-2x-7B.Q3_K_S.gguf",
+            "size": "5587310784",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "8008e859927918879bea47bfcddb8f3341f7c436c1df99c10ba7dfce03b9bd26",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralNinja-2x-7B-GGUF/resolve/main/NeuralNinja-2x-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "NeuralNinja-2x-7B.Q4_K_M.gguf",
+            "size": "7782086848",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "2c17e84b8f3f48b3595ac413ce01cd68e26c28d544de4333dd17924e3afe33d0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralNinja-2x-7B-GGUF/resolve/main/NeuralNinja-2x-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "NeuralNinja-2x-7B.Q4_K_S.gguf",
+            "size": "7341160640",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "2fa6b2dffef020d5cd5b621f047d205fccb0d4843dc3348edb8380aeae4e5e2f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralNinja-2x-7B-GGUF/resolve/main/NeuralNinja-2x-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "NeuralNinja-2x-7B.Q5_K_M.gguf",
+            "size": "9132259520",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "66f4d5970be3d5dd5d9b743951b3df8363b316480e977d59cb4c9963fbc9dc6b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralNinja-2x-7B-GGUF/resolve/main/NeuralNinja-2x-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "NeuralNinja-2x-7B.Q5_K_S.gguf",
+            "size": "8873785536",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "dd501a333a1cfeffb0b22bcf9674246e5d79c7117bdf105208fa5d9f3f96680a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralNinja-2x-7B-GGUF/resolve/main/NeuralNinja-2x-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "NeuralNinja-2x-7B.Q6_K.gguf",
+            "size": "10566817984",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "6fe580157bde8cf62d4df792b056cf408f315b8b72f06bd516a679f37f714b4d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralNinja-2x-7B-GGUF/resolve/main/NeuralNinja-2x-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "NeuralNinja-2x-7B.Q8_0.gguf",
+            "size": "13685856448",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "25f31025e383aa34e7ee7b365fd05d930d4c6b07627c187cd0c78d4ea795ca6a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralNinja-2x-7B-GGUF/resolve/main/NeuralNinja-2x-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

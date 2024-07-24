@@ -1,0 +1,163 @@
+{
+    "id": "ChristianAzinn/gte-small-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "ChristianAzinn",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-07T20:21:52Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "gte-small_fp16.gguf",
+            "size": "67308128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6c3d85a9af8ef795854d28cd25fa14bbf1638243d6c094d6f4c673b50b69271d",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/gte-small-gguf/resolve/main/gte-small_fp16.gguf"
+            }
+        },
+        {
+            "name": "gte-small_fp32.gguf",
+            "size": "133609568",
+            "quantization": "",
+            "tags": [],
+            "sha256": "edf8351430d6d9aea41c768644b9e01b7c8f9f01f7176ded435be1dbe8190718",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/gte-small-gguf/resolve/main/gte-small_fp32.gguf"
+            }
+        },
+        {
+            "name": "gte-small.Q2_K.gguf",
+            "size": "25250080",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "71bc9beaecd0a3c5f075b8959f84c4cdf6c27dbc39930b0ab4d7c443b9373bc6",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/gte-small-gguf/resolve/main/gte-small.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "gte-small.Q3_K_L.gguf",
+            "size": "27738400",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "3b7da433caf1dc18a00d49511d29f50e17def98fb1d5d4d49c469ce8802b76f2",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/gte-small-gguf/resolve/main/gte-small.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "gte-small.Q3_K_M.gguf",
+            "size": "26724640",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "70c313740b579db2afffb61b625d70a70f2619331539661c5e95a2bfa20b2bf3",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/gte-small-gguf/resolve/main/gte-small.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "gte-small.Q3_K_S.gguf",
+            "size": "25250080",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "c79755bc45783cf2e8a25fbae721a644cb2c177b1bee0cc96afe9048de652b41",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/gte-small-gguf/resolve/main/gte-small.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "gte-small.Q4_0.gguf",
+            "size": "26190112",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "cd96dfa36de559194177d9dda0d51c393e5933d56eaa9b8d2013adf09677f1c0",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/gte-small-gguf/resolve/main/gte-small.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "gte-small.Q4_K_M.gguf",
+            "size": "29203744",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "2b330c1579bac032397b48f5aa92b7b5ab2b94d72cc43cd15925db3ffd03fd61",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/gte-small-gguf/resolve/main/gte-small.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "gte-small.Q4_K_S.gguf",
+            "size": "28217632",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "427635ac612c74e9609743bdcd1bd41ac8b1009ecc82515fc86b9ca926a23dfa",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/gte-small-gguf/resolve/main/gte-small.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "gte-small.Q5_0.gguf",
+            "size": "28844320",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "20bd6030de6233c2d005f5b26e1d7bf66eb898818a0c96acb90300d9a4621f30",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/gte-small-gguf/resolve/main/gte-small.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "gte-small.Q5_K_M.gguf",
+            "size": "30475552",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "baff7241c5bc5246a92bd4311019430b3cd5299297c3d3595767bf5b68786d8d",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/gte-small-gguf/resolve/main/gte-small.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "gte-small.Q5_K_S.gguf",
+            "size": "29729056",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "2a06f8ad9dcc747557174d535ccdd3b3e9aa15f78020615927d74ee5cbc1d96c",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/gte-small-gguf/resolve/main/gte-small.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "gte-small.Q6_K.gguf",
+            "size": "35092768",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "ad68d196e49e16c9c06119f14c87ae36fcc97a461246ce13ff91a7cabb48b374",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/gte-small-gguf/resolve/main/gte-small.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "gte-small.Q8_0.gguf",
+            "size": "36806944",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "10978226002dd2db19dc4828083f6af5cff7d442ae76cb8dd9c4b7a8ba6550a7",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/gte-small-gguf/resolve/main/gte-small.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

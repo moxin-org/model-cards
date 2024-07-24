@@ -1,0 +1,43 @@
+{
+    "id": "DisOOM/Qwen1.5-20B-Chat-Merge-V2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "DisOOM",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-25T02:42:34Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-Q5_0.gguf",
+            "size": "13972410784",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "94295391911105d533c5ffc03132da152e5e441fe7f3626e074b0428f4589f17",
+            "download": {
+                "default": "https://huggingface.co/DisOOM/Qwen1.5-20B-Chat-Merge-V2-GGUF/resolve/main/ggml-model-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q8_0.gguf",
+            "size": "21427356064",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "aece82c565feee52eac661b9fb5c7fdd6bf3d220a28ab5c1309de36d8d687b73",
+            "download": {
+                "default": "https://huggingface.co/DisOOM/Qwen1.5-20B-Chat-Merge-V2-GGUF/resolve/main/ggml-model-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

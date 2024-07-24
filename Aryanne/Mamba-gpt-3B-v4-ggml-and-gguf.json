@@ -1,0 +1,63 @@
+{
+    "id": "Aryanne/Mamba-gpt-3B-v4-ggml-and-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Aryanne",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-06T03:52:47Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "q4_0-gguf-mamba-gpt-3B_v4.gguf",
+            "size": "1979924096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2c6013d39ee9b8bf8b605bdbc39e8609d52e38efda0f3881f8795bd0c91b2c1a",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/Mamba-gpt-3B-v4-ggml-and-gguf/resolve/main/q4_0-gguf-mamba-gpt-3B_v4.gguf"
+            }
+        },
+        {
+            "name": "q4_1-gguf-mamba-gpt-3B_v4.gguf",
+            "size": "2187668096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "378df186cf93c6f3e7309e41b5d9135841773a0513f5cc853cba7ae30f3dbf68",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/Mamba-gpt-3B-v4-ggml-and-gguf/resolve/main/q4_1-gguf-mamba-gpt-3B_v4.gguf"
+            }
+        },
+        {
+            "name": "q5_0-gguf-mamba-gpt-3B_v4.gguf",
+            "size": "2395412096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c8e587c6cacd15167a2c8d90da4520376f16bbf1a0e6f350979194a19fc3b96b",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/Mamba-gpt-3B-v4-ggml-and-gguf/resolve/main/q5_0-gguf-mamba-gpt-3B_v4.gguf"
+            }
+        },
+        {
+            "name": "q5_1-gguf-mamba-gpt-3B_v4.gguf",
+            "size": "2603156096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "64d4e1e305fbcc9cacb1ded5eacab809dc2d2f4b1ff80cd41dfe580c2bec9994",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/Mamba-gpt-3B-v4-ggml-and-gguf/resolve/main/q5_1-gguf-mamba-gpt-3B_v4.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,33 @@
+{
+    "id": "akx/Finnish-NLP-llama-7b-finnish-instruct-v0.2-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "akx",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-06T11:26:41Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-Q5_K_M.gguf",
+            "size": "4983316096",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "3a297788c98d25cf8e3cd1dbee2bd0f47241814f14ae33c42da8810d4d2b6aac",
+            "download": {
+                "default": "https://huggingface.co/akx/Finnish-NLP-llama-7b-finnish-instruct-v0.2-gguf/resolve/main/ggml-model-Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

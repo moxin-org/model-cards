@@ -1,0 +1,233 @@
+{
+    "id": "mradermacher/Eileithyia-20b-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-25T04:58:40Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Eileithyia-20b.i1-IQ4_XS.gguf",
+            "size": "10865635584",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "8e1d098bab2cd710a239f21d576ca1346a1a194ae386526d9c5bd758ab138559",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Eileithyia-20b-i1-GGUF/resolve/main/Eileithyia-20b.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Eileithyia-20b.i1-Q6_K.gguf",
+            "size": "16597712608",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "6750859ebc6d48f7500123143a60285060095a2850f3a3741a0516eabe593d1d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Eileithyia-20b-i1-GGUF/resolve/main/Eileithyia-20b.i1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Eileithyia-20b.i1-Q5_K_S.gguf",
+            "size": "13964055584",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "df6f2f2b41b801712a3f748e4d4f7443107ab4f1848bd88aa2f8d0f9fc095d9a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Eileithyia-20b-i1-GGUF/resolve/main/Eileithyia-20b.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Eileithyia-20b.i1-Q5_K_M.gguf",
+            "size": "14350513184",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ac8372f63c5e53b965525ae75c10b188d74c9c1185710e7891fe7ef43f38974d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Eileithyia-20b-i1-GGUF/resolve/main/Eileithyia-20b.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Eileithyia-20b.i1-Q4_K_S.gguf",
+            "size": "11560358304",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "cfb2373f5c9b02e9290e7f50778d7b90c8cefd5d906573f5bc674ca8f5767d2c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Eileithyia-20b-i1-GGUF/resolve/main/Eileithyia-20b.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Eileithyia-20b.i1-Q4_K_M.gguf",
+            "size": "12235501984",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "fdd8166fc4dd7de5f8769d795e9ca1990889fae413a13949a77c09706a988404",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Eileithyia-20b-i1-GGUF/resolve/main/Eileithyia-20b.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Eileithyia-20b.i1-Q4_0.gguf",
+            "size": "11516285344",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "19fc4602150f922e929f4bebd4ee8542b2c49f21b67fb5372f8fb4cf807d6b79",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Eileithyia-20b-i1-GGUF/resolve/main/Eileithyia-20b.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Eileithyia-20b.i1-Q3_K_S.gguf",
+            "size": "8851662592",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "2b0e81b49f552b869725875ea7568f9916002877ab814a3b33277d7f4e1b61f9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Eileithyia-20b-i1-GGUF/resolve/main/Eileithyia-20b.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Eileithyia-20b.i1-Q3_K_M.gguf",
+            "size": "9899296512",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "c4f9002a4da386cbf6b0945a1d4de10b263faadca38bad016d29e71cf714b8c2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Eileithyia-20b-i1-GGUF/resolve/main/Eileithyia-20b.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Eileithyia-20b.i1-Q3_K_L.gguf",
+            "size": "10821060352",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "689627642f64f31adcfb9b3d53051f74c565921a52f1a434ce26b9e1bce48068",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Eileithyia-20b-i1-GGUF/resolve/main/Eileithyia-20b.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Eileithyia-20b.i1-Q2_K.gguf",
+            "size": "7613512960",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "53c93d96c963f364c3ec23ae56e47d5f40f8118c7f2bfc7ea5982f7c1c9cf3e8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Eileithyia-20b-i1-GGUF/resolve/main/Eileithyia-20b.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Eileithyia-20b.i1-IQ1_S.gguf",
+            "size": "4609035520",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "1f1ad873d86224f55baaae3af33334a2b3b73672f4ce85d16423b4f319d16a03",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Eileithyia-20b-i1-GGUF/resolve/main/Eileithyia-20b.i1-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "Eileithyia-20b.i1-IQ4_NL.gguf",
+            "size": "11485319584",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "4a8d8eb7d9dbee702684fa6f245a296860b996c593b99a135156acdcabf92504",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Eileithyia-20b-i1-GGUF/resolve/main/Eileithyia-20b.i1-IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Eileithyia-20b.i1-IQ3_XXS.gguf",
+            "size": "7802840832",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "53b95b4b378fa1a61c725b6fdae8e37211515578962bd966e46099a357c149f4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Eileithyia-20b-i1-GGUF/resolve/main/Eileithyia-20b.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "Eileithyia-20b.i1-IQ3_XS.gguf",
+            "size": "8387421952",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "97e6264437fa1c4f285364aee864e0b77c8165ed39d18d89f6afb40683ea754c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Eileithyia-20b-i1-GGUF/resolve/main/Eileithyia-20b.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Eileithyia-20b.i1-IQ3_S.gguf",
+            "size": "8851662592",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "0a2ba2b54b8840a99f82904cad8bbac26872e05f7f0575df7ceb880769d44610",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Eileithyia-20b-i1-GGUF/resolve/main/Eileithyia-20b.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Eileithyia-20b.i1-IQ3_M.gguf",
+            "size": "9349183232",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "caa93b1cab956593c7245001f354ed5c54ac5bffdb412b162bb16537a597a154",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Eileithyia-20b-i1-GGUF/resolve/main/Eileithyia-20b.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Eileithyia-20b.i1-IQ2_XXS.gguf",
+            "size": "5604035840",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "addbdc79de1f96ae7b5c62bc2559289f6403ca65ec55b0c4a5ae237357928347",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Eileithyia-20b-i1-GGUF/resolve/main/Eileithyia-20b.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "Eileithyia-20b.i1-IQ2_XS.gguf",
+            "size": "6152326400",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "6aaca1d112a99bc8483b3ee4f46d57cc8416b549a7270cc4b27422c27094ed3e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Eileithyia-20b-i1-GGUF/resolve/main/Eileithyia-20b.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Eileithyia-20b.i1-IQ2_S.gguf",
+            "size": "6612911872",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "c2865531416e1e47413e9c265bd28e5c35c9115d58a3ef15c0a9ae49d88ed7fc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Eileithyia-20b-i1-GGUF/resolve/main/Eileithyia-20b.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "Eileithyia-20b.i1-IQ2_M.gguf",
+            "size": "7110412032",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "70251189576404b436e67a35f6af99e180fefcb96e9a95e66d25cffaa0b35642",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Eileithyia-20b-i1-GGUF/resolve/main/Eileithyia-20b.i1-IQ2_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

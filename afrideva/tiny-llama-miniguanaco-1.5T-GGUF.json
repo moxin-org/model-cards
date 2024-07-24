@@ -1,0 +1,83 @@
+{
+    "id": "afrideva/tiny-llama-miniguanaco-1.5T-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-05T08:22:47Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tiny-llama-miniguanaco-1.5t.q2_k.gguf",
+            "size": "482142656",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3a5bea5f90514cc796da4e6b03b19b5e3fcb5e1c5be913d843c4dd8da8707ca4",
+            "download": {
+                "default": "https://huggingface.co/afrideva/tiny-llama-miniguanaco-1.5T-GGUF/resolve/main/tiny-llama-miniguanaco-1.5t.q2_k.gguf"
+            }
+        },
+        {
+            "name": "tiny-llama-miniguanaco-1.5t.q3_k_m.gguf",
+            "size": "549845440",
+            "quantization": "",
+            "tags": [],
+            "sha256": "74e09893943518d3f16da41fe067dcb6d3b9a71d56ed95bf449b12d55a27753f",
+            "download": {
+                "default": "https://huggingface.co/afrideva/tiny-llama-miniguanaco-1.5T-GGUF/resolve/main/tiny-llama-miniguanaco-1.5t.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "tiny-llama-miniguanaco-1.5t.q4_k_m.gguf",
+            "size": "667814336",
+            "quantization": "",
+            "tags": [],
+            "sha256": "68d8b83e3fc58d1f06e0e79d42a2a6010c1cedd1eb162090a4e6b886c98dc0cb",
+            "download": {
+                "default": "https://huggingface.co/afrideva/tiny-llama-miniguanaco-1.5T-GGUF/resolve/main/tiny-llama-miniguanaco-1.5t.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "tiny-llama-miniguanaco-1.5t.q5_k_m.gguf",
+            "size": "782043584",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2e6b8ec4cd3b7631f2361598ed468c371939a3122d3c482e1137487b3b71d648",
+            "download": {
+                "default": "https://huggingface.co/afrideva/tiny-llama-miniguanaco-1.5T-GGUF/resolve/main/tiny-llama-miniguanaco-1.5t.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "tiny-llama-miniguanaco-1.5t.q6_k.gguf",
+            "size": "903412160",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5daa6a35571b37d90ee08e91a77704192c454ddb2bc9086affdc9fceaefdce15",
+            "download": {
+                "default": "https://huggingface.co/afrideva/tiny-llama-miniguanaco-1.5T-GGUF/resolve/main/tiny-llama-miniguanaco-1.5t.q6_k.gguf"
+            }
+        },
+        {
+            "name": "tiny-llama-miniguanaco-1.5t.q8_0.gguf",
+            "size": "1169807808",
+            "quantization": "",
+            "tags": [],
+            "sha256": "81bdbc45a455faa527f12de14100ea10a4a03a1f8e9343152b212dea30786ffb",
+            "download": {
+                "default": "https://huggingface.co/afrideva/tiny-llama-miniguanaco-1.5T-GGUF/resolve/main/tiny-llama-miniguanaco-1.5t.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

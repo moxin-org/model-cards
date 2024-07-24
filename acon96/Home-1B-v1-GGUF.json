@@ -1,0 +1,73 @@
+{
+    "id": "acon96/Home-1B-v1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "acon96",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-14T17:28:26Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Home-1B-v1.q2_k.gguf",
+            "size": "582316416",
+            "quantization": "",
+            "tags": [],
+            "sha256": "defbf8e493f8846d02d5e44efc6e52ac314d56c8135b1562a525f5e8ef132ae0",
+            "download": {
+                "default": "https://huggingface.co/acon96/Home-1B-v1-GGUF/resolve/main/Home-1B-v1.q2_k.gguf"
+            }
+        },
+        {
+            "name": "Home-1B-v1.q3_k_m.gguf",
+            "size": "741863808",
+            "quantization": "",
+            "tags": [],
+            "sha256": "06257a5b4463a4754f6d10ea17914cbe3300649552e5d8a4f354b2b0a9062316",
+            "download": {
+                "default": "https://huggingface.co/acon96/Home-1B-v1-GGUF/resolve/main/Home-1B-v1.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "Home-1B-v1.q4_k_m.gguf",
+            "size": "893546880",
+            "quantization": "",
+            "tags": [],
+            "sha256": "16f31be8e137144e13af6cfb732ee839973524ceec49540a7d4dd915253b6b4e",
+            "download": {
+                "default": "https://huggingface.co/acon96/Home-1B-v1-GGUF/resolve/main/Home-1B-v1.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "Home-1B-v1.q5_k_m.gguf",
+            "size": "1026191744",
+            "quantization": "",
+            "tags": [],
+            "sha256": "39b0469682fe131842cb771f04c519fbd15daf36db4442d5d589ec861b3277ab",
+            "download": {
+                "default": "https://huggingface.co/acon96/Home-1B-v1-GGUF/resolve/main/Home-1B-v1.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "Home-1B-v1.q8_0.gguf",
+            "size": "1510470016",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c6a1e2c6083c4a41765d4c94b4057df2a5701e77137ec3b573ae8d9167bae1b8",
+            "download": {
+                "default": "https://huggingface.co/acon96/Home-1B-v1-GGUF/resolve/main/Home-1B-v1.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

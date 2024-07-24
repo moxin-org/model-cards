@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/llamoe-8x1b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-29T18:44:17Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llamoe-8x1b.IQ3_M.gguf",
+            "size": "3159885920",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "038c21913555ced6a16e3d2bf769df7731e2650da1a9e968a0d89cc8530860b6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llamoe-8x1b-GGUF/resolve/main/llamoe-8x1b.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "llamoe-8x1b.IQ3_S.gguf",
+            "size": "3037333600",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "ea14d1097948678f8a649176a1c29faa4709f2fd92d596bc8fd3d887769d158d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llamoe-8x1b-GGUF/resolve/main/llamoe-8x1b.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "llamoe-8x1b.IQ3_XS.gguf",
+            "size": "2881620064",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "5c85c5662353f3ed0e2e41a1071079badfc73268fe4b28b625cb541407026033",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llamoe-8x1b-GGUF/resolve/main/llamoe-8x1b.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "llamoe-8x1b.IQ4_NL.gguf",
+            "size": "3890206816",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "713509eeae75896770b9a509487869c355e0cdb5def59e4798370f544a262adf",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llamoe-8x1b-GGUF/resolve/main/llamoe-8x1b.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "llamoe-8x1b.IQ4_XS.gguf",
+            "size": "3700725856",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "ebd081f206da9030c09fbcad551f8973d7bd4be2c515b98bb5dffdefe43198f4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llamoe-8x1b-GGUF/resolve/main/llamoe-8x1b.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "llamoe-8x1b.Q2_K.gguf",
+            "size": "2608953440",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "54e28ee0511bb78fbae4d6265b6486821e8317cfd00498cdcdf07c56503825c4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llamoe-8x1b-GGUF/resolve/main/llamoe-8x1b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "llamoe-8x1b.Q3_K_L.gguf",
+            "size": "3536914528",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "9bb70bdc34573fa6348017f657a995525ef1cf0a320dcf98992c58f7b822b280",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llamoe-8x1b-GGUF/resolve/main/llamoe-8x1b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "llamoe-8x1b.Q3_K_M.gguf",
+            "size": "3318483040",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "60061d4999e0e4b4bc6b5cec4430147df2002909a064a6eed86d51508efadcce",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llamoe-8x1b-GGUF/resolve/main/llamoe-8x1b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "llamoe-8x1b.Q3_K_S.gguf",
+            "size": "3037333600",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "8090123646db5e15645e9ae1d283ab5ab7bc6534b6c4f71110414dc13552e1be",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llamoe-8x1b-GGUF/resolve/main/llamoe-8x1b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "llamoe-8x1b.Q4_0.gguf",
+            "size": "3855603808",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "9216123f59b6433c070b0b4cfc5855d0a21ca08e471b579d941afc172cb3cd3d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llamoe-8x1b-GGUF/resolve/main/llamoe-8x1b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "llamoe-8x1b.Q4_K_M.gguf",
+            "size": "4105033824",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "13f9be38c32666c4258806d367301e8d5f18fb99e8d2225826e4d0891101b126",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llamoe-8x1b-GGUF/resolve/main/llamoe-8x1b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "llamoe-8x1b.Q4_K_S.gguf",
+            "size": "3890206816",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "247363127927b4f433c1cd0abc60ab7efeb7848de0c608c6497f807c7d038d28",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llamoe-8x1b-GGUF/resolve/main/llamoe-8x1b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "llamoe-8x1b.Q5_K_M.gguf",
+            "size": "4770682976",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f2c12d35601b04d3916f497b70de5eead1577387ed293ac81e9bdeb463d5f80f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llamoe-8x1b-GGUF/resolve/main/llamoe-8x1b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "llamoe-8x1b.Q5_K_S.gguf",
+            "size": "4648130656",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "a252bc2d356222d91e482fde351fe3a03db4624be9d7c3a5fc7c78137cbe10e8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llamoe-8x1b-GGUF/resolve/main/llamoe-8x1b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "llamoe-8x1b.Q6_K.gguf",
+            "size": "5490190432",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "ae37d39557fa2cdcd501a4a81f01ffca9ac18e03b8bf5bb58320eafa9adaa838",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llamoe-8x1b-GGUF/resolve/main/llamoe-8x1b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "llamoe-8x1b.Q8_0.gguf",
+            "size": "7025711200",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "f14bfacd7ae251f3670139dc789871493def58c4fea03eb10e74226d5eadc8ea",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llamoe-8x1b-GGUF/resolve/main/llamoe-8x1b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

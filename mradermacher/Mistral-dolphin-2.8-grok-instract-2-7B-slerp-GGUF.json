@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Mistral-dolphin-2.8-grok-instract-2-7B-slerp-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-03T05:36:56Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Mistral-dolphin-2.8-grok-instract-2-7B-slerp.IQ3_M.gguf",
+            "size": "3439515840",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "812613c32e28f3763c4f93fccb52a3b807a24de6578d0e7904343fc29618b118",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-dolphin-2.8-grok-instract-2-7B-slerp-GGUF/resolve/main/Mistral-dolphin-2.8-grok-instract-2-7B-slerp.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Mistral-dolphin-2.8-grok-instract-2-7B-slerp.IQ3_S.gguf",
+            "size": "3337017536",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "64f64bf6a13b8807e0181f338cfa30096215c761d5f4db051402d934c5e4b142",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-dolphin-2.8-grok-instract-2-7B-slerp-GGUF/resolve/main/Mistral-dolphin-2.8-grok-instract-2-7B-slerp.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Mistral-dolphin-2.8-grok-instract-2-7B-slerp.IQ3_XS.gguf",
+            "size": "3173439680",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "f3139596209cb315ac19f48e11fb4eaab294e26e1287e44cd9e0fe5990ddd20b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-dolphin-2.8-grok-instract-2-7B-slerp-GGUF/resolve/main/Mistral-dolphin-2.8-grok-instract-2-7B-slerp.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Mistral-dolphin-2.8-grok-instract-2-7B-slerp.IQ4_XS.gguf",
+            "size": "4099012800",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "e2c6e7992230d81afd134fd6bf8405381fdadb29febe2a73970e74df8b28f07b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-dolphin-2.8-grok-instract-2-7B-slerp-GGUF/resolve/main/Mistral-dolphin-2.8-grok-instract-2-7B-slerp.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Mistral-dolphin-2.8-grok-instract-2-7B-slerp.Q2_K.gguf",
+            "size": "2873866432",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "6d0cab01e238b0d8b45b985ba2fcbac2cc992d3edc8d294d2fc2c42e043c5694",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-dolphin-2.8-grok-instract-2-7B-slerp-GGUF/resolve/main/Mistral-dolphin-2.8-grok-instract-2-7B-slerp.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Mistral-dolphin-2.8-grok-instract-2-7B-slerp.Q3_K_L.gguf",
+            "size": "3976648896",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "c2b0357dc5631c4d2b8a692387a934c11a6f958a9f81d23b5bbc3d244a48909f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-dolphin-2.8-grok-instract-2-7B-slerp-GGUF/resolve/main/Mistral-dolphin-2.8-grok-instract-2-7B-slerp.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Mistral-dolphin-2.8-grok-instract-2-7B-slerp.Q3_K_M.gguf",
+            "size": "3673610432",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "58687e432445bddac2f274ff654b5c2151c3414e414db1b1192399aa6e264e46",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-dolphin-2.8-grok-instract-2-7B-slerp-GGUF/resolve/main/Mistral-dolphin-2.8-grok-instract-2-7B-slerp.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mistral-dolphin-2.8-grok-instract-2-7B-slerp.Q3_K_S.gguf",
+            "size": "3319191744",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "f2997c9d26609cd0e09228f80983aafc772af466e833939c3f2a13759ae4c3bb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-dolphin-2.8-grok-instract-2-7B-slerp-GGUF/resolve/main/Mistral-dolphin-2.8-grok-instract-2-7B-slerp.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mistral-dolphin-2.8-grok-instract-2-7B-slerp.Q4_K_M.gguf",
+            "size": "4523063488",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "812bd4fce9ea831e2e49a2bf2da749f29fc3d5562fad723677e15eeb37acd89e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-dolphin-2.8-grok-instract-2-7B-slerp-GGUF/resolve/main/Mistral-dolphin-2.8-grok-instract-2-7B-slerp.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mistral-dolphin-2.8-grok-instract-2-7B-slerp.Q4_K_S.gguf",
+            "size": "4294998208",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "1c620392bfc12fa27c59495e8237c18c12edcd133d7759609ffa032c34b46e7d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-dolphin-2.8-grok-instract-2-7B-slerp-GGUF/resolve/main/Mistral-dolphin-2.8-grok-instract-2-7B-slerp.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mistral-dolphin-2.8-grok-instract-2-7B-slerp.Q5_K_M.gguf",
+            "size": "5286033600",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "359ff8d55c5b3adaf80fa11cc0633947bf991cfa056ceedba75f45f2a5d37e13",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-dolphin-2.8-grok-instract-2-7B-slerp-GGUF/resolve/main/Mistral-dolphin-2.8-grok-instract-2-7B-slerp.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mistral-dolphin-2.8-grok-instract-2-7B-slerp.Q5_K_S.gguf",
+            "size": "5152340160",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "836897382b3264811cf844254b1f00dd6e7dbf31f01766514ad4efb63346e75f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-dolphin-2.8-grok-instract-2-7B-slerp-GGUF/resolve/main/Mistral-dolphin-2.8-grok-instract-2-7B-slerp.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mistral-dolphin-2.8-grok-instract-2-7B-slerp.Q6_K.gguf",
+            "size": "6096689344",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "ba8351fa2ddffbdf09b0de58852486173b4fd45a668be22b558a452828b7c9fb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-dolphin-2.8-grok-instract-2-7B-slerp-GGUF/resolve/main/Mistral-dolphin-2.8-grok-instract-2-7B-slerp.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Mistral-dolphin-2.8-grok-instract-2-7B-slerp.Q8_0.gguf",
+            "size": "7818737856",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "9f277b874f959f738b5a92457a121deb24748e0cdec3db5038ff54bef7388aca",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-dolphin-2.8-grok-instract-2-7B-slerp-GGUF/resolve/main/Mistral-dolphin-2.8-grok-instract-2-7B-slerp.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

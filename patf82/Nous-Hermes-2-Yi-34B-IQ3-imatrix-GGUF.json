@@ -1,0 +1,43 @@
+{
+    "id": "patf82/Nous-Hermes-2-Yi-34B-IQ3-imatrix-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "patf82",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-25T11:14:19Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "nous-hermes-yi-34b.IQ3_M.gguf",
+            "size": "15564699904",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "5076db1b00e9ef96e91efccc722f4c5b95300da4e68fbe2cab3f9547db7eb87d",
+            "download": {
+                "default": "https://huggingface.co/patf82/Nous-Hermes-2-Yi-34B-IQ3-imatrix-GGUF/resolve/main/nous-hermes-yi-34b.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "nous-hermes-yi-34b.IQ3_S.gguf",
+            "size": "15018785024",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "1381f8a2e8c64156e4eb19d9a111b3fb9ff780b15d2caa224db928945e9ce1b0",
+            "download": {
+                "default": "https://huggingface.co/patf82/Nous-Hermes-2-Yi-34B-IQ3-imatrix-GGUF/resolve/main/nous-hermes-yi-34b.IQ3_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

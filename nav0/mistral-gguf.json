@@ -1,0 +1,63 @@
+{
+    "id": "nav0/mistral-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "nav0",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-26T19:53:09Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-f16.gguf",
+            "size": "14484732096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1ce4ecb4893e4a2eb30f45a83f44e15fe9e251a5a7ac5d6a797f9e4ab865d780",
+            "download": {
+                "default": "https://huggingface.co/nav0/mistral-gguf/resolve/main/ggml-model-f16.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-f32.gguf",
+            "size": "28967663808",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5058708a7acc3a692b50be20116f3d8f2e42ff385dc4f865755d211b9347de62",
+            "download": {
+                "default": "https://huggingface.co/nav0/mistral-gguf/resolve/main/ggml-model-f32.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_0.gguf",
+            "size": "4108916960",
+            "quantization": "",
+            "tags": [],
+            "sha256": "31a225f120755aa49991bc1e87318d3901ccf9f64840c1aef74e37b565ade76c",
+            "download": {
+                "default": "https://huggingface.co/nav0/mistral-gguf/resolve/main/ggml-model-q4_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q8_0.gguf",
+            "size": "7695857888",
+            "quantization": "",
+            "tags": [],
+            "sha256": "85914f770df2d09de8f2e0003f6337e3785b419ae187be47d4e5f0e1d1d1cb74",
+            "download": {
+                "default": "https://huggingface.co/nav0/mistral-gguf/resolve/main/ggml-model-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

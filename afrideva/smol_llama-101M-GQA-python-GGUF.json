@@ -1,0 +1,93 @@
+{
+    "id": "afrideva/smol_llama-101M-GQA-python-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-28T17:28:24Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "smol_llama-101m-gqa-python.fp16.gguf",
+            "size": "203277120",
+            "quantization": "",
+            "tags": [],
+            "sha256": "debf34a79927d28eeab3efd9a64810d86e7ecf48c3a3f1e0b2aad2bb93ff77df",
+            "download": {
+                "default": "https://huggingface.co/afrideva/smol_llama-101M-GQA-python-GGUF/resolve/main/smol_llama-101m-gqa-python.fp16.gguf"
+            }
+        },
+        {
+            "name": "smol_llama-101m-gqa-python.q2_k.gguf",
+            "size": "50931296",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a5e51b709846aa1dcb54c7660c280756a6ec5ccfb34a9b5c3b7edb5c5e16e48b",
+            "download": {
+                "default": "https://huggingface.co/afrideva/smol_llama-101M-GQA-python-GGUF/resolve/main/smol_llama-101m-gqa-python.q2_k.gguf"
+            }
+        },
+        {
+            "name": "smol_llama-101m-gqa-python.q3_k_m.gguf",
+            "size": "57062240",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7728750c790ca4c053f8faf4f0c892825b3c27df5855a495596d9de38c1ccb5c",
+            "download": {
+                "default": "https://huggingface.co/afrideva/smol_llama-101M-GQA-python-GGUF/resolve/main/smol_llama-101m-gqa-python.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "smol_llama-101m-gqa-python.q4_k_m.gguf",
+            "size": "65405024",
+            "quantization": "",
+            "tags": [],
+            "sha256": "485a4e4de7c3486f21deb016f0f537a6911f9d868addaa08087a9397be5565cc",
+            "download": {
+                "default": "https://huggingface.co/afrideva/smol_llama-101M-GQA-python-GGUF/resolve/main/smol_llama-101m-gqa-python.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "smol_llama-101m-gqa-python.q5_k_m.gguf",
+            "size": "74338400",
+            "quantization": "",
+            "tags": [],
+            "sha256": "573fe4b705cd04c771d48358c7af5fd0779cea46d418cac15d9a209e024080bf",
+            "download": {
+                "default": "https://huggingface.co/afrideva/smol_llama-101M-GQA-python-GGUF/resolve/main/smol_llama-101m-gqa-python.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "smol_llama-101m-gqa-python.q6_k.gguf",
+            "size": "83830112",
+            "quantization": "",
+            "tags": [],
+            "sha256": "038737ba9a30bbd3cf3a20359759a5768405b99a12d768be0fb4456be1d23a1f",
+            "download": {
+                "default": "https://huggingface.co/afrideva/smol_llama-101M-GQA-python-GGUF/resolve/main/smol_llama-101m-gqa-python.q6_k.gguf"
+            }
+        },
+        {
+            "name": "smol_llama-101m-gqa-python.q8_0.gguf",
+            "size": "108352352",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f9528e5a32b6fe346f37932a45d256e3670b26c4153d0b48f3763ec18ae09594",
+            "download": {
+                "default": "https://huggingface.co/afrideva/smol_llama-101M-GQA-python-GGUF/resolve/main/smol_llama-101m-gqa-python.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

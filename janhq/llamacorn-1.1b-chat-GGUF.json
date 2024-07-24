@@ -1,0 +1,63 @@
+{
+    "id": "janhq/llamacorn-1.1b-chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "janhq",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-25T09:15:50Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llamacorn-1.1b-chat.Q3_K_M.gguf",
+            "size": "550818976",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "76db37a627caec95d8820d037e0c626260f7114b85e6f0da67e979d47ca2287c",
+            "download": {
+                "default": "https://huggingface.co/janhq/llamacorn-1.1b-chat-GGUF/resolve/main/llamacorn-1.1b-chat.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "llamacorn-1.1b-chat.Q4_K_M.gguf",
+            "size": "668787872",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "f3f88d62cbedf41abcd84570880494cbf943399e91b045644086be3113186ded",
+            "download": {
+                "default": "https://huggingface.co/janhq/llamacorn-1.1b-chat-GGUF/resolve/main/llamacorn-1.1b-chat.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "llamacorn-1.1b-chat.Q5_K_M.gguf",
+            "size": "783017120",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "af55ea86a2f29b8526360fd8af021dfbfcc8f3bff1e0cc028ede11a0cf0e4197",
+            "download": {
+                "default": "https://huggingface.co/janhq/llamacorn-1.1b-chat-GGUF/resolve/main/llamacorn-1.1b-chat.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "llamacorn-1.1b-chat.Q8_0.gguf",
+            "size": "1170781344",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "3325e1769b83eaf01dccab3b6d2e2fc62e0930a0b9a6e4ce54b3d825e9bfd4c0",
+            "download": {
+                "default": "https://huggingface.co/janhq/llamacorn-1.1b-chat-GGUF/resolve/main/llamacorn-1.1b-chat.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

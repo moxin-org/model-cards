@@ -1,0 +1,133 @@
+{
+    "id": "mradermacher/WizardLM-70B-V1.0-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-04T10:21:07Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "WizardLM-70B-V1.0.IQ3_M.gguf",
+            "size": "31777849792",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "1dd374b025a212107e5a02753c027a40e45d01aef5f81a85f47c0f657affd835",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WizardLM-70B-V1.0-GGUF/resolve/main/WizardLM-70B-V1.0.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "WizardLM-70B-V1.0.IQ3_S.gguf",
+            "size": "30752866752",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "10dd5adb4cdda7373fec9a1dc5252431811ab262ca42eeab05acfadc8f283f33",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WizardLM-70B-V1.0-GGUF/resolve/main/WizardLM-70B-V1.0.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "WizardLM-70B-V1.0.IQ3_XS.gguf",
+            "size": "29148545472",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "c5b25f2b85d7e12d8aa9bbaca4e23ddf0fbd63f2798f058f461be79643e67f6a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WizardLM-70B-V1.0-GGUF/resolve/main/WizardLM-70B-V1.0.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "WizardLM-70B-V1.0.IQ4_XS.gguf",
+            "size": "38030394624",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "9757101985a6ef488c36de81122161339397a9cdb972d38e8649ad8d6c1a96bc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WizardLM-70B-V1.0-GGUF/resolve/main/WizardLM-70B-V1.0.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "WizardLM-70B-V1.0.Q2_K.gguf",
+            "size": "26296008320",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "d6287ad2d79a411696855fa42fd5ee93def304617e653304ed2f665275aff660",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WizardLM-70B-V1.0-GGUF/resolve/main/WizardLM-70B-V1.0.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "WizardLM-70B-V1.0.Q3_K_L.gguf",
+            "size": "36981408192",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "c08db3e56e8b20b7fd169e20ccf60fa5d9bdccd293e3b70f1c888a04cfd8f3e6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WizardLM-70B-V1.0-GGUF/resolve/main/WizardLM-70B-V1.0.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "WizardLM-70B-V1.0.Q3_K_M.gguf",
+            "size": "34108309952",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "038dbb5b26a132a90537f8cae9e3bd163b80104101c8bafb14ecbbf477aa0632",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WizardLM-70B-V1.0-GGUF/resolve/main/WizardLM-70B-V1.0.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "WizardLM-70B-V1.0.Q3_K_S.gguf",
+            "size": "30752866752",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "363590229c61e7106daa9360bb03b6caf92fbce13ab0e1bc167bfe35cccc3401",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WizardLM-70B-V1.0-GGUF/resolve/main/WizardLM-70B-V1.0.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "WizardLM-70B-V1.0.Q4_K_M.gguf",
+            "size": "42256483840",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "8c1aaa8077e47c9e6ca713a7d47b0b0b33fa7259af98c34236f1685aaf139846",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WizardLM-70B-V1.0-GGUF/resolve/main/WizardLM-70B-V1.0.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "WizardLM-70B-V1.0.Q4_K_S.gguf",
+            "size": "40083310080",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "406650736e37cf8e1f19d002a987802e9a853735805f135858528e314c8fac52",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WizardLM-70B-V1.0-GGUF/resolve/main/WizardLM-70B-V1.0.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "WizardLM-70B-V1.0.Q5_K_S.gguf",
+            "size": "48294971904",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "f6b9c2a283a05a5aa7166f3fd80f976f1aeb39738867ac872a38241107aef068",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WizardLM-70B-V1.0-GGUF/resolve/main/WizardLM-70B-V1.0.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

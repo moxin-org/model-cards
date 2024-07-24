@@ -1,0 +1,33 @@
+{
+    "id": "skehlet/mistral-7b-know_sql-finetune-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "skehlet",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-12T22:33:32Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistral-7b-know_sql-finetune.Q4_K_M.gguf",
+            "size": "4368439040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "930d9238dc85a9e2605e664fa446530ed6344a7a9c3580d6ae071451fac588df",
+            "download": {
+                "default": "https://huggingface.co/skehlet/mistral-7b-know_sql-finetune-GGUF/resolve/main/mistral-7b-know_sql-finetune.Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

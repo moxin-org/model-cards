@@ -1,0 +1,123 @@
+{
+    "id": "TheBloke/Chronos-70B-v2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-06T00:26:18Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "chronos-70b-v2.Q2_K.gguf",
+            "size": "29279253408",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "54560e889e9641fdfbd61af81caf2a42651aa143193ffbbfcb7af43fef1599ae",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Chronos-70B-v2-GGUF/resolve/main/chronos-70b-v2.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "chronos-70b-v2.Q3_K_L.gguf",
+            "size": "36147835808",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "876924dc14b9819dfd639ae4491641df59c75cc4429bcbe1f133e129eb76078f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Chronos-70B-v2-GGUF/resolve/main/chronos-70b-v2.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "chronos-70b-v2.Q3_K_M.gguf",
+            "size": "33186657184",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "783b3a552ce21aa0447ae500bb967bed440ea535d2e0d4043ca96ec186092e1e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Chronos-70B-v2-GGUF/resolve/main/chronos-70b-v2.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "chronos-70b-v2.Q3_K_S.gguf",
+            "size": "29919294368",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "ba61bf871d4e1bda81c59b9e0b5612f4fee822ef2e114cbae904a38fa5dc360e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Chronos-70B-v2-GGUF/resolve/main/chronos-70b-v2.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "chronos-70b-v2.Q4_0.gguf",
+            "size": "38872249248",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "ce29a7679317f72adf63da2b1909be1ce20f7813895dbd95e50c0f9b842a08a4",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Chronos-70B-v2-GGUF/resolve/main/chronos-70b-v2.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "chronos-70b-v2.Q4_K_M.gguf",
+            "size": "41422910368",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e670eac5066c3625c5442045d0b3f2b37f36f0c5c43847dc3f76d7f825bf6608",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Chronos-70B-v2-GGUF/resolve/main/chronos-70b-v2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "chronos-70b-v2.Q4_K_S.gguf",
+            "size": "39073575840",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "4f5ce5cfffdba398f4dfb667ad9465e88424004bcd997edfffb867ea4d57d613",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Chronos-70B-v2-GGUF/resolve/main/chronos-70b-v2.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "chronos-70b-v2.Q5_0.gguf",
+            "size": "47461397408",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "a1025f1d9e068d4d3c8de7294bbbb10cd5c1306c7c6dc310d3a0b61efb73e417",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Chronos-70B-v2-GGUF/resolve/main/chronos-70b-v2.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "chronos-70b-v2.Q5_K_M.gguf",
+            "size": "48753767328",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "1339e9b476894db455c50429098cf20063e4f1506b62f073ff2e0652cab40d31",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Chronos-70B-v2-GGUF/resolve/main/chronos-70b-v2.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "chronos-70b-v2.Q5_K_S.gguf",
+            "size": "47461397408",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "28c61c4767af5b1566585740e8a3065c09f1edc331ae92c340074921b46a9366",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Chronos-70B-v2-GGUF/resolve/main/chronos-70b-v2.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Covasna-0.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-12T03:18:13Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Covasna-0.1.IQ3_M.gguf",
+            "size": "18956877952",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "bb7841b7a0e45bac6982cee97c7faf84307e8528fb4365803aba7470b5164637",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Covasna-0.1-GGUF/resolve/main/Covasna-0.1.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Covasna-0.1.IQ3_S.gguf",
+            "size": "18341888128",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "eb95a1ecb3dc62ae5358be5784680cda84b6f52fabcdb27c0ce3c720b4b3db2c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Covasna-0.1-GGUF/resolve/main/Covasna-0.1.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Covasna-0.1.IQ3_XS.gguf",
+            "size": "17325817984",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "da80c4b257dbf501399b022dbc8a6155c37345b4fde26fa10a8e6071bb7befec",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Covasna-0.1-GGUF/resolve/main/Covasna-0.1.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Covasna-0.1.IQ4_XS.gguf",
+            "size": "22769386432",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "d98b3b1da25333b789d32e1939f24573ab4ce9727a885f26a9d600eacc649dd3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Covasna-0.1-GGUF/resolve/main/Covasna-0.1.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Covasna-0.1.Q2_K.gguf",
+            "size": "15657123136",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "ad7657024e5339245bb3e2bbbf3bedafc89999faae5405963ec0fe5c58d1302b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Covasna-0.1-GGUF/resolve/main/Covasna-0.1.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Covasna-0.1.Q3_K_L.gguf",
+            "size": "22129344640",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "3cecfe910229f1c24aebad317d29ed937e6a4b3408fc077b43da6100e37e2b38",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Covasna-0.1-GGUF/resolve/main/Covasna-0.1.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Covasna-0.1.Q3_K_M.gguf",
+            "size": "20357251200",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "042d90aac3b11e0fef9fdb147986f0359ca8fda060cbed237ff57a8263c4661e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Covasna-0.1-GGUF/resolve/main/Covasna-0.1.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Covasna-0.1.Q3_K_S.gguf",
+            "size": "18288410752",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "11b5072b639441fe1ce56fc45959ea81099d78822b92c2ad1ae9c4137f7a2458",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Covasna-0.1-GGUF/resolve/main/Covasna-0.1.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Covasna-0.1.Q4_K_M.gguf",
+            "size": "25283151040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "157063096382ef29e2405ee7a4f419f2f52561e8f2866942c9b97e283fdc7254",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Covasna-0.1-GGUF/resolve/main/Covasna-0.1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Covasna-0.1.Q4_K_S.gguf",
+            "size": "23958275264",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "75a014e6faff1fdeadb880761c35b94ad98d3d661001de8e3e68fe53c17913de",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Covasna-0.1-GGUF/resolve/main/Covasna-0.1.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Covasna-0.1.Q5_K_M.gguf",
+            "size": "29719939264",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "4691e020958752f7021678a5da203fc620f890bfa25a061f6e1b9b4aaf40f8f2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Covasna-0.1-GGUF/resolve/main/Covasna-0.1.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Covasna-0.1.Q5_K_S.gguf",
+            "size": "28944517312",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "ebdc40718d97f22f0fc68ed38480ea6da7c1a08ff698c31d993348e0a8637720",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Covasna-0.1-GGUF/resolve/main/Covasna-0.1.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Covasna-0.1.Q6_K.gguf",
+            "size": "34434026752",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "bd931466604cdd3606ed795700b53d913823e20415edfb4328b38a60b737621e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Covasna-0.1-GGUF/resolve/main/Covasna-0.1.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Covasna-0.1.Q8_0.gguf",
+            "size": "44444308672",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "669116e8ba5ce273993e167c88210fdb37e0f5f83cc808e76cb79dd94bf4a4bc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Covasna-0.1-GGUF/resolve/main/Covasna-0.1.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,53 @@
+{
+    "id": "neopolita/liberated-qwen1.5-72b-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "neopolita",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-16T11:43:21Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "liberated-qwen1.5-72b_q2_k.gguf",
+            "size": "28461062848",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e1f4fd506639602026162d4c1eb5b0b90d1f4d8db9e709f0f38b035969c45fdb",
+            "download": {
+                "default": "https://huggingface.co/neopolita/liberated-qwen1.5-72b-gguf/resolve/main/liberated-qwen1.5-72b_q2_k.gguf"
+            }
+        },
+        {
+            "name": "liberated-qwen1.5-72b_q3_k_m.gguf",
+            "size": "35927612096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "27f1cae3db90c55f4e46eeadda133d44f7c2b0158571f82298a3713e63e21a1f",
+            "download": {
+                "default": "https://huggingface.co/neopolita/liberated-qwen1.5-72b-gguf/resolve/main/liberated-qwen1.5-72b_q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "liberated-qwen1.5-72b_q4_k_m.gguf",
+            "size": "44104178368",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2b0dc0e0e7a450d17ba7cc842e0f908d892c70e2708a4f3acc25b794994a6805",
+            "download": {
+                "default": "https://huggingface.co/neopolita/liberated-qwen1.5-72b-gguf/resolve/main/liberated-qwen1.5-72b_q4_k_m.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

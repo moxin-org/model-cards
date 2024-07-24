@@ -1,0 +1,33 @@
+{
+    "id": "praveeny/phi2-webglm-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "praveeny",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-25T02:30:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "phi2-v2-Q5_K_M.gguf",
+            "size": "2003057184",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "1563b23916f4f2a6be29a377c9b615c85ee86f5a28071d384d6c1b9257bbbce0",
+            "download": {
+                "default": "https://huggingface.co/praveeny/phi2-webglm-gguf/resolve/main/phi2-v2-Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

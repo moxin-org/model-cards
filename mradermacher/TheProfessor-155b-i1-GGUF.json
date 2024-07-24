@@ -1,0 +1,73 @@
+{
+    "id": "mradermacher/TheProfessor-155b-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-23T03:39:07Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "TheProfessor-155b.i1-IQ1_M.gguf",
+            "size": "35869827008",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "ffc2e675e3d8aa4d4c2d58cb1e9fb6bf391ca8d8c891874c8e7e98bab1bc570f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/TheProfessor-155b-i1-GGUF/resolve/main/TheProfessor-155b.i1-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "TheProfessor-155b.i1-IQ1_S.gguf",
+            "size": "32699719616",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "c6f8d7a7718ea75295e5544442c3bfc10b414443b172de6ad17c48700dbbb3ad",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/TheProfessor-155b-i1-GGUF/resolve/main/TheProfessor-155b.i1-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "TheProfessor-155b.i1-IQ2_S.gguf",
+            "size": "48007767616",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "11b3fb1fbc6e8108584475c9990c4eb81f104e91580542bbfbb843bc906925fa",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/TheProfessor-155b-i1-GGUF/resolve/main/TheProfessor-155b.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "TheProfessor-155b.i1-IQ2_XS.gguf",
+            "size": "45757636544",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "8c9aeca7885700e564c4c3802a870c3004ad25c8ed0acbd5aaae43ea043290da",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/TheProfessor-155b-i1-GGUF/resolve/main/TheProfessor-155b.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "TheProfessor-155b.i1-IQ2_XXS.gguf",
+            "size": "41153339328",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "db1f1da4feb8ce49354930ec52988cef641718025e03c8d6d599e2619cbc960f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/TheProfessor-155b-i1-GGUF/resolve/main/TheProfessor-155b.i1-IQ2_XXS.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

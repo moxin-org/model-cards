@@ -1,0 +1,73 @@
+{
+    "id": "nold/Orion-14B-Base-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "nold",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-07T14:56:51Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Orion-14B-Base_Q3_K_M.gguf",
+            "size": "7126521920",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "3a57b9515ecd603850f923a5c15a4a3b32023a2646dac2ab4e827b6e673e0925",
+            "download": {
+                "default": "https://huggingface.co/nold/Orion-14B-Base-GGUF/resolve/main/Orion-14B-Base_Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Orion-14B-Base_Q4_K_M.gguf",
+            "size": "8812624960",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "956810022ff8b07e0d18d430d03c4822bbfb09373b38e5a62f092cf940a0ca95",
+            "download": {
+                "default": "https://huggingface.co/nold/Orion-14B-Base-GGUF/resolve/main/Orion-14B-Base_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Orion-14B-Base_Q5_K_M.gguf",
+            "size": "10308566080",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "44026076d4f945bebe6abf35bf1172a295a93d81e210c1f88b1fc88cce73a32c",
+            "download": {
+                "default": "https://huggingface.co/nold/Orion-14B-Base-GGUF/resolve/main/Orion-14B-Base_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Orion-14B-Base_Q6_K.gguf",
+            "size": "11898003520",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "ce0297cdaa2cadc1c2ed648817cab36a058f1ec94a43d50bacd3383cada8f6f3",
+            "download": {
+                "default": "https://huggingface.co/nold/Orion-14B-Base-GGUF/resolve/main/Orion-14B-Base_Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Orion-14B-Base_Q8_0.gguf",
+            "size": "15409207360",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "5e40c6bf17c76a53316c030078a7659448f379f1cd24dd0aa5ed27a38e56e342",
+            "download": {
+                "default": "https://huggingface.co/nold/Orion-14B-Base-GGUF/resolve/main/Orion-14B-Base_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

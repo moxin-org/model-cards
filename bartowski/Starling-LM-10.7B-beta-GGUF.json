@@ -1,0 +1,183 @@
+{
+    "id": "bartowski/Starling-LM-10.7B-beta-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bartowski",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-05T04:07:11Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Starling-LM-10.7B-beta-IQ3_M.gguf",
+            "size": "4845060608",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "144294d80f9e949d2417cf42df173356bb16f9404f7d6b33d54f32eb56b9d709",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Starling-LM-10.7B-beta-GGUF/resolve/main/Starling-LM-10.7B-beta-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Starling-LM-10.7B-beta-IQ3_S.gguf",
+            "size": "4691313152",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "fba0944cbfcb2da11a8d566fe2362b3b465a24080bd04a09dbfe6a5ebc5a1bd7",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Starling-LM-10.7B-beta-GGUF/resolve/main/Starling-LM-10.7B-beta-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Starling-LM-10.7B-beta-IQ4_NL.gguf",
+            "size": "6141601344",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "19a114c8a530cac9e5dbc8448d4490174fdf02bb7bce17b6273a80ee110000bf",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Starling-LM-10.7B-beta-GGUF/resolve/main/Starling-LM-10.7B-beta-IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Starling-LM-10.7B-beta-IQ4_XS.gguf",
+            "size": "5827650880",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "0ad40b6126a0e851741bc68dc312da544b9258be5e8029fdfaf7314b8bcbdd67",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Starling-LM-10.7B-beta-GGUF/resolve/main/Starling-LM-10.7B-beta-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Starling-LM-10.7B-beta-Q2_K.gguf",
+            "size": "4003241664",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "3ee90688bb90f12dee74dd706b3f3425911b6fe5935894901e0429ecc38b5ab2",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Starling-LM-10.7B-beta-GGUF/resolve/main/Starling-LM-10.7B-beta-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Starling-LM-10.7B-beta-Q3_K_L.gguf",
+            "size": "5650760192",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "724f97a400ee2b9613af313957c49354ac67868dd7da15aaf44ffb9f43c26377",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Starling-LM-10.7B-beta-GGUF/resolve/main/Starling-LM-10.7B-beta-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Starling-LM-10.7B-beta-Q3_K_M.gguf",
+            "size": "5195678208",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "5cbb76a376280827a3e218a635f1943ad6361b95754a59c36355091a1e2aa214",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Starling-LM-10.7B-beta-GGUF/resolve/main/Starling-LM-10.7B-beta-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Starling-LM-10.7B-beta-Q3_K_S.gguf",
+            "size": "4664574464",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "a6cbc5a576e321ccc77c27bf0fb15441e95f01c4ef2875ef798b5e8b42df34ae",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Starling-LM-10.7B-beta-GGUF/resolve/main/Starling-LM-10.7B-beta-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Starling-LM-10.7B-beta-Q4_0.gguf",
+            "size": "6072395328",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "06f1c493d523d26923fd2eafbb0a938e08cdca8c9b8b83f0e88d8a2208ac6bff",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Starling-LM-10.7B-beta-GGUF/resolve/main/Starling-LM-10.7B-beta-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Starling-LM-10.7B-beta-Q4_K_M.gguf",
+            "size": "6461679168",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "cf88f4479c7c7a2ccf214d4a4b27384fb294b529ba410451ba9d3b6e0c64e4ad",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Starling-LM-10.7B-beta-GGUF/resolve/main/Starling-LM-10.7B-beta-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Starling-LM-10.7B-beta-Q4_K_S.gguf",
+            "size": "6118532672",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "be3f33bca6381dca86b2acd479b537d4cd960d5c657b500120543b39ab30fcd4",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Starling-LM-10.7B-beta-GGUF/resolve/main/Starling-LM-10.7B-beta-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Starling-LM-10.7B-beta-Q5_0.gguf",
+            "size": "7397403200",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "750a3d9a3c5b3552352812a18b2b8d759dee135ce1d06fca2e83e7257cf04058",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Starling-LM-10.7B-beta-GGUF/resolve/main/Starling-LM-10.7B-beta-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Starling-LM-10.7B-beta-Q5_K_M.gguf",
+            "size": "7597943360",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "1c0bad4c9145e275322ec3921fd53e50db92d9793808ab8e2dece8a6927ac88c",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Starling-LM-10.7B-beta-GGUF/resolve/main/Starling-LM-10.7B-beta-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Starling-LM-10.7B-beta-Q5_K_S.gguf",
+            "size": "7397403200",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "50450fc1b6704fdc6cee923dcc1815d5c4a07c569cb41c293a256f0155994960",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Starling-LM-10.7B-beta-GGUF/resolve/main/Starling-LM-10.7B-beta-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Starling-LM-10.7B-beta-Q6_K.gguf",
+            "size": "8805224064",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "c2167e53347c791622f064e5dc11602b3367640ca69d4e7c0de1d6dc450b274f",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Starling-LM-10.7B-beta-GGUF/resolve/main/Starling-LM-10.7B-beta-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Starling-LM-10.7B-beta-Q8_0.gguf",
+            "size": "11404172800",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "373bf7d039e291a10d2cfd131e82f9b23abd032399c9541e57b140bcf15b3f7b",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Starling-LM-10.7B-beta-GGUF/resolve/main/Starling-LM-10.7B-beta-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

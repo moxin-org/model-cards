@@ -1,0 +1,163 @@
+{
+    "id": "lucianosb/canarim-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "lucianosb",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-17T07:44:27Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "canarim7b-q2_k.gguf",
+            "size": "2825940704",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b3e6c1104f88bc5981ce92fc60b7c456587b04c2445e3947bd3a239728c61cc8",
+            "download": {
+                "default": "https://huggingface.co/lucianosb/canarim-7B-GGUF/resolve/main/canarim7b-q2_k.gguf"
+            }
+        },
+        {
+            "name": "canarim7b-q3_k_l.gguf",
+            "size": "3597111008",
+            "quantization": "",
+            "tags": [],
+            "sha256": "776b7fc733fdf32bfbef89238f302fabebdec28f111177d0f0abb9518a88bc80",
+            "download": {
+                "default": "https://huggingface.co/lucianosb/canarim-7B-GGUF/resolve/main/canarim7b-q3_k_l.gguf"
+            }
+        },
+        {
+            "name": "canarim7b-q3_k_m.gguf",
+            "size": "3298004704",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b3244a70c9d0e1f2f0c222a0080a3d369ce708c938096e9696b6fab5d31bb47a",
+            "download": {
+                "default": "https://huggingface.co/lucianosb/canarim-7B-GGUF/resolve/main/canarim7b-q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "canarim7b-q3_k_s.gguf",
+            "size": "2948304608",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4f99cdb8d43a9ed4ae439d499d80d8b32cae81aea038ee28fb0787d6652e0976",
+            "download": {
+                "default": "https://huggingface.co/lucianosb/canarim-7B-GGUF/resolve/main/canarim7b-q3_k_s.gguf"
+            }
+        },
+        {
+            "name": "canarim7b-q4_0.gguf",
+            "size": "3825807072",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f7d9b5b9f6092849a070c6e3e193cc7b88ad157a6edeee791e78f5dbc1a91d98",
+            "download": {
+                "default": "https://huggingface.co/lucianosb/canarim-7B-GGUF/resolve/main/canarim7b-q4_0.gguf"
+            }
+        },
+        {
+            "name": "canarim7b-q4_1.gguf",
+            "size": "4238749408",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b4a8e2f6e8d21e78fe93bc893a3febbd617c47c7f2319a8c2c850c71cacce7fc",
+            "download": {
+                "default": "https://huggingface.co/lucianosb/canarim-7B-GGUF/resolve/main/canarim7b-q4_1.gguf"
+            }
+        },
+        {
+            "name": "canarim7b-q4_k_m.gguf",
+            "size": "4081004256",
+            "quantization": "",
+            "tags": [],
+            "sha256": "08966db567073bf00ef54974d18c66d536fb5d24c55dd7f239faa5d6541c2aca",
+            "download": {
+                "default": "https://huggingface.co/lucianosb/canarim-7B-GGUF/resolve/main/canarim7b-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "canarim7b-q4_k_s.gguf",
+            "size": "3856740064",
+            "quantization": "",
+            "tags": [],
+            "sha256": "93eedbe1f762c6ebeb0ed1a69b84e780e9e9b21e1c9ac46cf04c8aba6d3b0288",
+            "download": {
+                "default": "https://huggingface.co/lucianosb/canarim-7B-GGUF/resolve/main/canarim7b-q4_k_s.gguf"
+            }
+        },
+        {
+            "name": "canarim7b-q5_0.gguf",
+            "size": "4651691744",
+            "quantization": "",
+            "tags": [],
+            "sha256": "253fbabbd6460ee33c99887d3027a974ec4edabac0bd1c9121b41f9c6004493b",
+            "download": {
+                "default": "https://huggingface.co/lucianosb/canarim-7B-GGUF/resolve/main/canarim7b-q5_0.gguf"
+            }
+        },
+        {
+            "name": "canarim7b-q5_1.gguf",
+            "size": "5064634080",
+            "quantization": "",
+            "tags": [],
+            "sha256": "acbed66ba6b93294fe4867ddf0a997b96f1a3225bb040802d2b5306a3fdd98b5",
+            "download": {
+                "default": "https://huggingface.co/lucianosb/canarim-7B-GGUF/resolve/main/canarim7b-q5_1.gguf"
+            }
+        },
+        {
+            "name": "canarim7b-q5_k_m.gguf",
+            "size": "4783156960",
+            "quantization": "",
+            "tags": [],
+            "sha256": "70546ff34d77ab7528bcfb58f02203eb432973a729d79d3a6ecb54433522a7ed",
+            "download": {
+                "default": "https://huggingface.co/lucianosb/canarim-7B-GGUF/resolve/main/canarim7b-q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "canarim7b-q5_k_s.gguf",
+            "size": "4651691744",
+            "quantization": "",
+            "tags": [],
+            "sha256": "791b42ccd62487fb5ca151dfeb3c8ac186af72227a2d9c65b43d2162b8cf95be",
+            "download": {
+                "default": "https://huggingface.co/lucianosb/canarim-7B-GGUF/resolve/main/canarim7b-q5_k_s.gguf"
+            }
+        },
+        {
+            "name": "canarim7b-q6_k.gguf",
+            "size": "5529194208",
+            "quantization": "",
+            "tags": [],
+            "sha256": "802aa428fef7c90a465d4d4ad25e64f95f390d16d8119b72718814ad2c401e23",
+            "download": {
+                "default": "https://huggingface.co/lucianosb/canarim-7B-GGUF/resolve/main/canarim7b-q6_k.gguf"
+            }
+        },
+        {
+            "name": "canarim7b-q8_0.gguf",
+            "size": "7161089760",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1e43e61b61eadc660537b032cbf94b8314bbef58ffaea870e21a807f10475996",
+            "download": {
+                "default": "https://huggingface.co/lucianosb/canarim-7B-GGUF/resolve/main/canarim7b-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

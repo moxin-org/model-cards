@@ -1,0 +1,63 @@
+{
+    "id": "janhq/marcoroni-7b-v2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "janhq",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-11T04:05:32Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "marcoroni-7b-v2.Q3_K_M.gguf",
+            "size": "3518986336",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "f2e6f53e1970d2eb23a7ffd848992445f52a38c468afd0a2be969f50c098e250",
+            "download": {
+                "default": "https://huggingface.co/janhq/marcoroni-7b-v2-GGUF/resolve/main/marcoroni-7b-v2.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "marcoroni-7b-v2.Q4_K_M.gguf",
+            "size": "4368439392",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "ef987a0bfc2633c65456e27ec6130abb683c842bb3d8b1c68e172474fad5ecf4",
+            "download": {
+                "default": "https://huggingface.co/janhq/marcoroni-7b-v2-GGUF/resolve/main/marcoroni-7b-v2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "marcoroni-7b-v2.Q5_K_M.gguf",
+            "size": "5131409504",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "2debb16018628cea1ecf98b94cffed489cb23318d2f40538e7c8b021e816294d",
+            "download": {
+                "default": "https://huggingface.co/janhq/marcoroni-7b-v2-GGUF/resolve/main/marcoroni-7b-v2.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "marcoroni-7b-v2.Q8_0.gguf",
+            "size": "7695857760",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "ebde58d5c697ac0846e86d2602e7374ae884a9393378cbb706f9fd34b87fafe1",
+            "download": {
+                "default": "https://huggingface.co/janhq/marcoroni-7b-v2-GGUF/resolve/main/marcoroni-7b-v2.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

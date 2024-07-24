@@ -1,0 +1,43 @@
+{
+    "id": "GaJoPrograma/llama-2-7b-victoria-unad-generico-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "GaJoPrograma",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-19T19:46:47Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llama-2-7b-victoria-unad-generico.Q5_1.gguf",
+            "size": "5064634080",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "cfde9259be89f8c8d3e2bae6fde08f9978d34cf9392bbd63ce5f03d4d6caf6d0",
+            "download": {
+                "default": "https://huggingface.co/GaJoPrograma/llama-2-7b-victoria-unad-generico-gguf/resolve/main/llama-2-7b-victoria-unad-generico.Q5_1.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-victoria-unad-generico.Q5_K_S.gguf",
+            "size": "4651691744",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "2b78e6670696cefb108b66cf8bc646db699b6fc2e1680960e0d1ec0a3b8f2d4b",
+            "download": {
+                "default": "https://huggingface.co/GaJoPrograma/llama-2-7b-victoria-unad-generico-gguf/resolve/main/llama-2-7b-victoria-unad-generico.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

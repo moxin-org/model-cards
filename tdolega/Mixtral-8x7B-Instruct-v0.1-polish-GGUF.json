@@ -1,0 +1,43 @@
+{
+    "id": "tdolega/Mixtral-8x7B-Instruct-v0.1-polish-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "tdolega",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-29T22:54:17Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "q5_k_m.gguf",
+            "size": "",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8755e896704225a9b27fbfa3ce6482b216b7d4e4eacb54820a09f954edcc3749",
+            "download": {
+                "default": "https://huggingface.co/tdolega/Mixtral-8x7B-Instruct-v0.1-polish-GGUF/resolve/main/q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "q8_0.gguf",
+            "size": "",
+            "quantization": "",
+            "tags": [],
+            "sha256": "544ef0932c6b8e5b59d7f800ee1c9881c62488dde9e807698f10fc2208af4ae0",
+            "download": {
+                "default": "https://huggingface.co/tdolega/Mixtral-8x7B-Instruct-v0.1-polish-GGUF/resolve/main/q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

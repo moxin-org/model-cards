@@ -1,0 +1,213 @@
+{
+    "id": "mradermacher/BondBurger-8x7B-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-20T17:17:29Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "BondBurger-8x7B.i1-IQ4_XS.gguf",
+            "size": "25233106560",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "8a253542da0e70af2609fc7667e4d03081017edd440edadaed1803636bfa86ad",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BondBurger-8x7B-i1-GGUF/resolve/main/BondBurger-8x7B.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "BondBurger-8x7B.i1-Q6_K.gguf",
+            "size": "38533383808",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "5cccaa499165754b204fad6f10855c2cb3ea0875ccd64119909521556dbf1822",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BondBurger-8x7B-i1-GGUF/resolve/main/BondBurger-8x7B.i1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "BondBurger-8x7B.i1-Q5_K_S.gguf",
+            "size": "32383903360",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "9d102f62f4b8d2b1d6aa563aab1552913028b41ab81d0cfcb4941c974504fd7c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BondBurger-8x7B-i1-GGUF/resolve/main/BondBurger-8x7B.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "BondBurger-8x7B.i1-Q5_K_M.gguf",
+            "size": "33382147712",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "0ef9888e1eff65f9f3c1e1bc494bb5badc53f1b45dc3a45655b7e5e12da884c8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BondBurger-8x7B-i1-GGUF/resolve/main/BondBurger-8x7B.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "BondBurger-8x7B.i1-Q4_K_S.gguf",
+            "size": "26898146944",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "d5b04eb6608a6dd29d31f80723c5c3b7ec68afc044351aab7e8bd0c969b278eb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BondBurger-8x7B-i1-GGUF/resolve/main/BondBurger-8x7B.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "BondBurger-8x7B.i1-Q4_K_M.gguf",
+            "size": "28601034368",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "3e6820cef412d4545ad6fa36d42aa2c6e2a2887058d978e375ec746f79fffc57",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BondBurger-8x7B-i1-GGUF/resolve/main/BondBurger-8x7B.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "BondBurger-8x7B.i1-Q3_K_S.gguf",
+            "size": "20585088640",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "adeb00139f63acdd67b06c9d5515f3c9381066639f8e6991f837fa341b945791",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BondBurger-8x7B-i1-GGUF/resolve/main/BondBurger-8x7B.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "BondBurger-8x7B.i1-Q3_K_M.gguf",
+            "size": "22699017856",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "64965efce7470a312163df7b0ec99dd5f3473be7cbb1be8c8b703ec534d4b722",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BondBurger-8x7B-i1-GGUF/resolve/main/BondBurger-8x7B.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "BondBurger-8x7B.i1-Q3_K_L.gguf",
+            "size": "24322213504",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "137462a8110f936a931a07cceb54df2fe876f186c8a0e256f3b6869e1a0ade05",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BondBurger-8x7B-i1-GGUF/resolve/main/BondBurger-8x7B.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "BondBurger-8x7B.i1-Q2_K.gguf",
+            "size": "17463797376",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "94d6a42735bfee3b6af0c0c7486d1ab40b03003957bb8ca32e1f98c3192624fc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BondBurger-8x7B-i1-GGUF/resolve/main/BondBurger-8x7B.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "BondBurger-8x7B.i1-IQ1_S.gguf",
+            "size": "9991644800",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "fcb9dc36493979b3c122c2faf550e17c30b1a7815bde91901e4515a6cf42c0a4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BondBurger-8x7B-i1-GGUF/resolve/main/BondBurger-8x7B.i1-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "BondBurger-8x7B.i1-IQ3_XXS.gguf",
+            "size": "18412439168",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "185164821d0b6c592f29e2b2725be6fe00a3da293fb01318422c4651730bbc75",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BondBurger-8x7B-i1-GGUF/resolve/main/BondBurger-8x7B.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "BondBurger-8x7B.i1-IQ3_XS.gguf",
+            "size": "19436897920",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "2110c6abe01b89bcc64736cde9228d2739b8553f3db8a9d8ddaa6c34a3019df0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BondBurger-8x7B-i1-GGUF/resolve/main/BondBurger-8x7B.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "BondBurger-8x7B.i1-IQ3_S.gguf",
+            "size": "20585088640",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "ede97dc3f58a9782920ad46870d0dd84e194bc7d33c8c983720d889de42a15dc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BondBurger-8x7B-i1-GGUF/resolve/main/BondBurger-8x7B.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "BondBurger-8x7B.i1-IQ3_M.gguf",
+            "size": "21583332992",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "d65cd5f0066e7c4328152670eb6ad65a6b9db0bc3b50ebbd04b5ada01d022308",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BondBurger-8x7B-i1-GGUF/resolve/main/BondBurger-8x7B.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "BondBurger-8x7B.i1-IQ2_XXS.gguf",
+            "size": "12726331008",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "a164f77b941fa00d233d9beba3d8890e4f22be57f354cd3e3bf7aabfcea6ac12",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BondBurger-8x7B-i1-GGUF/resolve/main/BondBurger-8x7B.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "BondBurger-8x7B.i1-IQ2_XS.gguf",
+            "size": "14093674112",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "9d0345f002e14052356132faaf38b732d49ff4f84f633bd233e40ec8aade814c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BondBurger-8x7B-i1-GGUF/resolve/main/BondBurger-8x7B.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "BondBurger-8x7B.i1-IQ2_S.gguf",
+            "size": "14297826944",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "c817ff8a1718f1c3e872cdd758653008d2dba2b6d2ba091bfc9af7b4a9f59e7d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BondBurger-8x7B-i1-GGUF/resolve/main/BondBurger-8x7B.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "BondBurger-8x7B.i1-IQ2_M.gguf",
+            "size": "15665170048",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "a0db1db4c90fc6d28b1bf692fd24ded728dd198e76e9ee6c27d04afa46c55069",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BondBurger-8x7B-i1-GGUF/resolve/main/BondBurger-8x7B.i1-IQ2_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

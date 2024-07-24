@@ -1,0 +1,63 @@
+{
+    "id": "NeverSleep/Noromaid-7B-0.4-DPO-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "NeverSleep",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-11T02:35:07Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Noromaid-7B-0.4-DPO.q4_k_m.gguf",
+            "size": "4368450304",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9ccef438552a043eedcac3f309e1e226dd8bc125a0db206194a1340c460dd1c4",
+            "download": {
+                "default": "https://huggingface.co/NeverSleep/Noromaid-7B-0.4-DPO-GGUF/resolve/main/Noromaid-7B-0.4-DPO.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "Noromaid-7B-0.4-DPO.q5_k_m.gguf",
+            "size": "5131421440",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f1a2dc9ebbda6dab4458fb78559bf67df43a543ac51abc17471c3bda5460079b",
+            "download": {
+                "default": "https://huggingface.co/NeverSleep/Noromaid-7B-0.4-DPO-GGUF/resolve/main/Noromaid-7B-0.4-DPO.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "Noromaid-7B-0.4-DPO.q6_k.gguf",
+            "size": "5942078272",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a394f3b40ed40de37df87be97e9d8fccefef65afbcb7f9bf8ac8f115aa3b058f",
+            "download": {
+                "default": "https://huggingface.co/NeverSleep/Noromaid-7B-0.4-DPO-GGUF/resolve/main/Noromaid-7B-0.4-DPO.q6_k.gguf"
+            }
+        },
+        {
+            "name": "Noromaid-7B-0.4-DPO.q8_0.gguf",
+            "size": "7695874752",
+            "quantization": "",
+            "tags": [],
+            "sha256": "92a21e0f36d18747e18f180b63ef2963d11428e3b7a7d871d01c4980d4889207",
+            "download": {
+                "default": "https://huggingface.co/NeverSleep/Noromaid-7B-0.4-DPO-GGUF/resolve/main/Noromaid-7B-0.4-DPO.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

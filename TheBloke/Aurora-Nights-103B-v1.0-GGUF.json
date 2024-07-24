@@ -1,0 +1,53 @@
+{
+    "id": "TheBloke/Aurora-Nights-103B-v1.0-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-28T10:21:29Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "aurora-nights-103b-v1.0.Q2_K.gguf",
+            "size": "43509424736",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "05d34bac081d305cb8c303f773d62673399fa46292d4102eaf3efd3ba8dc8358",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Aurora-Nights-103B-v1.0-GGUF/resolve/main/aurora-nights-103b-v1.0.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "aurora-nights-103b-v1.0.Q3_K_M.gguf",
+            "size": "49463648864",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "425f5f449e36d88c29068b46bd936785872aff8b2570ab81087eb345287ab2fc",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Aurora-Nights-103B-v1.0-GGUF/resolve/main/aurora-nights-103b-v1.0.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "aurora-nights-103b-v1.0.Q3_K_S.gguf",
+            "size": "44456174176",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "bd0e6d9b06aa6930cc59f87c593b0ec156f660ff91b1383acbe9616cb749a27e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Aurora-Nights-103B-v1.0-GGUF/resolve/main/aurora-nights-103b-v1.0.Q3_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

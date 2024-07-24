@@ -1,0 +1,43 @@
+{
+    "id": "WesPro/NeuralKuno-7B-slerp-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "WesPro",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-03T16:15:44Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "neuralkuno-7b-slerp.Q5_K_M.gguf",
+            "size": "5131409120",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "83f4f40abd2f3353d4000b22b231f76afd77298b02147a567db59417319bb2d9",
+            "download": {
+                "default": "https://huggingface.co/WesPro/NeuralKuno-7B-slerp-GGUF/resolve/main/neuralkuno-7b-slerp.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "neuralkuno-7b-slerp.Q6_K.gguf",
+            "size": "5942064864",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "7c663daec4d5aa7fe1244185bcdc203a46f3bffdc5b62f6a383fe938d3e3f54c",
+            "download": {
+                "default": "https://huggingface.co/WesPro/NeuralKuno-7B-slerp-GGUF/resolve/main/neuralkuno-7b-slerp.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

@@ -1,0 +1,73 @@
+{
+    "id": "mradermacher/BigWeave-v16-103b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-04T04:01:52Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "BigWeave-v16-103b.IQ3_M.gguf",
+            "size": "46435617024",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "205063e67ac063319534ca5e040d2a526388f5dd243ce0517500d1aad7d985ce",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BigWeave-v16-103b-GGUF/resolve/main/BigWeave-v16-103b.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "BigWeave-v16-103b.IQ3_S.gguf",
+            "size": "44898142464",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "a36dcdef601113b7839ed22456974bfdfc8fb9f59cf85ff14ab59886fbaec2fd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BigWeave-v16-103b-GGUF/resolve/main/BigWeave-v16-103b.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "BigWeave-v16-103b.IQ3_XS.gguf",
+            "size": "42357967104",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "ae748c3d3c68079d3b26e9999a6a4f970e568a169b1a009730d0688d85b84a7e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BigWeave-v16-103b-GGUF/resolve/main/BigWeave-v16-103b.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "BigWeave-v16-103b.Q2_K.gguf",
+            "size": "38226168064",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "90178eae0f2f7bd3ba9471613b834ebbb5ce645434b2cedb1bcf0c3c9906e13d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BigWeave-v16-103b-GGUF/resolve/main/BigWeave-v16-103b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "BigWeave-v16-103b.Q3_K_S.gguf",
+            "size": "44764449024",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "2f5e8b31c3c21946bfd06eba9484818bbfbefc2258ecd99ce99b905547050c21",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BigWeave-v16-103b-GGUF/resolve/main/BigWeave-v16-103b.Q3_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

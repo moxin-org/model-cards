@@ -1,0 +1,43 @@
+{
+    "id": "lmstudio-ai/gemma-2b-it-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "lmstudio-ai",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-21T18:19:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "gemma-2b-it-q4_k_m.gguf",
+            "size": "1495245728",
+            "quantization": "",
+            "tags": [],
+            "sha256": "144b3eb4fb500556034a29172cfa2b17f28cfce7c7698ac3467600adc510efcd",
+            "download": {
+                "default": "https://huggingface.co/lmstudio-ai/gemma-2b-it-GGUF/resolve/main/gemma-2b-it-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-it-q8_0.gguf",
+            "size": "2669351840",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ec68b50d23469882716782da8b680402246356c3f984e9a3b9bcc5bc15273140",
+            "download": {
+                "default": "https://huggingface.co/lmstudio-ai/gemma-2b-it-GGUF/resolve/main/gemma-2b-it-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

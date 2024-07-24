@@ -1,0 +1,33 @@
+{
+    "id": "CorticalStack/mistral-7b-openhermes-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "CorticalStack",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-17T22:49:34Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistral-7b-openhermes.Q4_K_M.gguf",
+            "size": "4368439040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "84c54cd3fd4ae911c2372f5e9e2ead0a943bdf6c78b19b37c0e162677a454805",
+            "download": {
+                "default": "https://huggingface.co/CorticalStack/mistral-7b-openhermes-gguf/resolve/main/mistral-7b-openhermes.Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

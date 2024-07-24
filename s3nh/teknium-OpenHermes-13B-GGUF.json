@@ -1,0 +1,93 @@
+{
+    "id": "s3nh/teknium-OpenHermes-13B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-08T07:42:17Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "teknium-OpenHermes-13B.Q2_K.gguf",
+            "size": "5429348288",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "2fea63a5942cc555965d1017691b9b1a335daea16568361c1e2e39c92837f494",
+            "download": {
+                "default": "https://huggingface.co/s3nh/teknium-OpenHermes-13B-GGUF/resolve/main/teknium-OpenHermes-13B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "teknium-OpenHermes-13B.Q3_K_S.gguf",
+            "size": "5658980288",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "ea5f8d6f02bf16f2d866f8b984a10fa94f0ce7bd07d9bd34fbbfaa0d834f65cd",
+            "download": {
+                "default": "https://huggingface.co/s3nh/teknium-OpenHermes-13B-GGUF/resolve/main/teknium-OpenHermes-13B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "teknium-OpenHermes-13B.Q4_K_M.gguf",
+            "size": "7865956288",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "d771285ccdc3129d7e60c62620b4e10233eb90c1dc0ce2f6052ebd8b4d39969c",
+            "download": {
+                "default": "https://huggingface.co/s3nh/teknium-OpenHermes-13B-GGUF/resolve/main/teknium-OpenHermes-13B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "teknium-OpenHermes-13B.Q4_K_S.gguf",
+            "size": "7414331328",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "52d4938956b6c86d9fef156c9332dc06e0e9263bff6d5eceac00d505e4338845",
+            "download": {
+                "default": "https://huggingface.co/s3nh/teknium-OpenHermes-13B-GGUF/resolve/main/teknium-OpenHermes-13B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "teknium-OpenHermes-13B.Q5_K_S.gguf",
+            "size": "8972285888",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "408f75aba276fa50ace02908e9cd92bdebda1ecec1c3aacb7fcb20855f7805cc",
+            "download": {
+                "default": "https://huggingface.co/s3nh/teknium-OpenHermes-13B-GGUF/resolve/main/teknium-OpenHermes-13B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "teknium-OpenHermes-13B.Q6_K.gguf",
+            "size": "10679140288",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "392bf3de365088fdae7f0f5b494ce5d042386e26f0751cd218c0542925c3b7d7",
+            "download": {
+                "default": "https://huggingface.co/s3nh/teknium-OpenHermes-13B-GGUF/resolve/main/teknium-OpenHermes-13B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "teknium-OpenHermes-13B.Q8_0.gguf",
+            "size": "13831319488",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "28d821720b501799ccde1f14ea60b139bb4e0786fce9b25dc010c10be5f5ddd3",
+            "download": {
+                "default": "https://huggingface.co/s3nh/teknium-OpenHermes-13B-GGUF/resolve/main/teknium-OpenHermes-13B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

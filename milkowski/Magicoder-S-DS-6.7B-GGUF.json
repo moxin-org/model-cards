@@ -1,0 +1,83 @@
+{
+    "id": "milkowski/Magicoder-S-DS-6.7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "milkowski",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-22T02:25:58Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "magicoder-s-ds-6.7b.f16.gguf",
+            "size": "13482861440",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9dac1e2242ba0a48ed76063045cfc8f01207ede2240417a9271428b7d97eb9c2",
+            "download": {
+                "default": "https://huggingface.co/milkowski/Magicoder-S-DS-6.7B-GGUF/resolve/main/magicoder-s-ds-6.7b.f16.gguf"
+            }
+        },
+        {
+            "name": "magicoder-s-ds-6.7b.q4_0.gguf",
+            "size": "3827819424",
+            "quantization": "",
+            "tags": [],
+            "sha256": "de4096328ca2a2b9d5ccc9a7bfec8baf5b94b39ef37f674c11415a92eb83cb54",
+            "download": {
+                "default": "https://huggingface.co/milkowski/Magicoder-S-DS-6.7B-GGUF/resolve/main/magicoder-s-ds-6.7b.q4_0.gguf"
+            }
+        },
+        {
+            "name": "magicoder-s-ds-6.7b.q4_k.gguf",
+            "size": "4083016608",
+            "quantization": "",
+            "tags": [],
+            "sha256": "eadbee73e7b3dc60cba65622980a8cc25318a91c3f68213f2a73da1dc875dcf6",
+            "download": {
+                "default": "https://huggingface.co/milkowski/Magicoder-S-DS-6.7B-GGUF/resolve/main/magicoder-s-ds-6.7b.q4_k.gguf"
+            }
+        },
+        {
+            "name": "magicoder-s-ds-6.7b.q5_k.gguf",
+            "size": "4785300384",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fe29196ad1df57c317f1cf753042a222394a71fb68f5cd7c77c427014b9246a5",
+            "download": {
+                "default": "https://huggingface.co/milkowski/Magicoder-S-DS-6.7B-GGUF/resolve/main/magicoder-s-ds-6.7b.q5_k.gguf"
+            }
+        },
+        {
+            "name": "magicoder-s-ds-6.7b.q6_k.gguf",
+            "size": "5531476896",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f304540c4e25a71a5cddc8594f36cf813443bd9d040be93b23b774266c67a8ee",
+            "download": {
+                "default": "https://huggingface.co/milkowski/Magicoder-S-DS-6.7B-GGUF/resolve/main/magicoder-s-ds-6.7b.q6_k.gguf"
+            }
+        },
+        {
+            "name": "magicoder-s-ds-6.7b.q8_0.gguf",
+            "size": "7163880352",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a14bc7a9d1ead73fa830eebaa0bfc694cb468a385c44794738a39a13dd99b64d",
+            "download": {
+                "default": "https://huggingface.co/milkowski/Magicoder-S-DS-6.7B-GGUF/resolve/main/magicoder-s-ds-6.7b.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

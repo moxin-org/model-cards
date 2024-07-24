@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/lemonade-rebase-32k-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-01T05:09:10Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "lemonade-rebase-32k-7B.IQ3_M.gguf",
+            "size": "3439515328",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "f9443863abfca6a37ff226226c26e7927ce22684e3c454d0308e4ac65dcccf18",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lemonade-rebase-32k-7B-GGUF/resolve/main/lemonade-rebase-32k-7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "lemonade-rebase-32k-7B.IQ3_S.gguf",
+            "size": "3337017024",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "1b950972d2f43355e507bfb9cfb5ad433383b40b72b1d37b0e4eea61947e78d4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lemonade-rebase-32k-7B-GGUF/resolve/main/lemonade-rebase-32k-7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "lemonade-rebase-32k-7B.IQ3_XS.gguf",
+            "size": "3173439168",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "b8b7e960acd9df40d5455842af70770b43f4c5937ad5901e4b41076606de1845",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lemonade-rebase-32k-7B-GGUF/resolve/main/lemonade-rebase-32k-7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "lemonade-rebase-32k-7B.IQ4_XS.gguf",
+            "size": "4099012288",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "b0d39d330be986fc71b9e3eb32fa1d8f97ea429bf82f89fc803451c0a7f049c6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lemonade-rebase-32k-7B-GGUF/resolve/main/lemonade-rebase-32k-7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "lemonade-rebase-32k-7B.Q2_K.gguf",
+            "size": "2873865920",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "3b93c359652796a10991b33640409ae00931e6e3830e84074a3eab8ae7e9069b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lemonade-rebase-32k-7B-GGUF/resolve/main/lemonade-rebase-32k-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "lemonade-rebase-32k-7B.Q3_K_L.gguf",
+            "size": "3976648384",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "b62750aaf47a620da211daedb8a9ee7bcded8ac7fab91b32203b2a1773c0fbd0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lemonade-rebase-32k-7B-GGUF/resolve/main/lemonade-rebase-32k-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "lemonade-rebase-32k-7B.Q3_K_M.gguf",
+            "size": "3673609920",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e5073899e10a84580998e137717ce4330b44d72302c22ea8dff632ccdaa6862c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lemonade-rebase-32k-7B-GGUF/resolve/main/lemonade-rebase-32k-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "lemonade-rebase-32k-7B.Q3_K_S.gguf",
+            "size": "3319191232",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "411e1cea9f6be5da69778eabbe9783c661775e16ee43e36530a2a4d41178905e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lemonade-rebase-32k-7B-GGUF/resolve/main/lemonade-rebase-32k-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "lemonade-rebase-32k-7B.Q4_K_M.gguf",
+            "size": "4523062976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "cc48143d3989ea625caa91b6742f35babf1e3312211c52d9fc10cdbd852a569e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lemonade-rebase-32k-7B-GGUF/resolve/main/lemonade-rebase-32k-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "lemonade-rebase-32k-7B.Q4_K_S.gguf",
+            "size": "4294997696",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "f1e252d9a6cd11e63fe6f7840b463fb4829b115ba96df747c30ac04db2f21a87",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lemonade-rebase-32k-7B-GGUF/resolve/main/lemonade-rebase-32k-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "lemonade-rebase-32k-7B.Q5_K_M.gguf",
+            "size": "5286033088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5165aced7871dd59c3bee60df2792df5e370e722f59454c05b9b2d556ba0d6f6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lemonade-rebase-32k-7B-GGUF/resolve/main/lemonade-rebase-32k-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "lemonade-rebase-32k-7B.Q5_K_S.gguf",
+            "size": "5152339648",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "81aefcd7b78a6944901928e18bf55d2cc4bc94c00fbd46b145d108cf719ab344",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lemonade-rebase-32k-7B-GGUF/resolve/main/lemonade-rebase-32k-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "lemonade-rebase-32k-7B.Q6_K.gguf",
+            "size": "6096688832",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "8f6655f203e4fea70953022ef8c1fa8c5c40e788bd95824eb5139d33a3b2d28d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lemonade-rebase-32k-7B-GGUF/resolve/main/lemonade-rebase-32k-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "lemonade-rebase-32k-7B.Q8_0.gguf",
+            "size": "7818737344",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "bcada3f0321d5c4f11583a42fcf13e80ee7b44845c44a42b0f3264840bd9ca89",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lemonade-rebase-32k-7B-GGUF/resolve/main/lemonade-rebase-32k-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

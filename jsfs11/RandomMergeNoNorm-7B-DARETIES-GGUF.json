@@ -1,0 +1,43 @@
+{
+    "id": "jsfs11/RandomMergeNoNorm-7B-DARETIES-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "jsfs11",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-31T00:07:13Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "randommergenonorm-7b-dareties.Q5_K_M.gguf",
+            "size": "5131409056",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "4de4d31f2c4e7e2274dd74b1b049cc7eb8ee234dde44afb4235b30dc508d4799",
+            "download": {
+                "default": "https://huggingface.co/jsfs11/RandomMergeNoNorm-7B-DARETIES-GGUF/resolve/main/randommergenonorm-7b-dareties.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "randommergenonorm-7b-dareties.Q8_0.gguf",
+            "size": "7695857312",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "3cb83737407a1169a0f772b49d343e1df9fb4fec8c7b8a502dc06cf266de8f73",
+            "download": {
+                "default": "https://huggingface.co/jsfs11/RandomMergeNoNorm-7B-DARETIES-GGUF/resolve/main/randommergenonorm-7b-dareties.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

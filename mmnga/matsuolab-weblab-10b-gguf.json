@@ -1,0 +1,53 @@
+{
+    "id": "mmnga/matsuolab-weblab-10b-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mmnga",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-08-21T11:18:10Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "matsuolab-weblab-10b-q4_0.gguf",
+            "size": "6034664064",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4922e24ca51e2141b1b93a8e0ad3e4022b20cb22adfc9a646a34635192c76a7e",
+            "download": {
+                "default": "https://huggingface.co/mmnga/matsuolab-weblab-10b-gguf/resolve/main/matsuolab-weblab-10b-q4_0.gguf"
+            }
+        },
+        {
+            "name": "matsuolab-weblab-10b-q5_0.gguf",
+            "size": "7373392512",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dd8dc2e68cd62ef95e868e7ff9ea6ddc7c3d2470bd5e0d44435f70a133a06f0f",
+            "download": {
+                "default": "https://huggingface.co/mmnga/matsuolab-weblab-10b-gguf/resolve/main/matsuolab-weblab-10b-q5_0.gguf"
+            }
+        },
+        {
+            "name": "matsuolab-weblab-10b-q8_0.gguf",
+            "size": "11389577856",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4bd4105818e1a16ba4b82b037129ac1ad00032e678976d3389f781f95ebdf2a9",
+            "download": {
+                "default": "https://huggingface.co/mmnga/matsuolab-weblab-10b-gguf/resolve/main/matsuolab-weblab-10b-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

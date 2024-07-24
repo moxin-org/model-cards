@@ -1,0 +1,53 @@
+{
+    "id": "HeshamHaroon/AceGPT-7B-chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "HeshamHaroon",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-17T09:01:37Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "acegpt-7b-chat.Q4_K_M.gguf",
+            "size": "4081004288",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "b87a2daf89176f9e02dd14185f56eaefb2edb9d97667145e78d7aefc0e722741",
+            "download": {
+                "default": "https://huggingface.co/HeshamHaroon/AceGPT-7B-chat-GGUF/resolve/main/acegpt-7b-chat.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "acegpt-7b-chat.Q5_K_M.gguf",
+            "size": "4783156992",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "a4bc9cda1d9f8ffb54bef8a86f128bd3403bf0f47927b19c7c352bc9a02deac5",
+            "download": {
+                "default": "https://huggingface.co/HeshamHaroon/AceGPT-7B-chat-GGUF/resolve/main/acegpt-7b-chat.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "test_model.gguf",
+            "size": "7161089760",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a10ecc2946d25e8d787375f524ed24c5add6be517bc09f6943776c7175f2f326",
+            "download": {
+                "default": "https://huggingface.co/HeshamHaroon/AceGPT-7B-chat-GGUF/resolve/main/test_model.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

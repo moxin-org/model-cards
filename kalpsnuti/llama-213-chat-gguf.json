@@ -1,0 +1,33 @@
+{
+    "id": "kalpsnuti/llama-213-chat-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "kalpsnuti",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-30T12:01:59Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-q5km.gguf",
+            "size": "9229924224",
+            "quantization": "",
+            "tags": [],
+            "sha256": "94b9e133c433d2c777b66cdf37abc2787bf330331ad1946f64a55e039e6d4b7c",
+            "download": {
+                "default": "https://huggingface.co/kalpsnuti/llama-213-chat-gguf/resolve/main/ggml-model-q5km.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

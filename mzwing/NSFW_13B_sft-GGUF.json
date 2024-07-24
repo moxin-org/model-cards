@@ -1,0 +1,153 @@
+{
+    "id": "mzwing/NSFW_13B_sft-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mzwing",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-23T09:41:26Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "NSFW_13B_sft.F16.gguf",
+            "size": "26531994624",
+            "quantization": "",
+            "tags": [],
+            "sha256": "45a7dda3b7e8e23144d245efd1920029e97e2a100a4267bb0ca3e7c715d2381a",
+            "download": {
+                "default": "https://huggingface.co/mzwing/NSFW_13B_sft-GGUF/resolve/main/NSFW_13B_sft.F16.gguf"
+            }
+        },
+        {
+            "name": "NSFW_13B_sft.Q2_K.gguf",
+            "size": "5562420288",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "39746578be70f4f89d0f381ab43c0d2909bec26511e829dc02a2e95a76d0c8e7",
+            "download": {
+                "default": "https://huggingface.co/mzwing/NSFW_13B_sft-GGUF/resolve/main/NSFW_13B_sft.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "NSFW_13B_sft.Q3_K_L.gguf",
+            "size": "7269735488",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "9a4dc400558cfd2b4f3f5abc46457d5e809b389223ac62a05d4dcefcd46fcc0e",
+            "download": {
+                "default": "https://huggingface.co/mzwing/NSFW_13B_sft-GGUF/resolve/main/NSFW_13B_sft.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "NSFW_13B_sft.Q3_K_M.gguf",
+            "size": "6847601728",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "a568b8f902ed5ca1e71e38ea6203ef16fc2e8bfe5f4504201e9aad6963c2cd72",
+            "download": {
+                "default": "https://huggingface.co/mzwing/NSFW_13B_sft-GGUF/resolve/main/NSFW_13B_sft.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "NSFW_13B_sft.Q3_K_S.gguf",
+            "size": "6378445888",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "bd4e5ad71beeead3bd9166dce12238d4548ca71e29642e5c13a49bf997fac6ea",
+            "download": {
+                "default": "https://huggingface.co/mzwing/NSFW_13B_sft-GGUF/resolve/main/NSFW_13B_sft.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "NSFW_13B_sft.Q4_0.gguf",
+            "size": "7548775488",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "d587e998b8ff0bc97ee34c21e2e7e41779a87b72e85fada90ced7b8fcc789c91",
+            "download": {
+                "default": "https://huggingface.co/mzwing/NSFW_13B_sft-GGUF/resolve/main/NSFW_13B_sft.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "NSFW_13B_sft.Q4_K_M.gguf",
+            "size": "8560487488",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "aef60c844d4bad128612a9d12fbe90d58250a7e4d4a1dbc37827f0f45e1bee95",
+            "download": {
+                "default": "https://huggingface.co/mzwing/NSFW_13B_sft-GGUF/resolve/main/NSFW_13B_sft.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "NSFW_13B_sft.Q4_K_S.gguf",
+            "size": "7934413888",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "ebbe8307fdc1c1a85d808b474194725420e9ab8e7a84611ee7d21ef3e23bf863",
+            "download": {
+                "default": "https://huggingface.co/mzwing/NSFW_13B_sft-GGUF/resolve/main/NSFW_13B_sft.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "NSFW_13B_sft.Q5_0.gguf",
+            "size": "9165876288",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "88dd512188a7797c84e98573c2c0c6410950f9f493b4fb8afb604081c8ce322d",
+            "download": {
+                "default": "https://huggingface.co/mzwing/NSFW_13B_sft-GGUF/resolve/main/NSFW_13B_sft.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "NSFW_13B_sft.Q5_K_M.gguf",
+            "size": "9849089088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "0ecc01a8e9191a664fb5e569ff26f474c90096d24c2f5e7025e8edf01b6fdc2c",
+            "download": {
+                "default": "https://huggingface.co/mzwing/NSFW_13B_sft-GGUF/resolve/main/NSFW_13B_sft.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "NSFW_13B_sft.Q5_K_S.gguf",
+            "size": "9341185088",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "5cce984aa483d02b9b622259172ed728629113e767ed467b47159be7445f54ee",
+            "download": {
+                "default": "https://huggingface.co/mzwing/NSFW_13B_sft-GGUF/resolve/main/NSFW_13B_sft.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "NSFW_13B_sft.Q6_K.gguf",
+            "size": "11563367488",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b53fc9ef9e98639dadf91e2a7ceaf2e0f85fade78ef167c67f706b010741fecc",
+            "download": {
+                "default": "https://huggingface.co/mzwing/NSFW_13B_sft-GGUF/resolve/main/NSFW_13B_sft.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "NSFW_13B_sft.Q8_0.gguf",
+            "size": "14096538688",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "dce9f6492e528d7d0217696f8460a8ea94d28e064131f93385aecb4a0187ad68",
+            "download": {
+                "default": "https://huggingface.co/mzwing/NSFW_13B_sft-GGUF/resolve/main/NSFW_13B_sft.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

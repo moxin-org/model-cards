@@ -1,0 +1,233 @@
+{
+    "id": "mradermacher/Tess-2.0-Mixtral-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-02T01:58:40Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Tess-2.0-Mixtral.i1-IQ4_XS.gguf",
+            "size": "25233106336",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "d2f61eb3e6efa37eea6c3fb41ffb41d11e9297fd616dbbec404475bfb74c5cfb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-2.0-Mixtral-i1-GGUF/resolve/main/Tess-2.0-Mixtral.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral.i1-Q6_K.gguf",
+            "size": "38533383584",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "97f52aba5d513fe50cfbe618620acc7f898bda16dc31efcf4b7af687de4f888a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-2.0-Mixtral-i1-GGUF/resolve/main/Tess-2.0-Mixtral.i1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral.i1-Q5_K_S.gguf",
+            "size": "32383903136",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "637a428d52ed509069c3e4bcfbd5c519b2a6f88544239dcb2a8f290b21a16f82",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-2.0-Mixtral-i1-GGUF/resolve/main/Tess-2.0-Mixtral.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral.i1-Q5_K_M.gguf",
+            "size": "33382147488",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "9cf894ce2d53a4cdf6534f02c300bb31cde4ee2aef3808178a70057b798a5eed",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-2.0-Mixtral-i1-GGUF/resolve/main/Tess-2.0-Mixtral.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral.i1-Q4_K_S.gguf",
+            "size": "26898146720",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "e42ca2c2443309fc9f3dd1582d216d5ea6a5bfaa629b1ab88f926131b45f410b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-2.0-Mixtral-i1-GGUF/resolve/main/Tess-2.0-Mixtral.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral.i1-Q4_K_M.gguf",
+            "size": "28601034144",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5d4ace65e4fcdb75d3e2fbb03353402da40aa5df0506346e5565a421444e9823",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-2.0-Mixtral-i1-GGUF/resolve/main/Tess-2.0-Mixtral.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral.i1-Q4_0.gguf",
+            "size": "26713597344",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "287be43b0526d4e433d6637e603d575c22d94f61f9f5ab4f8b6d052c64e4ebdd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-2.0-Mixtral-i1-GGUF/resolve/main/Tess-2.0-Mixtral.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral.i1-Q3_K_S.gguf",
+            "size": "20585088416",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "139c2c64fe2baf918a62ebf078513106973d49e450bb633076c96f2165f34487",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-2.0-Mixtral-i1-GGUF/resolve/main/Tess-2.0-Mixtral.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral.i1-Q3_K_M.gguf",
+            "size": "22699017632",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "f909cf26e40bafe161d93f23b6273ebc95047b9a7f9271615848ff167fbab1dc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-2.0-Mixtral-i1-GGUF/resolve/main/Tess-2.0-Mixtral.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral.i1-Q3_K_L.gguf",
+            "size": "24322213280",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "c7a15d447b8f54c42e96fb2d78cbccd7ccdd9a8f09d213b7ad219f8a2912c720",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-2.0-Mixtral-i1-GGUF/resolve/main/Tess-2.0-Mixtral.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral.i1-Q2_K.gguf",
+            "size": "17463797152",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "1d1eee66ee18ca3a418eee962bcdb52166dd62d9b86ab1a0bf99c662cb196982",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-2.0-Mixtral-i1-GGUF/resolve/main/Tess-2.0-Mixtral.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral.i1-IQ1_M.gguf",
+            "size": "11017151904",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "bf08cee2efaf9575d147d7fc283b1b57370dd2dbbda6841f6c833a282899029c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-2.0-Mixtral-i1-GGUF/resolve/main/Tess-2.0-Mixtral.i1-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral.i1-IQ3_XXS.gguf",
+            "size": "18412438944",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "57ebd2115ade99e996550c7ccec0d51cc3900eba665addaa67e102f626404049",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-2.0-Mixtral-i1-GGUF/resolve/main/Tess-2.0-Mixtral.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral.i1-IQ3_XS.gguf",
+            "size": "19436897696",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "6bad9f454d95191ddc966336828b004149e64b9f015d3000f3fe39c6aded40ca",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-2.0-Mixtral-i1-GGUF/resolve/main/Tess-2.0-Mixtral.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral.i1-IQ3_S.gguf",
+            "size": "20585088416",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "ee888e9abc4361b91717ea0015224e4ec62e3ff48bada550dbe0765ba79a3486",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-2.0-Mixtral-i1-GGUF/resolve/main/Tess-2.0-Mixtral.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral.i1-IQ3_M.gguf",
+            "size": "21583332768",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "fb5645c62ef75e5f89ab8d18b17dcfdbdb8feefdd4b5f8345a6d0c1c9fca92b7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-2.0-Mixtral-i1-GGUF/resolve/main/Tess-2.0-Mixtral.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral.i1-IQ2_XXS.gguf",
+            "size": "12726330784",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "6c1b346669118f89264ebe1b147f575f611460cf4d3b7175a5194150aff7e061",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-2.0-Mixtral-i1-GGUF/resolve/main/Tess-2.0-Mixtral.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral.i1-IQ2_XS.gguf",
+            "size": "14093673888",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "082753b89469a5c8b3c15c376ba1712bc46b61a0a6b409c735d93fe91ddac663",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-2.0-Mixtral-i1-GGUF/resolve/main/Tess-2.0-Mixtral.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral.i1-IQ2_S.gguf",
+            "size": "14297826720",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "445ed73ca8bf6f0d49e8b765a7ff11b3a4d555b52a3630b8d5c7c134f3e7b0f9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-2.0-Mixtral-i1-GGUF/resolve/main/Tess-2.0-Mixtral.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral.i1-IQ2_M.gguf",
+            "size": "15665169824",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "cac23290ab36fce7a26d3833d4ba55018d75f38d8960249acdedf6400889359a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-2.0-Mixtral-i1-GGUF/resolve/main/Tess-2.0-Mixtral.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral.i1-IQ1_S.gguf",
+            "size": "9991644576",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "3d62fa767bc88ad487d52ebcdcc85b4e8b4659e95b8507862dfedb9d4544a6f9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-2.0-Mixtral-i1-GGUF/resolve/main/Tess-2.0-Mixtral.i1-IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

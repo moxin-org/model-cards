@@ -1,0 +1,143 @@
+{
+    "id": "neopolita/h2o-danube-1.8b-chat-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "neopolita",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-11T13:39:36Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "h2o-danube-1.8b-chat_q2_k.gguf",
+            "size": "710702240",
+            "quantization": "",
+            "tags": [],
+            "sha256": "12561d36c08243d5e2b65ed71fb711b1397ac1b5404e50e4e606a798ac95a900",
+            "download": {
+                "default": "https://huggingface.co/neopolita/h2o-danube-1.8b-chat-gguf/resolve/main/h2o-danube-1.8b-chat_q2_k.gguf"
+            }
+        },
+        {
+            "name": "h2o-danube-1.8b-chat_q3_k_l.gguf",
+            "size": "980203680",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4319179317188bceccc1c6b2eb3a75ca4f0baa0dd8b7f507a489edb2ad9e7e25",
+            "download": {
+                "default": "https://huggingface.co/neopolita/h2o-danube-1.8b-chat-gguf/resolve/main/h2o-danube-1.8b-chat_q3_k_l.gguf"
+            }
+        },
+        {
+            "name": "h2o-danube-1.8b-chat_q3_k_m.gguf",
+            "size": "905164960",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f32bc4598bf6fb9315bf302be6fe872b3c0211c47c6c3c70db82b8fad3a19a2d",
+            "download": {
+                "default": "https://huggingface.co/neopolita/h2o-danube-1.8b-chat-gguf/resolve/main/h2o-danube-1.8b-chat_q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "h2o-danube-1.8b-chat_q3_k_s.gguf",
+            "size": "820029600",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c80ecd7a43cf0ef6a110c125b43e0ac4f50e48554fec60edb9b74dbc22bbf11b",
+            "download": {
+                "default": "https://huggingface.co/neopolita/h2o-danube-1.8b-chat-gguf/resolve/main/h2o-danube-1.8b-chat_q3_k_s.gguf"
+            }
+        },
+        {
+            "name": "h2o-danube-1.8b-chat_q4_0.gguf",
+            "size": "1052339360",
+            "quantization": "",
+            "tags": [],
+            "sha256": "70eebe6c03a20bcaff76b2dfe7d9988973f1a2570b067d25aedd63a988537e57",
+            "download": {
+                "default": "https://huggingface.co/neopolita/h2o-danube-1.8b-chat-gguf/resolve/main/h2o-danube-1.8b-chat_q4_0.gguf"
+            }
+        },
+        {
+            "name": "h2o-danube-1.8b-chat_q4_k_m.gguf",
+            "size": "1112151200",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8b9ebafd95039120f62f73caf4a298493477c29532bb953bb25f67f630859a38",
+            "download": {
+                "default": "https://huggingface.co/neopolita/h2o-danube-1.8b-chat-gguf/resolve/main/h2o-danube-1.8b-chat_q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "h2o-danube-1.8b-chat_q4_k_s.gguf",
+            "size": "1059794080",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f55d6662e36551b151e4ce9afd7897fe9fa182009531126e42b036d6bfe9dadf",
+            "download": {
+                "default": "https://huggingface.co/neopolita/h2o-danube-1.8b-chat-gguf/resolve/main/h2o-danube-1.8b-chat_q4_k_s.gguf"
+            }
+        },
+        {
+            "name": "h2o-danube-1.8b-chat_q5_0.gguf",
+            "size": "1270983840",
+            "quantization": "",
+            "tags": [],
+            "sha256": "bd4766df83b7abe8bc957368b788acc989ffba01affc005165887b77e3fed41d",
+            "download": {
+                "default": "https://huggingface.co/neopolita/h2o-danube-1.8b-chat-gguf/resolve/main/h2o-danube-1.8b-chat_q5_0.gguf"
+            }
+        },
+        {
+            "name": "h2o-danube-1.8b-chat_q5_k_m.gguf",
+            "size": "1301796000",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4439fa3808578d381bbb069d454831e4b1cc2896d050baa7b7051633d740afc3",
+            "download": {
+                "default": "https://huggingface.co/neopolita/h2o-danube-1.8b-chat-gguf/resolve/main/h2o-danube-1.8b-chat_q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "h2o-danube-1.8b-chat_q5_k_s.gguf",
+            "size": "1270983840",
+            "quantization": "",
+            "tags": [],
+            "sha256": "256395a49a309071b72d5cea9b162c976cdf15930a16fa3ec07ee8996cc5fc1f",
+            "download": {
+                "default": "https://huggingface.co/neopolita/h2o-danube-1.8b-chat-gguf/resolve/main/h2o-danube-1.8b-chat_q5_k_s.gguf"
+            }
+        },
+        {
+            "name": "h2o-danube-1.8b-chat_q6_k.gguf",
+            "size": "1503293600",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1e4bc7a657c28d5621bd63c0d214364c0403e50b76e56af7d53344b5b9fc1535",
+            "download": {
+                "default": "https://huggingface.co/neopolita/h2o-danube-1.8b-chat-gguf/resolve/main/h2o-danube-1.8b-chat_q6_k.gguf"
+            }
+        },
+        {
+            "name": "h2o-danube-1.8b-chat_q8_0.gguf",
+            "size": "1946757280",
+            "quantization": "",
+            "tags": [],
+            "sha256": "40bdb97fe01412ad06888b3d3e09373322bd192264d855e700034ac2513fbbac",
+            "download": {
+                "default": "https://huggingface.co/neopolita/h2o-danube-1.8b-chat-gguf/resolve/main/h2o-danube-1.8b-chat_q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

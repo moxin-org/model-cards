@@ -1,0 +1,33 @@
+{
+    "id": "man10/TinyLlama-1.1B-Chat-oasst-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "man10",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-22T02:46:28Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model.q4_k_m.gguf",
+            "size": "667817312",
+            "quantization": "",
+            "tags": [],
+            "sha256": "cf2ae64258c35e5b199a83c527325a3c166de8de42036c45a9887ff7532c3dae",
+            "download": {
+                "default": "https://huggingface.co/man10/TinyLlama-1.1B-Chat-oasst-GGUF/resolve/main/ggml-model.q4_k_m.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

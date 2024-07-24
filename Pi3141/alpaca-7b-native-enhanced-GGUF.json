@@ -1,0 +1,93 @@
+{
+    "id": "Pi3141/alpaca-7b-native-enhanced-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Pi3141",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-04T01:02:33Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-f32.gguf",
+            "size": "26954436256",
+            "quantization": "",
+            "tags": [],
+            "sha256": "44c8f2260fa80be8c6d23160a94380876e224918bfc6fc3fee58c3e67409ac3a",
+            "download": {
+                "default": "https://huggingface.co/Pi3141/alpaca-7b-native-enhanced-GGUF/resolve/main/ggml-model-f32.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q2_k.gguf",
+            "size": "2825945408",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6a5fa0be9ccc3a851767a40b66d7ff8a0baa5da66cd1424ae1b7386ba1779986",
+            "download": {
+                "default": "https://huggingface.co/Pi3141/alpaca-7b-native-enhanced-GGUF/resolve/main/ggml-model-q2_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q3_k.gguf",
+            "size": "3298009824",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9dc8eeab4ffec61558253241a8064be5390914a0dad1470b3a2003a619235a1e",
+            "download": {
+                "default": "https://huggingface.co/Pi3141/alpaca-7b-native-enhanced-GGUF/resolve/main/ggml-model-q3_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_k.gguf",
+            "size": "4081009920",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c00b7e0b2f018eb07aa9ea7ea692fcdd7747cc138b0a60d92db1122e1a6aaf01",
+            "download": {
+                "default": "https://huggingface.co/Pi3141/alpaca-7b-native-enhanced-GGUF/resolve/main/ggml-model-q4_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_k.gguf",
+            "size": "4783163136",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5a7883784290f45bf5adb6bcb247720f1554ee5ccb30cd9fcac42f40bba29043",
+            "download": {
+                "default": "https://huggingface.co/Pi3141/alpaca-7b-native-enhanced-GGUF/resolve/main/ggml-model-q5_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q6_k.gguf",
+            "size": "5529200928",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e5a472d9c123e6577a37c903a1feefe7e8f291d4586806ddd03dc2e2a9e4587f",
+            "download": {
+                "default": "https://huggingface.co/Pi3141/alpaca-7b-native-enhanced-GGUF/resolve/main/ggml-model-q6_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q8_0.gguf",
+            "size": "7161098464",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d8341228a30f008d4d36d79be00133eb01cb3020f10ae6df643dfaf1356602de",
+            "download": {
+                "default": "https://huggingface.co/Pi3141/alpaca-7b-native-enhanced-GGUF/resolve/main/ggml-model-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

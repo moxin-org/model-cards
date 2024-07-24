@@ -1,0 +1,53 @@
+{
+    "id": "r3v1/latxa-7b-v1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "r3v1",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-23T12:40:24Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "latxa-7b-v1-f16.gguf",
+            "size": "13478104896",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0f6ab882ed0ce57ab0e75b170cd0f1f0dbc0fe3d33bc684c24ebd867390e3610",
+            "download": {
+                "default": "https://huggingface.co/r3v1/latxa-7b-v1-GGUF/resolve/main/latxa-7b-v1-f16.gguf"
+            }
+        },
+        {
+            "name": "latxa-7b-v1-q2_K.gguf",
+            "size": "2825940832",
+            "quantization": "",
+            "tags": [],
+            "sha256": "06e2cf24eb3a0e4187b5202dd094499d7c0dc40daff6e9bc55d7538837f26d14",
+            "download": {
+                "default": "https://huggingface.co/r3v1/latxa-7b-v1-GGUF/resolve/main/latxa-7b-v1-q2_K.gguf"
+            }
+        },
+        {
+            "name": "latxa-7b-v1-q4_K_M.gguf",
+            "size": "4081004384",
+            "quantization": "",
+            "tags": [],
+            "sha256": "bdcbdfe409e0ea1e35b4b5ddf3e25f04dc16fc36b4d191f06cfa00647b760c02",
+            "download": {
+                "default": "https://huggingface.co/r3v1/latxa-7b-v1-GGUF/resolve/main/latxa-7b-v1-q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

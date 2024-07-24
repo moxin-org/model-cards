@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Mythical-Destroyer-V2-L2-13B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-11T23:43:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Mythical-Destroyer-V2-L2-13B.IQ3_M.gguf",
+            "size": "6177789888",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "f4ef2bb3c33ad29413302d9f43325f07f56f3a20b819a32fc7c1a15549a65105",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mythical-Destroyer-V2-L2-13B-GGUF/resolve/main/Mythical-Destroyer-V2-L2-13B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Mythical-Destroyer-V2-L2-13B.IQ3_S.gguf",
+            "size": "5852260288",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "c5ff4280a299cee7244fce60770ecc4cb2d31f7d970e295edeb7a97283e2839b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mythical-Destroyer-V2-L2-13B-GGUF/resolve/main/Mythical-Destroyer-V2-L2-13B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Mythical-Destroyer-V2-L2-13B.IQ3_XS.gguf",
+            "size": "5554890688",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "43d4972e5cc48a61ce99a7eefc0ce2febdf5490a1340b8f6f7e1fa952cd7908d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mythical-Destroyer-V2-L2-13B-GGUF/resolve/main/Mythical-Destroyer-V2-L2-13B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Mythical-Destroyer-V2-L2-13B.IQ4_XS.gguf",
+            "size": "7212797888",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "268baacef6407b97f87d29acfb8ce7fa5019287499f0600a215f0995f8832881",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mythical-Destroyer-V2-L2-13B-GGUF/resolve/main/Mythical-Destroyer-V2-L2-13B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Mythical-Destroyer-V2-L2-13B.Q2_K.gguf",
+            "size": "5047549888",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "0ebf68f5b7676932d52fd674782155bc44b98126fbe6212f8d564619404b2386",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mythical-Destroyer-V2-L2-13B-GGUF/resolve/main/Mythical-Destroyer-V2-L2-13B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Mythical-Destroyer-V2-L2-13B.Q3_K_L.gguf",
+            "size": "7122839488",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "ba7bc86c1a10eccb094d7375b8b55bf358cfb9bb39661033512663b074d2dc5e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mythical-Destroyer-V2-L2-13B-GGUF/resolve/main/Mythical-Destroyer-V2-L2-13B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Mythical-Destroyer-V2-L2-13B.Q3_K_M.gguf",
+            "size": "6531049408",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "844e23480f49d425fd82a560a32f2b87279d8ac41018090fd691f903b623bde5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mythical-Destroyer-V2-L2-13B-GGUF/resolve/main/Mythical-Destroyer-V2-L2-13B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mythical-Destroyer-V2-L2-13B.Q3_K_S.gguf",
+            "size": "5852260288",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "82ff4353a21b8701563dc563fbf0da99415da42da11f9580629ddb5af88bb52f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mythical-Destroyer-V2-L2-13B-GGUF/resolve/main/Mythical-Destroyer-V2-L2-13B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mythical-Destroyer-V2-L2-13B.Q4_K_M.gguf",
+            "size": "8059236288",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "2ca14997a288315fe8e09fcd4911faafc9c3f2db204c3cbb19edec4d4b269a25",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mythical-Destroyer-V2-L2-13B-GGUF/resolve/main/Mythical-Destroyer-V2-L2-13B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mythical-Destroyer-V2-L2-13B.Q4_K_S.gguf",
+            "size": "7616458688",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "5dd3e5c76e05c0b00e42a3c517b6ea93bfa97fe8f2c38b5953193d27f274d666",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mythical-Destroyer-V2-L2-13B-GGUF/resolve/main/Mythical-Destroyer-V2-L2-13B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mythical-Destroyer-V2-L2-13B.Q5_K_M.gguf",
+            "size": "9423204288",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "dff5a73ac145188385d0e63252c51061c7579d68209fb183dbe4355390321d5b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mythical-Destroyer-V2-L2-13B-GGUF/resolve/main/Mythical-Destroyer-V2-L2-13B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mythical-Destroyer-V2-L2-13B.Q5_K_S.gguf",
+            "size": "9165565888",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "eca4dc52a4f6fdc75014a2c96f3c0374351e9011ca764adf8fd33d66675340f8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mythical-Destroyer-V2-L2-13B-GGUF/resolve/main/Mythical-Destroyer-V2-L2-13B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mythical-Destroyer-V2-L2-13B.Q6_K.gguf",
+            "size": "10872420288",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "ff20c5377aabdd59c353ea43abf579babd771f96d1db2986ec00d1675b742eb5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mythical-Destroyer-V2-L2-13B-GGUF/resolve/main/Mythical-Destroyer-V2-L2-13B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Mythical-Destroyer-V2-L2-13B.Q8_0.gguf",
+            "size": "13984919488",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "a324ecf77fc4d92d9fb4492a02200bfdc3116f65b405f48190935d5521aa3c11",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mythical-Destroyer-V2-L2-13B-GGUF/resolve/main/Mythical-Destroyer-V2-L2-13B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,63 @@
+{
+    "id": "janhq/neural-chat-7b-v3-3-slerp-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "janhq",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-11T02:17:51Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "neural-chat-7b-v3-3-slerp.Q3_K_M.gguf",
+            "size": "3518985856",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "62ce0d2084e1ec70c667d7f0cbc8060fee33f49da18509acd26ddd755f936af8",
+            "download": {
+                "default": "https://huggingface.co/janhq/neural-chat-7b-v3-3-slerp-GGUF/resolve/main/neural-chat-7b-v3-3-slerp.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "neural-chat-7b-v3-3-slerp.Q4_K_M.gguf",
+            "size": "4368438912",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "8c0fb5cb9db2a8f64edb6728bcb0459077bcac749f5cefc784da8735bbc9fc7b",
+            "download": {
+                "default": "https://huggingface.co/janhq/neural-chat-7b-v3-3-slerp-GGUF/resolve/main/neural-chat-7b-v3-3-slerp.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "neural-chat-7b-v3-3-slerp.Q5_K_M.gguf",
+            "size": "5131409024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "28607eb7536c2ab54e738772b427087277aecd83c1ffe17a5e4709ff39b1cdd6",
+            "download": {
+                "default": "https://huggingface.co/janhq/neural-chat-7b-v3-3-slerp-GGUF/resolve/main/neural-chat-7b-v3-3-slerp.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "neural-chat-7b-v3-3-slerp.Q8_0.gguf",
+            "size": "7695857280",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "dcd020c0517ae563e1ea4cb15effe7d1d5712dd23b3da53e2efcf1387a899b80",
+            "download": {
+                "default": "https://huggingface.co/janhq/neural-chat-7b-v3-3-slerp-GGUF/resolve/main/neural-chat-7b-v3-3-slerp.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

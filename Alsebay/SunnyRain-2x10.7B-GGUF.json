@@ -1,0 +1,73 @@
+{
+    "id": "Alsebay/SunnyRain-2x10.7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Alsebay",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-23T06:00:20Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "SunnyRain-2x10.7B-fp16.gguf",
+            "size": "38376819136",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1b9e74ed3e9f8fa694d538e407b8e297c947b479ce8ac346b086910060a415e1",
+            "download": {
+                "default": "https://huggingface.co/Alsebay/SunnyRain-2x10.7B-GGUF/resolve/main/SunnyRain-2x10.7B-fp16.gguf"
+            }
+        },
+        {
+            "name": "SunnyRain-2x10.7B-Q3_K_S.gguf",
+            "size": "8298678784",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "2e1ea4d9a32c46b4c5e5a10bf40ad523b4bdb3a4b575bc79f7faf5e2ac37f409",
+            "download": {
+                "default": "https://huggingface.co/Alsebay/SunnyRain-2x10.7B-GGUF/resolve/main/SunnyRain-2x10.7B-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "SunnyRain-2x10.7B-Q4_K_M.gguf",
+            "size": "11582138880",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "183b027ca429ed08fec6c690d96cadcaf9f020b6a23c6c477a2f239400d332bd",
+            "download": {
+                "default": "https://huggingface.co/Alsebay/SunnyRain-2x10.7B-GGUF/resolve/main/SunnyRain-2x10.7B-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "SunnyRain-2x10.7B-Q5_K_M.gguf",
+            "size": "13599205888",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "583de94bab29a3bf340e0847d487b874b8df09eff466f38cfae7fb7732c531bd",
+            "download": {
+                "default": "https://huggingface.co/Alsebay/SunnyRain-2x10.7B-GGUF/resolve/main/SunnyRain-2x10.7B-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "SunnyRain-2x10.7B-Q6_K.gguf",
+            "size": "15742339584",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "1b91aa9422b51906f81be1637ce2d16ee05bc1c1b8f6c128d758604819373534",
+            "download": {
+                "default": "https://huggingface.co/Alsebay/SunnyRain-2x10.7B-GGUF/resolve/main/SunnyRain-2x10.7B-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

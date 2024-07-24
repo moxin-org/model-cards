@@ -1,0 +1,53 @@
+{
+    "id": "Limour/CausalLM-14B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Limour",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-28T14:03:38Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "causallm_14b.IQ2_XXS.gguf",
+            "size": "4977183424",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "16b45d1532d440c447a80453e5008d5cdb93e448e5e8d19f1f2b5ceed3af2e31",
+            "download": {
+                "default": "https://huggingface.co/Limour/CausalLM-14B-GGUF/resolve/main/causallm_14b.IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "causallm_14b.IQ3_XS.gguf",
+            "size": "6475500192",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "a6cc0121624d516c41240f08dd5881a7fbbf636260f034145e2dbb139bbc121a",
+            "download": {
+                "default": "https://huggingface.co/Limour/CausalLM-14B-GGUF/resolve/main/causallm_14b.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "causallm_14b.IQ4_XS.gguf",
+            "size": "7845837504",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "62d782bf1670cf905c9629c3e832cd56dddcd127f26a8a71abe2f81378af84fd",
+            "download": {
+                "default": "https://huggingface.co/Limour/CausalLM-14B-GGUF/resolve/main/causallm_14b.IQ4_XS.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

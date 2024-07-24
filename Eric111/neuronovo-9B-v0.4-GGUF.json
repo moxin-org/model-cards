@@ -1,0 +1,73 @@
+{
+    "id": "Eric111/neuronovo-9B-v0.4-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Eric111",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-29T18:35:20Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "neuronovo-9b-v0.4.Q2_K.gguf",
+            "size": "3361236896",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "c9f54ad31c06bd10cc28a6b5317420215f06ba9214dc9689117e77b69936ee19",
+            "download": {
+                "default": "https://huggingface.co/Eric111/neuronovo-9B-v0.4-GGUF/resolve/main/neuronovo-9b-v0.4.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "neuronovo-9b-v0.4.Q3_K_M.gguf",
+            "size": "4353656736",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "edd9cac5690ffe77236c8a08966259a0b0e4dc41b576708148776e9b53f3a7b8",
+            "download": {
+                "default": "https://huggingface.co/Eric111/neuronovo-9B-v0.4-GGUF/resolve/main/neuronovo-9b-v0.4.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "neuronovo-9b-v0.4.Q4_K_M.gguf",
+            "size": "5415053216",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "13fa2d1bde45cbc16c78ad51e93c634457266a102ba03619fe71bb6a67af7960",
+            "download": {
+                "default": "https://huggingface.co/Eric111/neuronovo-9B-v0.4-GGUF/resolve/main/neuronovo-9b-v0.4.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "neuronovo-9b-v0.4.Q5_K_M.gguf",
+            "size": "6364669856",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "c5c54e44c1211e35981a01fc3bdc907f3ce10c4074829912d28f2d6af5847c39",
+            "download": {
+                "default": "https://huggingface.co/Eric111/neuronovo-9B-v0.4-GGUF/resolve/main/neuronovo-9b-v0.4.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "neuronovo-9b-v0.4.Q8_0.gguf",
+            "size": "9550006176",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "b9b7e7a69035373295d5a3011de0b1793e0f9cc62164b82dfbeb794fc5311b3f",
+            "download": {
+                "default": "https://huggingface.co/Eric111/neuronovo-9B-v0.4-GGUF/resolve/main/neuronovo-9b-v0.4.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,103 @@
+{
+    "id": "xverse/XVERSE-13B-Chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "xverse",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-25T13:28:35Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "xverse-13b-chat-q2_k.gguf",
+            "size": "5258077728",
+            "quantization": "",
+            "tags": [],
+            "sha256": "49ded31598ac814215f602b42b85a2d9d54030f342418b9bad97531258f0ec9a",
+            "download": {
+                "default": "https://huggingface.co/xverse/XVERSE-13B-Chat-GGUF/resolve/main/xverse-13b-chat-q2_k.gguf"
+            }
+        },
+        {
+            "name": "xverse-13b-chat-q3_k_m.gguf",
+            "size": "6777214944",
+            "quantization": "",
+            "tags": [],
+            "sha256": "54d5ac8a31c3b137b90b451ef7b12f57edefde8b120c0396953099951784e3af",
+            "download": {
+                "default": "https://huggingface.co/xverse/XVERSE-13B-Chat-GGUF/resolve/main/xverse-13b-chat-q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "xverse-13b-chat-q4_0.gguf",
+            "size": "7851883328",
+            "quantization": "",
+            "tags": [],
+            "sha256": "983a8da070a823e6822c4123876d6a2d35c53c3e8fbc1f493dafb44d284b020b",
+            "download": {
+                "default": "https://huggingface.co/xverse/XVERSE-13B-Chat-GGUF/resolve/main/xverse-13b-chat-q4_0.gguf"
+            }
+        },
+        {
+            "name": "xverse-13b-chat-q4_k_m.gguf",
+            "size": "8352004928",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6902926ff427f8b7c978437c1ccb2406ca125563765c55857751f88d656a91e1",
+            "download": {
+                "default": "https://huggingface.co/xverse/XVERSE-13B-Chat-GGUF/resolve/main/xverse-13b-chat-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "xverse-13b-chat-q5_0.gguf",
+            "size": "9502196288",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fa395548720aaaf88487fbfff0274b082dde21d336f6384b83a82e57ac553363",
+            "download": {
+                "default": "https://huggingface.co/xverse/XVERSE-13B-Chat-GGUF/resolve/main/xverse-13b-chat-q5_0.gguf"
+            }
+        },
+        {
+            "name": "xverse-13b-chat-q5_k_m.gguf",
+            "size": "9759834688",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a593405b6e7d5a6882c7f9a6fbcc589a7296dcdb11cb827b82cc638a00496608",
+            "download": {
+                "default": "https://huggingface.co/xverse/XVERSE-13B-Chat-GGUF/resolve/main/xverse-13b-chat-q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "xverse-13b-chat-q6_k.gguf",
+            "size": "11255653824",
+            "quantization": "",
+            "tags": [],
+            "sha256": "70a170f0c778fc954b084c1e0cfa5e2addb0819b5a9307705edb3c9651511ca4",
+            "download": {
+                "default": "https://huggingface.co/xverse/XVERSE-13B-Chat-GGUF/resolve/main/xverse-13b-chat-q6_k.gguf"
+            }
+        },
+        {
+            "name": "xverse-13b-chat-q8_0.gguf",
+            "size": "14577797312",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dbd444f4183d79602631cc2df4d67cb546167004ea1096f53abf10415299387f",
+            "download": {
+                "default": "https://huggingface.co/xverse/XVERSE-13B-Chat-GGUF/resolve/main/xverse-13b-chat-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,153 @@
+{
+    "id": "second-state/llm-compiler-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-06-29T07:47:33Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llm-compiler-7b-f16.gguf",
+            "size": "13478104960",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a04ecaad75a545e7aa1f37149772637a3aa015635d46d04a046c9da449928fc7",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-7b-GGUF/resolve/main/llm-compiler-7b-f16.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-7b-Q2_K.gguf",
+            "size": "2532863872",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "1264df37dc5a9f062a70e988a667da24daf773d22d20ce3b2daf4186efe70517",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-7b-GGUF/resolve/main/llm-compiler-7b-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-7b-Q3_K_L.gguf",
+            "size": "3597111168",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "3e95ca39460cfd7ed14ded2a85c01a8c7d9ea07c8c9785a24963fc9a01a4ebd7",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-7b-GGUF/resolve/main/llm-compiler-7b-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-7b-Q3_K_M.gguf",
+            "size": "3298004864",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "d1759358b379549642dd4248a8fafee30ed412370dee4f3b7d0d3b79250b2a1b",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-7b-GGUF/resolve/main/llm-compiler-7b-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-7b-Q3_K_S.gguf",
+            "size": "2948304768",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "29baaf1429e1a7a9b624900b1350b779ce33d0acc173b7f5ab2852d23ca9cfe6",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-7b-GGUF/resolve/main/llm-compiler-7b-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-7b-Q4_0.gguf",
+            "size": "3825807232",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "7f58cf3b6d7ce8658e7d5b0d1da03097a0dc957fa7eb1548057925136d371052",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-7b-GGUF/resolve/main/llm-compiler-7b-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-7b-Q4_K_M.gguf",
+            "size": "4081004416",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "8158d1d2c508ab50e2ec50fbe4c96452a87ac7fe1b81bf35f47fa521717f7f91",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-7b-GGUF/resolve/main/llm-compiler-7b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-7b-Q4_K_S.gguf",
+            "size": "3856740224",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "5f8ac68016da3965692519a77f119142480f9395c14129d2ad8d312dcc340232",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-7b-GGUF/resolve/main/llm-compiler-7b-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-7b-Q5_0.gguf",
+            "size": "4651691904",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "e0fe7991e7414c38f77302c0c1e104d0fbdddade779050aacf460ed3d26e306b",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-7b-GGUF/resolve/main/llm-compiler-7b-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-7b-Q5_K_M.gguf",
+            "size": "4783157120",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "519c24f4e63466a71fcf413a842568a5282a446d6a5e06c958c7ebbaf5fae3d4",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-7b-GGUF/resolve/main/llm-compiler-7b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-7b-Q5_K_S.gguf",
+            "size": "4651691904",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "3372575d43b2ce33a365ef0655d6f6866d31a059aef3fb5d86e3177f18b80f5f",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-7b-GGUF/resolve/main/llm-compiler-7b-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-7b-Q6_K.gguf",
+            "size": "5529194368",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "bf8aeee3ae93eed9436bd50c5279e1fe0303dbeacf1e8818ca717975285f363d",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-7b-GGUF/resolve/main/llm-compiler-7b-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-7b-Q8_0.gguf",
+            "size": "7161089920",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "2524fe0b3a6632db2da25879c1ddf4b52f76e20057b889abc4e03f2034968137",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-7b-GGUF/resolve/main/llm-compiler-7b-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 4096,
+    "vector_size": 0,
+    "metrics": null
+}

@@ -1,0 +1,233 @@
+{
+    "id": "mradermacher/Emerhyst-20B-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-25T17:56:52Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Emerhyst-20B.i1-IQ4_XS.gguf",
+            "size": "10865622592",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "2c72f225b6fd8d993f96700acecfb0c2ec7f850c6a8e9e92a2b4535d522ea8b7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Emerhyst-20B-i1-GGUF/resolve/main/Emerhyst-20B.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Emerhyst-20B.i1-Q6_K.gguf",
+            "size": "16597698112",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "0da8760390173e06d0b5261f10382ebb7f372b10216ee9e3bb4a1bddc03334e6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Emerhyst-20B-i1-GGUF/resolve/main/Emerhyst-20B.i1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Emerhyst-20B.i1-Q5_K_S.gguf",
+            "size": "13964041792",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "8d5776e387f9a38d85376992d248606959b8fdb9f17abed89d4273a84ff47cd5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Emerhyst-20B-i1-GGUF/resolve/main/Emerhyst-20B.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Emerhyst-20B.i1-Q5_K_M.gguf",
+            "size": "14350499392",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "67303b0e9f77c136afaacc638d66892530eba3d377da0d56084e3a9ed20c53b3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Emerhyst-20B-i1-GGUF/resolve/main/Emerhyst-20B.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Emerhyst-20B.i1-Q4_K_S.gguf",
+            "size": "11560345152",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "6c3d72510208c80ea1476ed5603067efd91a9f7bc4739040deac9f703f8dd55e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Emerhyst-20B-i1-GGUF/resolve/main/Emerhyst-20B.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Emerhyst-20B.i1-Q4_K_M.gguf",
+            "size": "12235488832",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "b106a9c71e58a33b8e0ce1f43f4194f6d4c6a7aab9bb1de8e08685579b9e2906",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Emerhyst-20B-i1-GGUF/resolve/main/Emerhyst-20B.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Emerhyst-20B.i1-Q4_0.gguf",
+            "size": "11516272192",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "1e1e9dafb5900e0224f8bcd6aa9bcb3b216420605dcc93d1416b29562be80e46",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Emerhyst-20B-i1-GGUF/resolve/main/Emerhyst-20B.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Emerhyst-20B.i1-Q3_K_S.gguf",
+            "size": "8851650112",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "7028be2ea2dd3af74daaa945a0812a6860c12e136f8a170d7c91a6d98a5ce344",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Emerhyst-20B-i1-GGUF/resolve/main/Emerhyst-20B.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Emerhyst-20B.i1-Q3_K_M.gguf",
+            "size": "9899284032",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e0837b1f0271b7f1364b209214942e9aae787c1bc9783df944b9e1eeebec3ae5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Emerhyst-20B-i1-GGUF/resolve/main/Emerhyst-20B.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Emerhyst-20B.i1-Q3_K_L.gguf",
+            "size": "10821047872",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "5705aa2c48d90f79867c69017eded1d36ff0bb058f56d4ff247add586ba99059",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Emerhyst-20B-i1-GGUF/resolve/main/Emerhyst-20B.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Emerhyst-20B.i1-Q2_K.gguf",
+            "size": "7613500992",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "7a930490f63b9a14a4d9f1a4a150e354abc8f0ecd47253494ff083ecded4a246",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Emerhyst-20B-i1-GGUF/resolve/main/Emerhyst-20B.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Emerhyst-20B.i1-IQ1_S.gguf",
+            "size": "4609023552",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "afe244273d874fe8fc7c445563db4967ff04493cb919c25abf3e61b7a37ebc9d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Emerhyst-20B-i1-GGUF/resolve/main/Emerhyst-20B.i1-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "Emerhyst-20B.i1-IQ4_NL.gguf",
+            "size": "11485306432",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "2e8a453a4a2780c8e0b10b188e187646580fa33d30ec39566c16446f7f933fc2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Emerhyst-20B-i1-GGUF/resolve/main/Emerhyst-20B.i1-IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Emerhyst-20B.i1-IQ3_XXS.gguf",
+            "size": "7802828352",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "bd707446668fe0a4208a8481f2294fd7d5f6242245c69bb48b3c50941e3bbd74",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Emerhyst-20B-i1-GGUF/resolve/main/Emerhyst-20B.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "Emerhyst-20B.i1-IQ3_XS.gguf",
+            "size": "8387409472",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "b1d7ad6ab2f850e7b0a6adf08bc9fcdf9dc0a7284ef684f6a1b7586a93b35f66",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Emerhyst-20B-i1-GGUF/resolve/main/Emerhyst-20B.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Emerhyst-20B.i1-IQ3_S.gguf",
+            "size": "8851650112",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "665b62abfb041653747906814dde68c41e296eddbafab19b9831e593a05b7b00",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Emerhyst-20B-i1-GGUF/resolve/main/Emerhyst-20B.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Emerhyst-20B.i1-IQ3_M.gguf",
+            "size": "9349170752",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "28ae1d7a3bdbb1de1912d20edc79a25bdf49ab283bce0c625e87a0c29d9708b2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Emerhyst-20B-i1-GGUF/resolve/main/Emerhyst-20B.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Emerhyst-20B.i1-IQ2_XXS.gguf",
+            "size": "5604023872",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "be59725540f4d0b2646a5dcf948f2ec026a028cac2c8d0206a8784dde2246817",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Emerhyst-20B-i1-GGUF/resolve/main/Emerhyst-20B.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "Emerhyst-20B.i1-IQ2_XS.gguf",
+            "size": "6152314432",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "3fe3fcceeb625b47bf78c6209d28f9c61ff89035a3a477dcd5e8a88867a31251",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Emerhyst-20B-i1-GGUF/resolve/main/Emerhyst-20B.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Emerhyst-20B.i1-IQ2_S.gguf",
+            "size": "6612899392",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "823282991abca3d075132654b451cc6111578e1f784d26f2bc3f2591eeab43db",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Emerhyst-20B-i1-GGUF/resolve/main/Emerhyst-20B.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "Emerhyst-20B.i1-IQ2_M.gguf",
+            "size": "7110399552",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "ccaff9fd65fb56151cac7e9884f97df8ce71877dcdfdf43538431f104fec3f7f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Emerhyst-20B-i1-GGUF/resolve/main/Emerhyst-20B.i1-IQ2_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

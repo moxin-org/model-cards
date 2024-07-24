@@ -1,0 +1,93 @@
+{
+    "id": "afrideva/Llama-160M-Chat-v1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-21T21:27:21Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llama-160m-chat-v1.fp16.gguf",
+            "size": "326576768",
+            "quantization": "",
+            "tags": [],
+            "sha256": "bbd042cdffc7ed19530edee18dc7705878392d6614bdcc405f958b96527120b2",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Llama-160M-Chat-v1-GGUF/resolve/main/llama-160m-chat-v1.fp16.gguf"
+            }
+        },
+        {
+            "name": "llama-160m-chat-v1.q2_k.gguf",
+            "size": "77227168",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ae7c34f51e1689f7f379ab510e37c86a2ef624c5033febb5e6f2e7afb9ddd074",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Llama-160M-Chat-v1-GGUF/resolve/main/llama-160m-chat-v1.q2_k.gguf"
+            }
+        },
+        {
+            "name": "llama-160m-chat-v1.q3_k_m.gguf",
+            "size": "87538336",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3b8b6507b8dcf0f01a68eac05386956a7e7a8a2784f6ea1efecdbea9b27069fe",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Llama-160M-Chat-v1-GGUF/resolve/main/llama-160m-chat-v1.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "llama-160m-chat-v1.q4_k_m.gguf",
+            "size": "104027296",
+            "quantization": "",
+            "tags": [],
+            "sha256": "718824e01a966a6a0827eead47670cc91488019e7c2ee4cecc46d125483ebbb9",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Llama-160M-Chat-v1-GGUF/resolve/main/llama-160m-chat-v1.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "llama-160m-chat-v1.q5_k_m.gguf",
+            "size": "119043232",
+            "quantization": "",
+            "tags": [],
+            "sha256": "04ce0e7e2d305e0f8131047ef34385917eb2e9b080f56266459aa72f6b5e52b2",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Llama-160M-Chat-v1-GGUF/resolve/main/llama-160m-chat-v1.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "llama-160m-chat-v1.q6_k.gguf",
+            "size": "134997664",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d54692b5590f808c47a411e32c98747b89a863515142e322841b58e04814d3b9",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Llama-160M-Chat-v1-GGUF/resolve/main/llama-160m-chat-v1.q6_k.gguf"
+            }
+        },
+        {
+            "name": "llama-160m-chat-v1.q8_0.gguf",
+            "size": "174328480",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0d7c6e22036397f6f9a5be725bdeb6fb6baf6a20c95212c15fb21ddcc0cca505",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Llama-160M-Chat-v1-GGUF/resolve/main/llama-160m-chat-v1.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

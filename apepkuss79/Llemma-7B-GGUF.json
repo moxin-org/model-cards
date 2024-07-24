@@ -1,0 +1,43 @@
+{
+    "id": "apepkuss79/Llemma-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "apepkuss79",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-17T14:46:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llemma-7b-model-f16.gguf",
+            "size": "26954928224",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a2161a3666369fd12f160e0d2400501bd30d4c7ae7162ea1a6de09bb15cbc2c8",
+            "download": {
+                "default": "https://huggingface.co/apepkuss79/Llemma-7B-GGUF/resolve/main/llemma-7b-model-f16.gguf"
+            }
+        },
+        {
+            "name": "llemma-7b-model-q4_0.gguf",
+            "size": "3825898112",
+            "quantization": "",
+            "tags": [],
+            "sha256": "cc9fe34b017ff8a5b9af05b235c8044e4850320aa666052427fce9af6b738e50",
+            "download": {
+                "default": "https://huggingface.co/apepkuss79/Llemma-7B-GGUF/resolve/main/llemma-7b-model-q4_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

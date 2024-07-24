@@ -1,0 +1,73 @@
+{
+    "id": "Sao10K/Solus-m7-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Sao10K",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-05T10:26:03Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Solus-m7.q3_K_S.gguf",
+            "size": "3164567328",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b5bba8b79bb3ba42f1263ac748f6d5632e9b43691de8fa128475a12485f4128b",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Solus-m7-GGUF/resolve/main/Solus-m7.q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Solus-m7.q4_K_M.gguf",
+            "size": "4368439072",
+            "quantization": "",
+            "tags": [],
+            "sha256": "221e7a6c0dc8138f8e256e834d2ce5ff8791fa9e8adc6006e065c1ae86445cbb",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Solus-m7-GGUF/resolve/main/Solus-m7.q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Solus-m7.q5_K_M.gguf",
+            "size": "5131409184",
+            "quantization": "",
+            "tags": [],
+            "sha256": "63b02af051c1f75e764dba30b5daedf4c8f18646b56ca7c1a2234a5c64429560",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Solus-m7-GGUF/resolve/main/Solus-m7.q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Solus-m7.q6_K.gguf",
+            "size": "5942064928",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7aa994010a910cd4eb1670286b8673db0262d530005f0097946db429f99a050a",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Solus-m7-GGUF/resolve/main/Solus-m7.q6_K.gguf"
+            }
+        },
+        {
+            "name": "Solus-m7.q8_0.gguf",
+            "size": "7695857440",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4343d9b10690da8b03b31099d9bee951806e919b91afad2b82aca7bb57e140bc",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Solus-m7-GGUF/resolve/main/Solus-m7.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "ashishkgpian/gemma_hf_non_quant-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "ashishkgpian",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-16T19:25:15Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "gemma_hf_non_quant.Q4_K_M.gguf",
+            "size": "1630263040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "20bae4ad73a97a6185ca58f7d206dd67db9d94624c8be217a8b2218a16265d4e",
+            "download": {
+                "default": "https://huggingface.co/ashishkgpian/gemma_hf_non_quant-GGUF/resolve/main/gemma_hf_non_quant.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "gemma_hf_non_quant.Q5_K_M.gguf",
+            "size": "1839650560",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f361d93303725263b26db7cf1e3dc6e8238a87e54cef54a1f05c1716c0103870",
+            "download": {
+                "default": "https://huggingface.co/ashishkgpian/gemma_hf_non_quant-GGUF/resolve/main/gemma_hf_non_quant.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

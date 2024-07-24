@@ -1,0 +1,43 @@
+{
+    "id": "Severian/ANIMA-Phi-Neptune-Mistral-7B-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Severian",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-12T01:17:40Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "anima-phi-neptune-mistral-7b.Q2_K.gguf",
+            "size": "3083097792",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "184fc7c18c72afd7f0ca06aa50d613edc7aa9eb25ef80a0e9118c977434796a0",
+            "download": {
+                "default": "https://huggingface.co/Severian/ANIMA-Phi-Neptune-Mistral-7B-gguf/resolve/main/anima-phi-neptune-mistral-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "anima-phi-neptune-mistral-7b.Q4_K_M.gguf",
+            "size": "4368438976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e717ee3c7bb328934ce7a62b11fbff7c6ee013f774fe438f8e36da540df51cfe",
+            "download": {
+                "default": "https://huggingface.co/Severian/ANIMA-Phi-Neptune-Mistral-7B-gguf/resolve/main/anima-phi-neptune-mistral-7b.Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,173 @@
+{
+    "id": "KoboldAI/LLaMA2-13B-Tiefighter-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "KoboldAI",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-18T22:47:57Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "LLaMA2-13B-Tiefighter.F16.gguf",
+            "size": "26033303424",
+            "quantization": "",
+            "tags": [],
+            "sha256": "23f536e60baf93e0d20f7a432d32c0d819f662570982a4b09790c56ef115afd5",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Tiefighter-GGUF/resolve/main/LLaMA2-13B-Tiefighter.F16.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Tiefighter.Q2_K.gguf",
+            "size": "5429348288",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "60cfeab4e9481dbc91554955cb12cc6586644c9c6aa5c39677988785137609e8",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Tiefighter-GGUF/resolve/main/LLaMA2-13B-Tiefighter.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Tiefighter.Q3_K_L.gguf",
+            "size": "6929559488",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "d0e0e1e84bd5470e9ad81791b102fc1a1cf08633f6544e1ebeeed39f03d49b4f",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Tiefighter-GGUF/resolve/main/LLaMA2-13B-Tiefighter.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Tiefighter.Q3_K_M.gguf",
+            "size": "6337769408",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "6ad3ec7a074496350e6d49bb3499faefbaeda60a55a1aee543c18394b2f8b8b1",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Tiefighter-GGUF/resolve/main/LLaMA2-13B-Tiefighter.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Tiefighter.Q3_K_S.gguf",
+            "size": "5658980288",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "743152c6588dd3dfc892fde876389f460848c25daa0488923176c50c29820bd0",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Tiefighter-GGUF/resolve/main/LLaMA2-13B-Tiefighter.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Tiefighter.Q4_0.gguf",
+            "size": "7365834688",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "159619f7786da3fccfd2af25c5144d824c09b98f88093b5938dc6a89db2e683f",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Tiefighter-GGUF/resolve/main/LLaMA2-13B-Tiefighter.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Tiefighter.Q4_1.gguf",
+            "size": "8169060288",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "90b9368391d96a34975c6d76e9b2f4bf791d969254375cf9dcd9efc62dde3840",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Tiefighter-GGUF/resolve/main/LLaMA2-13B-Tiefighter.Q4_1.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Tiefighter.Q4_K_M.gguf",
+            "size": "7865956288",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "ea97134b32f2e282cc0e245f9d53902115d3b17b84b7c18b1190bf095220c582",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Tiefighter-GGUF/resolve/main/LLaMA2-13B-Tiefighter.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Tiefighter.Q4_K_S.gguf",
+            "size": "7414331328",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "dd4fcee944c5a4fbdad06b93acb58d4ce56f729235501fccbbae63dc243a7ed7",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Tiefighter-GGUF/resolve/main/LLaMA2-13B-Tiefighter.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Tiefighter.Q5_0.gguf",
+            "size": "8972285888",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "d435edc1893c466a8a7fe6b854c173ddcc75ad8220fcfdfda9f5fd4872388499",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Tiefighter-GGUF/resolve/main/LLaMA2-13B-Tiefighter.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Tiefighter.Q5_1.gguf",
+            "size": "9775511488",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "ef5d089c1a8f8ff34e1cbbd6cd0306bf5eceeb9ca8dcb33b47517d3c937822a5",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Tiefighter-GGUF/resolve/main/LLaMA2-13B-Tiefighter.Q5_1.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Tiefighter.Q5_K_M.gguf",
+            "size": "9229924288",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "fbcbec3d8f11de536496e1fbbdb30b8bb2c8d505b9d2c986054eba03c58cf23a",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Tiefighter-GGUF/resolve/main/LLaMA2-13B-Tiefighter.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Tiefighter.Q5_K_S.gguf",
+            "size": "8972285888",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "0b63b67ea26c870678e76100e0c26541f1bec242426309ef59d1252a29d21e3a",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Tiefighter-GGUF/resolve/main/LLaMA2-13B-Tiefighter.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Tiefighter.Q6_K.gguf",
+            "size": "10679140288",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "eff24af123a6dbb36b76c610a8b556dcb881e251edc01ea149da05a1ffabd51c",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Tiefighter-GGUF/resolve/main/LLaMA2-13B-Tiefighter.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Tiefighter.Q8_0.gguf",
+            "size": "13831319488",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "3d60cae60e7692f6de06fa1886b772f831d18afdabbbad20d7956a25b74ba334",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Tiefighter-GGUF/resolve/main/LLaMA2-13B-Tiefighter.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

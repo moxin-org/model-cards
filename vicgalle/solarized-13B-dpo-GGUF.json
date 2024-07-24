@@ -1,0 +1,53 @@
+{
+    "id": "vicgalle/solarized-13B-dpo-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "vicgalle",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-20T12:00:00Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "q4_k.gguf",
+            "size": "7508282080",
+            "quantization": "",
+            "tags": [],
+            "sha256": "35245b0e6138352d3414477cef27bee52e1b18895e08d79ac4b953f34c0e2db6",
+            "download": {
+                "default": "https://huggingface.co/vicgalle/solarized-13B-dpo-GGUF/resolve/main/q4_k.gguf"
+            }
+        },
+        {
+            "name": "q5_k.gguf",
+            "size": "8831191776",
+            "quantization": "",
+            "tags": [],
+            "sha256": "deac0a1ca4201cdf364f92a0eea802cb0076be9e44902196073d042446b48a40",
+            "download": {
+                "default": "https://huggingface.co/vicgalle/solarized-13B-dpo-GGUF/resolve/main/q5_k.gguf"
+            }
+        },
+        {
+            "name": "q6_k.gguf",
+            "size": "10236783328",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8960ccd972e2519e745fdcbb43bf8572a1433c604e217f452c62a38427f7d570",
+            "download": {
+                "default": "https://huggingface.co/vicgalle/solarized-13B-dpo-GGUF/resolve/main/q6_k.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

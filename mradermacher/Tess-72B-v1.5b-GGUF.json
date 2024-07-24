@@ -1,0 +1,123 @@
+{
+    "id": "mradermacher/Tess-72B-v1.5b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-07T03:47:12Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Tess-72B-v1.5b.IQ3_M.gguf",
+            "size": "33262220256",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "101c7c44c359fb880c4416a03c142bedafa6beb86a0685994f73e5a4c2fb69dc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-72B-v1.5b-GGUF/resolve/main/Tess-72B-v1.5b.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Tess-72B-v1.5b.IQ3_S.gguf",
+            "size": "31568770016",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "001bde7903634296b981c250a495aaa9184ca97823238d0e68e1c0dad313aabd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-72B-v1.5b-GGUF/resolve/main/Tess-72B-v1.5b.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Tess-72B-v1.5b.IQ3_XS.gguf",
+            "size": "29932991456",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "7fa6cef3bd292ff581dfe29816d1f6483b88848c807a87af07e94211faf8ff6d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-72B-v1.5b-GGUF/resolve/main/Tess-72B-v1.5b.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Tess-72B-v1.5b.IQ4_XS.gguf",
+            "size": "39098233824",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "5e188ce97b615919a2c44d25363d78883e10c05e3686a110c3181f138297d959",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-72B-v1.5b-GGUF/resolve/main/Tess-72B-v1.5b.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Tess-72B-v1.5b.Q2_K.gguf",
+            "size": "27080176608",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "fdee99b80efb796c9a5a4fd1240342d68f0cc9c265f334474d25ef0b46acf27d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-72B-v1.5b-GGUF/resolve/main/Tess-72B-v1.5b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Tess-72B-v1.5b.Q3_K_L.gguf",
+            "size": "38489371616",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "f9d9fd036be6e88da91586b89fe65e335bf3db2836fb13e6f47e36d8e82c3607",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-72B-v1.5b-GGUF/resolve/main/Tess-72B-v1.5b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Tess-72B-v1.5b.Q3_K_M.gguf",
+            "size": "35276534752",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "d5df0b1b6b977a9197e73921d5555bf7ce8ea84844a2b46aa72f3d754113a1ea",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-72B-v1.5b-GGUF/resolve/main/Tess-72B-v1.5b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Tess-72B-v1.5b.Q3_K_S.gguf",
+            "size": "31568770016",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "4c463c7f85fded5406cdaa77461520409214879bebbc11f1a38f76fa5277810c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-72B-v1.5b-GGUF/resolve/main/Tess-72B-v1.5b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Tess-72B-v1.5b.Q4_K_M.gguf",
+            "size": "43771868128",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "f75bd163cf77d52a9d0b7f0e327af210708299a440a22268d59db862092b17ae",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-72B-v1.5b-GGUF/resolve/main/Tess-72B-v1.5b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Tess-72B-v1.5b.Q4_K_S.gguf",
+            "size": "41288840160",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "db6156dbcd7641e5faec0b6c95b5ccea0c46a760b60d6c00e39989a47266178e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Tess-72B-v1.5b-GGUF/resolve/main/Tess-72B-v1.5b.Q4_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/T3Q-EN-DPO-Mistral-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-19T15:36:59Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "T3Q-EN-DPO-Mistral-7B.IQ3_M.gguf",
+            "size": "3439515392",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "d98fce1c27f693848b674621bdede6c67fdd5c23bb0beb92c82599392f5b6e2c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-EN-DPO-Mistral-7B-GGUF/resolve/main/T3Q-EN-DPO-Mistral-7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "T3Q-EN-DPO-Mistral-7B.IQ3_S.gguf",
+            "size": "3337017088",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "5e4f4c438014b1f6ee1b798457c9cb721db3f8a2da86f5d6b9e0528e66587904",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-EN-DPO-Mistral-7B-GGUF/resolve/main/T3Q-EN-DPO-Mistral-7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "T3Q-EN-DPO-Mistral-7B.IQ3_XS.gguf",
+            "size": "3155613440",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "b927c37edfc7ecade522ce505f493c1b16bdd9c5ba27e41e5b84c59a9615caba",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-EN-DPO-Mistral-7B-GGUF/resolve/main/T3Q-EN-DPO-Mistral-7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "T3Q-EN-DPO-Mistral-7B.IQ4_XS.gguf",
+            "size": "4099012352",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "a21d6ce537d683d408ed8d8c4520303eb468d0125c1f5e58531fe11a5c877e46",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-EN-DPO-Mistral-7B-GGUF/resolve/main/T3Q-EN-DPO-Mistral-7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "T3Q-EN-DPO-Mistral-7B.Q2_K.gguf",
+            "size": "2873865984",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "356e005b8bd6e27cb0d12d7f8cb22890d0651b2a912094b5feeb23fbdddfc7be",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-EN-DPO-Mistral-7B-GGUF/resolve/main/T3Q-EN-DPO-Mistral-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "T3Q-EN-DPO-Mistral-7B.Q3_K_L.gguf",
+            "size": "3976648448",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "43b05821e6e66283699aca583136ba0da49109a5e6a67662049c5e25313c9ac1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-EN-DPO-Mistral-7B-GGUF/resolve/main/T3Q-EN-DPO-Mistral-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "T3Q-EN-DPO-Mistral-7B.Q3_K_M.gguf",
+            "size": "3673609984",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "540aa879c9f2fced3f2e09f9604611926caa6a020da1aa2a7aac915c978f3ac2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-EN-DPO-Mistral-7B-GGUF/resolve/main/T3Q-EN-DPO-Mistral-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "T3Q-EN-DPO-Mistral-7B.Q3_K_S.gguf",
+            "size": "3319191296",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "33cc9ac9730826549222f5efdde7e47bcdbddf8ef9f9730fd3c5d1ac759689bf",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-EN-DPO-Mistral-7B-GGUF/resolve/main/T3Q-EN-DPO-Mistral-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "T3Q-EN-DPO-Mistral-7B.Q4_K_M.gguf",
+            "size": "4523063040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c6228ceacb968ae13bf722302a0843d74953de3dcb056c305f90eee6fd830f79",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-EN-DPO-Mistral-7B-GGUF/resolve/main/T3Q-EN-DPO-Mistral-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "T3Q-EN-DPO-Mistral-7B.Q4_K_S.gguf",
+            "size": "4294997760",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "404916a66bd8d225be644ea9716849379c6189f157dc3223dd35fe0aca32b79d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-EN-DPO-Mistral-7B-GGUF/resolve/main/T3Q-EN-DPO-Mistral-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "T3Q-EN-DPO-Mistral-7B.Q5_K_M.gguf",
+            "size": "5286033152",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "7b84ac646b60c16402f0b1082aea1355504050b727e2f98bf3658555fbaa8ac1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-EN-DPO-Mistral-7B-GGUF/resolve/main/T3Q-EN-DPO-Mistral-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "T3Q-EN-DPO-Mistral-7B.Q5_K_S.gguf",
+            "size": "5152339712",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "5a149b3787d4f7d612816b3fe85e5058e156e274ecbaa7bf988d7da625a45e97",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-EN-DPO-Mistral-7B-GGUF/resolve/main/T3Q-EN-DPO-Mistral-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "T3Q-EN-DPO-Mistral-7B.Q6_K.gguf",
+            "size": "6096688896",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "81de070ae98a32dc30ed4e5d1c88245502c07a0db9419bcf967fa832440a8474",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-EN-DPO-Mistral-7B-GGUF/resolve/main/T3Q-EN-DPO-Mistral-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "T3Q-EN-DPO-Mistral-7B.Q8_0.gguf",
+            "size": "7818737408",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "b221cd0a66f69ab9288a3132f26eae3a1eae1bdae9a9ccf99b8c8f4533498a7f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-EN-DPO-Mistral-7B-GGUF/resolve/main/T3Q-EN-DPO-Mistral-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

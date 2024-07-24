@@ -1,0 +1,143 @@
+{
+    "id": "NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "NousResearch",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-16T15:25:12Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.Q2_K.gguf",
+            "size": "17309182848",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "b66157ac2676d0118712980c9842b927e8c3f0298594948c40931e458d483e93",
+            "download": {
+                "default": "https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.Q3_K_L.gguf",
+            "size": "24167599808",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "e660ccdd39e190b37362cfc6d73d7e937c92f7c20f45744974a74f35a6a59552",
+            "download": {
+                "default": "https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.Q3_K_M.gguf",
+            "size": "22544404160",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ce21c02e94d960acf907aa8e237942b330e6c798ecf6787dee16f540b8641c91",
+            "download": {
+                "default": "https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.Q3_K_S.gguf",
+            "size": "20430474944",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "bc260bdf77f3d59b11cb3d58da4f6830a8ea93b757ecd7734126fff49cc3bdc9",
+            "download": {
+                "default": "https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.Q4_0.gguf",
+            "size": "26441544448",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "5d0f3697e4a66532d305e528c23be2b3590841ff6f21498bf3fa021ddee7affc",
+            "download": {
+                "default": "https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.Q4_K_M.gguf",
+            "size": "28446421760",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5f8a05731f6ab551213d101378dd5af36d66a18f1620fa97f1b01d1377de3736",
+            "download": {
+                "default": "https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.Q4_K_S.gguf",
+            "size": "26743534336",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "5b890ef6225da0135d01f2acb37a01a3b7a2fcf7beff64ff62317863c4dc126e",
+            "download": {
+                "default": "https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.Q5_0.gguf",
+            "size": "32229291776",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "20caccb6507def543515db6283baa806e9417c9da677f28297d89369a489bc9d",
+            "download": {
+                "default": "https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.Q5_K_M.gguf",
+            "size": "33227536128",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e09228d3f9d764c4dd4d57bd83edbfb3548a5477c990246f6648ee382f11ee8b",
+            "download": {
+                "default": "https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.Q5_K_S.gguf",
+            "size": "32229291776",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "03861284d2ce17c4514849828d11978b6edfbc12448fd05a4b8fcc79cbb52190",
+            "download": {
+                "default": "https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.Q6_K.gguf",
+            "size": "38378773312",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "352f9430b6948d9659c8241a15ccecdc6cffad44c57bf01e29362e26fbb7be87",
+            "download": {
+                "default": "https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Nous-Hermes-2-Mixtral-8x7B-DPO.Q8_0.gguf",
+            "size": "49624279744",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "23c274058b204c3bcd6def742b74c979448dfe57e0d5dbec836e22cb94ebce99",
+            "download": {
+                "default": "https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO-GGUF/resolve/main/Nous-Hermes-2-Mixtral-8x7B-DPO.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

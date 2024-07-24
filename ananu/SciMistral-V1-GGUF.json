@@ -1,0 +1,33 @@
+{
+    "id": "ananu/SciMistral-V1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "ananu",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-23T07:48:52Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Q4_K_M.gguf",
+            "size": "4368438880",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "3841ac203d61af388e60d5e04fdb8107bdcde11625dabd2577088a62660831b9",
+            "download": {
+                "default": "https://huggingface.co/ananu/SciMistral-V1-GGUF/resolve/main/Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

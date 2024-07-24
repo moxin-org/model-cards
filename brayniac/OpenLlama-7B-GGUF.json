@@ -1,0 +1,153 @@
+{
+    "id": "brayniac/OpenLlama-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "brayniac",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-02T20:13:42Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "OpenLlama-7B.f16.gguf",
+            "size": "13323515360",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6730da58158b6b3871c61ac5b7cbc09b6082147b058a43aff83225b63fae9385",
+            "download": {
+                "default": "https://huggingface.co/brayniac/OpenLlama-7B-GGUF/resolve/main/OpenLlama-7B.f16.gguf"
+            }
+        },
+        {
+            "name": "OpenLlama-7B.Q2_K.gguf",
+            "size": "2825975264",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "3f6c259789205e1cbe442231cd50404e38f810b0fb406fd25454d8ba8a32f1bc",
+            "download": {
+                "default": "https://huggingface.co/brayniac/OpenLlama-7B-GGUF/resolve/main/OpenLlama-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "OpenLlama-7B.Q3_K_L.gguf",
+            "size": "3597145568",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "e9b214d0dbe50a3b1606fb71c652be4ec0aa87e957618636120f5d6e3b9db59f",
+            "download": {
+                "default": "https://huggingface.co/brayniac/OpenLlama-7B-GGUF/resolve/main/OpenLlama-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "OpenLlama-7B.Q3_K_M.gguf",
+            "size": "3298039264",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "0d55e20595d3147220a944c3676e032814058c870ca790264ee28f528d9d3bc4",
+            "download": {
+                "default": "https://huggingface.co/brayniac/OpenLlama-7B-GGUF/resolve/main/OpenLlama-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "OpenLlama-7B.Q3_K_S.gguf",
+            "size": "2948339168",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "d0928cd1d454dc90f3692ce19b65d675978270426ef1dbf7896990ddd64952b0",
+            "download": {
+                "default": "https://huggingface.co/brayniac/OpenLlama-7B-GGUF/resolve/main/OpenLlama-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "OpenLlama-7B.Q4_0.gguf",
+            "size": "3825841632",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "07b86e60c5bc94fb4e4123f09cfcf0a06494df0abca0ce7722f81de242de71ac",
+            "download": {
+                "default": "https://huggingface.co/brayniac/OpenLlama-7B-GGUF/resolve/main/OpenLlama-7B.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "OpenLlama-7B.Q4_K_M.gguf",
+            "size": "4081038816",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "835e9034c5027aa6021a02ef8b7170dcefb7bfe88f84e01f703f659b7d9a3bc9",
+            "download": {
+                "default": "https://huggingface.co/brayniac/OpenLlama-7B-GGUF/resolve/main/OpenLlama-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "OpenLlama-7B.Q4_K_S.gguf",
+            "size": "3856774624",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "0eeed9eb0bd44daa6de7b4d206e95e1a0a4d80f3d4894d4c9fd1d99152f4f870",
+            "download": {
+                "default": "https://huggingface.co/brayniac/OpenLlama-7B-GGUF/resolve/main/OpenLlama-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "OpenLlama-7B.Q5_0.gguf",
+            "size": "4651726304",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "021b0b634404c698ac5074f79daec83ea085734d8248448046c926fe1c0fa12a",
+            "download": {
+                "default": "https://huggingface.co/brayniac/OpenLlama-7B-GGUF/resolve/main/OpenLlama-7B.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "OpenLlama-7B.Q5_K_M.gguf",
+            "size": "4783191520",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f48ab459dba2074a370512082edb76fac1d9376147504d8eead15829010c8538",
+            "download": {
+                "default": "https://huggingface.co/brayniac/OpenLlama-7B-GGUF/resolve/main/OpenLlama-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "OpenLlama-7B.Q5_K_S.gguf",
+            "size": "4651726304",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "1f97ee8c0c8e582ced9ed637265df7e590c9bc529ab8cc1801a83647a74af64d",
+            "download": {
+                "default": "https://huggingface.co/brayniac/OpenLlama-7B-GGUF/resolve/main/OpenLlama-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "OpenLlama-7B.Q6_K.gguf",
+            "size": "5529228768",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "6919a48ee4e8b463828cc3974ad969f08c16a41ee39cfa38b40c1206c64ff40e",
+            "download": {
+                "default": "https://huggingface.co/brayniac/OpenLlama-7B-GGUF/resolve/main/OpenLlama-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "OpenLlama-7B.Q8_0.gguf",
+            "size": "7161124320",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "de8230acbe491c1d9cce36f6917ada68e275706657ea06d43912bd9fa457c04e",
+            "download": {
+                "default": "https://huggingface.co/brayniac/OpenLlama-7B-GGUF/resolve/main/OpenLlama-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

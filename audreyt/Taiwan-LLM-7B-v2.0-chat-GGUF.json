@@ -1,0 +1,163 @@
+{
+    "id": "audreyt/Taiwan-LLM-7B-v2.0-chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "audreyt",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-11T04:27:32Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Taiwan-LLM-7B-v2.0-chat-Q2_K.gguf",
+            "size": "2825940768",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "196c5b51b7f3e5ce36dacedf84bad92794fbc0bbeeec3916aef98401fef562be",
+            "download": {
+                "default": "https://huggingface.co/audreyt/Taiwan-LLM-7B-v2.0-chat-GGUF/resolve/main/Taiwan-LLM-7B-v2.0-chat-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Taiwan-LLM-7B-v2.0-chat-Q3_K_L.gguf",
+            "size": "3597111072",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "296567daa6632c26512f5cddd71f60437ec9d58f6c44fada9cd0995fa2ce81a7",
+            "download": {
+                "default": "https://huggingface.co/audreyt/Taiwan-LLM-7B-v2.0-chat-GGUF/resolve/main/Taiwan-LLM-7B-v2.0-chat-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Taiwan-LLM-7B-v2.0-chat-Q3_K_M.gguf",
+            "size": "3298004768",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "9429782fd381514ade04281f55088d7b525bebbac3c9fd938e09f212928ecbf9",
+            "download": {
+                "default": "https://huggingface.co/audreyt/Taiwan-LLM-7B-v2.0-chat-GGUF/resolve/main/Taiwan-LLM-7B-v2.0-chat-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Taiwan-LLM-7B-v2.0-chat-Q3_K_S.gguf",
+            "size": "2948304672",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "ed5c8fa04f8c04fea36e096131327600eea5969cda49e2ea2cfb099627380e15",
+            "download": {
+                "default": "https://huggingface.co/audreyt/Taiwan-LLM-7B-v2.0-chat-GGUF/resolve/main/Taiwan-LLM-7B-v2.0-chat-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Taiwan-LLM-7B-v2.0-chat-Q4_0.gguf",
+            "size": "3825807136",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "5a59a710f52232142386827470bf6357a2fb08d84097d821be8cfd533f9e0d74",
+            "download": {
+                "default": "https://huggingface.co/audreyt/Taiwan-LLM-7B-v2.0-chat-GGUF/resolve/main/Taiwan-LLM-7B-v2.0-chat-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Taiwan-LLM-7B-v2.0-chat-Q4_1.gguf",
+            "size": "4238749472",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "32e4bc3b5c5f5d9a0b3b67694d352d9a5493b5f93a9355b25af9e14f34691220",
+            "download": {
+                "default": "https://huggingface.co/audreyt/Taiwan-LLM-7B-v2.0-chat-GGUF/resolve/main/Taiwan-LLM-7B-v2.0-chat-Q4_1.gguf"
+            }
+        },
+        {
+            "name": "Taiwan-LLM-7B-v2.0-chat-Q4_K_M.gguf",
+            "size": "4081004320",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "91de11a6d490a10296038abe68459e7bf39751dcb2da41257154d8312cfa4340",
+            "download": {
+                "default": "https://huggingface.co/audreyt/Taiwan-LLM-7B-v2.0-chat-GGUF/resolve/main/Taiwan-LLM-7B-v2.0-chat-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Taiwan-LLM-7B-v2.0-chat-Q4_K_S.gguf",
+            "size": "3856740128",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "19320d1b427c35b4b3adec0565d6371374c6cca3a286f3d4ee3147c169bd0801",
+            "download": {
+                "default": "https://huggingface.co/audreyt/Taiwan-LLM-7B-v2.0-chat-GGUF/resolve/main/Taiwan-LLM-7B-v2.0-chat-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Taiwan-LLM-7B-v2.0-chat-Q5_0.gguf",
+            "size": "4651691808",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "426ce7f54b82404a8e04a9e8f2e68541f58c070909c7b1ab0813c64e57ff8344",
+            "download": {
+                "default": "https://huggingface.co/audreyt/Taiwan-LLM-7B-v2.0-chat-GGUF/resolve/main/Taiwan-LLM-7B-v2.0-chat-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Taiwan-LLM-7B-v2.0-chat-Q5_1.gguf",
+            "size": "5064634144",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "8c9518ef3d21597d847ab2e74efd5bfa40dbbf41020ef871f19ac2b35969bb78",
+            "download": {
+                "default": "https://huggingface.co/audreyt/Taiwan-LLM-7B-v2.0-chat-GGUF/resolve/main/Taiwan-LLM-7B-v2.0-chat-Q5_1.gguf"
+            }
+        },
+        {
+            "name": "Taiwan-LLM-7B-v2.0-chat-Q5_K_M.gguf",
+            "size": "4783157024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f8d9c4a7593d4794a2720c0798523ba76f6fe63cdf01af0cabf85269e2009249",
+            "download": {
+                "default": "https://huggingface.co/audreyt/Taiwan-LLM-7B-v2.0-chat-GGUF/resolve/main/Taiwan-LLM-7B-v2.0-chat-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Taiwan-LLM-7B-v2.0-chat-Q5_K_S.gguf",
+            "size": "4651691808",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "3c391406899820fb3abab5614f16e04a39aaf069b3b2c745d4fcef07a21ce00c",
+            "download": {
+                "default": "https://huggingface.co/audreyt/Taiwan-LLM-7B-v2.0-chat-GGUF/resolve/main/Taiwan-LLM-7B-v2.0-chat-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Taiwan-LLM-7B-v2.0-chat-Q6_K.gguf",
+            "size": "5529194272",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "25a5cc878200e7c0b6d4a5ca635871106dd625fd5979eaede6183a2c2bfab22a",
+            "download": {
+                "default": "https://huggingface.co/audreyt/Taiwan-LLM-7B-v2.0-chat-GGUF/resolve/main/Taiwan-LLM-7B-v2.0-chat-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Taiwan-LLM-7B-v2.0-chat-Q8_0.gguf",
+            "size": "7161089824",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "53ec6aa7e35e96300f90d2b2edcd790f8a124553b3e9046c0e919f344baad076",
+            "download": {
+                "default": "https://huggingface.co/audreyt/Taiwan-LLM-7B-v2.0-chat-GGUF/resolve/main/Taiwan-LLM-7B-v2.0-chat-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

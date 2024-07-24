@@ -1,0 +1,113 @@
+{
+    "id": "koesn/Mistral-7B-Sunda-v1.0-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "koesn",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-27T23:19:10Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistral-7b-sunda-v1.0.IQ3_M.gguf",
+            "size": "3284891296",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "98da358e461c795bb15fe32d3b775eadf5b76b3e8bc3a35384c2220be52d89e8",
+            "download": {
+                "default": "https://huggingface.co/koesn/Mistral-7B-Sunda-v1.0-GGUF/resolve/main/mistral-7b-sunda-v1.0.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-sunda-v1.0.IQ3_S.gguf",
+            "size": "3182392992",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "1af50a0d4c29a60e0b548db042b7ddf0c81f70e9b51d83ae6ba76d223ed7016f",
+            "download": {
+                "default": "https://huggingface.co/koesn/Mistral-7B-Sunda-v1.0-GGUF/resolve/main/mistral-7b-sunda-v1.0.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-sunda-v1.0.IQ3_XXS.gguf",
+            "size": "3023378080",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "532a22d91ecc5397f22d944eab0d8b53a73038b2b57894713ac8632080ad46b3",
+            "download": {
+                "default": "https://huggingface.co/koesn/Mistral-7B-Sunda-v1.0-GGUF/resolve/main/mistral-7b-sunda-v1.0.IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-sunda-v1.0.IQ4_NL.gguf",
+            "size": "4155053728",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "446a7e339d6ba5af343ecfbc841631104d4a8aeccff4d551975113c059085d44",
+            "download": {
+                "default": "https://huggingface.co/koesn/Mistral-7B-Sunda-v1.0-GGUF/resolve/main/mistral-7b-sunda-v1.0.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-sunda-v1.0.Q4_0.gguf",
+            "size": "4108916384",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "99c3a6ed213468c367ee58d50fc36415d58c23181b55a1ac3d99664399d098c8",
+            "download": {
+                "default": "https://huggingface.co/koesn/Mistral-7B-Sunda-v1.0-GGUF/resolve/main/mistral-7b-sunda-v1.0.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-sunda-v1.0.Q4_K_M.gguf",
+            "size": "4368438944",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "7713eced69b418bd3c83b54688a2fc93f1102f8c8bb67bdff857483e51cf36c6",
+            "download": {
+                "default": "https://huggingface.co/koesn/Mistral-7B-Sunda-v1.0-GGUF/resolve/main/mistral-7b-sunda-v1.0.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-sunda-v1.0.Q5_K_M.gguf",
+            "size": "5131409056",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5b18449e314f8bc1dd64868232a6b07aad2d358807c2cf2ea3d32950206ff9ca",
+            "download": {
+                "default": "https://huggingface.co/koesn/Mistral-7B-Sunda-v1.0-GGUF/resolve/main/mistral-7b-sunda-v1.0.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-sunda-v1.0.Q6_K.gguf",
+            "size": "5942064800",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "8879813a942de1a8890a5c6a46cf18940533f7aeba44f574881409ffa0781f3d",
+            "download": {
+                "default": "https://huggingface.co/koesn/Mistral-7B-Sunda-v1.0-GGUF/resolve/main/mistral-7b-sunda-v1.0.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-sunda-v1.0.Q8_0.gguf",
+            "size": "7695857312",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "f8e3aed7f178f059ef30972e04c881474b09c4ecb62721892373bb8b1be39998",
+            "download": {
+                "default": "https://huggingface.co/koesn/Mistral-7B-Sunda-v1.0-GGUF/resolve/main/mistral-7b-sunda-v1.0.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

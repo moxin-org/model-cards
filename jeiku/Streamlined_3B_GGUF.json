@@ -1,0 +1,83 @@
+{
+    "id": "jeiku/Streamlined_3B_GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "jeiku",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-08T22:49:10Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Streamlined_3B-f16.gguf",
+            "size": "5593341696",
+            "quantization": "",
+            "tags": [],
+            "sha256": "52f0e7c0de826e4811159979d0f2d30fedee9227290fe04f314d6451bd37d2e0",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Streamlined_3B_GGUF/resolve/main/Streamlined_3B-f16.gguf"
+            }
+        },
+        {
+            "name": "Streamlined_3B-Q2_K.gguf",
+            "size": "1198771520",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "0111726d8dab9fac9a7c16b06e119ebc913e1382825a1a854fe30d3e9ba90484",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Streamlined_3B_GGUF/resolve/main/Streamlined_3B-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Streamlined_3B-Q3_K.gguf",
+            "size": "1391419200",
+            "quantization": "Q3_K",
+            "tags": [],
+            "sha256": "3bcfd7ed5ce00177e27d82229ececa537c95e147a9026faa7b2738929788126e",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Streamlined_3B_GGUF/resolve/main/Streamlined_3B-Q3_K.gguf"
+            }
+        },
+        {
+            "name": "Streamlined_3B-Q4_K.gguf",
+            "size": "1708595520",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "8c01e6008f21ce2f5cf1303ada5782087981922d65fb01c6e0bff853c4199079",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Streamlined_3B_GGUF/resolve/main/Streamlined_3B-Q4_K.gguf"
+            }
+        },
+        {
+            "name": "Streamlined_3B-Q5_K.gguf",
+            "size": "1993390400",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "16aeb6c5e609c6a27aec7df4a3144b15ac3129bc54a4ba4bc57bfe656d56fe73",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Streamlined_3B_GGUF/resolve/main/Streamlined_3B-Q5_K.gguf"
+            }
+        },
+        {
+            "name": "Streamlined_3B-Q6_K.gguf",
+            "size": "2295984960",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "6f6eb0405bd54e00cd34044f1bff645036e0f8ae0be74c93031fe619c1c7c710",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Streamlined_3B_GGUF/resolve/main/Streamlined_3B-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

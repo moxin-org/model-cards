@@ -1,0 +1,173 @@
+{
+    "id": "KoboldAI/LLaMA2-13B-Holomax-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "KoboldAI",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-08T19:45:55Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "LLaMA2-13B-Holomax.F16.gguf",
+            "size": "26033303392",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5f2bc07f6a79e2012768b6ac3305410c0bdc2d7b9612110a855efc3e627356bb",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Holomax-GGUF/resolve/main/LLaMA2-13B-Holomax.F16.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Holomax.Q2_K.gguf",
+            "size": "5429348224",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "7562e36716b165447ea969669fea2da8175000cdd2f7e2cbc63671a1a445330d",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Holomax-GGUF/resolve/main/LLaMA2-13B-Holomax.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Holomax.Q3_K_L.gguf",
+            "size": "6929559424",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "9143e223f4c49cbcc7df610a38174270484133d3d699ba8b5aa56255a5fb3691",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Holomax-GGUF/resolve/main/LLaMA2-13B-Holomax.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Holomax.Q3_K_M.gguf",
+            "size": "6337769344",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "7f115aa853849605bafd08ffd5f44d10078fe77769ad93035daf39002965a6c4",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Holomax-GGUF/resolve/main/LLaMA2-13B-Holomax.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Holomax.Q3_K_S.gguf",
+            "size": "5658980224",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "4bb5296462d7fd51db00f41bb0feefd2e95fef0940a153468db4e79fb95a52e9",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Holomax-GGUF/resolve/main/LLaMA2-13B-Holomax.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Holomax.Q4_0.gguf",
+            "size": "7365834624",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "6ff6b5754ef719e1750105e0b3a7560fb0a98733412317474f6779b41986aa2e",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Holomax-GGUF/resolve/main/LLaMA2-13B-Holomax.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Holomax.Q4_1.gguf",
+            "size": "8169060224",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "76b85d1b41c85d5a32e9574b39b5caf807e1e8f1edbf3f81f0718b092b589f95",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Holomax-GGUF/resolve/main/LLaMA2-13B-Holomax.Q4_1.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Holomax.Q4_K_M.gguf",
+            "size": "7865956224",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5d60b9c3584785edd5ed3266213d2c83bf89cf5e2cf0c490c51cc386e5915745",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Holomax-GGUF/resolve/main/LLaMA2-13B-Holomax.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Holomax.Q4_K_S.gguf",
+            "size": "7414331264",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "0a9d909aaa83f6fb73589d68f98fd77baa75a6912447e6a965c1a8d156495805",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Holomax-GGUF/resolve/main/LLaMA2-13B-Holomax.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Holomax.Q5_0.gguf",
+            "size": "8972285824",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "1f97637a681743d570badcf4fd0fea7b254c344717126d13857c066dc0260e9c",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Holomax-GGUF/resolve/main/LLaMA2-13B-Holomax.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Holomax.Q5_1.gguf",
+            "size": "9775511424",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "c4ecabe6ffb6d5dce5a21a112c48838450dda3d396bcbc692f6236de0ad99ee0",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Holomax-GGUF/resolve/main/LLaMA2-13B-Holomax.Q5_1.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Holomax.Q5_K_M.gguf",
+            "size": "9229924224",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "261e1f33b0c462146597a9ac9ab0369d884014e2960a14355841f6b38bf784c6",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Holomax-GGUF/resolve/main/LLaMA2-13B-Holomax.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Holomax.Q5_K_S.gguf",
+            "size": "8972285824",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "9d0695b1959df62b64b5b4b9bfb001261009d61e842c9ccc777da7d7db8bd7f5",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Holomax-GGUF/resolve/main/LLaMA2-13B-Holomax.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Holomax.Q6_K.gguf",
+            "size": "10679140224",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b5c1a14ef94fb8a66838f076041d89bc4adb274abc7cba58c7d5a90100bc1f29",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Holomax-GGUF/resolve/main/LLaMA2-13B-Holomax.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Holomax.Q8_0.gguf",
+            "size": "13831319424",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "cf6d1700a2f60d4afcf41b7172a857ae645237341fb7bfe196e88348ed42fe3c",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Holomax-GGUF/resolve/main/LLaMA2-13B-Holomax.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

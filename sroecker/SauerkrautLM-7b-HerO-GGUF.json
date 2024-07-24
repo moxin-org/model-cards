@@ -1,0 +1,53 @@
+{
+    "id": "sroecker/SauerkrautLM-7b-HerO-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "sroecker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-01T09:55:34Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "SauerkrautLM-7b-HerO.Q4_0.gguf",
+            "size": "4108928096",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "dc52b37121bb70b081b13db87d6d7f4dfebebb210fbca9d94b45aed83b9f569c",
+            "download": {
+                "default": "https://huggingface.co/sroecker/SauerkrautLM-7b-HerO-GGUF/resolve/main/SauerkrautLM-7b-HerO.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "SauerkrautLM-7b-HerO.Q4_K_M.gguf",
+            "size": "4368450656",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "1c6aa63385de36014575e310be0fd4c3eedee60c326d73a33d6e02c3173fd1a5",
+            "download": {
+                "default": "https://huggingface.co/sroecker/SauerkrautLM-7b-HerO-GGUF/resolve/main/SauerkrautLM-7b-HerO.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "SauerkrautLM-7b-HerO.Q5_K_M.gguf",
+            "size": "5131421792",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "dcefe91d5e828f6cb1352f5923dfd146060ed10ca46c02c8efd9fe56168151f9",
+            "download": {
+                "default": "https://huggingface.co/sroecker/SauerkrautLM-7b-HerO-GGUF/resolve/main/SauerkrautLM-7b-HerO.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

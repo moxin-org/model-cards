@@ -1,0 +1,113 @@
+{
+    "id": "mradermacher/QLiz-70B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-02T19:54:31Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "QLiz-70B.IQ3_S.gguf",
+            "size": "30228542528",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "141ce8ccbec0c63f77f082c7d3bdaa75febfc6671dce2bd837b0984e7dee47f0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QLiz-70B-GGUF/resolve/main/QLiz-70B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "QLiz-70B.Q2_K.gguf",
+            "size": "25771684928",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "2ffa36645f6db50bd5ac18df2a190325c2d4772e81ec773e6988f645e51a38bc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QLiz-70B-GGUF/resolve/main/QLiz-70B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "QLiz-70B.Q3_K_L.gguf",
+            "size": "36457083968",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "291c9c7a38c10eedcfc1ec1413eafb7e79663b579426071cd253543d5bd71168",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QLiz-70B-GGUF/resolve/main/QLiz-70B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "QLiz-70B.Q3_K_M.gguf",
+            "size": "33583985728",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "f1cdff8012d3b1fa0b00d115c0c834e0b1c5963a8d67d05590dcca95ca298150",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QLiz-70B-GGUF/resolve/main/QLiz-70B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "QLiz-70B.Q3_K_S.gguf",
+            "size": "30228542528",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "7f2abe18efd25df853024612a7e17df757d50d749742877aad5c3b017949adb0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QLiz-70B-GGUF/resolve/main/QLiz-70B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "QLiz-70B.Q4_K_M.gguf",
+            "size": "41732158528",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "0c8c851cd61f81213cfefcdd48ec7d59eca9904c9683f26c1b777fce323bc77b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QLiz-70B-GGUF/resolve/main/QLiz-70B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "QLiz-70B.Q4_K_S.gguf",
+            "size": "39558984768",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "a4fe9db427fc252bca0917532519db870aba7ed51c751a02972b852ce2cd1581",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QLiz-70B-GGUF/resolve/main/QLiz-70B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "QLiz-70B.Q5_K_M.gguf",
+            "size": "49063015488",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "b7bf22fdeaff632e72f4faf0545f51fbf2ac18a90df376046b2cf753ab176a37",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QLiz-70B-GGUF/resolve/main/QLiz-70B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "QLiz-70B.Q5_K_S.gguf",
+            "size": "47770645568",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "1d25623d0fe09b9efef4f7499d71352dc243dd09959fd048bfe58f70ed2638e1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QLiz-70B-GGUF/resolve/main/QLiz-70B.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

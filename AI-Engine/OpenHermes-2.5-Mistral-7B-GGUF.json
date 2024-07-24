@@ -1,0 +1,53 @@
+{
+    "id": "AI-Engine/OpenHermes-2.5-Mistral-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "AI-Engine",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-08T12:32:12Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "OpenHermes-2.5-Mistral-7B.gguf.q2_k.gguf",
+            "size": "3083107136",
+            "quantization": "",
+            "tags": [],
+            "sha256": "924ee958485329c08ce92204c9a2f2612f00e81ab79e5c8df5c30e451c7e9b1a",
+            "download": {
+                "default": "https://huggingface.co/AI-Engine/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/OpenHermes-2.5-Mistral-7B.gguf.q2_k.gguf"
+            }
+        },
+        {
+            "name": "OpenHermes-2.5-Mistral-7B.gguf.q5_k_m.gguf",
+            "size": "5131421376",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1390c4176d59aa0568d79a07228b44c46a9fedd9e06aeb3b6b409270984f818d",
+            "download": {
+                "default": "https://huggingface.co/AI-Engine/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/OpenHermes-2.5-Mistral-7B.gguf.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "OpenHermes-2.5-Mistral-7B.gguf.q8_0.gguf",
+            "size": "7695874688",
+            "quantization": "",
+            "tags": [],
+            "sha256": "cec8b1705e8c5fb712a18a01f918c770543865608bbc386402ac8e2b06b9d15c",
+            "download": {
+                "default": "https://huggingface.co/AI-Engine/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/OpenHermes-2.5-Mistral-7B.gguf.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

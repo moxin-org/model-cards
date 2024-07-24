@@ -1,0 +1,143 @@
+{
+    "id": "mmnga/llm-jp-1.3b-v1.0-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mmnga",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-29T11:20:14Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llm-jp-1.3b-v1.0-q2_K.gguf",
+            "size": "571852576",
+            "quantization": "",
+            "tags": [],
+            "sha256": "48ed6cd6f96a60a2d0e53fc7a4f7e8ae32a6ac32eeea5ba414858f935d2dcdb0",
+            "download": {
+                "default": "https://huggingface.co/mmnga/llm-jp-1.3b-v1.0-gguf/resolve/main/llm-jp-1.3b-v1.0-q2_K.gguf"
+            }
+        },
+        {
+            "name": "llm-jp-1.3b-v1.0-q3_K_L.gguf",
+            "size": "824256288",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ec93a67917061ede023192425ef97f4ff74ecd30fdad0086ee4306fe30fa1c63",
+            "download": {
+                "default": "https://huggingface.co/mmnga/llm-jp-1.3b-v1.0-gguf/resolve/main/llm-jp-1.3b-v1.0-q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "llm-jp-1.3b-v1.0-q3_K_M.gguf",
+            "size": "767633184",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0034bef1677fcf61f260440fd195a7a9e0c53e7b4542124205a451716544f3fb",
+            "download": {
+                "default": "https://huggingface.co/mmnga/llm-jp-1.3b-v1.0-gguf/resolve/main/llm-jp-1.3b-v1.0-q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "llm-jp-1.3b-v1.0-q3_K_S.gguf",
+            "size": "654386976",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ec37bc8b712b2d24c79fa5bf21fd45de93b18479f2273b4afb90587ec07d3909",
+            "download": {
+                "default": "https://huggingface.co/mmnga/llm-jp-1.3b-v1.0-gguf/resolve/main/llm-jp-1.3b-v1.0-q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "llm-jp-1.3b-v1.0-q4_0.gguf",
+            "size": "829163296",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1354bfb4474f93bb656e901bf02a5861ffb3141a81816f32e232bbe9df3186a3",
+            "download": {
+                "default": "https://huggingface.co/mmnga/llm-jp-1.3b-v1.0-gguf/resolve/main/llm-jp-1.3b-v1.0-q4_0.gguf"
+            }
+        },
+        {
+            "name": "llm-jp-1.3b-v1.0-q4_K_M.gguf",
+            "size": "918816544",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dfa5120fc227a32e38a3cf2dbe8c7acca13b8fcf75d6392ed5d17879bece0816",
+            "download": {
+                "default": "https://huggingface.co/mmnga/llm-jp-1.3b-v1.0-gguf/resolve/main/llm-jp-1.3b-v1.0-q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "llm-jp-1.3b-v1.0-q4_K_S.gguf",
+            "size": "841746208",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5139af7c1b50c4063efd6b13d2b1547db5eb62e47b73f42c6df156053d505ee5",
+            "download": {
+                "default": "https://huggingface.co/mmnga/llm-jp-1.3b-v1.0-gguf/resolve/main/llm-jp-1.3b-v1.0-q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "llm-jp-1.3b-v1.0-q5_0.gguf",
+            "size": "993658656",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ae677953f058b0056eda64c734dd40eaab667bb0eff530fc8aceebe21c0ab7a4",
+            "download": {
+                "default": "https://huggingface.co/mmnga/llm-jp-1.3b-v1.0-gguf/resolve/main/llm-jp-1.3b-v1.0-q5_0.gguf"
+            }
+        },
+        {
+            "name": "llm-jp-1.3b-v1.0-q5_K_M.gguf",
+            "size": "1060505376",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8182574ae1a0145bd9eab7ad07dee7ee87ac2b3db92a594183185ef45c1b8f35",
+            "download": {
+                "default": "https://huggingface.co/mmnga/llm-jp-1.3b-v1.0-gguf/resolve/main/llm-jp-1.3b-v1.0-q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "llm-jp-1.3b-v1.0-q5_K_S.gguf",
+            "size": "993658656",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c622db433b6ab87fdcd6b0d9c0a4eb11ea9d71b2ac12bc6009f75f965f8ab798",
+            "download": {
+                "default": "https://huggingface.co/mmnga/llm-jp-1.3b-v1.0-gguf/resolve/main/llm-jp-1.3b-v1.0-q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "llm-jp-1.3b-v1.0-q6_K.gguf",
+            "size": "1168434976",
+            "quantization": "",
+            "tags": [],
+            "sha256": "445882aec3a9760b64726da714d74af30bb5f5d8667e97dbc3f66a0d0b08d265",
+            "download": {
+                "default": "https://huggingface.co/mmnga/llm-jp-1.3b-v1.0-gguf/resolve/main/llm-jp-1.3b-v1.0-q6_K.gguf"
+            }
+        },
+        {
+            "name": "llm-jp-1.3b-v1.0-q8_0.gguf",
+            "size": "1512285984",
+            "quantization": "",
+            "tags": [],
+            "sha256": "111b237e7584993e787b1f7b5f39e43575d97c05abab171e66f3c91d500c060d",
+            "download": {
+                "default": "https://huggingface.co/mmnga/llm-jp-1.3b-v1.0-gguf/resolve/main/llm-jp-1.3b-v1.0-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

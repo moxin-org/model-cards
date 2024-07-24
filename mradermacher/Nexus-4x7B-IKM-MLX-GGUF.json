@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Nexus-4x7B-IKM-MLX-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-09T08:21:50Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Nexus-4x7B-IKM-MLX.IQ3_M.gguf",
+            "size": "10800801568",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "f3de63931775f501e686392bad8f8de0fb87035a7213bd72a9874b926cca2aa0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nexus-4x7B-IKM-MLX-GGUF/resolve/main/Nexus-4x7B-IKM-MLX.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Nexus-4x7B-IKM-MLX.IQ3_S.gguf",
+            "size": "10604717856",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "9f7e8bf3a309a00854fdc40d613511c21b76916eb188728615fba7834a737c02",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nexus-4x7B-IKM-MLX-GGUF/resolve/main/Nexus-4x7B-IKM-MLX.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Nexus-4x7B-IKM-MLX.IQ3_XS.gguf",
+            "size": "9993922336",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "3d0c392c472e5440b66b9595d442e632f93574ec4a68d22dfae1855749c8c46f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nexus-4x7B-IKM-MLX-GGUF/resolve/main/Nexus-4x7B-IKM-MLX.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Nexus-4x7B-IKM-MLX.IQ4_XS.gguf",
+            "size": "13194381088",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "402f42afaa13041abbbd72d8e8d64b294287c3ec2f0bc4e93f5610ca02e22108",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nexus-4x7B-IKM-MLX-GGUF/resolve/main/Nexus-4x7B-IKM-MLX.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Nexus-4x7B-IKM-MLX.Q2_K.gguf",
+            "size": "8996521760",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "47062724d32a3d01a6feb35f8d6b64380b98bff88bbec55d921fb7cef0161959",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nexus-4x7B-IKM-MLX-GGUF/resolve/main/Nexus-4x7B-IKM-MLX.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Nexus-4x7B-IKM-MLX.Q3_K_L.gguf",
+            "size": "12697675552",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "03d703fa1d4270430e1fb8e6488dda3f4de3cf89d3e5f17e7f612d779a07005c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nexus-4x7B-IKM-MLX-GGUF/resolve/main/Nexus-4x7B-IKM-MLX.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Nexus-4x7B-IKM-MLX.Q3_K_M.gguf",
+            "size": "11734034208",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "7325d7001979ce802a232608b0953d363c89fb0085169cf4b1744c6899b8a83b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nexus-4x7B-IKM-MLX-GGUF/resolve/main/Nexus-4x7B-IKM-MLX.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Nexus-4x7B-IKM-MLX.Q3_K_S.gguf",
+            "size": "10586892064",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "261ea1dcc1de59694e0235b6277d0c92b79971e6f27f1a57bde1a7964a45cf6e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nexus-4x7B-IKM-MLX-GGUF/resolve/main/Nexus-4x7B-IKM-MLX.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Nexus-4x7B-IKM-MLX.Q4_K_M.gguf",
+            "size": "14763476768",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5e31d5bb0c7792c1990ab6d51ab0443bc6f80747f723e04c61f444ca7b0722d2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nexus-4x7B-IKM-MLX-GGUF/resolve/main/Nexus-4x7B-IKM-MLX.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Nexus-4x7B-IKM-MLX.Q4_K_S.gguf",
+            "size": "13896828704",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "66f326512ba3068621e36328637dca2a72787c31d0366261c279afffdc2c90e2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nexus-4x7B-IKM-MLX-GGUF/resolve/main/Nexus-4x7B-IKM-MLX.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Nexus-4x7B-IKM-MLX.Q5_K_M.gguf",
+            "size": "17288054560",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "a2fa6b8db7cd3bbc6bae54ff2cc339db59d43e435deb14387de7f7a08e190e5a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nexus-4x7B-IKM-MLX-GGUF/resolve/main/Nexus-4x7B-IKM-MLX.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Nexus-4x7B-IKM-MLX.Q5_K_S.gguf",
+            "size": "16780019488",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "3f576e59cc9a6bf496f7bae19c6bdcf0b4aacb53de279d0cb0cd2c34c23ddbb8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nexus-4x7B-IKM-MLX-GGUF/resolve/main/Nexus-4x7B-IKM-MLX.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Nexus-4x7B-IKM-MLX.Q6_K.gguf",
+            "size": "19970418464",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "c50402dc18a7eccbebcb36bde9f4f11a6215114a16a3d9b094e4eaeb6afb87e3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nexus-4x7B-IKM-MLX-GGUF/resolve/main/Nexus-4x7B-IKM-MLX.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Nexus-4x7B-IKM-MLX.Q8_0.gguf",
+            "size": "25788204832",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "296f365b6ed7228dddb382ec81f5fc93db26f9468c5e4d921fc26f807727ae16",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Nexus-4x7B-IKM-MLX-GGUF/resolve/main/Nexus-4x7B-IKM-MLX.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

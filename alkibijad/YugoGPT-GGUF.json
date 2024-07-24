@@ -1,0 +1,63 @@
+{
+    "id": "alkibijad/YugoGPT-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "alkibijad",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-09T14:18:40Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "YugoGPT.f16.gguf",
+            "size": "14484731552",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1794ee4ca5a08710b40dae7184c3203f4fdc21fd6065f8ab4a7a6c7d0e8e4c2f",
+            "download": {
+                "default": "https://huggingface.co/alkibijad/YugoGPT-GGUF/resolve/main/YugoGPT.f16.gguf"
+            }
+        },
+        {
+            "name": "YugoGPT.f32.gguf",
+            "size": "28967663264",
+            "quantization": "",
+            "tags": [],
+            "sha256": "48e0f3169a94f8164948386ec011cbbd8ff479cd7a35a3a82c4aa93089a4fbbc",
+            "download": {
+                "default": "https://huggingface.co/alkibijad/YugoGPT-GGUF/resolve/main/YugoGPT.f32.gguf"
+            }
+        },
+        {
+            "name": "YugoGPT.Q4_1.gguf",
+            "size": "4553316032",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "4579884b2c778b292cb02c72473e0537e58afdda76d6a45ff909ae8445c02f0e",
+            "download": {
+                "default": "https://huggingface.co/alkibijad/YugoGPT-GGUF/resolve/main/YugoGPT.Q4_1.gguf"
+            }
+        },
+        {
+            "name": "YugoGPT.q8_0.gguf",
+            "size": "7695857312",
+            "quantization": "",
+            "tags": [],
+            "sha256": "24f9f184260283d097a1ba335a117f3ca5ccd60319951e136217cecfd94ac402",
+            "download": {
+                "default": "https://huggingface.co/alkibijad/YugoGPT-GGUF/resolve/main/YugoGPT.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

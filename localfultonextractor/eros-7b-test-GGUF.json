@@ -1,0 +1,73 @@
+{
+    "id": "localfultonextractor/eros-7b-test-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "localfultonextractor",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-15T12:14:30Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "eros-7b-test.fp16.gguf",
+            "size": "14485257216",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0a907159846d45d7e14327e1252fd1d1d3915b01bd82f2ee949bb57fdff9bb41",
+            "download": {
+                "default": "https://huggingface.co/localfultonextractor/eros-7b-test-GGUF/resolve/main/eros-7b-test.fp16.gguf"
+            }
+        },
+        {
+            "name": "eros-7b-test.Q3_K_M.gguf",
+            "size": "3519151136",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "599f235767738f20500759e2eead7ee5a1d234350e994879e9e47dafa5d2b8e7",
+            "download": {
+                "default": "https://huggingface.co/localfultonextractor/eros-7b-test-GGUF/resolve/main/eros-7b-test.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "eros-7b-test.Q4_K_M.gguf",
+            "size": "4368621600",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "9b88181e6762933e12b721db885b249dd7a49f1aa8b30db837a4816f984f0763",
+            "download": {
+                "default": "https://huggingface.co/localfultonextractor/eros-7b-test-GGUF/resolve/main/eros-7b-test.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "eros-7b-test.Q5_K_M.gguf",
+            "size": "5131608096",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "4aa0bc43330898ad53badee88fd4fdd3547b5082717ed310b7be0719b337ad37",
+            "download": {
+                "default": "https://huggingface.co/localfultonextractor/eros-7b-test-GGUF/resolve/main/eros-7b-test.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "eros-7b-test.Q8_0.gguf",
+            "size": "7696137248",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "189cea94d0dfffccea9f71ec5eb8e0d033e7bb6d036534e6c53afd9d521daa4c",
+            "download": {
+                "default": "https://huggingface.co/localfultonextractor/eros-7b-test-GGUF/resolve/main/eros-7b-test.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

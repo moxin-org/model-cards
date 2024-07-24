@@ -1,0 +1,133 @@
+{
+    "id": "brittlewis12/Snorkel-Mistral-PairRM-DPO-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "brittlewis12",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-23T21:17:20Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "snorkel-mistral-pairrm-dpo.fp16.gguf",
+            "size": "14484732032",
+            "quantization": "",
+            "tags": [],
+            "sha256": "881042679a7559c5c9481242eabd431cbbbc4923cd37c4cf6c5763c5aeb9f2e3",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Snorkel-Mistral-PairRM-DPO-GGUF/resolve/main/snorkel-mistral-pairrm-dpo.fp16.gguf"
+            }
+        },
+        {
+            "name": "snorkel-mistral-pairrm-dpo.Q2_K.gguf",
+            "size": "2719242400",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "9f5d124bae264a9faf18bcfcfb5a6a45cb497f25a0464fd17e4b7c97bfbcbc58",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Snorkel-Mistral-PairRM-DPO-GGUF/resolve/main/snorkel-mistral-pairrm-dpo.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "snorkel-mistral-pairrm-dpo.Q3_K_L.gguf",
+            "size": "3822024864",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "5ef7d5e13f98de7d01b2f60d94241d70cc00bc173eef24ea0bdfae0065104019",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Snorkel-Mistral-PairRM-DPO-GGUF/resolve/main/snorkel-mistral-pairrm-dpo.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "snorkel-mistral-pairrm-dpo.Q3_K_M.gguf",
+            "size": "3518986400",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "313bed2b894655a7e702b883200a8bc838e357f7bcc9018331010491de3d9db0",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Snorkel-Mistral-PairRM-DPO-GGUF/resolve/main/snorkel-mistral-pairrm-dpo.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "snorkel-mistral-pairrm-dpo.Q3_K_S.gguf",
+            "size": "3164567712",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "9519be964f4b3aa43446e1901c0759773c73b43015d5d04c2f74bc40f92968eb",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Snorkel-Mistral-PairRM-DPO-GGUF/resolve/main/snorkel-mistral-pairrm-dpo.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "snorkel-mistral-pairrm-dpo.Q4_K_M.gguf",
+            "size": "4368439456",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a43c564a86d874e6b12ea1a33c2d13495804c8f5fa5740d2582005a7ac1e2a2e",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Snorkel-Mistral-PairRM-DPO-GGUF/resolve/main/snorkel-mistral-pairrm-dpo.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "snorkel-mistral-pairrm-dpo.Q4_K_S.gguf",
+            "size": "4140374176",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "d965028253ebde1983e17383c2b73f958e4876182b1a242eca1809897c1747b2",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Snorkel-Mistral-PairRM-DPO-GGUF/resolve/main/snorkel-mistral-pairrm-dpo.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "snorkel-mistral-pairrm-dpo.Q5_K_M.gguf",
+            "size": "5131409568",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f7661959985625a4b34ba1dd5e703ef3ad987ae2ff5c5228560297b081db3dae",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Snorkel-Mistral-PairRM-DPO-GGUF/resolve/main/snorkel-mistral-pairrm-dpo.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "snorkel-mistral-pairrm-dpo.Q5_K_S.gguf",
+            "size": "4997716128",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "9b67a89038ee6fbdf1257ec0bd7da3285e98700194e9bcb0688711273e2a427d",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Snorkel-Mistral-PairRM-DPO-GGUF/resolve/main/snorkel-mistral-pairrm-dpo.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "snorkel-mistral-pairrm-dpo.Q6_K.gguf",
+            "size": "5942065312",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "5b3e72923b28391423171c1c0e57c589340ab6c5526f075103d217577f627b95",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Snorkel-Mistral-PairRM-DPO-GGUF/resolve/main/snorkel-mistral-pairrm-dpo.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "snorkel-mistral-pairrm-dpo.Q8_0.gguf",
+            "size": "7695857824",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "44aea5fdde0fdc591140170b08086224cc763c9d5b65515d32e477cc1114abcc",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Snorkel-Mistral-PairRM-DPO-GGUF/resolve/main/snorkel-mistral-pairrm-dpo.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

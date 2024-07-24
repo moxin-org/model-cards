@@ -1,0 +1,63 @@
+{
+    "id": "kroonen/Orca-2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "kroonen",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-27T01:37:03Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Orca-2-13b-Q4_K_M.gguf",
+            "size": "7865977600",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "0e066c1f68d8af552bda8b626684ac5f036ac9f098277856a5a508e92edbdd7b",
+            "download": {
+                "default": "https://huggingface.co/kroonen/Orca-2-GGUF/resolve/main/Orca-2-13b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Orca-2-13b-Q8_0.gguf",
+            "size": "13831352192",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "467c77dc2b92721550e84d5408bc39a05d29ee16c9f25e0bd8ac15f32fd84609",
+            "download": {
+                "default": "https://huggingface.co/kroonen/Orca-2-GGUF/resolve/main/Orca-2-13b-Q8_0.gguf"
+            }
+        },
+        {
+            "name": "Orca-2-7b-Q4_K_M.gguf",
+            "size": "4081021280",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a3fd6e50d29d23be5d1d0bf156edfadd574c38ec4cdaa2182f3e451345cdf8cb",
+            "download": {
+                "default": "https://huggingface.co/kroonen/Orca-2-GGUF/resolve/main/Orca-2-7b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Orca-2-7b-Q8_0.gguf",
+            "size": "7161115904",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "6d63f012d7f279c94259bcaf254c83474e640158081a4f653e0820baad9ed195",
+            "download": {
+                "default": "https://huggingface.co/kroonen/Orca-2-GGUF/resolve/main/Orca-2-7b-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

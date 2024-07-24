@@ -1,0 +1,63 @@
+{
+    "id": "s3nh/sethuiyer-SynthIQ-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-04T13:05:48Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "sethuiyer-SynthIQ-7b.Q2_K.gguf",
+            "size": "3083107200",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "30fd5d6963de46387bac6e161bfbae1a46ee7ebbef9df676b1d9ed77eeddfe21",
+            "download": {
+                "default": "https://huggingface.co/s3nh/sethuiyer-SynthIQ-7b-GGUF/resolve/main/sethuiyer-SynthIQ-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "sethuiyer-SynthIQ-7b.Q3_K_S.gguf",
+            "size": "3164577472",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "051147f841644b36f1aaec1eba39be94172d7905d8478160aae22b000c0aa66e",
+            "download": {
+                "default": "https://huggingface.co/s3nh/sethuiyer-SynthIQ-7b-GGUF/resolve/main/sethuiyer-SynthIQ-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "sethuiyer-SynthIQ-7b.Q4_K_M.gguf",
+            "size": "4368450304",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "09ecb2b6fdb1725d72ddde5c6484d8ace29bcbd2ebd5665a1a2045259c48e550",
+            "download": {
+                "default": "https://huggingface.co/s3nh/sethuiyer-SynthIQ-7b-GGUF/resolve/main/sethuiyer-SynthIQ-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "sethuiyer-SynthIQ-7b.Q4_K_S.gguf",
+            "size": "4083729152",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "4ffe21cea65597baa021a2ba8932d7fc691b649dabbb409912b7614856bb9f2b",
+            "download": {
+                "default": "https://huggingface.co/s3nh/sethuiyer-SynthIQ-7b-GGUF/resolve/main/sethuiyer-SynthIQ-7b.Q4_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

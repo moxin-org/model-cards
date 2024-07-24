@@ -1,0 +1,63 @@
+{
+    "id": "shenshan/chinese-alpaca-2-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "shenshan",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-08T08:36:30Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "chinese-alpaca-2-13b-Q5_K_M.gguf",
+            "size": "9410277056",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "0deb64a0be17ce8cc1b6cb7d7bef8e6f799477eef0b66c7494736253be1d41de",
+            "download": {
+                "default": "https://huggingface.co/shenshan/chinese-alpaca-2-gguf/resolve/main/chinese-alpaca-2-13b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "chinese-alpaca-2-7b-q4_0.gguf",
+            "size": "3958263328",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e49f0ceea6ba243dbcc69740134ef92a14e4f1fa0325ad8b3d0a1769090c4e1d",
+            "download": {
+                "default": "https://huggingface.co/shenshan/chinese-alpaca-2-gguf/resolve/main/chinese-alpaca-2-7b-q4_0.gguf"
+            }
+        },
+        {
+            "name": "chinese-alpaca-2-7b-Q5_K_M.gguf",
+            "size": "4927540768",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e85622eda8ecd3f087e941c02367a31a0d9f2b63e2178c46912c529e1fb61e08",
+            "download": {
+                "default": "https://huggingface.co/shenshan/chinese-alpaca-2-gguf/resolve/main/chinese-alpaca-2-7b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "chinese-llama-2-13b-q4_0.gguf",
+            "size": "7531278016",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d172636e406598e7323009f77eb2895d03207d8477182462a400d20e86a9330d",
+            "download": {
+                "default": "https://huggingface.co/shenshan/chinese-alpaca-2-gguf/resolve/main/chinese-llama-2-13b-q4_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

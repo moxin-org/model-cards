@@ -1,0 +1,53 @@
+{
+    "id": "dranger003/miqu-1-120b-iMat.GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "dranger003",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-18T00:25:20Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-miqu-1-120b-iq2_xs.gguf",
+            "size": "35379951072",
+            "quantization": "",
+            "tags": [],
+            "sha256": "366048ff19a4ee50d7d44463b422c946f4d9275c4a641b1deb47c63520eda0e9",
+            "download": {
+                "default": "https://huggingface.co/dranger003/miqu-1-120b-iMat.GGUF/resolve/main/ggml-miqu-1-120b-iq2_xs.gguf"
+            }
+        },
+        {
+            "name": "ggml-miqu-1-120b-iq2_xxs.gguf",
+            "size": "31798015456",
+            "quantization": "",
+            "tags": [],
+            "sha256": "04f4240779f7b5f8861c361e6b17cd4dc7b4981e6abd8c5d63817ef2ca9e0053",
+            "download": {
+                "default": "https://huggingface.co/dranger003/miqu-1-120b-iMat.GGUF/resolve/main/ggml-miqu-1-120b-iq2_xxs.gguf"
+            }
+        },
+        {
+            "name": "ggml-miqu-1-120b-iq3_xxs.gguf",
+            "size": "46880781792",
+            "quantization": "",
+            "tags": [],
+            "sha256": "645921a38d06fee9a0d8465bb80fca84b29b146c119c7aa53bed2e52b57f5f0e",
+            "download": {
+                "default": "https://huggingface.co/dranger003/miqu-1-120b-iMat.GGUF/resolve/main/ggml-miqu-1-120b-iq3_xxs.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

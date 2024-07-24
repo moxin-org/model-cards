@@ -1,0 +1,83 @@
+{
+    "id": "Bakanayatsu/NeuralHermes-2.5-Mistral-7B-laser-imatrix-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Bakanayatsu",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-09T05:49:43Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "NeuralHermes-2.5-Mistral-7B-laser-8_0.gguf",
+            "size": "7695874944",
+            "quantization": "",
+            "tags": [],
+            "sha256": "acd7afbd1e638856b9265e1555bee4b0de87b707d89f156e6fa3d2fa92becdd1",
+            "download": {
+                "default": "https://huggingface.co/Bakanayatsu/NeuralHermes-2.5-Mistral-7B-laser-imatrix-GGUF/resolve/main/NeuralHermes-2.5-Mistral-7B-laser-8_0.gguf"
+            }
+        },
+        {
+            "name": "NeuralHermes-2.5-Mistral-7B-laser-IQ-Q4_K_S.gguf",
+            "size": "4140385248",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "6c8c42a2008ce2f46d3ed6de01b2a1fbb47757b53df152d5389dbd4cac1055df",
+            "download": {
+                "default": "https://huggingface.co/Bakanayatsu/NeuralHermes-2.5-Mistral-7B-laser-imatrix-GGUF/resolve/main/NeuralHermes-2.5-Mistral-7B-laser-IQ-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "NeuralHermes-2.5-Mistral-7B-laser-IQ-Q5_K_S.gguf",
+            "size": "4997728224",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "acc2ba893fb307ca20e9a5be58fca09ae92550de8c09235aaedcdf1799574692",
+            "download": {
+                "default": "https://huggingface.co/Bakanayatsu/NeuralHermes-2.5-Mistral-7B-laser-imatrix-GGUF/resolve/main/NeuralHermes-2.5-Mistral-7B-laser-IQ-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "NeuralHermes-2.5-Mistral-7B-laser-IQ2_XS.gguf",
+            "size": "2198263840",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "c5dd4b7c9b70d57034e04e7a49be2475cc1b2c60f906b6fe6affbc61b62e4755",
+            "download": {
+                "default": "https://huggingface.co/Bakanayatsu/NeuralHermes-2.5-Mistral-7B-laser-imatrix-GGUF/resolve/main/NeuralHermes-2.5-Mistral-7B-laser-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "NeuralHermes-2.5-Mistral-7B-laser-IQ2_XXS.gguf",
+            "size": "1991694368",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "8829bfc32c8ac5a5120bfd506cbd46b76fd718edd370a7d4430a023b71a54dbf",
+            "download": {
+                "default": "https://huggingface.co/Bakanayatsu/NeuralHermes-2.5-Mistral-7B-laser-imatrix-GGUF/resolve/main/NeuralHermes-2.5-Mistral-7B-laser-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "NeuralHermes-2.5-Mistral-7B-laser-IQ3_XXS.gguf",
+            "size": "2904114144",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "2da813ecb5c556dee30e8100ad138944f551c5e5ba04d1c05ef1c88271058ddb",
+            "download": {
+                "default": "https://huggingface.co/Bakanayatsu/NeuralHermes-2.5-Mistral-7B-laser-imatrix-GGUF/resolve/main/NeuralHermes-2.5-Mistral-7B-laser-IQ3_XXS.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

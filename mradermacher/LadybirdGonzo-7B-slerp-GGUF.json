@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/LadybirdGonzo-7B-slerp-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-01T06:22:40Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "LadybirdGonzo-7B-slerp.IQ3_M.gguf",
+            "size": "3439515328",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "58ec09b92414c68beb88587b0ea1030ba7863953e8259ad18ae17121b58090a7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LadybirdGonzo-7B-slerp-GGUF/resolve/main/LadybirdGonzo-7B-slerp.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "LadybirdGonzo-7B-slerp.IQ3_S.gguf",
+            "size": "3337017024",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "a7567cbc1feca0df2fe8eef6898896e48339b15dda97cc18809c883a2cbe9372",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LadybirdGonzo-7B-slerp-GGUF/resolve/main/LadybirdGonzo-7B-slerp.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "LadybirdGonzo-7B-slerp.IQ3_XS.gguf",
+            "size": "3173439168",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "a8c11d746f6e30cd5391d217092f9b72ccac746d20e437c78b542b7d1c6ee8d8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LadybirdGonzo-7B-slerp-GGUF/resolve/main/LadybirdGonzo-7B-slerp.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "LadybirdGonzo-7B-slerp.IQ4_XS.gguf",
+            "size": "4099012288",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "5431f17b309747cd569c0f9724d267cea2a9f3930b54a925320ce78a48ee7ca4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LadybirdGonzo-7B-slerp-GGUF/resolve/main/LadybirdGonzo-7B-slerp.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "LadybirdGonzo-7B-slerp.Q2_K.gguf",
+            "size": "2873865920",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "cf100c951c666d5cf23246b2201e19dc787e691067513dd7b450269af4ecb52c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LadybirdGonzo-7B-slerp-GGUF/resolve/main/LadybirdGonzo-7B-slerp.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "LadybirdGonzo-7B-slerp.Q3_K_L.gguf",
+            "size": "3976648384",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "fd7839faba60d6ea7d7b48622803d1168a9e097606598997db93d3bf77ee15e6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LadybirdGonzo-7B-slerp-GGUF/resolve/main/LadybirdGonzo-7B-slerp.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "LadybirdGonzo-7B-slerp.Q3_K_M.gguf",
+            "size": "3673609920",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "0f40e706e1c45a0c0c916670f49992728fe54f74e80be450c7d8526bdf86550f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LadybirdGonzo-7B-slerp-GGUF/resolve/main/LadybirdGonzo-7B-slerp.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "LadybirdGonzo-7B-slerp.Q3_K_S.gguf",
+            "size": "3319191232",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "5d7c3ae68874c78588ba9b2353f3ee5a1fc91992ed045a4ad219ea32583ca30a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LadybirdGonzo-7B-slerp-GGUF/resolve/main/LadybirdGonzo-7B-slerp.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "LadybirdGonzo-7B-slerp.Q4_K_M.gguf",
+            "size": "4523062976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c7ebebf24dd3410593a9f5cbf60f0e28e8be21660a1d47ae5771cdce8e8e3abc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LadybirdGonzo-7B-slerp-GGUF/resolve/main/LadybirdGonzo-7B-slerp.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "LadybirdGonzo-7B-slerp.Q4_K_S.gguf",
+            "size": "4294997696",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "e51370255b371aaf247467603aa436d6b1d3f173623f0623e6f1e61febad94dc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LadybirdGonzo-7B-slerp-GGUF/resolve/main/LadybirdGonzo-7B-slerp.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "LadybirdGonzo-7B-slerp.Q5_K_M.gguf",
+            "size": "5286033088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e946f107a6b8ee6232960f5466f7f45f2dd12765be16ea752b8f683984ae0665",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LadybirdGonzo-7B-slerp-GGUF/resolve/main/LadybirdGonzo-7B-slerp.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "LadybirdGonzo-7B-slerp.Q5_K_S.gguf",
+            "size": "5152339648",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "11879f62b4714e6acaad816092b5b801eda45f4d082bb47602f9d262bec24cb9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LadybirdGonzo-7B-slerp-GGUF/resolve/main/LadybirdGonzo-7B-slerp.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "LadybirdGonzo-7B-slerp.Q6_K.gguf",
+            "size": "6096688832",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "6015872a4dc1974cf2cb8ae847ea5e20649b37d288ad2d1b81469288b0739c2c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LadybirdGonzo-7B-slerp-GGUF/resolve/main/LadybirdGonzo-7B-slerp.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "LadybirdGonzo-7B-slerp.Q8_0.gguf",
+            "size": "7818737344",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "e30729b437b033c77f43f3e2a6046ec54560d968ac7f01d2c0d4333629780b3d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LadybirdGonzo-7B-slerp-GGUF/resolve/main/LadybirdGonzo-7B-slerp.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

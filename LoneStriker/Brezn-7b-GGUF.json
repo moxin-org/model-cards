@@ -1,0 +1,73 @@
+{
+    "id": "LoneStriker/Brezn-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LoneStriker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-28T17:31:03Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Brezn-7b-Q3_K_L.gguf",
+            "size": "3822024352",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "af7365bfbd6d90966a19c02b2d4ff9269f02df276a74df0f882d673e36b7b56f",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Brezn-7b-GGUF/resolve/main/Brezn-7b-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Brezn-7b-Q4_K_M.gguf",
+            "size": "4368438944",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5022460ba346f75613e16d1ec1bf0e44ba79231fd685b3723f171502228caa42",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Brezn-7b-GGUF/resolve/main/Brezn-7b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Brezn-7b-Q5_K_M.gguf",
+            "size": "5131409056",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "d495193516bbe40bf619da7b7751aa693d825ff4c8a5dbcee9e7ee67d3c74431",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Brezn-7b-GGUF/resolve/main/Brezn-7b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Brezn-7b-Q6_K.gguf",
+            "size": "5942064800",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "645e5bddacca78eb1603f4e1f6c5e1e7b660f7a98d9ac8afa69ca343815b7798",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Brezn-7b-GGUF/resolve/main/Brezn-7b-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Brezn-7b-Q8_0.gguf",
+            "size": "7695857312",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "10cb80ca872c05f68f19182ad2b4210a81e28df9666bb0b44f44fb63dfecd22c",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Brezn-7b-GGUF/resolve/main/Brezn-7b-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

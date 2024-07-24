@@ -1,0 +1,143 @@
+{
+    "id": "mradermacher/deepmoney-67b-chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-18T10:52:38Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "deepmoney-67b-chat.IQ3_M.gguf",
+            "size": "31513221088",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "7e61d0ad641c097bd79384577045fab64d2a5c1f584320606ecc7111cca18c3a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/deepmoney-67b-chat-GGUF/resolve/main/deepmoney-67b-chat.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "deepmoney-67b-chat.IQ3_S.gguf",
+            "size": "30403008480",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "9526ad49cb7cff743c1dc9a2345324d8cca9cad9ce364b103c82f41de7a21337",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/deepmoney-67b-chat-GGUF/resolve/main/deepmoney-67b-chat.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "deepmoney-67b-chat.IQ3_XS.gguf",
+            "size": "28743571424",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "ccc1489e5263b2ad1de3755b0363598cd0f13b4339741dd8c17de69adddcc22c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/deepmoney-67b-chat-GGUF/resolve/main/deepmoney-67b-chat.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "deepmoney-67b-chat.IQ4_XS.gguf",
+            "size": "37494167520",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "cef108c009e7fc6daa6f8464e070a3ee93f1303aba8237a3e8119a21c1177a48",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/deepmoney-67b-chat-GGUF/resolve/main/deepmoney-67b-chat.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "deepmoney-67b-chat.Q2_K.gguf",
+            "size": "26109089760",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "0a2294998455354cc7823bbc1694062758cb86a3520e8851e450d43931cc7afc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/deepmoney-67b-chat-GGUF/resolve/main/deepmoney-67b-chat.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "deepmoney-67b-chat.Q3_K_L.gguf",
+            "size": "36563556320",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "13484e94ac069bbca55181c4f2934006507c8f2be77f8286104b8f51ab5c7ec3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/deepmoney-67b-chat-GGUF/resolve/main/deepmoney-67b-chat.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "deepmoney-67b-chat.Q3_K_M.gguf",
+            "size": "33640126432",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "a42910e62d47aaac411aff86902f6e144abc43a3a38d761510966f5c8916b161",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/deepmoney-67b-chat-GGUF/resolve/main/deepmoney-67b-chat.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "deepmoney-67b-chat.Q3_K_S.gguf",
+            "size": "30297167840",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "fd148c17ddf708135f5e15862ffa6c7451d116275d759d1c0a430607331dde97",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/deepmoney-67b-chat-GGUF/resolve/main/deepmoney-67b-chat.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "deepmoney-67b-chat.Q4_K_M.gguf",
+            "size": "41427474400",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "2da54bcbd78e448052329aa10f0c29875f28c06838ef5e548b87f0e41e490f5f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/deepmoney-67b-chat-GGUF/resolve/main/deepmoney-67b-chat.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "deepmoney-67b-chat.Q4_K_S.gguf",
+            "size": "39392614368",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "23a997c228197500d83fc624724b13577c4d5b6db57b23bdcc16ec7fbdd1f312",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/deepmoney-67b-chat-GGUF/resolve/main/deepmoney-67b-chat.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "deepmoney-67b-chat.Q5_K_M.gguf",
+            "size": "48641677280",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "38020fd046fb582885ee9013f3c75c42f1007f345b4ff9d672afe3ec36e2786d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/deepmoney-67b-chat-GGUF/resolve/main/deepmoney-67b-chat.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "deepmoney-67b-chat.Q5_K_S.gguf",
+            "size": "47463503840",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "21ba2f3047c0e97935b3d2649d10a2a0a259953fb8ca3fbc871c04a6a70f8b4a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/deepmoney-67b-chat-GGUF/resolve/main/deepmoney-67b-chat.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

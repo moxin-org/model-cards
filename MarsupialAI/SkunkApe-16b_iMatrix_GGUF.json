@@ -1,0 +1,103 @@
+{
+    "id": "MarsupialAI/SkunkApe-16b_iMatrix_GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "MarsupialAI",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-25T21:02:23Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "SkunkApe-16b_fp16.gguf",
+            "size": "31934368480",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8373e5756726a312ec3910dc36febe5970d839fa1125b1de12af9dc631d7601f",
+            "download": {
+                "default": "https://huggingface.co/MarsupialAI/SkunkApe-16b_iMatrix_GGUF/resolve/main/SkunkApe-16b_fp16.gguf"
+            }
+        },
+        {
+            "name": "SkunkApe-16b_iQ2xxs.gguf",
+            "size": "4313975552",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f3cf7c30e5d0b499f3bfda2033ffbd678ea1547a2ca8c86767909d3a451e28bf",
+            "download": {
+                "default": "https://huggingface.co/MarsupialAI/SkunkApe-16b_iMatrix_GGUF/resolve/main/SkunkApe-16b_iQ2xxs.gguf"
+            }
+        },
+        {
+            "name": "SkunkApe-16b_iQ3xxs.gguf",
+            "size": "6177565440",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d278706592adc62665ba063b1d97564919e2c9960b5b785705e5d81b79a4f5cf",
+            "download": {
+                "default": "https://huggingface.co/MarsupialAI/SkunkApe-16b_iMatrix_GGUF/resolve/main/SkunkApe-16b_iQ3xxs.gguf"
+            }
+        },
+        {
+            "name": "SkunkApe-16b_iQ4xs.gguf",
+            "size": "8569940736",
+            "quantization": "",
+            "tags": [],
+            "sha256": "af75888ea5962804487b33f3eaba217a84266bac74e8c8a26c0d97b3295ac9bb",
+            "download": {
+                "default": "https://huggingface.co/MarsupialAI/SkunkApe-16b_iMatrix_GGUF/resolve/main/SkunkApe-16b_iQ4xs.gguf"
+            }
+        },
+        {
+            "name": "SkunkApe-16b_Q4km.gguf",
+            "size": "9601510144",
+            "quantization": "",
+            "tags": [],
+            "sha256": "79a3804a219f55aa8fb2623ff4053fe53285a140c01f9acfc6ebf54d10889e39",
+            "download": {
+                "default": "https://huggingface.co/MarsupialAI/SkunkApe-16b_iMatrix_GGUF/resolve/main/SkunkApe-16b_Q4km.gguf"
+            }
+        },
+        {
+            "name": "SkunkApe-16b_Q5km.gguf",
+            "size": "11297712896",
+            "quantization": "",
+            "tags": [],
+            "sha256": "361505537125855615e4c850fde3e1b0fd4dcc0289fa4b00a30b2bd6c6bfc237",
+            "download": {
+                "default": "https://huggingface.co/MarsupialAI/SkunkApe-16b_iMatrix_GGUF/resolve/main/SkunkApe-16b_Q5km.gguf"
+            }
+        },
+        {
+            "name": "SkunkApe-16b_Q6k.gguf",
+            "size": "13099928320",
+            "quantization": "",
+            "tags": [],
+            "sha256": "bfd4aa84ecaa18d4171b6342bea0f1b6e41459ee1991911fcd21b8f8e12a5d34",
+            "download": {
+                "default": "https://huggingface.co/MarsupialAI/SkunkApe-16b_iMatrix_GGUF/resolve/main/SkunkApe-16b_Q6k.gguf"
+            }
+        },
+        {
+            "name": "SkunkApe-16b_Q8.gguf",
+            "size": "16966601472",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a67f12a691edf2ea224697867e6b0c2979d9f0ac051ea25d3492b95044c963bb",
+            "download": {
+                "default": "https://huggingface.co/MarsupialAI/SkunkApe-16b_iMatrix_GGUF/resolve/main/SkunkApe-16b_Q8.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,83 @@
+{
+    "id": "jeiku/Cognizant_3B_GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "jeiku",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-04T00:08:36Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Cognizant_3B-f16.gguf",
+            "size": "5593341312",
+            "quantization": "",
+            "tags": [],
+            "sha256": "82df9f4e9c81024bb33f08a02ab6c12f5d5f5985842e4af1ce845a75f9528a1d",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Cognizant_3B_GGUF/resolve/main/Cognizant_3B-f16.gguf"
+            }
+        },
+        {
+            "name": "Cognizant_3B-Q2_K.gguf",
+            "size": "1198771136",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "28fedcf00d0f10b23915776a59ee97e5c62bc1c6a347736d5a7b2b1f4c8ec94a",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Cognizant_3B_GGUF/resolve/main/Cognizant_3B-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Cognizant_3B-Q3_K.gguf",
+            "size": "1391418816",
+            "quantization": "Q3_K",
+            "tags": [],
+            "sha256": "b304cd11b81fd2ef9c413587bfd8702adffe60d5050203481c89f1ea4ef8d136",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Cognizant_3B_GGUF/resolve/main/Cognizant_3B-Q3_K.gguf"
+            }
+        },
+        {
+            "name": "Cognizant_3B-Q4_K.gguf",
+            "size": "1708595136",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "e70a7fefc122c6b2cca30c12282823b2686dd5100b9762ec3820453f40040ccf",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Cognizant_3B_GGUF/resolve/main/Cognizant_3B-Q4_K.gguf"
+            }
+        },
+        {
+            "name": "Cognizant_3B-Q5_K.gguf",
+            "size": "1993390016",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "c6694448f2a20efd1570f7d1d0ee7d4ed9bd42baf64025dfd3564b0e05923f15",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Cognizant_3B_GGUF/resolve/main/Cognizant_3B-Q5_K.gguf"
+            }
+        },
+        {
+            "name": "Cognizant_3B-Q6_K.gguf",
+            "size": "2295984576",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "2aefdceb0c9854d56bf760956743bb8eef51376b1689450edd175cdae1045422",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Cognizant_3B_GGUF/resolve/main/Cognizant_3B-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

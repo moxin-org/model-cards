@@ -1,0 +1,43 @@
+{
+    "id": "nisten/shqiponja-90b-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "nisten",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-06T04:25:00Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "shqiponja-90b-q2k.gguf",
+            "size": "34954456096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "86cb27a854a76e87dbcc400d58c10a5c91701c8fcc03215ae02bc71a1176fe2f",
+            "download": {
+                "default": "https://huggingface.co/nisten/shqiponja-90b-gguf/resolve/main/shqiponja-90b-q2k.gguf"
+            }
+        },
+        {
+            "name": "shqiponja-90b-q3km.gguf",
+            "size": "45157788704",
+            "quantization": "",
+            "tags": [],
+            "sha256": "37891fee2b2dad84c1a832fc0268873e1929c6e4b2eb2cf8e7d5afaa0f6f55d9",
+            "download": {
+                "default": "https://huggingface.co/nisten/shqiponja-90b-gguf/resolve/main/shqiponja-90b-q3km.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

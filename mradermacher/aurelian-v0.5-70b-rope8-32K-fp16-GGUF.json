@@ -1,0 +1,143 @@
+{
+    "id": "mradermacher/aurelian-v0.5-70b-rope8-32K-fp16-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-09T13:09:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "aurelian-v0.5-70b-rope8-32K-fp16.IQ3_M.gguf",
+            "size": "30944277600",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "8a9d732a4c7005bf1e0257d79c2bdb3e60ef1a21a0404ac2a7b488c822c0492d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/aurelian-v0.5-70b-rope8-32K-fp16-GGUF/resolve/main/aurelian-v0.5-70b-rope8-32K-fp16.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "aurelian-v0.5-70b-rope8-32K-fp16.IQ3_S.gguf",
+            "size": "29919294560",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "3e72c1aba99701e709759bd12ede2e8567397e7dacad2accc9d9fc134f2d1dd7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/aurelian-v0.5-70b-rope8-32K-fp16-GGUF/resolve/main/aurelian-v0.5-70b-rope8-32K-fp16.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "aurelian-v0.5-70b-rope8-32K-fp16.IQ3_XS.gguf",
+            "size": "28314973280",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "b77641e8cfa7df6ac2508804de816ea9dfd38296196559bce82a275f02975ed3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/aurelian-v0.5-70b-rope8-32K-fp16-GGUF/resolve/main/aurelian-v0.5-70b-rope8-32K-fp16.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "aurelian-v0.5-70b-rope8-32K-fp16.IQ4_XS.gguf",
+            "size": "37196821600",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "86ee8f4a7a6fdde055541665728cf1e6e16d1af276058eb78325dd814f94ed5b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/aurelian-v0.5-70b-rope8-32K-fp16-GGUF/resolve/main/aurelian-v0.5-70b-rope8-32K-fp16.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "aurelian-v0.5-70b-rope8-32K-fp16.Q2_K.gguf",
+            "size": "25462436960",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "99207bfc1505579c3489e8802417e44b6b2aa3427ac420446b6c9a678e2d6415",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/aurelian-v0.5-70b-rope8-32K-fp16-GGUF/resolve/main/aurelian-v0.5-70b-rope8-32K-fp16.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "aurelian-v0.5-70b-rope8-32K-fp16.Q3_K_L.gguf",
+            "size": "36147836000",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "c16bddce1c5e41d7f368508f8e58a66ef1f2d57d72ed83082fa26ff6e5c38fdc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/aurelian-v0.5-70b-rope8-32K-fp16-GGUF/resolve/main/aurelian-v0.5-70b-rope8-32K-fp16.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "aurelian-v0.5-70b-rope8-32K-fp16.Q3_K_M.gguf",
+            "size": "33274737760",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "b1f27dd3510efe023c11ec9fc89626e031c510a258f7fbdfe2d0d9297349319c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/aurelian-v0.5-70b-rope8-32K-fp16-GGUF/resolve/main/aurelian-v0.5-70b-rope8-32K-fp16.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "aurelian-v0.5-70b-rope8-32K-fp16.Q3_K_S.gguf",
+            "size": "29919294560",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "611219dc2cbdd18c802d17b8806aed69398225dca8cef89a8822060483eb6f56",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/aurelian-v0.5-70b-rope8-32K-fp16-GGUF/resolve/main/aurelian-v0.5-70b-rope8-32K-fp16.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "aurelian-v0.5-70b-rope8-32K-fp16.Q4_K_M.gguf",
+            "size": "41422910560",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "9a268709a42a92127f691ef24782fcbdcc1076df80650a82a0430f820a1bcbd9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/aurelian-v0.5-70b-rope8-32K-fp16-GGUF/resolve/main/aurelian-v0.5-70b-rope8-32K-fp16.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "aurelian-v0.5-70b-rope8-32K-fp16.Q4_K_S.gguf",
+            "size": "39249736800",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "9314de06f03c0b0c70572f822e6ecaf45cf824a621aecda923a9467d32e050ce",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/aurelian-v0.5-70b-rope8-32K-fp16-GGUF/resolve/main/aurelian-v0.5-70b-rope8-32K-fp16.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "aurelian-v0.5-70b-rope8-32K-fp16.Q5_K_M.gguf",
+            "size": "48753767520",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e6801e6a30c3d0b6b09c0014f5047b22670eea218e299a886b0b19faa985a169",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/aurelian-v0.5-70b-rope8-32K-fp16-GGUF/resolve/main/aurelian-v0.5-70b-rope8-32K-fp16.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "aurelian-v0.5-70b-rope8-32K-fp16.Q5_K_S.gguf",
+            "size": "47461397600",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "5fb8702938203ee2873702347cff1a59e4915907d76640198311d672d41df904",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/aurelian-v0.5-70b-rope8-32K-fp16-GGUF/resolve/main/aurelian-v0.5-70b-rope8-32K-fp16.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

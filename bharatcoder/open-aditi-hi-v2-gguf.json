@@ -1,0 +1,43 @@
+{
+    "id": "bharatcoder/open-aditi-hi-v2-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bharatcoder",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-18T08:38:31Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "open-aditi-hi-v2-Q4_K_M.gguf",
+            "size": "4368451008",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c2f261e6d896198781aa41f03dc96acebea632fdedd4deca7cb95fef5901bc86",
+            "download": {
+                "default": "https://huggingface.co/bharatcoder/open-aditi-hi-v2-gguf/resolve/main/open-aditi-hi-v2-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "open-aditi-hi-v2-Q5_K_M.gguf",
+            "size": "5131422144",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "39fb15ef03070646cc67a39949f8560f4c75752a4ad71c9f2ce056a737602867",
+            "download": {
+                "default": "https://huggingface.co/bharatcoder/open-aditi-hi-v2-gguf/resolve/main/open-aditi-hi-v2-Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

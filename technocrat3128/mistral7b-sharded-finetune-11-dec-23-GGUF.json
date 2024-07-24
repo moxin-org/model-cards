@@ -1,0 +1,43 @@
+{
+    "id": "technocrat3128/mistral7b-sharded-finetune-11-dec-23-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "technocrat3128",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-13T10:05:59Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistral7b-sharded-finetune-11-dec-23.Q4_K_M.gguf",
+            "size": "4368438976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c6471955272c4072a0f4a563d40a9d1826b3cc8a1296f743ca031f4c359b8ef7",
+            "download": {
+                "default": "https://huggingface.co/technocrat3128/mistral7b-sharded-finetune-11-dec-23-GGUF/resolve/main/mistral7b-sharded-finetune-11-dec-23.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral7b-sharded-finetune-11-dec-23.Q5_K_M.gguf",
+            "size": "5131409088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "2bd69a05ac4a53818276db945766b18b464c35b6e193f785360c27944cdcc2d4",
+            "download": {
+                "default": "https://huggingface.co/technocrat3128/mistral7b-sharded-finetune-11-dec-23-GGUF/resolve/main/mistral7b-sharded-finetune-11-dec-23.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

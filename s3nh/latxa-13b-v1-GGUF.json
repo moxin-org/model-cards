@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/latxa-13b-v1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-26T12:51:00Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "latxa-13b-v1.Q3_K_S.gguf",
+            "size": "5658980416",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "c43cdab3079e94816b6f5580046dc0a6a1d66b31ea9f9b55e812d97dfb10a4a4",
+            "download": {
+                "default": "https://huggingface.co/s3nh/latxa-13b-v1-GGUF/resolve/main/latxa-13b-v1.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "latxa-13b-v1.Q4_K_M.gguf",
+            "size": "7865956416",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c7f5edd215897f6b86ba39770fa1484e05b6827ef0098a76458f60383c757e47",
+            "download": {
+                "default": "https://huggingface.co/s3nh/latxa-13b-v1-GGUF/resolve/main/latxa-13b-v1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "latxa-13b-v1.Q5_K_M.gguf",
+            "size": "9229924416",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "fc24e095b03c2ee5a13d8aeae8f6110678bc999d732ad6ee4aed5c479541a59b",
+            "download": {
+                "default": "https://huggingface.co/s3nh/latxa-13b-v1-GGUF/resolve/main/latxa-13b-v1.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "latxa-13b-v1.Q6_K.gguf",
+            "size": "10679140416",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "ceb47f5bc363ca73705e4db8f65ccaf170f78ffc8dfcb381807eadc4329fe1b1",
+            "download": {
+                "default": "https://huggingface.co/s3nh/latxa-13b-v1-GGUF/resolve/main/latxa-13b-v1.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "latxa-13b-v1.Q8_0.gguf",
+            "size": "13831319616",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "b1263e9a9457572622b973c09ef01af95683d425cef8683710cfacd1ecdda876",
+            "download": {
+                "default": "https://huggingface.co/s3nh/latxa-13b-v1-GGUF/resolve/main/latxa-13b-v1.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

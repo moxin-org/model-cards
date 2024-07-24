@@ -1,0 +1,83 @@
+{
+    "id": "jeiku/SmarterAdult_3B_GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "jeiku",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-09T21:42:54Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "SmarterAdult-f16.gguf",
+            "size": "5593341696",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4b0b4bc7a9a6d49eff5fe8459fd5cf9a4ffb41c6c88e71aca9d6e1a5b2ed6a1c",
+            "download": {
+                "default": "https://huggingface.co/jeiku/SmarterAdult_3B_GGUF/resolve/main/SmarterAdult-f16.gguf"
+            }
+        },
+        {
+            "name": "SmarterAdult-Q2_K.gguf",
+            "size": "1198771520",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a997a526f7e0d0e87689daa5199deaba4363cf7465cb0c1f52fe10c8813b5c55",
+            "download": {
+                "default": "https://huggingface.co/jeiku/SmarterAdult_3B_GGUF/resolve/main/SmarterAdult-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "SmarterAdult-Q3_K.gguf",
+            "size": "1391419200",
+            "quantization": "Q3_K",
+            "tags": [],
+            "sha256": "74f1a6c38c2f7a16fff4442de60712e60b969c01f64ff73949d08a58fb72b5c7",
+            "download": {
+                "default": "https://huggingface.co/jeiku/SmarterAdult_3B_GGUF/resolve/main/SmarterAdult-Q3_K.gguf"
+            }
+        },
+        {
+            "name": "SmarterAdult-Q4_K.gguf",
+            "size": "1708595520",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "4f1274d7edc89fbea2fa8f226f98080d7414367212832e6abd7608792a826eb5",
+            "download": {
+                "default": "https://huggingface.co/jeiku/SmarterAdult_3B_GGUF/resolve/main/SmarterAdult-Q4_K.gguf"
+            }
+        },
+        {
+            "name": "SmarterAdult-Q5_K.gguf",
+            "size": "1993390400",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "690c9d7b2a19450b6dbfd68bf24108364678841fb16eb1f23002ecf23088d12d",
+            "download": {
+                "default": "https://huggingface.co/jeiku/SmarterAdult_3B_GGUF/resolve/main/SmarterAdult-Q5_K.gguf"
+            }
+        },
+        {
+            "name": "SmarterAdult-Q6_K.gguf",
+            "size": "2295984960",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "8784ebf1751dc7afe4d96a3e5ef4412538998b74bec0402fc112d422c2436e34",
+            "download": {
+                "default": "https://huggingface.co/jeiku/SmarterAdult_3B_GGUF/resolve/main/SmarterAdult-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,113 @@
+{
+    "id": "gorilla-llm/gorilla-7b-hf-v1-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "gorilla-llm",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-29T10:41:36Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "gorilla-7b-hf-v1-q2_K.gguf",
+            "size": "2532863744",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0cd707f73970cd19267c56fa56b8eebb288963b3d69ff2db311282ebf0d0773d",
+            "download": {
+                "default": "https://huggingface.co/gorilla-llm/gorilla-7b-hf-v1-gguf/resolve/main/gorilla-7b-hf-v1-q2_K.gguf"
+            }
+        },
+        {
+            "name": "gorilla-7b-hf-v1-q3_K_L.gguf",
+            "size": "3597111040",
+            "quantization": "",
+            "tags": [],
+            "sha256": "468f37e60b14e7f79b382062519317bd8a282f98149a6962e6fb2767c0c713cf",
+            "download": {
+                "default": "https://huggingface.co/gorilla-llm/gorilla-7b-hf-v1-gguf/resolve/main/gorilla-7b-hf-v1-q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "gorilla-7b-hf-v1-q3_K_M.gguf",
+            "size": "3298004736",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f0c7c2932f880448bdfdf73051b2dadfc0e43788aa3d5cca0fcf9f6499adecf9",
+            "download": {
+                "default": "https://huggingface.co/gorilla-llm/gorilla-7b-hf-v1-gguf/resolve/main/gorilla-7b-hf-v1-q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "gorilla-7b-hf-v1-q3_K_S.gguf",
+            "size": "2948304640",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7387eb65202d4d8dd953e341bdeb3306182f698f3ee2e49a1e6ad23a80a9b0c6",
+            "download": {
+                "default": "https://huggingface.co/gorilla-llm/gorilla-7b-hf-v1-gguf/resolve/main/gorilla-7b-hf-v1-q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "gorilla-7b-hf-v1-q4_K_M.gguf",
+            "size": "4081004288",
+            "quantization": "",
+            "tags": [],
+            "sha256": "364fd5dbbc262bd04db74d2e4bb5d3a5298641d3761f60e2c7127ead65946f92",
+            "download": {
+                "default": "https://huggingface.co/gorilla-llm/gorilla-7b-hf-v1-gguf/resolve/main/gorilla-7b-hf-v1-q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "gorilla-7b-hf-v1-q4_K_S.gguf",
+            "size": "3856740096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5741d0dcddd56137753df55ecf90b8e08739d5c772f63f290d97aefe8d5d0f79",
+            "download": {
+                "default": "https://huggingface.co/gorilla-llm/gorilla-7b-hf-v1-gguf/resolve/main/gorilla-7b-hf-v1-q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "gorilla-7b-hf-v1-q5_K_M.gguf",
+            "size": "4783156992",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f72d66979f6746ec4413b4ce7005b4e672a8d720d8a3fce5f09baf6e5f3c6794",
+            "download": {
+                "default": "https://huggingface.co/gorilla-llm/gorilla-7b-hf-v1-gguf/resolve/main/gorilla-7b-hf-v1-q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "gorilla-7b-hf-v1-q5_K_S.gguf",
+            "size": "4651691776",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a4adc2027c451199755ffaaab850bb7aef7d51f7fad28cfb85e302b3a2428626",
+            "download": {
+                "default": "https://huggingface.co/gorilla-llm/gorilla-7b-hf-v1-gguf/resolve/main/gorilla-7b-hf-v1-q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "gorilla-7b-hf-v1-q6_K.gguf",
+            "size": "5529194240",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a16ecff1fd0b90dbeae1d76fa5d40d02fee313526db297b5bfffe72068c45263",
+            "download": {
+                "default": "https://huggingface.co/gorilla-llm/gorilla-7b-hf-v1-gguf/resolve/main/gorilla-7b-hf-v1-q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,103 @@
+{
+    "id": "Kquant03/BioMistral-7B-TIES-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Kquant03",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-19T21:11:43Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-Biomistral-7B-TIES-model-q2_k.gguf",
+            "size": "2719242464",
+            "quantization": "",
+            "tags": [],
+            "sha256": "18c78b83251614e85fbb531e01261300cf452015fd67c4c8a7ffd888a9a14167",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/BioMistral-7B-TIES-GGUF/resolve/main/ggml-Biomistral-7B-TIES-model-q2_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-Biomistral-7B-TIES-model-q3_k_m.gguf",
+            "size": "3518986464",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f90310c74289c9ab03c76a040990bde6996c1fa30a778dcadce76a280715a72a",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/BioMistral-7B-TIES-GGUF/resolve/main/ggml-Biomistral-7B-TIES-model-q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "ggml-Biomistral-7B-TIES-model-q4_0.gguf",
+            "size": "4108916960",
+            "quantization": "",
+            "tags": [],
+            "sha256": "91294cf258f49fd4afc72b3707683fe3b89565ae5ec8658e06b2816f966f2f13",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/BioMistral-7B-TIES-GGUF/resolve/main/ggml-Biomistral-7B-TIES-model-q4_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-Biomistral-7B-TIES-model-q4_k_m.gguf",
+            "size": "4368439520",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3e313c1e625ccb653d93fa9ec462f86af15ea0663277bf8f407e1229226f3245",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/BioMistral-7B-TIES-GGUF/resolve/main/ggml-Biomistral-7B-TIES-model-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "ggml-Biomistral-7B-TIES-model-q5_0.gguf",
+            "size": "4997716192",
+            "quantization": "",
+            "tags": [],
+            "sha256": "40d34a3b85433d4bc9c723c3ea88c7dbd80e0fb55538c2c0bab36fae9685e960",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/BioMistral-7B-TIES-GGUF/resolve/main/ggml-Biomistral-7B-TIES-model-q5_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-Biomistral-7B-TIES-model-q5_k_m.gguf",
+            "size": "5131409632",
+            "quantization": "",
+            "tags": [],
+            "sha256": "26cb31b2aaedb7810fce4de343ac1b36acc677f3abc82707d918175ca17ce5f0",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/BioMistral-7B-TIES-GGUF/resolve/main/ggml-Biomistral-7B-TIES-model-q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "ggml-Biomistral-7B-TIES-model-q6_k.gguf",
+            "size": "5942065376",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e4c9c5e89d591a4ad17b7caed9fbe2684985be81a7ea53de8102d6f5f041aaea",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/BioMistral-7B-TIES-GGUF/resolve/main/ggml-Biomistral-7B-TIES-model-q6_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-Biomistral-7B-TIES-model-q8_0.gguf",
+            "size": "7695857888",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fd4ad6efa454d2531dfcd14907f2cb900d4581508d547414bbae336d1820a3ca",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/BioMistral-7B-TIES-GGUF/resolve/main/ggml-Biomistral-7B-TIES-model-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

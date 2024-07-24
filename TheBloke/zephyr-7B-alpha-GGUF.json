@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/zephyr-7B-alpha-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-11T03:26:12Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "zephyr-7b-alpha.Q2_K.gguf",
+            "size": "3083097792",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "bb98f254b9f77ae036587d27a81a8b760b77052900ee810b115484a9a6be68d5",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/zephyr-7B-alpha-GGUF/resolve/main/zephyr-7b-alpha.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-alpha.Q3_K_L.gguf",
+            "size": "3822024384",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "13b384fdaf99b5e3c3bfab8effc0cdb8313b4f3ffeb85f65c80b315a84af3dd7",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/zephyr-7B-alpha-GGUF/resolve/main/zephyr-7b-alpha.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-alpha.Q3_K_M.gguf",
+            "size": "3518985920",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "1b6a1f15a6188a2fe7af1bfc352d04ab8de3d7d5f85c01ae566e8a2488279a5c",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/zephyr-7B-alpha-GGUF/resolve/main/zephyr-7b-alpha.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-alpha.Q3_K_S.gguf",
+            "size": "3164567232",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "b391934a9e2c7688777ab12b04c6ba551454cbe3ff899daa57ae0562306f94b4",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/zephyr-7B-alpha-GGUF/resolve/main/zephyr-7b-alpha.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-alpha.Q4_0.gguf",
+            "size": "4108916416",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "f0b10ccb8529d74361724522b991938d56b2cba821de3879ff0f515be9f657e8",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/zephyr-7B-alpha-GGUF/resolve/main/zephyr-7b-alpha.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-alpha.Q4_K_M.gguf",
+            "size": "4368438976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "59877734fb4a22e81130b5d9b5155fbabdd5e338bba6a27391c93e77bd672004",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/zephyr-7B-alpha-GGUF/resolve/main/zephyr-7b-alpha.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-alpha.Q4_K_S.gguf",
+            "size": "4140373696",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "fce08dc6030438aac72036360f29345ff43c9ddc71ba921232521ab727a8c476",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/zephyr-7B-alpha-GGUF/resolve/main/zephyr-7b-alpha.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-alpha.Q5_0.gguf",
+            "size": "4997715648",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "9b034a1efcf35d578c1632cae5cfd6e70be81759b9f06a92db406175cb54f0c9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/zephyr-7B-alpha-GGUF/resolve/main/zephyr-7b-alpha.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-alpha.Q5_K_M.gguf",
+            "size": "5131409088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "2ad371d1aeca1ddf6281ca4ee77aa20ace60df33cab71d3bb681e669001e176e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/zephyr-7B-alpha-GGUF/resolve/main/zephyr-7b-alpha.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-alpha.Q5_K_S.gguf",
+            "size": "4997715648",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "0c834dcfb61be4135b803ff0f1d00fbe2f96aa91bce933bd218649f6add996f1",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/zephyr-7B-alpha-GGUF/resolve/main/zephyr-7b-alpha.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-alpha.Q6_K.gguf",
+            "size": "5942064832",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "f9c0b71b46f0c82c717e1c2806b0250373b58d1fdbf2059a26f860d372a70102",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/zephyr-7B-alpha-GGUF/resolve/main/zephyr-7b-alpha.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-alpha.Q8_0.gguf",
+            "size": "7695857344",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "35555cc49f457c61bb335bf0a09107e8c2d583d5a8f06dddc50c5b18033612c6",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/zephyr-7B-alpha-GGUF/resolve/main/zephyr-7b-alpha.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

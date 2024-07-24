@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/Mistral-7B-codealpaca-lora-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-28T08:57:12Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistral-7b-codealpaca-lora.Q2_K.gguf",
+            "size": "3083097760",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "c134aef5723e77fc052a0453bc014c45a2dc8255b370a79a8034a1a38a0e66d2",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Mistral-7B-codealpaca-lora-GGUF/resolve/main/mistral-7b-codealpaca-lora.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-codealpaca-lora.Q3_K_L.gguf",
+            "size": "3822024352",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "4fff60368963ea6245670d08f2a2870e9e52daefd077a1f5da2821f6ba8dcae8",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Mistral-7B-codealpaca-lora-GGUF/resolve/main/mistral-7b-codealpaca-lora.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-codealpaca-lora.Q3_K_M.gguf",
+            "size": "3518985888",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "bb5559d21bb490fb6f9960c70b6edd435adacb7fe9490e8054d3f56ea130d7bc",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Mistral-7B-codealpaca-lora-GGUF/resolve/main/mistral-7b-codealpaca-lora.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-codealpaca-lora.Q3_K_S.gguf",
+            "size": "3164567200",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "de3849b60ffe2a84ceff3fc8af75f7b7946882455a4184de560a2eb0ab96aaa9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Mistral-7B-codealpaca-lora-GGUF/resolve/main/mistral-7b-codealpaca-lora.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-codealpaca-lora.Q4_0.gguf",
+            "size": "4108916384",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "817a4dcf00e020decdfc11ff7e1de21e2cae14244ea5fe2a9d6e5bcda09de43b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Mistral-7B-codealpaca-lora-GGUF/resolve/main/mistral-7b-codealpaca-lora.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-codealpaca-lora.Q4_K_M.gguf",
+            "size": "4368438944",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "69c07f27f682ca8da59fcd8a981335876882a2577f0f9df51b49cf6b97fd470f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Mistral-7B-codealpaca-lora-GGUF/resolve/main/mistral-7b-codealpaca-lora.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-codealpaca-lora.Q4_K_S.gguf",
+            "size": "4140373664",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "6ca9eb551badf2df12e1d609f75bca8d0a61299142dfbc46745d29fefa258d85",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Mistral-7B-codealpaca-lora-GGUF/resolve/main/mistral-7b-codealpaca-lora.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-codealpaca-lora.Q5_0.gguf",
+            "size": "4997715616",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "a8ce4f6201bdf928622f3df262d15c91283b743729c6f339bde1b28701639245",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Mistral-7B-codealpaca-lora-GGUF/resolve/main/mistral-7b-codealpaca-lora.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-codealpaca-lora.Q5_K_M.gguf",
+            "size": "5131409056",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "172ea44b88141829a7521680c4781861912fdc197820bf63e4c809b89293dda4",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Mistral-7B-codealpaca-lora-GGUF/resolve/main/mistral-7b-codealpaca-lora.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-codealpaca-lora.Q5_K_S.gguf",
+            "size": "4997715616",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "f5ecca1c3bb3df5c40fe1c9dc07dece73e3d9ec652fea1c8e32fa78ad547864f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Mistral-7B-codealpaca-lora-GGUF/resolve/main/mistral-7b-codealpaca-lora.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-codealpaca-lora.Q6_K.gguf",
+            "size": "5942064800",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "8eb820f551b78d9691834b54ca5d557b955e73f82d8cf95a40d48b7cf7c0ed49",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Mistral-7B-codealpaca-lora-GGUF/resolve/main/mistral-7b-codealpaca-lora.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-codealpaca-lora.Q8_0.gguf",
+            "size": "7695857312",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "860af75bdd098172f8a1bbfab8bccee1c186c872d6325b980280f0ba0b69f222",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Mistral-7B-codealpaca-lora-GGUF/resolve/main/mistral-7b-codealpaca-lora.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

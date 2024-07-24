@@ -1,0 +1,63 @@
+{
+    "id": "Undi95/Toppy-M-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Undi95",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-03T16:36:40Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Toppy-M-7B.q4_k_s.gguf",
+            "size": "4140373632",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2e56af72ff922a486320d17831bb7886ef4e1f3fda2326e28fcc150796fa3ec0",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Toppy-M-7B-GGUF/resolve/main/Toppy-M-7B.q4_k_s.gguf"
+            }
+        },
+        {
+            "name": "Toppy-M-7B.q5_k_m.gguf",
+            "size": "5131409024",
+            "quantization": "",
+            "tags": [],
+            "sha256": "00c2a431fccc675dca708825f8c258d790f257f96cfc8fa9106761abf201ba0c",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Toppy-M-7B-GGUF/resolve/main/Toppy-M-7B.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "Toppy-M-7B.q6_k.gguf",
+            "size": "5942064768",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c14099ae0976acbd3923f4d27d9325ad96c7c46b6c3b2bd6197c83332de28d80",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Toppy-M-7B-GGUF/resolve/main/Toppy-M-7B.q6_k.gguf"
+            }
+        },
+        {
+            "name": "Toppy-M-7B.q8_0.gguf",
+            "size": "7695857280",
+            "quantization": "",
+            "tags": [],
+            "sha256": "889c3df14dacf4276440cc1667f4bc434edf0e7106b3476aa55eb54f9d3a55d3",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Toppy-M-7B-GGUF/resolve/main/Toppy-M-7B.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,53 @@
+{
+    "id": "ThatsGroes/munin-neuralbeagle-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "ThatsGroes",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-30T21:33:49Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "munin-neuralbeagle-7b.Q2_K.gguf",
+            "size": "2719241920",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "3356ec165f9dbced733f5544c8e11afac4c16ff5e3ff8b22136e7abc2ee8dce1",
+            "download": {
+                "default": "https://huggingface.co/ThatsGroes/munin-neuralbeagle-7b-GGUF/resolve/main/munin-neuralbeagle-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "munin-neuralbeagle-7b.Q4_0.gguf",
+            "size": "4108916416",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "9362f925762ab2cc72cf857d43c80ac6660b48f26a2b611de755020a3808e190",
+            "download": {
+                "default": "https://huggingface.co/ThatsGroes/munin-neuralbeagle-7b-GGUF/resolve/main/munin-neuralbeagle-7b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "munin-neuralbeagle-7b.Q5_K_M.gguf",
+            "size": "5131409088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "50b0ee71b48fb22093d748e68b0a9892c090f681dbdb2f80115cf3015ba911f7",
+            "download": {
+                "default": "https://huggingface.co/ThatsGroes/munin-neuralbeagle-7b-GGUF/resolve/main/munin-neuralbeagle-7b.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

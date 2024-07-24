@@ -1,0 +1,43 @@
+{
+    "id": "umarigan/Trendyol-LLM-7b-chat-v0.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "umarigan",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-13T07:30:35Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "trendyol-llm-7b-chat-v0.1.Q4_K_M.gguf",
+            "size": "4150533024",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "323878a8570093178040e78b438d5670c0fdae2aa614a8ed58e784d697d4db52",
+            "download": {
+                "default": "https://huggingface.co/umarigan/Trendyol-LLM-7b-chat-v0.1-GGUF/resolve/main/trendyol-llm-7b-chat-v0.1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "trendyol-llm-7b-chat-v0.1.Q5_K_M.gguf",
+            "size": "4858943392",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "abe74ad12996aaef9bb83a944b31c5a11e46063e75bf6df76102df369c0a9f29",
+            "download": {
+                "default": "https://huggingface.co/umarigan/Trendyol-LLM-7b-chat-v0.1-GGUF/resolve/main/trendyol-llm-7b-chat-v0.1.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

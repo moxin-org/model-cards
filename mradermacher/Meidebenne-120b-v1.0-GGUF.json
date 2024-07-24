@@ -1,0 +1,43 @@
+{
+    "id": "mradermacher/Meidebenne-120b-v1.0-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-15T11:33:26Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Meidebenne-120b-v1.0.IQ3_XS.gguf",
+            "size": "49311347648",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "b21d78970973fd58561fa6343684a91ef7a012312238dd570e03db0822566fbd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Meidebenne-120b-v1.0-GGUF/resolve/main/Meidebenne-120b-v1.0.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Meidebenne-120b-v1.0.Q2_K.gguf",
+            "size": "44495352768",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "d2f7651df6d2fb34e8d6b1392fd338de36446b7a5962374aff01a25e543d54c7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Meidebenne-120b-v1.0-GGUF/resolve/main/Meidebenne-120b-v1.0.Q2_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

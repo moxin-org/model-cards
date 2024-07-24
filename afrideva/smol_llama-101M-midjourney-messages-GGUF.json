@@ -1,0 +1,93 @@
+{
+    "id": "afrideva/smol_llama-101M-midjourney-messages-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-28T17:46:00Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "smol_llama-101m-midjourney-messages.fp16.gguf",
+            "size": "203276896",
+            "quantization": "",
+            "tags": [],
+            "sha256": "bf91f218fb3f2ed3e1352f2bb3c11e7557def50de14579272d117d585a229e1c",
+            "download": {
+                "default": "https://huggingface.co/afrideva/smol_llama-101M-midjourney-messages-GGUF/resolve/main/smol_llama-101m-midjourney-messages.fp16.gguf"
+            }
+        },
+        {
+            "name": "smol_llama-101m-midjourney-messages.q2_k.gguf",
+            "size": "50931072",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8a058149f5d9482880ebaeeac44e43af56af9d79b456e1be4e4a21d116e83993",
+            "download": {
+                "default": "https://huggingface.co/afrideva/smol_llama-101M-midjourney-messages-GGUF/resolve/main/smol_llama-101m-midjourney-messages.q2_k.gguf"
+            }
+        },
+        {
+            "name": "smol_llama-101m-midjourney-messages.q3_k_m.gguf",
+            "size": "57062016",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8a19032586cc47abc2f0c3b4f1569229d1cee4306caa93c3d44af5ff9314feaa",
+            "download": {
+                "default": "https://huggingface.co/afrideva/smol_llama-101M-midjourney-messages-GGUF/resolve/main/smol_llama-101m-midjourney-messages.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "smol_llama-101m-midjourney-messages.q4_k_m.gguf",
+            "size": "65404800",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fae8a1a946693b1ade1a3d7f4cc69f1ddf29bab8bde1a548a79a546eba1b162c",
+            "download": {
+                "default": "https://huggingface.co/afrideva/smol_llama-101M-midjourney-messages-GGUF/resolve/main/smol_llama-101m-midjourney-messages.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "smol_llama-101m-midjourney-messages.q5_k_m.gguf",
+            "size": "74338176",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6c21602f4cf4c43adc384ac17a590ff63d5174b570ce0b31b05cf544d13b9a97",
+            "download": {
+                "default": "https://huggingface.co/afrideva/smol_llama-101M-midjourney-messages-GGUF/resolve/main/smol_llama-101m-midjourney-messages.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "smol_llama-101m-midjourney-messages.q6_k.gguf",
+            "size": "83829888",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ee220ba71657ce77e3123c02e16fbb4c74232db1d29392f46e1550d2a429e0a7",
+            "download": {
+                "default": "https://huggingface.co/afrideva/smol_llama-101M-midjourney-messages-GGUF/resolve/main/smol_llama-101m-midjourney-messages.q6_k.gguf"
+            }
+        },
+        {
+            "name": "smol_llama-101m-midjourney-messages.q8_0.gguf",
+            "size": "108352128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f9848c6056656eaa67cf27f1939eef760ff9e30646d0a9474545a3ec621e19a8",
+            "download": {
+                "default": "https://huggingface.co/afrideva/smol_llama-101M-midjourney-messages-GGUF/resolve/main/smol_llama-101m-midjourney-messages.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

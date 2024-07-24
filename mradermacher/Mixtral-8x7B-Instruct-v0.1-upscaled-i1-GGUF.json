@@ -1,0 +1,193 @@
+{
+    "id": "mradermacher/Mixtral-8x7B-Instruct-v0.1-upscaled-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-07T12:14:30Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-upscaled.i1-IQ3_XS.gguf",
+            "size": "33604033888",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "52115a75d64675dcd3e96f74c7191ab418e1b48043c04f794b2d4da4c25e1572",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral-8x7B-Instruct-v0.1-upscaled-i1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-upscaled.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-upscaled.i1-Q4_K_S.gguf",
+            "size": "46664678752",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "3cc4407d70bf6c36671ed808993fd69272a24fcfbc177320ba07f29ac5a874cc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral-8x7B-Instruct-v0.1-upscaled-i1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-upscaled.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-upscaled.i1-Q4_0.gguf",
+            "size": "46341717344",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "b7228a33cadb13bb9dd7dc47d2b8025d9e5ccb4fb3d741e2dcdbfb2de42cf540",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral-8x7B-Instruct-v0.1-upscaled-i1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-upscaled.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-upscaled.i1-Q3_K_S.gguf",
+            "size": "35629882720",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "0afb57620ad9d304003bdbb7acd0bf2407acf2b239bfa38ba4372f971b462f6d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral-8x7B-Instruct-v0.1-upscaled-i1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-upscaled.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-upscaled.i1-Q3_K_M.gguf",
+            "size": "39299898720",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "54681ec054460042d6e522ddfb5195ea11038f04a8c6411d1f113359f1a956e3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral-8x7B-Instruct-v0.1-upscaled-i1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-upscaled.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-upscaled.i1-Q3_K_L.gguf",
+            "size": "42169851232",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "bc0e18f4b4c31302ebbebaf9438ac0d58826d2c07950eb47e07237c5b2edd997",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral-8x7B-Instruct-v0.1-upscaled-i1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-upscaled.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-upscaled.i1-Q2_K.gguf",
+            "size": "30177607008",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a089c1c90e6399e838adf84bd34049063c38694811c0e01447f707a94bbc4b58",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral-8x7B-Instruct-v0.1-upscaled-i1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-upscaled.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-upscaled.i1-IQ4_XS.gguf",
+            "size": "43753930080",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "9f32b6c07f5a6d2644d4e7b64aeb231752bfa218a593cc59dd773b05e4185bb4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral-8x7B-Instruct-v0.1-upscaled-i1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-upscaled.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-upscaled.i1-IQ3_XXS.gguf",
+            "size": "31810338144",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "24462c5a915163de66249bae12d97d20f253476112f6b4e653d01f682b27bd3e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral-8x7B-Instruct-v0.1-upscaled-i1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-upscaled.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-upscaled.i1-IQ1_M.gguf",
+            "size": "18563865952",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "1314a1071aeebeade20199ae4a7c54b4289d7b447a77bc14205a2210206a93cd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral-8x7B-Instruct-v0.1-upscaled-i1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-upscaled.i1-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-upscaled.i1-IQ3_S.gguf",
+            "size": "35629882720",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "ea737d52bc46acb9f090f47a76efa8ab089c6a4a04667267c9022d2eb247b89f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral-8x7B-Instruct-v0.1-upscaled-i1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-upscaled.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-upscaled.i1-IQ3_M.gguf",
+            "size": "37376810336",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "24d6f0d9854982066827a608ca48e845f11673f3d7fbe0880852d2eca9ccc262",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral-8x7B-Instruct-v0.1-upscaled-i1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-upscaled.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-upscaled.i1-IQ2_XXS.gguf",
+            "size": "21869632864",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "50d9696c9f0370a9ffa11ec8e42a0f64db905b57b61141dd81ca01a4051c2368",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral-8x7B-Instruct-v0.1-upscaled-i1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-upscaled.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-upscaled.i1-IQ2_XS.gguf",
+            "size": "24262483296",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "58dd1656cf08bda4ae73c7b7b947e8ae2b5215851020d3ddd6a6ffe906084085",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral-8x7B-Instruct-v0.1-upscaled-i1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-upscaled.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-upscaled.i1-IQ2_S.gguf",
+            "size": "24205147488",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "de4b06a7abcb5d647d2b2f21d08f881afece524abf38755b18e67d1d6dcda8b9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral-8x7B-Instruct-v0.1-upscaled-i1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-upscaled.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-upscaled.i1-IQ2_M.gguf",
+            "size": "27002617184",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "997b2188f2a31b76ed35ff72893f0e070a62a3a6b6caa6b0383fb5c18a34fd47",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral-8x7B-Instruct-v0.1-upscaled-i1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-upscaled.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-upscaled.i1-IQ1_S.gguf",
+            "size": "16701791584",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "71b7e6e9dc42b66ac6772b46b7083a6932d0a527b82144612bf8995daec38340",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral-8x7B-Instruct-v0.1-upscaled-i1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-upscaled.i1-IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

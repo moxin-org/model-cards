@@ -1,0 +1,123 @@
+{
+    "id": "dagbs/Mistral-7B-v0.2-hf-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "dagbs",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-24T05:21:52Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Mistral-7B-v0.2-hf.Q2_K.gguf",
+            "size": "2719241984",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "6052bcc587b449b8dfa75221fa641f82bc5f0ca6fb597465980eb5043df37429",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Mistral-7B-v0.2-hf-GGUF/resolve/main/Mistral-7B-v0.2-hf.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-v0.2-hf.Q3_K_L.gguf",
+            "size": "3822024448",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "1f3e5e933de59f812cd0a27f2151571b1ea577de6f2e307c39b87f4f65e6e964",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Mistral-7B-v0.2-hf-GGUF/resolve/main/Mistral-7B-v0.2-hf.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-v0.2-hf.Q3_K_M.gguf",
+            "size": "3518985984",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "353de12deb2bf82f9226d61d1cdbc6dd03febd91f3a5ceb504e3e3422081ed65",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Mistral-7B-v0.2-hf-GGUF/resolve/main/Mistral-7B-v0.2-hf.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-v0.2-hf.Q3_K_S.gguf",
+            "size": "3164567296",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "f8c7911b314db58c90b3fc9e197eeaf693686e25f47eb75883575f7548a569c2",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Mistral-7B-v0.2-hf-GGUF/resolve/main/Mistral-7B-v0.2-hf.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-v0.2-hf.Q4_K_M.gguf",
+            "size": "4368439040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "8995ff24191dcc357f2dd09b6cece1f646eea19cd3a1f276842ac4cd85b2ebe1",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Mistral-7B-v0.2-hf-GGUF/resolve/main/Mistral-7B-v0.2-hf.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-v0.2-hf.Q4_K_S.gguf",
+            "size": "4140373760",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "f529e15366373b50d062dd9edc7817ac98c1ae6641630743f0ce05aa2ecc7c93",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Mistral-7B-v0.2-hf-GGUF/resolve/main/Mistral-7B-v0.2-hf.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-v0.2-hf.Q5_K_M.gguf",
+            "size": "5131409152",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "c49b7c3f725a7422b2562f3f4bc6c71d21dc99206f1a17f7679d064e81344dcb",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Mistral-7B-v0.2-hf-GGUF/resolve/main/Mistral-7B-v0.2-hf.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-v0.2-hf.Q5_K_S.gguf",
+            "size": "4997715712",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "480c883965b074e022894e74558f6c26af473cf6737a302b66778213964c71a7",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Mistral-7B-v0.2-hf-GGUF/resolve/main/Mistral-7B-v0.2-hf.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-v0.2-hf.Q6_K.gguf",
+            "size": "5942064896",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "98c053e037724287ea20bf9979da6790a331ce2395a90f757dc5979491f84128",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Mistral-7B-v0.2-hf-GGUF/resolve/main/Mistral-7B-v0.2-hf.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-v0.2-hf.Q8_0.gguf",
+            "size": "7695857408",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "25d63e37d4c8ef87203392f8cbc6b2dda399124c6fc8699b80900623a4691da0",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Mistral-7B-v0.2-hf-GGUF/resolve/main/Mistral-7B-v0.2-hf.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

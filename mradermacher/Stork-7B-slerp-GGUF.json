@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Stork-7B-slerp-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-01T20:27:02Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Stork-7B-slerp.IQ3_M.gguf",
+            "size": "3439516544",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "ca5df0175a319eaca2c1fc4d5549427f8e1cadce4e36f4ea613b88a38ea8bef3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Stork-7B-slerp-GGUF/resolve/main/Stork-7B-slerp.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Stork-7B-slerp.IQ3_S.gguf",
+            "size": "3337018240",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "7de7d7c693e0f38e6c92ac68bff6cba5249963613d6c13eaa3426c12c290190b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Stork-7B-slerp-GGUF/resolve/main/Stork-7B-slerp.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Stork-7B-slerp.IQ3_XS.gguf",
+            "size": "3173440384",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "e443453f876721063f9805f68f3a423246ee2d7d15e9140f833d9053bcd59801",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Stork-7B-slerp-GGUF/resolve/main/Stork-7B-slerp.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Stork-7B-slerp.IQ4_XS.gguf",
+            "size": "4099013504",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "7fb287d6182d7fae8cbeaeb7c1bf1114845e270b6f33ae855fda480a9b1a49a3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Stork-7B-slerp-GGUF/resolve/main/Stork-7B-slerp.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Stork-7B-slerp.Q2_K.gguf",
+            "size": "2873867136",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "8664714d1ac80f5537afd7a6ab2868fd7f3ee57a1ecce9d57483534a171c43fe",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Stork-7B-slerp-GGUF/resolve/main/Stork-7B-slerp.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Stork-7B-slerp.Q3_K_L.gguf",
+            "size": "3976649600",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "ceeff9552c7248cfd90677c545687c064399ab9f1f77f941fe42eaf8d52d3bad",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Stork-7B-slerp-GGUF/resolve/main/Stork-7B-slerp.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Stork-7B-slerp.Q3_K_M.gguf",
+            "size": "3673611136",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "52b471db8302361f15051cb996bb44aa1c8a98d756610e76564b24812cac20dc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Stork-7B-slerp-GGUF/resolve/main/Stork-7B-slerp.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Stork-7B-slerp.Q3_K_S.gguf",
+            "size": "3319192448",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "d4e1d5e6796d13cc967eea39173f2b6a388d0ad27bb2c53e907f84f3d117edb7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Stork-7B-slerp-GGUF/resolve/main/Stork-7B-slerp.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Stork-7B-slerp.Q4_K_M.gguf",
+            "size": "4523064192",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "2eaf22a4e28d63dfaa37a90b0dd1a2d9fc81fe7f40fa9e75d482d43445581d7a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Stork-7B-slerp-GGUF/resolve/main/Stork-7B-slerp.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Stork-7B-slerp.Q4_K_S.gguf",
+            "size": "4294998912",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "4bf41c0011985e3f62144cef20e68e251645d42c5a1c20372145b527e06226b8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Stork-7B-slerp-GGUF/resolve/main/Stork-7B-slerp.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Stork-7B-slerp.Q5_K_M.gguf",
+            "size": "5286034304",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "3087e1195952213edac272073a131f734451757743fa6edd22cb70bbb34e9f35",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Stork-7B-slerp-GGUF/resolve/main/Stork-7B-slerp.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Stork-7B-slerp.Q5_K_S.gguf",
+            "size": "5152340864",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "ac35f90a02cec07861e81cc343913fd5794e2acb6c3436f31876cd200b390560",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Stork-7B-slerp-GGUF/resolve/main/Stork-7B-slerp.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Stork-7B-slerp.Q6_K.gguf",
+            "size": "6096690048",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "a07da0913fae0c7447e63e943f2c5d164218bb8242b6b5bf3d59fd908b3bafc3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Stork-7B-slerp-GGUF/resolve/main/Stork-7B-slerp.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Stork-7B-slerp.Q8_0.gguf",
+            "size": "7818738560",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "1fae309793059cf5d2594c3bcff2b70aeb3c657b10ff97743605e0f54e0e8ae1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Stork-7B-slerp-GGUF/resolve/main/Stork-7B-slerp.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

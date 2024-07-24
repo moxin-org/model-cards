@@ -1,0 +1,43 @@
+{
+    "id": "ddh0/Tess-XS-v1.0-GGUF-fp16",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "ddh0",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-16T03:54:51Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Tess-XS-v1.0-fp16.gguf",
+            "size": "14484731456",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0e54c7083ee28803ef9bd8e5757ef24609a4e85cb8708e87427a4f6d14e97a7d",
+            "download": {
+                "default": "https://huggingface.co/ddh0/Tess-XS-v1.0-GGUF-fp16/resolve/main/Tess-XS-v1.0-fp16.gguf"
+            }
+        },
+        {
+            "name": "Tess-XS-v1.0-q8_0-LOT.gguf",
+            "size": "7818737280",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fe3e66b29fcdef101155f604c27aac7f75bc860d2b523ab2d5f30ea1146adf9d",
+            "download": {
+                "default": "https://huggingface.co/ddh0/Tess-XS-v1.0-GGUF-fp16/resolve/main/Tess-XS-v1.0-q8_0-LOT.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

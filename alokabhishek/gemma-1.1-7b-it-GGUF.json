@@ -1,0 +1,53 @@
+{
+    "id": "alokabhishek/gemma-1.1-7b-it-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "alokabhishek",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-08T18:54:41Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "FP16.gguf",
+            "size": "17081756608",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7ecb62a586ef0151a2efd5a1df5c514b46226a2a753d181867203dcb69b2939b",
+            "download": {
+                "default": "https://huggingface.co/alokabhishek/gemma-1.1-7b-it-GGUF/resolve/main/FP16.gguf"
+            }
+        },
+        {
+            "name": "Q4_K_M.gguf",
+            "size": "5329759200",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "ba3af518646b17889d8edd0f71917adcd64603c138479eb8e14fb19ba9d02233",
+            "download": {
+                "default": "https://huggingface.co/alokabhishek/gemma-1.1-7b-it-GGUF/resolve/main/Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Q5_K_M.gguf",
+            "size": "6144502752",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "983a624911520beccc95fa43bccd2944c1c328259fd91ef535ca25ff555213ec",
+            "download": {
+                "default": "https://huggingface.co/alokabhishek/gemma-1.1-7b-it-GGUF/resolve/main/Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 3072,
+    "vector_size": 0,
+    "metrics": null
+}

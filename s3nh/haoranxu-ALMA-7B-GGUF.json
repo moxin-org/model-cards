@@ -1,0 +1,93 @@
+{
+    "id": "s3nh/haoranxu-ALMA-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-03T08:36:22Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "haoranxu-ALMA-7B.Q2_K.gguf",
+            "size": "2825940672",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "83459530a12f39ad06c6429be52c09ad3d9e740d1191cce7957e29bf1af55b9f",
+            "download": {
+                "default": "https://huggingface.co/s3nh/haoranxu-ALMA-7B-GGUF/resolve/main/haoranxu-ALMA-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "haoranxu-ALMA-7B.Q3_K_S.gguf",
+            "size": "2948304576",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "b2ff84886daf6be5a3bb8f08ecf4e09c9c090af8f05d2ede2a8257035de17486",
+            "download": {
+                "default": "https://huggingface.co/s3nh/haoranxu-ALMA-7B-GGUF/resolve/main/haoranxu-ALMA-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "haoranxu-ALMA-7B.Q4_K_M.gguf",
+            "size": "4081004224",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "1f951ffb983e070afce8b57c3b2def63ea03d543c5cafd4d7a6a6bceece3ced0",
+            "download": {
+                "default": "https://huggingface.co/s3nh/haoranxu-ALMA-7B-GGUF/resolve/main/haoranxu-ALMA-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "haoranxu-ALMA-7B.Q4_K_S.gguf",
+            "size": "3856740032",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "f40997136971371bee137ba6a0ffd63e96cf49e68b780e03147bc99acf9c8b2a",
+            "download": {
+                "default": "https://huggingface.co/s3nh/haoranxu-ALMA-7B-GGUF/resolve/main/haoranxu-ALMA-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "haoranxu-ALMA-7B.Q5_K_S.gguf",
+            "size": "4651691712",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "7ffa64d2417e890cafd91473a71057b41e864d5a4d5be49f1698587cb9f331b7",
+            "download": {
+                "default": "https://huggingface.co/s3nh/haoranxu-ALMA-7B-GGUF/resolve/main/haoranxu-ALMA-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "haoranxu-ALMA-7B.Q6_K.gguf",
+            "size": "5529194176",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "5128fd2de54afb7ab5b3c97e086d7588bdb9edaa6abc17fc7dea3358f52f537a",
+            "download": {
+                "default": "https://huggingface.co/s3nh/haoranxu-ALMA-7B-GGUF/resolve/main/haoranxu-ALMA-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "haoranxu-ALMA-7B.Q8_0.gguf",
+            "size": "7161089728",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "b1847575d08380d71ee632ca1eaa75597bb62d9ec9a0fb416aa022586342fb37",
+            "download": {
+                "default": "https://huggingface.co/s3nh/haoranxu-ALMA-7B-GGUF/resolve/main/haoranxu-ALMA-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

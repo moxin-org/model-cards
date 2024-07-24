@@ -1,0 +1,103 @@
+{
+    "id": "TheBloke/SauerkrautLM-Mixtral-8x7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-25T09:28:02Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "sauerkrautlm-mixtral-8x7b.Q2_K.gguf",
+            "size": "15644043904",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "7d33919043e4abcca6709c64aa94a6cd36a8ac45fd8bf4aaf6b8e2d1e51e92b7",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/SauerkrautLM-Mixtral-8x7B-GGUF/resolve/main/sauerkrautlm-mixtral-8x7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "sauerkrautlm-mixtral-8x7b.Q3_K_M.gguf",
+            "size": "20363365824",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "8487da07ba6373924176f58a3b29deae43725f65cec0b8e9b657fb24113b29da",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/SauerkrautLM-Mixtral-8x7B-GGUF/resolve/main/sauerkrautlm-mixtral-8x7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "sauerkrautlm-mixtral-8x7b.Q4_0.gguf",
+            "size": "26441544192",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "e746debeacf282837ee740e2adf80813fab80fb9236962aa13fa78b5b52537b5",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/SauerkrautLM-Mixtral-8x7B-GGUF/resolve/main/sauerkrautlm-mixtral-8x7b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "sauerkrautlm-mixtral-8x7b.Q4_K_M.gguf",
+            "size": "26441544192",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a844dcefe937dee7c4a49cb95995eead52b79710aced6bcc85d86754b0f3d04b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/SauerkrautLM-Mixtral-8x7B-GGUF/resolve/main/sauerkrautlm-mixtral-8x7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "sauerkrautlm-mixtral-8x7b.Q5_0.gguf",
+            "size": "32229291520",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "d22674b7cdb7c9a42b44202bbeedf29e56899510b29c5fdfcf0d66e0b0786ed1",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/SauerkrautLM-Mixtral-8x7B-GGUF/resolve/main/sauerkrautlm-mixtral-8x7b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "sauerkrautlm-mixtral-8x7b.Q5_K_M.gguf",
+            "size": "32229291520",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "20b33f260fccbc9102e7eec5c757312166e6c0f49f3bc5e41323cba80845800d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/SauerkrautLM-Mixtral-8x7B-GGUF/resolve/main/sauerkrautlm-mixtral-8x7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "sauerkrautlm-mixtral-8x7b.Q6_K.gguf",
+            "size": "38378773056",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "2b35cc9b2fab61462bddc21f466b305a329885b2429edfa381e2a1818c808d62",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/SauerkrautLM-Mixtral-8x7B-GGUF/resolve/main/sauerkrautlm-mixtral-8x7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "sauerkrautlm-mixtral-8x7b.Q8_0.gguf",
+            "size": "49624279488",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "802c9b4b8f185b26ef438e26158677e218bf1a17888184b28d86fcb691729d93",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/SauerkrautLM-Mixtral-8x7B-GGUF/resolve/main/sauerkrautlm-mixtral-8x7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

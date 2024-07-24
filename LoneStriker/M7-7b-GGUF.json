@@ -1,0 +1,73 @@
+{
+    "id": "LoneStriker/M7-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LoneStriker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-02T18:49:40Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "M7-7b-Q3_K_L.gguf",
+            "size": "3822024480",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "6dce75d3c6d9bf5f78a9d8542bc65245b85df03d2d66af697e6dab3041ee7ef2",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/M7-7b-GGUF/resolve/main/M7-7b-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "M7-7b-Q4_K_M.gguf",
+            "size": "4368439072",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "d0df7251d840d19737a53261c92e03b59d36ea2151cdc8ba70fc27805cbe7225",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/M7-7b-GGUF/resolve/main/M7-7b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "M7-7b-Q5_K_M.gguf",
+            "size": "5131409184",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "19d83594a9ee075e8f2c437e971d2efef6cccf13bac6158bfbb10306c7492b3f",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/M7-7b-GGUF/resolve/main/M7-7b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "M7-7b-Q6_K.gguf",
+            "size": "5942064928",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "13ddff5a14eb9facd26464939a883a3e17e20096e7a94f00847d4735e2577587",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/M7-7b-GGUF/resolve/main/M7-7b-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "M7-7b-Q8_0.gguf",
+            "size": "7695857440",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "e74b061fdb0d7561197ea6ce5ab6bcbdcbfcbd8d10292e9643941daffa3b9518",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/M7-7b-GGUF/resolve/main/M7-7b-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "alphahg/CodeLlama-7b-hf-rust-finetune-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "alphahg",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-15T02:33:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "codellama-7b-hf-rust-finetune.q4_k_m.gguf",
+            "size": "4081095360",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a4c212e9eebdc3e232caa4fc4a0ff0ea8413a05ce7cb88a7a219e5740ad27828",
+            "download": {
+                "default": "https://huggingface.co/alphahg/CodeLlama-7b-hf-rust-finetune-GGUF/resolve/main/codellama-7b-hf-rust-finetune.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "codellama-7b-hf-rust-finetune.q5_k_m.gguf",
+            "size": "4783256256",
+            "quantization": "",
+            "tags": [],
+            "sha256": "824c62fa145b00bc6c06683c9007b5c3b97cf70e5e67c641ae0a920416e04096",
+            "download": {
+                "default": "https://huggingface.co/alphahg/CodeLlama-7b-hf-rust-finetune-GGUF/resolve/main/codellama-7b-hf-rust-finetune.q5_k_m.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

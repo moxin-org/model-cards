@@ -1,0 +1,63 @@
+{
+    "id": "jphme/em_german_13b_leo_gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "jphme",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-05T18:37:27Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "em_german_13b_leo_Q4_K_M.gguf",
+            "size": "7865956320",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "62b196aa8713b1a7c5ee79f832bdf3bf103356cacc781b70403a3a6cd72bd186",
+            "download": {
+                "default": "https://huggingface.co/jphme/em_german_13b_leo_gguf/resolve/main/em_german_13b_leo_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "em_german_13b_leo_Q4_K_S.gguf",
+            "size": "7414331360",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "00043d840b20d127b9fe5d478152ca4496b2a9a5f3d2edaf6705cf09aef18215",
+            "download": {
+                "default": "https://huggingface.co/jphme/em_german_13b_leo_gguf/resolve/main/em_german_13b_leo_Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "em_german_13b_leo_Q5_K_M.gguf",
+            "size": "9229924320",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "02eccd743a4e37ac56a977096ba9b734ea94e00013b1c2f2850a3190bb4ad67d",
+            "download": {
+                "default": "https://huggingface.co/jphme/em_german_13b_leo_gguf/resolve/main/em_german_13b_leo_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "em_german_13b_leo_Q8_0.gguf",
+            "size": "13831319520",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "fbb17b5511b2e7fe8d9548cc63593e7f5c00c68704b91c10644c0c980b8cdf88",
+            "download": {
+                "default": "https://huggingface.co/jphme/em_german_13b_leo_gguf/resolve/main/em_german_13b_leo_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

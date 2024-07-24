@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/CrystalMistral_7b_v.01-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-26T09:02:11Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "crystalmistral_7b_v.01.Q3_K_S.gguf",
+            "size": "3164567648",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "cd6be9a5348d7e3a8c3119027eb2e3f6593de5afd36323ac1aefe03e23f0250a",
+            "download": {
+                "default": "https://huggingface.co/s3nh/CrystalMistral_7b_v.01-GGUF/resolve/main/crystalmistral_7b_v.01.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "crystalmistral_7b_v.01.Q4_K_M.gguf",
+            "size": "4368439392",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a64b8856f16f8633ac229703ac725f6d2533d31e5858c81c63b89f68f9fb65dc",
+            "download": {
+                "default": "https://huggingface.co/s3nh/CrystalMistral_7b_v.01-GGUF/resolve/main/crystalmistral_7b_v.01.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "crystalmistral_7b_v.01.Q5_K_M.gguf",
+            "size": "5131409504",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "78b1233b4b5327c43d8a41a0549dda1c1cf19a7351b3373ac3b61693be07327c",
+            "download": {
+                "default": "https://huggingface.co/s3nh/CrystalMistral_7b_v.01-GGUF/resolve/main/crystalmistral_7b_v.01.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "crystalmistral_7b_v.01.Q6_K.gguf",
+            "size": "5942065248",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "f01cc7e4d5dfbe2f27340e69205e4745f3d8a1aaabe019cf458ccb1b37e432c5",
+            "download": {
+                "default": "https://huggingface.co/s3nh/CrystalMistral_7b_v.01-GGUF/resolve/main/crystalmistral_7b_v.01.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "crystalmistral_7b_v.01.Q8_0.gguf",
+            "size": "7695857760",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "b94b782a8d23b50160d162c58778e3656f15d56611638934ea08524c2bf99adf",
+            "download": {
+                "default": "https://huggingface.co/s3nh/CrystalMistral_7b_v.01-GGUF/resolve/main/crystalmistral_7b_v.01.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

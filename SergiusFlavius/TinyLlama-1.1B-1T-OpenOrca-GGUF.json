@@ -1,0 +1,53 @@
+{
+    "id": "SergiusFlavius/TinyLlama-1.1B-1T-OpenOrca-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "SergiusFlavius",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-16T12:37:24Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tinyllama-1.1b-1t-openorca.F16.gguf",
+            "size": "2201016704",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0108493fc5a6c0d15460654597172869ee5e13b5a62a020fdf78daffb4d6171f",
+            "download": {
+                "default": "https://huggingface.co/SergiusFlavius/TinyLlama-1.1B-1T-OpenOrca-GGUF/resolve/main/tinyllama-1.1b-1t-openorca.F16.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-1t-openorca.Q2_K.gguf",
+            "size": "482142656",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "af8cc056df6f0a8e7396465f25c925b6cf88384a18c588501fd74dda9730890a",
+            "download": {
+                "default": "https://huggingface.co/SergiusFlavius/TinyLlama-1.1B-1T-OpenOrca-GGUF/resolve/main/tinyllama-1.1b-1t-openorca.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-1t-openorca.Q3_K_M.gguf",
+            "size": "549845440",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "6a6e382f7ded1b2ef174ff31b3f785849404fa9e763982055abef9cc99be48c0",
+            "download": {
+                "default": "https://huggingface.co/SergiusFlavius/TinyLlama-1.1B-1T-OpenOrca-GGUF/resolve/main/tinyllama-1.1b-1t-openorca.Q3_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

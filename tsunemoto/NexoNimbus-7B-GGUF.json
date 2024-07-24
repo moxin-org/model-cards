@@ -1,0 +1,163 @@
+{
+    "id": "tsunemoto/NexoNimbus-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "tsunemoto",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-15T13:27:36Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "nexonimbus-7b.Q2_K.gguf",
+            "size": "3084034048",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "24908261edae2c198762440dc69fb8fea5c546c35c15087fabd3a0676aed5c62",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/NexoNimbus-7B-GGUF/resolve/main/nexonimbus-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "nexonimbus-7b.Q3_K_L.gguf",
+            "size": "3822960640",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "8f2e6358ea7b1911a81b2a8162f1709cd9294598d740e95653462c077912d66e",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/NexoNimbus-7B-GGUF/resolve/main/nexonimbus-7b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "nexonimbus-7b.Q3_K_M.gguf",
+            "size": "3519922176",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "82228f5006e8860a6a005b0dfea4a3162699c8bf73c16f6f3b5f04930719ebab",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/NexoNimbus-7B-GGUF/resolve/main/nexonimbus-7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "nexonimbus-7b.Q3_K_S.gguf",
+            "size": "3165503488",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "a377c635daada6ae3e33ce18bf403cd31b9cbfaa4fc2ad57a8b2ea36c556aac1",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/NexoNimbus-7B-GGUF/resolve/main/nexonimbus-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "nexonimbus-7b.Q4_0.gguf",
+            "size": "4109852672",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "df6d8334cb4386622deeaa8f104030aa5b82a47e866fcd7dcf511d8c9caeed74",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/NexoNimbus-7B-GGUF/resolve/main/nexonimbus-7b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "nexonimbus-7b.Q4_1.gguf",
+            "size": "4554252288",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "c7f2324cd3337a49f0a3e34b73af27584ea0f4c50eb14e2f2ddeddffc99ed4f1",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/NexoNimbus-7B-GGUF/resolve/main/nexonimbus-7b.Q4_1.gguf"
+            }
+        },
+        {
+            "name": "nexonimbus-7b.Q4_K_M.gguf",
+            "size": "4369375232",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "625474567deff612f5d7f0fdc96b9afb4709f1adad00a8909d9c59b6225fbd0d",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/NexoNimbus-7B-GGUF/resolve/main/nexonimbus-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "nexonimbus-7b.Q4_K_S.gguf",
+            "size": "4141309952",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "f2a8c9bbea58d303a11b2448436beaa7bd03feeb28048534feee90503b641953",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/NexoNimbus-7B-GGUF/resolve/main/nexonimbus-7b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "nexonimbus-7b.Q5_0.gguf",
+            "size": "4998651904",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "9969b5f21935ea2030f10f19b0db312701f1d6e7ce7e3f31c9a36b9cbe6758e6",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/NexoNimbus-7B-GGUF/resolve/main/nexonimbus-7b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "nexonimbus-7b.Q5_1.gguf",
+            "size": "5443051520",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "ccd5b1f14b0b90f05882850be79421f96fdfa8b41878abe7e409d01c30e7b387",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/NexoNimbus-7B-GGUF/resolve/main/nexonimbus-7b.Q5_1.gguf"
+            }
+        },
+        {
+            "name": "nexonimbus-7b.Q5_K_M.gguf",
+            "size": "5132345344",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "609feb8159870f0c67cc9e0c6ff2e125b85b30dc4cb147e4073cecae769dd103",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/NexoNimbus-7B-GGUF/resolve/main/nexonimbus-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "nexonimbus-7b.Q5_K_S.gguf",
+            "size": "4998651904",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "7f9436a724138802d3764eb84b7597f9e24a1e9b1573c676b232e099c9b58ffd",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/NexoNimbus-7B-GGUF/resolve/main/nexonimbus-7b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "nexonimbus-7b.Q6_K.gguf",
+            "size": "5943001088",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "55087e5ff8ba233df4b796bbcb5a7a076bd78a9b8283c04efb8b134482242011",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/NexoNimbus-7B-GGUF/resolve/main/nexonimbus-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "nexonimbus-7b.Q8_0.gguf",
+            "size": "7696793600",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "6b687de85326bbe5db62325cd8080948e8994fb7233a493bd3b63829a0aaddc7",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/NexoNimbus-7B-GGUF/resolve/main/nexonimbus-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

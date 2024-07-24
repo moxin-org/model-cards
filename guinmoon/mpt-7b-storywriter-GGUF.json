@@ -1,0 +1,73 @@
+{
+    "id": "guinmoon/mpt-7b-storywriter-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "guinmoon",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-16T15:18:31Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mpt-7b-storywriter-f16.gguf",
+            "size": "13714229472",
+            "quantization": "",
+            "tags": [],
+            "sha256": "71f44edcb31a3ea69c0d60cb5d9b99cfedc39de16ef61afcfff3f7c6bda78140",
+            "download": {
+                "default": "https://huggingface.co/guinmoon/mpt-7b-storywriter-GGUF/resolve/main/mpt-7b-storywriter-f16.gguf"
+            }
+        },
+        {
+            "name": "mpt-7b-storywriter-Q2_K.gguf",
+            "size": "2844944704",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "3c69325e14e3473442ee30dfb5450aca1d7619432771c684af08db96a386ea9a",
+            "download": {
+                "default": "https://huggingface.co/guinmoon/mpt-7b-storywriter-GGUF/resolve/main/mpt-7b-storywriter-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "mpt-7b-storywriter-Q3_K.gguf",
+            "size": "3616704832",
+            "quantization": "Q3_K",
+            "tags": [],
+            "sha256": "8697760cec1afd4a3bab69a0214e7eacc1cc1971fd4f23ad73a64e87eb21f606",
+            "download": {
+                "default": "https://huggingface.co/guinmoon/mpt-7b-storywriter-GGUF/resolve/main/mpt-7b-storywriter-Q3_K.gguf"
+            }
+        },
+        {
+            "name": "mpt-7b-storywriter-Q4_K.gguf",
+            "size": "4390725952",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "82a1c0a28d09c6b873fc06fcf5770663c619b0ef3da1e06ed73dd710af958763",
+            "download": {
+                "default": "https://huggingface.co/guinmoon/mpt-7b-storywriter-GGUF/resolve/main/mpt-7b-storywriter-Q4_K.gguf"
+            }
+        },
+        {
+            "name": "mpt-7b-storywriter-Q8_0.gguf",
+            "size": "7287114048",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "a30e22d0067aa9e1e304ef28214b5f30ef57148e53c0a9d69713276a3ca15fb4",
+            "download": {
+                "default": "https://huggingface.co/guinmoon/mpt-7b-storywriter-GGUF/resolve/main/mpt-7b-storywriter-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

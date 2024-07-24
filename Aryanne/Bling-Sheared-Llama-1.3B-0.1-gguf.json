@@ -1,0 +1,63 @@
+{
+    "id": "Aryanne/Bling-Sheared-Llama-1.3B-0.1-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Aryanne",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-24T18:03:59Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "f16-bling-sheared-llama-1.3b-0.1.gguf",
+            "size": "2691784128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "38e1a893f9a9949be324ad8edacf627f60c7626432b622a6bed155af6773bf6c",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/Bling-Sheared-Llama-1.3B-0.1-gguf/resolve/main/f16-bling-sheared-llama-1.3b-0.1.gguf"
+            }
+        },
+        {
+            "name": "q4_0-bling-sheared-llama-1.3b-0.1.gguf",
+            "size": "774778336",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7a05fbaea789a289097e407fb7a0829bda9c41fb2ac49bd069c0a1dd31dddc3e",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/Bling-Sheared-Llama-1.3B-0.1-gguf/resolve/main/q4_0-bling-sheared-llama-1.3b-0.1.gguf"
+            }
+        },
+        {
+            "name": "q5_1-bling-sheared-llama-1.3b-0.1.gguf",
+            "size": "1014738400",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5013b1900177463f0ccfe4fda153b5d6c2ec4401a7ad90618bbdb372aa1b9606",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/Bling-Sheared-Llama-1.3B-0.1-gguf/resolve/main/q5_1-bling-sheared-llama-1.3b-0.1.gguf"
+            }
+        },
+        {
+            "name": "q8_0-bling-sheared-llama-1.3b-0.1.gguf",
+            "size": "1430543840",
+            "quantization": "",
+            "tags": [],
+            "sha256": "131287ec5740c671f475e8ad76c6a34f693d7658370c261f1b4b71a7126c42e0",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/Bling-Sheared-Llama-1.3B-0.1-gguf/resolve/main/q8_0-bling-sheared-llama-1.3b-0.1.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

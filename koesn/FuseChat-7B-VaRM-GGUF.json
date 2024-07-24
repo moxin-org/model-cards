@@ -1,0 +1,113 @@
+{
+    "id": "koesn/FuseChat-7B-VaRM-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "koesn",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-04T01:13:31Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "fusechat-7b-varm.IQ3_M.gguf",
+            "size": "3284901888",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "430007eadeebc467ed58b05d6274ef57852d1b42b09c3db64d5c85699af6c4aa",
+            "download": {
+                "default": "https://huggingface.co/koesn/FuseChat-7B-VaRM-GGUF/resolve/main/fusechat-7b-varm.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "fusechat-7b-varm.IQ3_S.gguf",
+            "size": "3182403584",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "4452984f2ee81767383cba69724ea6acc4fe813ece3e9bc3aa9655735adcef85",
+            "download": {
+                "default": "https://huggingface.co/koesn/FuseChat-7B-VaRM-GGUF/resolve/main/fusechat-7b-varm.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "fusechat-7b-varm.IQ3_XXS.gguf",
+            "size": "3023389760",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "09c7d4bfd6279d4a37c62aa52acd4edeab4f12d02752d52f5200c6ee02b436d1",
+            "download": {
+                "default": "https://huggingface.co/koesn/FuseChat-7B-VaRM-GGUF/resolve/main/fusechat-7b-varm.IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "fusechat-7b-varm.IQ4_NL.gguf",
+            "size": "4155065408",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "e74829ad559c93c4e672fbb440034f464bfa744b73194925df48844bdfef495c",
+            "download": {
+                "default": "https://huggingface.co/koesn/FuseChat-7B-VaRM-GGUF/resolve/main/fusechat-7b-varm.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "fusechat-7b-varm.Q4_0.gguf",
+            "size": "4108928064",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "cdd655639adf2a2b9c2a1e9956b03439240fae823dae809ea6ca69881f6b853a",
+            "download": {
+                "default": "https://huggingface.co/koesn/FuseChat-7B-VaRM-GGUF/resolve/main/fusechat-7b-varm.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "fusechat-7b-varm.Q4_K_M.gguf",
+            "size": "4368450624",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "0e25e651515e123dbaa12d52d45b4cd30d3fb51f1abffbea724001480bb0785b",
+            "download": {
+                "default": "https://huggingface.co/koesn/FuseChat-7B-VaRM-GGUF/resolve/main/fusechat-7b-varm.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "fusechat-7b-varm.Q5_K_M.gguf",
+            "size": "5131421760",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "829b8f90339aec3b4ed69a5f66bee2877c79791ac179dd3092f296791ee4a7eb",
+            "download": {
+                "default": "https://huggingface.co/koesn/FuseChat-7B-VaRM-GGUF/resolve/main/fusechat-7b-varm.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "fusechat-7b-varm.Q6_K.gguf",
+            "size": "5942078592",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "bab6943b6fa88e4096e1bab2a5873ca4afde92bda98d62adefe9e0620fb40f8c",
+            "download": {
+                "default": "https://huggingface.co/koesn/FuseChat-7B-VaRM-GGUF/resolve/main/fusechat-7b-varm.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "fusechat-7b-varm.Q8_0.gguf",
+            "size": "7695875072",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "24cf1a07be834e8eae989893c27ae7b44c2ffc01905c9dab07dfdff62f027d5a",
+            "download": {
+                "default": "https://huggingface.co/koesn/FuseChat-7B-VaRM-GGUF/resolve/main/fusechat-7b-varm.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

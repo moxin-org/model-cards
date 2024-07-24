@@ -1,0 +1,43 @@
+{
+    "id": "gate369/e.star.7b-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "gate369",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-24T22:17:07Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "e.star.7b-gguf-unsloth.Q4_K_M.gguf",
+            "size": "4368439072",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "fadc8c972a47d96c34533f85e24bf02cf57d56f40df6abe604168a4b118104bc",
+            "download": {
+                "default": "https://huggingface.co/gate369/e.star.7b-gguf/resolve/main/e.star.7b-gguf-unsloth.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "e.star.7b.F16.gguf",
+            "size": "14484731616",
+            "quantization": "",
+            "tags": [],
+            "sha256": "eff19246b6ade9655a05a8d8069dc2359c907e014a05cbf033382ea94a574943",
+            "download": {
+                "default": "https://huggingface.co/gate369/e.star.7b-gguf/resolve/main/e.star.7b.F16.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

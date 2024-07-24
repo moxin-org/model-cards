@@ -1,0 +1,133 @@
+{
+    "id": "brittlewis12/Kunoichi-DPO-v2-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "brittlewis12",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-16T16:33:41Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "kunoichi-dpo-v2-7b.fp16.gguf",
+            "size": "14484731456",
+            "quantization": "",
+            "tags": [],
+            "sha256": "16f23c9fa904a1f83fe0dfd4b979eb852873fdf259e9fddd249319574df7ad84",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Kunoichi-DPO-v2-7B-GGUF/resolve/main/kunoichi-dpo-v2-7b.fp16.gguf"
+            }
+        },
+        {
+            "name": "kunoichi-dpo-v2-7b.Q2_K.gguf",
+            "size": "2719241856",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "0a777d29da809660d108055fa6e5bed11c02746aba56ea3190dd532760a15657",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Kunoichi-DPO-v2-7B-GGUF/resolve/main/kunoichi-dpo-v2-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "kunoichi-dpo-v2-7b.Q3_K_L.gguf",
+            "size": "3822024320",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "dba1966da36b9d7058d538ae6d820507ba55c2a336749bbc4f2630f11434719a",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Kunoichi-DPO-v2-7B-GGUF/resolve/main/kunoichi-dpo-v2-7b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "kunoichi-dpo-v2-7b.Q3_K_M.gguf",
+            "size": "3518985856",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "cdef58a1dcfdc58cd1e50c3cae82322f5cbfb3ed19aa690d168a9b27772cc5d9",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Kunoichi-DPO-v2-7B-GGUF/resolve/main/kunoichi-dpo-v2-7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "kunoichi-dpo-v2-7b.Q3_K_S.gguf",
+            "size": "3164567168",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "3b8c7457d1b43ef92a11a8e9c5f04c6f77d1db2e30a756bab60db372f22dac81",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Kunoichi-DPO-v2-7B-GGUF/resolve/main/kunoichi-dpo-v2-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "kunoichi-dpo-v2-7b.Q4_K_M.gguf",
+            "size": "4368438912",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "04092c261484a93af35e2cb6ae255c6856ed5490e4bb4e208e1ee6cd056aaa82",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Kunoichi-DPO-v2-7B-GGUF/resolve/main/kunoichi-dpo-v2-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "kunoichi-dpo-v2-7b.Q4_K_S.gguf",
+            "size": "4140373632",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "aa55ee80d859e0ce3d48c4ae02e2ed9a6e931bcb9d5828eb94239540fc7001a2",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Kunoichi-DPO-v2-7B-GGUF/resolve/main/kunoichi-dpo-v2-7b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "kunoichi-dpo-v2-7b.Q5_K_M.gguf",
+            "size": "5131409024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "d5a8f2934ec0a2c4985fdc756be336905d92f6ad932738ba282fd17493bf466d",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Kunoichi-DPO-v2-7B-GGUF/resolve/main/kunoichi-dpo-v2-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "kunoichi-dpo-v2-7b.Q5_K_S.gguf",
+            "size": "4997715584",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "1d5d3e9a3e8c6624d8da6661834573a0b21319b137026fb93517bef9970522a2",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Kunoichi-DPO-v2-7B-GGUF/resolve/main/kunoichi-dpo-v2-7b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "kunoichi-dpo-v2-7b.Q6_K.gguf",
+            "size": "5942064768",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "5139461db226480cbd26897c4eb12ee72be33f260d8a59e2f89fba2ae5d3b25b",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Kunoichi-DPO-v2-7B-GGUF/resolve/main/kunoichi-dpo-v2-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "kunoichi-dpo-v2-7b.Q8_0.gguf",
+            "size": "7695857280",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "2ae9f666e36cb6bbb705a5ef4e895e9fe2be6565d09fde0a5188ecb63184fd71",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Kunoichi-DPO-v2-7B-GGUF/resolve/main/kunoichi-dpo-v2-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

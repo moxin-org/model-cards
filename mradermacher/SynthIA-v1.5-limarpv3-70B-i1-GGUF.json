@@ -1,0 +1,193 @@
+{
+    "id": "mradermacher/SynthIA-v1.5-limarpv3-70B-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-06T20:24:16Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "SynthIA-v1.5-limarpv3-70B.i1-IQ3_XXS.gguf",
+            "size": "26925528032",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "c397b9d6c3956054d112f754f3d5b46eb459e1b8d8a8cd8ffcc565a897ea19bc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SynthIA-v1.5-limarpv3-70B-i1-GGUF/resolve/main/SynthIA-v1.5-limarpv3-70B.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "SynthIA-v1.5-limarpv3-70B.i1-Q5_K_S.gguf",
+            "size": "47770645472",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "b106d806ad9988b4ff78fef11ecd147c63a670591985954b771f1b3dae078b88",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SynthIA-v1.5-limarpv3-70B-i1-GGUF/resolve/main/SynthIA-v1.5-limarpv3-70B.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "SynthIA-v1.5-limarpv3-70B.i1-Q5_K_M.gguf",
+            "size": "49063015392",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "fdee37bdcf67866b82ee7c8158ebb5accf2e4d8ff6dcd14b2c4ec491c52b90f8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SynthIA-v1.5-limarpv3-70B-i1-GGUF/resolve/main/SynthIA-v1.5-limarpv3-70B.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "SynthIA-v1.5-limarpv3-70B.i1-Q4_K_S.gguf",
+            "size": "39558984672",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "191ebe897d7df5eaa31c65704f01e434b9e4c3a5d25ae6e66bc82810d3bc9d1f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SynthIA-v1.5-limarpv3-70B-i1-GGUF/resolve/main/SynthIA-v1.5-limarpv3-70B.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "SynthIA-v1.5-limarpv3-70B.i1-Q4_K_M.gguf",
+            "size": "41732158432",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "cbec1c43bc84eca0e558be14abd81721449593f49628c722123942f8fb71f77d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SynthIA-v1.5-limarpv3-70B-i1-GGUF/resolve/main/SynthIA-v1.5-limarpv3-70B.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "SynthIA-v1.5-limarpv3-70B.i1-Q3_K_S.gguf",
+            "size": "30228542432",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "6dd28b5917b894f420b9917c0f26d852323c75a0308ccf15325dd20ce27a98d9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SynthIA-v1.5-limarpv3-70B-i1-GGUF/resolve/main/SynthIA-v1.5-limarpv3-70B.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "SynthIA-v1.5-limarpv3-70B.i1-Q3_K_M.gguf",
+            "size": "33583985632",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "c118faea8d98f3d67fdaf51541e376ae00d1cc2bef45f0bd204e5d0472647d22",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SynthIA-v1.5-limarpv3-70B-i1-GGUF/resolve/main/SynthIA-v1.5-limarpv3-70B.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "SynthIA-v1.5-limarpv3-70B.i1-Q3_K_L.gguf",
+            "size": "36457083872",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "07bf5faca77960aaccdeb23a0cbe675c47d9b3637582d233527d15d56ecf75e1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SynthIA-v1.5-limarpv3-70B-i1-GGUF/resolve/main/SynthIA-v1.5-limarpv3-70B.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "SynthIA-v1.5-limarpv3-70B.i1-Q2_K.gguf",
+            "size": "25771684832",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "312a3722508df3f20a130ebcf29a96160f639140a3c64f782118ef4a0de5f099",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SynthIA-v1.5-limarpv3-70B-i1-GGUF/resolve/main/SynthIA-v1.5-limarpv3-70B.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "SynthIA-v1.5-limarpv3-70B.i1-IQ1_S.gguf",
+            "size": "14879601632",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "ddb2d9a4740bed44cbb9393bee0138604ad3b892fdc826dc71a4c9caca52487e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SynthIA-v1.5-limarpv3-70B-i1-GGUF/resolve/main/SynthIA-v1.5-limarpv3-70B.i1-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "SynthIA-v1.5-limarpv3-70B.i1-IQ3_XS.gguf",
+            "size": "28451206112",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "86b54d5e41cb40f0116b3de63c13d7b110486ac397e8e70cb816d3517195af74",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SynthIA-v1.5-limarpv3-70B-i1-GGUF/resolve/main/SynthIA-v1.5-limarpv3-70B.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "SynthIA-v1.5-limarpv3-70B.i1-IQ3_S.gguf",
+            "size": "30228542432",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "4e9459d514f7e614f747d999f36e008e79dca9d87de6859e52b45ca86e698e2b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SynthIA-v1.5-limarpv3-70B-i1-GGUF/resolve/main/SynthIA-v1.5-limarpv3-70B.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "SynthIA-v1.5-limarpv3-70B.i1-IQ3_M.gguf",
+            "size": "31253525472",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "f066c8b9808a365578f037f9e6b29093e3c3b8d4e254b0985b8abc7b949da6c3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SynthIA-v1.5-limarpv3-70B-i1-GGUF/resolve/main/SynthIA-v1.5-limarpv3-70B.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "SynthIA-v1.5-limarpv3-70B.i1-IQ2_XXS.gguf",
+            "size": "18633503712",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "6765159707587495d5f98a59d46f247ca795f986c4aa23d6c971dba940c66414",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SynthIA-v1.5-limarpv3-70B-i1-GGUF/resolve/main/SynthIA-v1.5-limarpv3-70B.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "SynthIA-v1.5-limarpv3-70B.i1-IQ2_XS.gguf",
+            "size": "20678226912",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "8bece3c056e97c37a44aeac1afad3a07f9adfe1e137c0ea05f248e5bc133a3c8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SynthIA-v1.5-limarpv3-70B-i1-GGUF/resolve/main/SynthIA-v1.5-limarpv3-70B.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "SynthIA-v1.5-limarpv3-70B.i1-IQ2_S.gguf",
+            "size": "21698376672",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "b99a1aab597f87fa9c7581eb050a27a5d374412328d91531f484ed0385d4d907",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SynthIA-v1.5-limarpv3-70B-i1-GGUF/resolve/main/SynthIA-v1.5-limarpv3-70B.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "SynthIA-v1.5-limarpv3-70B.i1-IQ2_M.gguf",
+            "size": "23575327712",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "3848ea7e738c5b2a78802653e7abe463228adb0c141466049b9998f5326b3676",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SynthIA-v1.5-limarpv3-70B-i1-GGUF/resolve/main/SynthIA-v1.5-limarpv3-70B.i1-IQ2_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

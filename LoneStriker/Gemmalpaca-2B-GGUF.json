@@ -1,0 +1,73 @@
+{
+    "id": "LoneStriker/Gemmalpaca-2B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LoneStriker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-27T17:43:55Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Gemmalpaca-2B-Q3_K_L.gguf",
+            "size": "1465590912",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "9146c8d91f246277615a1571d747c609d46cbed917c6b3200e85e69dfa8a927d",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Gemmalpaca-2B-GGUF/resolve/main/Gemmalpaca-2B-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Gemmalpaca-2B-Q4_K_M.gguf",
+            "size": "1630262400",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "33b7f5b8b25bbc56efad5d263b20984f13cde0f7be06acfd534bc10eb4dc9b89",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Gemmalpaca-2B-GGUF/resolve/main/Gemmalpaca-2B-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Gemmalpaca-2B-Q5_K_M.gguf",
+            "size": "1839649920",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "7a30f0d47554e9b69e1297f611cd8b411dfb924b2bc5f478f321c1d12c255c5d",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Gemmalpaca-2B-GGUF/resolve/main/Gemmalpaca-2B-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Gemmalpaca-2B-Q6_K.gguf",
+            "size": "2062124160",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "c3652a6c6499f930328fd23007d9cc3e2c923b3ba5047ee3d23e43c248e3d3ee",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Gemmalpaca-2B-GGUF/resolve/main/Gemmalpaca-2B-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Gemmalpaca-2B-Q8_0.gguf",
+            "size": "2669069440",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "a5241913f1e11258d2e63abeaf607f59b69c4e8bdefa2bf90535f421a6460685",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Gemmalpaca-2B-GGUF/resolve/main/Gemmalpaca-2B-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

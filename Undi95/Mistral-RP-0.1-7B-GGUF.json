@@ -1,0 +1,73 @@
+{
+    "id": "Undi95/Mistral-RP-0.1-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Undi95",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-29T18:29:28Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Mistral-RP-0.1-7B.fp16.gguf",
+            "size": "14484731456",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b13c0d1c1d502066b8d2e9a90b0a6a32a4786395e3c7ae0a8a2c2df52b4b361c",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-RP-0.1-7B-GGUF/resolve/main/Mistral-RP-0.1-7B.fp16.gguf"
+            }
+        },
+        {
+            "name": "Mistral-RP-0.1-7B.q4_k_s.gguf",
+            "size": "4140373632",
+            "quantization": "",
+            "tags": [],
+            "sha256": "50bf59b498062a1f418bce9c88f9e8bb630a023aa027be221ce38bcccd1839b5",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-RP-0.1-7B-GGUF/resolve/main/Mistral-RP-0.1-7B.q4_k_s.gguf"
+            }
+        },
+        {
+            "name": "Mistral-RP-0.1-7B.q5_k_m.gguf",
+            "size": "5131409024",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1db3c26a41adb6cad858f8437b24c58c452e3d8f298af7bbaac51a12d9e529f4",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-RP-0.1-7B-GGUF/resolve/main/Mistral-RP-0.1-7B.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "Mistral-RP-0.1-7B.q6_k.gguf",
+            "size": "5942064768",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b4e6de81dd46de186b9da8f23b7143b6885fb7798fc9735b383eb6e341ec9479",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-RP-0.1-7B-GGUF/resolve/main/Mistral-RP-0.1-7B.q6_k.gguf"
+            }
+        },
+        {
+            "name": "Mistral-RP-0.1-7B.q8_0.gguf",
+            "size": "7695857280",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fc1b59a9b1d516291540faf99695745f25b34d04ad175635a8e75652ee662f56",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-RP-0.1-7B-GGUF/resolve/main/Mistral-RP-0.1-7B.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

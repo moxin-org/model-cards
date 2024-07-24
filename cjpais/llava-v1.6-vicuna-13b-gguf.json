@@ -1,0 +1,103 @@
+{
+    "id": "cjpais/llava-v1.6-vicuna-13b-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "cjpais",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-17T16:53:55Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llava-v1.6-vicuna-13b.Q3_K_M.gguf",
+            "size": "6337769472",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "345059c90694713efc58ac880e8f274a8434ed326bfa1fb535a1eeccb1f4994b",
+            "download": {
+                "default": "https://huggingface.co/cjpais/llava-v1.6-vicuna-13b-gguf/resolve/main/llava-v1.6-vicuna-13b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "llava-v1.6-vicuna-13b.Q3_K_XS.gguf",
+            "size": "5311946752",
+            "quantization": "Q3_K_XS",
+            "tags": [],
+            "sha256": "b740e6f71620778346c8803a6fe55f30f2d97a4e1a2eabe4df1c19a01dd6f576",
+            "download": {
+                "default": "https://huggingface.co/cjpais/llava-v1.6-vicuna-13b-gguf/resolve/main/llava-v1.6-vicuna-13b.Q3_K_XS.gguf"
+            }
+        },
+        {
+            "name": "llava-v1.6-vicuna-13b.Q4_K_M.gguf",
+            "size": "7865956352",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "3dc41611247c80cbe52172da8d82bf14cb3e762ad7b5617af3ecebc040fc7f05",
+            "download": {
+                "default": "https://huggingface.co/cjpais/llava-v1.6-vicuna-13b-gguf/resolve/main/llava-v1.6-vicuna-13b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "llava-v1.6-vicuna-13b.Q5_K_M.gguf",
+            "size": "9229924352",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "fac8ecd642ac1c2dd8ef8fb6d6daac349293051b468f5fdc21921b94dfb2916a",
+            "download": {
+                "default": "https://huggingface.co/cjpais/llava-v1.6-vicuna-13b-gguf/resolve/main/llava-v1.6-vicuna-13b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "llava-v1.6-vicuna-13b.Q5_K_S.gguf",
+            "size": "8972285952",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "ceef80d5bbda2d4250bacc7ae787bd614e3c82fa60834ca6a4e68d086dd428d8",
+            "download": {
+                "default": "https://huggingface.co/cjpais/llava-v1.6-vicuna-13b-gguf/resolve/main/llava-v1.6-vicuna-13b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "llava-v1.6-vicuna-13b.Q6_K.gguf",
+            "size": "10679140352",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "10ac7b9b5a700da070606e6163606b029c06d188183f9e9f27d3e32380374758",
+            "download": {
+                "default": "https://huggingface.co/cjpais/llava-v1.6-vicuna-13b-gguf/resolve/main/llava-v1.6-vicuna-13b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "llava-v1.6-vicuna-13b.Q8_0.gguf",
+            "size": "13831319552",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "0ad4b052e935703dfeb9acb549fcf9d5d7cb8d04338a3861c1eb9cba3f95eefb",
+            "download": {
+                "default": "https://huggingface.co/cjpais/llava-v1.6-vicuna-13b-gguf/resolve/main/llava-v1.6-vicuna-13b.Q8_0.gguf"
+            }
+        },
+        {
+            "name": "mmproj-model-f16.gguf",
+            "size": "645434976",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9860fbc162d6df40d12f32211aed11ab4826e16e473e6fff595496b9943872e2",
+            "download": {
+                "default": "https://huggingface.co/cjpais/llava-v1.6-vicuna-13b-gguf/resolve/main/mmproj-model-f16.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

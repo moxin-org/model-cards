@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/minotaur-13B-fixed-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-20T01:03:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "minotaur-13b.Q2_K.gguf",
+            "size": "5429348288",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a44d91ae207c2ec0f161cbcda0aff340ea241c81d774eeaa66fa59592b5a75b5",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/minotaur-13B-fixed-GGUF/resolve/main/minotaur-13b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "minotaur-13b.Q3_K_L.gguf",
+            "size": "6929559488",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "7a9e490aa651aa3f76f163632964653bd356960a0d8aa1a269506ab90bd1b6cb",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/minotaur-13B-fixed-GGUF/resolve/main/minotaur-13b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "minotaur-13b.Q3_K_M.gguf",
+            "size": "6337769408",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "4fb05340fb7cac37c37470d3a0acb5d2f9f5f7015df617185aeefafa4d917f89",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/minotaur-13B-fixed-GGUF/resolve/main/minotaur-13b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "minotaur-13b.Q3_K_S.gguf",
+            "size": "5658980288",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "70dea05b6bf3d6e0950e3af58c073abbea93d73ae3a1c43397288144a01fd92d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/minotaur-13B-fixed-GGUF/resolve/main/minotaur-13b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "minotaur-13b.Q4_0.gguf",
+            "size": "7365834688",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "e3a3610cea420e093fc47aa28db730f55029428938bfa5d610daed98986090f9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/minotaur-13B-fixed-GGUF/resolve/main/minotaur-13b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "minotaur-13b.Q4_K_M.gguf",
+            "size": "7865956288",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "1e62eea56d927cb7b126d40519e27258ff9bb670e01d7bb9e74db257d4b63b36",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/minotaur-13B-fixed-GGUF/resolve/main/minotaur-13b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "minotaur-13b.Q4_K_S.gguf",
+            "size": "7414331328",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "eabb4421db586df4ceb78c5f5abad8c6bd2d3d664dfdcf9add8d5bbb8670bf10",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/minotaur-13B-fixed-GGUF/resolve/main/minotaur-13b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "minotaur-13b.Q5_0.gguf",
+            "size": "8972285888",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "a5f30323884ce5d263f0e709cf2da49554466a09a9512713cf9d9ac914c4339d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/minotaur-13B-fixed-GGUF/resolve/main/minotaur-13b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "minotaur-13b.Q5_K_M.gguf",
+            "size": "9229924288",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "895fb3402017ab2eac684a171144d0532fbc7953d45b4931e96c056788a56dfe",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/minotaur-13B-fixed-GGUF/resolve/main/minotaur-13b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "minotaur-13b.Q5_K_S.gguf",
+            "size": "8972285888",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "491905b83ee9e806bf33832bf68f11e25f5f8db7ff7914ba37e3ed76d91c1249",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/minotaur-13B-fixed-GGUF/resolve/main/minotaur-13b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "minotaur-13b.Q6_K.gguf",
+            "size": "10679140288",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "2d4841cb5d277edd9b5d933d21c9b4748e2adb0207f91dfdfb2c210113ead26f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/minotaur-13B-fixed-GGUF/resolve/main/minotaur-13b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "minotaur-13b.Q8_0.gguf",
+            "size": "13831319488",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "fba4b17841ef9072a1c96dcc9501ae1f1928036e031da2d5491f853a2c4c4ec1",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/minotaur-13B-fixed-GGUF/resolve/main/minotaur-13b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,43 @@
+{
+    "id": "Sashkanik13/openllama-3b-ru-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Sashkanik13",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-21T17:13:20Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llama-3b-q2.gguf",
+            "size": "2148981152",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2582ba98239243ef45b07ba3b3b29788aa284eb8f27bf21a6b63d4b26760c8a2",
+            "download": {
+                "default": "https://huggingface.co/Sashkanik13/openllama-3b-ru-gguf/resolve/main/llama-3b-q2.gguf"
+            }
+        },
+        {
+            "name": "llama-3b-q8.gguf",
+            "size": "3642869120",
+            "quantization": "",
+            "tags": [],
+            "sha256": "351b1c980f006318f9a075a426ed42a3497088fec4dc1e528b85ed5e2f6ee1a3",
+            "download": {
+                "default": "https://huggingface.co/Sashkanik13/openllama-3b-ru-gguf/resolve/main/llama-3b-q8.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

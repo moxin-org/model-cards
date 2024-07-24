@@ -1,0 +1,153 @@
+{
+    "id": "second-state/Gemma-2-9B-Chinese-Chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-07-02T03:44:22Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Gemma-2-9B-Chinese-Chat-f16.gguf",
+            "size": "18490680640",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3e68a3c25e0658d330e9cacc397bde8eaf16deee9f3494ceffb39ab37e479033",
+            "download": {
+                "default": "https://huggingface.co/second-state/Gemma-2-9B-Chinese-Chat-GGUF/resolve/main/Gemma-2-9B-Chinese-Chat-f16.gguf"
+            }
+        },
+        {
+            "name": "Gemma-2-9B-Chinese-Chat-Q2_K.gguf",
+            "size": "3805398336",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "38fd29f2de941ff6820d7bc3014f7bb2956830abe1770e227464a5cefc688cae",
+            "download": {
+                "default": "https://huggingface.co/second-state/Gemma-2-9B-Chinese-Chat-GGUF/resolve/main/Gemma-2-9B-Chinese-Chat-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Gemma-2-9B-Chinese-Chat-Q3_K_L.gguf",
+            "size": "5132453184",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "5a86244179dd5817356996ac5ac0b5c50c5547e0691313f0aeff378bedaf569d",
+            "download": {
+                "default": "https://huggingface.co/second-state/Gemma-2-9B-Chinese-Chat-GGUF/resolve/main/Gemma-2-9B-Chinese-Chat-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Gemma-2-9B-Chinese-Chat-Q3_K_M.gguf",
+            "size": "4761781568",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "b90c9deab6d9eb2b905813c26d51252c951342d1a115a5947c3f2c43c1281864",
+            "download": {
+                "default": "https://huggingface.co/second-state/Gemma-2-9B-Chinese-Chat-GGUF/resolve/main/Gemma-2-9B-Chinese-Chat-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Gemma-2-9B-Chinese-Chat-Q3_K_S.gguf",
+            "size": "4337665344",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "2c091b47bf0de9957e2dd9cda0803f847061cf966b25df3df1ef61c506c844f3",
+            "download": {
+                "default": "https://huggingface.co/second-state/Gemma-2-9B-Chinese-Chat-GGUF/resolve/main/Gemma-2-9B-Chinese-Chat-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Gemma-2-9B-Chinese-Chat-Q4_0.gguf",
+            "size": "5443142976",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "51fec844e9785a4990a2a4162bcce4220c1ff3dfeef889d0f2269a1dc727159b",
+            "download": {
+                "default": "https://huggingface.co/second-state/Gemma-2-9B-Chinese-Chat-GGUF/resolve/main/Gemma-2-9B-Chinese-Chat-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Gemma-2-9B-Chinese-Chat-Q4_K_M.gguf",
+            "size": "5761058112",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "915797794ce8cded7d1eda142046605980fb62e8bcc04ed6ecb43bc419c29daf",
+            "download": {
+                "default": "https://huggingface.co/second-state/Gemma-2-9B-Chinese-Chat-GGUF/resolve/main/Gemma-2-9B-Chinese-Chat-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Gemma-2-9B-Chinese-Chat-Q4_K_S.gguf",
+            "size": "5478925632",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "c39082f397653a43d368922894dd408a12c3f994d58539d69552d5d021649554",
+            "download": {
+                "default": "https://huggingface.co/second-state/Gemma-2-9B-Chinese-Chat-GGUF/resolve/main/Gemma-2-9B-Chinese-Chat-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Gemma-2-9B-Chinese-Chat-Q5_0.gguf",
+            "size": "6483592512",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "7c208bb333cc56cee436c9ae95ebcaea12dfb0b8bdc1591d49a76a852f19c526",
+            "download": {
+                "default": "https://huggingface.co/second-state/Gemma-2-9B-Chinese-Chat-GGUF/resolve/main/Gemma-2-9B-Chinese-Chat-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Gemma-2-9B-Chinese-Chat-Q5_K_M.gguf",
+            "size": "6647366976",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "bd30f308b13b770e507e0b42f4e274476267ffa2e1feb2d8ce6dc5d9034dd1ee",
+            "download": {
+                "default": "https://huggingface.co/second-state/Gemma-2-9B-Chinese-Chat-GGUF/resolve/main/Gemma-2-9B-Chinese-Chat-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Gemma-2-9B-Chinese-Chat-Q5_K_S.gguf",
+            "size": "6483592512",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "b1cdc271a6c716a167f3c339b74ec8218b1e2a787ef65a1a9e8d80ebd1921df2",
+            "download": {
+                "default": "https://huggingface.co/second-state/Gemma-2-9B-Chinese-Chat-GGUF/resolve/main/Gemma-2-9B-Chinese-Chat-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Gemma-2-9B-Chinese-Chat-Q6_K.gguf",
+            "size": "7589070144",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "d17fc02831b3a1f34b60e3399721f5deb042b038c0f4c769f031d99db8de8614",
+            "download": {
+                "default": "https://huggingface.co/second-state/Gemma-2-9B-Chinese-Chat-GGUF/resolve/main/Gemma-2-9B-Chinese-Chat-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Gemma-2-9B-Chinese-Chat-Q8_0.gguf",
+            "size": "9827149120",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "492e309a5df1b6d2193c18a9891178c825087139fcb8260c4b2329de1f1251a8",
+            "download": {
+                "default": "https://huggingface.co/second-state/Gemma-2-9B-Chinese-Chat-GGUF/resolve/main/Gemma-2-9B-Chinese-Chat-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 3584,
+    "vector_size": 0,
+    "metrics": null
+}

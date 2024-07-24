@@ -1,0 +1,53 @@
+{
+    "id": "macadeliccc/SOLAR-2x10.7B-truthy-dpo-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "macadeliccc",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-27T20:28:47Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "SOLAR-2x10.7B-truthy-dpo.q2_k.gguf",
+            "size": "7064824736",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f26ce3e961676dc10181d10d3256b4a457e8477e10a65423c25da328dbeb21a2",
+            "download": {
+                "default": "https://huggingface.co/macadeliccc/SOLAR-2x10.7B-truthy-dpo-GGUF/resolve/main/SOLAR-2x10.7B-truthy-dpo.q2_k.gguf"
+            }
+        },
+        {
+            "name": "SOLAR-2x10.7B-truthy-dpo.q3_k_m.gguf",
+            "size": "9226144672",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1f6bb9741446176618a0849e89923358edd5e4792dea1e72ff6b351883dd2270",
+            "download": {
+                "default": "https://huggingface.co/macadeliccc/SOLAR-2x10.7B-truthy-dpo-GGUF/resolve/main/SOLAR-2x10.7B-truthy-dpo.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "SOLAR-2x10.7B-truthy-dpo.q4_0.gguf",
+            "size": "10829523872",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0a83c00cc9d998a6ccf22638390eae1732a8dc9b660d731c0661d20ebe9c1858",
+            "download": {
+                "default": "https://huggingface.co/macadeliccc/SOLAR-2x10.7B-truthy-dpo-GGUF/resolve/main/SOLAR-2x10.7B-truthy-dpo.q4_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,53 @@
+{
+    "id": "iandennismiller/TinyLlama-1.1B-Chat-v0.3-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "iandennismiller",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-09T12:35:35Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tinyllama-1.1b-chat-v0.3.f16.gguf",
+            "size": "2201041440",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d6e124f85a37ebd0ee18e78c9acc04c08463e6a1e237df103c7e1ee1a90b6528",
+            "download": {
+                "default": "https://huggingface.co/iandennismiller/TinyLlama-1.1B-Chat-v0.3-GGUF/resolve/main/tinyllama-1.1b-chat-v0.3.f16.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v0.3.Q4_K_S.gguf",
+            "size": "642763648",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "4c49223a00c93d86eb80b9646e3f818da28bc69cfac4a943c2190dcc1b358961",
+            "download": {
+                "default": "https://huggingface.co/iandennismiller/TinyLlama-1.1B-Chat-v0.3-GGUF/resolve/main/tinyllama-1.1b-chat-v0.3.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v0.3.Q6_K.gguf",
+            "size": "903422400",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "4de14feaabf80af4d36a0fbe5927a99a24f136c2f7419b94e629df253a745d91",
+            "download": {
+                "default": "https://huggingface.co/iandennismiller/TinyLlama-1.1B-Chat-v0.3-GGUF/resolve/main/tinyllama-1.1b-chat-v0.3.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

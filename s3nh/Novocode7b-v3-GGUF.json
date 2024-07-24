@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/Novocode7b-v3-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-26T09:11:10Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "novocode7b-v3.Q3_K_S.gguf",
+            "size": "3164567200",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "09b44026b9e40abdc6323f445b77d7dfa5e18f5a975a8733076a814d1856e891",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Novocode7b-v3-GGUF/resolve/main/novocode7b-v3.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "novocode7b-v3.Q4_K_M.gguf",
+            "size": "4368438944",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a75c0d8e34a2228715c6d0c0dd27ea67ae95b077298a7fef4c681143f09a589a",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Novocode7b-v3-GGUF/resolve/main/novocode7b-v3.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "novocode7b-v3.Q5_K_M.gguf",
+            "size": "5131409056",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "8ebeb9d614b803a07a28398d2fe37032c94862aeab98e14b8baa4a0b3cfe3956",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Novocode7b-v3-GGUF/resolve/main/novocode7b-v3.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "novocode7b-v3.Q6_K.gguf",
+            "size": "5942064800",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "10ae3bd0ad865758116555077495af74b08bbd32cd42a1bde1ddef18df1fc830",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Novocode7b-v3-GGUF/resolve/main/novocode7b-v3.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "novocode7b-v3.Q8_0.gguf",
+            "size": "7695857312",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "2323e26ec7275ee8401d9389121231dddafa1be70a95e32d92f61012066b0b3f",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Novocode7b-v3-GGUF/resolve/main/novocode7b-v3.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

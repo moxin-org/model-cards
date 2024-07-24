@@ -1,0 +1,43 @@
+{
+    "id": "beowolx/MistralHermes-CodePro-7B-v1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "beowolx",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-10T21:46:32Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistralhermes-codepro-7b-v1.Q4_K_M.gguf",
+            "size": "4368450560",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "b0bd8797359959a7dbc6adc70c671f0462dd30f44456f11c3749ed474b559369",
+            "download": {
+                "default": "https://huggingface.co/beowolx/MistralHermes-CodePro-7B-v1-GGUF/resolve/main/mistralhermes-codepro-7b-v1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistralhermes-codepro-7b-v1.Q5_K_M.gguf",
+            "size": "5131421696",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "d37612c0eb4fdfbb7050ffbe8e8e57fdf36eddb80756b5b5d634dae677f7a253",
+            "download": {
+                "default": "https://huggingface.co/beowolx/MistralHermes-CodePro-7B-v1-GGUF/resolve/main/mistralhermes-codepro-7b-v1.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

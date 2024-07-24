@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/nsql-llama-2-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-18T21:36:59Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "nsql-llama-2-7b.Q2_K.gguf",
+            "size": "2825940704",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a420fab3d2db3048bf99c9317cd0e6790a7e678201510645bc8bfc17bc847e9e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/nsql-llama-2-7B-GGUF/resolve/main/nsql-llama-2-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "nsql-llama-2-7b.Q3_K_L.gguf",
+            "size": "3597111008",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "5c66eefd60c99b217104a45b62fde16a15b710c5861656c322c95583b66b48df",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/nsql-llama-2-7B-GGUF/resolve/main/nsql-llama-2-7b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "nsql-llama-2-7b.Q3_K_M.gguf",
+            "size": "3298004704",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "3f894487356f1eca774b9e7150c63fc1b8331f5ca8c0dbe7557d4ee0286a7a9e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/nsql-llama-2-7B-GGUF/resolve/main/nsql-llama-2-7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "nsql-llama-2-7b.Q3_K_S.gguf",
+            "size": "2948304608",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "2a244db462d16cdf5f2744e0d381e2ebb260ce3e214d2b10be1b28b16e0a9f80",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/nsql-llama-2-7B-GGUF/resolve/main/nsql-llama-2-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "nsql-llama-2-7b.Q4_0.gguf",
+            "size": "3825807072",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "fc59fa5607aaa5b5cfaa039c5a704d121d0f0cd353e2b8fe95cf08656838cfea",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/nsql-llama-2-7B-GGUF/resolve/main/nsql-llama-2-7b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "nsql-llama-2-7b.Q4_K_M.gguf",
+            "size": "4081004256",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "811576e3612359c624590e0fe90fccbda07c4f6d394f553d50abb416122c8b30",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/nsql-llama-2-7B-GGUF/resolve/main/nsql-llama-2-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "nsql-llama-2-7b.Q4_K_S.gguf",
+            "size": "3856740064",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "c4e17c0e7909e5d0420162c939a565aaf067fc57c294429e0b15ac938689b762",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/nsql-llama-2-7B-GGUF/resolve/main/nsql-llama-2-7b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "nsql-llama-2-7b.Q5_0.gguf",
+            "size": "4651691744",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "9f4bdbe0a5545a6a2d0b473bc91a37cd40c670018e96a26f6372a1352edef546",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/nsql-llama-2-7B-GGUF/resolve/main/nsql-llama-2-7b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "nsql-llama-2-7b.Q5_K_M.gguf",
+            "size": "4783156960",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "1a1030a2a81f350e28d9b8d4f6a28809514b906849c123fab568fc583528a68e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/nsql-llama-2-7B-GGUF/resolve/main/nsql-llama-2-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "nsql-llama-2-7b.Q5_K_S.gguf",
+            "size": "4651691744",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "2dff9cc3edc246bb9f8ab1ae1c08af356e177a47483a26bc04cc8d8fea90a245",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/nsql-llama-2-7B-GGUF/resolve/main/nsql-llama-2-7b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "nsql-llama-2-7b.Q6_K.gguf",
+            "size": "5529194208",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "a563d3300a0136968319868398d6489aab4ed6790ba383b802267164bdb2c22b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/nsql-llama-2-7B-GGUF/resolve/main/nsql-llama-2-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "nsql-llama-2-7b.Q8_0.gguf",
+            "size": "7161089760",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "ee440864f0408d9ba91d7bd9e65a527d25144ef6f322ec8a185bbaf7b6fadf80",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/nsql-llama-2-7B-GGUF/resolve/main/nsql-llama-2-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

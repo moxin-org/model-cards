@@ -1,0 +1,53 @@
+{
+    "id": "demonsu/orion-14b-longchat-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "demonsu",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-25T11:01:20Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-Q4_K_M.gguf",
+            "size": "4646393920",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c4b3876f8db8bf5743e2097097a9375b093ce60d03e96ba40dae26b794ef05c0",
+            "download": {
+                "default": "https://huggingface.co/demonsu/orion-14b-longchat-gguf/resolve/main/ggml-model-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q6_K.gguf",
+            "size": "11898003520",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "2fd261fae816df437e3031f1e915a04afd35cb5b0a86527ad6bca7c11298d239",
+            "download": {
+                "default": "https://huggingface.co/demonsu/orion-14b-longchat-gguf/resolve/main/ggml-model-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q8_0.gguf",
+            "size": "15409207360",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "34c3d71535b3861b9e0f6dc6d93e27c9fce9df75dd6807c3fa23349af2fb3062",
+            "download": {
+                "default": "https://huggingface.co/demonsu/orion-14b-longchat-gguf/resolve/main/ggml-model-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

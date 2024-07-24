@@ -1,0 +1,33 @@
+{
+    "id": "mii-llm/maestrale-chat-v0.3-beta-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mii-llm",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-09T10:41:57Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "maestrale-chat-v0.3-beta.Q4_K_M.gguf",
+            "size": "4368450304",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e64a292d95a9224aa4ae7f2f2c8fcce1da0e770fe9de32a529cc6a30654cccc2",
+            "download": {
+                "default": "https://huggingface.co/mii-llm/maestrale-chat-v0.3-beta-GGUF/resolve/main/maestrale-chat-v0.3-beta.Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

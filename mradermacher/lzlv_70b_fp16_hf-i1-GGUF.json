@@ -1,0 +1,193 @@
+{
+    "id": "mradermacher/lzlv_70b_fp16_hf-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-04T14:37:06Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "lzlv_70b_fp16_hf.i1-IQ3_XXS.gguf",
+            "size": "26925528000",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "3593df7a1d1014113a896b66991ee8fe178d811b330c70fc37ef2a1b0090ba85",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv_70b_fp16_hf-i1-GGUF/resolve/main/lzlv_70b_fp16_hf.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "lzlv_70b_fp16_hf.i1-Q5_K_S.gguf",
+            "size": "47770645440",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "a278dfb26eac6e1189d940c279271e03f1b9995ab9e6dbc87937f1e4e973e70a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv_70b_fp16_hf-i1-GGUF/resolve/main/lzlv_70b_fp16_hf.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "lzlv_70b_fp16_hf.i1-Q5_K_M.gguf",
+            "size": "49063015360",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "bd865d832e9c9d48a9a71aa0bb5043569d5739244866fda88182fbbdf7151b41",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv_70b_fp16_hf-i1-GGUF/resolve/main/lzlv_70b_fp16_hf.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "lzlv_70b_fp16_hf.i1-Q4_K_S.gguf",
+            "size": "39558984640",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "e94f4422b0ae8505282f9224320214d77b25a90c948b5f35ac7c31f4ee294c7c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv_70b_fp16_hf-i1-GGUF/resolve/main/lzlv_70b_fp16_hf.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "lzlv_70b_fp16_hf.i1-Q4_K_M.gguf",
+            "size": "41732158400",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "d622522b07cf2704ac765d7d3b00ceaaefeef4ad4f8430036afcc7b1432d2374",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv_70b_fp16_hf-i1-GGUF/resolve/main/lzlv_70b_fp16_hf.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "lzlv_70b_fp16_hf.i1-Q3_K_S.gguf",
+            "size": "30228542400",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "84c42252a45cf20fe40dbd594cc0f04d1b5ac8fa7864326cf2645d2cc02d05dc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv_70b_fp16_hf-i1-GGUF/resolve/main/lzlv_70b_fp16_hf.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "lzlv_70b_fp16_hf.i1-Q3_K_M.gguf",
+            "size": "33583985600",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "94bbfc47dc92356ba40e633928cc7673493b995fc2de97ac64b8d1d79d1f29f5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv_70b_fp16_hf-i1-GGUF/resolve/main/lzlv_70b_fp16_hf.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "lzlv_70b_fp16_hf.i1-Q3_K_L.gguf",
+            "size": "36457083840",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "567bd098d7c49892c198b59dbdb4cbb64856465e11c867efefdf99acc466a8f0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv_70b_fp16_hf-i1-GGUF/resolve/main/lzlv_70b_fp16_hf.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "lzlv_70b_fp16_hf.i1-Q2_K.gguf",
+            "size": "25771684800",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "01f5e0d1df71837b4288dd9dbb99b08528737c2b2e1ed07c06a6bfce79835146",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv_70b_fp16_hf-i1-GGUF/resolve/main/lzlv_70b_fp16_hf.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "lzlv_70b_fp16_hf.i1-IQ1_S.gguf",
+            "size": "14879601600",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "f62630b1a9c79e905a5909ed048f92924af52564cd29964245b0ebd10c63f795",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv_70b_fp16_hf-i1-GGUF/resolve/main/lzlv_70b_fp16_hf.i1-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "lzlv_70b_fp16_hf.i1-IQ3_XS.gguf",
+            "size": "28451206080",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "fcbbd0086ff5d31bffd644e4dc2fccd9793bda4bb01cb7902072d23a39d6ac1f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv_70b_fp16_hf-i1-GGUF/resolve/main/lzlv_70b_fp16_hf.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "lzlv_70b_fp16_hf.i1-IQ3_S.gguf",
+            "size": "30228542400",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "dc803d2481b3f22fa088235718b6966eaa054eecd23de72209f45499681d2aa2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv_70b_fp16_hf-i1-GGUF/resolve/main/lzlv_70b_fp16_hf.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "lzlv_70b_fp16_hf.i1-IQ3_M.gguf",
+            "size": "31253525440",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "8aa9101bfb3ae9d645b99cbfc301eb82e2ba8092013d070cb91a719e53cd888d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv_70b_fp16_hf-i1-GGUF/resolve/main/lzlv_70b_fp16_hf.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "lzlv_70b_fp16_hf.i1-IQ2_XXS.gguf",
+            "size": "18633503680",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "a91cf74c7931849edfa260d45ff90dd753413b311b0a7e7beb46f6abd312ed24",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv_70b_fp16_hf-i1-GGUF/resolve/main/lzlv_70b_fp16_hf.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "lzlv_70b_fp16_hf.i1-IQ2_XS.gguf",
+            "size": "20678226880",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "45e094cac6a74739b9d723996f35939b3cbc6879c92e4d7d74f29423e7c060ea",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv_70b_fp16_hf-i1-GGUF/resolve/main/lzlv_70b_fp16_hf.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "lzlv_70b_fp16_hf.i1-IQ2_S.gguf",
+            "size": "21698376640",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "bfb533cf022ba18aebfde465c343baf8df6f24133093395639d4020f7b5479ba",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv_70b_fp16_hf-i1-GGUF/resolve/main/lzlv_70b_fp16_hf.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "lzlv_70b_fp16_hf.i1-IQ2_M.gguf",
+            "size": "23575327680",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "d87be5ad600954062d074950df4a1c85fa730940f181307ee4bea3656bad9069",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv_70b_fp16_hf-i1-GGUF/resolve/main/lzlv_70b_fp16_hf.i1-IQ2_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

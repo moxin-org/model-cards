@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/openbuddy-llama2-13b64k-v15-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-13T10:21:02Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "openbuddy-llama2-13b64k-v15.Q2_K.gguf",
+            "size": "5462572672",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "1da55c0df5015255010ba7e8886a3a328762e67a0a6e0110ce451b773eff1883",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/openbuddy-llama2-13b64k-v15-GGUF/resolve/main/openbuddy-llama2-13b64k-v15.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-llama2-13b64k-v15.Q3_K_L.gguf",
+            "size": "6965712512",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "06f0b704fbb9d787abf5fc2d4ea8dce100bba951dade08f1ee2017af2df1a4b1",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/openbuddy-llama2-13b64k-v15-GGUF/resolve/main/openbuddy-llama2-13b64k-v15.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-llama2-13b64k-v15.Q3_K_M.gguf",
+            "size": "6373922432",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "c7ce859462712cdf59af98f57aaf94451bde7415991f123cc108fe48a7c56601",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/openbuddy-llama2-13b64k-v15-GGUF/resolve/main/openbuddy-llama2-13b64k-v15.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-llama2-13b64k-v15.Q3_K_S.gguf",
+            "size": "5695133312",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "cb82ed73274b67ef11508d16bda44a78fa8544e2b5d2e450359f3ea6a6789083",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/openbuddy-llama2-13b64k-v15-GGUF/resolve/main/openbuddy-llama2-13b64k-v15.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-llama2-13b64k-v15.Q4_0.gguf",
+            "size": "7405817472",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "b4d01ba7677b81b33e7f971e6cddb6933049a8da59cdc057989e24a8199bd1f1",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/openbuddy-llama2-13b64k-v15-GGUF/resolve/main/openbuddy-llama2-13b64k-v15.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-llama2-13b64k-v15.Q4_K_M.gguf",
+            "size": "7905939072",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e8f2c396c761183004105b538813894d68cce2695c71a42ebb20d0966e52c4f8",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/openbuddy-llama2-13b64k-v15-GGUF/resolve/main/openbuddy-llama2-13b64k-v15.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-llama2-13b64k-v15.Q4_K_S.gguf",
+            "size": "7454314112",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "b9280c60f490cd4cc8dbdf415a125c4b18a3ccb8d545d12ad8f38edef3a649ce",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/openbuddy-llama2-13b64k-v15-GGUF/resolve/main/openbuddy-llama2-13b64k-v15.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-llama2-13b64k-v15.Q5_0.gguf",
+            "size": "9015873152",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "ac481384808996a1d2500f10856baa99520ad7105396d5845c322559251d8f40",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/openbuddy-llama2-13b64k-v15-GGUF/resolve/main/openbuddy-llama2-13b64k-v15.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-llama2-13b64k-v15.Q5_K_M.gguf",
+            "size": "9273511552",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "6d4c91a9eb6eae31ccac4038dab919aefe1c8582577e01dfde8bb55940875ca1",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/openbuddy-llama2-13b64k-v15-GGUF/resolve/main/openbuddy-llama2-13b64k-v15.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-llama2-13b64k-v15.Q5_K_S.gguf",
+            "size": "9015873152",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "5ce56baffaf57417533367c10e294ab821163d25013bf2c417e21bd2232ad4f0",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/openbuddy-llama2-13b64k-v15-GGUF/resolve/main/openbuddy-llama2-13b64k-v15.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-llama2-13b64k-v15.Q6_K.gguf",
+            "size": "10726557312",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "a36f78f8f9e0ab2e6d7b0e85e967a3797e490e408ae2f6bc2a46f3c4d9b491e6",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/openbuddy-llama2-13b64k-v15-GGUF/resolve/main/openbuddy-llama2-13b64k-v15.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-llama2-13b64k-v15.Q8_0.gguf",
+            "size": "13892703872",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "fcf82291c082dbd0c37ac0faba3d9d8ad3b6efd49403c32c2324be3733fae3ae",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/openbuddy-llama2-13b64k-v15-GGUF/resolve/main/openbuddy-llama2-13b64k-v15.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

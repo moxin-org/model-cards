@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/Starling-LM-7B-alpha-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-27T20:28:30Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "starling-lm-7b-alpha.Q2_K.gguf",
+            "size": "3083107264",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "20a1a5b14219b1bd991a57f5c040bc26426afaf000006217c03d0e1580e61def",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Starling-LM-7B-alpha-GGUF/resolve/main/starling-lm-7b-alpha.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "starling-lm-7b-alpha.Q3_K_L.gguf",
+            "size": "3822034688",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "c8c93cb980e7d2b09a9e305d05b42b08468208e7ceeed4ff4a726c94c78d6a4f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Starling-LM-7B-alpha-GGUF/resolve/main/starling-lm-7b-alpha.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "starling-lm-7b-alpha.Q3_K_M.gguf",
+            "size": "3518996224",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "9716542817d6e9512aac3eafa56c7cbf080e0db58aa74274261a61fee7e48e98",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Starling-LM-7B-alpha-GGUF/resolve/main/starling-lm-7b-alpha.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "starling-lm-7b-alpha.Q3_K_S.gguf",
+            "size": "3164577536",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "24f29c777e5510e7ece026d3159101c981dd25781899482305064d590e0665b1",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Starling-LM-7B-alpha-GGUF/resolve/main/starling-lm-7b-alpha.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "starling-lm-7b-alpha.Q4_0.gguf",
+            "size": "4108927808",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "0a890867f7ec61320bd1ba251368929ee5c4f87d6aa971daa020f8f9cb9f6232",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Starling-LM-7B-alpha-GGUF/resolve/main/starling-lm-7b-alpha.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "starling-lm-7b-alpha.Q4_K_M.gguf",
+            "size": "4368450368",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "0951cbc1a6c3ed8d081db59366ccccf09ed52a4cfd5191812665b911fe6c669a",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Starling-LM-7B-alpha-GGUF/resolve/main/starling-lm-7b-alpha.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "starling-lm-7b-alpha.Q4_K_S.gguf",
+            "size": "4140385088",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "a9acd609fccd28c38c16d7ce35f4787d63a01d4f18fec85721848b60d27665e9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Starling-LM-7B-alpha-GGUF/resolve/main/starling-lm-7b-alpha.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "starling-lm-7b-alpha.Q5_0.gguf",
+            "size": "4997728064",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "a37eeb51139fa407001bd9b855049a8835ba2bb7d0fccba0dab82bd0492b0b9f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Starling-LM-7B-alpha-GGUF/resolve/main/starling-lm-7b-alpha.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "starling-lm-7b-alpha.Q5_K_M.gguf",
+            "size": "5131421504",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "380907c61d125702ea75e117451ae78a325fa8409571e9a36ec36ccfa6f81d4c",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Starling-LM-7B-alpha-GGUF/resolve/main/starling-lm-7b-alpha.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "starling-lm-7b-alpha.Q5_K_S.gguf",
+            "size": "4997728064",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "503c157351b4cb3d8e4c716683979d9a1e79ba3ddcdc95c763b329c4fff8445a",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Starling-LM-7B-alpha-GGUF/resolve/main/starling-lm-7b-alpha.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "starling-lm-7b-alpha.Q6_K.gguf",
+            "size": "5942078336",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "fc3fe886aa6f65c185c3343ac462810c116ff9393424febd2ff6472afd5382cb",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Starling-LM-7B-alpha-GGUF/resolve/main/starling-lm-7b-alpha.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "starling-lm-7b-alpha.Q8_0.gguf",
+            "size": "7695874816",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "5ddecdc9bc86e14afb58ed3ed74e47e2f8e79a94c8e9f8e7a0019987262e0901",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Starling-LM-7B-alpha-GGUF/resolve/main/starling-lm-7b-alpha.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

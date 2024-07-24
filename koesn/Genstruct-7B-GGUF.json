@@ -1,0 +1,103 @@
+{
+    "id": "koesn/Genstruct-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "koesn",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-11T15:07:47Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "genstruct-7b.IQ3_M.gguf",
+            "size": "3284896832",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "8f32ecbd6c44729d526fa717c72c87806885dcd8189c740c078eb8dc7228c9f0",
+            "download": {
+                "default": "https://huggingface.co/koesn/Genstruct-7B-GGUF/resolve/main/genstruct-7b.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "genstruct-7b.IQ3_S.gguf",
+            "size": "3182398528",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "967ff47f4f3ab3b85201fe2e7ad2b1e97ad42de943569ded3237564eaea51610",
+            "download": {
+                "default": "https://huggingface.co/koesn/Genstruct-7B-GGUF/resolve/main/genstruct-7b.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "genstruct-7b.IQ4_NL.gguf",
+            "size": "4155059808",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "d5a4e0888b596c1b3930fb975d0dc941d215f68f9ef5d1326ee2de90c82191da",
+            "download": {
+                "default": "https://huggingface.co/koesn/Genstruct-7B-GGUF/resolve/main/genstruct-7b.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "genstruct-7b.Q4_0.gguf",
+            "size": "4108922464",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "881a27cff9c532f0d7a933bbd372734f6c08fbb518def2cd19d5542129c03e92",
+            "download": {
+                "default": "https://huggingface.co/koesn/Genstruct-7B-GGUF/resolve/main/genstruct-7b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "genstruct-7b.Q4_K_M.gguf",
+            "size": "4368445024",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "9452bbb15f5e81e2b7b2e8c1c79a1df31c8431569bde4060df88f6973f7418bc",
+            "download": {
+                "default": "https://huggingface.co/koesn/Genstruct-7B-GGUF/resolve/main/genstruct-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "genstruct-7b.Q5_K_M.gguf",
+            "size": "5131415648",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "54b6032cb73dc91e07850088588bbb1497d2161663895ed7cc343151822403bb",
+            "download": {
+                "default": "https://huggingface.co/koesn/Genstruct-7B-GGUF/resolve/main/genstruct-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "genstruct-7b.Q6_K.gguf",
+            "size": "5942071936",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "6376fbdf9f2902027febd737a2c1c8ea2751d08fe01d1a317cf643c7cab2a37c",
+            "download": {
+                "default": "https://huggingface.co/koesn/Genstruct-7B-GGUF/resolve/main/genstruct-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "genstruct-7b.Q8_0.gguf",
+            "size": "7695866432",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "d1e4b5fbd03614af4cf9a6c4fd73dd9bf38a2ce7a8b3377d0c18c1ac4df1d337",
+            "download": {
+                "default": "https://huggingface.co/koesn/Genstruct-7B-GGUF/resolve/main/genstruct-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

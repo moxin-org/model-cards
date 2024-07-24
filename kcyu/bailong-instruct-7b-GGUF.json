@@ -1,0 +1,43 @@
+{
+    "id": "kcyu/bailong-instruct-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "kcyu",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-05T06:08:18Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "bailong-instruct-7b-f16.gguf",
+            "size": "13925031136",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9e0e4f1c29788e7c7d3eddb4a22dbacec2fbc85eb0d895022cdb320536faf6fb",
+            "download": {
+                "default": "https://huggingface.co/kcyu/bailong-instruct-7b-GGUF/resolve/main/bailong-instruct-7b-f16.gguf"
+            }
+        },
+        {
+            "name": "bailong-instruct-7b-v0.1-q5_k_m.gguf",
+            "size": "4952007200",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6b134120e70ba86f5de2f26a862e8b41ef7dadf612ab9228610fa7f8ee752ffc",
+            "download": {
+                "default": "https://huggingface.co/kcyu/bailong-instruct-7b-GGUF/resolve/main/bailong-instruct-7b-v0.1-q5_k_m.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

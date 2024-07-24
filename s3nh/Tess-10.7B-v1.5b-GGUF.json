@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/Tess-10.7B-v1.5b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-29T08:13:36Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tess-10.7b-v1.5b.Q3_K_S.gguf",
+            "size": "4664563872",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "15bd79c3f2fd38243cb8718189fdd99f0edc42472f22e9122d49e2f447a13212",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Tess-10.7B-v1.5b-GGUF/resolve/main/tess-10.7b-v1.5b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "tess-10.7b-v1.5b.Q4_K_M.gguf",
+            "size": "6461667488",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "46d276e0023f23ee95f7b179e5bd85f06516e75e0c2a470ffa38b458d1deb40b",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Tess-10.7B-v1.5b-GGUF/resolve/main/tess-10.7b-v1.5b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "tess-10.7b-v1.5b.Q5_K_M.gguf",
+            "size": "7597930656",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "4be09bc466dca701be3adcea07f115659b4e8c9e389485e51b9298b670074ed9",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Tess-10.7B-v1.5b-GGUF/resolve/main/tess-10.7b-v1.5b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "tess-10.7b-v1.5b.Q6_K.gguf",
+            "size": "8805210272",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "202195c1f24f8a9fe81862bc50fc3f22d12af543a808a687042655b63a2ca231",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Tess-10.7B-v1.5b-GGUF/resolve/main/tess-10.7b-v1.5b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "tess-10.7b-v1.5b.Q8_0.gguf",
+            "size": "11404155040",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "4b10c4c779c94d1cfc66167f06412e4841cdea645f5cec0dacba9db3c8746c63",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Tess-10.7B-v1.5b-GGUF/resolve/main/tess-10.7b-v1.5b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

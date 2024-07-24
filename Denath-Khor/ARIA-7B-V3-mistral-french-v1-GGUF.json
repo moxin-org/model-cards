@@ -1,0 +1,43 @@
+{
+    "id": "Denath-Khor/ARIA-7B-V3-mistral-french-v1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Denath-Khor",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-19T22:21:45Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "aria-7b-v3-mistral-french-v1.Q4_K_M.gguf",
+            "size": "4368439584",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "62416081f08dbfd82bbd56b6df1e1478da590752d186115f471daf5b30b9de34",
+            "download": {
+                "default": "https://huggingface.co/Denath-Khor/ARIA-7B-V3-mistral-french-v1-GGUF/resolve/main/aria-7b-v3-mistral-french-v1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "aria-7b-v3-mistral-french-v1.Q8_0.gguf",
+            "size": "7695857952",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "ef5d7806e55a381fc28e8382fad2b1b3979544e912b776ced7ddc82a7e9107f6",
+            "download": {
+                "default": "https://huggingface.co/Denath-Khor/ARIA-7B-V3-mistral-french-v1-GGUF/resolve/main/aria-7b-v3-mistral-french-v1.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

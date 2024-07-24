@@ -1,0 +1,73 @@
+{
+    "id": "sanjay920/rubra-12.5b-v0.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "sanjay920",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-01T21:46:45Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "rubra-12.5b-v0.1-imatrix-Q6_K.gguf",
+            "size": "10236783552",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "51f21d46840482d839b8398eac731410c937f96d33f3c0dea0fd074894ca951a",
+            "download": {
+                "default": "https://huggingface.co/sanjay920/rubra-12.5b-v0.1-GGUF/resolve/main/rubra-12.5b-v0.1-imatrix-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "rubra-12.5b-v0.1-Q6_K.gguf",
+            "size": "10236783552",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "51f21d46840482d839b8398eac731410c937f96d33f3c0dea0fd074894ca951a",
+            "download": {
+                "default": "https://huggingface.co/sanjay920/rubra-12.5b-v0.1-GGUF/resolve/main/rubra-12.5b-v0.1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "rubra-12.5b-v0.1.Q4_K_M.gguf",
+            "size": "7508282304",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "86b607b0e5db10b4428eaec13fdae86c51f5bf76848f0f893c28d46cbe625d7e",
+            "download": {
+                "default": "https://huggingface.co/sanjay920/rubra-12.5b-v0.1-GGUF/resolve/main/rubra-12.5b-v0.1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "rubra-12.5b-v0.1.Q5_K_M.gguf",
+            "size": "8831192000",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "54bc398acaca285018d4b53b321b3dbb39b2e817f74f17ff01261bca91ba3fca",
+            "download": {
+                "default": "https://huggingface.co/sanjay920/rubra-12.5b-v0.1-GGUF/resolve/main/rubra-12.5b-v0.1.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "rubra-12.5b-v0.1.Q8_0.gguf",
+            "size": "13258304448",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "faa96866772832159d7a5f9c223bbf241f8bdb9de2eb888e4d4c68f2c3732090",
+            "download": {
+                "default": "https://huggingface.co/sanjay920/rubra-12.5b-v0.1-GGUF/resolve/main/rubra-12.5b-v0.1.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/LlamaGuard-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-11T17:37:51Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llamaguard-7b.Q2_K.gguf",
+            "size": "2825945216",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "9f08119a6e53891dc5addd402530cc8d3b13c690face701e0b96a426fd274b62",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/LlamaGuard-7B-GGUF/resolve/main/llamaguard-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "llamaguard-7b.Q3_K_L.gguf",
+            "size": "3597115520",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "81c8dd873867f975706b6ff4fa26f4ecb998aade06487f826aff4fe43f45cc8f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/LlamaGuard-7B-GGUF/resolve/main/llamaguard-7b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "llamaguard-7b.Q3_K_M.gguf",
+            "size": "3298009216",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "83bfa96dc76ee3ca619dc0e2adbc52c9802e1b99e31a61b48b897e8ed9ad310a",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/LlamaGuard-7B-GGUF/resolve/main/llamaguard-7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "llamaguard-7b.Q3_K_S.gguf",
+            "size": "2948309120",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "06031c06c707bcd7e9cf1a8fe3b207758a2250447f73489e4df7ee85abd3e2ea",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/LlamaGuard-7B-GGUF/resolve/main/llamaguard-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "llamaguard-7b.Q4_0.gguf",
+            "size": "3825811584",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "d521d4b2dfb3d292ebda20040c6721ac1b43186849915d0988d399dd43865888",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/LlamaGuard-7B-GGUF/resolve/main/llamaguard-7b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "llamaguard-7b.Q4_K_M.gguf",
+            "size": "4081008768",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "3582fb57aae8ec10a35aa4e372d87b5c990eee82a542975a0e9c6a82f6618ad0",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/LlamaGuard-7B-GGUF/resolve/main/llamaguard-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "llamaguard-7b.Q4_K_S.gguf",
+            "size": "3856744576",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "799f40e5d1cecf0757770d94547cd3e9b1e65584b786f437850365a1b1d1707f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/LlamaGuard-7B-GGUF/resolve/main/llamaguard-7b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "llamaguard-7b.Q5_0.gguf",
+            "size": "4651696256",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "71b8095867aafe80845b0f61ac669fac3b76457ff854ab8532867cadbde9d9af",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/LlamaGuard-7B-GGUF/resolve/main/llamaguard-7b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "llamaguard-7b.Q5_K_M.gguf",
+            "size": "4783161472",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "1ffd5ff0d25793d4fbcdf4629b8d0bfabddd05f607edabe16ec0595cd32b32fd",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/LlamaGuard-7B-GGUF/resolve/main/llamaguard-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "llamaguard-7b.Q5_K_S.gguf",
+            "size": "4651696256",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "a8106c3de57bff5c68237b0d45962e4017beae3fdc870834b772f74770a9b1f6",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/LlamaGuard-7B-GGUF/resolve/main/llamaguard-7b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "llamaguard-7b.Q6_K.gguf",
+            "size": "5529198720",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "e9b372215ffe654729331dc05a77ae197327b2d4e77113c17c7ef034f5ebb9aa",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/LlamaGuard-7B-GGUF/resolve/main/llamaguard-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "llamaguard-7b.Q8_0.gguf",
+            "size": "7161094272",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "c9c90cdb435695b0cf162bd056e28cc9f86020c6deec99a9f0e9fc585526e211",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/LlamaGuard-7B-GGUF/resolve/main/llamaguard-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

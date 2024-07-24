@@ -1,0 +1,133 @@
+{
+    "id": "phires/KafkaLM-7B-German-V0.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "phires",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-16T12:58:30Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "kafkalm-7b-german-v0.1.Q2_K.gguf",
+            "size": "2719242432",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "d7c01c579d3b30dfc829f67f72944e2cd53eeba62e279d8d9f877bb3f827c5f0",
+            "download": {
+                "default": "https://huggingface.co/phires/KafkaLM-7B-German-V0.1-GGUF/resolve/main/kafkalm-7b-german-v0.1.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "kafkalm-7b-german-v0.1.Q3_K_M.gguf",
+            "size": "3518986432",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "c829e08ea749dec7fe4ceefff7d73bf3bbd8d64997a5d906846b409be73be5e1",
+            "download": {
+                "default": "https://huggingface.co/phires/KafkaLM-7B-German-V0.1-GGUF/resolve/main/kafkalm-7b-german-v0.1.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "kafkalm-7b-german-v0.1.Q3_K_S.gguf",
+            "size": "3164567744",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "e0002a92d48ef9c9f87327ed9716e1b5e1fed95850748a8676bf52fe6194b108",
+            "download": {
+                "default": "https://huggingface.co/phires/KafkaLM-7B-German-V0.1-GGUF/resolve/main/kafkalm-7b-german-v0.1.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "kafkalm-7b-german-v0.1.Q4_0.gguf",
+            "size": "4108916928",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "8c913cd7f7e31b3a0041bb44b6332ff88d245de636db36a9523ca102d3e62208",
+            "download": {
+                "default": "https://huggingface.co/phires/KafkaLM-7B-German-V0.1-GGUF/resolve/main/kafkalm-7b-german-v0.1.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "kafkalm-7b-german-v0.1.Q4_K_M.gguf",
+            "size": "4368439488",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5323e0752fe093f1f472b7d70384c758ec0e57d4aa21301d01ccf1658e395fcc",
+            "download": {
+                "default": "https://huggingface.co/phires/KafkaLM-7B-German-V0.1-GGUF/resolve/main/kafkalm-7b-german-v0.1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "kafkalm-7b-german-v0.1.Q4_K_S.gguf",
+            "size": "4140374208",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "589acda152b3dc7218b8be04e5d145df5c5dfea26c3b19015bfc28286abeca39",
+            "download": {
+                "default": "https://huggingface.co/phires/KafkaLM-7B-German-V0.1-GGUF/resolve/main/kafkalm-7b-german-v0.1.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "kafkalm-7b-german-v0.1.Q5_0.gguf",
+            "size": "4997716160",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "6f6ddc226ef8b11c45c7cfcbf2a1390c4007c22efd4131a3eddcbe1f81b6fa10",
+            "download": {
+                "default": "https://huggingface.co/phires/KafkaLM-7B-German-V0.1-GGUF/resolve/main/kafkalm-7b-german-v0.1.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "kafkalm-7b-german-v0.1.Q5_K_M.gguf",
+            "size": "5131409600",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "703b7bf64fdc7b61d588926b7a10ceb59a3a69f1afafa9ff74384fdefb20305d",
+            "download": {
+                "default": "https://huggingface.co/phires/KafkaLM-7B-German-V0.1-GGUF/resolve/main/kafkalm-7b-german-v0.1.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "kafkalm-7b-german-v0.1.Q5_K_S.gguf",
+            "size": "4997716160",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "32f04ff9c1e9afb38e8b478b83e6b89365c526d0ef90fc94e8a0a4147ba7b168",
+            "download": {
+                "default": "https://huggingface.co/phires/KafkaLM-7B-German-V0.1-GGUF/resolve/main/kafkalm-7b-german-v0.1.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "kafkalm-7b-german-v0.1.Q6_K.gguf",
+            "size": "5942065344",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "ee882a080f749b45a87e8f1460ec50963ab28f1e55cdf06c977a4bbe92d4ed98",
+            "download": {
+                "default": "https://huggingface.co/phires/KafkaLM-7B-German-V0.1-GGUF/resolve/main/kafkalm-7b-german-v0.1.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "kafkalm-7b-german-v0.1.Q8_0.gguf",
+            "size": "7695857856",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "422cea635582eafd29b249ffda15fefcf5f464d0ce25ae3f50967b742d80aecd",
+            "download": {
+                "default": "https://huggingface.co/phires/KafkaLM-7B-German-V0.1-GGUF/resolve/main/kafkalm-7b-german-v0.1.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

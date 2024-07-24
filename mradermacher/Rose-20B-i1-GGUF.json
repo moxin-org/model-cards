@@ -1,0 +1,193 @@
+{
+    "id": "mradermacher/Rose-20B-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-03T02:44:59Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Rose-20B.i1-IQ3_XXS.gguf",
+            "size": "7802828384",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "2d4b6b9f5de29c2123c5d3def9b71bba111fd60ef73b0d1885d57ebed9ef45b2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Rose-20B-i1-GGUF/resolve/main/Rose-20B.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "Rose-20B.i1-Q5_K_S.gguf",
+            "size": "13964041824",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "9ddd5f37db0d7a617a325dd493cecd49717f5ba56a8933fc64856fe1f844a0ac",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Rose-20B-i1-GGUF/resolve/main/Rose-20B.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Rose-20B.i1-Q5_K_M.gguf",
+            "size": "14350499424",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "13001a32d88053c0949756bb961f45efb726d72acc1c91a000c524c1aa047f37",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Rose-20B-i1-GGUF/resolve/main/Rose-20B.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Rose-20B.i1-Q4_K_S.gguf",
+            "size": "11560345184",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "f7ef15d369ae1df596d56c83b0474e252066ac3f4fdbb8ff22e866b5c092a806",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Rose-20B-i1-GGUF/resolve/main/Rose-20B.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Rose-20B.i1-Q4_K_M.gguf",
+            "size": "12235488864",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4b635558680d3505f1ec28d54867baf273e71ac6459e84ced7dd944f94246c6a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Rose-20B-i1-GGUF/resolve/main/Rose-20B.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Rose-20B.i1-Q3_K_S.gguf",
+            "size": "8851650144",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "78b5f70f9216293cabe2a3bf1a95734a4c5f564e0927ecc9b537d0a4a67806b0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Rose-20B-i1-GGUF/resolve/main/Rose-20B.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Rose-20B.i1-Q3_K_M.gguf",
+            "size": "9899284064",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "0ed4b42ae6e9c8b88545ed9d5394375aa4d83b44224af808ca93095bd20a7597",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Rose-20B-i1-GGUF/resolve/main/Rose-20B.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Rose-20B.i1-Q3_K_L.gguf",
+            "size": "10821047904",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "4566135d9ba6c7d8beab4c705964aa8764ee8b8e9287791cee92a96ddca873d6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Rose-20B-i1-GGUF/resolve/main/Rose-20B.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Rose-20B.i1-Q2_K.gguf",
+            "size": "7613501024",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "22fab2b2b2c220eb170435265464930479892f82067b255b73600674cf609002",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Rose-20B-i1-GGUF/resolve/main/Rose-20B.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Rose-20B.i1-IQ1_S.gguf",
+            "size": "4609023584",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "d03f098f3503384b97cfbf584649329925e46e5bc606a50c9e580921268a7206",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Rose-20B-i1-GGUF/resolve/main/Rose-20B.i1-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "Rose-20B.i1-IQ3_XS.gguf",
+            "size": "8387409504",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "338a02f197854c3e81931f3987f2cc4f9bf70761de1deef54626da383115f724",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Rose-20B-i1-GGUF/resolve/main/Rose-20B.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Rose-20B.i1-IQ3_S.gguf",
+            "size": "8851650144",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "5760ab8de3c5034e50a1d06bb3e913a913786c75784e15d3a3f9aff0366f6600",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Rose-20B-i1-GGUF/resolve/main/Rose-20B.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Rose-20B.i1-IQ3_M.gguf",
+            "size": "9349170784",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "c37e5a94931b58ff5e497c7e1e3d3787343a012c3431c57ea855da8019c891c4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Rose-20B-i1-GGUF/resolve/main/Rose-20B.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Rose-20B.i1-IQ2_XXS.gguf",
+            "size": "5604023904",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "933bc19245f6ec8fa300721a48000ec6c8147d0791a1832b146bde007f62c071",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Rose-20B-i1-GGUF/resolve/main/Rose-20B.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "Rose-20B.i1-IQ2_XS.gguf",
+            "size": "6152314464",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "cde1cbc49806dfab82f038befd616e34514d432cf1b5b5d8aa3d7590ea05aa0e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Rose-20B-i1-GGUF/resolve/main/Rose-20B.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Rose-20B.i1-IQ2_S.gguf",
+            "size": "6612899424",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "5738ba06077c2810f18663f3b82312354a100250307d21b18d64afe366795707",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Rose-20B-i1-GGUF/resolve/main/Rose-20B.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "Rose-20B.i1-IQ2_M.gguf",
+            "size": "7110399584",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "ccc1b20e32c797e91f723218e09eb7b5b220bbf005fcec16262d50ded04a8ce5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Rose-20B-i1-GGUF/resolve/main/Rose-20B.i1-IQ2_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

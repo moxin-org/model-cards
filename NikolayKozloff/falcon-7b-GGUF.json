@@ -1,0 +1,43 @@
+{
+    "id": "NikolayKozloff/falcon-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "NikolayKozloff",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-08-23T22:25:19Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "falcon-7b-Q4_0-GGUF.gguf",
+            "size": "4062813440",
+            "quantization": "",
+            "tags": [],
+            "sha256": "52468fe965d4fd1c4f7c596665ef5bac2f290f413591bd35cd619143b201375c",
+            "download": {
+                "default": "https://huggingface.co/NikolayKozloff/falcon-7b-GGUF/resolve/main/falcon-7b-Q4_0-GGUF.gguf"
+            }
+        },
+        {
+            "name": "falcon-7b-Q8_0-GGUF.gguf",
+            "size": "7671258368",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b83705a4c693a939e85fad1600097a741ff1b919c4d2ec18b85b7b1ed5ce48fe",
+            "download": {
+                "default": "https://huggingface.co/NikolayKozloff/falcon-7b-GGUF/resolve/main/falcon-7b-Q8_0-GGUF.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

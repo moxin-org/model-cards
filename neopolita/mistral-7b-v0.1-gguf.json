@@ -1,0 +1,153 @@
+{
+    "id": "neopolita/mistral-7b-v0.1-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "neopolita",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-10T17:29:46Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistral-7b-v0.1_iq1_s.gguf",
+            "size": "1612101344",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8716445896b91b741168c7baca6d7ba95d543e6b8361e115532278d193b01b68",
+            "download": {
+                "default": "https://huggingface.co/neopolita/mistral-7b-v0.1-gguf/resolve/main/mistral-7b-v0.1_iq1_s.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-v0.1_q2_k.gguf",
+            "size": "2719241920",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1e0e0aa69c3e7c59a075616eb9c11022a1a6a7d7f52e3301af69266bb2ec6f03",
+            "download": {
+                "default": "https://huggingface.co/neopolita/mistral-7b-v0.1-gguf/resolve/main/mistral-7b-v0.1_q2_k.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-v0.1_q3_k_l.gguf",
+            "size": "3822024384",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4139acd08020a7d79828c0fa661eea47d1f21c5485fe9057c1fcd9271984ff7c",
+            "download": {
+                "default": "https://huggingface.co/neopolita/mistral-7b-v0.1-gguf/resolve/main/mistral-7b-v0.1_q3_k_l.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-v0.1_q3_k_m.gguf",
+            "size": "3518985920",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a55da02f3ecf37d7590f6df446fc068963478496247b16b3e5b64099ce188b25",
+            "download": {
+                "default": "https://huggingface.co/neopolita/mistral-7b-v0.1-gguf/resolve/main/mistral-7b-v0.1_q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-v0.1_q3_k_s.gguf",
+            "size": "3164567232",
+            "quantization": "",
+            "tags": [],
+            "sha256": "98708b4cb907b72e9987313d771ba05499a6805486c5ba323d5a17099cb4b40f",
+            "download": {
+                "default": "https://huggingface.co/neopolita/mistral-7b-v0.1-gguf/resolve/main/mistral-7b-v0.1_q3_k_s.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-v0.1_q4_0.gguf",
+            "size": "4108916416",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7a1e6d07c68a13057fe56e69c65ad061fadd21d4b9107e01e0e1b8af3ceaf8de",
+            "download": {
+                "default": "https://huggingface.co/neopolita/mistral-7b-v0.1-gguf/resolve/main/mistral-7b-v0.1_q4_0.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-v0.1_q4_k_m.gguf",
+            "size": "4368438976",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f952c25cc865f63758cf9463ff6f686e531e3716c580dd5eaa7371d254851206",
+            "download": {
+                "default": "https://huggingface.co/neopolita/mistral-7b-v0.1-gguf/resolve/main/mistral-7b-v0.1_q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-v0.1_q4_k_s.gguf",
+            "size": "4140373696",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8de4ad5242e49efcfc4449b28c781d979694ddeb3a8adee620a8842ae9cd8071",
+            "download": {
+                "default": "https://huggingface.co/neopolita/mistral-7b-v0.1-gguf/resolve/main/mistral-7b-v0.1_q4_k_s.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-v0.1_q5_0.gguf",
+            "size": "4997715648",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a971046913ee700a4f6c08ffd531e8d3d0eabf4c0649ca8cc0bd4175e4a62d5b",
+            "download": {
+                "default": "https://huggingface.co/neopolita/mistral-7b-v0.1-gguf/resolve/main/mistral-7b-v0.1_q5_0.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-v0.1_q5_k_m.gguf",
+            "size": "5131409088",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d76993f09b229bfbc1a7f8b49c278cc04bb98c91532ed71a5ff1316799498217",
+            "download": {
+                "default": "https://huggingface.co/neopolita/mistral-7b-v0.1-gguf/resolve/main/mistral-7b-v0.1_q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-v0.1_q5_k_s.gguf",
+            "size": "4997715648",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3f2423c19289f908442118f1dc61fd7875e0571fed981a9787781782b5e08ce3",
+            "download": {
+                "default": "https://huggingface.co/neopolita/mistral-7b-v0.1-gguf/resolve/main/mistral-7b-v0.1_q5_k_s.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-v0.1_q6_k.gguf",
+            "size": "5942064832",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ca7b563d0d704695f388da6379095a50c05dbfc4cb86be95a39e3469242e3e4b",
+            "download": {
+                "default": "https://huggingface.co/neopolita/mistral-7b-v0.1-gguf/resolve/main/mistral-7b-v0.1_q6_k.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-v0.1_q8_0.gguf",
+            "size": "7695857344",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d3ee3935b5a2887cdb34e773a8ea8bde4c9510f7b370aae2e5931675bf26ed2a",
+            "download": {
+                "default": "https://huggingface.co/neopolita/mistral-7b-v0.1-gguf/resolve/main/mistral-7b-v0.1_q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

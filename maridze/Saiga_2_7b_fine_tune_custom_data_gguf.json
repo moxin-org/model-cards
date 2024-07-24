@@ -1,0 +1,53 @@
+{
+    "id": "maridze/Saiga_2_7b_fine_tune_custom_data_gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "maridze",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-13T11:07:20Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "model-f16.gguf",
+            "size": "13478104608",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fe5d663a5250f1805094019f81d16aabc554f6f549b41e2f2ceccb8b64e30511",
+            "download": {
+                "default": "https://huggingface.co/maridze/Saiga_2_7b_fine_tune_custom_data_gguf/resolve/main/model-f16.gguf"
+            }
+        },
+        {
+            "name": "model-q4_0.gguf",
+            "size": "3825806912",
+            "quantization": "",
+            "tags": [],
+            "sha256": "64f893599c5bd979262e092f3323b56e45726d99e5bea8e979e51136cbfef821",
+            "download": {
+                "default": "https://huggingface.co/maridze/Saiga_2_7b_fine_tune_custom_data_gguf/resolve/main/model-q4_0.gguf"
+            }
+        },
+        {
+            "name": "model-q8_0.gguf",
+            "size": "7161089632",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0fa9e1ebcebd9182a9b69f2456ccd316b8ebfc063514966b5babda4250e9e278",
+            "download": {
+                "default": "https://huggingface.co/maridze/Saiga_2_7b_fine_tune_custom_data_gguf/resolve/main/model-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/embryophagus-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-18T10:37:57Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "embryophagus.IQ3_M.gguf",
+            "size": "5779753280",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "cb0e9c6f27feefa3159763dedfcd3f579fc188827810622978f881909f20537f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/embryophagus-GGUF/resolve/main/embryophagus.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "embryophagus.IQ3_S.gguf",
+            "size": "5600381248",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "7520f5ed20cd4a4214ffff59f0574cc7de327f4b529de4b776b5b92a2ad695cc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/embryophagus-GGUF/resolve/main/embryophagus.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "embryophagus.IQ3_XS.gguf",
+            "size": "5282924864",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "a5006f44571623da0b53d987de0928ac401d3ab1bdd3e9f9e25d59bc3b7c9f88",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/embryophagus-GGUF/resolve/main/embryophagus.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "embryophagus.IQ4_XS.gguf",
+            "size": "6923888960",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "67d051fd96265b4224cd58bd8638ee7259b4f41fed3d3319286ac75729926944",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/embryophagus-GGUF/resolve/main/embryophagus.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "embryophagus.Q2_K.gguf",
+            "size": "4799850816",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "7caf936482ca6c0909b00d8dd187569058a7ed3ca09d505bfc08e5a49ac06309",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/embryophagus-GGUF/resolve/main/embryophagus.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "embryophagus.Q3_K_L.gguf",
+            "size": "6719736128",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "c9bbe4f008f9ed29628baaa2abe60b858b589b1bf66316a6a8e8177ffc9277ad",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/embryophagus-GGUF/resolve/main/embryophagus.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "embryophagus.Q3_K_M.gguf",
+            "size": "6184962368",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "823347ed680de157c6b8868f5098e82f6f9dbfffc0ca65f3355ada2fd75323ae",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/embryophagus-GGUF/resolve/main/embryophagus.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "embryophagus.Q3_K_S.gguf",
+            "size": "5569186112",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "c98c93942131177746c8187a38a0aba1260ad1cad14d687eb612605695344191",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/embryophagus-GGUF/resolve/main/embryophagus.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "embryophagus.Q4_K_M.gguf",
+            "size": "7662905664",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "388aefcbdfb428e827c548c133c9e57317fae3922cc3f61cbdb11ecd2d44990b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/embryophagus-GGUF/resolve/main/embryophagus.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "embryophagus.Q4_K_S.gguf",
+            "size": "7262218560",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "d604a21c0f0f4ad33988c153c176a4577473d5bfdbf05c2970e1accc56f6ffa2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/embryophagus-GGUF/resolve/main/embryophagus.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "embryophagus.Q5_K_M.gguf",
+            "size": "8985815360",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e2c5e1b199fa3c51efd685b07402323614577f1d5e3a8a19091f4fa700984550",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/embryophagus-GGUF/resolve/main/embryophagus.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "embryophagus.Q5_K_S.gguf",
+            "size": "8751851840",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "03d5e9540d9899b70f8bf80194a451190cd767cdd9de948b4f82cc03977efdbd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/embryophagus-GGUF/resolve/main/embryophagus.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "embryophagus.Q6_K.gguf",
+            "size": "10391406912",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "fa02eb91e27b5d753fc8d03118d2b6c79f74c484093ed25cebc38da33cf3440f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/embryophagus-GGUF/resolve/main/embryophagus.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "embryophagus.Q8_0.gguf",
+            "size": "13381183808",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "3d6aafc0756bdb728b487360bccc1dcd63a52dd1d88214d96935c21bf121fda8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/embryophagus-GGUF/resolve/main/embryophagus.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

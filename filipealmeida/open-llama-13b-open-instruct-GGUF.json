@@ -1,0 +1,53 @@
+{
+    "id": "filipealmeida/open-llama-13b-open-instruct-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "filipealmeida",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-27T17:09:03Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-f16.gguf",
+            "size": "26033337888",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a2f684e3832feb7d66e9564c3ffeb6849b0d8c970ef847297733eced1e35cdab",
+            "download": {
+                "default": "https://huggingface.co/filipealmeida/open-llama-13b-open-instruct-GGUF/resolve/main/ggml-model-f16.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q4_0.gguf",
+            "size": "7365869152",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "c505951413c201868d893f1c91f576aa260e2e9baa5f7a497c0aa6688b22c7be",
+            "download": {
+                "default": "https://huggingface.co/filipealmeida/open-llama-13b-open-instruct-GGUF/resolve/main/ggml-model-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q8_0.gguf",
+            "size": "13831353952",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "7635749b68b4d708869ad7603d0eb3415d385a4f17d7fb6c22009c25f9408a3a",
+            "download": {
+                "default": "https://huggingface.co/filipealmeida/open-llama-13b-open-instruct-GGUF/resolve/main/ggml-model-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

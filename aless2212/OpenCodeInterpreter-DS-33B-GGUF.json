@@ -1,0 +1,63 @@
+{
+    "id": "aless2212/OpenCodeInterpreter-DS-33B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "aless2212",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-19T10:22:01Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "OpenCodeInterpreter-DS-33B.Q3_K_M.gguf",
+            "size": "16092131360",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "a5417c0ad7f671c4a413bb404c56a1af10ce6c9175918c9c9231ac196459c2da",
+            "download": {
+                "default": "https://huggingface.co/aless2212/OpenCodeInterpreter-DS-33B-GGUF/resolve/main/OpenCodeInterpreter-DS-33B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "OpenCodeInterpreter-DS-33B.Q4_K_M.gguf",
+            "size": "19940659232",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "0d95d913a4bbde64212de80d4b833f84a6132c0ed0d6a95ba59f79b1447e989b",
+            "download": {
+                "default": "https://huggingface.co/aless2212/OpenCodeInterpreter-DS-33B-GGUF/resolve/main/OpenCodeInterpreter-DS-33B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "OpenCodeInterpreter-DS-33B.Q5_K_M.gguf",
+            "size": "23535898656",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5170c3dcd60cbbdb24f353e277c4a8c5a7652e3e38415644844e8c7c2cf1192a",
+            "download": {
+                "default": "https://huggingface.co/aless2212/OpenCodeInterpreter-DS-33B-GGUF/resolve/main/OpenCodeInterpreter-DS-33B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "OpenCodeInterpreter-DS-33B.Q6_K.gguf",
+            "size": "27355840544",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "18b3cf85025528b3b943ce66bdfb9a61387fc54be1991079537daf10a0d1f93d",
+            "download": {
+                "default": "https://huggingface.co/aless2212/OpenCodeInterpreter-DS-33B-GGUF/resolve/main/OpenCodeInterpreter-DS-33B.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

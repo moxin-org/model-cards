@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/OpenDolphin-7B-slerp-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-07T01:27:55Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "OpenDolphin-7B-slerp.IQ3_M.gguf",
+            "size": "3284891808",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "612eab1e85fb10ce054f9a562e727cccffad16be96813e49c29d9f08ed6eedef",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenDolphin-7B-slerp-GGUF/resolve/main/OpenDolphin-7B-slerp.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "OpenDolphin-7B-slerp.IQ3_S.gguf",
+            "size": "3182393504",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "4c4a2c1533a02f2516ec2583a757586d780ab840bf119fa237b7e627c7a20fc2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenDolphin-7B-slerp-GGUF/resolve/main/OpenDolphin-7B-slerp.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "OpenDolphin-7B-slerp.IQ3_XS.gguf",
+            "size": "3018815648",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "72c21275775926a4b2a332cc6cbdf18857bc1ff88ce6965f1e9b0c2525c87af8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenDolphin-7B-slerp-GGUF/resolve/main/OpenDolphin-7B-slerp.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "OpenDolphin-7B-slerp.IQ4_XS.gguf",
+            "size": "3944388768",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "1219cfe5b46b08099299424e356c38910ab1a89bde584bdf15a8b1ef030daf87",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenDolphin-7B-slerp-GGUF/resolve/main/OpenDolphin-7B-slerp.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "OpenDolphin-7B-slerp.Q2_K.gguf",
+            "size": "2719242400",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "babb4548ff52ebbc1fd78f078daa3b16d656f31dfe3b3e69ad11c5078b838bd1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenDolphin-7B-slerp-GGUF/resolve/main/OpenDolphin-7B-slerp.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "OpenDolphin-7B-slerp.Q3_K_L.gguf",
+            "size": "3822024864",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "136d0e069249ca8c53c5a38e8651c270d493f58ecfecd7129d0a0815ca623546",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenDolphin-7B-slerp-GGUF/resolve/main/OpenDolphin-7B-slerp.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "OpenDolphin-7B-slerp.Q3_K_M.gguf",
+            "size": "3518986400",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "464cd3e7b5752c9dcbdd157e9f6fdb7fe435bdf65edf86c37ecb1c0ad70f2b61",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenDolphin-7B-slerp-GGUF/resolve/main/OpenDolphin-7B-slerp.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "OpenDolphin-7B-slerp.Q3_K_S.gguf",
+            "size": "3164567712",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "2c8b1f8a75420280cb64665bafec128515a89e554aef9a8abcd3727f1f17e20a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenDolphin-7B-slerp-GGUF/resolve/main/OpenDolphin-7B-slerp.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "OpenDolphin-7B-slerp.Q4_K_M.gguf",
+            "size": "4368439456",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "f14a8d8805a48d0023a1a93158c39717fda146b1dacf0d5643d3e113ee10ebf8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenDolphin-7B-slerp-GGUF/resolve/main/OpenDolphin-7B-slerp.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "OpenDolphin-7B-slerp.Q4_K_S.gguf",
+            "size": "4140374176",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "8113b0aadb9f7274d72aec72a8c6a3ad6063b73313d44808fa5b7c1ae1345ef2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenDolphin-7B-slerp-GGUF/resolve/main/OpenDolphin-7B-slerp.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "OpenDolphin-7B-slerp.Q5_K_M.gguf",
+            "size": "5131409568",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "fe2e8768970ca524a479285d5e10377f54198835686611b88ab89c19ad0df246",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenDolphin-7B-slerp-GGUF/resolve/main/OpenDolphin-7B-slerp.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "OpenDolphin-7B-slerp.Q5_K_S.gguf",
+            "size": "4997716128",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "0fcf0af7be13e791e5cb6af865a454c1babd09f5917cac640b57db143c8f477b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenDolphin-7B-slerp-GGUF/resolve/main/OpenDolphin-7B-slerp.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "OpenDolphin-7B-slerp.Q6_K.gguf",
+            "size": "5942065312",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "80d9391065c0d4d578ffebed2be235cb93b951adf33deb2dfcf27930c1939a03",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenDolphin-7B-slerp-GGUF/resolve/main/OpenDolphin-7B-slerp.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "OpenDolphin-7B-slerp.Q8_0.gguf",
+            "size": "7695857824",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "6a997526751be7cb1e7f6edf4de311f9bb9f3837df90baa625a0a45003858629",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenDolphin-7B-slerp-GGUF/resolve/main/OpenDolphin-7B-slerp.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

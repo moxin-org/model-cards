@@ -1,0 +1,163 @@
+{
+    "id": "Isaak-Carter/dolphin-2.8-gemma-2b_gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Isaak-Carter",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-26T09:06:34Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "dolphin-2.8-gemma-2b.Q2_K.gguf",
+            "size": "1329956352",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "4fa876cab3b88504963e602fe4450f31b4b2e01e7ea19fb31927d8e4691ff88c",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/dolphin-2.8-gemma-2b_gguf/resolve/main/dolphin-2.8-gemma-2b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.8-gemma-2b.Q3_K_L.gguf",
+            "size": "1690871296",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "1597cc23d5ab79ba186a79afd80d1e6bd32dfcdf51d42966699aa9ff0de2aea0",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/dolphin-2.8-gemma-2b_gguf/resolve/main/dolphin-2.8-gemma-2b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.8-gemma-2b.Q3_K_M.gguf",
+            "size": "1609082368",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "0981e77602b92cdaa7c3916141a198d324f1815fc11275467c343f753d12e4c5",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/dolphin-2.8-gemma-2b_gguf/resolve/main/dolphin-2.8-gemma-2b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.8-gemma-2b.Q3_K_S.gguf",
+            "size": "1513260544",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "305e8ea7aa7c5095f31176ec44e7cc281bb1b77ff0868d74b480bf2b62713cb3",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/dolphin-2.8-gemma-2b_gguf/resolve/main/dolphin-2.8-gemma-2b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.8-gemma-2b.Q4_0.gguf",
+            "size": "1846101504",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "d2da6b84fd0a2e6dd547169da4a3063e085d91a4e7cfc43e3567efca9224879f",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/dolphin-2.8-gemma-2b_gguf/resolve/main/dolphin-2.8-gemma-2b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.8-gemma-2b.Q4_1.gguf",
+            "size": "2002732544",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "2edad3c0d0e4f9b0c133d41dd84e1bb2fa32ad1341938f5f7bb181bb442b6a3f",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/dolphin-2.8-gemma-2b_gguf/resolve/main/dolphin-2.8-gemma-2b.Q4_1.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.8-gemma-2b.Q4_K_M.gguf",
+            "size": "1925174784",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a96ea34b00f396c5d52e6e512744a4962192ed335ad44c17cfd6af6f81b010cb",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/dolphin-2.8-gemma-2b_gguf/resolve/main/dolphin-2.8-gemma-2b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.8-gemma-2b.Q4_K_S.gguf",
+            "size": "1854752256",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "176d89945e0a630bec7db79ce098929a0a3752da3d6abf76352b7af3d41fd8e6",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/dolphin-2.8-gemma-2b_gguf/resolve/main/dolphin-2.8-gemma-2b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.8-gemma-2b.Q5_0.gguf",
+            "size": "2159363584",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "6280172a9358b4569108a2357dbff9d52cb126c9655badb62f52ed338c3bcb30",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/dolphin-2.8-gemma-2b_gguf/resolve/main/dolphin-2.8-gemma-2b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.8-gemma-2b.Q5_1.gguf",
+            "size": "2315994624",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "4a6f4ce3af11453560f6081191ae0e6c0201b1693c0cf7b3e3f43a654c73bacc",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/dolphin-2.8-gemma-2b_gguf/resolve/main/dolphin-2.8-gemma-2b.Q5_1.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.8-gemma-2b.Q5_K_M.gguf",
+            "size": "2200098304",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "75b33d74b053231be67673418e67edd689d26f526d5346b11f1d0a69095eaa9f",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/dolphin-2.8-gemma-2b_gguf/resolve/main/dolphin-2.8-gemma-2b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.8-gemma-2b.Q5_K_S.gguf",
+            "size": "2159363584",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "63f92cb62590baaaccc5e7b74fe49cd149d1011d3c855d6ce79e8c5f2d65a83c",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/dolphin-2.8-gemma-2b_gguf/resolve/main/dolphin-2.8-gemma-2b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.8-gemma-2b.Q6_K.gguf",
+            "size": "2492204544",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "c244b7d182766d1c24b2be5554a0acbc737dc4a3d32474c91c921fefcd3248ca",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/dolphin-2.8-gemma-2b_gguf/resolve/main/dolphin-2.8-gemma-2b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.8-gemma-2b.Q8_0.gguf",
+            "size": "3226125824",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "adbf2c1062cf8c6511bfd31e917eeaa3589897c0b5e83901cdee0927ef3e91ba",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/dolphin-2.8-gemma-2b_gguf/resolve/main/dolphin-2.8-gemma-2b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

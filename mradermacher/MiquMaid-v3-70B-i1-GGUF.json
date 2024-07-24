@@ -1,0 +1,223 @@
+{
+    "id": "mradermacher/MiquMaid-v3-70B-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-06T14:38:23Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "MiquMaid-v3-70B.i1-IQ4_XS.gguf",
+            "size": "36829820480",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "701ef2a64e340ed1b7028ea0bba77203d00b99d47463875a65e7e1ccbb8e1b98",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MiquMaid-v3-70B-i1-GGUF/resolve/main/MiquMaid-v3-70B.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "MiquMaid-v3-70B.i1-Q5_K_S.gguf",
+            "size": "47461398080",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "7652f6880755a36b50543426a7284067b7e22ec6a4cca62fa1960798f885c983",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MiquMaid-v3-70B-i1-GGUF/resolve/main/MiquMaid-v3-70B.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "MiquMaid-v3-70B.i1-Q5_K_M.gguf",
+            "size": "48753768000",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "c18d7cb93a9d3a4b70d7a19d1d050cd65c29ff5fd78ca7672a55d3a163da7687",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MiquMaid-v3-70B-i1-GGUF/resolve/main/MiquMaid-v3-70B.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "MiquMaid-v3-70B.i1-Q4_K_S.gguf",
+            "size": "39249737280",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "1b05aa1fda6608be934ddb8ce171ba11748be43d0db7be0a26a80739f91da712",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MiquMaid-v3-70B-i1-GGUF/resolve/main/MiquMaid-v3-70B.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "MiquMaid-v3-70B.i1-Q4_K_M.gguf",
+            "size": "41422911040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "6ef2686d35d2aa0183ec1b643547c535492a7fee88e9189b8cccc381a3ea25c2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MiquMaid-v3-70B-i1-GGUF/resolve/main/MiquMaid-v3-70B.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "MiquMaid-v3-70B.i1-Q4_0.gguf",
+            "size": "39019050560",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "f67e52cf45682a6fedd2935e7444687b5c1ba7df3573399d2496af47078457de",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MiquMaid-v3-70B-i1-GGUF/resolve/main/MiquMaid-v3-70B.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "MiquMaid-v3-70B.i1-Q3_K_S.gguf",
+            "size": "29919295040",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "a39fe243b95692d784f98bdc86be582153aa6de65fd3951ff8ba556366e4156b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MiquMaid-v3-70B-i1-GGUF/resolve/main/MiquMaid-v3-70B.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "MiquMaid-v3-70B.i1-Q3_K_M.gguf",
+            "size": "33274738240",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "619eb8c1f68bc6409ecad44ab8f4a5ae16a54503e36bc0755cf0a0f80c8c00de",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MiquMaid-v3-70B-i1-GGUF/resolve/main/MiquMaid-v3-70B.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "MiquMaid-v3-70B.i1-Q3_K_L.gguf",
+            "size": "36147836480",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "e3275ad3f723d2de05850dde99db34b3bb796645afd9d79991e941519d5004bc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MiquMaid-v3-70B-i1-GGUF/resolve/main/MiquMaid-v3-70B.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "MiquMaid-v3-70B.i1-Q2_K.gguf",
+            "size": "25462437440",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "944b87f2786d2d468316b71404b08f2516631e30de2448442982aee631005c76",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MiquMaid-v3-70B-i1-GGUF/resolve/main/MiquMaid-v3-70B.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "MiquMaid-v3-70B.i1-IQ1_M.gguf",
+            "size": "15943251520",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "6887f3f64c23010975bd8942a30c4958f267c74dcff0ff105154eb02d04b003e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MiquMaid-v3-70B-i1-GGUF/resolve/main/MiquMaid-v3-70B.i1-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "MiquMaid-v3-70B.i1-IQ3_XXS.gguf",
+            "size": "26581464640",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "a34a28cf9220ba92e443303e0708d6db94e64a90139b2ce5797f952fc2fef895",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MiquMaid-v3-70B-i1-GGUF/resolve/main/MiquMaid-v3-70B.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "MiquMaid-v3-70B.i1-IQ3_XS.gguf",
+            "size": "28314973760",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "ac6a9cbecebc4a31360177077d3f337656048b5b83925f8499a00d43a72610bc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MiquMaid-v3-70B-i1-GGUF/resolve/main/MiquMaid-v3-70B.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "MiquMaid-v3-70B.i1-IQ3_S.gguf",
+            "size": "29919295040",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "c198295992f4ee2fadf03baf0996852a940e59e9eee2aef5e4afbaa3d37461c6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MiquMaid-v3-70B-i1-GGUF/resolve/main/MiquMaid-v3-70B.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "MiquMaid-v3-70B.i1-IQ3_M.gguf",
+            "size": "30944278080",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "862235e347c863efd0b23cd068c7dcc432fb983932094cf71cd2d5ed158faa41",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MiquMaid-v3-70B-i1-GGUF/resolve/main/MiquMaid-v3-70B.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "MiquMaid-v3-70B.i1-IQ2_XXS.gguf",
+            "size": "18289440320",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "528824ab51ad501b4880834e2ffd9d7a7e7d8743357aec5a451c886a9d66524c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MiquMaid-v3-70B-i1-GGUF/resolve/main/MiquMaid-v3-70B.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "MiquMaid-v3-70B.i1-IQ2_XS.gguf",
+            "size": "20334163520",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "6e8a18c4499f620c3e79d4ad19af2976f84dd49b7ef3d24359eec12c4855db82",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MiquMaid-v3-70B-i1-GGUF/resolve/main/MiquMaid-v3-70B.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "MiquMaid-v3-70B.i1-IQ2_S.gguf",
+            "size": "21354313280",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "8636d5ad74c58557138061a764c6e2d4c5a32c35141c0ac8382c18e269fdc128",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MiquMaid-v3-70B-i1-GGUF/resolve/main/MiquMaid-v3-70B.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "MiquMaid-v3-70B.i1-IQ2_M.gguf",
+            "size": "23231264320",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "5bab8668bc427e6a39c5c10a927858cc2d9ea59ed9e8c7a3456e4c7337a6a98a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MiquMaid-v3-70B-i1-GGUF/resolve/main/MiquMaid-v3-70B.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "MiquMaid-v3-70B.i1-IQ1_S.gguf",
+            "size": "14535538240",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "e66677133377d5dea2ba8d1269558fec9c8b867f41d404b02ab8b8e1ce756d55",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MiquMaid-v3-70B-i1-GGUF/resolve/main/MiquMaid-v3-70B.i1-IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

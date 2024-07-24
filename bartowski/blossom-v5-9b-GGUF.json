@@ -1,0 +1,183 @@
+{
+    "id": "bartowski/blossom-v5-9b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bartowski",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-21T17:47:30Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "blossom-v5-9b-IQ3_M.gguf",
+            "size": "4055461664",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "1b1c5a25f3724e1dc733d54f47b10fdd9cb5bc230e980be2677003bcb7a87777",
+            "download": {
+                "default": "https://huggingface.co/bartowski/blossom-v5-9b-GGUF/resolve/main/blossom-v5-9b-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "blossom-v5-9b-IQ3_S.gguf",
+            "size": "3912576800",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "b9e36a8f5031313190006088bde5132afa7a90de88f9354e1f587199f47052c4",
+            "download": {
+                "default": "https://huggingface.co/bartowski/blossom-v5-9b-GGUF/resolve/main/blossom-v5-9b-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "blossom-v5-9b-IQ4_NL.gguf",
+            "size": "5083393824",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "ae5190014c6ec400f79bf0b66f71284740bc87d30147ece524c45d40e6624e8c",
+            "download": {
+                "default": "https://huggingface.co/bartowski/blossom-v5-9b-GGUF/resolve/main/blossom-v5-9b-IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "blossom-v5-9b-IQ4_XS.gguf",
+            "size": "4827279136",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "63ed706869c0b81bb490cf160adb4ca7c8b7a449d07f9e7c0d7f6cfeef0e1218",
+            "download": {
+                "default": "https://huggingface.co/bartowski/blossom-v5-9b-GGUF/resolve/main/blossom-v5-9b-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "blossom-v5-9b-Q2_K.gguf",
+            "size": "3354324768",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "27ae54d9c8b03120c639f1a8cb341dec16c19cccdb9403ea5a67015aff5b474f",
+            "download": {
+                "default": "https://huggingface.co/bartowski/blossom-v5-9b-GGUF/resolve/main/blossom-v5-9b-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "blossom-v5-9b-Q3_K_L.gguf",
+            "size": "4690751264",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "932e6a81ac8104c9b7bc114fdec6eacf38128373a89a4a3166f20c1a155fb846",
+            "download": {
+                "default": "https://huggingface.co/bartowski/blossom-v5-9b-GGUF/resolve/main/blossom-v5-9b-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "blossom-v5-9b-Q3_K_M.gguf",
+            "size": "4324405024",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "31751a4bb0841ce39cebae5570bc35c5aca93260ac51aa097a0e253ac7d07d92",
+            "download": {
+                "default": "https://huggingface.co/bartowski/blossom-v5-9b-GGUF/resolve/main/blossom-v5-9b-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "blossom-v5-9b-Q3_K_S.gguf",
+            "size": "3899207456",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "160bb095bb117283fa916793c1b78c5a83af5f82ba1b21c825b6c997aed52f3e",
+            "download": {
+                "default": "https://huggingface.co/bartowski/blossom-v5-9b-GGUF/resolve/main/blossom-v5-9b-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "blossom-v5-9b-Q4_0.gguf",
+            "size": "5036994336",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "0d2733530a04eddc824635329b75531dca3b35b1e5879bf832f8fee6961c0a0e",
+            "download": {
+                "default": "https://huggingface.co/bartowski/blossom-v5-9b-GGUF/resolve/main/blossom-v5-9b-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "blossom-v5-9b-Q4_K_M.gguf",
+            "size": "5328957216",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "7189c08b811204733dd346384145f1efd985d2fc2e324fd6cdf18ce453dd4846",
+            "download": {
+                "default": "https://huggingface.co/bartowski/blossom-v5-9b-GGUF/resolve/main/blossom-v5-9b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "blossom-v5-9b-Q4_K_S.gguf",
+            "size": "5071859488",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "52c374ba5ec96257d763c4dfb62a181f467e55483f56c83f1316600de79d4e73",
+            "download": {
+                "default": "https://huggingface.co/bartowski/blossom-v5-9b-GGUF/resolve/main/blossom-v5-9b-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "blossom-v5-9b-Q5_0.gguf",
+            "size": "6107852576",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "e458e309fcb511aa6e4d4f6b73e3d2dcdfd0f059dac1073f6fae93159dd8024f",
+            "download": {
+                "default": "https://huggingface.co/bartowski/blossom-v5-9b-GGUF/resolve/main/blossom-v5-9b-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "blossom-v5-9b-Q5_K_M.gguf",
+            "size": "6258257696",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "9d53a33a116a37eafbafa5ed4503e1d168cb7d090ec82499422ef82e0657655e",
+            "download": {
+                "default": "https://huggingface.co/bartowski/blossom-v5-9b-GGUF/resolve/main/blossom-v5-9b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "blossom-v5-9b-Q5_K_S.gguf",
+            "size": "6107852576",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "2694c70280b2b5f0cc81b39e217d35923a13dac75527e69bdf808e5dce5aa609",
+            "download": {
+                "default": "https://huggingface.co/bartowski/blossom-v5-9b-GGUF/resolve/main/blossom-v5-9b-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "blossom-v5-9b-Q6_K.gguf",
+            "size": "7245639456",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "ae0309afdbe9d38bf373181fb0267dcb7cdc07f3a710fb444050d6117f14e311",
+            "download": {
+                "default": "https://huggingface.co/bartowski/blossom-v5-9b-GGUF/resolve/main/blossom-v5-9b-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "blossom-v5-9b-Q8_0.gguf",
+            "size": "9383915296",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "a101dfc70475930c199c2b025e8ef71d99d98ef0091a1d0365628c99345c2e40",
+            "download": {
+                "default": "https://huggingface.co/bartowski/blossom-v5-9b-GGUF/resolve/main/blossom-v5-9b-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

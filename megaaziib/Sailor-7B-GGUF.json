@@ -1,0 +1,43 @@
+{
+    "id": "megaaziib/Sailor-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "megaaziib",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-03T01:05:57Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "sailor-7b.Q4_K_M.gguf",
+            "size": "4764980672",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "fa48d28c2564344e651ec667bdd358e57ff039d51808188de7c341640e5a186a",
+            "download": {
+                "default": "https://huggingface.co/megaaziib/Sailor-7B-GGUF/resolve/main/sailor-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "sailor-7b.Q5_K_M.gguf",
+            "size": "5528540608",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "3da1ecde6bf0cfe1e0917f49ae053bab03dcbbaafb9c679882963ae9fe3891ab",
+            "download": {
+                "default": "https://huggingface.co/megaaziib/Sailor-7B-GGUF/resolve/main/sailor-7b.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

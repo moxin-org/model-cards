@@ -1,0 +1,153 @@
+{
+    "id": "second-state/Octopus-v2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-07T13:49:43Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Octopus-v2-f16.gguf",
+            "size": "10030909664",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8e14ed8a6cb85d1774cc3402122e35ced6284ee01b9f3b25f7b08c22864e8401",
+            "download": {
+                "default": "https://huggingface.co/second-state/Octopus-v2-GGUF/resolve/main/Octopus-v2-f16.gguf"
+            }
+        },
+        {
+            "name": "Octopus-v2-Q2_K.gguf",
+            "size": "1157962080",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "6c3e4fc3cb88c6a001a78b5663a857b511d1bf9f66fc61f057af3b19d2fb18ae",
+            "download": {
+                "default": "https://huggingface.co/second-state/Octopus-v2-GGUF/resolve/main/Octopus-v2-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Octopus-v2-Q3_K_L.gguf",
+            "size": "1465629024",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "b3d59aa88031546898953a4cebcd3f68248be6309a70ad0764f59fe86429167c",
+            "download": {
+                "default": "https://huggingface.co/second-state/Octopus-v2-GGUF/resolve/main/Octopus-v2-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Octopus-v2-Q3_K_M.gguf",
+            "size": "1383840096",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "cabf93a06e9fd4f3769fca00eff3be6a8953a079c585c6afb1193799088b475f",
+            "download": {
+                "default": "https://huggingface.co/second-state/Octopus-v2-GGUF/resolve/main/Octopus-v2-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Octopus-v2-Q3_K_S.gguf",
+            "size": "1288018272",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "bc401c0863fb2ab87fe558ffcd4cb3df00e0e990236273c844b9579c2fb5e548",
+            "download": {
+                "default": "https://huggingface.co/second-state/Octopus-v2-GGUF/resolve/main/Octopus-v2-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Octopus-v2-Q4_0.gguf",
+            "size": "1551227232",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "d24db1d1c2020d8e8dd828dfcc74505b635cfd129af6be7fa3b71cd8c249a225",
+            "download": {
+                "default": "https://huggingface.co/second-state/Octopus-v2-GGUF/resolve/main/Octopus-v2-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Octopus-v2-Q4_K_M.gguf",
+            "size": "1630300512",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "d8387c6fa6324016e30e6bfcf7840673b48bbd9ac592dc89d699c2b4ed89228c",
+            "download": {
+                "default": "https://huggingface.co/second-state/Octopus-v2-GGUF/resolve/main/Octopus-v2-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Octopus-v2-Q4_K_S.gguf",
+            "size": "1559877984",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "7713d7a5d926c04cf32fda0f2b7dcb997e08143637e422e04ef4c69a1f52910b",
+            "download": {
+                "default": "https://huggingface.co/second-state/Octopus-v2-GGUF/resolve/main/Octopus-v2-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Octopus-v2-Q5_0.gguf",
+            "size": "1798953312",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "e7d9ef87d0622095fa32975c8c537c00f8e4ca8754df5e1682bc52b61a58132b",
+            "download": {
+                "default": "https://huggingface.co/second-state/Octopus-v2-GGUF/resolve/main/Octopus-v2-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Octopus-v2-Q5_K_M.gguf",
+            "size": "1839688032",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "7b6ffe3be3f5bbae0cc79e8f83d0b9b3b1a41e83056c82b22f0e447f48ce23af",
+            "download": {
+                "default": "https://huggingface.co/second-state/Octopus-v2-GGUF/resolve/main/Octopus-v2-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Octopus-v2-Q5_K_S.gguf",
+            "size": "1798953312",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "558cda8963c150ac12048dd76272e8dee3865c701b21124dbbc751ca4828bd67",
+            "download": {
+                "default": "https://huggingface.co/second-state/Octopus-v2-GGUF/resolve/main/Octopus-v2-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Octopus-v2-Q6_K.gguf",
+            "size": "2062162272",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b98a147902545ce3e870459874adec748a2c40df37a0013a320138a19381eb8a",
+            "download": {
+                "default": "https://huggingface.co/second-state/Octopus-v2-GGUF/resolve/main/Octopus-v2-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Octopus-v2-Q8_0.gguf",
+            "size": "2669118464",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "a85db45807a0d26b2c14753cea10f947a26196bde3770c95a2d0688b1bd6c127",
+            "download": {
+                "default": "https://huggingface.co/second-state/Octopus-v2-GGUF/resolve/main/Octopus-v2-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 2048,
+    "vector_size": 0,
+    "metrics": null
+}

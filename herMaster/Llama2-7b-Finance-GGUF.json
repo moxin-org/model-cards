@@ -1,0 +1,53 @@
+{
+    "id": "herMaster/Llama2-7b-Finance-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "herMaster",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-19T05:36:45Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Llama2-7b-Finance_f32.gguf",
+            "size": "26954403520",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3a3c4105b015b00b845b7fe287ee85746e05fa042bc01838b98b1e87c8430a01",
+            "download": {
+                "default": "https://huggingface.co/herMaster/Llama2-7b-Finance-GGUF/resolve/main/Llama2-7b-Finance_f32.gguf"
+            }
+        },
+        {
+            "name": "Llama2-7b-Finance_q8_0.gguf",
+            "size": "7161089728",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9da64e96fe8b3acc170be0facffd5cb7686276e343e07da4bb6bc23f9908555f",
+            "download": {
+                "default": "https://huggingface.co/herMaster/Llama2-7b-Finance-GGUF/resolve/main/Llama2-7b-Finance_q8_0.gguf"
+            }
+        },
+        {
+            "name": "Llama2-7b-Finance-f16.gguf",
+            "size": "13478104768",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8a091daa5916a2a328c40ce000b80f56fc63951f001e6b0062989db3aec47c34",
+            "download": {
+                "default": "https://huggingface.co/herMaster/Llama2-7b-Finance-GGUF/resolve/main/Llama2-7b-Finance-f16.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

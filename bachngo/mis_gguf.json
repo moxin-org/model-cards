@@ -1,0 +1,93 @@
+{
+    "id": "bachngo/mis_gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bachngo",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-01T01:43:44Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "anmis-7b-chat.Q5_K_M.gguf",
+            "size": "5170892960",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e7df304aff7fe9385c3bb7089611fccdbd8a4fbf73a1ed8da4cfbbf7424d9ccd",
+            "download": {
+                "default": "https://huggingface.co/bachngo/mis_gguf/resolve/main/anmis-7b-chat.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "anmisv3.Q5_K_M.gguf",
+            "size": "5170893024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "c1c29540feb23e0918a8fffa0b2e393589cf18070d46507be47eb2d799c8bba7",
+            "download": {
+                "default": "https://huggingface.co/bachngo/mis_gguf/resolve/main/anmisv3.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "vietnamese-llama2-7b-120gb.Q5_K_S.gguf",
+            "size": "4735063584",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "18bf514ecc0fef33b827b1a4d0b93401ad098868cfd930f927d4879db3a538f4",
+            "download": {
+                "default": "https://huggingface.co/bachngo/mis_gguf/resolve/main/vietnamese-llama2-7b-120gb.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "vinallama-7b-chat.Q5_K_S.gguf",
+            "size": "4740368224",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "37a85ff6dce9b480178ee954fb7b1de362f848d114fdc5c35e403d77453dfab1",
+            "download": {
+                "default": "https://huggingface.co/bachngo/mis_gguf/resolve/main/vinallama-7b-chat.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "vistral-7b-chat.Q4_1.gguf",
+            "size": "4591169472",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "6e3b3109e274ed4025722ee17f02e01a40125de155b39d02917ce61b85acd346",
+            "download": {
+                "default": "https://huggingface.co/bachngo/mis_gguf/resolve/main/vistral-7b-chat.Q4_1.gguf"
+            }
+        },
+        {
+            "name": "vistral-7b-chat.Q4_K_S.gguf",
+            "size": "4176596672",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "23edff2d915314be6ce347310c1936cb0c9cd5bec295af2e7d72856c4f359d88",
+            "download": {
+                "default": "https://huggingface.co/bachngo/mis_gguf/resolve/main/vistral-7b-chat.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "vistral-7b-chat.Q5_K_S.gguf",
+            "size": "5037199552",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "d02025e3bda7bf50731993d927ea77abb883da0185b5f82d9c8b77fe68d066bc",
+            "download": {
+                "default": "https://huggingface.co/bachngo/mis_gguf/resolve/main/vistral-7b-chat.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

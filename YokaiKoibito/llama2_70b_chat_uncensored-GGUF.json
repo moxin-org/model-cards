@@ -1,0 +1,103 @@
+{
+    "id": "YokaiKoibito/llama2_70b_chat_uncensored-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "YokaiKoibito",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-05T17:55:28Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llama2_70b_chat_uncensored-Q2_K.gguf",
+            "size": "29279253408",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "df2167cafad5860c81866939d07f0a259d36c58c86ab9473523b9b22f61fd2cc",
+            "download": {
+                "default": "https://huggingface.co/YokaiKoibito/llama2_70b_chat_uncensored-GGUF/resolve/main/llama2_70b_chat_uncensored-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "llama2_70b_chat_uncensored-Q3_K_L.gguf",
+            "size": "36147835808",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "43baab0b80587e357a291fa55c3e8d38558247a079348a0f26aa6dde727e3547",
+            "download": {
+                "default": "https://huggingface.co/YokaiKoibito/llama2_70b_chat_uncensored-GGUF/resolve/main/llama2_70b_chat_uncensored-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "llama2_70b_chat_uncensored-Q3_K_M.gguf",
+            "size": "33186657184",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "7d87b1f3db402ed5184c280ac3fc594d4bd3153751e562900bfa740b7274dc99",
+            "download": {
+                "default": "https://huggingface.co/YokaiKoibito/llama2_70b_chat_uncensored-GGUF/resolve/main/llama2_70b_chat_uncensored-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama2_70b_chat_uncensored-Q3_K_S.gguf",
+            "size": "29919294368",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "f6dece3733dd52f17f2e137428af0530eacb609eecdba3f4bba963aca2ee16b2",
+            "download": {
+                "default": "https://huggingface.co/YokaiKoibito/llama2_70b_chat_uncensored-GGUF/resolve/main/llama2_70b_chat_uncensored-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "llama2_70b_chat_uncensored-Q4_K_M.gguf",
+            "size": "41422910368",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "0f7427a3e77ba2b1a29533aad13b30e7c8aeae0039f7ee267dbaeb63452055b9",
+            "download": {
+                "default": "https://huggingface.co/YokaiKoibito/llama2_70b_chat_uncensored-GGUF/resolve/main/llama2_70b_chat_uncensored-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama2_70b_chat_uncensored-Q4_K_S.gguf",
+            "size": "39073575840",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "0a76a08697c189a39bb02d31aeaeb6c0ba282ad244d4b23a7e045603d430e4ac",
+            "download": {
+                "default": "https://huggingface.co/YokaiKoibito/llama2_70b_chat_uncensored-GGUF/resolve/main/llama2_70b_chat_uncensored-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "llama2_70b_chat_uncensored-Q5_K_M.gguf",
+            "size": "48753767328",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "22e160873c79b2b2d900dd7596c168fdcaff5c0a305109f29eeb943acf53ca42",
+            "download": {
+                "default": "https://huggingface.co/YokaiKoibito/llama2_70b_chat_uncensored-GGUF/resolve/main/llama2_70b_chat_uncensored-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama2_70b_chat_uncensored-Q5_K_S.gguf",
+            "size": "47461397408",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "1c6e8d020ac5c29185288c879ecb870a0be3f77fb4840dfea3dcc5664d07ec83",
+            "download": {
+                "default": "https://huggingface.co/YokaiKoibito/llama2_70b_chat_uncensored-GGUF/resolve/main/llama2_70b_chat_uncensored-Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

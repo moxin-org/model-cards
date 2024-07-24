@@ -1,0 +1,63 @@
+{
+    "id": "mradermacher/hydra-moe-120b-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-10T05:13:55Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "hydra-moe-120b.i1-IQ2_M.gguf",
+            "size": "37193605280",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "08665a52e16fcbdc1be341cfad653258abca5b71828ce46fcfb0a8ac78a3ead0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/hydra-moe-120b-i1-GGUF/resolve/main/hydra-moe-120b.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "hydra-moe-120b.i1-IQ3_XXS.gguf",
+            "size": "43687239840",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "34110db55e643ae811a0a5f867932e1a55f0f0d74b9ad5a25cc8497aa4f0e182",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/hydra-moe-120b-i1-GGUF/resolve/main/hydra-moe-120b.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "hydra-moe-120b.i1-Q2_K.gguf",
+            "size": "41527091360",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "c8e7e9d22ea3fd44af2179f6a1173b3b9ffc0f7519f8e0dfb9d496156c82a548",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/hydra-moe-120b-i1-GGUF/resolve/main/hydra-moe-120b.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "hydra-moe-120b.i1-Q3_K_S.gguf",
+            "size": "49029550240",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "a8031adbbea156102785696b0956affd8259e1b01d5eb4958d57184269da33e1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/hydra-moe-120b-i1-GGUF/resolve/main/hydra-moe-120b.i1-Q3_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

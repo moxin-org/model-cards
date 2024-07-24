@@ -1,0 +1,53 @@
+{
+    "id": "nisten/obsidian-3b-multimodal-q6-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "nisten",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-29T04:28:10Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mmproj-obsidian-f16.gguf",
+            "size": "600829088",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2b62df2eef4461a92c9edb9f312584f872611ffcc0ce213eb6d59792629b6cab",
+            "download": {
+                "default": "https://huggingface.co/nisten/obsidian-3b-multimodal-q6-gguf/resolve/main/mmproj-obsidian-f16.gguf"
+            }
+        },
+        {
+            "name": "obsidian-f16.gguf",
+            "size": "5593341344",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c4bcfdc328e3b8ea9ef9c9547646e431de79444bf0c428bfbe692f586b8c5e44",
+            "download": {
+                "default": "https://huggingface.co/nisten/obsidian-3b-multimodal-q6-gguf/resolve/main/obsidian-f16.gguf"
+            }
+        },
+        {
+            "name": "obsidian-q6.gguf",
+            "size": "2295984640",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ca1ae854c5ef58494b9435fb5466897b5bf511dfcdfdd9bcbb6ae0e050d4bee0",
+            "download": {
+                "default": "https://huggingface.co/nisten/obsidian-3b-multimodal-q6-gguf/resolve/main/obsidian-q6.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

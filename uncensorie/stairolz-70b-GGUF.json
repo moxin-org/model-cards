@@ -1,0 +1,43 @@
+{
+    "id": "uncensorie/stairolz-70b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "uncensorie",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-09T00:21:36Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "stairolz-70b.q4_K_S.gguf",
+            "size": "39073575936",
+            "quantization": "",
+            "tags": [],
+            "sha256": "616b3a6023d9da3acd7819c3b9da6cdefe4ab4428818e07ca6e376ca6d6d5c14",
+            "download": {
+                "default": "https://huggingface.co/uncensorie/stairolz-70b-GGUF/resolve/main/stairolz-70b.q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "stairolz-70b.q5_K_M.gguf",
+            "size": "48753767424",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7e4d5d32687845ec1f8bc71f10088f19cf967647ece47239295e638603987bce",
+            "download": {
+                "default": "https://huggingface.co/uncensorie/stairolz-70b-GGUF/resolve/main/stairolz-70b.q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

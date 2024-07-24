@@ -1,0 +1,63 @@
+{
+    "id": "Sombressoul/GEITje-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Sombressoul",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-25T01:01:31Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "GEITje-7B-Q4_K_M.gguf",
+            "size": "4368439424",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "968288d369ad79c6c431671c01cc9d15a1e4dc8128fdde8e8b587ecef3e581a5",
+            "download": {
+                "default": "https://huggingface.co/Sombressoul/GEITje-7B-GGUF/resolve/main/GEITje-7B-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "GEITje-7B-Q5_K_M.gguf",
+            "size": "5131409536",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "cf7bdf8876f66be95f21e4a6a63275bd7329608d7149453df009f4a0bf51d69f",
+            "download": {
+                "default": "https://huggingface.co/Sombressoul/GEITje-7B-GGUF/resolve/main/GEITje-7B-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "GEITje-7B-Q6_K.gguf",
+            "size": "5942065280",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "c48d50bfde3c661a53550d39e6b34c9476c5bcc9f59fc32be32a59955ca6876f",
+            "download": {
+                "default": "https://huggingface.co/Sombressoul/GEITje-7B-GGUF/resolve/main/GEITje-7B-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "GEITje-7B-Q8_0.gguf",
+            "size": "7695857792",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "f6dd4bf6f65f8c0b06092902b516cc4061a3b8f3b992572c8f2234670a6bc979",
+            "download": {
+                "default": "https://huggingface.co/Sombressoul/GEITje-7B-GGUF/resolve/main/GEITje-7B-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

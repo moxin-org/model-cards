@@ -1,0 +1,73 @@
+{
+    "id": "NeverSleep/Echidna-13b-v0.3-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "NeverSleep",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-27T20:45:35Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Echidna-13b-v0.3.Q4_K_M.gguf",
+            "size": "7865956320",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "72ae4a42f229487e2a5628d5d19e1287543fbf21ab89703118f9ae1bacc55f77",
+            "download": {
+                "default": "https://huggingface.co/NeverSleep/Echidna-13b-v0.3-GGUF/resolve/main/Echidna-13b-v0.3.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Echidna-13b-v0.3.Q4_K_S.gguf",
+            "size": "7414331360",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "c3993fb656c135a711da9af809b765518e4269b6cabe3a9d092e83afd85b6908",
+            "download": {
+                "default": "https://huggingface.co/NeverSleep/Echidna-13b-v0.3-GGUF/resolve/main/Echidna-13b-v0.3.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Echidna-13b-v0.3.Q5_K_M.gguf",
+            "size": "9229924320",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "3417369ccca009982c5e89e8e759b03fa2def934c29a289a4a5d32f8cd43390a",
+            "download": {
+                "default": "https://huggingface.co/NeverSleep/Echidna-13b-v0.3-GGUF/resolve/main/Echidna-13b-v0.3.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Echidna-13b-v0.3.Q6_K.gguf",
+            "size": "10679140320",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "f07639012ad2d3eb81cf3d70429172817132eb69d5fe57c7f78732b52c734f34",
+            "download": {
+                "default": "https://huggingface.co/NeverSleep/Echidna-13b-v0.3-GGUF/resolve/main/Echidna-13b-v0.3.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Echidna-13b-v0.3.Q8_0.gguf",
+            "size": "13831319520",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "4b4d70bf338c673b672465c7b3d58519c0cb125cabdc99d42b8028759c2c0322",
+            "download": {
+                "default": "https://huggingface.co/NeverSleep/Echidna-13b-v0.3-GGUF/resolve/main/Echidna-13b-v0.3.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

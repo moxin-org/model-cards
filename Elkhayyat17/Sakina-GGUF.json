@@ -1,0 +1,53 @@
+{
+    "id": "Elkhayyat17/Sakina-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Elkhayyat17",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-21T23:40:10Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-f16.gguf",
+            "size": "13478105696",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b437fdf054acc4da3f163c884c527d925f645d4661ac71b14c2600bb4f5a012b",
+            "download": {
+                "default": "https://huggingface.co/Elkhayyat17/Sakina-GGUF/resolve/main/ggml-model-f16.gguf"
+            }
+        },
+        {
+            "name": "sakina-Q4_K_M.gguf",
+            "size": "4081005184",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "fd65afd0ba4965d47edd9327cab84cf45179cadff23cd9cd71554994ca42e639",
+            "download": {
+                "default": "https://huggingface.co/Elkhayyat17/Sakina-GGUF/resolve/main/sakina-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "sakina-Q5_K_M.gguf",
+            "size": "4783157888",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "919fdeee2684773e60f5f60c47a7720adbae713c5938bf48462c02093598b86b",
+            "download": {
+                "default": "https://huggingface.co/Elkhayyat17/Sakina-GGUF/resolve/main/sakina-Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

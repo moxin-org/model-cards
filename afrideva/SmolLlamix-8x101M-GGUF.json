@@ -1,0 +1,93 @@
+{
+    "id": "afrideva/SmolLlamix-8x101M-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-16T00:20:39Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "smolllamix-8x101m.fp16.gguf",
+            "size": "798874880",
+            "quantization": "",
+            "tags": [],
+            "sha256": "71796d39396b6bf5f6eebd7a5b8ce460d5c42c9d24d68614958c3cbac7b67a1d",
+            "download": {
+                "default": "https://huggingface.co/afrideva/SmolLlamix-8x101M-GGUF/resolve/main/smolllamix-8x101m.fp16.gguf"
+            }
+        },
+        {
+            "name": "smolllamix-8x101m.q2_k.gguf",
+            "size": "146828320",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7fead3a24c00fb9dc4689992120d6320c2d184ecf1b52fedca5d56a44ab8f597",
+            "download": {
+                "default": "https://huggingface.co/afrideva/SmolLlamix-8x101M-GGUF/resolve/main/smolllamix-8x101m.q2_k.gguf"
+            }
+        },
+        {
+            "name": "smolllamix-8x101m.q3_k_m.gguf",
+            "size": "184668448",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6deca5bb070e7c0a1e2f577aa76e05c9d254ab578df8a8a7edb713ee2e8b29af",
+            "download": {
+                "default": "https://huggingface.co/afrideva/SmolLlamix-8x101M-GGUF/resolve/main/smolllamix-8x101m.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "smolllamix-8x101m.q4_k_m.gguf",
+            "size": "233537056",
+            "quantization": "",
+            "tags": [],
+            "sha256": "87c2af991dc208b5171736d5a974fe7d5b9697e18ae7eb685a22dff56374fd5c",
+            "download": {
+                "default": "https://huggingface.co/afrideva/SmolLlamix-8x101M-GGUF/resolve/main/smolllamix-8x101m.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "smolllamix-8x101m.q5_k_m.gguf",
+            "size": "279973408",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f34b7344d2204f1910a31e78ad5ca58ea7b34774aca3e7daad19567a1133085b",
+            "download": {
+                "default": "https://huggingface.co/afrideva/SmolLlamix-8x101M-GGUF/resolve/main/smolllamix-8x101m.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "smolllamix-8x101m.q6_k.gguf",
+            "size": "329312032",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3140a445377fa894c4eca14e7a56debcb5b1138c9501f9c5c10679d28fd634f8",
+            "download": {
+                "default": "https://huggingface.co/afrideva/SmolLlamix-8x101M-GGUF/resolve/main/smolllamix-8x101m.q6_k.gguf"
+            }
+        },
+        {
+            "name": "smolllamix-8x101m.q8_0.gguf",
+            "size": "425258272",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4537451938b1d2b36895188bbf82a433a214ceeecbb33529e9af4cc0d08e806a",
+            "download": {
+                "default": "https://huggingface.co/afrideva/SmolLlamix-8x101M-GGUF/resolve/main/smolllamix-8x101m.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

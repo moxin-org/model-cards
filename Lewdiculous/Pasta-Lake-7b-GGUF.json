@@ -1,0 +1,83 @@
+{
+    "id": "Lewdiculous/Pasta-Lake-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Lewdiculous",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-25T01:38:04Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Pasta-Lake-7b-IQ3_S.gguf",
+            "size": "3182392960",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "bb7c3863b1bf21a567a4d244020706786d717030f06ea31b93a5977ef1d06df4",
+            "download": {
+                "default": "https://huggingface.co/Lewdiculous/Pasta-Lake-7b-GGUF/resolve/main/Pasta-Lake-7b-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Pasta-Lake-7b-Q3_K_M.gguf",
+            "size": "3518985856",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "4afe4558450555e105ee2ead15bbec1e5c59907ec067ff053032c6c6b9640599",
+            "download": {
+                "default": "https://huggingface.co/Lewdiculous/Pasta-Lake-7b-GGUF/resolve/main/Pasta-Lake-7b-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Pasta-Lake-7b-Q4_K_M.gguf",
+            "size": "4368438912",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "b68a2523940c70d96f77abb925488b729c97be6a75634bf2096a982ba95ad56a",
+            "download": {
+                "default": "https://huggingface.co/Lewdiculous/Pasta-Lake-7b-GGUF/resolve/main/Pasta-Lake-7b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Pasta-Lake-7b-Q4_K_S.gguf",
+            "size": "4140373632",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "41ac0f6bec4d25d229f702221cd1a7afed23d8859e459036cce23567d8c90eae",
+            "download": {
+                "default": "https://huggingface.co/Lewdiculous/Pasta-Lake-7b-GGUF/resolve/main/Pasta-Lake-7b-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Pasta-Lake-7b-Q5_K_M.gguf",
+            "size": "5131409024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "773a6c5a32916d30bc5472b95213641a7871348676157a202725d59bba853420",
+            "download": {
+                "default": "https://huggingface.co/Lewdiculous/Pasta-Lake-7b-GGUF/resolve/main/Pasta-Lake-7b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Pasta-Lake-7b-Q5_K_S.gguf",
+            "size": "4997715584",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "e1c30667d444139e5e2e463bba834b08b1c337168fb6bf94ccafc12c00763cbc",
+            "download": {
+                "default": "https://huggingface.co/Lewdiculous/Pasta-Lake-7b-GGUF/resolve/main/Pasta-Lake-7b-Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

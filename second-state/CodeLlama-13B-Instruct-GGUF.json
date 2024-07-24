@@ -1,0 +1,153 @@
+{
+    "id": "second-state/CodeLlama-13B-Instruct-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-31T10:51:59Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "CodeLlama-13b-Instruct-hf-Q2_K.gguf",
+            "size": "5429442880",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "6dfc9309d48fffd2ecbdc0571f96a99da7d7bf094208a713e9a4cb8205546f29",
+            "download": {
+                "default": "https://huggingface.co/second-state/CodeLlama-13B-Instruct-GGUF/resolve/main/CodeLlama-13b-Instruct-hf-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-13b-Instruct-hf-Q3_K_L.gguf",
+            "size": "6929662400",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "52a7dd56e80f0d362635be72bfc5dc76eda5f4317ab55d6a04f824b1a7b5e798",
+            "download": {
+                "default": "https://huggingface.co/second-state/CodeLlama-13B-Instruct-GGUF/resolve/main/CodeLlama-13b-Instruct-hf-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-13b-Instruct-hf-Q3_K_M.gguf",
+            "size": "6337872320",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "d62f4656f12c2cc6763c9ea47fc1474dbaa5ab6adee4f3452f91da979fdbbabf",
+            "download": {
+                "default": "https://huggingface.co/second-state/CodeLlama-13B-Instruct-GGUF/resolve/main/CodeLlama-13b-Instruct-hf-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-13b-Instruct-hf-Q3_K_S.gguf",
+            "size": "5659083200",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "8dbe16cb1b2046faac05e8803822309deb9e1bfc74a4d05c2eefff813e4ae44f",
+            "download": {
+                "default": "https://huggingface.co/second-state/CodeLlama-13B-Instruct-GGUF/resolve/main/CodeLlama-13b-Instruct-hf-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-13b-Instruct-hf-Q4_0.gguf",
+            "size": "7365948480",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "cd4e71c660c8d04ec0c12806a69a05651c1882308323714a8e7bf61e94102830",
+            "download": {
+                "default": "https://huggingface.co/second-state/CodeLlama-13B-Instruct-GGUF/resolve/main/CodeLlama-13b-Instruct-hf-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-13b-Instruct-hf-Q4_K_M.gguf",
+            "size": "7866070080",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e2ad727d4893bc44add809e992c8f584e4fb1e986163a5b7510e2cc1f34b3c55",
+            "download": {
+                "default": "https://huggingface.co/second-state/CodeLlama-13B-Instruct-GGUF/resolve/main/CodeLlama-13b-Instruct-hf-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-13b-Instruct-hf-Q4_K_S.gguf",
+            "size": "7414445120",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "611b17920328206a9c0ae7928c66bb52d6d986ce35a7fd82d9036b0bc9ef1718",
+            "download": {
+                "default": "https://huggingface.co/second-state/CodeLlama-13B-Instruct-GGUF/resolve/main/CodeLlama-13b-Instruct-hf-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-13b-Instruct-hf-Q5_0.gguf",
+            "size": "8972409920",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "aff52f07419e1bfbb452644960b0fa63907f40689f9a85f580e3813ffb54fa3c",
+            "download": {
+                "default": "https://huggingface.co/second-state/CodeLlama-13B-Instruct-GGUF/resolve/main/CodeLlama-13b-Instruct-hf-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-13b-Instruct-hf-Q5_K_M.gguf",
+            "size": "9230048320",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "b30d01b5a22f2b3dc6cd01084b50114dde5e63cbc240ee7ad20ebbd6c63eab95",
+            "download": {
+                "default": "https://huggingface.co/second-state/CodeLlama-13B-Instruct-GGUF/resolve/main/CodeLlama-13b-Instruct-hf-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-13b-Instruct-hf-Q5_K_S.gguf",
+            "size": "8972409920",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "5bdcb03bada3c3fa7138752df6c8f804d8fad511e72d97ecdef5bea1adc785b3",
+            "download": {
+                "default": "https://huggingface.co/second-state/CodeLlama-13B-Instruct-GGUF/resolve/main/CodeLlama-13b-Instruct-hf-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-13b-Instruct-hf-Q6_K.gguf",
+            "size": "10679275200",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b86d1658be2bf2b03d764d3e97e6a19ce6367a301192945a8358d7d51a9c67ed",
+            "download": {
+                "default": "https://huggingface.co/second-state/CodeLlama-13B-Instruct-GGUF/resolve/main/CodeLlama-13b-Instruct-hf-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-13b-Instruct-hf-Q8_0.gguf",
+            "size": "13831494080",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "44a69ac2d210548b1edc0f0b622a2c196e364d5923f695327c3b506f8581eb95",
+            "download": {
+                "default": "https://huggingface.co/second-state/CodeLlama-13B-Instruct-GGUF/resolve/main/CodeLlama-13b-Instruct-hf-Q8_0.gguf"
+            }
+        },
+        {
+            "name": "codellama-13b-instruct.Q4_0.gguf",
+            "size": "7365948416",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "693021fa3a170a348b0a6104ab7d3a8c523331826a944dc0371fecd922df89dd",
+            "download": {
+                "default": "https://huggingface.co/second-state/CodeLlama-13B-Instruct-GGUF/resolve/main/codellama-13b-instruct.Q4_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 5120,
+    "vector_size": 0,
+    "metrics": {}
+}

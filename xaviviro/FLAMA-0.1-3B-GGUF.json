@@ -1,0 +1,173 @@
+{
+    "id": "xaviviro/FLAMA-0.1-3B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "xaviviro",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-27T08:18:57Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "FLAMA-0.1-3B_f16.gguf",
+            "size": "6854036096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ba81a9faad12df0101439bc57f6509bb23f65d547d948fdfb4d301314b34f85d",
+            "download": {
+                "default": "https://huggingface.co/xaviviro/FLAMA-0.1-3B-GGUF/resolve/main/FLAMA-0.1-3B_f16.gguf"
+            }
+        },
+        {
+            "name": "FLAMA-0.1-3B_q2_k.gguf",
+            "size": "2147988128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "28b0133c0e61d791ee75711ff9129df07113bbc1f8be0ed4745e13b1c86ce731",
+            "download": {
+                "default": "https://huggingface.co/xaviviro/FLAMA-0.1-3B-GGUF/resolve/main/FLAMA-0.1-3B_q2_k.gguf"
+            }
+        },
+        {
+            "name": "FLAMA-0.1-3B_q3_k_l.gguf",
+            "size": "2344084128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7164ad90dccfc6f7ee6fc9033e9afe834a49a215dc9a7631a0a7825c9ef2d6e1",
+            "download": {
+                "default": "https://huggingface.co/xaviviro/FLAMA-0.1-3B-GGUF/resolve/main/FLAMA-0.1-3B_q3_k_l.gguf"
+            }
+        },
+        {
+            "name": "FLAMA-0.1-3B_q3_k_m.gguf",
+            "size": "2270612128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "eecca77630445193abc06fc5982471dfddc7a40f45f6b8072b084384b72c4f0d",
+            "download": {
+                "default": "https://huggingface.co/xaviviro/FLAMA-0.1-3B-GGUF/resolve/main/FLAMA-0.1-3B_q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "FLAMA-0.1-3B_q3_k_s.gguf",
+            "size": "2187668128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e26f19873ba6639dc0f4b4a6a5949de16e225f873ceec6d75f0bcd2d01b7ec56",
+            "download": {
+                "default": "https://huggingface.co/xaviviro/FLAMA-0.1-3B-GGUF/resolve/main/FLAMA-0.1-3B_q3_k_s.gguf"
+            }
+        },
+        {
+            "name": "FLAMA-0.1-3B_q4_0.gguf",
+            "size": "1979924128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "93f1877d984f0ec0e2b3d79c1e401a056984bb375ed32a149fe7f71e7db79dc8",
+            "download": {
+                "default": "https://huggingface.co/xaviviro/FLAMA-0.1-3B-GGUF/resolve/main/FLAMA-0.1-3B_q4_0.gguf"
+            }
+        },
+        {
+            "name": "FLAMA-0.1-3B_q4_1.gguf",
+            "size": "2187668128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "58b161f9a67404d921eb000e91adf513e81387fe3e9881b610cfc4a33aec3180",
+            "download": {
+                "default": "https://huggingface.co/xaviviro/FLAMA-0.1-3B-GGUF/resolve/main/FLAMA-0.1-3B_q4_1.gguf"
+            }
+        },
+        {
+            "name": "FLAMA-0.1-3B_q4_k_m.gguf",
+            "size": "2580116128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "91416b203a57cbd5cf43e46a2a5a7aa2e593137ba662b67c8b35c76b72f4a699",
+            "download": {
+                "default": "https://huggingface.co/xaviviro/FLAMA-0.1-3B-GGUF/resolve/main/FLAMA-0.1-3B_q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "FLAMA-0.1-3B_q4_k_s.gguf",
+            "size": "2404884128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0953bcb9b6d33630f3018073a0bbbbb647b533ead504db8178e6e83d93b76c3b",
+            "download": {
+                "default": "https://huggingface.co/xaviviro/FLAMA-0.1-3B-GGUF/resolve/main/FLAMA-0.1-3B_q4_k_s.gguf"
+            }
+        },
+        {
+            "name": "FLAMA-0.1-3B_q5_0.gguf",
+            "size": "2395412128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "18ca4ae569df2c69f37e49e7857e5666f551cfdf5d81fa8e3a07800725ace3e3",
+            "download": {
+                "default": "https://huggingface.co/xaviviro/FLAMA-0.1-3B-GGUF/resolve/main/FLAMA-0.1-3B_q5_0.gguf"
+            }
+        },
+        {
+            "name": "FLAMA-0.1-3B_q5_1.gguf",
+            "size": "2603156128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "192c5d10b21371225b6b217030712fed83dc77764feb2d9eab944040af5f4229",
+            "download": {
+                "default": "https://huggingface.co/xaviviro/FLAMA-0.1-3B-GGUF/resolve/main/FLAMA-0.1-3B_q5_1.gguf"
+            }
+        },
+        {
+            "name": "FLAMA-0.1-3B_q5_k_m.gguf",
+            "size": "2757076128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "49612f95639509e9d831182a6bbb83065e8cfcb1617e75ea46f98043e683ccca",
+            "download": {
+                "default": "https://huggingface.co/xaviviro/FLAMA-0.1-3B-GGUF/resolve/main/FLAMA-0.1-3B_q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "FLAMA-0.1-3B_q5_k_s.gguf",
+            "size": "2603156128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c060695f2309cf8d99b49651f8ad0770176b982620082d4079b605bebec17f05",
+            "download": {
+                "default": "https://huggingface.co/xaviviro/FLAMA-0.1-3B-GGUF/resolve/main/FLAMA-0.1-3B_q5_k_s.gguf"
+            }
+        },
+        {
+            "name": "FLAMA-0.1-3B_q6_k.gguf",
+            "size": "3641876128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "53cce30d1ef0dd804c5a9659b2fa218c2b80b4eafe6e502c1ca85e77a95a3016",
+            "download": {
+                "default": "https://huggingface.co/xaviviro/FLAMA-0.1-3B-GGUF/resolve/main/FLAMA-0.1-3B_q6_k.gguf"
+            }
+        },
+        {
+            "name": "FLAMA-0.1-3B_q8_0.gguf",
+            "size": "3641876128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "37ce6e365d09190296a8e2c46b71a0405ca55430868f3ce4ac6ae1a64a05a949",
+            "download": {
+                "default": "https://huggingface.co/xaviviro/FLAMA-0.1-3B-GGUF/resolve/main/FLAMA-0.1-3B_q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

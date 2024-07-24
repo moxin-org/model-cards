@@ -1,0 +1,233 @@
+{
+    "id": "mradermacher/Hercules-4.0-Yi-34B-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-03T06:32:46Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Hercules-4.0-Yi-34B.i1-IQ4_XS.gguf",
+            "size": "19016235264",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "2f2717be556d05061854ae02e5f5527f18c79be366b02dd106893b3486c66fbe",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hercules-4.0-Yi-34B-i1-GGUF/resolve/main/Hercules-4.0-Yi-34B.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Yi-34B.i1-Q6_K.gguf",
+            "size": "28755110144",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "2934237086ef9fbe833a572402fbe29d4cdcf2271adb48a90250053f98782e1b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hercules-4.0-Yi-34B-i1-GGUF/resolve/main/Hercules-4.0-Yi-34B.i1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Yi-34B.i1-Q5_K_S.gguf",
+            "size": "24248875264",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "c7ee5e8acadedc79446b428d0cafd750f0eb55a4544609990e3418142d5c4999",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hercules-4.0-Yi-34B-i1-GGUF/resolve/main/Hercules-4.0-Yi-34B.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Yi-34B.i1-Q5_K_M.gguf",
+            "size": "24863029504",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "4f66974e21a767c4ad1690771f60992b4440a93dc4079d5fa52b7abdab041954",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hercules-4.0-Yi-34B-i1-GGUF/resolve/main/Hercules-4.0-Yi-34B.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Yi-34B.i1-Q4_K_S.gguf",
+            "size": "20139833600",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "331518eb4739aa1e36f35a05fe169e671e46cd71570ef9a4a07d96602d2b4617",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hercules-4.0-Yi-34B-i1-GGUF/resolve/main/Hercules-4.0-Yi-34B.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Yi-34B.i1-Q4_K_M.gguf",
+            "size": "21199894784",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "db4219831d63d3903e882dc8d4bed92522ce147d0f8fec42e9ddb88b23a25c1a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hercules-4.0-Yi-34B-i1-GGUF/resolve/main/Hercules-4.0-Yi-34B.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Yi-34B.i1-Q4_0.gguf",
+            "size": "20071938304",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "901322d93aad2eee7324878124d975bc5b4a765a1539de89d2e6a6d057c54dac",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hercules-4.0-Yi-34B-i1-GGUF/resolve/main/Hercules-4.0-Yi-34B.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Yi-34B.i1-Q3_K_S.gguf",
+            "size": "15501478144",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "cfdd47cd8a0abdcad5d380259d14ce97e46bf5518f6666ea0e5c807291b3a1d6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hercules-4.0-Yi-34B-i1-GGUF/resolve/main/Hercules-4.0-Yi-34B.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Yi-34B.i1-Q3_K_M.gguf",
+            "size": "17196108032",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "6787623bb3aaaf5ed3736428e68da1809ae98a282c2ef4bfe09085a43fd489a8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hercules-4.0-Yi-34B-i1-GGUF/resolve/main/Hercules-4.0-Yi-34B.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Yi-34B.i1-Q3_K_L.gguf",
+            "size": "18680629504",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "61409e2dfc9d91feb4b60e5de102447e8f2b1873429acd9638e454b61d7beb42",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hercules-4.0-Yi-34B-i1-GGUF/resolve/main/Hercules-4.0-Yi-34B.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Yi-34B.i1-Q2_K.gguf",
+            "size": "13366417664",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "3e05fabade50650326157acf105e4bb43aa06c4daa836e681a75bc77b744ed6d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hercules-4.0-Yi-34B-i1-GGUF/resolve/main/Hercules-4.0-Yi-34B.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Yi-34B.i1-IQ1_M.gguf",
+            "size": "8778897664",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "abf17f3637f422b7caf6be90e0463c4c8002a6da4b0699b568abcb5fcf1acfb5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hercules-4.0-Yi-34B-i1-GGUF/resolve/main/Hercules-4.0-Yi-34B.i1-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Yi-34B.i1-IQ3_XXS.gguf",
+            "size": "13935986944",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "ef69954b9b6d4286ffb265f32be7f365556533ea559f3885de63167e9f83cea2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hercules-4.0-Yi-34B-i1-GGUF/resolve/main/Hercules-4.0-Yi-34B.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Yi-34B.i1-IQ3_XS.gguf",
+            "size": "14775503104",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "9601cd863a193b124ed9d676a40935b2ca296fcd35231d0f60b6e9f2e7583b5b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hercules-4.0-Yi-34B-i1-GGUF/resolve/main/Hercules-4.0-Yi-34B.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Yi-34B.i1-IQ3_S.gguf",
+            "size": "15559969024",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "f0164b1f271cbdcad781235af8cd8634f4c3e4cd00f464a26cb9bd4f1e77f8b6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hercules-4.0-Yi-34B-i1-GGUF/resolve/main/Hercules-4.0-Yi-34B.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Yi-34B.i1-IQ3_M.gguf",
+            "size": "16105883904",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "07279b0be155670e9343c05f1b02c885ca850e93e1f0133f5b6e218fccf8a8d3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hercules-4.0-Yi-34B-i1-GGUF/resolve/main/Hercules-4.0-Yi-34B.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Yi-34B.i1-IQ2_XXS.gguf",
+            "size": "9908574464",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "65db81db6a50546d20e53dcfe9cdcb1c3ba9957d4f94376a15ba29e4180145e5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hercules-4.0-Yi-34B-i1-GGUF/resolve/main/Hercules-4.0-Yi-34B.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Yi-34B.i1-IQ2_XS.gguf",
+            "size": "10908653824",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "7ce26928a48e3d94ad1cf81e0f957943211a2858ff334d3468ec263823fa9245",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hercules-4.0-Yi-34B-i1-GGUF/resolve/main/Hercules-4.0-Yi-34B.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Yi-34B.i1-IQ2_S.gguf",
+            "size": "11493132544",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "a892fb07f39f090865ee060a73fa0933910a5980d5c860901a2bcf1944a0ca90",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hercules-4.0-Yi-34B-i1-GGUF/resolve/main/Hercules-4.0-Yi-34B.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Yi-34B.i1-IQ2_M.gguf",
+            "size": "12396873984",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "e8c708f64293815916a01e98625089ca6d801f41ffb92ab5cd10e05f058227db",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hercules-4.0-Yi-34B-i1-GGUF/resolve/main/Hercules-4.0-Yi-34B.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "Hercules-4.0-Yi-34B.i1-IQ1_S.gguf",
+            "size": "8101091584",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "8352116d2a4c75874d24f0da4050a68b026e9a064bb34988c6dfe2e5805b098b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hercules-4.0-Yi-34B-i1-GGUF/resolve/main/Hercules-4.0-Yi-34B.i1-IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

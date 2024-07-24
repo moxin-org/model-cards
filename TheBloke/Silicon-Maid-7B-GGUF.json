@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/Silicon-Maid-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-27T13:26:56Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "silicon-maid-7b.Q2_K.gguf",
+            "size": "3084034176",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "117af21495c55f396e84b258d4b99618ec6de6f1c31e4e4e23bf76155da4bb3a",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Silicon-Maid-7B-GGUF/resolve/main/silicon-maid-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "silicon-maid-7b.Q3_K_L.gguf",
+            "size": "3822960768",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "2a3ca270a195d857eb24a28138103873ca1882940e71d587277a22618069a004",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Silicon-Maid-7B-GGUF/resolve/main/silicon-maid-7b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "silicon-maid-7b.Q3_K_M.gguf",
+            "size": "3519922304",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "fa1bfbe586c434abf7a6d0ad969b144af48c22122b5f8caa5e6e34030cfe022b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Silicon-Maid-7B-GGUF/resolve/main/silicon-maid-7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "silicon-maid-7b.Q3_K_S.gguf",
+            "size": "3165503616",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "c63f1296f34f6e3ea7d3ee3942050c0b27f9f4b80b9097fb9e5e52404dc4ae25",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Silicon-Maid-7B-GGUF/resolve/main/silicon-maid-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "silicon-maid-7b.Q4_0.gguf",
+            "size": "4109852800",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "f0dba6a8ca273b058203c958919eb5564f18061a1125aa6b261f948ba8b66dad",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Silicon-Maid-7B-GGUF/resolve/main/silicon-maid-7b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "silicon-maid-7b.Q4_K_M.gguf",
+            "size": "4369375360",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "7c6a0fe681c06f078ee104a9627ecd25a644b72e11acb3bf287c4959d312fe70",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Silicon-Maid-7B-GGUF/resolve/main/silicon-maid-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "silicon-maid-7b.Q4_K_S.gguf",
+            "size": "4141310080",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "e9f4442164fa7f06135538d9583fe1d719013b785722e0d1ec821e0dd6a058f0",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Silicon-Maid-7B-GGUF/resolve/main/silicon-maid-7b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "silicon-maid-7b.Q5_0.gguf",
+            "size": "4998652032",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "9584c1b515b33af776f146b7e2c851af01bb76ba03e688d3c4798ebb9702d3ff",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Silicon-Maid-7B-GGUF/resolve/main/silicon-maid-7b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "silicon-maid-7b.Q5_K_M.gguf",
+            "size": "5132345472",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "8d6ea8c90ad890004c8c02a55dc6d5d236c2a86ebef751d5e222f1f122d4e99d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Silicon-Maid-7B-GGUF/resolve/main/silicon-maid-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "silicon-maid-7b.Q5_K_S.gguf",
+            "size": "4998652032",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "5efb6b65790f6c75ee267db7b2d67cbe0b28b5cd8fc489c7034ddfe142ac1587",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Silicon-Maid-7B-GGUF/resolve/main/silicon-maid-7b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "silicon-maid-7b.Q6_K.gguf",
+            "size": "5943001216",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "97f232bfc3bbfca4f8025ce4d52670ed73a178319b25c7b2e0c576ac9816a667",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Silicon-Maid-7B-GGUF/resolve/main/silicon-maid-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "silicon-maid-7b.Q8_0.gguf",
+            "size": "7696793728",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "4351b0516341974c40e069756bae5aa053051bf4b04bbc86c3eea7bedeee1044",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Silicon-Maid-7B-GGUF/resolve/main/silicon-maid-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

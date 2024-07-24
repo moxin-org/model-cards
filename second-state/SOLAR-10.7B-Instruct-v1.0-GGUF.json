@@ -1,0 +1,153 @@
+{
+    "id": "second-state/SOLAR-10.7B-Instruct-v1.0-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-01T07:01:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "SOLAR-10.7B-Instruct-v1.0-Q2_K.gguf",
+            "size": "4549016160",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "ecf16aecc958143aa311a743ad2610ee85adbb291be1b631d13179eb41ba6e0e",
+            "download": {
+                "default": "https://huggingface.co/second-state/SOLAR-10.7B-Instruct-v1.0-GGUF/resolve/main/SOLAR-10.7B-Instruct-v1.0-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "SOLAR-10.7B-Instruct-v1.0-Q3_K_L.gguf",
+            "size": "5650750048",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "9635f0e6a0ef66837ef0afc98b138521c7f72f3ea0746c4fc7bc4e808c553d37",
+            "download": {
+                "default": "https://huggingface.co/second-state/SOLAR-10.7B-Instruct-v1.0-GGUF/resolve/main/SOLAR-10.7B-Instruct-v1.0-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "SOLAR-10.7B-Instruct-v1.0-Q3_K_M.gguf",
+            "size": "5188328032",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "fad968520411760198100fb42fe3b6f0060ec3ac8a1aff94ca9f099619b68e9d",
+            "download": {
+                "default": "https://huggingface.co/second-state/SOLAR-10.7B-Instruct-v1.0-GGUF/resolve/main/SOLAR-10.7B-Instruct-v1.0-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "SOLAR-10.7B-Instruct-v1.0-Q3_K_S.gguf",
+            "size": "4664564320",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "4a6f35f3712913aa789abc63afc7eea9abd96a746e558849f0eb69b783f34f2c",
+            "download": {
+                "default": "https://huggingface.co/second-state/SOLAR-10.7B-Instruct-v1.0-GGUF/resolve/main/SOLAR-10.7B-Instruct-v1.0-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "SOLAR-10.7B-Instruct-v1.0-Q4_0.gguf",
+            "size": "6072384096",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "a3829f7cf39847e478b0d5ffb562d8776a5897ef2f3cfe586e52df71c44d2f40",
+            "download": {
+                "default": "https://huggingface.co/second-state/SOLAR-10.7B-Instruct-v1.0-GGUF/resolve/main/SOLAR-10.7B-Instruct-v1.0-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "SOLAR-10.7B-Instruct-v1.0-Q4_K_M.gguf",
+            "size": "6461667936",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "7839e428dfc2e7f6a9489b2206d607626bd71302ee01059577703aedfface34f",
+            "download": {
+                "default": "https://huggingface.co/second-state/SOLAR-10.7B-Instruct-v1.0-GGUF/resolve/main/SOLAR-10.7B-Instruct-v1.0-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "SOLAR-10.7B-Instruct-v1.0-Q4_K_S.gguf",
+            "size": "6103841376",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "aed183d3baaa6974d1988e6cdebe1c8ab8be52a2a4fe274b35139eede9633c76",
+            "download": {
+                "default": "https://huggingface.co/second-state/SOLAR-10.7B-Instruct-v1.0-GGUF/resolve/main/SOLAR-10.7B-Instruct-v1.0-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "SOLAR-10.7B-Instruct-v1.0-Q5_0.gguf",
+            "size": "7397390944",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "c819a493ec2dbaa7222545b358c26cbc8998c03442236a430b1c863d80fa8083",
+            "download": {
+                "default": "https://huggingface.co/second-state/SOLAR-10.7B-Instruct-v1.0-GGUF/resolve/main/SOLAR-10.7B-Instruct-v1.0-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "SOLAR-10.7B-Instruct-v1.0-Q5_K_M.gguf",
+            "size": "7597931104",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "715704d0c565664cf49dc6b4e0e087871724b7cb00ecf36a126df1d3de26b843",
+            "download": {
+                "default": "https://huggingface.co/second-state/SOLAR-10.7B-Instruct-v1.0-GGUF/resolve/main/SOLAR-10.7B-Instruct-v1.0-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "SOLAR-10.7B-Instruct-v1.0-Q5_K_S.gguf",
+            "size": "7397390944",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "69af001a9c39a5cb64a9676111cb5b0444affd0122930e8fd53f32b5dd94c2d4",
+            "download": {
+                "default": "https://huggingface.co/second-state/SOLAR-10.7B-Instruct-v1.0-GGUF/resolve/main/SOLAR-10.7B-Instruct-v1.0-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "SOLAR-10.7B-Instruct-v1.0-Q6_K.gguf",
+            "size": "8805210720",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "0690fe4f91f47317b6c52e5c03d59b753ca03acefbd6d558eaf46751f5f14f52",
+            "download": {
+                "default": "https://huggingface.co/second-state/SOLAR-10.7B-Instruct-v1.0-GGUF/resolve/main/SOLAR-10.7B-Instruct-v1.0-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "SOLAR-10.7B-Instruct-v1.0-Q8_0.gguf",
+            "size": "11404155488",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "f8e3bb1b09ff245aaa11605bde7da976c1dd5847303a93c3993fa7882fe84391",
+            "download": {
+                "default": "https://huggingface.co/second-state/SOLAR-10.7B-Instruct-v1.0-GGUF/resolve/main/SOLAR-10.7B-Instruct-v1.0-Q8_0.gguf"
+            }
+        },
+        {
+            "name": "solar-10.7b-instruct-v1.0.Q5_K_M.gguf",
+            "size": "7597931104",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "4ade240f5dcc253272158f3659a56f5b1da8405510707476d23a7df943aa35f7",
+            "download": {
+                "default": "https://huggingface.co/second-state/SOLAR-10.7B-Instruct-v1.0-GGUF/resolve/main/solar-10.7b-instruct-v1.0.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 4096,
+    "vector_size": 0,
+    "metrics": {}
+}

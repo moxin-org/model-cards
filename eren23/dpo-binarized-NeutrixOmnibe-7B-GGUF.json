@@ -1,0 +1,43 @@
+{
+    "id": "eren23/dpo-binarized-NeutrixOmnibe-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "eren23",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-12T13:01:07Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "dpo-binarized-neutrixomnibe-7b.Q4_K_M.gguf",
+            "size": "4368438912",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4761c89ecd563b0bca0f962f97eb36349727c64726a202bf387e30537be70876",
+            "download": {
+                "default": "https://huggingface.co/eren23/dpo-binarized-NeutrixOmnibe-7B-GGUF/resolve/main/dpo-binarized-neutrixomnibe-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "dpo-binarized-neutrixomnibe-7b.Q5_K_M.gguf",
+            "size": "5131409024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f16ac16a82cd1368a250f8e885c7396c9c71e3d3ca8dab39fb76b343a837cc14",
+            "download": {
+                "default": "https://huggingface.co/eren23/dpo-binarized-NeutrixOmnibe-7B-GGUF/resolve/main/dpo-binarized-neutrixomnibe-7b.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

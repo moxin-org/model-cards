@@ -1,0 +1,63 @@
+{
+    "id": "Eric111/openchat-3.5-0106-128k-DPO-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Eric111",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-24T10:20:39Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "openchat-3.5-0106-128k-dpo.Q2_K.gguf",
+            "size": "2719251840",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "846e060be1193bebae4a9281e98f3cf56087202c80e1c19caf28d25e402663b3",
+            "download": {
+                "default": "https://huggingface.co/Eric111/openchat-3.5-0106-128k-DPO-GGUF/resolve/main/openchat-3.5-0106-128k-dpo.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "openchat-3.5-0106-128k-dpo.Q4_K_M.gguf",
+            "size": "4368450816",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5ecbad9f2b0e6410801bdc9e06a01417537684d07cf8c05f788107f39e67e5f9",
+            "download": {
+                "default": "https://huggingface.co/Eric111/openchat-3.5-0106-128k-DPO-GGUF/resolve/main/openchat-3.5-0106-128k-dpo.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "openchat-3.5-0106-128k-dpo.Q5_K_M.gguf",
+            "size": "5131421952",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f5b1c7f849e924a38213777713d7ca50d537c00720a8988bfaacb984d852ff91",
+            "download": {
+                "default": "https://huggingface.co/Eric111/openchat-3.5-0106-128k-DPO-GGUF/resolve/main/openchat-3.5-0106-128k-dpo.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "openchat-3.5-0106-128k-dpo.Q8_0.gguf",
+            "size": "7695875264",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "a6d7ecd4d75b67cc1b8bc44c97363a0a1f8f24bebf7fa7f9504e66ee790dbf3e",
+            "download": {
+                "default": "https://huggingface.co/Eric111/openchat-3.5-0106-128k-DPO-GGUF/resolve/main/openchat-3.5-0106-128k-dpo.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

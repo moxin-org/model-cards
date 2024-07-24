@@ -1,0 +1,153 @@
+{
+    "id": "second-state/mathstral-7B-v0.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-07-17T01:47:35Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mathstral-7B-v0.1-f16.gguf",
+            "size": "14497336896",
+            "quantization": "",
+            "tags": [],
+            "sha256": "58548168366f2c051b29cb12b5c0623607641fa717e19ac8c95e382aff4f6b3b",
+            "download": {
+                "default": "https://huggingface.co/second-state/mathstral-7B-v0.1-GGUF/resolve/main/mathstral-7B-v0.1-f16.gguf"
+            }
+        },
+        {
+            "name": "mathstral-7B-v0.1-Q2_K.gguf",
+            "size": "2722876992",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "04c9eb3a918f49e54b8312dad017af4645c3341e13f10312c4e61cfd4a117a8d",
+            "download": {
+                "default": "https://huggingface.co/second-state/mathstral-7B-v0.1-GGUF/resolve/main/mathstral-7B-v0.1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "mathstral-7B-v0.1-Q3_K_L.gguf",
+            "size": "3825978944",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "e70d6784f823f0a666e4eab99274f71e67256c786c083ea4d5d6fe8dac5c1abd",
+            "download": {
+                "default": "https://huggingface.co/second-state/mathstral-7B-v0.1-GGUF/resolve/main/mathstral-7B-v0.1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "mathstral-7B-v0.1-Q3_K_M.gguf",
+            "size": "3522940480",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "db842d40093204d6e5753d0cdc91327feaaa54a83e69ddfafa36530d3fd1ad0b",
+            "download": {
+                "default": "https://huggingface.co/second-state/mathstral-7B-v0.1-GGUF/resolve/main/mathstral-7B-v0.1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "mathstral-7B-v0.1-Q3_K_S.gguf",
+            "size": "3168521792",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "b2c2f99513f618d4d64eb974e2e5133fffea3c17de40cfb7bbdc49cd0e898385",
+            "download": {
+                "default": "https://huggingface.co/second-state/mathstral-7B-v0.1-GGUF/resolve/main/mathstral-7B-v0.1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "mathstral-7B-v0.1-Q4_0.gguf",
+            "size": "4113288768",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "3c160f10cf8c31aa1c17a0ada487469ad228ea6637484e94094385f3011221cc",
+            "download": {
+                "default": "https://huggingface.co/second-state/mathstral-7B-v0.1-GGUF/resolve/main/mathstral-7B-v0.1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "mathstral-7B-v0.1-Q4_K_M.gguf",
+            "size": "4372811328",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5ec787a13212aa94cf554ca186c96d0463c52019c0ef8ac49c9e965c65d670a6",
+            "download": {
+                "default": "https://huggingface.co/second-state/mathstral-7B-v0.1-GGUF/resolve/main/mathstral-7B-v0.1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "mathstral-7B-v0.1-Q4_K_S.gguf",
+            "size": "4144746048",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "426300640c95eb194589a8f1a496dfb9e3b2414e0cc47a4be596fe392108fca6",
+            "download": {
+                "default": "https://huggingface.co/second-state/mathstral-7B-v0.1-GGUF/resolve/main/mathstral-7B-v0.1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "mathstral-7B-v0.1-Q5_0.gguf",
+            "size": "5002481216",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "b8099a6f3b0833862e923918a69bc3b7980405f3df55a73b18f4775ec37f8e5f",
+            "download": {
+                "default": "https://huggingface.co/second-state/mathstral-7B-v0.1-GGUF/resolve/main/mathstral-7B-v0.1-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "mathstral-7B-v0.1-Q5_K_M.gguf",
+            "size": "5136174656",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "6cbfc22a66db2178cfafc8fd4cd3ac144bf33515f8796b8103cfe6b3d941d9af",
+            "download": {
+                "default": "https://huggingface.co/second-state/mathstral-7B-v0.1-GGUF/resolve/main/mathstral-7B-v0.1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "mathstral-7B-v0.1-Q5_K_S.gguf",
+            "size": "5002481216",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "b14c4afd15df6e80ec8852c62ff0e7325c6821152ec9dcf3d2a6c780aaa14dc1",
+            "download": {
+                "default": "https://huggingface.co/second-state/mathstral-7B-v0.1-GGUF/resolve/main/mathstral-7B-v0.1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "mathstral-7B-v0.1-Q6_K.gguf",
+            "size": "5947248192",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "31390330027c1d141cebe699c10841000e8679216c365fa982e8cba8e708b792",
+            "download": {
+                "default": "https://huggingface.co/second-state/mathstral-7B-v0.1-GGUF/resolve/main/mathstral-7B-v0.1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "mathstral-7B-v0.1-Q8_0.gguf",
+            "size": "7702564416",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "e4f73eb52528f800f1f6c7e347bb9506aedb94d2441250c4bf01c15011471d9a",
+            "download": {
+                "default": "https://huggingface.co/second-state/mathstral-7B-v0.1-GGUF/resolve/main/mathstral-7B-v0.1-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 4096,
+    "vector_size": 0,
+    "metrics": null
+}

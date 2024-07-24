@@ -1,0 +1,93 @@
+{
+    "id": "s3nh/meta-math-MetaMath-13B-V1.0-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-24T19:51:41Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "meta-math-MetaMath-13B-V1.0.Q2_K.gguf",
+            "size": "5429354176",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "03e3e913f3f66893fba7f71e88aea8b7201f96aef4887fb750c8ab29d5f00f06",
+            "download": {
+                "default": "https://huggingface.co/s3nh/meta-math-MetaMath-13B-V1.0-GGUF/resolve/main/meta-math-MetaMath-13B-V1.0.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "meta-math-MetaMath-13B-V1.0.Q3_K_S.gguf",
+            "size": "5658986688",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "8e15e476ab28d91c01201615198c658ce3b7651a9435d70b511a71e61f6e6233",
+            "download": {
+                "default": "https://huggingface.co/s3nh/meta-math-MetaMath-13B-V1.0-GGUF/resolve/main/meta-math-MetaMath-13B-V1.0.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "meta-math-MetaMath-13B-V1.0.Q4_K_M.gguf",
+            "size": "7865963360",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "1ac229db4659dfc48c0c50f4a1586b277989b6d7c42d3f68e813c892c05dbda7",
+            "download": {
+                "default": "https://huggingface.co/s3nh/meta-math-MetaMath-13B-V1.0-GGUF/resolve/main/meta-math-MetaMath-13B-V1.0.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "meta-math-MetaMath-13B-V1.0.Q4_K_S.gguf",
+            "size": "7414338400",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "2e81955cfcfecb13b611071edd5b57a93c87a2d4b216aba0ed0d9f223a182953",
+            "download": {
+                "default": "https://huggingface.co/s3nh/meta-math-MetaMath-13B-V1.0-GGUF/resolve/main/meta-math-MetaMath-13B-V1.0.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "meta-math-MetaMath-13B-V1.0.Q5_K_S.gguf",
+            "size": "8972293600",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "a4b04b1f35efb4bfa58e428bdee0fd520a056e97e3ccd611cd5359f71dee59f1",
+            "download": {
+                "default": "https://huggingface.co/s3nh/meta-math-MetaMath-13B-V1.0-GGUF/resolve/main/meta-math-MetaMath-13B-V1.0.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "meta-math-MetaMath-13B-V1.0.Q6_K.gguf",
+            "size": "10679148704",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "32eb96d0a0de5819c34606032b4cd678ab63e3fd7b46cfa2daf9a625bd8665b1",
+            "download": {
+                "default": "https://huggingface.co/s3nh/meta-math-MetaMath-13B-V1.0-GGUF/resolve/main/meta-math-MetaMath-13B-V1.0.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "meta-math-MetaMath-13B-V1.0.Q8_0.gguf",
+            "size": "13831330336",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "3d515a51756e089d311205007217868487d070c1fe4e12693840f23964d279ab",
+            "download": {
+                "default": "https://huggingface.co/s3nh/meta-math-MetaMath-13B-V1.0-GGUF/resolve/main/meta-math-MetaMath-13B-V1.0.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

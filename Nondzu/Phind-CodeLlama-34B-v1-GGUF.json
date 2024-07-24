@@ -1,0 +1,43 @@
+{
+    "id": "Nondzu/Phind-CodeLlama-34B-v1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Nondzu",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-08-26T08:46:47Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Phind-CodeLlama-34B-Python-Q4_K_S.gguf",
+            "size": "19146319744",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "85ec2d509006feda0eee51726c49e326b2c753c7cb3755bd29906cfddb6bc39b",
+            "download": {
+                "default": "https://huggingface.co/Nondzu/Phind-CodeLlama-34B-v1-GGUF/resolve/main/Phind-CodeLlama-34B-Python-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Phind-CodeLlama-34B-Python-Q5_K_S.gguf",
+            "size": "23237076864",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "e83eea77a4d156bd365455f5edcfe71944648291668e10525c979417fdd6a1b4",
+            "download": {
+                "default": "https://huggingface.co/Nondzu/Phind-CodeLlama-34B-v1-GGUF/resolve/main/Phind-CodeLlama-34B-Python-Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

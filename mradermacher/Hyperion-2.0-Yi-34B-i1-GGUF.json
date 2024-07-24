@@ -1,0 +1,213 @@
+{
+    "id": "mradermacher/Hyperion-2.0-Yi-34B-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-17T02:08:01Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Hyperion-2.0-Yi-34B.i1-IQ4_XS.gguf",
+            "size": "19016235072",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "3563e793ffd60c819b32758113fa2a517a5a391415773527ba8a648f0344bd4e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-2.0-Yi-34B-i1-GGUF/resolve/main/Hyperion-2.0-Yi-34B.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-2.0-Yi-34B.i1-Q6_K.gguf",
+            "size": "28755109952",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "1395d2bacbe265edea4ed61518edb9a285ed18232fd5d1a5e263af5990a18126",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-2.0-Yi-34B-i1-GGUF/resolve/main/Hyperion-2.0-Yi-34B.i1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-2.0-Yi-34B.i1-Q5_K_S.gguf",
+            "size": "24248875072",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "ce02f1a5e166829a4fea994adb27ab0727d42d9b948dc961c090e942fb6383eb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-2.0-Yi-34B-i1-GGUF/resolve/main/Hyperion-2.0-Yi-34B.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-2.0-Yi-34B.i1-Q5_K_M.gguf",
+            "size": "24863029312",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "c4d8bd2d089ff495cd8ac178e7a889836be9930729e4e7f823822ce31239f338",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-2.0-Yi-34B-i1-GGUF/resolve/main/Hyperion-2.0-Yi-34B.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-2.0-Yi-34B.i1-Q4_K_S.gguf",
+            "size": "20139833408",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "88ba964f7194f86290e0defa340581ed8da3679be715af3ba04f2e6bb263084b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-2.0-Yi-34B-i1-GGUF/resolve/main/Hyperion-2.0-Yi-34B.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-2.0-Yi-34B.i1-Q4_K_M.gguf",
+            "size": "21199894592",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "6beadb8ae80e8b9e5144892984e0b3f1a75bef74bfa03eb51755ca5b4408feab",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-2.0-Yi-34B-i1-GGUF/resolve/main/Hyperion-2.0-Yi-34B.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-2.0-Yi-34B.i1-Q3_K_S.gguf",
+            "size": "15501477952",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "4ff3a6722cb5d911072e20ff51702ac39ad1151f5cff73bd9bc577164de0bfe1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-2.0-Yi-34B-i1-GGUF/resolve/main/Hyperion-2.0-Yi-34B.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-2.0-Yi-34B.i1-Q3_K_M.gguf",
+            "size": "17196107840",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "47e26e475d9f1257e4be06d7721ba44124a1fe0c538487bc283efdf9be960bdb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-2.0-Yi-34B-i1-GGUF/resolve/main/Hyperion-2.0-Yi-34B.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-2.0-Yi-34B.i1-Q3_K_L.gguf",
+            "size": "18680629312",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "4c516c10c40e66d92df472881cc51051c7c54ddbab26dd9996b42ca3aac2664e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-2.0-Yi-34B-i1-GGUF/resolve/main/Hyperion-2.0-Yi-34B.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-2.0-Yi-34B.i1-Q2_K.gguf",
+            "size": "13366417472",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "4068e1f08a50811796c688f50a470417b9edeeb7c46f571a5b40a47ea73f1781",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-2.0-Yi-34B-i1-GGUF/resolve/main/Hyperion-2.0-Yi-34B.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-2.0-Yi-34B.i1-IQ1_S.gguf",
+            "size": "8101091392",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "03a0699c29557d9dfe999036f4e9ddbd51dd0f55844b0b19973545d4a8161fb6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-2.0-Yi-34B-i1-GGUF/resolve/main/Hyperion-2.0-Yi-34B.i1-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-2.0-Yi-34B.i1-IQ3_XXS.gguf",
+            "size": "13935986752",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "e9795803ce3fd310f0a0e1826b52e51d3fa36d4064e094f4e23dfe0cfaaee85e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-2.0-Yi-34B-i1-GGUF/resolve/main/Hyperion-2.0-Yi-34B.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-2.0-Yi-34B.i1-IQ3_XS.gguf",
+            "size": "14717012032",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "c041ccdaed8f5e62ebb2e4058c49976ac818b3644863a380c23501030c26488d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-2.0-Yi-34B-i1-GGUF/resolve/main/Hyperion-2.0-Yi-34B.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-2.0-Yi-34B.i1-IQ3_S.gguf",
+            "size": "15559968832",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "75e14297a386a661a71e36ccb01207806aa03458f95859e80561eebdf1680fe0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-2.0-Yi-34B-i1-GGUF/resolve/main/Hyperion-2.0-Yi-34B.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-2.0-Yi-34B.i1-IQ3_M.gguf",
+            "size": "16105883712",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "b045302b2ec369b2483601c42aa0f4cc1e9205909a9f119169dd3ce15bbacd3b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-2.0-Yi-34B-i1-GGUF/resolve/main/Hyperion-2.0-Yi-34B.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-2.0-Yi-34B.i1-IQ2_XXS.gguf",
+            "size": "9908574272",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "373446ad053383dd7e4b5d7523c50a6388ee872d2538bfb1a5e173d994d4c6f1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-2.0-Yi-34B-i1-GGUF/resolve/main/Hyperion-2.0-Yi-34B.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-2.0-Yi-34B.i1-IQ2_XS.gguf",
+            "size": "10908653632",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "ff5a30c0856bb4812bde5635529e58a15c1ee2550cb2e56d6d507f0e191e351f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-2.0-Yi-34B-i1-GGUF/resolve/main/Hyperion-2.0-Yi-34B.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-2.0-Yi-34B.i1-IQ2_S.gguf",
+            "size": "11493132352",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "0a472c77c264f68e243b64541d1f105dd18f391dbb495be45a35acbb7eb89b84",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-2.0-Yi-34B-i1-GGUF/resolve/main/Hyperion-2.0-Yi-34B.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-2.0-Yi-34B.i1-IQ2_M.gguf",
+            "size": "12396873792",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "57941afbe69ab7db962d7fcac44c6c5aee0c9802f22d5b76fb48f3710c02276e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-2.0-Yi-34B-i1-GGUF/resolve/main/Hyperion-2.0-Yi-34B.i1-IQ2_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

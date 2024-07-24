@@ -1,0 +1,43 @@
+{
+    "id": "bcse/Xwinter-120b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bcse",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-22T16:34:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "xwinter-120b.Q2_K.gguf",
+            "size": "43245727072",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "cbe43930309f3cc412223b828e02efee0489b8b7731c5258501072ec0b44ce56",
+            "download": {
+                "default": "https://huggingface.co/bcse/Xwinter-120b-GGUF/resolve/main/xwinter-120b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "xwinter-120b.Q3_K_XS.gguf",
+            "size": "47875796320",
+            "quantization": "Q3_K_XS",
+            "tags": [],
+            "sha256": "a078211e79e91bc684478980f5ea455fd1ea0bf7ffe8a6048337492edab711e2",
+            "download": {
+                "default": "https://huggingface.co/bcse/Xwinter-120b-GGUF/resolve/main/xwinter-120b.Q3_K_XS.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

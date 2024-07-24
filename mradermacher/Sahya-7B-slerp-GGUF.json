@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Sahya-7B-slerp-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-19T14:37:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Sahya-7B-slerp.IQ3_M.gguf",
+            "size": "3439515328",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "404fe6cd45f7c183a078437df2d2e6c8f8d34b742c80133fc474eb9aec03180f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sahya-7B-slerp-GGUF/resolve/main/Sahya-7B-slerp.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Sahya-7B-slerp.IQ3_S.gguf",
+            "size": "3337017024",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "320bc5d0779d12202f46eb99058a86140a56005392a7e12fd518be3955d697d0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sahya-7B-slerp-GGUF/resolve/main/Sahya-7B-slerp.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Sahya-7B-slerp.IQ3_XS.gguf",
+            "size": "3155613376",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "0f59c9a8877b9c76661983300c3afd940078cea77fb4350f6e78f7e6a963e944",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sahya-7B-slerp-GGUF/resolve/main/Sahya-7B-slerp.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Sahya-7B-slerp.IQ4_XS.gguf",
+            "size": "4099012288",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "6cbffa3e9a5533094fca3d3bb641708a7bb3785a93bc91d3d4f1794fde47e095",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sahya-7B-slerp-GGUF/resolve/main/Sahya-7B-slerp.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Sahya-7B-slerp.Q2_K.gguf",
+            "size": "2873865920",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "6d05e9ceaf2879b9036486621acb60608271c7caf65ecd387558073a604e6c7e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sahya-7B-slerp-GGUF/resolve/main/Sahya-7B-slerp.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Sahya-7B-slerp.Q3_K_L.gguf",
+            "size": "3976648384",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "255b6b4a34d68e66f6688b278cba16d3a1dd59be29dafb7864e4409ee628b8b9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sahya-7B-slerp-GGUF/resolve/main/Sahya-7B-slerp.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Sahya-7B-slerp.Q3_K_M.gguf",
+            "size": "3673609920",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "6bf64eada13fd69074d11071dd1d26221f123d0b55ec03758e5a6fe0a162e62f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sahya-7B-slerp-GGUF/resolve/main/Sahya-7B-slerp.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Sahya-7B-slerp.Q3_K_S.gguf",
+            "size": "3319191232",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "81ac84273af50b1856b0bbf4b65935d9c92da5ef2b8554daf47eb840c4605e70",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sahya-7B-slerp-GGUF/resolve/main/Sahya-7B-slerp.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Sahya-7B-slerp.Q4_K_M.gguf",
+            "size": "4523062976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "b2ffb0bd31d7f0e9e3918c2db7b1002dfee438dcacb6b6880b0566458ab7609a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sahya-7B-slerp-GGUF/resolve/main/Sahya-7B-slerp.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Sahya-7B-slerp.Q4_K_S.gguf",
+            "size": "4294997696",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "275ff3d9fe52458415df1d87cd4ac7bb4e7aba32be670337ef447ca951ab9fbf",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sahya-7B-slerp-GGUF/resolve/main/Sahya-7B-slerp.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Sahya-7B-slerp.Q5_K_M.gguf",
+            "size": "5286033088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "b3af72d2fecdb9b2058784b88d6f5c8ae181ab030fac2ce7eb5583c7b5eb7fb8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sahya-7B-slerp-GGUF/resolve/main/Sahya-7B-slerp.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Sahya-7B-slerp.Q5_K_S.gguf",
+            "size": "5152339648",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "a62d4f8050a4c01ec4850c51ff5dd98ac086773c73be348a1c965a322ff50415",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sahya-7B-slerp-GGUF/resolve/main/Sahya-7B-slerp.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Sahya-7B-slerp.Q6_K.gguf",
+            "size": "6096688832",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "5e7cbe1eed1cdcbac084a56a3954644676afbe0891ce0a503a46712a9d3fd68b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sahya-7B-slerp-GGUF/resolve/main/Sahya-7B-slerp.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Sahya-7B-slerp.Q8_0.gguf",
+            "size": "7818737344",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "a647bed8079c21043117b137a453a99e62a237912b62c22752070d88389b5014",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sahya-7B-slerp-GGUF/resolve/main/Sahya-7B-slerp.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,63 @@
+{
+    "id": "jeffmcc/Llama-2-7b-chat-hf-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "jeffmcc",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-08T00:12:21Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Llama-2-7b-chat-hf.q4_k_m.gguf",
+            "size": "4081005152",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3f1fdbd152c1cd6da1a76de36ac071afe12861625134e84ab15dbeb6e6a0cfdc",
+            "download": {
+                "default": "https://huggingface.co/jeffmcc/Llama-2-7b-chat-hf-GGUF/resolve/main/Llama-2-7b-chat-hf.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.q5_k_m.gguf",
+            "size": "4783157856",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c87ad19eed2cabc4c33ea7b3adf7ce27e9f3f1c22542706d5db421915e0d95b6",
+            "download": {
+                "default": "https://huggingface.co/jeffmcc/Llama-2-7b-chat-hf-GGUF/resolve/main/Llama-2-7b-chat-hf.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.q6_k.gguf",
+            "size": "5529195104",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6d2be8eb08ce61185ce0afae147a572eec57ea027f90c3d0c3b323c70fe8317a",
+            "download": {
+                "default": "https://huggingface.co/jeffmcc/Llama-2-7b-chat-hf-GGUF/resolve/main/Llama-2-7b-chat-hf.q6_k.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.q8_0.gguf",
+            "size": "7161090656",
+            "quantization": "",
+            "tags": [],
+            "sha256": "edc144a62dbf51a0d7e806b5bea17f621af2a508dfe84fb115c7dbf0c31e2838",
+            "download": {
+                "default": "https://huggingface.co/jeffmcc/Llama-2-7b-chat-hf-GGUF/resolve/main/Llama-2-7b-chat-hf.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

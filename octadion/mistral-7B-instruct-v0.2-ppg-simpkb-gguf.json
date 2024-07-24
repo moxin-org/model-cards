@@ -1,0 +1,53 @@
+{
+    "id": "octadion/mistral-7B-instruct-v0.2-ppg-simpkb-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "octadion",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-13T04:31:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistral-7B-instruct-v0.2-ppg-simpkb-Q4_K_M.gguf",
+            "size": "4368439488",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "6f4f563e7a7a6aca0181b1736a6097d8c2637dae12371c41966fb9bfbf017335",
+            "download": {
+                "default": "https://huggingface.co/octadion/mistral-7B-instruct-v0.2-ppg-simpkb-gguf/resolve/main/mistral-7B-instruct-v0.2-ppg-simpkb-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral-7B-instruct-v0.2-ppg-simpkb-Q4_K_S.gguf",
+            "size": "4140374208",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "9342abf9b641dfff712b2ea693805499b4f73439c4527b12ac64bdc652326e5a",
+            "download": {
+                "default": "https://huggingface.co/octadion/mistral-7B-instruct-v0.2-ppg-simpkb-gguf/resolve/main/mistral-7B-instruct-v0.2-ppg-simpkb-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "mistral-7B-instruct-v0.2-ppg-simpkb-Q5_K_M.gguf",
+            "size": "5131409600",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "778fe1b6c09799f6e1dcaa6a3f1b41df292fdfff90b32c1e20711c75a8566b7e",
+            "download": {
+                "default": "https://huggingface.co/octadion/mistral-7B-instruct-v0.2-ppg-simpkb-gguf/resolve/main/mistral-7B-instruct-v0.2-ppg-simpkb-Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

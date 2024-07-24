@@ -1,0 +1,153 @@
+{
+    "id": "second-state/CodeQwen1.5-7B-Chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-17T12:30:56Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "CodeQwen1.5-7B-Chat-f16.gguf",
+            "size": "14503511808",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2077bf8b73ba4af777ff5130c3cb301c7d0593e9519467c5ce1e6c390b98ad7b",
+            "download": {
+                "default": "https://huggingface.co/second-state/CodeQwen1.5-7B-Chat-GGUF/resolve/main/CodeQwen1.5-7B-Chat-f16.gguf"
+            }
+        },
+        {
+            "name": "CodeQwen1.5-7B-Chat-Q2_K.gguf",
+            "size": "3052103456",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "e608a8653950aae75508fc80e47f09ab72a0de6850d0f8eb2d643e578e46852e",
+            "download": {
+                "default": "https://huggingface.co/second-state/CodeQwen1.5-7B-Chat-GGUF/resolve/main/CodeQwen1.5-7B-Chat-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "CodeQwen1.5-7B-Chat-Q3_K_L.gguf",
+            "size": "3986818848",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "2559cab20893dfd04e75068be0abbb3e5ce2327b5e38932c46792db23a79b8c5",
+            "download": {
+                "default": "https://huggingface.co/second-state/CodeQwen1.5-7B-Chat-GGUF/resolve/main/CodeQwen1.5-7B-Chat-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "CodeQwen1.5-7B-Chat-Q3_K_M.gguf",
+            "size": "3808626464",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "bd46a9f87cd82b70397f109ca9491dc778e436be0e6848e5d76427aa0adc6691",
+            "download": {
+                "default": "https://huggingface.co/second-state/CodeQwen1.5-7B-Chat-GGUF/resolve/main/CodeQwen1.5-7B-Chat-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "CodeQwen1.5-7B-Chat-Q3_K_S.gguf",
+            "size": "3500803872",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "2b2ce2ab45555e204371edc622e52a70f83f8a5b53adeb403a175feaebdd0920",
+            "download": {
+                "default": "https://huggingface.co/second-state/CodeQwen1.5-7B-Chat-GGUF/resolve/main/CodeQwen1.5-7B-Chat-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "CodeQwen1.5-7B-Chat-Q4_0.gguf",
+            "size": "4179437344",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "cbe2f7514a218350732dbfcfc5e78f75d9221ac70270298aa2643233b91eeab9",
+            "download": {
+                "default": "https://huggingface.co/second-state/CodeQwen1.5-7B-Chat-GGUF/resolve/main/CodeQwen1.5-7B-Chat-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "CodeQwen1.5-7B-Chat-Q4_K_M.gguf",
+            "size": "4738590496",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "944cc3d2184d478350aa4185e46e4f6eff9ca0a53ffacc2c0c3f8a2b70b9cd28",
+            "download": {
+                "default": "https://huggingface.co/second-state/CodeQwen1.5-7B-Chat-GGUF/resolve/main/CodeQwen1.5-7B-Chat-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "CodeQwen1.5-7B-Chat-Q4_K_S.gguf",
+            "size": "4414449440",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "81bb08532e2b70e707a9af213717f1f7a73f11ab37ab30cbfec05859e37631dd",
+            "download": {
+                "default": "https://huggingface.co/second-state/CodeQwen1.5-7B-Chat-GGUF/resolve/main/CodeQwen1.5-7B-Chat-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "CodeQwen1.5-7B-Chat-Q5_0.gguf",
+            "size": "5038352160",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "70bea3cf6a48625022e46df57077145f1f7c992ec75bed0edca3fadcddc25603",
+            "download": {
+                "default": "https://huggingface.co/second-state/CodeQwen1.5-7B-Chat-GGUF/resolve/main/CodeQwen1.5-7B-Chat-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "CodeQwen1.5-7B-Chat-Q5_K_M.gguf",
+            "size": "5429639648",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "d63810f03a64aed9021d45c2d8bede459fc9abd50a9b4cba409d0cf036dfd2d0",
+            "download": {
+                "default": "https://huggingface.co/second-state/CodeQwen1.5-7B-Chat-GGUF/resolve/main/CodeQwen1.5-7B-Chat-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "CodeQwen1.5-7B-Chat-Q5_K_S.gguf",
+            "size": "5148452640",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "75630e1e108e7ff83ca60259a2125acb56df99e3730139901bb3b420b3ce34f2",
+            "download": {
+                "default": "https://huggingface.co/second-state/CodeQwen1.5-7B-Chat-GGUF/resolve/main/CodeQwen1.5-7B-Chat-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "CodeQwen1.5-7B-Chat-Q6_K.gguf",
+            "size": "6377588512",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "012abfe19f0127b7070ac2294ee5ba150e813677e8a6be1b01bd6c8d189d0dc2",
+            "download": {
+                "default": "https://huggingface.co/second-state/CodeQwen1.5-7B-Chat-GGUF/resolve/main/CodeQwen1.5-7B-Chat-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "CodeQwen1.5-7B-Chat-Q8_0.gguf",
+            "size": "7706773280",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "27c334852cd793e1a204a2b633f706f8f54a912055ed831cba73296ba8f30cee",
+            "download": {
+                "default": "https://huggingface.co/second-state/CodeQwen1.5-7B-Chat-GGUF/resolve/main/CodeQwen1.5-7B-Chat-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 4096,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/SUS-Wizard-34B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-11T09:54:22Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "SUS-Wizard-34B.IQ3_M.gguf",
+            "size": "16105883680",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "64e08dd8bb22e2c97e44af583b15fe2111e48b954024c5fa11bd182e4d5ebd47",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SUS-Wizard-34B-GGUF/resolve/main/SUS-Wizard-34B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "SUS-Wizard-34B.IQ3_S.gguf",
+            "size": "15559968800",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "a9a6021c91ed97159e3fa8625559a854312a6469519d8a66d0ae084461419f79",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SUS-Wizard-34B-GGUF/resolve/main/SUS-Wizard-34B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "SUS-Wizard-34B.IQ3_XS.gguf",
+            "size": "14717012000",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "cb66b8a2401d6602f3baa8900260ebce88fdb05f58923659ff31fb7dea7ed5c3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SUS-Wizard-34B-GGUF/resolve/main/SUS-Wizard-34B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "SUS-Wizard-34B.IQ4_XS.gguf",
+            "size": "19176798240",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "e6c360d5b0b29e2857d3995efe7672020b78f8a69eb7c0ea768d9154eade2c6b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SUS-Wizard-34B-GGUF/resolve/main/SUS-Wizard-34B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "SUS-Wizard-34B.Q2_K.gguf",
+            "size": "13366417440",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "aafb8e90fa287c2c1f73cadfc4ecea1d97a53e900e8b5e0d74467b00ec611c85",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SUS-Wizard-34B-GGUF/resolve/main/SUS-Wizard-34B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "SUS-Wizard-34B.Q3_K_L.gguf",
+            "size": "18680629280",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "572985438c56950a824bb5c1218621c0774d2eca93f736a3de4311c4d92285de",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SUS-Wizard-34B-GGUF/resolve/main/SUS-Wizard-34B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "SUS-Wizard-34B.Q3_K_M.gguf",
+            "size": "17196107808",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "fed3501d168c8b86fa1e0d26838e329bc81ef064cf8676364213d461fe43bbe4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SUS-Wizard-34B-GGUF/resolve/main/SUS-Wizard-34B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "SUS-Wizard-34B.Q3_K_S.gguf",
+            "size": "15501477920",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "93f3bea0b2d0ca941a1a0182b46300dce140ef5de51ee65619f96fd97372f265",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SUS-Wizard-34B-GGUF/resolve/main/SUS-Wizard-34B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "SUS-Wizard-34B.Q4_K_M.gguf",
+            "size": "21199894560",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "9cc92978442fd6a1d18a4b7a2f8cbfad2215637c50eed18d31e68b787f006620",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SUS-Wizard-34B-GGUF/resolve/main/SUS-Wizard-34B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "SUS-Wizard-34B.Q4_K_S.gguf",
+            "size": "20139833376",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "db20b74c84f35fbd3712d2d68497ec56e9ba505da959dec57765b96c8d3eae2c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SUS-Wizard-34B-GGUF/resolve/main/SUS-Wizard-34B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "SUS-Wizard-34B.Q5_K_M.gguf",
+            "size": "24863029280",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "310b2c506021281c4e791a7efe3b97ce9aaedff39855e7c48bb7ed92c9628c36",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SUS-Wizard-34B-GGUF/resolve/main/SUS-Wizard-34B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "SUS-Wizard-34B.Q5_K_S.gguf",
+            "size": "24248875040",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "82433fe011b79910917352834709ec1503fad51871260833742f694affecb64c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SUS-Wizard-34B-GGUF/resolve/main/SUS-Wizard-34B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "SUS-Wizard-34B.Q6_K.gguf",
+            "size": "28755109920",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "a8c31771a92bce6607d63704ea2d4feae9296dc88aa9c2b8cbfac64af5b2d4f4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SUS-Wizard-34B-GGUF/resolve/main/SUS-Wizard-34B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "SUS-Wizard-34B.Q8_0.gguf",
+            "size": "36972361760",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "6ce1d27fbf70c579d5c9a9d1a9b5198c34ff334ddb05ac341231aec96f37344f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SUS-Wizard-34B-GGUF/resolve/main/SUS-Wizard-34B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

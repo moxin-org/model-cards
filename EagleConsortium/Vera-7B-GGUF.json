@@ -1,0 +1,43 @@
+{
+    "id": "EagleConsortium/Vera-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "EagleConsortium",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-12T07:24:28Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Vera-Q2_K_S.gguf",
+            "size": "2319544032",
+            "quantization": "Q2_K_S",
+            "tags": [],
+            "sha256": "98cde3a9575d45483b1fa3361958cad8d1a6323097959c120a4bd0013d6da3ae",
+            "download": {
+                "default": "https://huggingface.co/EagleConsortium/Vera-7B-GGUF/resolve/main/Vera-Q2_K_S.gguf"
+            }
+        },
+        {
+            "name": "Vera-Q4_K_M.gguf",
+            "size": "4081004256",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "761e899f84b1ac4134f822ecad608d628b4ee3eecabccc9f374925b1af5fc145",
+            "download": {
+                "default": "https://huggingface.co/EagleConsortium/Vera-7B-GGUF/resolve/main/Vera-Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

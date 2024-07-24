@@ -1,0 +1,163 @@
+{
+    "id": "ChristianAzinn/mxbai-embed-large-v1-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "ChristianAzinn",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-07T20:23:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mxbai-embed-large-v1_fp16.gguf",
+            "size": "669603712",
+            "quantization": "",
+            "tags": [],
+            "sha256": "819c2adf5ce6df2b6bd2ae4ca90d2a69f060afeb438d0c171db57daa02e39c3d",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/mxbai-embed-large-v1-gguf/resolve/main/mxbai-embed-large-v1_fp16.gguf"
+            }
+        },
+        {
+            "name": "mxbai-embed-large-v1_fp32.gguf",
+            "size": "1337141120",
+            "quantization": "",
+            "tags": [],
+            "sha256": "bd5c23282f72b801a87964813972aca16fbb13ddca9d540b99f7934475da27dc",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/mxbai-embed-large-v1-gguf/resolve/main/mxbai-embed-large-v1_fp32.gguf"
+            }
+        },
+        {
+            "name": "mxbai-embed-large-v1.Q2_K.gguf",
+            "size": "144227872",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "d7fe8249e4f854c333ea0b725ce022fe69dc7d1f95692e9747cc26d8c6f49263",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/mxbai-embed-large-v1-gguf/resolve/main/mxbai-embed-large-v1.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "mxbai-embed-large-v1.Q3_K_L.gguf",
+            "size": "198491680",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "6a6ddb4acd4e75365ae4e32ed82d0d35dc6b217b4c66638e73990ffcd02b3605",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/mxbai-embed-large-v1-gguf/resolve/main/mxbai-embed-large-v1.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "mxbai-embed-large-v1.Q3_K_M.gguf",
+            "size": "181452320",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "a6ed5b012d07ccb492d102ede8a4f85b882822b6e0add7cfc9d1ef7f6632217c",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/mxbai-embed-large-v1-gguf/resolve/main/mxbai-embed-large-v1.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "mxbai-embed-large-v1.Q3_K_S.gguf",
+            "size": "159563296",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "3e075541980e2f83c8db80f032e4c8797f443da9ffad3c944f3086d027a2139c",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/mxbai-embed-large-v1-gguf/resolve/main/mxbai-embed-large-v1.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "mxbai-embed-large-v1.Q4_0.gguf",
+            "size": "199671328",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "6ba855bf271195b32c99678429e6216ac129378f4e0eae8afc6279a3a376588e",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/mxbai-embed-large-v1-gguf/resolve/main/mxbai-embed-large-v1.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "mxbai-embed-large-v1.Q4_K_M.gguf",
+            "size": "215891488",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "3869d462819e3f6cd2c1b0f8d6817e95cc1ed31fc09388432669209d1c6f1b65",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/mxbai-embed-large-v1-gguf/resolve/main/mxbai-embed-large-v1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "mxbai-embed-large-v1.Q4_K_S.gguf",
+            "size": "203341344",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "8cb468ef537172fb70324dfd0d77ff551852f483f175b3b49ea7fcfa70417833",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/mxbai-embed-large-v1-gguf/resolve/main/mxbai-embed-large-v1.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "mxbai-embed-large-v1.Q5_0.gguf",
+            "size": "237420064",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "fa8567f95c8f3f5df94b5921d5a10e7eb4b9974cc16e62d3862f681e67212e30",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/mxbai-embed-large-v1-gguf/resolve/main/mxbai-embed-large-v1.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "mxbai-embed-large-v1.Q5_K_M.gguf",
+            "size": "245775904",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "747376b7479f0f31ce5f6147052010858eeee5aa9d3637fdfed1ab1a9c013eba",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/mxbai-embed-large-v1-gguf/resolve/main/mxbai-embed-large-v1.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "mxbai-embed-large-v1.Q5_K_S.gguf",
+            "size": "237420064",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "79463a58bfdb6bc3acb28530383ec1f2c6778ea0e895c12238593fe4db23488a",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/mxbai-embed-large-v1-gguf/resolve/main/mxbai-embed-large-v1.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "mxbai-embed-large-v1.Q6_K.gguf",
+            "size": "277528096",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "4c439ed175c6de17be56aa797c5c8503c1f9ea2da6a5d528d968c95c7b391577",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/mxbai-embed-large-v1-gguf/resolve/main/mxbai-embed-large-v1.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "mxbai-embed-large-v1.Q8_0.gguf",
+            "size": "358235712",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "bcdebca12aa16c0e51d166d97e4776efd46f905952b0c9acb968976eba2619f3",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/mxbai-embed-large-v1-gguf/resolve/main/mxbai-embed-large-v1.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

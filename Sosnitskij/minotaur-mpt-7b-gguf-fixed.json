@@ -1,0 +1,53 @@
+{
+    "id": "Sosnitskij/minotaur-mpt-7b-gguf-fixed",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Sosnitskij",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-08T16:12:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "minotaur-mpt-7b-Q4_K_M.gguf",
+            "size": "4389796320",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "bc4ab31b58424eaa276990ec824181a3f599298306ca0e33b75860012b4b4cba",
+            "download": {
+                "default": "https://huggingface.co/Sosnitskij/minotaur-mpt-7b-gguf-fixed/resolve/main/minotaur-mpt-7b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "minotaur-mpt-7b-Q5_K_M.gguf",
+            "size": "5099223520",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5e77c695a3642bf6b576d8d4db04c6e05c91b53ef8f6c7d8ce5dd7cb4e6979b5",
+            "download": {
+                "default": "https://huggingface.co/Sosnitskij/minotaur-mpt-7b-gguf-fixed/resolve/main/minotaur-mpt-7b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "minotaur-mpt-7b-Q6_K.gguf",
+            "size": "5625711072",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "9f057449dcb7c4765c7e2b98f3fc776054728daebd50f7fc117796df65cdb3fa",
+            "download": {
+                "default": "https://huggingface.co/Sosnitskij/minotaur-mpt-7b-gguf-fixed/resolve/main/minotaur-mpt-7b-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

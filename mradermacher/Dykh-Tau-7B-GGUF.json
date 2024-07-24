@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/Dykh-Tau-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-27T22:30:50Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Dykh-Tau-7B.IQ3_M.gguf",
+            "size": "3439515584",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "d174a4dfb0ece7030169c87ef61f002487b0a37227529ca66bedfd29375b918c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Dykh-Tau-7B-GGUF/resolve/main/Dykh-Tau-7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Dykh-Tau-7B.IQ3_S.gguf",
+            "size": "3337017280",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "8c5ef980dc9942cd5acf0e9d4cc463e1eaeb2c3632867a7889d9af926a308987",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Dykh-Tau-7B-GGUF/resolve/main/Dykh-Tau-7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Dykh-Tau-7B.IQ3_XS.gguf",
+            "size": "3173439424",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "1b4184d2e8d26c7ca7306b8bdbbedeca81a3bc5d784fe5db3e79563d6fdfd43d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Dykh-Tau-7B-GGUF/resolve/main/Dykh-Tau-7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Dykh-Tau-7B.IQ4_NL.gguf",
+            "size": "4309678016",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "86b3d59fea822cc6390d1a91919e6aa66ce5fbbc6c4eea17f4440fb13c873c6f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Dykh-Tau-7B-GGUF/resolve/main/Dykh-Tau-7B.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Dykh-Tau-7B.IQ4_XS.gguf",
+            "size": "4099012544",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "1fc74e733a7625aee0c56435ff5c58cf2421061d3db7a99ee8169dadb63ff811",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Dykh-Tau-7B-GGUF/resolve/main/Dykh-Tau-7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Dykh-Tau-7B.Q2_K.gguf",
+            "size": "2873866176",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a2eee3505d997faaea7de9e2f54a4a0e21de3e4f0b6644235659912053978aed",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Dykh-Tau-7B-GGUF/resolve/main/Dykh-Tau-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Dykh-Tau-7B.Q3_K_L.gguf",
+            "size": "3976648640",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "dacb4eb1dfaca4ee71ec0cea35998a17cc6837b99b09382857f4ae8f81e98903",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Dykh-Tau-7B-GGUF/resolve/main/Dykh-Tau-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Dykh-Tau-7B.Q3_K_M.gguf",
+            "size": "3673610176",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "fac6ab5e80e9874231461308f49d41c3c8768c5c20d43f4aacec9609e32161d9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Dykh-Tau-7B-GGUF/resolve/main/Dykh-Tau-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Dykh-Tau-7B.Q3_K_S.gguf",
+            "size": "3319191488",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "a4075568e2dfd66a26c72c41661ebc7cc008268476108629253e579d6c7f1e61",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Dykh-Tau-7B-GGUF/resolve/main/Dykh-Tau-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Dykh-Tau-7B.Q4_0.gguf",
+            "size": "4263540672",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "a14487d0dcce332b9c8060fd6de2ecd688432c282b2d956e36ebe735ce2a1e5c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Dykh-Tau-7B-GGUF/resolve/main/Dykh-Tau-7B.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Dykh-Tau-7B.Q4_K_M.gguf",
+            "size": "4523063232",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4954cb2f091d9e0114ef3dfeb7f69d555f19378dda42b06b4e9e45043356a5f8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Dykh-Tau-7B-GGUF/resolve/main/Dykh-Tau-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Dykh-Tau-7B.Q4_K_S.gguf",
+            "size": "4294997952",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "dc9f34ddf1ce17cac51ca54bca74db7324d4c72e0534a4d481ae4f2faea9ca7a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Dykh-Tau-7B-GGUF/resolve/main/Dykh-Tau-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Dykh-Tau-7B.Q5_K_M.gguf",
+            "size": "5286033344",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "694a671d2b5e57e8d063344817a6945dcd21f7d8a733ff9f9b1ef00e2aae1f61",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Dykh-Tau-7B-GGUF/resolve/main/Dykh-Tau-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Dykh-Tau-7B.Q5_K_S.gguf",
+            "size": "5152339904",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "eaeca04bbf1c7d94658866afb99bc3ed7b23c8d716a0976ac6b63ff0b68c1bc7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Dykh-Tau-7B-GGUF/resolve/main/Dykh-Tau-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Dykh-Tau-7B.Q6_K.gguf",
+            "size": "6096689088",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "c911f3524978d433bf3fabfb5423c544bfa04aba4a07c6f5b2631f85491f49fc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Dykh-Tau-7B-GGUF/resolve/main/Dykh-Tau-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Dykh-Tau-7B.Q8_0.gguf",
+            "size": "7818737600",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "041238c80808bbebe06c8de7c349570481ecf13588a5822fb9ecdb5453fc51c9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Dykh-Tau-7B-GGUF/resolve/main/Dykh-Tau-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

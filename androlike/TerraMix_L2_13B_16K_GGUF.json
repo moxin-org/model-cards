@@ -1,0 +1,53 @@
+{
+    "id": "androlike/TerraMix_L2_13B_16K_GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "androlike",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-06T10:58:54Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "TerraMix-L2-13B-16K-fp16.gguf",
+            "size": "26033303456",
+            "quantization": "",
+            "tags": [],
+            "sha256": "478250e1a27ec55acddf1d97f7f8cbd0b6a8065de9c3c40d02748c3661f903f0",
+            "download": {
+                "default": "https://huggingface.co/androlike/TerraMix_L2_13B_16K_GGUF/resolve/main/TerraMix-L2-13B-16K-fp16.gguf"
+            }
+        },
+        {
+            "name": "TerraMix-L2-13B-16K-Q4_K_M.gguf",
+            "size": "7865956320",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "d3b17dd3fb5842bca90f2654d5ffbe2b85e8afc7c3db70dbce50c6d305381333",
+            "download": {
+                "default": "https://huggingface.co/androlike/TerraMix_L2_13B_16K_GGUF/resolve/main/TerraMix-L2-13B-16K-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "TerraMix-L2-13B-16K-Q5_K_M.gguf",
+            "size": "9229924320",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "61e680312b7bc1130997b6017e9c75d83a5fc9a092e00266e8d4ffdb056f087e",
+            "download": {
+                "default": "https://huggingface.co/androlike/TerraMix_L2_13B_16K_GGUF/resolve/main/TerraMix-L2-13B-16K-Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

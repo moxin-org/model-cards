@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Umbra-v2.1-MoE-4x10.7-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-03T10:11:15Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Umbra-v2.1-MoE-4x10.7.IQ3_M.gguf",
+            "size": "16041603744",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "c09c73c6caa505e734c03bcdd57903ff7038738f5c6bf7fe01f397c726082c30",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Umbra-v2.1-MoE-4x10.7-GGUF/resolve/main/Umbra-v2.1-MoE-4x10.7.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Umbra-v2.1-MoE-4x10.7.IQ3_S.gguf",
+            "size": "15747478176",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "a8ccd2fc30e939fb527e8d5c71cca70a561342e00ba2eac4ec6d2371eba0f613",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Umbra-v2.1-MoE-4x10.7-GGUF/resolve/main/Umbra-v2.1-MoE-4x10.7.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Umbra-v2.1-MoE-4x10.7.IQ3_XS.gguf",
+            "size": "14825779872",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "d64889215c515abafe4d7509dc44d83e7dc55aa65a6d801a20ce8c3c98b6a1d2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Umbra-v2.1-MoE-4x10.7-GGUF/resolve/main/Umbra-v2.1-MoE-4x10.7.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Umbra-v2.1-MoE-4x10.7.IQ4_XS.gguf",
+            "size": "19625317024",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "cf3c466c0b12492ec81703425a66e728c4e7113022664a2775fe17c11db84fdd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Umbra-v2.1-MoE-4x10.7-GGUF/resolve/main/Umbra-v2.1-MoE-4x10.7.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Umbra-v2.1-MoE-4x10.7.Q2_K.gguf",
+            "size": "13341840032",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "b952ac02b8c78d0c860300e4eca1283f6e17f9e2bfa7abb8459f238f7fdb4e8f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Umbra-v2.1-MoE-4x10.7-GGUF/resolve/main/Umbra-v2.1-MoE-4x10.7.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Umbra-v2.1-MoE-4x10.7.Q3_K_L.gguf",
+            "size": "18886914720",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "4525d6c6ba00cd2146186df6f30ba48e77a3892c3db366f3f2745aae39f06398",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Umbra-v2.1-MoE-4x10.7-GGUF/resolve/main/Umbra-v2.1-MoE-4x10.7.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Umbra-v2.1-MoE-4x10.7.Q3_K_M.gguf",
+            "size": "17440928416",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "0492df79deae8f4bb812604ec0eadf8af4258ccf3c4c375640f8fa9b845c6025",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Umbra-v2.1-MoE-4x10.7-GGUF/resolve/main/Umbra-v2.1-MoE-4x10.7.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Umbra-v2.1-MoE-4x10.7.Q3_K_S.gguf",
+            "size": "15720739488",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "c9bf8843638a0f704535ea91f2db8219a773e8a2d429edfeb2bd901db8c7b4cc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Umbra-v2.1-MoE-4x10.7-GGUF/resolve/main/Umbra-v2.1-MoE-4x10.7.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Umbra-v2.1-MoE-4x10.7.Q4_K_M.gguf",
+            "size": "21976912544",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c03c65bb03cb7ee3414fcf5b2c06b80a7fb43b8929cc6c756130cb6208b0e97c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Umbra-v2.1-MoE-4x10.7-GGUF/resolve/main/Umbra-v2.1-MoE-4x10.7.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Umbra-v2.1-MoE-4x10.7.Q4_K_S.gguf",
+            "size": "20675891872",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "4571f4411b467b49fea74acd13a15c16b31ec35cfa706e5c3a72e525de0a930c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Umbra-v2.1-MoE-4x10.7-GGUF/resolve/main/Umbra-v2.1-MoE-4x10.7.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Umbra-v2.1-MoE-4x10.7.Q5_K_M.gguf",
+            "size": "25755587232",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ea9fe8990052ae0b71a0bd14b130ae7cf07e137546ee5d3ac49b89b267bc0ce1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Umbra-v2.1-MoE-4x10.7-GGUF/resolve/main/Umbra-v2.1-MoE-4x10.7.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Umbra-v2.1-MoE-4x10.7.Q5_K_S.gguf",
+            "size": "24993534624",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "bc464b4537b4f0a28b3eca8fee8663248bf6f9018e01b4ef40f7d40cb4df0575",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Umbra-v2.1-MoE-4x10.7-GGUF/resolve/main/Umbra-v2.1-MoE-4x10.7.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Umbra-v2.1-MoE-4x10.7.Q6_K.gguf",
+            "size": "29770429088",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b326109b46bf33d27c00f5ccf8da3a670485cb36603c7109785f2ed6b5c0a03e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Umbra-v2.1-MoE-4x10.7-GGUF/resolve/main/Umbra-v2.1-MoE-4x10.7.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Umbra-v2.1-MoE-4x10.7.Q8_0.gguf",
+            "size": "38481236640",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "bd436991477da30287935e5ed755195c09467a5eebe5b34767e2504119529551",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Umbra-v2.1-MoE-4x10.7-GGUF/resolve/main/Umbra-v2.1-MoE-4x10.7.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

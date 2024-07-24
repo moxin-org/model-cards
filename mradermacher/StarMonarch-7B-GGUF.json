@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/StarMonarch-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-04T00:13:47Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "StarMonarch-7B.IQ3_M.gguf",
+            "size": "3439515616",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "0a4c0ae945e4b981d6601c797e459a1ee13a1d65cd6074d06ce12800579f96d8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/StarMonarch-7B-GGUF/resolve/main/StarMonarch-7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "StarMonarch-7B.IQ3_S.gguf",
+            "size": "3337017312",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "2d3a8200630a289fa477f2a43f316f06646e7450c693d7acef27f7ab89c456cc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/StarMonarch-7B-GGUF/resolve/main/StarMonarch-7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "StarMonarch-7B.IQ3_XS.gguf",
+            "size": "3173439456",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "2d1fae4389fc1a4ab56c956a28227a0b2d963750c22fede50914acbd51f7ed02",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/StarMonarch-7B-GGUF/resolve/main/StarMonarch-7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "StarMonarch-7B.IQ4_XS.gguf",
+            "size": "4099012576",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "c2afbf968034e467b6eb799488bd3a896e971f828f80f07dce772a7f0a607950",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/StarMonarch-7B-GGUF/resolve/main/StarMonarch-7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "StarMonarch-7B.Q2_K.gguf",
+            "size": "2873866208",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "ec22151343a636fe0cc98a1ee6c28fbe56e730b2e486fd62c4efc61f9e098b48",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/StarMonarch-7B-GGUF/resolve/main/StarMonarch-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "StarMonarch-7B.Q3_K_L.gguf",
+            "size": "3976648672",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "12b9e83faf8fe56e5259c1a51da3c12121ba2d840f879acfc81f2cedf937c1a4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/StarMonarch-7B-GGUF/resolve/main/StarMonarch-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "StarMonarch-7B.Q3_K_M.gguf",
+            "size": "3673610208",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "26aac0988bad60e869c42722c07487f8dd8739e54b5a91de42fe376c1696fa1f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/StarMonarch-7B-GGUF/resolve/main/StarMonarch-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "StarMonarch-7B.Q3_K_S.gguf",
+            "size": "3319191520",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "cf2786f3880dc9ecab60509b46cbb5c943eda9db9610454f33f8618f4f26ec41",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/StarMonarch-7B-GGUF/resolve/main/StarMonarch-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "StarMonarch-7B.Q4_K_M.gguf",
+            "size": "4523063264",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "2af5651a7317f1c52079ee809b329fa2a4d96e886c8880985c23e5052b2d4f35",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/StarMonarch-7B-GGUF/resolve/main/StarMonarch-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "StarMonarch-7B.Q4_K_S.gguf",
+            "size": "4294997984",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "5c1c41eae1f7f6ef1b628aeb7720b08361f5aaece51ddfe69597f36cffc1b32b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/StarMonarch-7B-GGUF/resolve/main/StarMonarch-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "StarMonarch-7B.Q5_K_M.gguf",
+            "size": "5286033376",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "2cb22c86702771a5d0a9aac97595e5fe75e81ef4a8de4e52371ea7d9836833d9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/StarMonarch-7B-GGUF/resolve/main/StarMonarch-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "StarMonarch-7B.Q5_K_S.gguf",
+            "size": "5152339936",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "d293788b0585d2b56376571bbee7c06c36757d840dcd2e3d93dc56ff5b32b7b0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/StarMonarch-7B-GGUF/resolve/main/StarMonarch-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "StarMonarch-7B.Q6_K.gguf",
+            "size": "6096689120",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "07cfd4b6ab86e19c1a811c38c7f60e047b6efa182a15c3f3ee5cdbe32eab9282",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/StarMonarch-7B-GGUF/resolve/main/StarMonarch-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "StarMonarch-7B.Q8_0.gguf",
+            "size": "7818737632",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "65779d46bacf865b2be61c12606c8933bd4277816f0a5bdb9b2a8f990a3ac1d3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/StarMonarch-7B-GGUF/resolve/main/StarMonarch-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

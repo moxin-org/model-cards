@@ -1,0 +1,73 @@
+{
+    "id": "cognitivetech/samantha-mistral-instruct-7b_bulleted-notes_GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "cognitivetech",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-21T06:26:15Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "samantha-mistral-instruct-7b-bulleted-notes.fp16.gguf",
+            "size": "14484732064",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0d2f523270d0f714759796b739685f6bd0ca2aa079ab61ae2754c71738d61973",
+            "download": {
+                "default": "https://huggingface.co/cognitivetech/samantha-mistral-instruct-7b_bulleted-notes_GGUF/resolve/main/samantha-mistral-instruct-7b-bulleted-notes.fp16.gguf"
+            }
+        },
+        {
+            "name": "samantha-mistral-instruct-7b-bulleted-notes.Q4_K_M.gguf",
+            "size": "4368439488",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "2d70d44e81277483af25a48c2aef90aeecfd515e21d3eee08e824a43fc326766",
+            "download": {
+                "default": "https://huggingface.co/cognitivetech/samantha-mistral-instruct-7b_bulleted-notes_GGUF/resolve/main/samantha-mistral-instruct-7b-bulleted-notes.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "samantha-mistral-instruct-7b-bulleted-notes.Q5_K_M.gguf",
+            "size": "5131409600",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "4ec732c6ba8594235a938783d0aa0ec834d934848cf6dda94d1e32f0e198fe61",
+            "download": {
+                "default": "https://huggingface.co/cognitivetech/samantha-mistral-instruct-7b_bulleted-notes_GGUF/resolve/main/samantha-mistral-instruct-7b-bulleted-notes.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "samantha-mistral-instruct-7b-bulleted-notes.Q6_K.gguf",
+            "size": "5942065344",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "ab9cd4df5532bc6770c2da8e3939f8b2c2c28ac28a1e9ac7564660d20bb5aaed",
+            "download": {
+                "default": "https://huggingface.co/cognitivetech/samantha-mistral-instruct-7b_bulleted-notes_GGUF/resolve/main/samantha-mistral-instruct-7b-bulleted-notes.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "samantha-mistral-instruct-7b-bulleted-notes.Q8_0.gguf",
+            "size": "7695857856",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "6334c1ab56c565afd86535271fab52b03e67a5e31376946bce7bf5c144e847e4",
+            "download": {
+                "default": "https://huggingface.co/cognitivetech/samantha-mistral-instruct-7b_bulleted-notes_GGUF/resolve/main/samantha-mistral-instruct-7b-bulleted-notes.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

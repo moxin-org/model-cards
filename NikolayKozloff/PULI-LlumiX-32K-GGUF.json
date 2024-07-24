@@ -1,0 +1,63 @@
+{
+    "id": "NikolayKozloff/PULI-LlumiX-32K-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "NikolayKozloff",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-14T19:26:26Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "PULI-LlumiX-32K-Q4_K_S.gguf",
+            "size": "3856740288",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "ac226e18316d66b71289622ac05a2a25075dd1b6bdfea0dcd88511a756abcf1b",
+            "download": {
+                "default": "https://huggingface.co/NikolayKozloff/PULI-LlumiX-32K-GGUF/resolve/main/PULI-LlumiX-32K-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "PULI-LlumiX-32K-Q5_K_M.gguf",
+            "size": "4783157184",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ac10921156fb39f4dd80f72d45baa99b867f07df9cd8153ed5cc862d8a4c0e0d",
+            "download": {
+                "default": "https://huggingface.co/NikolayKozloff/PULI-LlumiX-32K-GGUF/resolve/main/PULI-LlumiX-32K-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "PULI-LlumiX-32K-Q6_K.gguf",
+            "size": "5529194432",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "49482e75f8cd680844272cb1a3bd99a368e0dcc3d1467bf5f5db5372901d206c",
+            "download": {
+                "default": "https://huggingface.co/NikolayKozloff/PULI-LlumiX-32K-GGUF/resolve/main/PULI-LlumiX-32K-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "PULI-LlumiX-32K-Q8_0.gguf",
+            "size": "7161089984",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "7eea4ee9676ada6304849cd4878c2b335a4eaf4d0be4f0ae460ef5f7534bc105",
+            "download": {
+                "default": "https://huggingface.co/NikolayKozloff/PULI-LlumiX-32K-GGUF/resolve/main/PULI-LlumiX-32K-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

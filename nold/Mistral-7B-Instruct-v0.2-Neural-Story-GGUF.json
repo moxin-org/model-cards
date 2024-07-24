@@ -1,0 +1,73 @@
+{
+    "id": "nold/Mistral-7B-Instruct-v0.2-Neural-Story-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "nold",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-17T14:42:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Mistral-7B-Instruct-v0.2-Neural-Story_Q2_K.gguf",
+            "size": "2719242400",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "ffa8118b9c5e4a30802ce90824550b1552e8049175c5b2768b49ef6bfc9fe90b",
+            "download": {
+                "default": "https://huggingface.co/nold/Mistral-7B-Instruct-v0.2-Neural-Story-GGUF/resolve/main/Mistral-7B-Instruct-v0.2-Neural-Story_Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-Instruct-v0.2-Neural-Story_Q4_K_M.gguf",
+            "size": "4368439456",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "87fc2abd446b6e78044c6dbd4fbd058e155066edc82c7bed3ab69b4763089fe4",
+            "download": {
+                "default": "https://huggingface.co/nold/Mistral-7B-Instruct-v0.2-Neural-Story-GGUF/resolve/main/Mistral-7B-Instruct-v0.2-Neural-Story_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-Instruct-v0.2-Neural-Story_Q5_K_M.gguf",
+            "size": "5131409568",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "4cb03c50e81cc786953332edc9f3679afd46cbe6889e35a8da094173776ab3dc",
+            "download": {
+                "default": "https://huggingface.co/nold/Mistral-7B-Instruct-v0.2-Neural-Story-GGUF/resolve/main/Mistral-7B-Instruct-v0.2-Neural-Story_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-Instruct-v0.2-Neural-Story_Q6_K.gguf",
+            "size": "5942065312",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "09cd21163304d6c34b4e02b8775931f80fe9d7d44f7572a269c8467b768486fe",
+            "download": {
+                "default": "https://huggingface.co/nold/Mistral-7B-Instruct-v0.2-Neural-Story-GGUF/resolve/main/Mistral-7B-Instruct-v0.2-Neural-Story_Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-Instruct-v0.2-Neural-Story_Q8_0.gguf",
+            "size": "7695857824",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "966fb7216b1a7d3de61e343d6c29ce081564854a56c7566158ed57920956ffb4",
+            "download": {
+                "default": "https://huggingface.co/nold/Mistral-7B-Instruct-v0.2-Neural-Story-GGUF/resolve/main/Mistral-7B-Instruct-v0.2-Neural-Story_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

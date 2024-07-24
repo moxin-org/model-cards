@@ -1,0 +1,63 @@
+{
+    "id": "Kooten/DaringMaid-20B-V1.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Kooten",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-21T01:34:14Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "DaringMaid-20B-V1.1-Q3_K_M.gguf",
+            "size": "9706004000",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "edfaab08a16bd3af927bb32043f766d1c7d77ebb8aee5086d7dcdbb6a0f68a19",
+            "download": {
+                "default": "https://huggingface.co/Kooten/DaringMaid-20B-V1.1-GGUF/resolve/main/DaringMaid-20B-V1.1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "DaringMaid-20B-V1.1-Q4_K_M.gguf",
+            "size": "12042208800",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "eee7e74e13ebb3b48911624029bdb0055548f03dbb5dabeba76f11435425e3e7",
+            "download": {
+                "default": "https://huggingface.co/Kooten/DaringMaid-20B-V1.1-GGUF/resolve/main/DaringMaid-20B-V1.1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "DaringMaid-20B-V1.1-Q5_K_M.gguf",
+            "size": "14157219360",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "023f17665b8681ce447c424939e0a63359ccc481c3772471bb1d739419ca2cba",
+            "download": {
+                "default": "https://huggingface.co/Kooten/DaringMaid-20B-V1.1-GGUF/resolve/main/DaringMaid-20B-V1.1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "DaringMaid-20B-V1.1-Q6_K.gguf",
+            "size": "16404418080",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "37c2663ae2627145a4e5c7ddb58f2fe62664c8324a66e4dbe10f3627f5b3e277",
+            "download": {
+                "default": "https://huggingface.co/Kooten/DaringMaid-20B-V1.1-GGUF/resolve/main/DaringMaid-20B-V1.1-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

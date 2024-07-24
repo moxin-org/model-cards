@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/WestLake-7B-v2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-13T10:46:04Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "WestLake-7B-v2.IQ3_M.gguf",
+            "size": "3439515392",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "92a6ab6978a6c1df6131fb7b89039cafd473bfe9534de0154514dadd30217afc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLake-7B-v2-GGUF/resolve/main/WestLake-7B-v2.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "WestLake-7B-v2.IQ3_S.gguf",
+            "size": "3337017088",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "1cce2eebd53091c41cc0a2a98affd4ee244896721bf38153f9ddf4fe50ac8c50",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLake-7B-v2-GGUF/resolve/main/WestLake-7B-v2.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "WestLake-7B-v2.IQ3_XS.gguf",
+            "size": "3155613440",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "f0bbf260da0f4cae944a101ddc80b02471cedb2be26916df8fadbc3d59b2cc1f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLake-7B-v2-GGUF/resolve/main/WestLake-7B-v2.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "WestLake-7B-v2.IQ4_XS.gguf",
+            "size": "4099012352",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "28ec878d42cc687f0ba5a12787f1e812b27e6b19ae6b933a5dd614e2435b4182",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLake-7B-v2-GGUF/resolve/main/WestLake-7B-v2.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "WestLake-7B-v2.Q2_K.gguf",
+            "size": "2873865984",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "e618d5dc003c975858ce37fd28315f6832827ea18deb2bd9ea0956baa34f71a8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLake-7B-v2-GGUF/resolve/main/WestLake-7B-v2.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "WestLake-7B-v2.Q3_K_L.gguf",
+            "size": "3976648448",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "c99e79a58ce28ce851a9ac968c1db9c5e7fbf6ba4584dedf0532a2e1a302bbc6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLake-7B-v2-GGUF/resolve/main/WestLake-7B-v2.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "WestLake-7B-v2.Q3_K_M.gguf",
+            "size": "3673609984",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "b3adf801dee83aceba6b867ef5573811feb3f37ca39a183a5c5822a75bb0b389",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLake-7B-v2-GGUF/resolve/main/WestLake-7B-v2.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "WestLake-7B-v2.Q3_K_S.gguf",
+            "size": "3319191296",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "723a047a8d1aa5a4be5b06af7da85b5ea4dc1614adeb26daafbbf4d124cc6539",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLake-7B-v2-GGUF/resolve/main/WestLake-7B-v2.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "WestLake-7B-v2.Q4_K_M.gguf",
+            "size": "4523063040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "266987ce0e6eecc4e326cf25b16608380df954c7ffe4566fd2fd9a23e41efae8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLake-7B-v2-GGUF/resolve/main/WestLake-7B-v2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "WestLake-7B-v2.Q4_K_S.gguf",
+            "size": "4294997760",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "6d093e9e3fdb2e72205aec1141188ba63e8266817dd17a8ecfd4fc59b6d2ce59",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLake-7B-v2-GGUF/resolve/main/WestLake-7B-v2.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "WestLake-7B-v2.Q5_K_M.gguf",
+            "size": "5286033152",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "6f02467bc213cbb1385d062e064a11acf1ef11ae23bb9b544f2f0606b590a195",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLake-7B-v2-GGUF/resolve/main/WestLake-7B-v2.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "WestLake-7B-v2.Q5_K_S.gguf",
+            "size": "5152339712",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "245d306f8074b09fc956986838fd67366455824c962019481aa9280fb3333340",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLake-7B-v2-GGUF/resolve/main/WestLake-7B-v2.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "WestLake-7B-v2.Q6_K.gguf",
+            "size": "6096688896",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "39ba7c79d4604825bfe1f64e68223e5d441431b63f6bdd1f47f34ad792c51342",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLake-7B-v2-GGUF/resolve/main/WestLake-7B-v2.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "WestLake-7B-v2.Q8_0.gguf",
+            "size": "7818737408",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "90ac5ca43b3fc8df75af9d5d9fec6fc3a512d92ffce813af2007b4b0226df104",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLake-7B-v2-GGUF/resolve/main/WestLake-7B-v2.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

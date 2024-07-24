@@ -1,0 +1,43 @@
+{
+    "id": "Kimty/mistral_fine_tune_100fileQA-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Kimty",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-14T14:39:01Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistral_fine_tune_100fileqa.Q3_K_M.gguf",
+            "size": "3518986496",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "b96079e399cda22c3ee75827315634f1e64b79d684d403081bb3f7d7d15809c2",
+            "download": {
+                "default": "https://huggingface.co/Kimty/mistral_fine_tune_100fileQA-GGUF/resolve/main/mistral_fine_tune_100fileqa.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral_fine_tune_100fileqa.Q4_K_M.gguf",
+            "size": "4368439552",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "ac57892be757bb199f9a7d8ab36a95f14d6a8fe69c6b60c7f472b98a1ffec60f",
+            "download": {
+                "default": "https://huggingface.co/Kimty/mistral_fine_tune_100fileQA-GGUF/resolve/main/mistral_fine_tune_100fileqa.Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

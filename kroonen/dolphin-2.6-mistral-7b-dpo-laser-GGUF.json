@@ -1,0 +1,53 @@
+{
+    "id": "kroonen/dolphin-2.6-mistral-7b-dpo-laser-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "kroonen",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-02T00:43:02Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "dolphin-2.6-mistral-7b-dpo-laser-Q4_K_M.gguf",
+            "size": "4369381056",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "223e4eef32fb94160670fa5fefc9e5f5f203110d95f932681cb135acc633f26c",
+            "download": {
+                "default": "https://huggingface.co/kroonen/dolphin-2.6-mistral-7b-dpo-laser-GGUF/resolve/main/dolphin-2.6-mistral-7b-dpo-laser-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.6-mistral-7b-dpo-laser-Q8_0.gguf",
+            "size": "7696802464",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "831003d80171e3c4d952e837dadce804afdf1fac9b23df30a75904cf62d48f2a",
+            "download": {
+                "default": "https://huggingface.co/kroonen/dolphin-2.6-mistral-7b-dpo-laser-GGUF/resolve/main/dolphin-2.6-mistral-7b-dpo-laser-Q8_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-f16.gguf",
+            "size": "14485684320",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9395c298b70e0bdbc8388169b0e102aa1d5cd877ae399429d4dfedf811508ebf",
+            "download": {
+                "default": "https://huggingface.co/kroonen/dolphin-2.6-mistral-7b-dpo-laser-GGUF/resolve/main/ggml-model-f16.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

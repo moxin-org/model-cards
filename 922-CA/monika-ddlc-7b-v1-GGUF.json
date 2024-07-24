@@ -1,0 +1,53 @@
+{
+    "id": "922-CA/monika-ddlc-7b-v1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "922-CA",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-14T23:57:46Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "monika-ddlc-7b-v1_q5_K_M.gguf",
+            "size": "4783156928",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e522ebcf2239466cb0b8b3ab0f48df8fc2767bae44a4ea0c3953167c38835034",
+            "download": {
+                "default": "https://huggingface.co/922-CA/monika-ddlc-7b-v1-GGUF/resolve/main/monika-ddlc-7b-v1_q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "monika-ddlc-7b-v1_q8_0.gguf",
+            "size": "7161089696",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fdb1733ef52369f90cb3b43bccc401d9ddf771511f5a9dc09df324d078d8b535",
+            "download": {
+                "default": "https://huggingface.co/922-CA/monika-ddlc-7b-v1-GGUF/resolve/main/monika-ddlc-7b-v1_q8_0.gguf"
+            }
+        },
+        {
+            "name": "monika-ddlc-7b-v1-fp16.gguf",
+            "size": "13478104736",
+            "quantization": "",
+            "tags": [],
+            "sha256": "55f9ec38e6682c63c4f1a9ca9b57c6e07f4e231b0ecfd54f21bbed3e58c72048",
+            "download": {
+                "default": "https://huggingface.co/922-CA/monika-ddlc-7b-v1-GGUF/resolve/main/monika-ddlc-7b-v1-fp16.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,183 @@
+{
+    "id": "bartowski/Tess-2.0-Yi-34B-200K-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bartowski",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-02T02:17:26Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Tess-2.0-Yi-34B-200K-IQ3_M.gguf",
+            "size": "15564717728",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "b764bcffdf5adf959f8cf3aa4c8cf0c3d8fb13d89b3800b4b06c6c3a4bbd69da",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Yi-34B-200K-GGUF/resolve/main/Tess-2.0-Yi-34B-200K-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Yi-34B-200K-IQ3_S.gguf",
+            "size": "15018802848",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "9bc8300d72016002a01f8945c1bb4e68f0a8daf3d23c7689de39a368cafed9fb",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Yi-34B-200K-GGUF/resolve/main/Tess-2.0-Yi-34B-200K-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Yi-34B-200K-IQ4_NL.gguf",
+            "size": "19650049536",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "427e3bb94327bc4fe4d95dcd7ec9e98c3a5ecd0ffac3213e11c232fe074159ae",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Yi-34B-200K-GGUF/resolve/main/Tess-2.0-Yi-34B-200K-IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Yi-34B-200K-IQ4_XS.gguf",
+            "size": "18635633728",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "f36544c63af9f0b60ad06f19902880a85d7d9bd2f35db3128d6dd170f5f31d64",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Yi-34B-200K-GGUF/resolve/main/Tess-2.0-Yi-34B-200K-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Yi-34B-200K-Q2_K.gguf",
+            "size": "12825250016",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "7dd36b5f17db6a65652a1f0ff694b08dd388eaeb86039975d318ede80bfd8899",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Yi-34B-200K-GGUF/resolve/main/Tess-2.0-Yi-34B-200K-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Yi-34B-200K-Q3_K_L.gguf",
+            "size": "18139463328",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "b7cd3203596c462fa053035f0ea4bfbd4fb78f21d74100f647a1252333bcfc7a",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Yi-34B-200K-GGUF/resolve/main/Tess-2.0-Yi-34B-200K-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Yi-34B-200K-Q3_K_M.gguf",
+            "size": "16654941856",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "202ee4f07f8be6ede668bee24f63ea2521b6f86fdebe199cc0fb076943b050f3",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Yi-34B-200K-GGUF/resolve/main/Tess-2.0-Yi-34B-200K-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Yi-34B-200K-Q3_K_S.gguf",
+            "size": "14960311968",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "36e25a7152f2c54357f33c2c2bac5d5707440b506a29910c73c50ace90011561",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Yi-34B-200K-GGUF/resolve/main/Tess-2.0-Yi-34B-200K-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Yi-34B-200K-Q4_0.gguf",
+            "size": "19466548736",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "7796c84b2d3a7dcc3fa1b305c6c36b4638544def3da7fa60a799ca7c3db0ffbc",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Yi-34B-200K-GGUF/resolve/main/Tess-2.0-Yi-34B-200K-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Yi-34B-200K-Q4_K_M.gguf",
+            "size": "20658730496",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "848de22d2f0a5f975a30776c301c25f967d48f985316755aa297aa9edcdc9c3d",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Yi-34B-200K-GGUF/resolve/main/Tess-2.0-Yi-34B-200K-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Yi-34B-200K-Q4_K_S.gguf",
+            "size": "19598669312",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "35bc234304615c94e4526b3b2a27aef4c3d147fc8499700740f23d4b24616a0f",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Yi-34B-200K-GGUF/resolve/main/Tess-2.0-Yi-34B-200K-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Yi-34B-200K-Q5_0.gguf",
+            "size": "23707712768",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "a7ba2dbb86f265bbb50c9208a113fd5e0d4bdd398af26137bd1918a3d8cb4dbe",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Yi-34B-200K-GGUF/resolve/main/Tess-2.0-Yi-34B-200K-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Yi-34B-200K-Q5_K_M.gguf",
+            "size": "24321867008",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "b37a12e60ae600cc63825ae73b25b29ebcba72fa7fe1b52f41bbfa3a1a088c19",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Yi-34B-200K-GGUF/resolve/main/Tess-2.0-Yi-34B-200K-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Yi-34B-200K-Q5_K_S.gguf",
+            "size": "23707712768",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "a7db44af05970569bca9b0724125f50ad306961cdd950053490660e643ccd570",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Yi-34B-200K-GGUF/resolve/main/Tess-2.0-Yi-34B-200K-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Yi-34B-200K-Q6_K.gguf",
+            "size": "28213949568",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "fdbeda7dc70e25bc5bcec695c634662b3e9e650bea129f3df2a8e4d343e441ea",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Yi-34B-200K-GGUF/resolve/main/Tess-2.0-Yi-34B-200K-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Yi-34B-200K-Q8_0.gguf",
+            "size": "36542312320",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "f0b9e45895a5144c6da4f3f32b0b249d91f26c842a70f68d9c0596586a6bcfb2",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Yi-34B-200K-GGUF/resolve/main/Tess-2.0-Yi-34B-200K-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

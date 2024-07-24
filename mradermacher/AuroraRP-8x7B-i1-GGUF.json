@@ -1,0 +1,233 @@
+{
+    "id": "mradermacher/AuroraRP-8x7B-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-04T09:52:42Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "AuroraRP-8x7B.i1-IQ4_XS.gguf",
+            "size": "25233106304",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "a63fc682518efda54e0ff2c0f1d5d1532a7adac58f31a6771f9b39e91c4e1749",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AuroraRP-8x7B-i1-GGUF/resolve/main/AuroraRP-8x7B.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "AuroraRP-8x7B.i1-Q6_K.gguf",
+            "size": "38533383552",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "2713b5ee8cb1454a573730dfa6785c112f5ad47ef655ce0fddc69640dcfacace",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AuroraRP-8x7B-i1-GGUF/resolve/main/AuroraRP-8x7B.i1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "AuroraRP-8x7B.i1-Q5_K_S.gguf",
+            "size": "32383903104",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "7cb3c9f94dc2825e51a81ebaf8a2ef9650a0ddd01d1611564dae7cb264b807e3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AuroraRP-8x7B-i1-GGUF/resolve/main/AuroraRP-8x7B.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "AuroraRP-8x7B.i1-Q5_K_M.gguf",
+            "size": "33382147456",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f33e50b84c57a9532833b7d1a07a40616f135d5b4fcf877568355a57f394043d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AuroraRP-8x7B-i1-GGUF/resolve/main/AuroraRP-8x7B.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "AuroraRP-8x7B.i1-Q4_K_S.gguf",
+            "size": "26898146688",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "478f1fde5c663ef9246d08c65a1e426a204daafbe69258c92c8375e9a59efe33",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AuroraRP-8x7B-i1-GGUF/resolve/main/AuroraRP-8x7B.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "AuroraRP-8x7B.i1-Q4_K_M.gguf",
+            "size": "28601034112",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e3190b09782f4bb10051c0736a33a9e22894a64a3d3e4918e6bd70582beb310e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AuroraRP-8x7B-i1-GGUF/resolve/main/AuroraRP-8x7B.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "AuroraRP-8x7B.i1-Q4_0.gguf",
+            "size": "26713597312",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "1f6c383e57f7c91f3b28a711f6e5b244ec3f717d466e6e75ff87b89e2775b37b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AuroraRP-8x7B-i1-GGUF/resolve/main/AuroraRP-8x7B.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "AuroraRP-8x7B.i1-Q3_K_S.gguf",
+            "size": "20585088384",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "87228ad6f521875b5c31125eb0e53b8ea51513debcfe2ae13b2616f0f9c895d4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AuroraRP-8x7B-i1-GGUF/resolve/main/AuroraRP-8x7B.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "AuroraRP-8x7B.i1-Q3_K_M.gguf",
+            "size": "22699017600",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "878c7cd28233ff5b121ad5ee05063f60c0b783ff66594c3e8ed879ea5984c4a5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AuroraRP-8x7B-i1-GGUF/resolve/main/AuroraRP-8x7B.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "AuroraRP-8x7B.i1-Q3_K_L.gguf",
+            "size": "24322213248",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "09a367f7a0624ebb9ac0a765bf825664ba702c70a1577dbcd36d2a907a5c83a9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AuroraRP-8x7B-i1-GGUF/resolve/main/AuroraRP-8x7B.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "AuroraRP-8x7B.i1-Q2_K.gguf",
+            "size": "17463797120",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "ae179fd9d7594a125c02f81f5699bee4339a19dbe17adcbce3a6c0ffac6ffdef",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AuroraRP-8x7B-i1-GGUF/resolve/main/AuroraRP-8x7B.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "AuroraRP-8x7B.i1-IQ1_M.gguf",
+            "size": "11017151872",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "d8d75e6e504fddb2ca2822d2e63d59001d71ec54842fef809e0df12ebc35e498",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AuroraRP-8x7B-i1-GGUF/resolve/main/AuroraRP-8x7B.i1-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "AuroraRP-8x7B.i1-IQ3_XXS.gguf",
+            "size": "18412438912",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "b8db52c58658b9a90d4235dc807ff60833e77e2397c446cda0dc9160ccbe25c6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AuroraRP-8x7B-i1-GGUF/resolve/main/AuroraRP-8x7B.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "AuroraRP-8x7B.i1-IQ3_XS.gguf",
+            "size": "19436897664",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "0b8983726d673a72b3e085efb71a91f69ea1783e596eb5bf6bb91fb48fa53f28",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AuroraRP-8x7B-i1-GGUF/resolve/main/AuroraRP-8x7B.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "AuroraRP-8x7B.i1-IQ3_S.gguf",
+            "size": "20585088384",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "23ae0dd47e326b6964ececd1e9846008bda573b9b0af549a7774b77aa41688b5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AuroraRP-8x7B-i1-GGUF/resolve/main/AuroraRP-8x7B.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "AuroraRP-8x7B.i1-IQ3_M.gguf",
+            "size": "21583332736",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "ca6bd55d4bd510d106529cecad968d44b873df9d36ffe4fd32beb7dbb07e316f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AuroraRP-8x7B-i1-GGUF/resolve/main/AuroraRP-8x7B.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "AuroraRP-8x7B.i1-IQ2_XXS.gguf",
+            "size": "12726330752",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "8edc0773b5d4faa4cd87bbd7eed61426bd917fe87948d881e0f6aadf3a960acd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AuroraRP-8x7B-i1-GGUF/resolve/main/AuroraRP-8x7B.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "AuroraRP-8x7B.i1-IQ2_XS.gguf",
+            "size": "14093673856",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "22ec1829d594e6a05815d64e6f73a3d778f98cb688c0fe98450ab0c5e2af7f25",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AuroraRP-8x7B-i1-GGUF/resolve/main/AuroraRP-8x7B.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "AuroraRP-8x7B.i1-IQ2_S.gguf",
+            "size": "14297826688",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "9ca73ecb79dcaa24879c186f745d05d485e6ce6ee69f84d9dcb0c5fbb2db35eb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AuroraRP-8x7B-i1-GGUF/resolve/main/AuroraRP-8x7B.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "AuroraRP-8x7B.i1-IQ2_M.gguf",
+            "size": "15665169792",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "9a28915224b1e42259b9df7dd4b7eb2a5083e23df644b1454205565716c84d03",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AuroraRP-8x7B-i1-GGUF/resolve/main/AuroraRP-8x7B.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "AuroraRP-8x7B.i1-IQ1_S.gguf",
+            "size": "9991644544",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "c225de93bc899c204b040fe780c793b40e9f40ccbdd47e0dc514ba9dcdb58d9a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AuroraRP-8x7B-i1-GGUF/resolve/main/AuroraRP-8x7B.i1-IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

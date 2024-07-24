@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/Voldemort-10B-DPO-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-20T12:42:52Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "voldemort-10b-dpo.Q3_K_S.gguf",
+            "size": "4664563744",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "53a5a34dc9aad0c2d114203e1a48527058e0a2bdffa210c84659913471a252a4",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Voldemort-10B-DPO-GGUF/resolve/main/voldemort-10b-dpo.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "voldemort-10b-dpo.Q4_K_M.gguf",
+            "size": "6461667360",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e0749e0cc86b715bc647ac0b66299f54813ab06cce739f933ed4a1789ee6df5f",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Voldemort-10B-DPO-GGUF/resolve/main/voldemort-10b-dpo.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "voldemort-10b-dpo.Q5_K_M.gguf",
+            "size": "7597930528",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5b409e1094994683621c7d912f01cafac983d8e7eea2039c8782764ee938bd56",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Voldemort-10B-DPO-GGUF/resolve/main/voldemort-10b-dpo.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "voldemort-10b-dpo.Q6_K.gguf",
+            "size": "8805210144",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "0c9aaa85e2f70719dc7db8b097521e336fdb2f1391dd7e7430e4b465bc99f68e",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Voldemort-10B-DPO-GGUF/resolve/main/voldemort-10b-dpo.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "voldemort-10b-dpo.Q8_0.gguf",
+            "size": "11404154912",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "36724772b3416d9172bd4cf35a1c3d76d07dc916e4c9ec0001930f38e0f7acb1",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Voldemort-10B-DPO-GGUF/resolve/main/voldemort-10b-dpo.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

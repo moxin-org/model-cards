@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/UltraCatunaMayo-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-23T22:09:28Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "UltraCatunaMayo.IQ3_M.gguf",
+            "size": "3439515392",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "93296451465d1f24db6b80c5fc9306f6173633bcd2629bea823a2748fb9f79a2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/UltraCatunaMayo-GGUF/resolve/main/UltraCatunaMayo.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "UltraCatunaMayo.IQ3_S.gguf",
+            "size": "3337017088",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "f183d70f05a77701e07366a3641d03cda157bb1fca59789105bb7d9e41b9fcb7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/UltraCatunaMayo-GGUF/resolve/main/UltraCatunaMayo.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "UltraCatunaMayo.IQ3_XS.gguf",
+            "size": "3155613440",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "0a332e337887aa22b8ef482410219e1bc24cb824bdc7e8681f2f5c4951ad420f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/UltraCatunaMayo-GGUF/resolve/main/UltraCatunaMayo.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "UltraCatunaMayo.IQ4_NL.gguf",
+            "size": "4309677824",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "20c4a1950999f941112a48288a23d450ce3d6458478b758fdd8590fc2bb0bdb8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/UltraCatunaMayo-GGUF/resolve/main/UltraCatunaMayo.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "UltraCatunaMayo.IQ4_XS.gguf",
+            "size": "4099012352",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "32e43e2e823048c45d890a07fa9dca7935b06cfb10a436aa4e83272887448160",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/UltraCatunaMayo-GGUF/resolve/main/UltraCatunaMayo.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "UltraCatunaMayo.Q2_K.gguf",
+            "size": "2873865984",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "0fa135751c3cf6134109a4ec0b2d49b1607429a8e302362ab677e52d044686b1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/UltraCatunaMayo-GGUF/resolve/main/UltraCatunaMayo.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "UltraCatunaMayo.Q3_K_L.gguf",
+            "size": "3976648448",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "0e0efe947b07c934c06afcb7886aab48c9de782a87f398bf33ec3b16b3e189eb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/UltraCatunaMayo-GGUF/resolve/main/UltraCatunaMayo.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "UltraCatunaMayo.Q3_K_M.gguf",
+            "size": "3673609984",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ae713ca7810d06d82bc7e224d390d34c2fa65b2c05ed5019760905941c65c549",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/UltraCatunaMayo-GGUF/resolve/main/UltraCatunaMayo.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "UltraCatunaMayo.Q3_K_S.gguf",
+            "size": "3319191296",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "869527043de430a1f5c033405752368cb8d67c7551769bbfd35f6024979bb15c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/UltraCatunaMayo-GGUF/resolve/main/UltraCatunaMayo.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "UltraCatunaMayo.Q4_0.gguf",
+            "size": "4263540480",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "771bb0f3ade4a7a2b9056c23ad6be139e411f41c00afaf4d3683e95ff07c3bbe",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/UltraCatunaMayo-GGUF/resolve/main/UltraCatunaMayo.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "UltraCatunaMayo.Q4_K_M.gguf",
+            "size": "4523063040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c9515111c3b0f817ce2f55217dbb96c9d2f5940fe008df9982c37387d1a107e4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/UltraCatunaMayo-GGUF/resolve/main/UltraCatunaMayo.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "UltraCatunaMayo.Q4_K_S.gguf",
+            "size": "4294997760",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "3c91051b89b09b524e81a0710b3c80e44bf4f830dcf8875c8eb45ad21c7c5e94",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/UltraCatunaMayo-GGUF/resolve/main/UltraCatunaMayo.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "UltraCatunaMayo.Q5_K_M.gguf",
+            "size": "5286033152",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f97b1e00c6d34ccc4e0906f999376943e682418e47361a71e30717a7e504f1f8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/UltraCatunaMayo-GGUF/resolve/main/UltraCatunaMayo.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "UltraCatunaMayo.Q5_K_S.gguf",
+            "size": "5152339712",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "02c3e1babbdb3b87a936e0cb9993a71a5dddc9010d7fe3673b07d04561e95f63",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/UltraCatunaMayo-GGUF/resolve/main/UltraCatunaMayo.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "UltraCatunaMayo.Q6_K.gguf",
+            "size": "6096688896",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "42fadfbd73635550b540b49663c6dfa339c396c8bcd4ddbe31c9f326bf086891",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/UltraCatunaMayo-GGUF/resolve/main/UltraCatunaMayo.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "UltraCatunaMayo.Q8_0.gguf",
+            "size": "7818737408",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "c7205552e93451f82cc14fe93dbeffa593d1af57578230847512298160b7224f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/UltraCatunaMayo-GGUF/resolve/main/UltraCatunaMayo.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

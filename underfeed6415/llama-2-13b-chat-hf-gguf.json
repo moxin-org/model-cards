@@ -1,0 +1,43 @@
+{
+    "id": "underfeed6415/llama-2-13b-chat-hf-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "underfeed6415",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-21T00:37:13Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llama-2-13b-chat-hf-fp16.gguf",
+            "size": "26033304320",
+            "quantization": "",
+            "tags": [],
+            "sha256": "cb184155b8cf542c794575710e0b76232e8c978f0041fd9021b72a59f5ab4872",
+            "download": {
+                "default": "https://huggingface.co/underfeed6415/llama-2-13b-chat-hf-gguf/resolve/main/llama-2-13b-chat-hf-fp16.gguf"
+            }
+        },
+        {
+            "name": "llama-2-13b-chat-hf-q8_0.gguf",
+            "size": "13831320320",
+            "quantization": "",
+            "tags": [],
+            "sha256": "af79430a5bcaaa54a373528a54c22df52e561755a31c50cc974dea1f820afee8",
+            "download": {
+                "default": "https://huggingface.co/underfeed6415/llama-2-13b-chat-hf-gguf/resolve/main/llama-2-13b-chat-hf-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

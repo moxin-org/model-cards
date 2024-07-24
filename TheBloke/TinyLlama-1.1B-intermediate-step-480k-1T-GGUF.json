@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/TinyLlama-1.1B-intermediate-step-480k-1T-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-03T17:06:13Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tinyllama-1.1b-intermediate-step-480k-1t.Q2_K.gguf",
+            "size": "482142688",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "342fc78d885cbee0152ec0d95c22257824e9e92e3e1516fcb6d1a5809b94269d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/TinyLlama-1.1B-intermediate-step-480k-1T-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-480k-1t.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-480k-1t.Q3_K_L.gguf",
+            "size": "591526368",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "ac83a26cbb3f3cb444879a2e2fad811331617ffffdf2f379e7942477ad5f2513",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/TinyLlama-1.1B-intermediate-step-480k-1T-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-480k-1t.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-480k-1t.Q3_K_M.gguf",
+            "size": "549845472",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ab33d9b560c0cef10d65f3c134510b4527638eda8326d8f47ee2756b3dedb74a",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/TinyLlama-1.1B-intermediate-step-480k-1T-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-480k-1t.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-480k-1t.Q3_K_S.gguf",
+            "size": "499341792",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "78cc45c1d25ac6d4a38e35afd43ccf9a7146318cf19a587e29efe20616bc01b7",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/TinyLlama-1.1B-intermediate-step-480k-1T-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-480k-1t.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-480k-1t.Q4_0.gguf",
+            "size": "636725728",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "4b3be842b46ea867b320b7bfafd149d91074c42a687ceaf6dfc490916a574ac4",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/TinyLlama-1.1B-intermediate-step-480k-1T-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-480k-1t.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-480k-1t.Q4_K_M.gguf",
+            "size": "667814368",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "989a250157af42368fbab3571f05823c06ab88d80736a76679cb28e2d8c7b466",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/TinyLlama-1.1B-intermediate-step-480k-1T-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-480k-1t.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-480k-1t.Q4_K_S.gguf",
+            "size": "642755040",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "7740c5cfe38782aa2a30bdc08a7ab8d7977e04b16d68355baf723ea5df28ea61",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/TinyLlama-1.1B-intermediate-step-480k-1T-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-480k-1t.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-480k-1t.Q5_0.gguf",
+            "size": "766028256",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "407f88f3ccbbdc5e04d025b07ff1a2703ab24a017f6e8efa0a0fccd515cf0310",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/TinyLlama-1.1B-intermediate-step-480k-1T-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-480k-1t.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-480k-1t.Q5_K_M.gguf",
+            "size": "782043616",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "2901e389d0fee716fdebe9a639365481ae06b483b9be01051e933835c25e67a1",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/TinyLlama-1.1B-intermediate-step-480k-1T-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-480k-1t.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-480k-1t.Q5_K_S.gguf",
+            "size": "766028256",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "041a4e43bb71fc240ffb6caab2cc099ed06cd301a41134d63285d697bb5509c9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/TinyLlama-1.1B-intermediate-step-480k-1T-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-480k-1t.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-480k-1t.Q6_K.gguf",
+            "size": "903412192",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "4345ae583c9da6e3502db84b4691ae163c55e56d82c77bb962f017f76b37657c",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/TinyLlama-1.1B-intermediate-step-480k-1T-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-480k-1t.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-480k-1t.Q8_0.gguf",
+            "size": "1169807840",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "b036ecb02109f87ce57a49ddfb80c24eb2d08bcd5a5a8b4ec7b1cd745ef4dcb0",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/TinyLlama-1.1B-intermediate-step-480k-1T-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-480k-1t.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

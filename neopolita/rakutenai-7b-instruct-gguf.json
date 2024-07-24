@@ -1,0 +1,83 @@
+{
+    "id": "neopolita/rakutenai-7b-instruct-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "neopolita",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-26T12:54:38Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "rakutenai-7b-instruct_q2_k.gguf",
+            "size": "2794879744",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9eb136665896702a6758501801c8750499809fe61915525e7d249ac9b687ce7d",
+            "download": {
+                "default": "https://huggingface.co/neopolita/rakutenai-7b-instruct-gguf/resolve/main/rakutenai-7b-instruct_q2_k.gguf"
+            }
+        },
+        {
+            "name": "rakutenai-7b-instruct_q3_k_m.gguf",
+            "size": "3601279744",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3067458b991c17c0472f746d37c478a8419860bed2e00db4117a5cc406b57fdd",
+            "download": {
+                "default": "https://huggingface.co/neopolita/rakutenai-7b-instruct-gguf/resolve/main/rakutenai-7b-instruct_q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "rakutenai-7b-instruct_q4_k_m.gguf",
+            "size": "4459436800",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8e3749f7121afc635e4f09d1f94bb225727c855105183d487143a6b12a0d525d",
+            "download": {
+                "default": "https://huggingface.co/neopolita/rakutenai-7b-instruct-gguf/resolve/main/rakutenai-7b-instruct_q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "rakutenai-7b-instruct_q5_k_m.gguf",
+            "size": "5230598912",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ba2a28d45e9ab63a1dca1c75e062826cb76e7f998a7df15801687eae39c9040b",
+            "download": {
+                "default": "https://huggingface.co/neopolita/rakutenai-7b-instruct-gguf/resolve/main/rakutenai-7b-instruct_q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "rakutenai-7b-instruct_q6_k.gguf",
+            "size": "6049958656",
+            "quantization": "",
+            "tags": [],
+            "sha256": "bb294a81375a38c8a1beace2a2208cbab17486b813cfeddf1605f17fe2b25b3f",
+            "download": {
+                "default": "https://huggingface.co/neopolita/rakutenai-7b-instruct-gguf/resolve/main/rakutenai-7b-instruct_q6_k.gguf"
+            }
+        },
+        {
+            "name": "rakutenai-7b-instruct_q8_0.gguf",
+            "size": "7835495168",
+            "quantization": "",
+            "tags": [],
+            "sha256": "182a9c6f7450a4c9bfa7c2f2d239d0cf6b3c1cb91d61712e8ab1fbad6cc4cfee",
+            "download": {
+                "default": "https://huggingface.co/neopolita/rakutenai-7b-instruct-gguf/resolve/main/rakutenai-7b-instruct_q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

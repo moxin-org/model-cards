@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/multimaster-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-29T15:04:35Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "multimaster-7b.Q3_K_S.gguf",
+            "size": "3164577824",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "c7ec71b0e1e2479914d334cfbff4e0cc16af28dd63f390fda9ab238a5556d66a",
+            "download": {
+                "default": "https://huggingface.co/s3nh/multimaster-7b-GGUF/resolve/main/multimaster-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "multimaster-7b.Q4_K_M.gguf",
+            "size": "4368450656",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "686a46d4c894a6ec0780c82ee71afcd4497de43d1bb7c90309743ad1d36e78b3",
+            "download": {
+                "default": "https://huggingface.co/s3nh/multimaster-7b-GGUF/resolve/main/multimaster-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "multimaster-7b.Q5_K_M.gguf",
+            "size": "5131421792",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "0835e82c39dac93c9ac84506c2a285c2b632af099281e1397dd0ace9110b6d50",
+            "download": {
+                "default": "https://huggingface.co/s3nh/multimaster-7b-GGUF/resolve/main/multimaster-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "multimaster-7b.Q6_K.gguf",
+            "size": "5942078624",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "7bbc767af2d5d655e92cacadeb36c4233ae05cb316f6d4bbdf1264910e52716b",
+            "download": {
+                "default": "https://huggingface.co/s3nh/multimaster-7b-GGUF/resolve/main/multimaster-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "multimaster-7b.Q8_0.gguf",
+            "size": "7695875104",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "c7f7d2e6447687d93bd90d53e31a9a526651cbecd779343bbd2c28a35c7e39cd",
+            "download": {
+                "default": "https://huggingface.co/s3nh/multimaster-7b-GGUF/resolve/main/multimaster-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

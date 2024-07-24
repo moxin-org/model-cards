@@ -1,0 +1,143 @@
+{
+    "id": "TeeZee/DarkForest-20B-v2.0-GGUF-iMat",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TeeZee",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-19T09:02:40Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "DarkForest-20B-v2.0_Q8_0_imatrix.gguf",
+            "size": "21246647776",
+            "quantization": "Q8_0_imatrix",
+            "tags": [],
+            "sha256": "4a5fdbbe8eb63fc6338bb97c1fb693c181fd1eecad6c35a34dcf538810b35a15",
+            "download": {
+                "default": "https://huggingface.co/TeeZee/DarkForest-20B-v2.0-GGUF-iMat/resolve/main/DarkForest-20B-v2.0_Q8_0_imatrix.gguf"
+            }
+        },
+        {
+            "name": "DarkForest-20B-v2.0.IQ1_S_imatrix.gguf",
+            "size": "4393983456",
+            "quantization": "Q1_S_imatrix",
+            "tags": [],
+            "sha256": "19478c75692c032058e6b819a42397d160b0e19c4cd0318278dd0269750a2398",
+            "download": {
+                "default": "https://huggingface.co/TeeZee/DarkForest-20B-v2.0-GGUF-iMat/resolve/main/DarkForest-20B-v2.0.IQ1_S_imatrix.gguf"
+            }
+        },
+        {
+            "name": "DarkForest-20B-v2.0.IQ2_XS_imatrix.gguf",
+            "size": "5937274336",
+            "quantization": "Q2_XS_imatrix",
+            "tags": [],
+            "sha256": "4f26f255496cbb44f93111175c065b560d3aac8f8e5a86fcef9d66ae140fd2db",
+            "download": {
+                "default": "https://huggingface.co/TeeZee/DarkForest-20B-v2.0-GGUF-iMat/resolve/main/DarkForest-20B-v2.0.IQ2_XS_imatrix.gguf"
+            }
+        },
+        {
+            "name": "DarkForest-20B-v2.0.IQ2_XXS_imatrix.gguf",
+            "size": "5388983776",
+            "quantization": "Q2_XXS_imatrix",
+            "tags": [],
+            "sha256": "60589410c4e70bd37cb54d630b9825749f1f2e1bcfd4376d2adff886704659ab",
+            "download": {
+                "default": "https://huggingface.co/TeeZee/DarkForest-20B-v2.0-GGUF-iMat/resolve/main/DarkForest-20B-v2.0.IQ2_XXS_imatrix.gguf"
+            }
+        },
+        {
+            "name": "DarkForest-20B-v2.0.q2_K_imatrix.gguf",
+            "size": "7420220896",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f2b31b3cee81248e04b857994e51dfb2b88943158221241e117af5f36701f01d",
+            "download": {
+                "default": "https://huggingface.co/TeeZee/DarkForest-20B-v2.0-GGUF-iMat/resolve/main/DarkForest-20B-v2.0.q2_K_imatrix.gguf"
+            }
+        },
+        {
+            "name": "DarkForest-20B-v2.0.q3_K_M_imatrix.gguf",
+            "size": "9706003936",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8c427335a2fe97486fb79895575a4f368268849820a7ede46a6c1049a87002c0",
+            "download": {
+                "default": "https://huggingface.co/TeeZee/DarkForest-20B-v2.0-GGUF-iMat/resolve/main/DarkForest-20B-v2.0.q3_K_M_imatrix.gguf"
+            }
+        },
+        {
+            "name": "DarkForest-20B-v2.0.q4_0_imatrix.gguf",
+            "size": "11322992096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e6ecf904dc4179773c2de7bd84eef17ac1ab799d31db08f77b0a4844d68ffe7f",
+            "download": {
+                "default": "https://huggingface.co/TeeZee/DarkForest-20B-v2.0-GGUF-iMat/resolve/main/DarkForest-20B-v2.0.q4_0_imatrix.gguf"
+            }
+        },
+        {
+            "name": "DarkForest-20B-v2.0.q4_K_M_imatrix.gguf",
+            "size": "12042208736",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9b81a7ff6cd5595dcb8998573e1d4cd0f0da8571e4a8565688b22e5e830c96a2",
+            "download": {
+                "default": "https://huggingface.co/TeeZee/DarkForest-20B-v2.0-GGUF-iMat/resolve/main/DarkForest-20B-v2.0.q4_K_M_imatrix.gguf"
+            }
+        },
+        {
+            "name": "DarkForest-20B-v2.0.q4_K_S_imatrix.gguf",
+            "size": "11367065056",
+            "quantization": "",
+            "tags": [],
+            "sha256": "185e7a0dd452bf697b246cb46df9dbef176fc311d082fbc85631f1e519d683b8",
+            "download": {
+                "default": "https://huggingface.co/TeeZee/DarkForest-20B-v2.0-GGUF-iMat/resolve/main/DarkForest-20B-v2.0.q4_K_S_imatrix.gguf"
+            }
+        },
+        {
+            "name": "DarkForest-20B-v2.0.q5_0_imatrix.gguf",
+            "size": "13801727456",
+            "quantization": "",
+            "tags": [],
+            "sha256": "104d8e1b7f3b3c1fa79bdbb415066e611bc85a9aa747d9f75c03b02ad6efc0f9",
+            "download": {
+                "default": "https://huggingface.co/TeeZee/DarkForest-20B-v2.0-GGUF-iMat/resolve/main/DarkForest-20B-v2.0.q5_0_imatrix.gguf"
+            }
+        },
+        {
+            "name": "DarkForest-20B-v2.0.q5_K_M_imatrix.gguf",
+            "size": "14157219296",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9d701ce206258cd5b4c53c30410fdbe97156e01fc9209adf394a502ccdefcefc",
+            "download": {
+                "default": "https://huggingface.co/TeeZee/DarkForest-20B-v2.0-GGUF-iMat/resolve/main/DarkForest-20B-v2.0.q5_K_M_imatrix.gguf"
+            }
+        },
+        {
+            "name": "DarkForest-20B-v2.0.q6_K_imatrix.gguf",
+            "size": "16404418016",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2034e63ce32480e5422867709a5908e5d1b26cb3d68d490ed803fb60352fece5",
+            "download": {
+                "default": "https://huggingface.co/TeeZee/DarkForest-20B-v2.0-GGUF-iMat/resolve/main/DarkForest-20B-v2.0.q6_K_imatrix.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

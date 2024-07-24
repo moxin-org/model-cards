@@ -1,0 +1,113 @@
+{
+    "id": "mradermacher/mythospice-limarp-70b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-06T10:36:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mythospice-limarp-70b.Q2_K.gguf",
+            "size": "25462436800",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "68ef64cad20cb942f47491ff4c8b08ddbf5d161d9c433ca9b8ca3d9109229424",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mythospice-limarp-70b-GGUF/resolve/main/mythospice-limarp-70b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "mythospice-limarp-70b.Q3_K_L.gguf",
+            "size": "36147835840",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "0599d902c25472cc41d340b313686c5fdfc41e92e30011f5359d342ef9c50822",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mythospice-limarp-70b-GGUF/resolve/main/mythospice-limarp-70b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "mythospice-limarp-70b.Q3_K_M.gguf",
+            "size": "33274737600",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "60c24ca87bf4cbc71994340beab5b4ad909fe34b40b8b4d0f4337775fc09d07b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mythospice-limarp-70b-GGUF/resolve/main/mythospice-limarp-70b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "mythospice-limarp-70b.Q3_K_S.gguf",
+            "size": "29919294400",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "6246d941bd878ce552883e540d1186a5c4b1da2e22c1706af9207f0fa23b313e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mythospice-limarp-70b-GGUF/resolve/main/mythospice-limarp-70b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "mythospice-limarp-70b.Q3_K_XS.gguf",
+            "size": "28254680000",
+            "quantization": "Q3_K_XS",
+            "tags": [],
+            "sha256": "a7579050cacd06c31d6bf00326bbcce490e0bedc8da2162212a18f92a16d2168",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mythospice-limarp-70b-GGUF/resolve/main/mythospice-limarp-70b.Q3_K_XS.gguf"
+            }
+        },
+        {
+            "name": "mythospice-limarp-70b.Q4_K_M.gguf",
+            "size": "41422910400",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "2dba7a60ab407c74a47f2f388574f76c0fa6d27874564f3c9559de0fdc1e3205",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mythospice-limarp-70b-GGUF/resolve/main/mythospice-limarp-70b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "mythospice-limarp-70b.Q4_K_S.gguf",
+            "size": "39249736640",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "f88d8c7bb8a9f930aea7b3b7526393e911ff0535fd501295940668c9a6d37b4e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mythospice-limarp-70b-GGUF/resolve/main/mythospice-limarp-70b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "mythospice-limarp-70b.Q5_K_M.gguf",
+            "size": "48753767360",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "69ebbd17987eabb99b3bae4da328c5ce1cdea119253453ec0b8f7f513761babd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mythospice-limarp-70b-GGUF/resolve/main/mythospice-limarp-70b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "mythospice-limarp-70b.Q5_K_S.gguf",
+            "size": "47461397440",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "631de8ec0a7ef1de2b8d020996378a0eb2cc7c015516fcc4302336843a839d7e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mythospice-limarp-70b-GGUF/resolve/main/mythospice-limarp-70b.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

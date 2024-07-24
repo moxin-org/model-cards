@@ -1,0 +1,53 @@
+{
+    "id": "LoneStriker/Quyen-Pro-Max-v0.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LoneStriker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-09T16:45:35Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Quyen-Pro-Max-v0.1-Q2_K.gguf",
+            "size": "28461062400",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "647aff74ef3b78f59dddb1ef84f22e104c2a1c699f85e61638624ee252e32954",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Quyen-Pro-Max-v0.1-GGUF/resolve/main/Quyen-Pro-Max-v0.1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Quyen-Pro-Max-v0.1-Q3_K_L.gguf",
+            "size": "38486137088",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "d7b8720a9f94d5afd932b03fd6caf04b7c4a58b162d5a32f81c1138fd0feba60",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Quyen-Pro-Max-v0.1-GGUF/resolve/main/Quyen-Pro-Max-v0.1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Quyen-Pro-Max-v0.1-Q4_K_M.gguf",
+            "size": "44104177920",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "64dd9fcf22c6bece41b9d339058b137667e277a824cc6b8bfcb3ef8ac828a918",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Quyen-Pro-Max-v0.1-GGUF/resolve/main/Quyen-Pro-Max-v0.1-Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

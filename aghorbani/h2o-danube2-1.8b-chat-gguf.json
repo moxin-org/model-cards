@@ -1,0 +1,53 @@
+{
+    "id": "aghorbani/h2o-danube2-1.8b-chat-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "aghorbani",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-07T11:41:20Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "h2o-danube2-1.8b-chat-Q4_K_M.gguf",
+            "size": "1112144992",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "55c1e014491d134eb8828bdcdedeb1f07d668fc49fad4c8aae69529b5866cce2",
+            "download": {
+                "default": "https://huggingface.co/aghorbani/h2o-danube2-1.8b-chat-gguf/resolve/main/h2o-danube2-1.8b-chat-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "h2o-danube2-1.8b-chat-Q5_K_M.gguf",
+            "size": "1301789792",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "d20518656dde27997b26d3dc21c2c4e707402c3eb4bfb2b0462b269eaedbaf96",
+            "download": {
+                "default": "https://huggingface.co/aghorbani/h2o-danube2-1.8b-chat-gguf/resolve/main/h2o-danube2-1.8b-chat-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "h2o-danube2-1.8b-chat-Q6_K.gguf",
+            "size": "1503287392",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "180703ab58ed717d2534610be2fac86de9e0e194fc44dbcfbf43a1d3aeabbae7",
+            "download": {
+                "default": "https://huggingface.co/aghorbani/h2o-danube2-1.8b-chat-gguf/resolve/main/h2o-danube2-1.8b-chat-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

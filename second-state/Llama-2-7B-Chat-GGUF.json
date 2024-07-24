@@ -1,0 +1,163 @@
+{
+    "id": "second-state/Llama-2-7B-Chat-GGUF",
+    "status": "published",
+    "model_type": "chat",
+    "name": "Llama-2-7B-Chat-GGUF",
+    "summary": "Meta developed and publicly released the Llama 2 family of large language models (LLMs), a collection of pretrained and fine-tuned generative text models ranging in scale from 7 billion to 70 billion parameters. Our fine-tuned LLMs, called Llama-2-Chat, are optimized for dialogue use cases. Llama-2-Chat models outperform open-source chat models on most benchmarks we tested, and in our human evaluations for helpfulness and safety, are on par with some popular closed-source models like ChatGPT and PaLM.",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "7B",
+    "requires": "8GB+ RAM",
+    "released_at": "2023-10-31T08:19:39Z",
+    "architecture": "llama",
+    "files": [
+        {
+            "name": "Llama-2-7b-chat-hf-f16.gguf",
+            "size": "13478105696",
+            "quantization": "",
+            "tags": [],
+            "sha256": "23007e0c21faf4845ef8a04610c4f798d0314f9d3765fe36b1710e0294309af2",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-2-7B-Chat-GGUF/resolve/main/Llama-2-7b-chat-hf-f16.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf-Q2_K.gguf",
+            "size": "2825941600",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "705421d1cb35629acb40d7f214cffdba5885ce3166c0df4c2663c7fbbebdbb4b",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-2-7B-Chat-GGUF/resolve/main/Llama-2-7b-chat-hf-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf-Q3_K_L.gguf",
+            "size": "3597111904",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "4f0aaff8e9bddcc0bb7222eaeed960ec897d565a65eb7f1b6b1cd479da0ab97f",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-2-7B-Chat-GGUF/resolve/main/Llama-2-7b-chat-hf-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf-Q3_K_M.gguf",
+            "size": "3298005600",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "3b8c03671a35e22a7bc118f5fbe0502226d96c60c86dfa0b0ebccbb211fe8b51",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-2-7B-Chat-GGUF/resolve/main/Llama-2-7b-chat-hf-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf-Q3_K_S.gguf",
+            "size": "2948305504",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "ee1dd1e86097d8074cc4cf7b36596daca1dd4df312e62bb468ef27cde2e14e16",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-2-7B-Chat-GGUF/resolve/main/Llama-2-7b-chat-hf-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf-Q4_0.gguf",
+            "size": "3825807968",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "23a66af3672c603077b86510bee04cac74fa4da675b4318fc649624fce8c13b3",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-2-7B-Chat-GGUF/resolve/main/Llama-2-7b-chat-hf-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf-Q4_K_M.gguf",
+            "size": "4081005152",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "f475bcb77959f5721548bcc5122f4d5a0eb9d94ddb5b7fdce826bc1410ae0a8b",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-2-7B-Chat-GGUF/resolve/main/Llama-2-7b-chat-hf-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf-Q4_K_S.gguf",
+            "size": "3856740960",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "d51f515b9a8da317c94163e26596baeb57da3a4cc0e6f422c75bfb9ea126a041",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-2-7B-Chat-GGUF/resolve/main/Llama-2-7b-chat-hf-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf-Q5_0.gguf",
+            "size": "4651692640",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "459aedfd356c4842be1b1571b920779c9fbd8e8f7c7d4c9218305ffaa4f29b3e",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-2-7B-Chat-GGUF/resolve/main/Llama-2-7b-chat-hf-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf-Q5_K_M.gguf",
+            "size": "4783157856",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "39fdaca41ef03de1e9b709602557faaf2e8490c830622823cb6f8dc9ac14db04",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-2-7B-Chat-GGUF/resolve/main/Llama-2-7b-chat-hf-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf-Q5_K_S.gguf",
+            "size": "4651692640",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "77cca6e9ae183339c9d1b23daca3d8678f303ea1da78cac47fc06cf3bc03cc5d",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-2-7B-Chat-GGUF/resolve/main/Llama-2-7b-chat-hf-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf-Q6_K.gguf",
+            "size": "5529195104",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "4f226786216f352b8f1bac735fec0483b1ddac06c7fb9033ed9b48f9eccf89a4",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-2-7B-Chat-GGUF/resolve/main/Llama-2-7b-chat-hf-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf-Q8_0.gguf",
+            "size": "7161090656",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "edc144a62dbf51a0d7e806b5bea17f621af2a508dfe84fb115c7dbf0c31e2838",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-2-7B-Chat-GGUF/resolve/main/Llama-2-7b-chat-hf-Q8_0.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-chat.Q5_K_M.gguf",
+            "size": "4783156928",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e0b99920cf47b94c78d2fb06a1eceb9ed795176dfa3f7feac64629f1b52b997f",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-2-7B-Chat-GGUF/resolve/main/llama-2-7b-chat.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "llama-2-chat",
+    "reverse_prompt": "",
+    "context_size": 4096,
+    "vector_size": 0,
+    "metrics": {}
+}

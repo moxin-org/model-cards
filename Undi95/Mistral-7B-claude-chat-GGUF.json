@@ -1,0 +1,63 @@
+{
+    "id": "Undi95/Mistral-7B-claude-chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Undi95",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-27T23:47:39Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Mistral-7B-claude-chat.q4_k_s.gguf",
+            "size": "4140373632",
+            "quantization": "",
+            "tags": [],
+            "sha256": "721281efe70e3b5c0771e6035b13850331a0f2f93a264618e093f49a1623e7d5",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-7B-claude-chat-GGUF/resolve/main/Mistral-7B-claude-chat.q4_k_s.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-claude-chat.q5_k_m.gguf",
+            "size": "5131409024",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c7b37b13033928cd4a956c469c576f02d8ee15c37c5e984111e7575cd4681b68",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-7B-claude-chat-GGUF/resolve/main/Mistral-7B-claude-chat.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-claude-chat.q6_k.gguf",
+            "size": "5942064768",
+            "quantization": "",
+            "tags": [],
+            "sha256": "cfd5162c11655ff61b01fa5e5931a3492c11c8f7691a13cf75ae49783ee19311",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-7B-claude-chat-GGUF/resolve/main/Mistral-7B-claude-chat.q6_k.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-claude-chat.q8_0.gguf",
+            "size": "7695857280",
+            "quantization": "",
+            "tags": [],
+            "sha256": "86411c945b28c323b8180e2cf7017b6bcb1a58a16bad3b8272a0efe9572115b1",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-7B-claude-chat-GGUF/resolve/main/Mistral-7B-claude-chat.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,43 @@
+{
+    "id": "konz00/Pasta-Lake-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "konz00",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-10T07:13:06Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Pasta-Lake-7b.q6_k.gguf",
+            "size": "5942064768",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2c6e987425cc9523fbb8324d1307c31d0acb9e73e4ce0858393adf21748dd3cf",
+            "download": {
+                "default": "https://huggingface.co/konz00/Pasta-Lake-7b-GGUF/resolve/main/Pasta-Lake-7b.q6_k.gguf"
+            }
+        },
+        {
+            "name": "Pasta-Lake-7b.q8_0.gguf",
+            "size": "7695857248",
+            "quantization": "",
+            "tags": [],
+            "sha256": "82fdf0a15197e8b80b4b8dcc6bcd48261cfb5f3e848f4f155bbb67e86fa60734",
+            "download": {
+                "default": "https://huggingface.co/konz00/Pasta-Lake-7b-GGUF/resolve/main/Pasta-Lake-7b.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

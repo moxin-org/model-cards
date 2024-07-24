@@ -1,0 +1,63 @@
+{
+    "id": "HirCoir/Claud-mistral-7b-bnb-4bit-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "HirCoir",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-20T00:58:43Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-f16.gguf",
+            "size": "14484731616",
+            "quantization": "",
+            "tags": [],
+            "sha256": "212bcc01fe724029d1b497f2b1d0b232b309c6c072396fb5735712803a205d8b",
+            "download": {
+                "default": "https://huggingface.co/HirCoir/Claud-mistral-7b-bnb-4bit-GGUF/resolve/main/ggml-model-f16.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q2_K.gguf",
+            "size": "2719242016",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "40c636f2700ff8a051fa32e7ccb2c1cd3882855f0341208618aa97b2f550e1a6",
+            "download": {
+                "default": "https://huggingface.co/HirCoir/Claud-mistral-7b-bnb-4bit-GGUF/resolve/main/ggml-model-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q4_0.gguf",
+            "size": "4108916512",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "ab70710b322f8d71187f1314462931c725510cd9d6f107e5523942a8a6be4d49",
+            "download": {
+                "default": "https://huggingface.co/HirCoir/Claud-mistral-7b-bnb-4bit-GGUF/resolve/main/ggml-model-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q8_0.gguf",
+            "size": "7695857376",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b6887008bb3c2a1cb735f44a30028edd9358bcaf01bb72051e1aeee62dde1459",
+            "download": {
+                "default": "https://huggingface.co/HirCoir/Claud-mistral-7b-bnb-4bit-GGUF/resolve/main/ggml-model-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

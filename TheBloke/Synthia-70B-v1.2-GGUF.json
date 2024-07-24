@@ -1,0 +1,123 @@
+{
+    "id": "TheBloke/Synthia-70B-v1.2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-06T14:35:59Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "synthia-70b-v1.2.Q2_K.gguf",
+            "size": "29279253440",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a9c08d0f47860078fa9326b2e123be0d036f9231b9ebfca34fe8fe101b9ecbbb",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Synthia-70B-v1.2-GGUF/resolve/main/synthia-70b-v1.2.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "synthia-70b-v1.2.Q3_K_L.gguf",
+            "size": "36147835840",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "d415c1793903199373237380370286d56dd828b7fd6eda3542e37ed97a1ac9e9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Synthia-70B-v1.2-GGUF/resolve/main/synthia-70b-v1.2.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "synthia-70b-v1.2.Q3_K_M.gguf",
+            "size": "33186657216",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "cdf8b7d73aabd876d9c75987de636a2aa04225ad85398e5347abfd0219d46f7d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Synthia-70B-v1.2-GGUF/resolve/main/synthia-70b-v1.2.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "synthia-70b-v1.2.Q3_K_S.gguf",
+            "size": "29919294400",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "24052cb53a5ec89cbe6508db935f29311daeb8d06ea67045fd5b6562773b8d49",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Synthia-70B-v1.2-GGUF/resolve/main/synthia-70b-v1.2.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "synthia-70b-v1.2.Q4_0.gguf",
+            "size": "38872249280",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "5c59b3ae7e74c72f219297760885b0a9e2689cf162198f86b7bb762ae4c4ba0b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Synthia-70B-v1.2-GGUF/resolve/main/synthia-70b-v1.2.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "synthia-70b-v1.2.Q4_K_M.gguf",
+            "size": "41422910400",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "10d91d309164b964947176f4f587c537721623aa85b81cfb183fa9d6df19dbe6",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Synthia-70B-v1.2-GGUF/resolve/main/synthia-70b-v1.2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "synthia-70b-v1.2.Q4_K_S.gguf",
+            "size": "39073575872",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "026d0d96cf4216da5e337098d06cc0e8ba07fd9406c7387777feaaf0aa8f26d2",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Synthia-70B-v1.2-GGUF/resolve/main/synthia-70b-v1.2.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "synthia-70b-v1.2.Q5_0.gguf",
+            "size": "47461397440",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "070ceb5167a87cb049926e17c2e75ca7f00499989359f1e2a8ef703ccc311200",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Synthia-70B-v1.2-GGUF/resolve/main/synthia-70b-v1.2.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "synthia-70b-v1.2.Q5_K_M.gguf",
+            "size": "48753767360",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "1f8736f1cad80e293051bde20997a8970ef0bddf08d3aededacbf8e119728a7b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Synthia-70B-v1.2-GGUF/resolve/main/synthia-70b-v1.2.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "synthia-70b-v1.2.Q5_K_S.gguf",
+            "size": "47461397440",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "f41520554ad5232401d894b6898c8d844db486f981d3affb89b07fdbc0e5df41",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Synthia-70B-v1.2-GGUF/resolve/main/synthia-70b-v1.2.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,73 @@
+{
+    "id": "LoneStriker/BioMistral-7B-TIES-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LoneStriker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-19T15:45:38Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "BioMistral-7B-TIES-Q3_K_L.gguf",
+            "size": "3822024928",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "14e40af6ec1a99fb9eb7e81373c2c380e97e09b797d348104f01050fa1bb8349",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/BioMistral-7B-TIES-GGUF/resolve/main/BioMistral-7B-TIES-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "BioMistral-7B-TIES-Q4_K_M.gguf",
+            "size": "4368439520",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "3e313c1e625ccb653d93fa9ec462f86af15ea0663277bf8f407e1229226f3245",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/BioMistral-7B-TIES-GGUF/resolve/main/BioMistral-7B-TIES-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "BioMistral-7B-TIES-Q5_K_M.gguf",
+            "size": "5131409632",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "26cb31b2aaedb7810fce4de343ac1b36acc677f3abc82707d918175ca17ce5f0",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/BioMistral-7B-TIES-GGUF/resolve/main/BioMistral-7B-TIES-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "BioMistral-7B-TIES-Q6_K.gguf",
+            "size": "5942065376",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "e4c9c5e89d591a4ad17b7caed9fbe2684985be81a7ea53de8102d6f5f041aaea",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/BioMistral-7B-TIES-GGUF/resolve/main/BioMistral-7B-TIES-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "BioMistral-7B-TIES-Q8_0.gguf",
+            "size": "7695857888",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "fd4ad6efa454d2531dfcd14907f2cb900d4581508d547414bbae336d1820a3ca",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/BioMistral-7B-TIES-GGUF/resolve/main/BioMistral-7B-TIES-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

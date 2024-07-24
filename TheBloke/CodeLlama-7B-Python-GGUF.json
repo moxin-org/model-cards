@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/CodeLlama-7B-Python-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-08-24T17:02:03Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "codellama-7b-python.Q2_K.gguf",
+            "size": "2825940736",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "982276bcef3ebdde355a4fd57df3ffb7fdab2424655933e198224835b82aef6e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/CodeLlama-7B-Python-GGUF/resolve/main/codellama-7b-python.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "codellama-7b-python.Q3_K_L.gguf",
+            "size": "3597111040",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "d33d53d4f36029b9570b0265167cfe01009afb73f29284bd613199a6dafeb539",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/CodeLlama-7B-Python-GGUF/resolve/main/codellama-7b-python.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "codellama-7b-python.Q3_K_M.gguf",
+            "size": "3298004736",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "dd6225622c6bb94b760a1c1880bcb4cc0c9dd33e2c7a18bfc20de547670ff836",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/CodeLlama-7B-Python-GGUF/resolve/main/codellama-7b-python.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "codellama-7b-python.Q3_K_S.gguf",
+            "size": "2948304640",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "4bb3826a2162f248246ce15ae7eada5efb7750dd391460141929981d4a3c7fb8",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/CodeLlama-7B-Python-GGUF/resolve/main/codellama-7b-python.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "codellama-7b-python.Q4_0.gguf",
+            "size": "3825807104",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "51d750ad6abaa4b2a8a21f2e7ad6df9b34bf48b82cf3191215bd0e3d990e3624",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/CodeLlama-7B-Python-GGUF/resolve/main/codellama-7b-python.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "codellama-7b-python.Q4_K_M.gguf",
+            "size": "4081004288",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a623f4cd1dd5c68235d02683a3d92d0154dfd174df58e6cb05b3bc55befa4fc8",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/CodeLlama-7B-Python-GGUF/resolve/main/codellama-7b-python.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "codellama-7b-python.Q4_K_S.gguf",
+            "size": "3856740096",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "4d53e629b10c621da0a73d97fd17f66721a3cfb22e5484b9212c2c6ec5ad2c57",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/CodeLlama-7B-Python-GGUF/resolve/main/codellama-7b-python.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "codellama-7b-python.Q5_0.gguf",
+            "size": "4651691776",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "562a3fbf0b538f6144ab6931be3fb1c074c6e59bbb8707bbc8fe6731385489dd",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/CodeLlama-7B-Python-GGUF/resolve/main/codellama-7b-python.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "codellama-7b-python.Q5_K_M.gguf",
+            "size": "4783156992",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "8f9c248e3e3868df702143f8a28e0c2dd52ee0ce27366af2c4fffd8476f4001f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/CodeLlama-7B-Python-GGUF/resolve/main/codellama-7b-python.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "codellama-7b-python.Q5_K_S.gguf",
+            "size": "4651691776",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "d13f076f3b12228a41306707fabab45a57d3517f32ea0580eff9e86b046c1551",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/CodeLlama-7B-Python-GGUF/resolve/main/codellama-7b-python.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "codellama-7b-python.Q6_K.gguf",
+            "size": "5529194240",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "f54749752a3bdbdff28b4668c52e480be6a4a969e976fcc6ca426781f07a8878",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/CodeLlama-7B-Python-GGUF/resolve/main/codellama-7b-python.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "codellama-7b-python.Q8_0.gguf",
+            "size": "7161089792",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "4e3134ec4d544d1c3296cdc4bfecb230211e93c736c46e3daefdab21c13b17b9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/CodeLlama-7B-Python-GGUF/resolve/main/codellama-7b-python.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

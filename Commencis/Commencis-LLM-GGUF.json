@@ -1,0 +1,143 @@
+{
+    "id": "Commencis/Commencis-LLM-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Commencis",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-18T06:12:48Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "commencis-llm-Q2_K.gguf",
+            "size": "2719242400",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "fa13740fc72019c031f153061f03a2d02ed7af1a08079837f33c82050e2e9d4b",
+            "download": {
+                "default": "https://huggingface.co/Commencis/Commencis-LLM-GGUF/resolve/main/commencis-llm-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "commencis-llm-Q3_K_L.gguf",
+            "size": "3822024864",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "ed591afa97d4b96c875603cc33ee0214714b6276da7c7e2b5d16858664375176",
+            "download": {
+                "default": "https://huggingface.co/Commencis/Commencis-LLM-GGUF/resolve/main/commencis-llm-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "commencis-llm-Q3_K_M.gguf",
+            "size": "3518986400",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "0dc6288e1f80573839f3179b58545d1f8cece27efd575fb0d5def0308282f4f4",
+            "download": {
+                "default": "https://huggingface.co/Commencis/Commencis-LLM-GGUF/resolve/main/commencis-llm-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "commencis-llm-Q3_K_S.gguf",
+            "size": "3164567712",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "a786a77caac215b699406f4db331f4919e1da0f71b0776d9cebbb102d42b36ae",
+            "download": {
+                "default": "https://huggingface.co/Commencis/Commencis-LLM-GGUF/resolve/main/commencis-llm-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "commencis-llm-Q4_0.gguf",
+            "size": "4108916896",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "9cd823a68e30b0788f8538657f129d6baab374d68f0395ce982b1a7d5625e18e",
+            "download": {
+                "default": "https://huggingface.co/Commencis/Commencis-LLM-GGUF/resolve/main/commencis-llm-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "commencis-llm-Q4_K_M.gguf",
+            "size": "4368439456",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a92d6661a899aedf397984356e08fbeb722e50c134a655653979e690ff17be60",
+            "download": {
+                "default": "https://huggingface.co/Commencis/Commencis-LLM-GGUF/resolve/main/commencis-llm-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "commencis-llm-Q4_K_S.gguf",
+            "size": "4140374176",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "8cb6ee0f939aece5ade86aff0edd103db97db4b090fb7dfd1f40978d405414fc",
+            "download": {
+                "default": "https://huggingface.co/Commencis/Commencis-LLM-GGUF/resolve/main/commencis-llm-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "commencis-llm-Q5_0.gguf",
+            "size": "4997716128",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "604593b12032d8efe05094e6643f03a2b37d3235cbf5312ab44a5e812715658c",
+            "download": {
+                "default": "https://huggingface.co/Commencis/Commencis-LLM-GGUF/resolve/main/commencis-llm-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "commencis-llm-Q5_K_M.gguf",
+            "size": "5131409568",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "cdb97fd7acdaf769c8dfcbb0fbd674a0ad260f100f3f9e5fb50617c5b89caaae",
+            "download": {
+                "default": "https://huggingface.co/Commencis/Commencis-LLM-GGUF/resolve/main/commencis-llm-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "commencis-llm-Q5_K_S.gguf",
+            "size": "4997716128",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "91b581be407b0957d2c6b7e222329f1a638eb2c4a61d5d2927d63d0b3d54a2bd",
+            "download": {
+                "default": "https://huggingface.co/Commencis/Commencis-LLM-GGUF/resolve/main/commencis-llm-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "commencis-llm-Q6_K.gguf",
+            "size": "5942065312",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "a64549fddc7fa1ee5138874c556b5754aa72cc819983c6551c36cc6048627ae3",
+            "download": {
+                "default": "https://huggingface.co/Commencis/Commencis-LLM-GGUF/resolve/main/commencis-llm-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "commencis-llm-Q8_0.gguf",
+            "size": "7695857824",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "eabebd8ecd655b24129d613f595e9c13461486217081069a730a81ab1b9a4fdf",
+            "download": {
+                "default": "https://huggingface.co/Commencis/Commencis-LLM-GGUF/resolve/main/commencis-llm-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

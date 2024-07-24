@@ -1,0 +1,53 @@
+{
+    "id": "Deci/DeciLM-7B-instruct-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Deci",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-18T16:09:07Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "decilm-7b-uniform-gqa-f16.gguf",
+            "size": "14217232832",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c28d32a79f4dea3cf931b40237b64ce9109efd7e6c8a990a8c611286b9b2341f",
+            "download": {
+                "default": "https://huggingface.co/Deci/DeciLM-7B-instruct-GGUF/resolve/main/decilm-7b-uniform-gqa-f16.gguf"
+            }
+        },
+        {
+            "name": "decilm-7b-uniform-gqa-f32.gguf",
+            "size": "28430792256",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b45f3e8a5e05b557c6f8c421d47f2a3226af912016f923150ae07789977ba4cc",
+            "download": {
+                "default": "https://huggingface.co/Deci/DeciLM-7B-instruct-GGUF/resolve/main/decilm-7b-uniform-gqa-f32.gguf"
+            }
+        },
+        {
+            "name": "decilm-7b-uniform-gqa-q8_0.gguf",
+            "size": "7554187712",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1b60beae4c9d5d7131f846f7545cb386e20d8f2c613844a0142ee701537dbfe3",
+            "download": {
+                "default": "https://huggingface.co/Deci/DeciLM-7B-instruct-GGUF/resolve/main/decilm-7b-uniform-gqa-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

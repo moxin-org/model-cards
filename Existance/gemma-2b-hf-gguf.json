@@ -1,0 +1,43 @@
+{
+    "id": "Existance/gemma-2b-hf-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Existance",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-22T07:11:22Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "gemma-2b-hf-Q4_K_M.gguf",
+            "size": "1495094368",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "d0eb253b6c2ab2f78439adaabcd0036f5b678646e29245b8a2d7998742eab0c2",
+            "download": {
+                "default": "https://huggingface.co/Existance/gemma-2b-hf-gguf/resolve/main/gemma-2b-hf-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-hf-q8_0.gguf",
+            "size": "2669069344",
+            "quantization": "",
+            "tags": [],
+            "sha256": "53e13fbc08d60d8fd823ce093ffe7328b359fb052f5fa7f900ace3b002689955",
+            "download": {
+                "default": "https://huggingface.co/Existance/gemma-2b-hf-gguf/resolve/main/gemma-2b-hf-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

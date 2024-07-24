@@ -1,0 +1,43 @@
+{
+    "id": "apepkuss79/Baichuan2-13B-Chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "apepkuss79",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-17T06:07:38Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Baichuan2-13B-Chat-ggml-model-f16.gguf",
+            "size": "27797048896",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ebc06d98644538ec5629f064c8f0ff577b837810330c2fcbca1285b7d14fa337",
+            "download": {
+                "default": "https://huggingface.co/apepkuss79/Baichuan2-13B-Chat-GGUF/resolve/main/Baichuan2-13B-Chat-ggml-model-f16.gguf"
+            }
+        },
+        {
+            "name": "Baichuan2-13B-Chat-ggml-model-q4_0.gguf",
+            "size": "7987103392",
+            "quantization": "",
+            "tags": [],
+            "sha256": "789685b86c86af68a1886949015661d3da0a9c959dffaae773afa4fe8cfdb840",
+            "download": {
+                "default": "https://huggingface.co/apepkuss79/Baichuan2-13B-Chat-GGUF/resolve/main/Baichuan2-13B-Chat-ggml-model-q4_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

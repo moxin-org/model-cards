@@ -1,0 +1,53 @@
+{
+    "id": "indischepartij/Mistral-7b-Alpaca-Indonesia-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "indischepartij",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-29T05:07:59Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Mistral-7b-Alpaca-Indonesia-GGUF-16bit.gguf",
+            "size": "14484731584",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3b26579cc294c16cf025c6a9fef7a4a9136ba7b15a072464af11fb27b8fad609",
+            "download": {
+                "default": "https://huggingface.co/indischepartij/Mistral-7b-Alpaca-Indonesia-GGUF/resolve/main/Mistral-7b-Alpaca-Indonesia-GGUF-16bit.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7b-Alpaca-Indonesia-GGUF-Q4_K_M.gguf",
+            "size": "4368439040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "76a3b6425860bc679559b2d750d01812390bb85ef012de2a65de7cace8a3af74",
+            "download": {
+                "default": "https://huggingface.co/indischepartij/Mistral-7b-Alpaca-Indonesia-GGUF/resolve/main/Mistral-7b-Alpaca-Indonesia-GGUF-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7b-Alpaca-Indonesia-GGUF-Q8_0.gguf",
+            "size": "7695857344",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "221619b83c19489794268fab80265120aed43e62a36fce60bb5448675b42788c",
+            "download": {
+                "default": "https://huggingface.co/indischepartij/Mistral-7b-Alpaca-Indonesia-GGUF/resolve/main/Mistral-7b-Alpaca-Indonesia-GGUF-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

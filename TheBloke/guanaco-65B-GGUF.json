@@ -1,0 +1,123 @@
+{
+    "id": "TheBloke/guanaco-65B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-19T23:40:31Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Guanaco-65B.Q2_K.gguf",
+            "size": "27043165088",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "ae40e31b7fae71a8e0aa5babd2f4e2db6ee2eea529cd33e159d0686f60f21a13",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/guanaco-65B-GGUF/resolve/main/Guanaco-65B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Guanaco-65B.Q3_K_L.gguf",
+            "size": "34648372128",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "bc0e6b620505a7210a9648e07879184f77e8c1c8d87f68ad9736a3a94ef4a84d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/guanaco-65B-GGUF/resolve/main/Guanaco-65B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Guanaco-65B.Q3_K_M.gguf",
+            "size": "31564510112",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "0ce9feb534d2c145463c94623e19e4c84f677de4be61ade2f2c6f4c8870571f9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/guanaco-65B-GGUF/resolve/main/Guanaco-65B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Guanaco-65B.Q3_K_S.gguf",
+            "size": "28160308128",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "e9eebae9a136bb2d4795f8dca356b9b87773dc59c14acd1e08d5cbad3a4d5287",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/guanaco-65B-GGUF/resolve/main/Guanaco-65B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Guanaco-65B.Q4_0.gguf",
+            "size": "36796068768",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "ec1326ee8c0c309cea65ff2b27f472b427f7a9d9f021ac42c7dca2fbc437c688",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/guanaco-65B-GGUF/resolve/main/Guanaco-65B.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Guanaco-65B.Q4_K_M.gguf",
+            "size": "39348040608",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "6ee32d906b333f2cdb4e7b68e06e310a63707ed966483bc13f07c9ec94cde5bc",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/guanaco-65B-GGUF/resolve/main/Guanaco-65B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Guanaco-65B.Q4_K_S.gguf",
+            "size": "36919800736",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "e774d71affda710b95181cf0021a004b68de0ae85c0d0c022e2508dcc01109e4",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/guanaco-65B-GGUF/resolve/main/Guanaco-65B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Guanaco-65B.Q5_0.gguf",
+            "size": "44923843488",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "3b23ad60ad4a33fbff30f9b530a584796d5b0c5ec7cc548225d1b91b2b43b609",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/guanaco-65B-GGUF/resolve/main/Guanaco-65B.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Guanaco-65B.Q5_K_M.gguf",
+            "size": "46238495648",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "555814ca6950e2cc2327df26d1f58a5d86ab0406d6a29b26d54fe5cb041d8353",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/guanaco-65B-GGUF/resolve/main/Guanaco-65B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Guanaco-65B.Q5_K_S.gguf",
+            "size": "44923843488",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "e451cbc34cebf23731593e89e341889994194c560ff21fa81e0b5b8cedb86b9e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/guanaco-65B-GGUF/resolve/main/Guanaco-65B.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

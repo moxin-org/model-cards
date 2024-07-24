@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/koala-7B-slerp-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-15T09:43:22Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "koala-7b-slerp.Q3_K_S.gguf",
+            "size": "3914572160",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "d25bba80c3611bf2bcb89be11ffabd6677a5bced7ee8a09be80ce791da62dcda",
+            "download": {
+                "default": "https://huggingface.co/s3nh/koala-7B-slerp-GGUF/resolve/main/koala-7b-slerp.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "koala-7b-slerp.Q4_K_M.gguf",
+            "size": "5415059840",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "af1c90483964709d34108e4ad10ae3449c63fc7d607561548a64ef4136ad1933",
+            "download": {
+                "default": "https://huggingface.co/s3nh/koala-7B-slerp-GGUF/resolve/main/koala-7b-slerp.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "koala-7b-slerp.Q5_K_M.gguf",
+            "size": "6364676480",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "773ae30c42e9d3adee4ccbd7353d7a1af3d27fb592f6e6e3d423a3e9e34dc05f",
+            "download": {
+                "default": "https://huggingface.co/s3nh/koala-7B-slerp-GGUF/resolve/main/koala-7b-slerp.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "koala-7b-slerp.Q6_K.gguf",
+            "size": "7373644160",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "077c1ef61887363e1e209b9ac62b3d9b3b103563472d365663b84e9282fc68a4",
+            "download": {
+                "default": "https://huggingface.co/s3nh/koala-7B-slerp-GGUF/resolve/main/koala-7b-slerp.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "koala-7b-slerp.Q8_0.gguf",
+            "size": "9550014784",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "167a85d80cf39fa5b774adc47cd5db70a51a3d0f969c5339be19eb4e5ccfcd3c",
+            "download": {
+                "default": "https://huggingface.co/s3nh/koala-7B-slerp-GGUF/resolve/main/koala-7b-slerp.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

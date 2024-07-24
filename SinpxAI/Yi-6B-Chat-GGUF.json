@@ -1,0 +1,143 @@
+{
+    "id": "SinpxAI/Yi-6B-Chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "SinpxAI",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-17T14:09:33Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "yi-6b-chat.Q2_K.gguf",
+            "size": "2337066592",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "6d5fe63a0eb050c272f229e64a0e0c883f452162ba4e077f5a0cb7789445e521",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Yi-6B-Chat-GGUF/resolve/main/yi-6b-chat.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "yi-6b-chat.Q3_K_L.gguf",
+            "size": "3236892256",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "0f3393a1d6442fb563052053ace28e14420d347d4aff0d10ff88c893028ffdda",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Yi-6B-Chat-GGUF/resolve/main/yi-6b-chat.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "yi-6b-chat.Q3_K_M.gguf",
+            "size": "2992836192",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "8df76b1af50749485d05af56dc85f0022fd63f9f6c774ecdafa090d3ef7af27e",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Yi-6B-Chat-GGUF/resolve/main/yi-6b-chat.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "yi-6b-chat.Q3_K_S.gguf",
+            "size": "2709196384",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "af79324bea34f0af7f002510a3c057c63fcdc6bbb37dccf57ad4979a37f9efbe",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Yi-6B-Chat-GGUF/resolve/main/yi-6b-chat.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "yi-6b-chat.Q4_0.gguf",
+            "size": "3479326304",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "008f300c9f5571c9e4c55391a22b1dccb73c651c096f7f0001fab0022cc9c5e0",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Yi-6B-Chat-GGUF/resolve/main/yi-6b-chat.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "yi-6b-chat.Q4_K_M.gguf",
+            "size": "3673968224",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "de3ef3e1b545977aa0446a9ed912b0af9f9669e42085d4eccc8715015d84b32e",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Yi-6B-Chat-GGUF/resolve/main/yi-6b-chat.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "yi-6b-chat.Q4_K_S.gguf",
+            "size": "3502919264",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "03498d2d5f7eebe538258d9aacf9e19df02f3f3e25e4bde739eec11d7ebfb8f2",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Yi-6B-Chat-GGUF/resolve/main/yi-6b-chat.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "yi-6b-chat.Q5_0.gguf",
+            "size": "4204154464",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "5ad502f0efde48569fb004a8c93ec548c200d2372248fbf36af3a9390e4e1150",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Yi-6B-Chat-GGUF/resolve/main/yi-6b-chat.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "yi-6b-chat.Q5_K_M.gguf",
+            "size": "4304424544",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "aae6c46aa2d1d3c33d33ce96cc3ef8c27066714c9ba6c2fd50f4c99c35467319",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Yi-6B-Chat-GGUF/resolve/main/yi-6b-chat.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "yi-6b-chat.Q5_K_S.gguf",
+            "size": "4204154464",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "68aa67f4631c713afa129c5927d838990d574ba0da33391eff9deebb21b91c43",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Yi-6B-Chat-GGUF/resolve/main/yi-6b-chat.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "yi-6b-chat.Q6_K.gguf",
+            "size": "4974284384",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "9b694ca5e45d71ac54c1826896e71aa1c5f36a441c689853e9ea8e8a91587c28",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Yi-6B-Chat-GGUF/resolve/main/yi-6b-chat.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "yi-6b-chat.Q8_0.gguf",
+            "size": "6442126944",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "69bccc3bea565a833e2bab027b6dfd2d5a366c7538a927c01e8915eca6090599",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Yi-6B-Chat-GGUF/resolve/main/yi-6b-chat.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

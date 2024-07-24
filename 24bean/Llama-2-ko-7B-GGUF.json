@@ -1,0 +1,43 @@
+{
+    "id": "24bean/Llama-2-ko-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "24bean",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-01T05:53:38Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llama-2-ko-7b_q8_0.gguf",
+            "size": "7287501632",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b1c97f8606cb2103f5899330932625cdd8a743d65acee164d2b253c8d89b5527",
+            "download": {
+                "default": "https://huggingface.co/24bean/Llama-2-ko-7B-GGUF/resolve/main/llama-2-ko-7b_q8_0.gguf"
+            }
+        },
+        {
+            "name": "llama-2-ko-7b.gguf",
+            "size": "27425796928",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7065a1dad08337e7af19643189d1e25579efc1e81abd488160501eb358898f28",
+            "download": {
+                "default": "https://huggingface.co/24bean/Llama-2-ko-7B-GGUF/resolve/main/llama-2-ko-7b.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

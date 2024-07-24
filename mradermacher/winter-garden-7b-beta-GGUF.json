@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/winter-garden-7b-beta-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-16T11:31:26Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "winter-garden-7b-beta.IQ3_M.gguf",
+            "size": "3439515680",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "2d8216ec82e0afd6cbbe3c620ac38c9c2e52784f6bf37582c9540f11aa8388f7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/winter-garden-7b-beta-GGUF/resolve/main/winter-garden-7b-beta.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "winter-garden-7b-beta.IQ3_S.gguf",
+            "size": "3337017376",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "dc18ae88325bbe956124f5169ee8c34c81f6bddb2caaebbd73c7360b084ddf2f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/winter-garden-7b-beta-GGUF/resolve/main/winter-garden-7b-beta.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "winter-garden-7b-beta.IQ3_XS.gguf",
+            "size": "3155613728",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "4b76eb1d945cd1e1f52122fbf445d76cf5144136d7bd4049e002a43f3aff08b2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/winter-garden-7b-beta-GGUF/resolve/main/winter-garden-7b-beta.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "winter-garden-7b-beta.IQ4_XS.gguf",
+            "size": "4099012640",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "8359a7f2c7a5a5a910755727caf1336b2f1506900873996a216891e23b2e13c9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/winter-garden-7b-beta-GGUF/resolve/main/winter-garden-7b-beta.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "winter-garden-7b-beta.Q2_K.gguf",
+            "size": "2873866272",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "1b26900c8162eb11fd65f53d97d9d19c2c7511537b12f707af6ac98f5d60ed7e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/winter-garden-7b-beta-GGUF/resolve/main/winter-garden-7b-beta.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "winter-garden-7b-beta.Q3_K_L.gguf",
+            "size": "3976648736",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "5c702a2f14fdba5bf063e144feadb45b69e923b52cb7b0fdb92208996c69fae5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/winter-garden-7b-beta-GGUF/resolve/main/winter-garden-7b-beta.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "winter-garden-7b-beta.Q3_K_M.gguf",
+            "size": "3673610272",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "2faef7e1c5d473ea34207bfd185dceef931b61ac55c65a0b585d7ca1a33d8dc9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/winter-garden-7b-beta-GGUF/resolve/main/winter-garden-7b-beta.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "winter-garden-7b-beta.Q3_K_S.gguf",
+            "size": "3319191584",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "42301f58781e7f850c250bb4e70d5d550fc1a8f27292815f19c603ba2de5b7a1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/winter-garden-7b-beta-GGUF/resolve/main/winter-garden-7b-beta.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "winter-garden-7b-beta.Q4_K_M.gguf",
+            "size": "4523063328",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "0dd08d70690bddf66b54865fa0d096495a2d734a578cb47f8fcdb1e052b4d874",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/winter-garden-7b-beta-GGUF/resolve/main/winter-garden-7b-beta.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "winter-garden-7b-beta.Q4_K_S.gguf",
+            "size": "4294998048",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "bc12645dbbe3e9e450819cd2f20f50d5bc7407912d540a167d392648059da80f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/winter-garden-7b-beta-GGUF/resolve/main/winter-garden-7b-beta.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "winter-garden-7b-beta.Q5_K_M.gguf",
+            "size": "5286033440",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "9b63e3f440d92aeecfc0795da8fec14ac266c4421109bf89d62b3a7c447373e5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/winter-garden-7b-beta-GGUF/resolve/main/winter-garden-7b-beta.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "winter-garden-7b-beta.Q5_K_S.gguf",
+            "size": "5152340000",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "cc63d9b431ce043feabeb7329a8f4315d8df3c7a3c0ad382d0311b00c088dc3e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/winter-garden-7b-beta-GGUF/resolve/main/winter-garden-7b-beta.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "winter-garden-7b-beta.Q6_K.gguf",
+            "size": "6096689184",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "3da18f043ce9ce8b7f0b7f06637fe9b511b9a0a9943a00f60b6c7cdc0c6dec61",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/winter-garden-7b-beta-GGUF/resolve/main/winter-garden-7b-beta.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "winter-garden-7b-beta.Q8_0.gguf",
+            "size": "7818737696",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "580110ef3dc4a1b9d60f750f606fc8cf22be4a85fddc11e4f69066e582816be4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/winter-garden-7b-beta-GGUF/resolve/main/winter-garden-7b-beta.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

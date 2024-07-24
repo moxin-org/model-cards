@@ -1,0 +1,133 @@
+{
+    "id": "NyxKrage/go-bruins-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "NyxKrage",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-08T17:03:17Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "go-bruins.fp16.gguf",
+            "size": "14484731520",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a5db919dc845c02b66498cc52e777105d5df7965918c70b3eeb3a068dab7441a",
+            "download": {
+                "default": "https://huggingface.co/NyxKrage/go-bruins-GGUF/resolve/main/go-bruins.fp16.gguf"
+            }
+        },
+        {
+            "name": "go-bruins.Q2_K.gguf",
+            "size": "3083097760",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "f0b7dcd399f2629006502e124fe637d6a87fa3b1d9fea16b60f6be464f730f20",
+            "download": {
+                "default": "https://huggingface.co/NyxKrage/go-bruins-GGUF/resolve/main/go-bruins.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "go-bruins.Q3_K_L.gguf",
+            "size": "3822024352",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "51f0ad88b8981296dfccc312397ce25955c4fc3c699742342b2a30540a91801a",
+            "download": {
+                "default": "https://huggingface.co/NyxKrage/go-bruins-GGUF/resolve/main/go-bruins.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "go-bruins.Q3_K_M.gguf",
+            "size": "3518985888",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "6d3984bed1192b8de340177fa02a385ce04b11a9cf735d29a38d9918027f7086",
+            "download": {
+                "default": "https://huggingface.co/NyxKrage/go-bruins-GGUF/resolve/main/go-bruins.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "go-bruins.Q3_K_S.gguf",
+            "size": "3164567200",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "e84422d9440cf0ba42d534d3df5c008ccae80ce25b0545e5b180961dcbae13de",
+            "download": {
+                "default": "https://huggingface.co/NyxKrage/go-bruins-GGUF/resolve/main/go-bruins.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "go-bruins.Q4_K_M.gguf",
+            "size": "4368438944",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "f43d0c2b0190278e1283a6cd6e88b397ed9b2638e7acf616248812319b132a08",
+            "download": {
+                "default": "https://huggingface.co/NyxKrage/go-bruins-GGUF/resolve/main/go-bruins.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "go-bruins.Q4_K_S.gguf",
+            "size": "4140373664",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "8408a231bf18ac5895c1ccfe00795c569198b00de8a06c601e966ff435e5f234",
+            "download": {
+                "default": "https://huggingface.co/NyxKrage/go-bruins-GGUF/resolve/main/go-bruins.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "go-bruins.Q5_K_M.gguf",
+            "size": "5131409056",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "388b7abff877b9f6ae99a03a356710a9797540c2ab9447153490ff964675c6c0",
+            "download": {
+                "default": "https://huggingface.co/NyxKrage/go-bruins-GGUF/resolve/main/go-bruins.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "go-bruins.Q5_K_S.gguf",
+            "size": "4997715616",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "a434f2c60e358d8d2441c59c725078577bd36e8dc29287b9242fbaff53f8ca5b",
+            "download": {
+                "default": "https://huggingface.co/NyxKrage/go-bruins-GGUF/resolve/main/go-bruins.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "go-bruins.Q6_K.gguf",
+            "size": "5942064800",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "897ce8ef794df662ae7dab1f91409b254cb6eae2950575ce533bf02ff92a5c95",
+            "download": {
+                "default": "https://huggingface.co/NyxKrage/go-bruins-GGUF/resolve/main/go-bruins.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "go-bruins.Q8_0.gguf",
+            "size": "7695857312",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "ff03cbb6ee6ecac882655c5b4022eb0fab2a54427d0724f82e116e099d564d0f",
+            "download": {
+                "default": "https://huggingface.co/NyxKrage/go-bruins-GGUF/resolve/main/go-bruins.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

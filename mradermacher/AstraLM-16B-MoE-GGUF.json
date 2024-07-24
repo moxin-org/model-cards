@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/AstraLM-16B-MoE-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-02T10:02:21Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "AstraLM-16B-MoE.IQ3_M.gguf",
+            "size": "7208046976",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "856877f2bcc38f60c94098942b7f94413a57fe0227ba0c2a8150bc5695e80887",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AstraLM-16B-MoE-GGUF/resolve/main/AstraLM-16B-MoE.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "AstraLM-16B-MoE.IQ3_S.gguf",
+            "size": "7057641856",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "9b93e893fee853d7223bffef50776e25efc5d4037e6c23e97471e6b1c74fc279",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AstraLM-16B-MoE-GGUF/resolve/main/AstraLM-16B-MoE.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "AstraLM-16B-MoE.IQ3_XS.gguf",
+            "size": "6670225792",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "b004523a3d65b33f9441cbbc8ff40a81e5ce8521db5cc807225bcd11b562c94b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AstraLM-16B-MoE-GGUF/resolve/main/AstraLM-16B-MoE.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "AstraLM-16B-MoE.IQ4_XS.gguf",
+            "size": "8755229056",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "deab7649361290700e931a2f691e0474608115e7fd2f1df9463b9614e0e7ed8f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AstraLM-16B-MoE-GGUF/resolve/main/AstraLM-16B-MoE.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "AstraLM-16B-MoE.Q2_K.gguf",
+            "size": "6008336768",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "82e27f62e58ed2216e6ddd38c9145c89f1a86094ce3497e8af15ecb0da04310d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AstraLM-16B-MoE-GGUF/resolve/main/AstraLM-16B-MoE.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "AstraLM-16B-MoE.Q3_K_L.gguf",
+            "size": "8441237888",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "75bee1910af05d811207eda1e50a0e39e11d51368a93d1a9d24c1ac0fb02447d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AstraLM-16B-MoE-GGUF/resolve/main/AstraLM-16B-MoE.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "AstraLM-16B-MoE.Q3_K_M.gguf",
+            "size": "7800033664",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "c70f3b6dc9917cc1cb646b6c1197daeb58bd0ff2161243bca00ed696d56d4921",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AstraLM-16B-MoE-GGUF/resolve/main/AstraLM-16B-MoE.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "AstraLM-16B-MoE.Q3_K_S.gguf",
+            "size": "7039816064",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "74319b0e2a2c1e8432c658a01deb8c2fef435b17e2ce2c94426c073c6f25c5a2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AstraLM-16B-MoE-GGUF/resolve/main/AstraLM-16B-MoE.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "AstraLM-16B-MoE.Q4_K_M.gguf",
+            "size": "9765433728",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "034a5570fd9758847d64cd9f3fb00ab42815a0fa8f19567fe4ffb44fcde6a2e8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AstraLM-16B-MoE-GGUF/resolve/main/AstraLM-16B-MoE.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "AstraLM-16B-MoE.Q4_K_S.gguf",
+            "size": "9210474880",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "5c6e05fc2d7f25e4b38ae29a51f067da8bc7c73fa94ff370de6f49e15a51d964",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AstraLM-16B-MoE-GGUF/resolve/main/AstraLM-16B-MoE.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "AstraLM-16B-MoE.Q5_K_M.gguf",
+            "size": "11430179200",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "0cebefa8079de5e922c7a929f97d1231d8812ba551b4ef7c06e1e719ee9ac2cb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AstraLM-16B-MoE-GGUF/resolve/main/AstraLM-16B-MoE.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "AstraLM-16B-MoE.Q5_K_S.gguf",
+            "size": "11104858496",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "9f25b11ba2bb8d43e7b134ccc06ef4fbbd503ba2b11ecef999225d5fb3d4ce57",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AstraLM-16B-MoE-GGUF/resolve/main/AstraLM-16B-MoE.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "AstraLM-16B-MoE.Q6_K.gguf",
+            "size": "13198971264",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b224bfe624062aea80d29b9abf861b9a73f45ae707bc89464ec4b3613a36a0d0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AstraLM-16B-MoE-GGUF/resolve/main/AstraLM-16B-MoE.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "AstraLM-16B-MoE.Q8_0.gguf",
+            "size": "17017647488",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "e24f46cd1ee516c3fad53c433612a1bc89f7a001729f3f5bcb2b9785e8c97571",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AstraLM-16B-MoE-GGUF/resolve/main/AstraLM-16B-MoE.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

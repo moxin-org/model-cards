@@ -1,0 +1,73 @@
+{
+    "id": "lucianosb/sabia-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "lucianosb",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-09T14:26:04Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "sabia7b-q4_0.gguf",
+            "size": "3825807040",
+            "quantization": "",
+            "tags": [],
+            "sha256": "389738e2fed97f92402173c12ead743e361522c0f7c9d7762a68a700e4a19ff0",
+            "download": {
+                "default": "https://huggingface.co/lucianosb/sabia-7b-GGUF/resolve/main/sabia7b-q4_0.gguf"
+            }
+        },
+        {
+            "name": "sabia7b-q4_1.gguf",
+            "size": "4238749376",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8a696d0171e0cf2e99dd61a29520298ddc04a60849364dc185b894a810ca988d",
+            "download": {
+                "default": "https://huggingface.co/lucianosb/sabia-7b-GGUF/resolve/main/sabia7b-q4_1.gguf"
+            }
+        },
+        {
+            "name": "sabia7b-q5_0.gguf",
+            "size": "4651691712",
+            "quantization": "",
+            "tags": [],
+            "sha256": "385496eb5ef37ef973f100ba5ebfdf94a3977c113e764dde73978a2396eb9fa5",
+            "download": {
+                "default": "https://huggingface.co/lucianosb/sabia-7b-GGUF/resolve/main/sabia7b-q5_0.gguf"
+            }
+        },
+        {
+            "name": "sabia7b-q5_1.gguf",
+            "size": "5064634048",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fff3b4b0572021cd5ced14abdf2904dd8b319a9b7bc4d3ddc4134de9ffb79350",
+            "download": {
+                "default": "https://huggingface.co/lucianosb/sabia-7b-GGUF/resolve/main/sabia7b-q5_1.gguf"
+            }
+        },
+        {
+            "name": "sabia7b-q8_0.gguf",
+            "size": "7161089728",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1230de55d3d843e1d396319934626191ac1b8751ba00093187dc496a62dbcb0c",
+            "download": {
+                "default": "https://huggingface.co/lucianosb/sabia-7b-GGUF/resolve/main/sabia7b-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

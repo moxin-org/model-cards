@@ -1,0 +1,43 @@
+{
+    "id": "reach-vb/TinyLlama-1.1B-Chat-v0.6-Q4_K_M-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "reach-vb",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-26T18:49:18Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-q4_0.gguf",
+            "size": "636725760",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ec21b060225c96d9a985886566c2d01d0c63498405f4e0448dfee0491d73219f",
+            "download": {
+                "default": "https://huggingface.co/reach-vb/TinyLlama-1.1B-Chat-v0.6-Q4_K_M-GGUF/resolve/main/ggml-model-q4_0.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v0.6.Q4_K_M.gguf",
+            "size": "667814880",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "0303b34adf79261201e7c062735e955c0fdcf3ee1e17f2fc6be18e077c3ce143",
+            "download": {
+                "default": "https://huggingface.co/reach-vb/TinyLlama-1.1B-Chat-v0.6-Q4_K_M-GGUF/resolve/main/tinyllama-1.1b-chat-v0.6.Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,63 @@
+{
+    "id": "kubernetes-bad/CharGen-v1-l2-13b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "kubernetes-bad",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-26T08:23:56Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Characters-Test2-Airo22-L2-13b.q4_K_S.gguf",
+            "size": "7414331328",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3f40376791aa4392be59c72479712f3ba44d9c0d8561ecc9279127d06cf6ac12",
+            "download": {
+                "default": "https://huggingface.co/kubernetes-bad/CharGen-v1-l2-13b-GGUF/resolve/main/Characters-Test2-Airo22-L2-13b.q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Characters-Test2-Airo22-L2-13b.q5_K_M.gguf",
+            "size": "9229924288",
+            "quantization": "",
+            "tags": [],
+            "sha256": "abc6c8450ed7f75865d0a0b9b1831bc332e908d3075b477222bcc3ecaf44608a",
+            "download": {
+                "default": "https://huggingface.co/kubernetes-bad/CharGen-v1-l2-13b-GGUF/resolve/main/Characters-Test2-Airo22-L2-13b.q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Characters-Test2-Airo22-L2-13b.q6_K.gguf",
+            "size": "10679140288",
+            "quantization": "",
+            "tags": [],
+            "sha256": "75451f5e237e4797bb2680dcc047b980b246393306a071356bfdb2ec2c17c34b",
+            "download": {
+                "default": "https://huggingface.co/kubernetes-bad/CharGen-v1-l2-13b-GGUF/resolve/main/Characters-Test2-Airo22-L2-13b.q6_K.gguf"
+            }
+        },
+        {
+            "name": "Characters-Test2-Airo22-L2-13b.q8_0.gguf",
+            "size": "13831319488",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9b4b7b2f25c8920371f47987f867579f830a3d171b42665b9136d220e903495d",
+            "download": {
+                "default": "https://huggingface.co/kubernetes-bad/CharGen-v1-l2-13b-GGUF/resolve/main/Characters-Test2-Airo22-L2-13b.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

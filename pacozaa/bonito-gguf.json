@@ -1,0 +1,33 @@
+{
+    "id": "pacozaa/bonito-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "pacozaa",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-25T09:49:50Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "bonito-ggml-model-f32.gguf-Q4_K_M.gguf",
+            "size": "4368438944",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a86f0e8ce2dee69382ffdb491659856cdc948d3b8d243de1eced0b15c6ead2f8",
+            "download": {
+                "default": "https://huggingface.co/pacozaa/bonito-gguf/resolve/main/bonito-ggml-model-f32.gguf-Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

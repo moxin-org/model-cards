@@ -1,0 +1,43 @@
+{
+    "id": "lmg-anon/prometheus-13b-v1.0-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "lmg-anon",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-14T15:42:39Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "prometheus-13b-v1.0-q6_k.gguf",
+            "size": "10679140224",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2b8081aa31c53ac972c8bc4431ed0347d18a42b1650c46a0ef7e155bf501cae8",
+            "download": {
+                "default": "https://huggingface.co/lmg-anon/prometheus-13b-v1.0-gguf/resolve/main/prometheus-13b-v1.0-q6_k.gguf"
+            }
+        },
+        {
+            "name": "prometheus-13b-v1.0-q8_0.gguf",
+            "size": "13831319392",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ca446252fb79131acb1aedba9868199078fa1f4de4c79b1e47d971e1e5192326",
+            "download": {
+                "default": "https://huggingface.co/lmg-anon/prometheus-13b-v1.0-gguf/resolve/main/prometheus-13b-v1.0-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

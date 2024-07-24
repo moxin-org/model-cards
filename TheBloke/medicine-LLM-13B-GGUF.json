@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/medicine-LLM-13B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-01T22:59:00Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "medicine-llm-13b.Q2_K.gguf",
+            "size": "5429354272",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "9004271d0daf153ea7ecb93de85d8ddc3e61c9d0ca589fa3c0edf5d0260bc4d1",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/medicine-LLM-13B-GGUF/resolve/main/medicine-llm-13b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "medicine-llm-13b.Q3_K_L.gguf",
+            "size": "6929565984",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "915c91a9fc5b1e487bad1f848443e67f080d957706584150907fbe26673ae604",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/medicine-LLM-13B-GGUF/resolve/main/medicine-llm-13b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "medicine-llm-13b.Q3_K_M.gguf",
+            "size": "6337775904",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "0d5e3db85e29f370a43455a5a5a7a18ed31dd34eae1b9729242893f74e2ebad8",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/medicine-LLM-13B-GGUF/resolve/main/medicine-llm-13b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "medicine-llm-13b.Q3_K_S.gguf",
+            "size": "5658986784",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "fc592ed46d22860a6f6b9e32bc29ac92f571ab567f24bb55f1f5968347be505b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/medicine-LLM-13B-GGUF/resolve/main/medicine-llm-13b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "medicine-llm-13b.Q4_0.gguf",
+            "size": "7365841856",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "e8215cae8da2fecea13843146024f32b72a1752f3780ed2ddfc7f6bd501e54b1",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/medicine-LLM-13B-GGUF/resolve/main/medicine-llm-13b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "medicine-llm-13b.Q4_K_M.gguf",
+            "size": "7865963456",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "2e4451109aed59cf3052fb71d150ce521aac24452f44b218c48e3a5b3cc51939",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/medicine-LLM-13B-GGUF/resolve/main/medicine-llm-13b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "medicine-llm-13b.Q4_K_S.gguf",
+            "size": "7414338496",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "8c0d79e2d1109f5d8dd3c2870e4319b87695a93ca8d924603b9175b6d16b7bbc",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/medicine-LLM-13B-GGUF/resolve/main/medicine-llm-13b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "medicine-llm-13b.Q5_0.gguf",
+            "size": "8972293696",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "073ab22122e487668d5eb58b270c2b16981fa890c1ef0871144a4804848e84ca",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/medicine-LLM-13B-GGUF/resolve/main/medicine-llm-13b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "medicine-llm-13b.Q5_K_M.gguf",
+            "size": "9229932096",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "d56c9d93d90221712ef673a05c5dbd931adb92104b08f4b708d5ac5e59d6bcaf",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/medicine-LLM-13B-GGUF/resolve/main/medicine-llm-13b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "medicine-llm-13b.Q5_K_S.gguf",
+            "size": "8972293696",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "49218749a70cb09e49d3fd40aa9970c7a348395e1da32b3a75141a98227d254b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/medicine-LLM-13B-GGUF/resolve/main/medicine-llm-13b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "medicine-llm-13b.Q6_K.gguf",
+            "size": "10679148800",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "2df225b1d74e57f1d6314ea2edaaa3f1cc844c74090e2a8ed4076e9b4ef50464",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/medicine-LLM-13B-GGUF/resolve/main/medicine-llm-13b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "medicine-llm-13b.Q8_0.gguf",
+            "size": "13831330432",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "35f5c9643755682edac48afb1ddf9349073143c94124d1f1ad6426a44256b965",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/medicine-LLM-13B-GGUF/resolve/main/medicine-llm-13b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

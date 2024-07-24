@@ -1,0 +1,163 @@
+{
+    "id": "ChristianAzinn/bge-large-en-v1.5-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "ChristianAzinn",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-07T20:18:02Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "bge-large-en-v1.5_fp16.gguf",
+            "size": "669603712",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3379a0e9cea28fc6d7136df8ea7a88ef99ccce5963b9a6f7af9609997be762e3",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/bge-large-en-v1.5-gguf/resolve/main/bge-large-en-v1.5_fp16.gguf"
+            }
+        },
+        {
+            "name": "bge-large-en-v1.5_fp32.gguf",
+            "size": "1337141120",
+            "quantization": "",
+            "tags": [],
+            "sha256": "555167592b7a1b2597c7b6927396e754e4cca81ff53f9ce59088245bf1e9baba",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/bge-large-en-v1.5-gguf/resolve/main/bge-large-en-v1.5_fp32.gguf"
+            }
+        },
+        {
+            "name": "bge-large-en-v1.5.Q2_K.gguf",
+            "size": "144227872",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "62acc6a09a3d7959608ba127b5d89f9a15bd6d014b0465dc13e397906fbba879",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/bge-large-en-v1.5-gguf/resolve/main/bge-large-en-v1.5.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "bge-large-en-v1.5.Q3_K_L.gguf",
+            "size": "198491680",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "7a0f2c38431662fdac3331a72dd14aa06275e042c1ac3b12734c46ce8d9ca5d4",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/bge-large-en-v1.5-gguf/resolve/main/bge-large-en-v1.5.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "bge-large-en-v1.5.Q3_K_M.gguf",
+            "size": "181452320",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "01cdf574df81a7d2155138ff9ef2e392f95c8aaedceaced69a6b3c8514436745",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/bge-large-en-v1.5-gguf/resolve/main/bge-large-en-v1.5.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "bge-large-en-v1.5.Q3_K_S.gguf",
+            "size": "159563296",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "8854575a1a8a89545d361a18bb664b7ad4eee25812fb67e80ff74f67e1b70ac0",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/bge-large-en-v1.5-gguf/resolve/main/bge-large-en-v1.5.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "bge-large-en-v1.5.Q4_0.gguf",
+            "size": "199671328",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "7945eed358e92b6efa416d558536ac9362c732c06977946de6f32ab9ddf7d20e",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/bge-large-en-v1.5-gguf/resolve/main/bge-large-en-v1.5.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "bge-large-en-v1.5.Q4_K_M.gguf",
+            "size": "215891488",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "129223e97eb927b78e888b7071497844e0e64bce6925d92b8634f83ab3c92607",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/bge-large-en-v1.5-gguf/resolve/main/bge-large-en-v1.5.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "bge-large-en-v1.5.Q4_K_S.gguf",
+            "size": "203341344",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "0ecf89e40b5c36738620be0119929d018692f807e3013b9926f9b2b4fba34602",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/bge-large-en-v1.5-gguf/resolve/main/bge-large-en-v1.5.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "bge-large-en-v1.5.Q5_0.gguf",
+            "size": "237420064",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "a43b384043f17032a21122752fc0832ea25a4d7ca0c70728b7c9d54891a45b2d",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/bge-large-en-v1.5-gguf/resolve/main/bge-large-en-v1.5.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "bge-large-en-v1.5.Q5_K_M.gguf",
+            "size": "245775904",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "1a6698de61f6b7ed47e5f6e340d7fa8ec8059e4737a80a6bb5dc802aa1535235",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/bge-large-en-v1.5-gguf/resolve/main/bge-large-en-v1.5.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "bge-large-en-v1.5.Q5_K_S.gguf",
+            "size": "237420064",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "c61e578e770b851db19f7c1b485fd615d9c4f834afd047814eb9cec1caeb1f6c",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/bge-large-en-v1.5-gguf/resolve/main/bge-large-en-v1.5.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "bge-large-en-v1.5.Q6_K.gguf",
+            "size": "277528096",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "3925df697dde5be08643853d2b3fb288cd388a62c17910e24952352a4a265406",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/bge-large-en-v1.5-gguf/resolve/main/bge-large-en-v1.5.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "bge-large-en-v1.5.Q8_0.gguf",
+            "size": "358235712",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "3475a261c0c52536503b8266ea94c6c76a3b282f0ce5d0b12452288ee7eff48a",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/bge-large-en-v1.5-gguf/resolve/main/bge-large-en-v1.5.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

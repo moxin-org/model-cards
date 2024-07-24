@@ -1,0 +1,193 @@
+{
+    "id": "intervitens/internlm2-limarp-chat-20b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "intervitens",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-27T04:15:37Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "internlm2-limarp-chat-20b.Q4_K_S_imx.gguf",
+            "size": "11401329664",
+            "quantization": "Q4_K_S_imx",
+            "tags": [],
+            "sha256": "d37ef755b9450a7bacc2f6cf772eebbc0c6dfb8b0ab08dac29a59bfb486dde50",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm2-limarp-chat-20b-GGUF/resolve/main/internlm2-limarp-chat-20b.Q4_K_S_imx.gguf"
+            }
+        },
+        {
+            "name": "internlm2-limarp-chat-20b.q8_0.gguf",
+            "size": "21106373600",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7363cbd7cf42e1be824a383fe26ed13eec916a6b28f946f707027fa405ed615a",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm2-limarp-chat-20b-GGUF/resolve/main/internlm2-limarp-chat-20b.q8_0.gguf"
+            }
+        },
+        {
+            "name": "internlm2-limarp-chat-20b.Q6_K.gguf",
+            "size": "16296395776",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "379e2f796479bfe642ac479fdc8ff6244f624dd5947e7195281df26d695c703d",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm2-limarp-chat-20b-GGUF/resolve/main/internlm2-limarp-chat-20b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "internlm2-limarp-chat-20b.Q6_K_imx.gguf",
+            "size": "16296395776",
+            "quantization": "Q6_K_imx",
+            "tags": [],
+            "sha256": "8a11146f7aef1cd5bf153f6a335c1aebfeede834af5072a7c56d5bb6145aa32f",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm2-limarp-chat-20b-GGUF/resolve/main/internlm2-limarp-chat-20b.Q6_K_imx.gguf"
+            }
+        },
+        {
+            "name": "internlm2-limarp-chat-20b.Q5_K_S.gguf",
+            "size": "13734181888",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "26e6ec3a348837ba384ed6387ce64076b0d334c8cd0ed2e589f04ef64b7eaeee",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm2-limarp-chat-20b-GGUF/resolve/main/internlm2-limarp-chat-20b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "internlm2-limarp-chat-20b.Q5_K_S_imx.gguf",
+            "size": "13734181888",
+            "quantization": "Q5_K_S_imx",
+            "tags": [],
+            "sha256": "2d0f4295fb0505a9b415bdded679b5f0593802a54efd0398eae8935bbca0318e",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm2-limarp-chat-20b-GGUF/resolve/main/internlm2-limarp-chat-20b.Q5_K_S_imx.gguf"
+            }
+        },
+        {
+            "name": "internlm2-limarp-chat-20b.Q5_K_M.gguf",
+            "size": "14075100160",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "8c6d7c9fa9b3dcf910a3af11c10785039cce59456536a775216c71a45b63cadb",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm2-limarp-chat-20b-GGUF/resolve/main/internlm2-limarp-chat-20b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "internlm2-limarp-chat-20b.Q5_K_M_imx.gguf",
+            "size": "14075100160",
+            "quantization": "Q5_K_M_imx",
+            "tags": [],
+            "sha256": "cce745bf9d13626344fb942128c6d98d37408c152b9ef13fc492c342bd4d52f3",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm2-limarp-chat-20b-GGUF/resolve/main/internlm2-limarp-chat-20b.Q5_K_M_imx.gguf"
+            }
+        },
+        {
+            "name": "internlm2-limarp-chat-20b.Q4_K_S.gguf",
+            "size": "11401329664",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "84d3734f655565d9d516493d29f7bdc92c08b18e6dd2b06ed93e30787039b15f",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm2-limarp-chat-20b-GGUF/resolve/main/internlm2-limarp-chat-20b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "internlm2-limarp-chat-20b.IQ2_XS.gguf",
+            "size": "6100403200",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "4da12852dd4d3f7227e4039973a29cc3de10d7043eac99ae336d0a4b0f6946f1",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm2-limarp-chat-20b-GGUF/resolve/main/internlm2-limarp-chat-20b.IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "internlm2-limarp-chat-20b.Q4_K_M.gguf",
+            "size": "11984468992",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "50abf60dacc1f8006455238d3206bf9ebc0df3d767ce35a7415f9c015aac06a6",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm2-limarp-chat-20b-GGUF/resolve/main/internlm2-limarp-chat-20b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "internlm2-limarp-chat-20b.Q4_K_M_imx.gguf",
+            "size": "11984468992",
+            "quantization": "Q4_K_M_imx",
+            "tags": [],
+            "sha256": "a7685021806a1210a3e7e71e543ffe3ab39d658b3a8654a85bf77462e7520de3",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm2-limarp-chat-20b-GGUF/resolve/main/internlm2-limarp-chat-20b.Q4_K_M_imx.gguf"
+            }
+        },
+        {
+            "name": "internlm2-limarp-chat-20b.Q3_K_M.gguf",
+            "size": "9722278912",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "40ef1d999e68cc1eabf6b4291508e20d89a87f9f185e8766eea97bed3d366558",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm2-limarp-chat-20b-GGUF/resolve/main/internlm2-limarp-chat-20b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "internlm2-limarp-chat-20b.Q3_K_M_imx.gguf",
+            "size": "9722278912",
+            "quantization": "Q3_K_M_imx",
+            "tags": [],
+            "sha256": "5420ee4fd2e22d1d76c0628f08ce95ab96dc45b28dab434a77227ccf21201059",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm2-limarp-chat-20b-GGUF/resolve/main/internlm2-limarp-chat-20b.Q3_K_M_imx.gguf"
+            }
+        },
+        {
+            "name": "internlm2-limarp-chat-20b.Q3_K_L_imx.gguf",
+            "size": "10551178240",
+            "quantization": "Q3_K_L_imx",
+            "tags": [],
+            "sha256": "5bdef6e7d17d0274476fe85bf4f8cb41f25d8cff3a51a55084ce21d359c3755a",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm2-limarp-chat-20b-GGUF/resolve/main/internlm2-limarp-chat-20b.Q3_K_L_imx.gguf"
+            }
+        },
+        {
+            "name": "internlm2-limarp-chat-20b.Q2_K.gguf",
+            "size": "7546670080",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "2f8b6b0cb7a6d253ce3eef0e7133302c11bbaf0dfb663e2c3d9db179920d3959",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm2-limarp-chat-20b-GGUF/resolve/main/internlm2-limarp-chat-20b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "internlm2-limarp-chat-20b.Q2_K_imx.gguf",
+            "size": "7546670080",
+            "quantization": "Q2_K_imx",
+            "tags": [],
+            "sha256": "ebafd75e3b8d57157c491f671edb9158d8ba6734f0aeaefb67c831cc36e5704a",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm2-limarp-chat-20b-GGUF/resolve/main/internlm2-limarp-chat-20b.Q2_K_imx.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

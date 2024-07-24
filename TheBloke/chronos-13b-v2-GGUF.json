@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/chronos-13b-v2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-05T15:37:35Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "chronos-13b-v2.Q2_K.gguf",
+            "size": "5429348096",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "5cd19bed00ae29e72ad7c3192172cbb63eb018798955108b6b70920f0276ee42",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/chronos-13b-v2-GGUF/resolve/main/chronos-13b-v2.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "chronos-13b-v2.Q3_K_L.gguf",
+            "size": "6929559296",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "111da30d9490b9739f58db6e0d647e3e3f77f5d5eee4cbc30fff93d506a96bd9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/chronos-13b-v2-GGUF/resolve/main/chronos-13b-v2.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "chronos-13b-v2.Q3_K_M.gguf",
+            "size": "6337769216",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "0dcdc1faa5e81893a224faf4c1d97a5c47c23b31cf92bfaa4d01b314eff03afb",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/chronos-13b-v2-GGUF/resolve/main/chronos-13b-v2.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "chronos-13b-v2.Q3_K_S.gguf",
+            "size": "5658980096",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "38d74846f93818e22c294bac0f19cc77369abda05b5c8b21485e28b83f85f300",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/chronos-13b-v2-GGUF/resolve/main/chronos-13b-v2.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "chronos-13b-v2.Q4_0.gguf",
+            "size": "7365834496",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "4271a66e11425223256e862aed17867abb3f68d9a0ee2061b4c2432fd1dd2e2f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/chronos-13b-v2-GGUF/resolve/main/chronos-13b-v2.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "chronos-13b-v2.Q4_K_M.gguf",
+            "size": "7865956096",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "f175539292d4123e4d0064e03b1af11331334fa497e2a11df7dcb3305d252d51",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/chronos-13b-v2-GGUF/resolve/main/chronos-13b-v2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "chronos-13b-v2.Q4_K_S.gguf",
+            "size": "7414331136",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "70bb2591671e950663c8c17182925b512bcf4749035a9ef52f5c23bd64992235",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/chronos-13b-v2-GGUF/resolve/main/chronos-13b-v2.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "chronos-13b-v2.Q5_0.gguf",
+            "size": "8972285696",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "8ca4415a83fd5acb2f632f97ea5bfcd1f824719ef061cfcddf954a08c7ea0ba0",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/chronos-13b-v2-GGUF/resolve/main/chronos-13b-v2.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "chronos-13b-v2.Q5_K_M.gguf",
+            "size": "9229924096",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "7ae6b6416d5b770a39e01b8d7f4982813da0f78309f28677b1ddb45a7510d8de",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/chronos-13b-v2-GGUF/resolve/main/chronos-13b-v2.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "chronos-13b-v2.Q5_K_S.gguf",
+            "size": "8972285696",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "3f8952e2182ad6ad1b5f414b3a3d5c68956cef7870adf965baf1ae313aea9889",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/chronos-13b-v2-GGUF/resolve/main/chronos-13b-v2.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "chronos-13b-v2.Q6_K.gguf",
+            "size": "10679140096",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "0703fcb130539e1ed8bf9a21b2cfb05b42a1509661d6e30484514eb2c399b454",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/chronos-13b-v2-GGUF/resolve/main/chronos-13b-v2.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "chronos-13b-v2.Q8_0.gguf",
+            "size": "13831319296",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "f8054fdd36b1cf16b01fa812f770d58b60f91a714262f4fe2e1bc4740854bdae",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/chronos-13b-v2-GGUF/resolve/main/chronos-13b-v2.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

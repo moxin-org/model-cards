@@ -1,0 +1,53 @@
+{
+    "id": "Kukedlc/Triunvirato-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Kukedlc",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-14T23:29:32Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "triunvirato-7b.Q2_K.gguf",
+            "size": "2719241856",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "e357563b3385c59895b43ffa66aaa44d762a7fa03ab4bf65f6a2dd8acef3aee6",
+            "download": {
+                "default": "https://huggingface.co/Kukedlc/Triunvirato-7b-GGUF/resolve/main/triunvirato-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "triunvirato-7b.Q4_K_M.gguf",
+            "size": "4368438912",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "b1c06d9f1205fc0b414b2852d0836f8231aa3bdfd85d90f79362095e158543d5",
+            "download": {
+                "default": "https://huggingface.co/Kukedlc/Triunvirato-7b-GGUF/resolve/main/triunvirato-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "triunvirato-7b.Q5_K_M.gguf",
+            "size": "5131409024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "a92e16891440b0161a61d3a4770dd77caa95f1ca4b6f70f771932c4cea45affe",
+            "download": {
+                "default": "https://huggingface.co/Kukedlc/Triunvirato-7b-GGUF/resolve/main/triunvirato-7b.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

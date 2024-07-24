@@ -1,0 +1,43 @@
+{
+    "id": "A2H0H0R1/Llama-2-7b-chat-hf-biology-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "A2H0H0R1",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-04T12:42:34Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-f16.gguf",
+            "size": "13478104768",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d29708d5a26314dd6a61fe136779cc3b0dcd6b78ac97101321f227556d20a97d",
+            "download": {
+                "default": "https://huggingface.co/A2H0H0R1/Llama-2-7b-chat-hf-biology-gguf/resolve/main/ggml-model-f16.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q8_0-biology.gguf",
+            "size": "7161089760",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e9434d74e34db1a9731fa80d2970eec4de7bff8afc681c8189a6766a2c1a6159",
+            "download": {
+                "default": "https://huggingface.co/A2H0H0R1/Llama-2-7b-chat-hf-biology-gguf/resolve/main/ggml-model-q8_0-biology.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

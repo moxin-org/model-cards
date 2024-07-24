@@ -1,0 +1,63 @@
+{
+    "id": "nold/BioMistral-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "nold",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-19T15:39:51Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "BioMistral-7B_Q4_K_M.gguf",
+            "size": "4368439424",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "ddde6ed6c557fb8862b404613aa3ef3432de8ec8cbbb5d9f7c8f40f306011e39",
+            "download": {
+                "default": "https://huggingface.co/nold/BioMistral-7B-GGUF/resolve/main/BioMistral-7B_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "BioMistral-7B_Q5_K_M.gguf",
+            "size": "5131409536",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5327e09bec34d293f6ba9aed08c5e0095b1f9ebc39ed9a52723e858a5ccb9aab",
+            "download": {
+                "default": "https://huggingface.co/nold/BioMistral-7B-GGUF/resolve/main/BioMistral-7B_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "BioMistral-7B_Q6_K.gguf",
+            "size": "5942065280",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "805bbc0d7b5e5bcfb4ac28d5321a444a41ec23b9b75afb46f1d07da2a17a6410",
+            "download": {
+                "default": "https://huggingface.co/nold/BioMistral-7B-GGUF/resolve/main/BioMistral-7B_Q6_K.gguf"
+            }
+        },
+        {
+            "name": "BioMistral-7B_Q8_0.gguf",
+            "size": "7695857792",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "8828211381cd5264404e24fe679c5df67ba2f792fff6b53a207e3d71e2e54237",
+            "download": {
+                "default": "https://huggingface.co/nold/BioMistral-7B-GGUF/resolve/main/BioMistral-7B_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

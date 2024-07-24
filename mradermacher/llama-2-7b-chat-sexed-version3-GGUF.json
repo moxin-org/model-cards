@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/llama-2-7b-chat-sexed-version3-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-24T00:45:11Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llama-2-7b-chat-sexed-version3.IQ3_M.gguf",
+            "size": "3269489216",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "b835c07ce455121e05b16fbf2b1ea4f4786d3f020befd56a73e967d39b71f74c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama-2-7b-chat-sexed-version3-GGUF/resolve/main/llama-2-7b-chat-sexed-version3.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-chat-sexed-version3.IQ3_S.gguf",
+            "size": "3102929472",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "6f0e20461f973dcb3e913500c200a4ff9cacf2bf82bae82dafa77e0b859a4980",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama-2-7b-chat-sexed-version3-GGUF/resolve/main/llama-2-7b-chat-sexed-version3.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-chat-sexed-version3.IQ3_XS.gguf",
+            "size": "2951148096",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "7e3af78eaa34d175cbf40c19e4023841685010b893aca9f62d7eb750305155b7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama-2-7b-chat-sexed-version3-GGUF/resolve/main/llama-2-7b-chat-sexed-version3.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-chat-sexed-version3.IQ4_NL.gguf",
+            "size": "4002976320",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "e65a91832ecd9e3ff5d9ff0dffdef26c604a303895f03f45b3720fa272cd6cd7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama-2-7b-chat-sexed-version3-GGUF/resolve/main/llama-2-7b-chat-sexed-version3.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-chat-sexed-version3.IQ4_XS.gguf",
+            "size": "3802141248",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "b47ae0b8758e918287c9dc30dd1f7a69dffe16948d07b90c6955899b88b45b4a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama-2-7b-chat-sexed-version3-GGUF/resolve/main/llama-2-7b-chat-sexed-version3.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-chat-sexed-version3.Q2_K.gguf",
+            "size": "2687488576",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "75e5027bb1b9306a17afedd7b3a57204e2c9d6f0a2ed02fa5ea798722c833bfb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama-2-7b-chat-sexed-version3-GGUF/resolve/main/llama-2-7b-chat-sexed-version3.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-chat-sexed-version3.Q3_K_L.gguf",
+            "size": "3751735872",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "bb99db29cae245fc766c5620b088fe2b8536eaea236de9b4eb44df2919507001",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama-2-7b-chat-sexed-version3-GGUF/resolve/main/llama-2-7b-chat-sexed-version3.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-chat-sexed-version3.Q3_K_M.gguf",
+            "size": "3452629568",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "8661c44a7d3241492e52eaa2f71c8679f950cc345c395ffef1f01e864305096a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama-2-7b-chat-sexed-version3-GGUF/resolve/main/llama-2-7b-chat-sexed-version3.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-chat-sexed-version3.Q3_K_S.gguf",
+            "size": "3102929472",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "9304c97c9fb591bea87e4b57b34923c7aa9993f28aee3b77d8f4e02d051e15b9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama-2-7b-chat-sexed-version3-GGUF/resolve/main/llama-2-7b-chat-sexed-version3.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-chat-sexed-version3.Q4_0.gguf",
+            "size": "3980431936",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "e9bc419bec2c8f53659e6c0126b54e028ae123884a02fd790a388be0207ec2f2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama-2-7b-chat-sexed-version3-GGUF/resolve/main/llama-2-7b-chat-sexed-version3.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-chat-sexed-version3.Q4_K_M.gguf",
+            "size": "4235629120",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "43d43f2b0f662596292c5ae0b2576ceedea29fec22590f424d6fa8ab50aaaf46",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama-2-7b-chat-sexed-version3-GGUF/resolve/main/llama-2-7b-chat-sexed-version3.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-chat-sexed-version3.Q4_K_S.gguf",
+            "size": "4011364928",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "2dceb6b14fcf3f7720d22632f0b20f690a836039552e6bf9a4a69398566bced9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama-2-7b-chat-sexed-version3-GGUF/resolve/main/llama-2-7b-chat-sexed-version3.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-chat-sexed-version3.Q5_K_M.gguf",
+            "size": "4937781824",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "df1c285767f5a164ec05899fadd206217631b2d517d5016fb415079f3945125b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama-2-7b-chat-sexed-version3-GGUF/resolve/main/llama-2-7b-chat-sexed-version3.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-chat-sexed-version3.Q5_K_S.gguf",
+            "size": "4806316608",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "ec8ac2d4b18b8de6fbe1acf0db1b886f4239a6e0a176da7f701e443d6e0330a7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama-2-7b-chat-sexed-version3-GGUF/resolve/main/llama-2-7b-chat-sexed-version3.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-chat-sexed-version3.Q6_K.gguf",
+            "size": "5683819072",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "c2a8216d603057e982fee69d3250bb43c146a6f1f1cd58101d0d9c6dd8153ccb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama-2-7b-chat-sexed-version3-GGUF/resolve/main/llama-2-7b-chat-sexed-version3.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-chat-sexed-version3.Q8_0.gguf",
+            "size": "7283970624",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "27d3529a8a056bb08a9e2b1f23e9d8742ac64cd01c3218314a8f4298a40a66ae",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama-2-7b-chat-sexed-version3-GGUF/resolve/main/llama-2-7b-chat-sexed-version3.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

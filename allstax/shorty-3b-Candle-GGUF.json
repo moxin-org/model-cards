@@ -1,0 +1,63 @@
+{
+    "id": "allstax/shorty-3b-Candle-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "allstax",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-14T21:42:51Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "model-v2-q4_k.gguf",
+            "size": "1566895168",
+            "quantization": "",
+            "tags": [],
+            "sha256": "82d2379b0e7fff27a1f7edfc93a1bcb02f0a43f2c797ca10736918ad95cb0e71",
+            "download": {
+                "default": "https://huggingface.co/allstax/shorty-3b-Candle-GGUF/resolve/main/model-v2-q4_k.gguf"
+            }
+        },
+        {
+            "name": "model-v2-q6_k.gguf",
+            "size": "2283285568",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8fae159c08bc457b36ecfe34d5117aabdaf606b77c19a826088e20c88a445bb4",
+            "download": {
+                "default": "https://huggingface.co/allstax/shorty-3b-Candle-GGUF/resolve/main/model-v2-q6_k.gguf"
+            }
+        },
+        {
+            "name": "model-v2-q8_0.gguf",
+            "size": "2956258368",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1117545781d0263e090e3c5dc21542f114fd167e573ec559490fb2c5c058cf9b",
+            "download": {
+                "default": "https://huggingface.co/allstax/shorty-3b-Candle-GGUF/resolve/main/model-v2-q8_0.gguf"
+            }
+        },
+        {
+            "name": "model-v2-q8_k.gguf",
+            "size": "3173346368",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d5a8df660ffb740626778db6d0a1a898d87829046bf4435d5f9f121d248a09e6",
+            "download": {
+                "default": "https://huggingface.co/allstax/shorty-3b-Candle-GGUF/resolve/main/model-v2-q8_k.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

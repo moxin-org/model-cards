@@ -1,0 +1,53 @@
+{
+    "id": "mlabonne/NeuralHermes-2.5-Mistral-7B-laser-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mlabonne",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-05T15:47:42Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "neuralhermes-2.5-mistral-7b-laser.Q4_K_M.gguf",
+            "size": "4369386848",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "dcfa7ac5454df5fcd5ddf3dc1402018bf5baa342814d70f01386003530a6b52a",
+            "download": {
+                "default": "https://huggingface.co/mlabonne/NeuralHermes-2.5-Mistral-7B-laser-GGUF/resolve/main/neuralhermes-2.5-mistral-7b-laser.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "neuralhermes-2.5-mistral-7b-laser.Q4_K_S.gguf",
+            "size": "4141321568",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "9bf7502d62067f05d32537516732024121f8e346fde10cf941c0bae4b2da6d2b",
+            "download": {
+                "default": "https://huggingface.co/mlabonne/NeuralHermes-2.5-Mistral-7B-laser-GGUF/resolve/main/neuralhermes-2.5-mistral-7b-laser.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "neuralhermes-2.5-mistral-7b-laser.Q5_K_M.gguf",
+            "size": "5132357984",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5985d4b03c5a50aa81f5fce73aa150d540eb928978a6cc67cabbc270267cb070",
+            "download": {
+                "default": "https://huggingface.co/mlabonne/NeuralHermes-2.5-Mistral-7B-laser-GGUF/resolve/main/neuralhermes-2.5-mistral-7b-laser.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

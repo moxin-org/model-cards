@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/mixtral-8x1.5B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-06T04:02:35Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mixtral-8x1.5B.IQ3_M.gguf",
+            "size": "4089602272",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "5f3b3bce71479cd381ca67268461a65f5a7c7e5b2bd07e54fbcedca3c112d9e4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mixtral-8x1.5B-GGUF/resolve/main/mixtral-8x1.5B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "mixtral-8x1.5B.IQ3_S.gguf",
+            "size": "3964821728",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "d262354ad70609a1995a43481a7b4b896b5322f8d27f15a2a2f024b338c72f54",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mixtral-8x1.5B-GGUF/resolve/main/mixtral-8x1.5B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "mixtral-8x1.5B.IQ3_XS.gguf",
+            "size": "3739902176",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "90aeca916e83831f44783b4cf50018d30410cd3d877107491368d49213d5e915",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mixtral-8x1.5B-GGUF/resolve/main/mixtral-8x1.5B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "mixtral-8x1.5B.IQ4_XS.gguf",
+            "size": "4847141088",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "5216adfdc087fa4554994c3163f4a037d897af80c1b23bbbd18ffde2f7aadd19",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mixtral-8x1.5B-GGUF/resolve/main/mixtral-8x1.5B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "mixtral-8x1.5B.Q2_K.gguf",
+            "size": "3368763616",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "72a89dca7fc283c57a6a654c83eab59731166db91cbafb274d630a2167bc4ae0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mixtral-8x1.5B-GGUF/resolve/main/mixtral-8x1.5B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "mixtral-8x1.5B.Q3_K_L.gguf",
+            "size": "4665532640",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "77be14a3131d9979b8734a294b70813f9205f612ea92c5a22adc8403a9583442",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mixtral-8x1.5B-GGUF/resolve/main/mixtral-8x1.5B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "mixtral-8x1.5B.Q3_K_M.gguf",
+            "size": "4339163360",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "b8cbbe79345e12338188ef7ac4513ddcf0187413628ba1c19b414a271624d4af",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mixtral-8x1.5B-GGUF/resolve/main/mixtral-8x1.5B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "mixtral-8x1.5B.Q3_K_S.gguf",
+            "size": "3964821728",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "13b8ed7eb0d0bfb856a778efa35cd8d4db1a64f5f8ef1ce4d4e32b9fd21ab43e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mixtral-8x1.5B-GGUF/resolve/main/mixtral-8x1.5B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "mixtral-8x1.5B.Q4_K_M.gguf",
+            "size": "5360845024",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "1e12532b4a25ea833964ad31cbefd52cc794bb5d0caea0eff757316e32936394",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mixtral-8x1.5B-GGUF/resolve/main/mixtral-8x1.5B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "mixtral-8x1.5B.Q4_K_S.gguf",
+            "size": "5118623968",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "6c7b1185e2c04c7ce4571c2717502d8a758e98955ccd21ba39cc83c1b6234952",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mixtral-8x1.5B-GGUF/resolve/main/mixtral-8x1.5B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "mixtral-8x1.5B.Q5_K_M.gguf",
+            "size": "6329336032",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "4f0a94ed39912885f476d626542d24ebd0c73727fa9737db18e40e7bee39a002",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mixtral-8x1.5B-GGUF/resolve/main/mixtral-8x1.5B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "mixtral-8x1.5B.Q5_K_S.gguf",
+            "size": "6204555488",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "84055118466607f244ad6bcd01cabd7f5582bc5bfbec3a3f7afbd631fada6b47",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mixtral-8x1.5B-GGUF/resolve/main/mixtral-8x1.5B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "mixtral-8x1.5B.Q6_K.gguf",
+            "size": "7371727072",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "73743a685eca3de7eb731752c1c8eebc684e1fd00b81ad615ef0b377320025ab",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mixtral-8x1.5B-GGUF/resolve/main/mixtral-8x1.5B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "mixtral-8x1.5B.Q8_0.gguf",
+            "size": "9531842784",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "e5635a9ff2a1da0b82b1f2ccd33071735cc9c57cab058afb8d1ced66bb79e1ab",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mixtral-8x1.5B-GGUF/resolve/main/mixtral-8x1.5B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "Blombert/llava-phi-2-3b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Blombert",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-12T08:10:55Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llava-phi-2-3b-gguf.Q3_K_S.gguf",
+            "size": "1250826848",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "d98cea29dd0710641e77b33d23334da04baf6855a1609b33725c9afa3d7a1c85",
+            "download": {
+                "default": "https://huggingface.co/Blombert/llava-phi-2-3b-GGUF/resolve/main/llava-phi-2-3b-gguf.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "mmproj-model-f16.gguf",
+            "size": "600829120",
+            "quantization": "",
+            "tags": [],
+            "sha256": "03b4efa2bafe36055a45800ba2634d3ab13670c7bc99560cd2750c5ec32ef41d",
+            "download": {
+                "default": "https://huggingface.co/Blombert/llava-phi-2-3b-GGUF/resolve/main/mmproj-model-f16.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

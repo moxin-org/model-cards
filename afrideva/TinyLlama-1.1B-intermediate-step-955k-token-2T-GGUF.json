@@ -1,0 +1,93 @@
+{
+    "id": "afrideva/TinyLlama-1.1B-intermediate-step-955k-token-2T-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-19T11:23:12Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tinyllama-1.1b-intermediate-step-955k-token-2t.fp16.gguf",
+            "size": "2201016800",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c899bdaaeb0677b58e58046915ee89b85f6496a306e40261bf6fc884caf216b2",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-intermediate-step-955k-token-2T-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-955k-token-2t.fp16.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-955k-token-2t.q2_k.gguf",
+            "size": "482142720",
+            "quantization": "",
+            "tags": [],
+            "sha256": "13d76bf4056997cbb3d52ca3dfc9d9ae6ba5e7f3a102b821483ad7d2123ac851",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-intermediate-step-955k-token-2T-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-955k-token-2t.q2_k.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-955k-token-2t.q3_k_m.gguf",
+            "size": "549845504",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4a3bdfb8d71eb9d73cadb2cf4d68cf880d9c9a5a509f1ea4ef8f013310759820",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-intermediate-step-955k-token-2T-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-955k-token-2t.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-955k-token-2t.q4_k_m.gguf",
+            "size": "667814400",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5385fde55eab52732cc76fdfc8b31ac194b7fd0b71ec0d2f920f6df6db5c7ff2",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-intermediate-step-955k-token-2T-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-955k-token-2t.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-955k-token-2t.q5_k_m.gguf",
+            "size": "782043648",
+            "quantization": "",
+            "tags": [],
+            "sha256": "84d3e6e70ac009dd358e40e9692605f332777108a412e8379a020c15de25e322",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-intermediate-step-955k-token-2T-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-955k-token-2t.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-955k-token-2t.q6_k.gguf",
+            "size": "903412224",
+            "quantization": "",
+            "tags": [],
+            "sha256": "02d6853f4a3876c03f8067c7c00fd5146bd7015d996ad3431d5fa2b3c3877fba",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-intermediate-step-955k-token-2T-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-955k-token-2t.q6_k.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-955k-token-2t.q8_0.gguf",
+            "size": "1169807872",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b09d3aa51450ea561e8c964101dee8934f1d035431a938759777e2c9e4c2ca9d",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-intermediate-step-955k-token-2T-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-955k-token-2t.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

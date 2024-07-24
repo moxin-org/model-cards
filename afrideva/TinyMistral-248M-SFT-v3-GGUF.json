@@ -1,0 +1,93 @@
+{
+    "id": "afrideva/TinyMistral-248M-SFT-v3-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-04T00:33:08Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tinymistral-248m-sft-v3.fp16.gguf",
+            "size": "497751616",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0ad15f8b7704caf844b908c2543eab1462f082a4d7560907315be3893d3c4a55",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyMistral-248M-SFT-v3-GGUF/resolve/main/tinymistral-248m-sft-v3.fp16.gguf"
+            }
+        },
+        {
+            "name": "tinymistral-248m-sft-v3.q2_k.gguf",
+            "size": "116198464",
+            "quantization": "",
+            "tags": [],
+            "sha256": "62a9e6201367b8d53bb86b7f4da42e0ef82e88373fcd7dba01281d8e1b653c0a",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyMistral-248M-SFT-v3-GGUF/resolve/main/tinymistral-248m-sft-v3.q2_k.gguf"
+            }
+        },
+        {
+            "name": "tinymistral-248m-sft-v3.q3_k_m.gguf",
+            "size": "131011968",
+            "quantization": "",
+            "tags": [],
+            "sha256": "742c16e0f6ded9084467dc0d2c199eda27b963159469ac0ffb644457f36fd1df",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyMistral-248M-SFT-v3-GGUF/resolve/main/tinymistral-248m-sft-v3.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "tinymistral-248m-sft-v3.q4_k_m.gguf",
+            "size": "156602112",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c661d38f2408cd9f1a710eaabbca4587b65070bbdf1627677fc193f42aa58671",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyMistral-248M-SFT-v3-GGUF/resolve/main/tinymistral-248m-sft-v3.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "tinymistral-248m-sft-v3.q5_k_m.gguf",
+            "size": "180162688",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d9e9608625786119cb13c44e8df10f9f050d92e4f3d9d689ae5f38fb8e313ee1",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyMistral-248M-SFT-v3-GGUF/resolve/main/tinymistral-248m-sft-v3.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "tinymistral-248m-sft-v3.q6_k.gguf",
+            "size": "205195808",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2b03c9ba98d3728bbfd114aad39022fd6995a70fe8f4b9ef01b260be8dba9369",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyMistral-248M-SFT-v3-GGUF/resolve/main/tinymistral-248m-sft-v3.q6_k.gguf"
+            }
+        },
+        {
+            "name": "tinymistral-248m-sft-v3.q8_0.gguf",
+            "size": "265256928",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fb8a541a18318fe57e9277a5a95e7f0d29f0b25705a07ca3ba05367aa3685ab8",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyMistral-248M-SFT-v3-GGUF/resolve/main/tinymistral-248m-sft-v3.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,93 @@
+{
+    "id": "afrideva/Ferret-3B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-08T06:05:07Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ferret-3b.fp16.gguf",
+            "size": "5593341632",
+            "quantization": "",
+            "tags": [],
+            "sha256": "aab3caa4b7cdaa27729fc933d66192ff0c30c23130686217ca007bc196d55298",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Ferret-3B-GGUF/resolve/main/ferret-3b.fp16.gguf"
+            }
+        },
+        {
+            "name": "ferret-3b.q2_k.gguf",
+            "size": "1198771488",
+            "quantization": "",
+            "tags": [],
+            "sha256": "db94ccf32742cc54e0796aa8ba5a9fe45f07e86b87512678c5ac5a6dacacfd26",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Ferret-3B-GGUF/resolve/main/ferret-3b.q2_k.gguf"
+            }
+        },
+        {
+            "name": "ferret-3b.q3_k_m.gguf",
+            "size": "1391419168",
+            "quantization": "",
+            "tags": [],
+            "sha256": "30d746ee3e497b19003c8b135c8a53fe9f201f3f63716a21e310b4e10703dcc3",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Ferret-3B-GGUF/resolve/main/ferret-3b.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "ferret-3b.q4_k_m.gguf",
+            "size": "1708595488",
+            "quantization": "",
+            "tags": [],
+            "sha256": "733648fe7dffe26ac8934d5f96452b1511f42e3256f4b6ca25627265ed2dd54e",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Ferret-3B-GGUF/resolve/main/ferret-3b.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "ferret-3b.q5_k_m.gguf",
+            "size": "1993390368",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e72ad30cb585db95a4f94544739e4d329c968b273147693b975a9067c9d55153",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Ferret-3B-GGUF/resolve/main/ferret-3b.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "ferret-3b.q6_k.gguf",
+            "size": "2295984928",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1b2ba9a37c633d9eeb121538636484b49edc9e6a1a9cc480f018cc0622d58ffa",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Ferret-3B-GGUF/resolve/main/ferret-3b.q6_k.gguf"
+            }
+        },
+        {
+            "name": "ferret-3b.q8_0.gguf",
+            "size": "2972925728",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6e2705901d887fbd11162c4b845bbf1373d3e36be3e5675f6c6611329cf63966",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Ferret-3B-GGUF/resolve/main/ferret-3b.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

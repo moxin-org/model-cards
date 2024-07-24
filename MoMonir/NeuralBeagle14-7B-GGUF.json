@@ -1,0 +1,43 @@
+{
+    "id": "MoMonir/NeuralBeagle14-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "MoMonir",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-26T16:09:55Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "neuralbeagle14-7b.Q4_K_M.gguf",
+            "size": "4368439232",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "61c21a452c5cc3afa5554ed1ceaf268e388764840b1141bde5ac2334aec7c939",
+            "download": {
+                "default": "https://huggingface.co/MoMonir/NeuralBeagle14-7B-GGUF/resolve/main/neuralbeagle14-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "neuralbeagle14-7b.Q5_K_M.gguf",
+            "size": "5131409344",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "75ef7e8c5ff4d11fb2933e9edc5433d988ff34caa9077dfe1f38d1bdadf4a32a",
+            "download": {
+                "default": "https://huggingface.co/MoMonir/NeuralBeagle14-7B-GGUF/resolve/main/neuralbeagle14-7b.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

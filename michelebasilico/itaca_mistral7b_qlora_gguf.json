@@ -1,0 +1,43 @@
+{
+    "id": "michelebasilico/itaca_mistral7b_qlora_gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "michelebasilico",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-27T09:07:03Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "itaca_mistral7b_qlora_4bit-unsloth.F16.gguf",
+            "size": "14484731648",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4ac4648b3b6c307fc2f8170d94b35c2e16f455fba1335bbcba32aa64359de821",
+            "download": {
+                "default": "https://huggingface.co/michelebasilico/itaca_mistral7b_qlora_gguf/resolve/main/itaca_mistral7b_qlora_4bit-unsloth.F16.gguf"
+            }
+        },
+        {
+            "name": "itaca_mistral7b_qlora_4bit-unsloth.Q4_K_M.gguf",
+            "size": "4368439072",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "815704d72b59cf6ef01b22f602bb26f91f149dd8edc093d472b6a7e398b186f6",
+            "download": {
+                "default": "https://huggingface.co/michelebasilico/itaca_mistral7b_qlora_gguf/resolve/main/itaca_mistral7b_qlora_4bit-unsloth.Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

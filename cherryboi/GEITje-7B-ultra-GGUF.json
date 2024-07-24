@@ -1,0 +1,43 @@
+{
+    "id": "cherryboi/GEITje-7B-ultra-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "cherryboi",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-29T21:32:34Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "geitje-7b-ultra.Q4_K_M.gguf",
+            "size": "4368439520",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "7dc0f2033e73336864161881e8a9746ef111bf4e1b598b9429633aeedf595a53",
+            "download": {
+                "default": "https://huggingface.co/cherryboi/GEITje-7B-ultra-GGUF/resolve/main/geitje-7b-ultra.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "geitje-7b-ultra.Q8_0.gguf",
+            "size": "7695857888",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "4ed9d806bb3215cc9f56a41d7467b834732fc1af984668eb6d779493ab31ca50",
+            "download": {
+                "default": "https://huggingface.co/cherryboi/GEITje-7B-ultra-GGUF/resolve/main/geitje-7b-ultra.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

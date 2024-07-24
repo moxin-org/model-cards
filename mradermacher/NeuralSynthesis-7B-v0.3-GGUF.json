@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/NeuralSynthesis-7B-v0.3-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-07T15:03:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "NeuralSynthesis-7B-v0.3.IQ3_M.gguf",
+            "size": "3284891392",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "39579b6a34b6b3ec846b31625588a9ccf9570444d1e7c48983b96ce2d9318ba3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralSynthesis-7B-v0.3-GGUF/resolve/main/NeuralSynthesis-7B-v0.3.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "NeuralSynthesis-7B-v0.3.IQ3_S.gguf",
+            "size": "3182393088",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "0522a09edff8a4e1734ce89cda8282842ea3929989dd754f4563e7691e6bde5a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralSynthesis-7B-v0.3-GGUF/resolve/main/NeuralSynthesis-7B-v0.3.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "NeuralSynthesis-7B-v0.3.IQ3_XS.gguf",
+            "size": "3018815232",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "7f1acb34dfffb23476c3fd083f9cf614f26ea89e1fa96940c526b0665b7af57d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralSynthesis-7B-v0.3-GGUF/resolve/main/NeuralSynthesis-7B-v0.3.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "NeuralSynthesis-7B-v0.3.IQ4_XS.gguf",
+            "size": "3944388352",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "ad2c08e503caed4348140815bb2f3ef6bf7a694cf700eaeacfb029e562531b68",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralSynthesis-7B-v0.3-GGUF/resolve/main/NeuralSynthesis-7B-v0.3.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "NeuralSynthesis-7B-v0.3.Q2_K.gguf",
+            "size": "2719241984",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "4e3f275794923d17c84a0690d254f5031e5af8e31f13ac03841ee104c3492e4d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralSynthesis-7B-v0.3-GGUF/resolve/main/NeuralSynthesis-7B-v0.3.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "NeuralSynthesis-7B-v0.3.Q3_K_L.gguf",
+            "size": "3822024448",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "8e9dce699f0e41d604286c3cef397e56f9e8e81a4b9d90914b5eea4fc84ac208",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralSynthesis-7B-v0.3-GGUF/resolve/main/NeuralSynthesis-7B-v0.3.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "NeuralSynthesis-7B-v0.3.Q3_K_M.gguf",
+            "size": "3518985984",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "81e323961bb2b7d53059bfcab3d08168a98260aedec74dc1ee68ac86dd187731",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralSynthesis-7B-v0.3-GGUF/resolve/main/NeuralSynthesis-7B-v0.3.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "NeuralSynthesis-7B-v0.3.Q3_K_S.gguf",
+            "size": "3164567296",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "24a6a18e370b849c8ea29982525a9cc7c31dc5c06feb55e3bb4102dc792385f8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralSynthesis-7B-v0.3-GGUF/resolve/main/NeuralSynthesis-7B-v0.3.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "NeuralSynthesis-7B-v0.3.Q4_K_M.gguf",
+            "size": "4368439040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a0195e7613fc05150edd306a966e0ba57cbe75b293a2b392a2878ada23067a28",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralSynthesis-7B-v0.3-GGUF/resolve/main/NeuralSynthesis-7B-v0.3.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "NeuralSynthesis-7B-v0.3.Q4_K_S.gguf",
+            "size": "4140373760",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "0c900f5e17f7b6bfc931d11b93836fb6fb78075c970f9e2606693fca41eb05b1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralSynthesis-7B-v0.3-GGUF/resolve/main/NeuralSynthesis-7B-v0.3.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "NeuralSynthesis-7B-v0.3.Q5_K_M.gguf",
+            "size": "5131409152",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "c8e38bc2841636c0ae450073c55ce43f6202fe80e69e5f0aeac9fc86fd4d4052",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralSynthesis-7B-v0.3-GGUF/resolve/main/NeuralSynthesis-7B-v0.3.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "NeuralSynthesis-7B-v0.3.Q5_K_S.gguf",
+            "size": "4997715712",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "72f96add162442ee5b5be164f1b6789c647725f5ff37bc6896c7047deea60fb8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralSynthesis-7B-v0.3-GGUF/resolve/main/NeuralSynthesis-7B-v0.3.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "NeuralSynthesis-7B-v0.3.Q6_K.gguf",
+            "size": "5942064896",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "8314ba4fa1b95e1afae087f06993bbb4aca8ba69ea98b502b0ec90d200710510",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralSynthesis-7B-v0.3-GGUF/resolve/main/NeuralSynthesis-7B-v0.3.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "NeuralSynthesis-7B-v0.3.Q8_0.gguf",
+            "size": "7695857408",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "4a5cbab956013c1d82d88d3a63574003086209be708d5d7b9fe4175d880be818",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralSynthesis-7B-v0.3-GGUF/resolve/main/NeuralSynthesis-7B-v0.3.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

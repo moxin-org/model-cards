@@ -1,0 +1,243 @@
+{
+    "id": "bartowski/codegemma-7b-it-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bartowski",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-09T14:04:29Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "codegemma-7b-it-IQ4_XS.gguf",
+            "size": "4769623040",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "d2479d6ea71d40428434f93fd30ccf9a30e914fd1e394aa25a1befeada912ba6",
+            "download": {
+                "default": "https://huggingface.co/bartowski/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it-Q8_0.gguf",
+            "size": "9077844992",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "20b20ee7b4265a5872bd58d669c394206f50418f3523b47563c9b1d4a78f37cb",
+            "download": {
+                "default": "https://huggingface.co/bartowski/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it-Q8_0.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it-Q6_K.gguf",
+            "size": "7010167808",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "5815a702cdff28c6170c93cc8c2de339490ec08773bd275671c41a3506ac55dc",
+            "download": {
+                "default": "https://huggingface.co/bartowski/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it-Q5_K_S.gguf",
+            "size": "5980728320",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "ff184846246e228e71d80162bc9c27ade06de5a5fd19205fff75ae8f6d511bfb",
+            "download": {
+                "default": "https://huggingface.co/bartowski/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it-Q5_K_M.gguf",
+            "size": "6144502784",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "4dbe3ff3be7b1ae0b6c15c3c7e56bd75e4dd9f73fdd299d06b284ca409dc0d17",
+            "download": {
+                "default": "https://huggingface.co/bartowski/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it-Q4_K_S.gguf",
+            "size": "5046447104",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "74e639180addf9af402ecc6e8c300d85efe62fc274cbb3f5800993909bfbad52",
+            "download": {
+                "default": "https://huggingface.co/bartowski/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it-Q4_K_M.gguf",
+            "size": "5329759232",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "71acf09271bd521ee11811d9c463781fdad49b202e6a72b22c816a0d0c6c1a6b",
+            "download": {
+                "default": "https://huggingface.co/bartowski/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it-Q3_K_S.gguf",
+            "size": "3982404608",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "5fe476310d00d39e02bdde56874c33934e6f176b1af0a382e3e53f2d55483b09",
+            "download": {
+                "default": "https://huggingface.co/bartowski/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it-Q3_K_M.gguf",
+            "size": "4369329152",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "c23f2b814f479352b870f3d29ee83b63cf4e6d76e4b1da80e1d311b347b12a0e",
+            "download": {
+                "default": "https://huggingface.co/bartowski/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it-Q3_K_L.gguf",
+            "size": "4709067776",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "05643518c6e98d940d257e8a224a5f39badb94bf6373cfa56c6163aeec9acca8",
+            "download": {
+                "default": "https://huggingface.co/bartowski/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it-Q2_K.gguf",
+            "size": "3481447424",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "9d0914774f4198f323b8af5233d8481aab6a7a1c103ab22ee97f3029058458af",
+            "download": {
+                "default": "https://huggingface.co/bartowski/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it-IQ1_M.gguf",
+            "size": "2320034816",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "c940e2826d89d18afaf50adb5e3fbc159b20f7e095f92a743a139167d78797ac",
+            "download": {
+                "default": "https://huggingface.co/bartowski/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it-IQ4_NL.gguf",
+            "size": "5011844096",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "7e5d17f30110452b424f705293f3f2321aea56d86e614c92809626bea5a66da4",
+            "download": {
+                "default": "https://huggingface.co/bartowski/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it-IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it-IQ3_XXS.gguf",
+            "size": "3487099904",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "94648d46ba932a258033f00df0d23c4baf8f03015dca52d201069eb98936c506",
+            "download": {
+                "default": "https://huggingface.co/bartowski/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it-IQ3_XS.gguf",
+            "size": "3800738816",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "bfd9d073328c7c3c5ecac3de735635ce7500e9cda8b5d2110f0a1580100fb7f9",
+            "download": {
+                "default": "https://huggingface.co/bartowski/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it-IQ3_S.gguf",
+            "size": "3982404608",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "d9c4fa059f4b5b2481c86a9561aa4f7aaed12aa8a7be62b83d6096c01c68c01a",
+            "download": {
+                "default": "https://huggingface.co/bartowski/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it-IQ3_M.gguf",
+            "size": "4106071040",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "a2e0c1db54709525b3a95a9ed115b7d5786ff9337f7304ae72dbb830eeb1a7f4",
+            "download": {
+                "default": "https://huggingface.co/bartowski/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it-IQ2_XXS.gguf",
+            "size": "2586438656",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "7b8200b5dcbcf80b67dec553e90cc5e58915a94765e61081640ff8235bde4d24",
+            "download": {
+                "default": "https://huggingface.co/bartowski/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it-IQ2_XS.gguf",
+            "size": "2810571776",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "cddd4fcf2eed7fbbe2323bb29a677c290f01a1a176864b32bf02d40842b0d82b",
+            "download": {
+                "default": "https://huggingface.co/bartowski/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it-IQ2_S.gguf",
+            "size": "2918902784",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "76b2eb81b5660012355bf9b2091ed47d0280248100bc28f1fc33a435067a40f3",
+            "download": {
+                "default": "https://huggingface.co/bartowski/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it-IQ2_M.gguf",
+            "size": "3132025856",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "3597411048f86712d0f8f6e36330f4fa3e1ed7aa7f56639ab1478126426c10da",
+            "download": {
+                "default": "https://huggingface.co/bartowski/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it-IQ1_S.gguf",
+            "size": "2160192512",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "189dd1ea07accbef9d0c61947226573856c622646c231aee93ad553abecf45f0",
+            "download": {
+                "default": "https://huggingface.co/bartowski/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it-IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

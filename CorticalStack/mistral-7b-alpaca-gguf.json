@@ -1,0 +1,33 @@
+{
+    "id": "CorticalStack/mistral-7b-alpaca-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "CorticalStack",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-17T22:45:26Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistral-7b-alpaca.Q4_K_M.gguf",
+            "size": "4368439040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "f17ef97265e71e3a5b34f7376f48e98dc5167e35898c072b1e2c3ac47587edf6",
+            "download": {
+                "default": "https://huggingface.co/CorticalStack/mistral-7b-alpaca-gguf/resolve/main/mistral-7b-alpaca.Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

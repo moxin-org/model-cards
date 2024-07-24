@@ -1,0 +1,83 @@
+{
+    "id": "indischepartij/OpenMia-Indo-Mistral-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "indischepartij",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-31T15:42:32Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "openmia-indo-mistral-7b.Q2_K.gguf",
+            "size": "2719241984",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "f8ee90bc8e6a6bb30d58ce38241d596f5921fe35086e70e9901a460db62b5704",
+            "download": {
+                "default": "https://huggingface.co/indischepartij/OpenMia-Indo-Mistral-7b-GGUF/resolve/main/openmia-indo-mistral-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "openmia-indo-mistral-7b.Q3_K_M.gguf",
+            "size": "3518985984",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "9c0dfd61e2d44167c0dac33836da596f8bc7ec935016557e6525a935bdcd7d10",
+            "download": {
+                "default": "https://huggingface.co/indischepartij/OpenMia-Indo-Mistral-7b-GGUF/resolve/main/openmia-indo-mistral-7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "openmia-indo-mistral-7b.Q4_K_M.gguf",
+            "size": "4368439040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4b811f2b222cb41f7259761774670ddd56fb647a157964d6a86bb9e9c26390d2",
+            "download": {
+                "default": "https://huggingface.co/indischepartij/OpenMia-Indo-Mistral-7b-GGUF/resolve/main/openmia-indo-mistral-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "openmia-indo-mistral-7b.Q5_0.gguf",
+            "size": "4997715712",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "0c3b0520e846d1a1224b5690a23b3f57b2023fffc9723c6bd716f1e962c37bf4",
+            "download": {
+                "default": "https://huggingface.co/indischepartij/OpenMia-Indo-Mistral-7b-GGUF/resolve/main/openmia-indo-mistral-7b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "openmia-indo-mistral-7b.Q5_K_M.gguf",
+            "size": "5131409152",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f86b24f10da6ded69ae5bde76307077ed65e667e33f7310ff9447f87f6751d7b",
+            "download": {
+                "default": "https://huggingface.co/indischepartij/OpenMia-Indo-Mistral-7b-GGUF/resolve/main/openmia-indo-mistral-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "openmia-indo-mistral-7b.Q8_0.gguf",
+            "size": "5018492928",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "c6e2e2fddf49a7ef29d2e51023889efe713d115228054d1eb02f2a7d8ce4d625",
+            "download": {
+                "default": "https://huggingface.co/indischepartij/OpenMia-Indo-Mistral-7b-GGUF/resolve/main/openmia-indo-mistral-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,53 @@
+{
+    "id": "InferenceIllusionist/maid-yuzu-v8-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "InferenceIllusionist",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-24T16:56:33Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "maid-yuzu-v8-Q4_K_M.gguf",
+            "size": "28444902784",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e3e29ce9b40edc2cb7b26cc4d4c052ed4167d3f96154d02cc46df67868cd39d9",
+            "download": {
+                "default": "https://huggingface.co/InferenceIllusionist/maid-yuzu-v8-GGUF/resolve/main/maid-yuzu-v8-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "maid-yuzu-v8-Q5_K_M.gguf",
+            "size": "33226147200",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f3022186cd3351d03e6d07296ce241b83ccec6d8d5109272b1469b777f9d0a41",
+            "download": {
+                "default": "https://huggingface.co/InferenceIllusionist/maid-yuzu-v8-GGUF/resolve/main/maid-yuzu-v8-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "maid-yuzu-v8-Q8_0.gguf",
+            "size": "49623278976",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "ae38e72d4994209da43612e22c624fdf864865546c6e39aa45cd3120b4e02801",
+            "download": {
+                "default": "https://huggingface.co/InferenceIllusionist/maid-yuzu-v8-GGUF/resolve/main/maid-yuzu-v8-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

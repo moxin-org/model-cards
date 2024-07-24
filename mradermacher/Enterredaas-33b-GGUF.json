@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Enterredaas-33b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-06T16:27:16Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Enterredaas-33b.IQ3_M.gguf",
+            "size": "14881069600",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "cd86ad0d716769e8cf30be597f9c2075bf52b514b75a014904f1f53b065bf086",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Enterredaas-33b-GGUF/resolve/main/Enterredaas-33b.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Enterredaas-33b.IQ3_S.gguf",
+            "size": "14064112160",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "218739cd36aa50d44fdfd38d079072c08a2c8c08098509bd3f3d90434cab31a6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Enterredaas-33b-GGUF/resolve/main/Enterredaas-33b.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Enterredaas-33b.IQ3_XS.gguf",
+            "size": "13311717920",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "7f3caa18fc8e9b00feaa468038193df131d58c602417a891ac63a7227d0ebc95",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Enterredaas-33b-GGUF/resolve/main/Enterredaas-33b.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Enterredaas-33b.IQ4_XS.gguf",
+            "size": "17476576800",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "41a0346710dedd33faea2720a1cc097a05acf1907a228e1e86ce89a5129001f4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Enterredaas-33b-GGUF/resolve/main/Enterredaas-33b.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Enterredaas-33b.Q2_K.gguf",
+            "size": "12048875040",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "03537283cb2473d5d2ca13d59dddfd5e26ad8feab3509c6b4e7b04c6a3339bc5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Enterredaas-33b-GGUF/resolve/main/Enterredaas-33b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Enterredaas-33b.Q3_K_L.gguf",
+            "size": "17279758880",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "9940958bc151812643cfbb1ae0cac52601dbe6a140f639b35e474063abb9b682",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Enterredaas-33b-GGUF/resolve/main/Enterredaas-33b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Enterredaas-33b.Q3_K_M.gguf",
+            "size": "15776461344",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "67b262a49e78d4f8abbab6a8f735bab1c7d3532098834bf8dfbbf77737ea862f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Enterredaas-33b-GGUF/resolve/main/Enterredaas-33b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Enterredaas-33b.Q3_K_S.gguf",
+            "size": "14064112160",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "cad5105a9ee2b47933f707f5f599bce4fbb16f2096f76ab2c454e0eb710cb15b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Enterredaas-33b-GGUF/resolve/main/Enterredaas-33b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Enterredaas-33b.Q4_K_M.gguf",
+            "size": "19621140000",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "7220e6d149d50d0a9aa69ef009761f7fdac53a174da57d18f4bbafe582f7cb6a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Enterredaas-33b-GGUF/resolve/main/Enterredaas-33b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Enterredaas-33b.Q4_K_S.gguf",
+            "size": "18482484768",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "14929c97e90364390a1f413fd30a4bffd585a2c0a6bdec0d393a3a3f6d88ad6d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Enterredaas-33b-GGUF/resolve/main/Enterredaas-33b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Enterredaas-33b.Q5_K_M.gguf",
+            "size": "23047116320",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "d754b5583ac3795514426b193c03aed1480c3478607f95f9dcf968793a453851",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Enterredaas-33b-GGUF/resolve/main/Enterredaas-33b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Enterredaas-33b.Q5_K_S.gguf",
+            "size": "22395360800",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "efe2923007cdd0b3e218a1a4ebc15881f95ec6fdcffbe61bfef01955d50debe0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Enterredaas-33b-GGUF/resolve/main/Enterredaas-33b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Enterredaas-33b.Q6_K.gguf",
+            "size": "26687216160",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "115160f254f17f112294755351af8a0f771e0d588103a3ccee31789ac2c0fc2f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Enterredaas-33b-GGUF/resolve/main/Enterredaas-33b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Enterredaas-33b.Q8_0.gguf",
+            "size": "34565124640",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "c4454494abb3640c0bbcc3c4ecbdea06c1beef1415ab60d0c693984ece27db3a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Enterredaas-33b-GGUF/resolve/main/Enterredaas-33b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

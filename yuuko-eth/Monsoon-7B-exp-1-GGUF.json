@@ -1,0 +1,63 @@
+{
+    "id": "yuuko-eth/Monsoon-7B-exp-1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "yuuko-eth",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-31T05:07:39Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Monsoon-7b-q4_0.gguf",
+            "size": "4279986208",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9ea73dd608fb408a1ca717543c6dabd5baf5e04a35b0027823e48abff6c1694b",
+            "download": {
+                "default": "https://huggingface.co/yuuko-eth/Monsoon-7B-exp-1-GGUF/resolve/main/Monsoon-7b-q4_0.gguf"
+            }
+        },
+        {
+            "name": "Monsoon-7b-q5_0.gguf",
+            "size": "5184081440",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8b6013e186f6bcc2b3a5ec85c12ea1ea4c7b2d15cc625dec6217f42f4b2a774f",
+            "download": {
+                "default": "https://huggingface.co/yuuko-eth/Monsoon-7B-exp-1-GGUF/resolve/main/Monsoon-7b-q5_0.gguf"
+            }
+        },
+        {
+            "name": "Monsoon-7b-q6_K.gguf",
+            "size": "6144682624",
+            "quantization": "",
+            "tags": [],
+            "sha256": "06414f204314c00f174988d5d5ec401570f592c4a69fe68ffc245751dbe8d848",
+            "download": {
+                "default": "https://huggingface.co/yuuko-eth/Monsoon-7B-exp-1-GGUF/resolve/main/Monsoon-7b-q6_K.gguf"
+            }
+        },
+        {
+            "name": "Monsoon-7b-q8_0.gguf",
+            "size": "7957747136",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2637a953e4552e8ebd86e91b67efde78e7bcd5adc84f60e806c15b17193ea987",
+            "download": {
+                "default": "https://huggingface.co/yuuko-eth/Monsoon-7B-exp-1-GGUF/resolve/main/Monsoon-7b-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

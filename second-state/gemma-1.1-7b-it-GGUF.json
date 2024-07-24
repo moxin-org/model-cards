@@ -1,0 +1,153 @@
+{
+    "id": "second-state/gemma-1.1-7b-it-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-10T05:29:10Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "gemma-1.1-7b-it-f16.gguf",
+            "size": "17081756608",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8374dc9da250dffb1ef78505964e8c072fe6688882f93dd72cb870c8a6f0981b",
+            "download": {
+                "default": "https://huggingface.co/second-state/gemma-1.1-7b-it-GGUF/resolve/main/gemma-1.1-7b-it-f16.gguf"
+            }
+        },
+        {
+            "name": "gemma-1.1-7b-it-Q2_K.gguf",
+            "size": "3481447392",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "b9cc84d76e1db3e9e054a7692f837f79177721a20d5dcdb1103d3e043d5a91d0",
+            "download": {
+                "default": "https://huggingface.co/second-state/gemma-1.1-7b-it-GGUF/resolve/main/gemma-1.1-7b-it-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "gemma-1.1-7b-it-Q3_K_L.gguf",
+            "size": "4709067744",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "0140da983c11e342b46ccedec9b82220c2efe54fe5bda3d1c20bf445d677b1fa",
+            "download": {
+                "default": "https://huggingface.co/second-state/gemma-1.1-7b-it-GGUF/resolve/main/gemma-1.1-7b-it-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "gemma-1.1-7b-it-Q3_K_M.gguf",
+            "size": "4369329120",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "8ca97bd41f823cd56954b23f1ebd5b5edb9145fc201f108c4486f2d98db2faac",
+            "download": {
+                "default": "https://huggingface.co/second-state/gemma-1.1-7b-it-GGUF/resolve/main/gemma-1.1-7b-it-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "gemma-1.1-7b-it-Q3_K_S.gguf",
+            "size": "3982404576",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "509ea44fbc8ffe021e920d9b788cfab0d3f6c342f46f0043096269881a68cdbf",
+            "download": {
+                "default": "https://huggingface.co/second-state/gemma-1.1-7b-it-GGUF/resolve/main/gemma-1.1-7b-it-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "gemma-1.1-7b-it-Q4_0.gguf",
+            "size": "5011844064",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "f7bea5456d3116ccb9c260f843de52980ab261e4638e827dcc50e0b5ccb80bad",
+            "download": {
+                "default": "https://huggingface.co/second-state/gemma-1.1-7b-it-GGUF/resolve/main/gemma-1.1-7b-it-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "gemma-1.1-7b-it-Q4_K_M.gguf",
+            "size": "5329759200",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "87b5061a63b7229dab43454d3d8314fcd422e21a53664d3b47c68ffd5c92d2e7",
+            "download": {
+                "default": "https://huggingface.co/second-state/gemma-1.1-7b-it-GGUF/resolve/main/gemma-1.1-7b-it-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "gemma-1.1-7b-it-Q4_K_S.gguf",
+            "size": "5046447072",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "669c00d0a65f83971986c3cc727cfeeb2be0011dc0fd455ca48bafdfacb9e7a1",
+            "download": {
+                "default": "https://huggingface.co/second-state/gemma-1.1-7b-it-GGUF/resolve/main/gemma-1.1-7b-it-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "gemma-1.1-7b-it-Q5_0.gguf",
+            "size": "5980728288",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "cb314ce447ac0f60c18cd5d8c36e0ef9cfb47ab3b5cc23aa167c11b2a499cb90",
+            "download": {
+                "default": "https://huggingface.co/second-state/gemma-1.1-7b-it-GGUF/resolve/main/gemma-1.1-7b-it-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "gemma-1.1-7b-it-Q5_K_M.gguf",
+            "size": "6144502752",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "aa05718f43a503beb5982cc772b18d6518a8947f8caf7dcc99aef5452b5a66c2",
+            "download": {
+                "default": "https://huggingface.co/second-state/gemma-1.1-7b-it-GGUF/resolve/main/gemma-1.1-7b-it-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "gemma-1.1-7b-it-Q5_K_S.gguf",
+            "size": "5980728288",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "cb5354bdb0e50c2633640c5fa48d15960fd00108f60845ee8858ee549104aaf9",
+            "download": {
+                "default": "https://huggingface.co/second-state/gemma-1.1-7b-it-GGUF/resolve/main/gemma-1.1-7b-it-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "gemma-1.1-7b-it-Q6_K.gguf",
+            "size": "7010167776",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "04fb3e9a78142df5f7352cf2cf5e6cc3a060937bdc131af55e266afed43ebf7f",
+            "download": {
+                "default": "https://huggingface.co/second-state/gemma-1.1-7b-it-GGUF/resolve/main/gemma-1.1-7b-it-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "gemma-1.1-7b-it-Q8_0.gguf",
+            "size": "9077844960",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "70840b7af2b7191b0088c7c2139e9f829324c03ad808f52db5578b4d03e9272c",
+            "download": {
+                "default": "https://huggingface.co/second-state/gemma-1.1-7b-it-GGUF/resolve/main/gemma-1.1-7b-it-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

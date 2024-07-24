@@ -1,0 +1,183 @@
+{
+    "id": "bartowski/Beyonder-4x7B-v3-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bartowski",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-23T17:00:16Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Beyonder-4x7B-v3-IQ3_M.gguf",
+            "size": "10646177760",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "53c55de31bff49305a8e62f2157336fb58f3c94114817ed09185a32e863a4506",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Beyonder-4x7B-v3-GGUF/resolve/main/Beyonder-4x7B-v3-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Beyonder-4x7B-v3-IQ3_S.gguf",
+            "size": "10450094048",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "5abc106a4b69db2235962b6cadaa7d34f4cc931f130fbd0a0582be079a8270d5",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Beyonder-4x7B-v3-GGUF/resolve/main/Beyonder-4x7B-v3-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Beyonder-4x7B-v3-IQ4_NL.gguf",
+            "size": "13756884960",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "ac16bb4096934da6695613ee9f1fa4870da0cc6c48df070aac9feda94e429a75",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Beyonder-4x7B-v3-GGUF/resolve/main/Beyonder-4x7B-v3-IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Beyonder-4x7B-v3-IQ4_XS.gguf",
+            "size": "13039757280",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "c9b1cfe848c783b973dd70a6d81dc5091150a7ddf217cccad4efcb7c3db98795",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Beyonder-4x7B-v3-GGUF/resolve/main/Beyonder-4x7B-v3-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Beyonder-4x7B-v3-Q2_K.gguf",
+            "size": "8841897952",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a9f5a4cbef7ffd85d0ff28440abb3dfae5aa350790cd0387b2a7b26d84e98941",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Beyonder-4x7B-v3-GGUF/resolve/main/Beyonder-4x7B-v3-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Beyonder-4x7B-v3-Q3_K_L.gguf",
+            "size": "12543051744",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "aeb5245c4f09b1298c5e6a009e256ea1764ab214f55edb4cd0dde502a564093a",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Beyonder-4x7B-v3-GGUF/resolve/main/Beyonder-4x7B-v3-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Beyonder-4x7B-v3-Q3_K_M.gguf",
+            "size": "11579410400",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "d40a5291dbcbbdcd43263c28e3ae598ffd17ac7345f068c0f4e941daf2065e3c",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Beyonder-4x7B-v3-GGUF/resolve/main/Beyonder-4x7B-v3-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Beyonder-4x7B-v3-Q3_K_S.gguf",
+            "size": "10432268256",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "f197a16cc3de45096346c31dfb29cff68ad16a0810a93d0e7371891ac26f9217",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Beyonder-4x7B-v3-GGUF/resolve/main/Beyonder-4x7B-v3-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Beyonder-4x7B-v3-Q4_0.gguf",
+            "size": "13622667232",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "d1acccaf75329e8b40dac5063e88f06b4fa58f4001e5c25e85f818b9775eaafa",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Beyonder-4x7B-v3-GGUF/resolve/main/Beyonder-4x7B-v3-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Beyonder-4x7B-v3-Q4_K_M.gguf",
+            "size": "14608852960",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "126e2f0b280388bcf563df6df18986f1212d868f7967765932e0960274db6a9e",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Beyonder-4x7B-v3-GGUF/resolve/main/Beyonder-4x7B-v3-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Beyonder-4x7B-v3-Q4_K_S.gguf",
+            "size": "13742204896",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "b83958c4cd28bcfc46d793281aa201a359757c6af17e485b8be396582245d727",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Beyonder-4x7B-v3-GGUF/resolve/main/Beyonder-4x7B-v3-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Beyonder-4x7B-v3-Q5_0.gguf",
+            "size": "16625395680",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "a8a8f925059a958982e8c93463a67693ffa07efe9975adf3e81c61fcf3b97b93",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Beyonder-4x7B-v3-GGUF/resolve/main/Beyonder-4x7B-v3-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Beyonder-4x7B-v3-Q5_K_M.gguf",
+            "size": "17133430752",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "2d77af454e2951893077e451f70319ae726edd9062267b5269d17fc0cb928c0f",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Beyonder-4x7B-v3-GGUF/resolve/main/Beyonder-4x7B-v3-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Beyonder-4x7B-v3-Q5_K_S.gguf",
+            "size": "16625395680",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "b70af960625c18c3e89f790244a0256f32e2e328769f6a96f8257c9830bf624c",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Beyonder-4x7B-v3-GGUF/resolve/main/Beyonder-4x7B-v3-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Beyonder-4x7B-v3-Q6_K.gguf",
+            "size": "19815794656",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "0d36dfe9cdfa82a0b6aeb6dc5f214fb9c98b7425433c9b58cfe2d62932fa3831",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Beyonder-4x7B-v3-GGUF/resolve/main/Beyonder-4x7B-v3-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Beyonder-4x7B-v3-Q8_0.gguf",
+            "size": "25665325024",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "249fc532416aeea7c738ce9b519f5f807c9c45a609183a9ab7a6f1eeb2b8b28b",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Beyonder-4x7B-v3-GGUF/resolve/main/Beyonder-4x7B-v3-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

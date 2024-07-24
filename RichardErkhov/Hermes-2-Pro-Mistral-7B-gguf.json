@@ -1,0 +1,43 @@
+{
+    "id": "RichardErkhov/Hermes-2-Pro-Mistral-7B-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "RichardErkhov",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-04T12:19:01Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Hermes-2-Pro-Mistral-7B.IQ3_XS.gguf",
+            "size": "3018979968",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "5335ea1476ef89e6308df292e7a482f48e4af36d92af26d46e4aa81ad921390b",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Hermes-2-Pro-Mistral-7B-gguf/resolve/main/Hermes-2-Pro-Mistral-7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Mistral-7B.Q2_K.gguf",
+            "size": "2719393408",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "03006de3d3028ee1776a24fc524d841d0b3326efb586b15fc4982aa85710850e",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Hermes-2-Pro-Mistral-7B-gguf/resolve/main/Hermes-2-Pro-Mistral-7B.Q2_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

@@ -1,0 +1,63 @@
+{
+    "id": "RichardErkhov/Mistral-7B-v0.2-hf-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "RichardErkhov",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-27T18:07:56Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Mistral-7B-v0.2-hf.IQ3_S.gguf",
+            "size": "3182393056",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "3eff289c7f9b586299a0220de35a126d92ea0d5ef22d6507a7d9179972bb5e4d",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Mistral-7B-v0.2-hf-gguf/resolve/main/Mistral-7B-v0.2-hf.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-v0.2-hf.IQ3_XS.gguf",
+            "size": "3018815200",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "183d6b5874c95ae122b605366ac98c7fbf1fd007bc356650d180f00542b8a659",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Mistral-7B-v0.2-hf-gguf/resolve/main/Mistral-7B-v0.2-hf.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-v0.2-hf.Q2_K.gguf",
+            "size": "2719241952",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "bf1d7d22493bcbf93be3c6ce4b11bbdc72a189c00d5ec537af7709fc24c21296",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Mistral-7B-v0.2-hf-gguf/resolve/main/Mistral-7B-v0.2-hf.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-v0.2-hf.Q3_K_S.gguf",
+            "size": "3164567264",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "a37bc1f21bc08f22b6d67e233243b892e3a81f49e2d0122bc58d541be2127c74",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Mistral-7B-v0.2-hf-gguf/resolve/main/Mistral-7B-v0.2-hf.Q3_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

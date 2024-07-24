@@ -1,0 +1,43 @@
+{
+    "id": "mradermacher/falcon-180B-WizardLM_Orca-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-04T09:41:19Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "falcon-180B-WizardLM_Orca.i1-IQ1_S.gguf",
+            "size": "38005721952",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "d94a88985a322766db8b16d499e413ab820d2cbaedfb7c53de49b0ff1175aa75",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/falcon-180B-WizardLM_Orca-i1-GGUF/resolve/main/falcon-180B-WizardLM_Orca.i1-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "falcon-180B-WizardLM_Orca.i1-IQ2_XXS.gguf",
+            "size": "46742403936",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "93e29976e8b5c446635f34684d190300f35a04dcf64a72169b0e8a0965a0645c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/falcon-180B-WizardLM_Orca-i1-GGUF/resolve/main/falcon-180B-WizardLM_Orca.i1-IQ2_XXS.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

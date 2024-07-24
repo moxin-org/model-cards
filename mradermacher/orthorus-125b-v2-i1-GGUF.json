@@ -1,0 +1,93 @@
+{
+    "id": "mradermacher/orthorus-125b-v2-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-05T20:03:55Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "orthorus-125b-v2.i1-IQ1_S.gguf",
+            "size": "26731153472",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "db2ec7e03036c1b02f322c5459999799ab5093b70338fe1cad70710be28b4184",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/orthorus-125b-v2-i1-GGUF/resolve/main/orthorus-125b-v2.i1-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "orthorus-125b-v2.i1-IQ2_M.gguf",
+            "size": "42418260032",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "655633bb5c5be4e44639c9c66d4373d587c3a432fcc04374f0ec7fc9bf6ac79d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/orthorus-125b-v2-i1-GGUF/resolve/main/orthorus-125b-v2.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "orthorus-125b-v2.i1-IQ2_S.gguf",
+            "size": "38853101632",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "8b848980e8c8f9f36460e4cca116451cb5859f612e0e8f162952ad6fec31a6a0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/orthorus-125b-v2-i1-GGUF/resolve/main/orthorus-125b-v2.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "orthorus-125b-v2.i1-IQ2_XS.gguf",
+            "size": "37594400832",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "2305a70b088aa834a3a8e50cea7fd306c0c40ffda4e7583ae422c71b489782bd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/orthorus-125b-v2-i1-GGUF/resolve/main/orthorus-125b-v2.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "orthorus-125b-v2.i1-IQ2_XXS.gguf",
+            "size": "33861470272",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "eeefa9146341e4b1727d3580a05791aaae2694d5f554274560dc631d5aa9b393",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/orthorus-125b-v2-i1-GGUF/resolve/main/orthorus-125b-v2.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "orthorus-125b-v2.i1-IQ3_XXS.gguf",
+            "size": "49034774592",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "97b41340bf34f80e54f27d453b3c19359b622f4de150d1c647167148ff11fe82",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/orthorus-125b-v2-i1-GGUF/resolve/main/orthorus-125b-v2.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "orthorus-125b-v2.i1-Q2_K.gguf",
+            "size": "46706526272",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "5c9c5f544ee13cc5c2c2b5dc03277e9df6e81c6d522eaa344ceed50e0e29c258",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/orthorus-125b-v2-i1-GGUF/resolve/main/orthorus-125b-v2.i1-Q2_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

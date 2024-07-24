@@ -1,0 +1,83 @@
+{
+    "id": "refarde/OPEN-SOLAR-KO-10.7B-S-Core-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "refarde",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-24T13:29:06Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "OPEN-SOLAR-KO-10.7B-S-Core-Q2_K.gguf",
+            "size": "4045494272",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "bc6e69198e0876482763dab5de4999fec7ffd03d0405430ce7d6d8799319c68f",
+            "download": {
+                "default": "https://huggingface.co/refarde/OPEN-SOLAR-KO-10.7B-S-Core-GGUF/resolve/main/OPEN-SOLAR-KO-10.7B-S-Core-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "OPEN-SOLAR-KO-10.7B-S-Core-Q4_0.gguf",
+            "size": "6155393024",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "caf27dbbce4e7772700069dbc63a4a4232749a540b7144039a27f1e176e8b9ae",
+            "download": {
+                "default": "https://huggingface.co/refarde/OPEN-SOLAR-KO-10.7B-S-Core-GGUF/resolve/main/OPEN-SOLAR-KO-10.7B-S-Core-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "OPEN-SOLAR-KO-10.7B-S-Core-Q4_K_M.gguf",
+            "size": "6544676864",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5731d9e9f0ebb9e26b5bf0e9fbabd708d54d2d125798423e81014e65102c4aec",
+            "download": {
+                "default": "https://huggingface.co/refarde/OPEN-SOLAR-KO-10.7B-S-Core-GGUF/resolve/main/OPEN-SOLAR-KO-10.7B-S-Core-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "OPEN-SOLAR-KO-10.7B-S-Core-Q4_K_S.gguf",
+            "size": "6201530368",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "e29cf2ea7d5b025a0e7350ae1c48c126d512184fa09065d43f70cf3a73bdba79",
+            "download": {
+                "default": "https://huggingface.co/refarde/OPEN-SOLAR-KO-10.7B-S-Core-GGUF/resolve/main/OPEN-SOLAR-KO-10.7B-S-Core-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "OPEN-SOLAR-KO-10.7B-S-Core-Q4_K.gguf",
+            "size": "6544676864",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "5731d9e9f0ebb9e26b5bf0e9fbabd708d54d2d125798423e81014e65102c4aec",
+            "download": {
+                "default": "https://huggingface.co/refarde/OPEN-SOLAR-KO-10.7B-S-Core-GGUF/resolve/main/OPEN-SOLAR-KO-10.7B-S-Core-Q4_K.gguf"
+            }
+        },
+        {
+            "name": "OPEN-SOLAR-KO-10.7B-S-Core-Q8_0.gguf",
+            "size": "11531524096",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "e34d90f97b253bd49d3fb536f6bc96f8ba4967a2dd82013fdb4d0d5d149c33df",
+            "download": {
+                "default": "https://huggingface.co/refarde/OPEN-SOLAR-KO-10.7B-S-Core-GGUF/resolve/main/OPEN-SOLAR-KO-10.7B-S-Core-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

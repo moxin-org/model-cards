@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Mestral-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-07T09:56:57Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Mestral-7B.IQ3_M.gguf",
+            "size": "3284901824",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "7b209f50d59c964139f26acd74a3081478c2fd5b39c8733b582943dbeff59245",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mestral-7B-GGUF/resolve/main/Mestral-7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Mestral-7B.IQ3_S.gguf",
+            "size": "3182403520",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "705b86b2ce12166e7ce75414b191501c2cbcf2d3e4d45ac78210537607ffa27b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mestral-7B-GGUF/resolve/main/Mestral-7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Mestral-7B.IQ3_XS.gguf",
+            "size": "3018825664",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "ec979f44ec6d3952f361f5f6847e1d5836e6834ffd26e32465bed03e93a6fa20",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mestral-7B-GGUF/resolve/main/Mestral-7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Mestral-7B.IQ4_XS.gguf",
+            "size": "3944399616",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "d2489addec78934bfbe9971bd8e16f0a654d4ecb9bb5741e0cebdb9b626fe639",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mestral-7B-GGUF/resolve/main/Mestral-7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Mestral-7B.Q2_K.gguf",
+            "size": "2719251584",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "5fc6462111e8a3b56c836597e28350b533089a446d2237e2f3eda7d13d7d573d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mestral-7B-GGUF/resolve/main/Mestral-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Mestral-7B.Q3_K_L.gguf",
+            "size": "3822034880",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "87cac7501d932a58594c711ef7ac12fe0c129cbfee8b18351827f54199cf7ffc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mestral-7B-GGUF/resolve/main/Mestral-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Mestral-7B.Q3_K_M.gguf",
+            "size": "3518996416",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "903a9ee954a82a3a536c01ab6a8bd2f2f6e228d511d4f6098f94d75af3ceed76",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mestral-7B-GGUF/resolve/main/Mestral-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mestral-7B.Q3_K_S.gguf",
+            "size": "3164577728",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "80c3824650efefe8e7875efc827e48761160f2a4f69e8d9d6c74ef10cdfd4033",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mestral-7B-GGUF/resolve/main/Mestral-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mestral-7B.Q4_K_M.gguf",
+            "size": "4368450560",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "bb8c58225207334768952581f07a493c2d9a5e4a338083af13c4d05c03eb9b73",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mestral-7B-GGUF/resolve/main/Mestral-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mestral-7B.Q4_K_S.gguf",
+            "size": "4140385280",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "22c4ac7625516a804af341359503d74314fa36c795438eca93188a85217a48df",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mestral-7B-GGUF/resolve/main/Mestral-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mestral-7B.Q5_K_M.gguf",
+            "size": "5131421696",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "31ef2f11599d35e62280a712e2e73ae79a259ffa3377ebd00e8c6f91c0278db7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mestral-7B-GGUF/resolve/main/Mestral-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mestral-7B.Q5_K_S.gguf",
+            "size": "4997728256",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "2e3754d9f7a631e7b2794976bf274c454c686c6a3c6bd84be7b0e8da0f7d582a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mestral-7B-GGUF/resolve/main/Mestral-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mestral-7B.Q6_K.gguf",
+            "size": "5942078528",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "66b60c0d966b542c07e8dbf0df7a8be1fc6b17adb1168cffc2c0dd8b89f7f4c4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mestral-7B-GGUF/resolve/main/Mestral-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Mestral-7B.Q8_0.gguf",
+            "size": "7695875008",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "edf1f2a233c47800151fee132130aa57f010f0e69d619f141be8043946b5bcf5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mestral-7B-GGUF/resolve/main/Mestral-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

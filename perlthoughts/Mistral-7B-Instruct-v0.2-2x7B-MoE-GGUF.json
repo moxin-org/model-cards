@@ -1,0 +1,63 @@
+{
+    "id": "perlthoughts/Mistral-7B-Instruct-v0.2-2x7B-MoE-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "perlthoughts",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-18T17:59:00Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistral-instruct-v0.2-2x7b-moe-q2_k.gguf",
+            "size": "4360796640",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2825b66b782941d2cbba0756c174cc53d293a3a66c940c6465af8b3f851e8e6d",
+            "download": {
+                "default": "https://huggingface.co/perlthoughts/Mistral-7B-Instruct-v0.2-2x7B-MoE-GGUF/resolve/main/mistral-instruct-v0.2-2x7b-moe-q2_k.gguf"
+            }
+        },
+        {
+            "name": "mistral-instruct-v0.2-2x7b-moe-q3_k_m.gguf",
+            "size": "5677488608",
+            "quantization": "",
+            "tags": [],
+            "sha256": "63c47d5f84233eaf60ef939c3fa60ca06a75165a358d3776536c0049384ae227",
+            "download": {
+                "default": "https://huggingface.co/perlthoughts/Mistral-7B-Instruct-v0.2-2x7B-MoE-GGUF/resolve/main/mistral-instruct-v0.2-2x7b-moe-q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "mistral-instruct-v0.2-2x7b-moe-q4_k_m.gguf",
+            "size": "7297645024",
+            "quantization": "",
+            "tags": [],
+            "sha256": "20ad4702f8880dfe6c40ce0797d36e4fc05833b9743dbaf7458d44d8ad33e4b0",
+            "download": {
+                "default": "https://huggingface.co/perlthoughts/Mistral-7B-Instruct-v0.2-2x7B-MoE-GGUF/resolve/main/mistral-instruct-v0.2-2x7b-moe-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "mistral-instruct-v0.2-2x7b-moe-q8_0.gguf",
+            "size": "13685856736",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c06dc9955b6c506c051e54dde002d42ad0328a866ca69e0a7802658672edb494",
+            "download": {
+                "default": "https://huggingface.co/perlthoughts/Mistral-7B-Instruct-v0.2-2x7B-MoE-GGUF/resolve/main/mistral-instruct-v0.2-2x7b-moe-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,153 @@
+{
+    "id": "second-state/glm-4-9b-chat-1m-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-07-08T06:49:40Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "glm-4-9b-chat-1m-f16.gguf",
+            "size": "18974822400",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c3ed7d6fd84067c15296f5a3cbdf4cba07b0214827ccb2808c88b97c19270fd3",
+            "download": {
+                "default": "https://huggingface.co/second-state/glm-4-9b-chat-1m-GGUF/resolve/main/glm-4-9b-chat-1m-f16.gguf"
+            }
+        },
+        {
+            "name": "glm-4-9b-chat-1m-Q2_K.gguf",
+            "size": "4019507200",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "1e39ce29e04f5f6f31e378ddaa0356deb11d6597e65d3d664e542d97cb1ef43d",
+            "download": {
+                "default": "https://huggingface.co/second-state/glm-4-9b-chat-1m-GGUF/resolve/main/glm-4-9b-chat-1m-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "glm-4-9b-chat-1m-Q3_K_L.gguf",
+            "size": "5328719872",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "8c7e977cce856aaeef639d68a2a2496c5e7d8f9d6c21a43129e2c44d32503a0f",
+            "download": {
+                "default": "https://huggingface.co/second-state/glm-4-9b-chat-1m-GGUF/resolve/main/glm-4-9b-chat-1m-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "glm-4-9b-chat-1m-Q3_K_M.gguf",
+            "size": "5111599104",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e173189cc362e6e465d982c2efc1727df889bb5b9811159257f3c027c9a3013a",
+            "download": {
+                "default": "https://huggingface.co/second-state/glm-4-9b-chat-1m-GGUF/resolve/main/glm-4-9b-chat-1m-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "glm-4-9b-chat-1m-Q3_K_S.gguf",
+            "size": "4623552512",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "f43fb964932443f6e405d5a948817def3b30d4ffefd8419da7bb229fd8ad1c46",
+            "download": {
+                "default": "https://huggingface.co/second-state/glm-4-9b-chat-1m-GGUF/resolve/main/glm-4-9b-chat-1m-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "glm-4-9b-chat-1m-Q4_0.gguf",
+            "size": "5502586880",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "6131cb51ac650b1233feefbe5f6ca993bb3a6514de22d48d7bdd6f7a2f7db0b6",
+            "download": {
+                "default": "https://huggingface.co/second-state/glm-4-9b-chat-1m-GGUF/resolve/main/glm-4-9b-chat-1m-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "glm-4-9b-chat-1m-Q4_K_M.gguf",
+            "size": "6308679680",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "0caf31f9d396e77bfc465824a5819fcdd5261bb082ab9f2bc4ed164973586425",
+            "download": {
+                "default": "https://huggingface.co/second-state/glm-4-9b-chat-1m-GGUF/resolve/main/glm-4-9b-chat-1m-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "glm-4-9b-chat-1m-Q4_K_S.gguf",
+            "size": "5800611840",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "7b09d0ac5825f4848ecbad30ead511f64867f8f901de013d5c955960c7bde64f",
+            "download": {
+                "default": "https://huggingface.co/second-state/glm-4-9b-chat-1m-GGUF/resolve/main/glm-4-9b-chat-1m-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "glm-4-9b-chat-1m-Q5_0.gguf",
+            "size": "6610407424",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "68a45ddc708e784ce094543a9bc49300845bb8873b5076bced963f1be6978835",
+            "download": {
+                "default": "https://huggingface.co/second-state/glm-4-9b-chat-1m-GGUF/resolve/main/glm-4-9b-chat-1m-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "glm-4-9b-chat-1m-Q5_K_M.gguf",
+            "size": "7212683264",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ac7a9ff8a3715134d1c6e21e26500d4fbdf690b6c187fd12b843d335ff8141b7",
+            "download": {
+                "default": "https://huggingface.co/second-state/glm-4-9b-chat-1m-GGUF/resolve/main/glm-4-9b-chat-1m-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "glm-4-9b-chat-1m-Q5_K_S.gguf",
+            "size": "6750654464",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "0e699c755ab74e00b0cb3723fc3e9babed308aff2bc5e8ad55806a87f17d57b2",
+            "download": {
+                "default": "https://huggingface.co/second-state/glm-4-9b-chat-1m-GGUF/resolve/main/glm-4-9b-chat-1m-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "glm-4-9b-chat-1m-Q6_K.gguf",
+            "size": "8330924032",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "71d1488572a211331b852a86e62d262293d64f2de3fa8469e1aa0a0ff628cdb5",
+            "download": {
+                "default": "https://huggingface.co/second-state/glm-4-9b-chat-1m-GGUF/resolve/main/glm-4-9b-chat-1m-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "glm-4-9b-chat-1m-Q8_0.gguf",
+            "size": "10084208640",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "5c0b5b35f3e0b51c032e19192a6641f01c5738e2ecfe129674b9583d3f2b03d4",
+            "download": {
+                "default": "https://huggingface.co/second-state/glm-4-9b-chat-1m-GGUF/resolve/main/glm-4-9b-chat-1m-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 4096,
+    "vector_size": 0,
+    "metrics": null
+}

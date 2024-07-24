@@ -1,0 +1,43 @@
+{
+    "id": "cmp-nct/ShareGPT4V-7B-quant-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "cmp-nct",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-06T13:40:51Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mmproj-model-f16.gguf",
+            "size": "624434336",
+            "quantization": "",
+            "tags": [],
+            "sha256": "eddb6117944f526454c8b35e9d9209a7ee99f6db005f6dd625debb514222795f",
+            "download": {
+                "default": "https://huggingface.co/cmp-nct/ShareGPT4V-7B-quant-gguf/resolve/main/mmproj-model-f16.gguf"
+            }
+        },
+        {
+            "name": "mmproj-model-Q6_K.gguf",
+            "size": "257730816",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "86b5c602c991c1baa45c3d2668b8dead0c239139c0678cfaff0f145f53672032",
+            "download": {
+                "default": "https://huggingface.co/cmp-nct/ShareGPT4V-7B-quant-gguf/resolve/main/mmproj-model-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

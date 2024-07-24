@@ -1,0 +1,153 @@
+{
+    "id": "ewof/koishi-7b-qlora-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "ewof",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-15T23:59:02Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-F16.gguf",
+            "size": "14484780800",
+            "quantization": "",
+            "tags": [],
+            "sha256": "745265185667dfdfe336f9d4e09ed77caf6b213eb32d9a97bce87a98377ea5d6",
+            "download": {
+                "default": "https://huggingface.co/ewof/koishi-7b-qlora-gguf/resolve/main/ggml-model-F16.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q2_K.gguf",
+            "size": "2719256096",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "34233ca361de1a463aaa5b728ccac26c456927731345f12b8eb2b7e598847b40",
+            "download": {
+                "default": "https://huggingface.co/ewof/koishi-7b-qlora-gguf/resolve/main/ggml-model-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q3_K_L.gguf",
+            "size": "3822039808",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "40f52efa6f77aa5c61f740ea48584808f5ec8cca93bfec4f9540e27b2d2cb637",
+            "download": {
+                "default": "https://huggingface.co/ewof/koishi-7b-qlora-gguf/resolve/main/ggml-model-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q3_K_M.gguf",
+            "size": "3519001344",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "c6d0dd403f84a924daa5a607894d4484b1e8108829df01e72c5f90dd25560575",
+            "download": {
+                "default": "https://huggingface.co/ewof/koishi-7b-qlora-gguf/resolve/main/ggml-model-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q3_K_S.gguf",
+            "size": "3164582656",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "22f5fd6369c94565bf5cf9a8fbda056e5c30a35df1ce0520403b2b9dc511f9f3",
+            "download": {
+                "default": "https://huggingface.co/ewof/koishi-7b-qlora-gguf/resolve/main/ggml-model-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q4_0.gguf",
+            "size": "4108933472",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "1d1ec583f58d01a475693fb64c30f626e8422274e1959688d02af60cb8d719e5",
+            "download": {
+                "default": "https://huggingface.co/ewof/koishi-7b-qlora-gguf/resolve/main/ggml-model-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q4_K_M.gguf",
+            "size": "4368456032",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "3974d3ed4e5a3426832dd63a81c46cc7ff4f12ce235d9afd2c615d3acde513dd",
+            "download": {
+                "default": "https://huggingface.co/ewof/koishi-7b-qlora-gguf/resolve/main/ggml-model-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q4_K_S.gguf",
+            "size": "4140390752",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "23bfe03a7d2b7033055f00b61dcac7a38540ce8e0f125fece67c30dac726cf0f",
+            "download": {
+                "default": "https://huggingface.co/ewof/koishi-7b-qlora-gguf/resolve/main/ggml-model-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q5_0.gguf",
+            "size": "4997734240",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "617ed8b4dfa5eeceebb0f0f40a51730cd7a39210c0d836114750951d7d851e0d",
+            "download": {
+                "default": "https://huggingface.co/ewof/koishi-7b-qlora-gguf/resolve/main/ggml-model-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q5_K_M.gguf",
+            "size": "5131427680",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "4a7a31f552427ca047d5d66d2217803fe14f9182a56f321f826d8adad07f4b85",
+            "download": {
+                "default": "https://huggingface.co/ewof/koishi-7b-qlora-gguf/resolve/main/ggml-model-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q5_K_S.gguf",
+            "size": "4997734240",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "d8e239babb9a27dd1ab88448966ba1dfd6ac0059fdb72f532d151e4b361fc1a4",
+            "download": {
+                "default": "https://huggingface.co/ewof/koishi-7b-qlora-gguf/resolve/main/ggml-model-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q6_K.gguf",
+            "size": "5942085056",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b1ce11994a1cae9a359e59e7b4fff5017ed8491344975cae5cb4dc0b61f19d63",
+            "download": {
+                "default": "https://huggingface.co/ewof/koishi-7b-qlora-gguf/resolve/main/ggml-model-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q8_0.gguf",
+            "size": "7695883520",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "2ddcd8444644f377eb431b0e36984839df0a7f04c4d9e10de015f106d03d250e",
+            "download": {
+                "default": "https://huggingface.co/ewof/koishi-7b-qlora-gguf/resolve/main/ggml-model-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

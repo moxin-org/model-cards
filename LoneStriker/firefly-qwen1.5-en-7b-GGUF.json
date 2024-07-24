@@ -1,0 +1,73 @@
+{
+    "id": "LoneStriker/firefly-qwen1.5-en-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LoneStriker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-02T19:19:42Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "firefly-qwen1.5-en-7b-Q3_K_L.gguf",
+            "size": "4217965728",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "cbd8e95c31fde5eb9d2a692af5443825fae128dea125f2e7a82ecd27ec981910",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/firefly-qwen1.5-en-7b-GGUF/resolve/main/firefly-qwen1.5-en-7b-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "firefly-qwen1.5-en-7b-Q4_K_M.gguf",
+            "size": "4767104160",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a08afbf3069dc9f51a4c78181529fff64c0c6abd70f448a54e1b45108c63573c",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/firefly-qwen1.5-en-7b-GGUF/resolve/main/firefly-qwen1.5-en-7b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "firefly-qwen1.5-en-7b-Q5_K_M.gguf",
+            "size": "5530664096",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "659e852440da3220dd74091d3995eb9bc0fb2e688a3f8859e3882a15e2453330",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/firefly-qwen1.5-en-7b-GGUF/resolve/main/firefly-qwen1.5-en-7b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "firefly-qwen1.5-en-7b-Q6_K.gguf",
+            "size": "6341946528",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "cf6e0b2d0485104ccb2c447fc362a812befe3a57e276988dfc0dfaa57138492a",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/firefly-qwen1.5-en-7b-GGUF/resolve/main/firefly-qwen1.5-en-7b-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "firefly-qwen1.5-en-7b-Q8_0.gguf",
+            "size": "8211795104",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "673264cb866e91fe55d0e8bdfce686d28c77c3da80664a426dbab9ead8625876",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/firefly-qwen1.5-en-7b-GGUF/resolve/main/firefly-qwen1.5-en-7b-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

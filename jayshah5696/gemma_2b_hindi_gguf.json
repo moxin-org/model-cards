@@ -1,0 +1,63 @@
+{
+    "id": "jayshah5696/gemma_2b_hindi_gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "jayshah5696",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-23T03:24:33Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "gemma-2b-hindi-fp16.gguf",
+            "size": "5018535584",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fbdd74bd36f717be19775a7bd7fe8435344373aee7f505ef1424501e7a61d505",
+            "download": {
+                "default": "https://huggingface.co/jayshah5696/gemma_2b_hindi_gguf/resolve/main/gemma-2b-hindi-fp16.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-hindi-Q4_0.gguf",
+            "size": "1416021696",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "efd66f682dec2c53e8fb43d0a06d8075b27f7d30d551db7990deb4c9da3ec0a2",
+            "download": {
+                "default": "https://huggingface.co/jayshah5696/gemma_2b_hindi_gguf/resolve/main/gemma-2b-hindi-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-hindi-Q4_K_S.gguf",
+            "size": "1424672448",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "99796db311d70710a312ef5c51cb8b7b497f71108ba53503a23866163af00180",
+            "download": {
+                "default": "https://huggingface.co/jayshah5696/gemma_2b_hindi_gguf/resolve/main/gemma-2b-hindi-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-hindi-Q6_K.gguf",
+            "size": "2062124736",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "354ae07cb74df1fa671c9a9cf9f2e58b0c8e1fa18340ddb8e77e2ba636a604e4",
+            "download": {
+                "default": "https://huggingface.co/jayshah5696/gemma_2b_hindi_gguf/resolve/main/gemma-2b-hindi-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

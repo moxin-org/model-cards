@@ -1,0 +1,103 @@
+{
+    "id": "bluuwhale/infinity-franken-GGUF-IQ-Imatrix",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bluuwhale",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-11T20:09:07Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "infinity-franken-F16.gguf",
+            "size": "21464586336",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f19c76235d24f4b0ec306ca20d2374a46de0366ec96356f3f81dcef851676cd5",
+            "download": {
+                "default": "https://huggingface.co/bluuwhale/infinity-franken-GGUF-IQ-Imatrix/resolve/main/infinity-franken-F16.gguf"
+            }
+        },
+        {
+            "name": "infinity-franken-IQ3_M.gguf",
+            "size": "4845049984",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "e17fc835f2c1a1c43d3ca4eb0ae750b63e44c93e31398853b50f6d27ee46cac8",
+            "download": {
+                "default": "https://huggingface.co/bluuwhale/infinity-franken-GGUF-IQ-Imatrix/resolve/main/infinity-franken-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "infinity-franken-IQ3_S.gguf",
+            "size": "4691302528",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "b64118fd2cc815fbef9f0bc19f5695a1d34f5fec129ca96298c35d33b0655ca3",
+            "download": {
+                "default": "https://huggingface.co/bluuwhale/infinity-franken-GGUF-IQ-Imatrix/resolve/main/infinity-franken-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "infinity-franken-Q4_K_M.gguf",
+            "size": "6461667456",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "8a953b26a0b9f34aea3e48c6ab5cadae5ca39871c40e4a1626f09216674cfe2b",
+            "download": {
+                "default": "https://huggingface.co/bluuwhale/infinity-franken-GGUF-IQ-Imatrix/resolve/main/infinity-franken-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "infinity-franken-Q5_K_M.gguf",
+            "size": "7597930624",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "c14bcc7798e6f7d621af8a07014a451ba57237115a68632b2754ae1b92733e2f",
+            "download": {
+                "default": "https://huggingface.co/bluuwhale/infinity-franken-GGUF-IQ-Imatrix/resolve/main/infinity-franken-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "infinity-franken-Q5_K_S.gguf",
+            "size": "7397390464",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "69b4130b2dd266c9085310c05486e0d591419f09d068ef93a1a97a8e36d8221b",
+            "download": {
+                "default": "https://huggingface.co/bluuwhale/infinity-franken-GGUF-IQ-Imatrix/resolve/main/infinity-franken-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "infinity-franken-Q6_K.gguf",
+            "size": "8805210240",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "3cf3b65e91d03faa8bf5458de27c099b3b3c5d4fd945887007d68a14136879d3",
+            "download": {
+                "default": "https://huggingface.co/bluuwhale/infinity-franken-GGUF-IQ-Imatrix/resolve/main/infinity-franken-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "infinity-franken-Q8_0.gguf",
+            "size": "11404155008",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "7bea8282f7c98c8a62807fa91e6b4238509aac137e735b08d099e2724e8e9dc1",
+            "download": {
+                "default": "https://huggingface.co/bluuwhale/infinity-franken-GGUF-IQ-Imatrix/resolve/main/infinity-franken-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

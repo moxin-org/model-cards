@@ -1,0 +1,93 @@
+{
+    "id": "afrideva/phi2-oasst-guanaco-bf16-custom-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-21T01:09:04Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "phi2-oasst-guanaco-bf16-custom.fp16.gguf",
+            "size": "5563088736",
+            "quantization": "",
+            "tags": [],
+            "sha256": "20a9d9ec135d811c632934c66fecad1739206fc0d098fd02b28acc3c000647f0",
+            "download": {
+                "default": "https://huggingface.co/afrideva/phi2-oasst-guanaco-bf16-custom-GGUF/resolve/main/phi2-oasst-guanaco-bf16-custom.fp16.gguf"
+            }
+        },
+        {
+            "name": "phi2-oasst-guanaco-bf16-custom.q2_k.gguf",
+            "size": "1173610368",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4c7c9099183bc3cad4b0262ca86c8913fd4c3bf67190ebd2259f7b72971260f3",
+            "download": {
+                "default": "https://huggingface.co/afrideva/phi2-oasst-guanaco-bf16-custom-GGUF/resolve/main/phi2-oasst-guanaco-bf16-custom.q2_k.gguf"
+            }
+        },
+        {
+            "name": "phi2-oasst-guanaco-bf16-custom.q3_k_m.gguf",
+            "size": "1480195968",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d847bc7ccac352f23862b53fc4a2aa8360f8a6454032a69f14dc464d13690eab",
+            "download": {
+                "default": "https://huggingface.co/afrideva/phi2-oasst-guanaco-bf16-custom-GGUF/resolve/main/phi2-oasst-guanaco-bf16-custom.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "phi2-oasst-guanaco-bf16-custom.q4_k_m.gguf",
+            "size": "1789239168",
+            "quantization": "",
+            "tags": [],
+            "sha256": "551bf49857cfdde2035676b5690bc4c5569729a0b394384924afab88c7c8b1c3",
+            "download": {
+                "default": "https://huggingface.co/afrideva/phi2-oasst-guanaco-bf16-custom-GGUF/resolve/main/phi2-oasst-guanaco-bf16-custom.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "phi2-oasst-guanaco-bf16-custom.q5_k_m.gguf",
+            "size": "2072682368",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4a3db401e4b70fe98f4bd34d046d738ea4e04c0c3c2c10a5683061851f4fcfd6",
+            "download": {
+                "default": "https://huggingface.co/afrideva/phi2-oasst-guanaco-bf16-custom-GGUF/resolve/main/phi2-oasst-guanaco-bf16-custom.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "phi2-oasst-guanaco-bf16-custom.q6_k.gguf",
+            "size": "2285059968",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c59701107327ea58cbe8caca343dc4800ca953c99cc60f537dd13bdf9ea272c2",
+            "download": {
+                "default": "https://huggingface.co/afrideva/phi2-oasst-guanaco-bf16-custom-GGUF/resolve/main/phi2-oasst-guanaco-bf16-custom.q6_k.gguf"
+            }
+        },
+        {
+            "name": "phi2-oasst-guanaco-bf16-custom.q8_0.gguf",
+            "size": "2958032768",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dc8e287e4762e76f72502616150da38916347a0a7e40b4bcd53899cac1d5a138",
+            "download": {
+                "default": "https://huggingface.co/afrideva/phi2-oasst-guanaco-bf16-custom-GGUF/resolve/main/phi2-oasst-guanaco-bf16-custom.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

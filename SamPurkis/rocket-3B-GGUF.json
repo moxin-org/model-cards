@@ -1,0 +1,53 @@
+{
+    "id": "SamPurkis/rocket-3B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "SamPurkis",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-22T11:02:40Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "rocket-3B.f16.gguf",
+            "size": "5593341312",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d5aad32446f4859639654f4505a9a04f11f2ecbbeef5786a861078abcb9d8415",
+            "download": {
+                "default": "https://huggingface.co/SamPurkis/rocket-3B-GGUF/resolve/main/rocket-3B.f16.gguf"
+            }
+        },
+        {
+            "name": "rocket-3B.Q4_K_M.gguf",
+            "size": "1708595136",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "8a73da71a990e3c164a5a1e0828f6e4176a60c25d4bcb308d044398f0f94b610",
+            "download": {
+                "default": "https://huggingface.co/SamPurkis/rocket-3B-GGUF/resolve/main/rocket-3B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "rocket-3B.Q6_K.gguf",
+            "size": "2295984576",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "fd34c35811d8265edb63940c598c7acc0e92e95f8ff6889718e780c9c510bacb",
+            "download": {
+                "default": "https://huggingface.co/SamPurkis/rocket-3B-GGUF/resolve/main/rocket-3B.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

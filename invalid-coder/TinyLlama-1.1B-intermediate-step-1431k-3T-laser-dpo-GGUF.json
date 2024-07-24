@@ -1,0 +1,43 @@
+{
+    "id": "invalid-coder/TinyLlama-1.1B-intermediate-step-1431k-3T-laser-dpo-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "invalid-coder",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-26T08:26:01Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-vocab-llama.gguf",
+            "size": "",
+            "quantization": "",
+            "tags": [],
+            "sha256": "",
+            "download": {
+                "default": "https://huggingface.co/invalid-coder/TinyLlama-1.1B-intermediate-step-1431k-3T-laser-dpo-GGUF/resolve/main/ggml-vocab-llama.gguf"
+            }
+        },
+        {
+            "name": "TinyLlama-1.1B-intermediate-step-1431k-3T-laser-dpo.Q4_K.gguf",
+            "size": "667814400",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "74c32bb851cedb5b5a99e355dd388b409cf341a05b50aca9a23e1f0befe806d2",
+            "download": {
+                "default": "https://huggingface.co/invalid-coder/TinyLlama-1.1B-intermediate-step-1431k-3T-laser-dpo-GGUF/resolve/main/TinyLlama-1.1B-intermediate-step-1431k-3T-laser-dpo.Q4_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,53 @@
+{
+    "id": "mradermacher/Midnight-Rose-103B-v2.0.3-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-09T23:50:24Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Midnight-Rose-103B-v2.0.3.Q2_K.gguf",
+            "size": "38226168064",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "8d5240cc79b7f09280821f2c6081619e3812eedced2e65ff31a4add4e72fe17a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Midnight-Rose-103B-v2.0.3-GGUF/resolve/main/Midnight-Rose-103B-v2.0.3.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Midnight-Rose-103B-v2.0.3.Q3_K_S.gguf",
+            "size": "44764449024",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "9100b17d4142d9b41d2dc4af05d99291139a2c81fe90e78a37112f279f4ba716",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Midnight-Rose-103B-v2.0.3-GGUF/resolve/main/Midnight-Rose-103B-v2.0.3.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Midnight-Rose-103B-v2.0.3.Q3_K_XS.gguf",
+            "size": "42267527424",
+            "quantization": "Q3_K_XS",
+            "tags": [],
+            "sha256": "dd1b2e01bf9cc73c1a0b92160ea56e4dd93337c73f1d6637b5a9ab0188622531",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Midnight-Rose-103B-v2.0.3-GGUF/resolve/main/Midnight-Rose-103B-v2.0.3.Q3_K_XS.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,43 @@
+{
+    "id": "SamPurkis/speechless-mistral-six-in-one-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "SamPurkis",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-16T12:59:05Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "speechless-mistral-six-in-one-7b.Q4_K_M.gguf",
+            "size": "4368438912",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e9b2b6cccbb4ec658e5fc199492dd4f9c955d581ef1985b198efba90e9f85c92",
+            "download": {
+                "default": "https://huggingface.co/SamPurkis/speechless-mistral-six-in-one-7b-GGUF/resolve/main/speechless-mistral-six-in-one-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "speechless-mistral-six-in-one-7b.Q6.gguf",
+            "size": "5942064768",
+            "quantization": "",
+            "tags": [],
+            "sha256": "335454dc2e5da3b67393580d231fa53896e2e71a03798202146d5c30f828eb19",
+            "download": {
+                "default": "https://huggingface.co/SamPurkis/speechless-mistral-six-in-one-7b-GGUF/resolve/main/speechless-mistral-six-in-one-7b.Q6.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

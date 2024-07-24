@@ -1,0 +1,73 @@
+{
+    "id": "Nekotekina/Qwen1.5-32B-Chat-GGUF-F32",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Nekotekina",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-08T21:18:40Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "qwen1_5-32b-chat.IQ4_XS.gguf",
+            "size": "17734766208",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "441b02e8e88dfc407a2008b9ab6da4be92b452f54c26bf4c83fc577aa6ce4d17",
+            "download": {
+                "default": "https://huggingface.co/Nekotekina/Qwen1.5-32B-Chat-GGUF-F32/resolve/main/qwen1_5-32b-chat.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "qwen1_5-32b-chat.Q3_K_M.gguf",
+            "size": "15815114368",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "da85d68b996a0042707012cb12ecc0fb8d63c77ce1c9efdc77e6461e57e0954f",
+            "download": {
+                "default": "https://huggingface.co/Nekotekina/Qwen1.5-32B-Chat-GGUF-F32/resolve/main/qwen1_5-32b-chat.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "qwen1_5-32b-chat.Q4_K_M.gguf",
+            "size": "19698962048",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "1c301ed238d8933999142d407c252934299aa97a98ea097fd56e3aa847484381",
+            "download": {
+                "default": "https://huggingface.co/Nekotekina/Qwen1.5-32B-Chat-GGUF-F32/resolve/main/qwen1_5-32b-chat.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "qwen1_5-32b-chat.Q5_K_M.gguf",
+            "size": "23083568768",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "92ff225f1e423bd2f11b2699d32bf6267e1b5e2711c1a3f95e9f65cd0ac07d8f",
+            "download": {
+                "default": "https://huggingface.co/Nekotekina/Qwen1.5-32B-Chat-GGUF-F32/resolve/main/qwen1_5-32b-chat.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "qwen1_5-32b-chat.Q6_K.gguf",
+            "size": "26679713408",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b1f7e0da76e3b41591ae0cf83caebfc991d54e6d695b95889ee9b535927d3846",
+            "download": {
+                "default": "https://huggingface.co/Nekotekina/Qwen1.5-32B-Chat-GGUF-F32/resolve/main/qwen1_5-32b-chat.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

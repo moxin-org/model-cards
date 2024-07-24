@@ -1,0 +1,173 @@
+{
+    "id": "gatepoet/Llama-2-7b-chat-norwegian-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "gatepoet",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-21T18:20:16Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Llama-2-7b-chat-norwegian.fp16.gguf",
+            "size": "13478104768",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7b608f50f6a06c65b92fd837325536bd2663386e68a68bd5d2035ff7339d818b",
+            "download": {
+                "default": "https://huggingface.co/gatepoet/Llama-2-7b-chat-norwegian-GGUF/resolve/main/Llama-2-7b-chat-norwegian.fp16.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-norwegian.fp8.gguf",
+            "size": "7161089728",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ae0879a870b73eccc2358ef8cb5874d2c682b3874d51a9b7cb9fd839b54a0b23",
+            "download": {
+                "default": "https://huggingface.co/gatepoet/Llama-2-7b-chat-norwegian-GGUF/resolve/main/Llama-2-7b-chat-norwegian.fp8.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-norwegian.q3_k_l.gguf",
+            "size": "3597111008",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e28cc57f88d00d6f65af26d9657db5fe5e4356709ce210793bbeb699dbecf65b",
+            "download": {
+                "default": "https://huggingface.co/gatepoet/Llama-2-7b-chat-norwegian-GGUF/resolve/main/Llama-2-7b-chat-norwegian.q3_k_l.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-norwegian.q3_k_m.gguf",
+            "size": "3298004704",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8b455ec9ec6752b5dfbb1c3f9054d9b2cf49250123dd049d6316404e8e80b73c",
+            "download": {
+                "default": "https://huggingface.co/gatepoet/Llama-2-7b-chat-norwegian-GGUF/resolve/main/Llama-2-7b-chat-norwegian.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-norwegian.q3_k_s.gguf",
+            "size": "2948304608",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ddc1d444582d6f9ffe16a5346c79f45652b9b068d38db782affa5792ed4cafa4",
+            "download": {
+                "default": "https://huggingface.co/gatepoet/Llama-2-7b-chat-norwegian-GGUF/resolve/main/Llama-2-7b-chat-norwegian.q3_k_s.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-norwegian.q4_0.gguf",
+            "size": "3825807072",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f07c0d9d0026318c7c6e0aca19a6b6420a6384c204ee7f7940e2bd85ee12370d",
+            "download": {
+                "default": "https://huggingface.co/gatepoet/Llama-2-7b-chat-norwegian-GGUF/resolve/main/Llama-2-7b-chat-norwegian.q4_0.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-norwegian.q4_1.gguf",
+            "size": "4238749408",
+            "quantization": "",
+            "tags": [],
+            "sha256": "aaaf802eebcd32e372eb75b1485af3399dd0539753f4a0a45e54c02a2b48bd9d",
+            "download": {
+                "default": "https://huggingface.co/gatepoet/Llama-2-7b-chat-norwegian-GGUF/resolve/main/Llama-2-7b-chat-norwegian.q4_1.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-norwegian.q4_k_m.gguf",
+            "size": "4081004256",
+            "quantization": "",
+            "tags": [],
+            "sha256": "02cced6b4a8a7a0b21fa39fe9de3dc0cae1585bf9beefbe98d7e1a498523e9ca",
+            "download": {
+                "default": "https://huggingface.co/gatepoet/Llama-2-7b-chat-norwegian-GGUF/resolve/main/Llama-2-7b-chat-norwegian.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-norwegian.q4_k_s.gguf",
+            "size": "3856740064",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8cd8506a809fc1ec4d34e4bdfb1d8b21729e0f5fa3fd147071afbbccfff8735c",
+            "download": {
+                "default": "https://huggingface.co/gatepoet/Llama-2-7b-chat-norwegian-GGUF/resolve/main/Llama-2-7b-chat-norwegian.q4_k_s.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-norwegian.q5_0.gguf",
+            "size": "4651691744",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4d17256771702e1087e30ba79ed65abb12afcc9529f85d2aaa7a5d4583665099",
+            "download": {
+                "default": "https://huggingface.co/gatepoet/Llama-2-7b-chat-norwegian-GGUF/resolve/main/Llama-2-7b-chat-norwegian.q5_0.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-norwegian.q5_1.gguf",
+            "size": "5064634080",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1ff386d497b84cbe07b3d801fb6fea8d60249cfea6d5c4879b6fcd69b9ea0e2f",
+            "download": {
+                "default": "https://huggingface.co/gatepoet/Llama-2-7b-chat-norwegian-GGUF/resolve/main/Llama-2-7b-chat-norwegian.q5_1.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-norwegian.q5_k_m.gguf",
+            "size": "4783156960",
+            "quantization": "",
+            "tags": [],
+            "sha256": "242b4302ce18d45d441b82ab5d972ff9d1333d0c7aa5fcf94c0765e0cd0202d4",
+            "download": {
+                "default": "https://huggingface.co/gatepoet/Llama-2-7b-chat-norwegian-GGUF/resolve/main/Llama-2-7b-chat-norwegian.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-norwegian.q5_k_s.gguf",
+            "size": "4651691744",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9f0d9f679221914d79679c763c26f89ae774ba2b3cc436ced01a9ee4710c7570",
+            "download": {
+                "default": "https://huggingface.co/gatepoet/Llama-2-7b-chat-norwegian-GGUF/resolve/main/Llama-2-7b-chat-norwegian.q5_k_s.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-norwegian.q6_k.gguf",
+            "size": "5529194208",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0466eb919d044657c4968ac802b11e03c40247a66ff6eaab5d576b5014b7e74d",
+            "download": {
+                "default": "https://huggingface.co/gatepoet/Llama-2-7b-chat-norwegian-GGUF/resolve/main/Llama-2-7b-chat-norwegian.q6_k.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-norwegian.q8_0.gguf",
+            "size": "7161089760",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f5bac5ae268b836d486b2b161e4ba9e9b2b50d2bf8fb639c799277965cfe0c26",
+            "download": {
+                "default": "https://huggingface.co/gatepoet/Llama-2-7b-chat-norwegian-GGUF/resolve/main/Llama-2-7b-chat-norwegian.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

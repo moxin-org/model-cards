@@ -1,0 +1,93 @@
+{
+    "id": "BoloniniD/internlm2-20b-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "BoloniniD",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-25T19:10:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "internlm2-Q3_K_M.gguf",
+            "size": "9722279136",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "7c39360d30293b7eb28cb220eee9f58c4728a864cabad3ca4650775565b3c718",
+            "download": {
+                "default": "https://huggingface.co/BoloniniD/internlm2-20b-gguf/resolve/main/internlm2-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "internlm2-Q3_K_S.gguf",
+            "size": "8760472800",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "49fee064f2550f8958fb538e363790ce4296ccfa446f55649ec9ded189d1be4b",
+            "download": {
+                "default": "https://huggingface.co/BoloniniD/internlm2-20b-gguf/resolve/main/internlm2-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "internlm2-Q4_K_M.gguf",
+            "size": "11984469216",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "44208b1952398f54ae01f68bfe8a627fa78919b3436da0d742367ba41ba7b053",
+            "download": {
+                "default": "https://huggingface.co/BoloniniD/internlm2-20b-gguf/resolve/main/internlm2-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "internlm2-Q4_K_S.gguf",
+            "size": "11401329888",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "3735204b6f5b27c57f1dae5c0a883bea113550225652ed25e75dc5f4af4e7981",
+            "download": {
+                "default": "https://huggingface.co/BoloniniD/internlm2-20b-gguf/resolve/main/internlm2-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "internlm2-Q5_K_M.gguf",
+            "size": "14075100384",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ccadaf220745b16347638c170eef0c93b4737d47f9dbfb51b4b13782c140bb45",
+            "download": {
+                "default": "https://huggingface.co/BoloniniD/internlm2-20b-gguf/resolve/main/internlm2-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "internlm2-Q5_K_S.gguf",
+            "size": "13734182112",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "be6d642e50323a566b0f90e37c34936ae5c40f155dd6b87f63d7fb9165f8df2a",
+            "download": {
+                "default": "https://huggingface.co/BoloniniD/internlm2-20b-gguf/resolve/main/internlm2-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "internlm2-Q6_K.gguf",
+            "size": "16296396000",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "e8af3bff4eeb720afb3ad9dc13febab1309be023c230d65bd1f42c6acdba71f5",
+            "download": {
+                "default": "https://huggingface.co/BoloniniD/internlm2-20b-gguf/resolve/main/internlm2-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

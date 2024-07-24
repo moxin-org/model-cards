@@ -1,0 +1,63 @@
+{
+    "id": "Undi95/Mistral-11B-CC-Air-RP-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Undi95",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-09T18:41:48Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Mistral-11B-CC-Air-RP.q4_k_m.gguf",
+            "size": "6461667360",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c279f6cd87d08855d5a3f5cac9d62566b1cb1f154fc52e35a9021cd769c3c0bd",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-11B-CC-Air-RP-GGUF/resolve/main/Mistral-11B-CC-Air-RP.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "Mistral-11B-CC-Air-RP.q5_k_m.gguf",
+            "size": "7597930528",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ddd904c5f031ce8742ec8aba4c9b8e72790f57bdcd3f9dbbb535538d34990577",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-11B-CC-Air-RP-GGUF/resolve/main/Mistral-11B-CC-Air-RP.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "Mistral-11B-CC-Air-RP.q6_k.gguf",
+            "size": "8805210144",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4ca7631fb2710d31ccfc4ec0131e0064a8e3be7bdbc1435582aabc95cd264fdb",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-11B-CC-Air-RP-GGUF/resolve/main/Mistral-11B-CC-Air-RP.q6_k.gguf"
+            }
+        },
+        {
+            "name": "Mistral-11B-CC-Air-RP.q8_0.gguf",
+            "size": "11404154912",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5b341bae2a91d6e6f7b260331a6337ed55ac7225edd8344ebe5b20042e59c31d",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-11B-CC-Air-RP-GGUF/resolve/main/Mistral-11B-CC-Air-RP.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

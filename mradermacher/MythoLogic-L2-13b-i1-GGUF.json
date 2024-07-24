@@ -1,0 +1,243 @@
+{
+    "id": "mradermacher/MythoLogic-L2-13b-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-27T19:53:41Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "MythoLogic-L2-13b.i1-IQ4_XS.gguf",
+            "size": "7157501920",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "ff1af4e706e599257720ff3747af3797ddcf6116b27bf4b4627256d840fc1c6f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoLogic-L2-13b-i1-GGUF/resolve/main/MythoLogic-L2-13b.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "MythoLogic-L2-13b.i1-Q6_K.gguf",
+            "size": "10872420320",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "435117dfa295ee6d5571b84375269dc02078fbf2349dae5b52bde4d9198f2688",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoLogic-L2-13b-i1-GGUF/resolve/main/MythoLogic-L2-13b.i1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "MythoLogic-L2-13b.i1-Q5_K_S.gguf",
+            "size": "9165565920",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "7a5fc549d4187b0d2486cf837c4ff4b7e1a4ce1bdf552b9306a7e8f7d8c05277",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoLogic-L2-13b-i1-GGUF/resolve/main/MythoLogic-L2-13b.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "MythoLogic-L2-13b.i1-Q5_K_M.gguf",
+            "size": "9423204320",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "c07fdb063a3a295cf8651a4bedb3e1df30a2a7f28e9c0321f412913e0e5b7a4a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoLogic-L2-13b-i1-GGUF/resolve/main/MythoLogic-L2-13b.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "MythoLogic-L2-13b.i1-Q4_K_S.gguf",
+            "size": "7616458720",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "efc81ad604658467524d5c4cf5e0db21fbf224b92338b986d72ac3a752312380",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoLogic-L2-13b-i1-GGUF/resolve/main/MythoLogic-L2-13b.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "MythoLogic-L2-13b.i1-Q4_K_M.gguf",
+            "size": "8059236320",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "627dd025793222c3adb4c0f2afa18cb328081574dd3facdb0b8f65ae007f0a53",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoLogic-L2-13b-i1-GGUF/resolve/main/MythoLogic-L2-13b.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "MythoLogic-L2-13b.i1-Q4_0.gguf",
+            "size": "7581233120",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "3c836dc915c841de20582ec2693eac7d164f5658cac749d314e28e45b7b07699",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoLogic-L2-13b-i1-GGUF/resolve/main/MythoLogic-L2-13b.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "MythoLogic-L2-13b.i1-Q3_K_S.gguf",
+            "size": "5852260320",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "f0406de6a3f6a07b80d716cc9b33683ea1fed65acc6ba8b24a97d60e3df89f2b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoLogic-L2-13b-i1-GGUF/resolve/main/MythoLogic-L2-13b.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "MythoLogic-L2-13b.i1-Q3_K_M.gguf",
+            "size": "6531049440",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "adccc14ab6be87c16dfa2ea123907d5a03f65ef2043b9e82bb8c25a3efccb152",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoLogic-L2-13b-i1-GGUF/resolve/main/MythoLogic-L2-13b.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "MythoLogic-L2-13b.i1-Q3_K_L.gguf",
+            "size": "7122839520",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "2b4d3709361e0faa7cc538677534accf974b226bd309b78892b7102b3f2d4c69",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoLogic-L2-13b-i1-GGUF/resolve/main/MythoLogic-L2-13b.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "MythoLogic-L2-13b.i1-Q2_K.gguf",
+            "size": "5047549920",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "8771cdef4eb6eb89dc2a6120b62c709a8491107c0bc06ed3cd034ce08e67dadc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoLogic-L2-13b-i1-GGUF/resolve/main/MythoLogic-L2-13b.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "MythoLogic-L2-13b.i1-IQ1_M.gguf",
+            "size": "3353649120",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "95c62367fb2e7650014e59ecac6248090d419125d5450b1c1dc8b64b67bd0d26",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoLogic-L2-13b-i1-GGUF/resolve/main/MythoLogic-L2-13b.i1-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "MythoLogic-L2-13b.i1-IQ4_NL.gguf",
+            "size": "7559114720",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "cb51575cf70b1f953d032685b317a280e57c3e6283f5b9cc29683345cec0a97c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoLogic-L2-13b-i1-GGUF/resolve/main/MythoLogic-L2-13b.i1-IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "MythoLogic-L2-13b.i1-IQ3_XXS.gguf",
+            "size": "5175601120",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "85ddebe057705241dd698b302b62414da1a5bbe35848da34b301470045b6febf",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoLogic-L2-13b-i1-GGUF/resolve/main/MythoLogic-L2-13b.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "MythoLogic-L2-13b.i1-IQ3_XS.gguf",
+            "size": "5554890720",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "8f2f2284a241795390b7bd74f7bd09478239f6bf4c3c2fa5b947e71a82f7daa8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoLogic-L2-13b-i1-GGUF/resolve/main/MythoLogic-L2-13b.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "MythoLogic-L2-13b.i1-IQ3_S.gguf",
+            "size": "5852260320",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "847c347dd41c30d98ec59c757a5e06089eba4bfc7de1733c852dad02952a18d5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoLogic-L2-13b-i1-GGUF/resolve/main/MythoLogic-L2-13b.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "MythoLogic-L2-13b.i1-IQ3_M.gguf",
+            "size": "6177789920",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "934b2c36c6ef3b2966ba935087d3b15e3212c320b4e2a71923554c6d53f9b673",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoLogic-L2-13b-i1-GGUF/resolve/main/MythoLogic-L2-13b.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "MythoLogic-L2-13b.i1-IQ2_XXS.gguf",
+            "size": "3753521120",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "30b2e3d8a564e8c74149072e8fba83f9df8432c7bf08e583d40b938f47f04520",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoLogic-L2-13b-i1-GGUF/resolve/main/MythoLogic-L2-13b.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "MythoLogic-L2-13b.i1-IQ2_XS.gguf",
+            "size": "4106186720",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "e807f70eda511f5e0d4a8eb2c7b4de9f976c41b4a1f77c1cc23784ded000e726",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoLogic-L2-13b-i1-GGUF/resolve/main/MythoLogic-L2-13b.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "MythoLogic-L2-13b.i1-IQ2_S.gguf",
+            "size": "4412721120",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "09614c2b74f5a8e6ac112f08aafad7fb1033ff5dc0c2f7ecbe6a520a46f5e597",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoLogic-L2-13b-i1-GGUF/resolve/main/MythoLogic-L2-13b.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "MythoLogic-L2-13b.i1-IQ2_M.gguf",
+            "size": "4732618720",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "a35e0d6c9b45ceb35f34c4841d3a68bee581e40081be0b9974f53ff8a3a8b237",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoLogic-L2-13b-i1-GGUF/resolve/main/MythoLogic-L2-13b.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "MythoLogic-L2-13b.i1-IQ1_S.gguf",
+            "size": "3113725920",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "c7bc1af54afb2e48b9bb96c0e49d97e091f6be8fa0047fba4fa5d1688c68d33b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoLogic-L2-13b-i1-GGUF/resolve/main/MythoLogic-L2-13b.i1-IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

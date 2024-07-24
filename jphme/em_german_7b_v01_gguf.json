@@ -1,0 +1,63 @@
+{
+    "id": "jphme/em_german_7b_v01_gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "jphme",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-25T14:02:57Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "em_german_7b_v01_Q4_K_M.gguf",
+            "size": "4081004224",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "aaab5f979fcd18cfaea0ecc6c10a759520367ed1293d21e64970b8a986a3d015",
+            "download": {
+                "default": "https://huggingface.co/jphme/em_german_7b_v01_gguf/resolve/main/em_german_7b_v01_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "em_german_7b_v01_Q4_K_S.gguf",
+            "size": "3856740032",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "092c936a5cc75fa92f39f6f8faa4c37e8e1c36f5df319aa3cb6bf42614a4bda8",
+            "download": {
+                "default": "https://huggingface.co/jphme/em_german_7b_v01_gguf/resolve/main/em_german_7b_v01_Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "em_german_7b_v01_Q5_K_M.gguf",
+            "size": "4783156928",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "3dfe3a046c40d084d304419c0bdd85d44f2533d6e22805163df7ba4a3cb6b1f0",
+            "download": {
+                "default": "https://huggingface.co/jphme/em_german_7b_v01_gguf/resolve/main/em_german_7b_v01_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "em_german_7b_v01_Q8_0.gguf",
+            "size": "7161089728",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "2976565fc91bdcb3982e82007698c48825cc307a5373072dc7826127037dacb5",
+            "download": {
+                "default": "https://huggingface.co/jphme/em_german_7b_v01_gguf/resolve/main/em_german_7b_v01_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

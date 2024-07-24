@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/Hermaid-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-24T09:39:46Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "hermaid-7b.Q3_K_S.gguf",
+            "size": "3164577600",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "badc8b7fc710c186ed2845283813ebe773ff12ed2df014e184ac26a7faf608e4",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Hermaid-7B-GGUF/resolve/main/hermaid-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "hermaid-7b.Q4_K_M.gguf",
+            "size": "4368450432",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "2b5d84aad3b2fa62f0f54cd9741abe9b474bee9b6f99af7497cca9a92fd206b2",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Hermaid-7B-GGUF/resolve/main/hermaid-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "hermaid-7b.Q5_K_M.gguf",
+            "size": "5131421568",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "44309d6458d88f8b009eaa54ba46ebb5a364f9f1bea068a14503f666612d5a95",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Hermaid-7B-GGUF/resolve/main/hermaid-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "hermaid-7b.Q6_K.gguf",
+            "size": "5942078400",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "0ef0110bace797b83ab5cca53fba2412ae5c06989a700fe7fc46dbb512faa476",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Hermaid-7B-GGUF/resolve/main/hermaid-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "hermaid-7b.Q8_0.gguf",
+            "size": "7695874880",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "8b1728f0338b97a92a5a8574ff12cf0a014a2bf678eac49d5e9b280dc2fa1b63",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Hermaid-7B-GGUF/resolve/main/hermaid-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

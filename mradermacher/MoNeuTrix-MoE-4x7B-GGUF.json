@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/MoNeuTrix-MoE-4x7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-25T14:36:55Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "MoNeuTrix-MoE-4x7B.IQ3_M.gguf",
+            "size": "10800801568",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "48bcb43445d009996205311ac3e53deb59c8947c0d4c4e214b0a988c539a5695",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MoNeuTrix-MoE-4x7B-GGUF/resolve/main/MoNeuTrix-MoE-4x7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "MoNeuTrix-MoE-4x7B.IQ3_S.gguf",
+            "size": "10604717856",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "d6c61129f4a44f126d72532f55cf6db7f7ed2649e70914d30c788ebba07ed10a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MoNeuTrix-MoE-4x7B-GGUF/resolve/main/MoNeuTrix-MoE-4x7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "MoNeuTrix-MoE-4x7B.IQ3_XS.gguf",
+            "size": "10011748128",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "76f034f784ef91c893db3843851906b3dd6d1389a0d86bbe6e93c43fc4d3de04",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MoNeuTrix-MoE-4x7B-GGUF/resolve/main/MoNeuTrix-MoE-4x7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "MoNeuTrix-MoE-4x7B.IQ4_NL.gguf",
+            "size": "13911508768",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "ae61da9b4e96fa53832148ea036de72ac19741b9e6033ccaa521cac0e36f1459",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MoNeuTrix-MoE-4x7B-GGUF/resolve/main/MoNeuTrix-MoE-4x7B.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "MoNeuTrix-MoE-4x7B.IQ4_XS.gguf",
+            "size": "13194381088",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "61a095c65d462219dcc000b401cbe8a9bbcb69da28b16f1e901589c3610b2ef0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MoNeuTrix-MoE-4x7B-GGUF/resolve/main/MoNeuTrix-MoE-4x7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "MoNeuTrix-MoE-4x7B.Q2_K.gguf",
+            "size": "8996521760",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "be695e2ec0516f757b9907b7c1144d82044496d29e5962ab036f8d697df27fab",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MoNeuTrix-MoE-4x7B-GGUF/resolve/main/MoNeuTrix-MoE-4x7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "MoNeuTrix-MoE-4x7B.Q3_K_L.gguf",
+            "size": "12697675552",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "ac0380c4f15c1f81d83681bd99daf55ff3f46c6ec718e0c431c360b2316a113c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MoNeuTrix-MoE-4x7B-GGUF/resolve/main/MoNeuTrix-MoE-4x7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "MoNeuTrix-MoE-4x7B.Q3_K_M.gguf",
+            "size": "11734034208",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "9ece6bdad494f4acca7c0eb5bbb344a45c748c745325bb8ff5862b1711e02ebd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MoNeuTrix-MoE-4x7B-GGUF/resolve/main/MoNeuTrix-MoE-4x7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "MoNeuTrix-MoE-4x7B.Q3_K_S.gguf",
+            "size": "10586892064",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "075e4082c67cde1073dd0c49b0a5b993b41540732304e295e90b49d9d151a9b2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MoNeuTrix-MoE-4x7B-GGUF/resolve/main/MoNeuTrix-MoE-4x7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "MoNeuTrix-MoE-4x7B.Q4_0.gguf",
+            "size": "13777291040",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "f76db7729fda871f7e806d54cb8834021c013825257375c49496a8691d399176",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MoNeuTrix-MoE-4x7B-GGUF/resolve/main/MoNeuTrix-MoE-4x7B.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "MoNeuTrix-MoE-4x7B.Q4_K_M.gguf",
+            "size": "14763476768",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "0557738a5ee2cdc1b30948717538accb0d27455a2d47795adde57d96abb01a00",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MoNeuTrix-MoE-4x7B-GGUF/resolve/main/MoNeuTrix-MoE-4x7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "MoNeuTrix-MoE-4x7B.Q4_K_S.gguf",
+            "size": "13896828704",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "0b6ba57b5e95239a8e516d7ab7cefb5ddc425d0889768ad81cbb132c655e2da8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MoNeuTrix-MoE-4x7B-GGUF/resolve/main/MoNeuTrix-MoE-4x7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "MoNeuTrix-MoE-4x7B.Q5_K_M.gguf",
+            "size": "17288054560",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "180a63b06314077640675b61b138776e13ed3d7161b679dee72e2619222d5e4d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MoNeuTrix-MoE-4x7B-GGUF/resolve/main/MoNeuTrix-MoE-4x7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "MoNeuTrix-MoE-4x7B.Q5_K_S.gguf",
+            "size": "16780019488",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "be9550856ab190bbf1d8ab6cf5a6de7c06e70c404342374726eedf9212998ea0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MoNeuTrix-MoE-4x7B-GGUF/resolve/main/MoNeuTrix-MoE-4x7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "MoNeuTrix-MoE-4x7B.Q6_K.gguf",
+            "size": "19970418464",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "ee3b52cf07e642b7b8c7ded9d1ddc6d6205d4d0e466b08af70dc186fb83f65e1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MoNeuTrix-MoE-4x7B-GGUF/resolve/main/MoNeuTrix-MoE-4x7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "MoNeuTrix-MoE-4x7B.Q8_0.gguf",
+            "size": "25788204832",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "4759cc47c4e8944aa97fc2acde8637c8b989f7800c91ddf51a2fc4b44bcf5789",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MoNeuTrix-MoE-4x7B-GGUF/resolve/main/MoNeuTrix-MoE-4x7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

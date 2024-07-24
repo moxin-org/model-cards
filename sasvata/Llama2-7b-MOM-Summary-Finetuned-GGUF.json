@@ -1,0 +1,43 @@
+{
+    "id": "sasvata/Llama2-7b-MOM-Summary-Finetuned-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "sasvata",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-28T19:23:16Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Llama-2-7b-MOM_Summar.Q2_K.gguf",
+            "size": "2532863744",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "c6b00434ab8ab8907c9c99110ca6decc7aa2056bd10944242316bdb7f3b6784b",
+            "download": {
+                "default": "https://huggingface.co/sasvata/Llama2-7b-MOM-Summary-Finetuned-GGUF/resolve/main/Llama-2-7b-MOM_Summar.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-MOM_Summar.Q4_K_S.gguf",
+            "size": "2948304640",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "d55aa45efb3f614962f6ccca7fe2ab44789bd85a9af2bf74fb99abe42ec91051",
+            "download": {
+                "default": "https://huggingface.co/sasvata/Llama2-7b-MOM-Summary-Finetuned-GGUF/resolve/main/Llama-2-7b-MOM_Summar.Q4_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

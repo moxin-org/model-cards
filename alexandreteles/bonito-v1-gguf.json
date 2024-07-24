@@ -1,0 +1,93 @@
+{
+    "id": "alexandreteles/bonito-v1-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "alexandreteles",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-27T05:26:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "bonito-v1_f16.gguf",
+            "size": "14484731456",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b7fee70d4f7a71e4ad20350996af5fbece4ce8b45883c4f0478174c44bc56e6c",
+            "download": {
+                "default": "https://huggingface.co/alexandreteles/bonito-v1-gguf/resolve/main/bonito-v1_f16.gguf"
+            }
+        },
+        {
+            "name": "bonito-v1_iq4_nl.gguf",
+            "size": "4155053696",
+            "quantization": "",
+            "tags": [],
+            "sha256": "664d99dfb50803ae680a2bf8f853a35f4d6b659954a88298b099d1eb702ea77a",
+            "download": {
+                "default": "https://huggingface.co/alexandreteles/bonito-v1-gguf/resolve/main/bonito-v1_iq4_nl.gguf"
+            }
+        },
+        {
+            "name": "bonito-v1_q4_k_m.gguf",
+            "size": "4368438912",
+            "quantization": "",
+            "tags": [],
+            "sha256": "40cbacae0bddf81c8ab51245028a82b3ba58835c1a9feee82e4db87677439695",
+            "download": {
+                "default": "https://huggingface.co/alexandreteles/bonito-v1-gguf/resolve/main/bonito-v1_q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "bonito-v1_q5_k_m.gguf",
+            "size": "5131409024",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7f14c326226fa3ab5c9b0a86771aca28096892cb9ac8b775387e749c20002df5",
+            "download": {
+                "default": "https://huggingface.co/alexandreteles/bonito-v1-gguf/resolve/main/bonito-v1_q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "bonito-v1_q5_k_s.gguf",
+            "size": "4997715584",
+            "quantization": "",
+            "tags": [],
+            "sha256": "76230d2604423c50f15e0268e9a1dea6f8215bec3533c86ffb1c12c091f231e6",
+            "download": {
+                "default": "https://huggingface.co/alexandreteles/bonito-v1-gguf/resolve/main/bonito-v1_q5_k_s.gguf"
+            }
+        },
+        {
+            "name": "bonito-v1_q6_k.gguf",
+            "size": "5942064768",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ed7c2e90e9be02bbeffebea0d83e59cce509d7c3cd0fe0cd72ed54b57e1dc9f8",
+            "download": {
+                "default": "https://huggingface.co/alexandreteles/bonito-v1-gguf/resolve/main/bonito-v1_q6_k.gguf"
+            }
+        },
+        {
+            "name": "bonito-v1_q8_0.gguf",
+            "size": "7695857280",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d457be242e703ede4debcdb42c0efa8dcef59931ac6bb34aed2a329ecb8d1bc5",
+            "download": {
+                "default": "https://huggingface.co/alexandreteles/bonito-v1-gguf/resolve/main/bonito-v1_q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

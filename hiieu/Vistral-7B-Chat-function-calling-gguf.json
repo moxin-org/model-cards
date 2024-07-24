@@ -1,0 +1,43 @@
+{
+    "id": "hiieu/Vistral-7B-Chat-function-calling-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "hiieu",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-12T13:40:36Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-vistral-7b-chat-function-calling-f16.gguf",
+            "size": "14589230240",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9c86672ae9d3dc1cb5a14ee9ccf33f69c0fe7887ae4a3f83eec941f9fba9568f",
+            "download": {
+                "default": "https://huggingface.co/hiieu/Vistral-7B-Chat-function-calling-gguf/resolve/main/ggml-vistral-7b-chat-function-calling-f16.gguf"
+            }
+        },
+        {
+            "name": "ggml-vistral-7b-chat-function-calling-q4_0.gguf",
+            "size": "4404661984",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6f5da21206364fccf2f6a8b926da90f8e31c65c59e0228312c3c3695c8d97d83",
+            "download": {
+                "default": "https://huggingface.co/hiieu/Vistral-7B-Chat-function-calling-gguf/resolve/main/ggml-vistral-7b-chat-function-calling-q4_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

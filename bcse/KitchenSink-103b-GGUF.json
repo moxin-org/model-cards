@@ -1,0 +1,63 @@
+{
+    "id": "bcse/KitchenSink-103b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bcse",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-22T15:52:46Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "kitchensink-103b.Q2_K.gguf",
+            "size": "37916920032",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "8d7e60de68c96e1d74175203f3171892975ee09ae52ec55e9e615c250368b38f",
+            "download": {
+                "default": "https://huggingface.co/bcse/KitchenSink-103b-GGUF/resolve/main/kitchensink-103b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "kitchensink-103b.Q3_K_M.gguf",
+            "size": "49609476320",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "5aed057e20c71cac22456f4a044b73bbce3dd372b14309f1520ae1e3081cbf03",
+            "download": {
+                "default": "https://huggingface.co/bcse/KitchenSink-103b-GGUF/resolve/main/kitchensink-103b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "kitchensink-103b.Q3_K_S.gguf",
+            "size": "44455200992",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "a398b7fb1f4aa2432794ddb13696c5e8a74db574675bf1e7238e775242916238",
+            "download": {
+                "default": "https://huggingface.co/bcse/KitchenSink-103b-GGUF/resolve/main/kitchensink-103b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "kitchensink-103b.Q3_K_XS.gguf",
+            "size": "41958279392",
+            "quantization": "Q3_K_XS",
+            "tags": [],
+            "sha256": "c2a7ed6515aa97900527de3cb4816c646f23c55e331258b4d120aea4c424d8b5",
+            "download": {
+                "default": "https://huggingface.co/bcse/KitchenSink-103b-GGUF/resolve/main/kitchensink-103b.Q3_K_XS.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

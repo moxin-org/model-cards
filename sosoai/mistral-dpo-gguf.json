@@ -1,0 +1,53 @@
+{
+    "id": "sosoai/mistral-dpo-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "sosoai",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-14T21:38:13Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-f16.gguf",
+            "size": "14484731584",
+            "quantization": "",
+            "tags": [],
+            "sha256": "bff145e71f2ba218294548ff5594ca43ad476636a635abcb50f31943e10a162c",
+            "download": {
+                "default": "https://huggingface.co/sosoai/mistral-dpo-gguf/resolve/main/ggml-model-f16.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_0-v2.gguf",
+            "size": "4108916480",
+            "quantization": "",
+            "tags": [],
+            "sha256": "238b0f224ae2f9ea8ab85a96093022ab468713ec27c6ca73df5bf67ebd910818",
+            "download": {
+                "default": "https://huggingface.co/sosoai/mistral-dpo-gguf/resolve/main/ggml-model-q4_0-v2.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_0.gguf",
+            "size": "4108916480",
+            "quantization": "",
+            "tags": [],
+            "sha256": "238b0f224ae2f9ea8ab85a96093022ab468713ec27c6ca73df5bf67ebd910818",
+            "download": {
+                "default": "https://huggingface.co/sosoai/mistral-dpo-gguf/resolve/main/ggml-model-q4_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

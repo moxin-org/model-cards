@@ -1,0 +1,143 @@
+{
+    "id": "mradermacher/Xwin-longLORA-70b-rope8-32k-fp16-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-09T11:11:41Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Xwin-longLORA-70b-rope8-32k-fp16.IQ3_M.gguf",
+            "size": "30944277600",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "c398c3ac3e63d1489b397c9412af60d4490285e8666c963e5f31657a4a0bd431",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Xwin-longLORA-70b-rope8-32k-fp16-GGUF/resolve/main/Xwin-longLORA-70b-rope8-32k-fp16.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Xwin-longLORA-70b-rope8-32k-fp16.IQ3_S.gguf",
+            "size": "29919294560",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "6abbf517d7a4bb02f08c200294c8b7e91de70fa3868253531569ccc9884b7a3f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Xwin-longLORA-70b-rope8-32k-fp16-GGUF/resolve/main/Xwin-longLORA-70b-rope8-32k-fp16.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Xwin-longLORA-70b-rope8-32k-fp16.IQ3_XS.gguf",
+            "size": "28314973280",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "8324c8cbe3ebc43d0f940fff3dc0b15b5f57fd5d5a05f01bbb084e6284850f66",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Xwin-longLORA-70b-rope8-32k-fp16-GGUF/resolve/main/Xwin-longLORA-70b-rope8-32k-fp16.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Xwin-longLORA-70b-rope8-32k-fp16.IQ4_XS.gguf",
+            "size": "37196821600",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "2c2f5d91e87f667cd1699d1f65d22c6ba9f2e831a87b9591a55a52a2803917ad",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Xwin-longLORA-70b-rope8-32k-fp16-GGUF/resolve/main/Xwin-longLORA-70b-rope8-32k-fp16.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Xwin-longLORA-70b-rope8-32k-fp16.Q2_K.gguf",
+            "size": "25462436960",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "b169568eab8573171c187c61877afbff289212bce5f2ffb05c5ec5f8e721bb2c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Xwin-longLORA-70b-rope8-32k-fp16-GGUF/resolve/main/Xwin-longLORA-70b-rope8-32k-fp16.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Xwin-longLORA-70b-rope8-32k-fp16.Q3_K_L.gguf",
+            "size": "36147836000",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "d9c23a76111eaefd5e32a29f98976ed84b519f4558113329ca3e7262a049ac06",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Xwin-longLORA-70b-rope8-32k-fp16-GGUF/resolve/main/Xwin-longLORA-70b-rope8-32k-fp16.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Xwin-longLORA-70b-rope8-32k-fp16.Q3_K_M.gguf",
+            "size": "33274737760",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "758f817b615dd34fac9f5715224e1f1e01c662fa5197aac18ec09e6fce713e92",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Xwin-longLORA-70b-rope8-32k-fp16-GGUF/resolve/main/Xwin-longLORA-70b-rope8-32k-fp16.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Xwin-longLORA-70b-rope8-32k-fp16.Q3_K_S.gguf",
+            "size": "29919294560",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "83fd9816d899574837fdda8f70ae28a2bbe1318a9c3c0f7f097f9d7fec7b6de4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Xwin-longLORA-70b-rope8-32k-fp16-GGUF/resolve/main/Xwin-longLORA-70b-rope8-32k-fp16.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Xwin-longLORA-70b-rope8-32k-fp16.Q4_K_M.gguf",
+            "size": "41422910560",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "34d549a09518c08d8e950ab98924b8ce9e6dccde78cc2d2a8a2b76578bcab3d8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Xwin-longLORA-70b-rope8-32k-fp16-GGUF/resolve/main/Xwin-longLORA-70b-rope8-32k-fp16.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Xwin-longLORA-70b-rope8-32k-fp16.Q4_K_S.gguf",
+            "size": "39249736800",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "e95431a7ebca7edd31ddce649e1d0b36af2eedf52a0f0e8d5334db2d8d059991",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Xwin-longLORA-70b-rope8-32k-fp16-GGUF/resolve/main/Xwin-longLORA-70b-rope8-32k-fp16.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Xwin-longLORA-70b-rope8-32k-fp16.Q5_K_M.gguf",
+            "size": "48753767520",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "1d51287796c212370f081a5001ef91cb108070c0dc8e60de7bedf021ae9739b6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Xwin-longLORA-70b-rope8-32k-fp16-GGUF/resolve/main/Xwin-longLORA-70b-rope8-32k-fp16.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Xwin-longLORA-70b-rope8-32k-fp16.Q5_K_S.gguf",
+            "size": "47461397600",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "2bfab0a1d35355b5acc1f5e026ac838090dc1b32f3a2741f0cda021d12daaf7a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Xwin-longLORA-70b-rope8-32k-fp16-GGUF/resolve/main/Xwin-longLORA-70b-rope8-32k-fp16.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

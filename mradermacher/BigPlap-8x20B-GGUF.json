@@ -1,0 +1,43 @@
+{
+    "id": "mradermacher/BigPlap-8x20B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-14T04:01:55Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "BigPlap-8x20B.IQ3_XS.gguf",
+            "size": "48226462048",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "2bef7f62b1106f4cb5810d22a33c81dbd2fadf2c8ca20e37d6f977c958904688",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BigPlap-8x20B-GGUF/resolve/main/BigPlap-8x20B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "BigPlap-8x20B.Q2_K.gguf",
+            "size": "43617632608",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a2244f25ac9d1ed32130c44078698c86f0b12e130eba14a03be071fa3a0e97c1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BigPlap-8x20B-GGUF/resolve/main/BigPlap-8x20B.Q2_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

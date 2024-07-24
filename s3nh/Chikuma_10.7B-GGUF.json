@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/Chikuma_10.7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-15T11:40:26Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "chikuma_10.7b.Q3_K_S.gguf",
+            "size": "4664574528",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "642646f662af047abe4d8c67dd10b06c6d5a6623da7052663d2871455f074384",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Chikuma_10.7B-GGUF/resolve/main/chikuma_10.7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "chikuma_10.7b.Q4_K_M.gguf",
+            "size": "6461679232",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "82bba254378c5986206db3e6a947a5165b3bfd1401c331b83f2314e185caf888",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Chikuma_10.7B-GGUF/resolve/main/chikuma_10.7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "chikuma_10.7b.Q5_K_M.gguf",
+            "size": "7597943424",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "3a0500fae4876f4930035c118a367fc9a86d3e50321545559427d165747f83f0",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Chikuma_10.7B-GGUF/resolve/main/chikuma_10.7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "chikuma_10.7b.Q6_K.gguf",
+            "size": "8805224128",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "33e72a052a7d05c98038ccebd7c4b0c17b591f0e2a5f179a05ad7ed91a7cc643",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Chikuma_10.7B-GGUF/resolve/main/chikuma_10.7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "chikuma_10.7b.Q8_0.gguf",
+            "size": "11404172864",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "88b4d5623209c1bb39c698be2faf70d219d58893412eaf93771161bbaefda13a",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Chikuma_10.7B-GGUF/resolve/main/chikuma_10.7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,93 @@
+{
+    "id": "afrideva/japanese-mistral-300m-instruction-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-29T01:54:58Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "japanese-mistral-300m-instruction.fp16.gguf",
+            "size": "712325280",
+            "quantization": "",
+            "tags": [],
+            "sha256": "289f298d0329cd7aff16b1a12f8cb0ccc28eeee582fd5388f844fcb185940058",
+            "download": {
+                "default": "https://huggingface.co/afrideva/japanese-mistral-300m-instruction-GGUF/resolve/main/japanese-mistral-300m-instruction.fp16.gguf"
+            }
+        },
+        {
+            "name": "japanese-mistral-300m-instruction.q2_k.gguf",
+            "size": "176844064",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3f2f942afd61c4d3c59dee0d654f7d291155c4bb81dec5ae48ed23c10493ce55",
+            "download": {
+                "default": "https://huggingface.co/afrideva/japanese-mistral-300m-instruction-GGUF/resolve/main/japanese-mistral-300m-instruction.q2_k.gguf"
+            }
+        },
+        {
+            "name": "japanese-mistral-300m-instruction.q3_k_m.gguf",
+            "size": "195042816",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9a71f3fff598b93f9a86d4eb301bcd025f0b43717961178bf29d6a2644f21761",
+            "download": {
+                "default": "https://huggingface.co/afrideva/japanese-mistral-300m-instruction-GGUF/resolve/main/japanese-mistral-300m-instruction.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "japanese-mistral-300m-instruction.q4_k_m.gguf",
+            "size": "234801408",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d0140567fe372193130b509408a883b8cec0523aabd949f1893248df351df7bf",
+            "download": {
+                "default": "https://huggingface.co/afrideva/japanese-mistral-300m-instruction-GGUF/resolve/main/japanese-mistral-300m-instruction.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "japanese-mistral-300m-instruction.q5_k_m.gguf",
+            "size": "266473856",
+            "quantization": "",
+            "tags": [],
+            "sha256": "de4b1a5ac6d68b9ca644a706fe044e0ee6fee989851110ae1a66aee70ea6b38f",
+            "download": {
+                "default": "https://huggingface.co/afrideva/japanese-mistral-300m-instruction-GGUF/resolve/main/japanese-mistral-300m-instruction.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "japanese-mistral-300m-instruction.q6_k.gguf",
+            "size": "307383456",
+            "quantization": "",
+            "tags": [],
+            "sha256": "cede4885d85c24596f3c6e570cea094ebda53b31d299860cf7b238a6d8b84920",
+            "download": {
+                "default": "https://huggingface.co/afrideva/japanese-mistral-300m-instruction-GGUF/resolve/main/japanese-mistral-300m-instruction.q6_k.gguf"
+            }
+        },
+        {
+            "name": "japanese-mistral-300m-instruction.q8_0.gguf",
+            "size": "379165024",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9351edb876467a8473eec15b6844297c0f745418f2e6a824e023e5b13f1261e2",
+            "download": {
+                "default": "https://huggingface.co/afrideva/japanese-mistral-300m-instruction-GGUF/resolve/main/japanese-mistral-300m-instruction.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,163 @@
+{
+    "id": "maddes8cht/mosaicml-mpt-7b-8k-chat-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "maddes8cht",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-27T21:43:55Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mosaicml-mpt-7b-8k-chat-Q2_K.gguf",
+            "size": "2844742880",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "42d5b7bd4372155f1db02927d5a0fbb30c0e8160f342065a3894a7e8453986e2",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/mosaicml-mpt-7b-8k-chat-gguf/resolve/main/mosaicml-mpt-7b-8k-chat-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "mosaicml-mpt-7b-8k-chat-Q3_K_L.gguf",
+            "size": "3935270112",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "3060ce372e8d3cce3508118895a7584956cadcc251bdfd9de52a553879aa433a",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/mosaicml-mpt-7b-8k-chat-gguf/resolve/main/mosaicml-mpt-7b-8k-chat-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "mosaicml-mpt-7b-8k-chat-Q3_K_M.gguf",
+            "size": "3616503008",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "337fb7919888aa53a797f0282672996d0eadfa40ae7aab7f51912cf0dca860fa",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/mosaicml-mpt-7b-8k-chat-gguf/resolve/main/mosaicml-mpt-7b-8k-chat-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "mosaicml-mpt-7b-8k-chat-Q3_K_S.gguf",
+            "size": "3029300448",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "c831e760de32a8e36498c3e78ef6273884a3b1f260fd6a9c8fc49bfcbd87f494",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/mosaicml-mpt-7b-8k-chat-gguf/resolve/main/mosaicml-mpt-7b-8k-chat-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "mosaicml-mpt-7b-8k-chat-Q4_0.gguf",
+            "size": "3912373472",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "891249b10f003110984a92040353dbf0948a0ad90535213220d60c1ced65dfd8",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/mosaicml-mpt-7b-8k-chat-gguf/resolve/main/mosaicml-mpt-7b-8k-chat-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "mosaicml-mpt-7b-8k-chat-Q4_1.gguf",
+            "size": "4327937248",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "f532a0dfc93cef628c8a6f459ce360cd0d0ca53c2919b7511a8af5aef28b0f16",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/mosaicml-mpt-7b-8k-chat-gguf/resolve/main/mosaicml-mpt-7b-8k-chat-Q4_1.gguf"
+            }
+        },
+        {
+            "name": "mosaicml-mpt-7b-8k-chat-Q4_K_M.gguf",
+            "size": "4390524128",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a4a3d48b51c90f6676e51ff5e8f6fdb7951cb81a17470889b1107ff6d55f92fd",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/mosaicml-mpt-7b-8k-chat-gguf/resolve/main/mosaicml-mpt-7b-8k-chat-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "mosaicml-mpt-7b-8k-chat-Q4_K_S.gguf",
+            "size": "3945927904",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "3302c106ed7e76608312de62cbe0c3b57e2edc3d86b1180da1e6f3d4ab91a3f3",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/mosaicml-mpt-7b-8k-chat-gguf/resolve/main/mosaicml-mpt-7b-8k-chat-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "mosaicml-mpt-7b-8k-chat-Q5_0.gguf",
+            "size": "4743501024",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "dd501da5f873729d95cf891f49feb23b4f616ca7361ae8095066eaf45d3323eb",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/mosaicml-mpt-7b-8k-chat-gguf/resolve/main/mosaicml-mpt-7b-8k-chat-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "mosaicml-mpt-7b-8k-chat-Q5_1.gguf",
+            "size": "5159064800",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "6c649cff8d09b9f4696dddea17e2c7fafa5c8f85ada1fa56f11f4feb51ce9d8a",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/mosaicml-mpt-7b-8k-chat-gguf/resolve/main/mosaicml-mpt-7b-8k-chat-Q5_1.gguf"
+            }
+        },
+        {
+            "name": "mosaicml-mpt-7b-8k-chat-Q5_K_M.gguf",
+            "size": "5100016864",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ab81ce09ba757aa95458e15558edfa9dc5c5b73022dddbd074d3a8bbdf197d80",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/mosaicml-mpt-7b-8k-chat-gguf/resolve/main/mosaicml-mpt-7b-8k-chat-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "mosaicml-mpt-7b-8k-chat-Q5_K_S.gguf",
+            "size": "4743501024",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "c5a3b5ca531cf06b01401d143f431aa0973c9ba24339b2334dd51c70e2020a40",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/mosaicml-mpt-7b-8k-chat-gguf/resolve/main/mosaicml-mpt-7b-8k-chat-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "mosaicml-mpt-7b-8k-chat-Q6_K.gguf",
+            "size": "5626574048",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "8232b9770bf6b6d907719544da7c1a0ab00fd18827056a7c4ce4826ddc74cd16",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/mosaicml-mpt-7b-8k-chat-gguf/resolve/main/mosaicml-mpt-7b-8k-chat-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "mosaicml-mpt-7b-8k-chat-Q8_0.gguf",
+            "size": "7286912224",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "0d6dc9c82f8f74f1971d74aef108728bc26c62e8b8ff27a2ec05bdf08e63cf37",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/mosaicml-mpt-7b-8k-chat-gguf/resolve/main/mosaicml-mpt-7b-8k-chat-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

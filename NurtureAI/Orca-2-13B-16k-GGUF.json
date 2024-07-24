@@ -1,0 +1,73 @@
+{
+    "id": "NurtureAI/Orca-2-13B-16k-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "NurtureAI",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-22T05:27:54Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "orca-2-13b-16k-f16.gguf",
+            "size": "26033365088",
+            "quantization": "",
+            "tags": [],
+            "sha256": "bed47a48719d94fb99d847a0ec15e976517cb816a7af29aa51d145f3f56388fa",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/Orca-2-13B-16k-GGUF/resolve/main/orca-2-13b-16k-f16.gguf"
+            }
+        },
+        {
+            "name": "orca-2-13b-16k-q2_k.gguf",
+            "size": "5429366144",
+            "quantization": "",
+            "tags": [],
+            "sha256": "91a7c7c7e592b1762e87b6ea6caf924028a7d901705e5cadc2eff73180cacc0f",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/Orca-2-13B-16k-GGUF/resolve/main/orca-2-13b-16k-q2_k.gguf"
+            }
+        },
+        {
+            "name": "orca-2-13b-16k-q3_k_m.gguf",
+            "size": "6337788832",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b04ebbf4b6d88a765b3591bbe50877fa1175cfd5ce63a33e4aa8eb1a3b90f753",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/Orca-2-13B-16k-GGUF/resolve/main/orca-2-13b-16k-q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "orca-2-13b-16k-q4_k_m.gguf",
+            "size": "7865977728",
+            "quantization": "",
+            "tags": [],
+            "sha256": "54b0fc8addc26f4e5c6ed5751532f6cfcf4178591695f3887cff8f7e011dc7c1",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/Orca-2-13B-16k-GGUF/resolve/main/orca-2-13b-16k-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "orca-2-13b-16k-q8_0.gguf",
+            "size": "13831352320",
+            "quantization": "",
+            "tags": [],
+            "sha256": "339e23a34915aeacd11e6ab42b69a8cdbd65dacf765161e3b632945a1fbf42f7",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/Orca-2-13B-16k-GGUF/resolve/main/orca-2-13b-16k-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

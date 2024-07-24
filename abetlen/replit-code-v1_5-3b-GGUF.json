@@ -1,0 +1,53 @@
+{
+    "id": "abetlen/replit-code-v1_5-3b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "abetlen",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-08T08:44:54Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "replit-code-v1_5-3b.f16.gguf",
+            "size": "6847021344",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fa692c78b1651538499f674e242c1406bbeb731ccb81b4728b6ebc6d0870264a",
+            "download": {
+                "default": "https://huggingface.co/abetlen/replit-code-v1_5-3b-GGUF/resolve/main/replit-code-v1_5-3b.f16.gguf"
+            }
+        },
+        {
+            "name": "replit-code-v1_5-3b.Q4_0.gguf",
+            "size": "1953055104",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "e5f23238e18e103a64bb1027412f829b4d546f17aed3b42b4401e0dbfa11537c",
+            "download": {
+                "default": "https://huggingface.co/abetlen/replit-code-v1_5-3b-GGUF/resolve/main/replit-code-v1_5-3b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "replit-code-v1_5-3b.Q8_0.gguf",
+            "size": "2398920704",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "dc7457bd48b4928f2378519e081ba8262d294078b5cfbbf6bcd850352be161ae",
+            "download": {
+                "default": "https://huggingface.co/abetlen/replit-code-v1_5-3b-GGUF/resolve/main/replit-code-v1_5-3b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

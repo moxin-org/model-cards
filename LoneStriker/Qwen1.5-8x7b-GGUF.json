@@ -1,0 +1,113 @@
+{
+    "id": "LoneStriker/Qwen1.5-8x7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LoneStriker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-18T09:16:58Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Qwen1.5-8x7b-Q2_K.gguf",
+            "size": "14943500352",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "c8f528f96723b94b0508f8610b0376ad04bcf8a08149aa7381e378e385cd424c",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Qwen1.5-8x7b-GGUF/resolve/main/Qwen1.5-8x7b-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-8x7b-Q3_K_L.gguf",
+            "size": "20243400768",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "088ab011d1c877645783097bff46f66482b6fb3fb2c557a9a3242f5e45af729e",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Qwen1.5-8x7b-GGUF/resolve/main/Qwen1.5-8x7b-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-8x7b-Q3_K_M.gguf",
+            "size": "19029149760",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e9c697b9f55aa1d56c472194e8600953cd21c597033a02be48e27022efd02fd2",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Qwen1.5-8x7b-GGUF/resolve/main/Qwen1.5-8x7b-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-8x7b-Q3_K_S.gguf",
+            "size": "17405954112",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "358020283fbfa60d1625be369c2c443753a6f398b53817b64d936eae35de1924",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Qwen1.5-8x7b-GGUF/resolve/main/Qwen1.5-8x7b-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-8x7b-Q4_K_M.gguf",
+            "size": "23647033408",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "7d255bc27144007c2e8fcb912b2a453ed22dc28dd70b8551aff50bafbfa09894",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Qwen1.5-8x7b-GGUF/resolve/main/Qwen1.5-8x7b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-8x7b-Q4_K_S.gguf",
+            "size": "22339459136",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "a7c3f3193d15e9566a80d6dd2aa085cab24857c6c9f270edc601857c93e15fb8",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Qwen1.5-8x7b-GGUF/resolve/main/Qwen1.5-8x7b-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-8x7b-Q5_K_M.gguf",
+            "size": "27399166016",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5621ffb6955ba7c4fbe44e0965cb1ef810fae29d06ad8f17b309268b8a076faa",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Qwen1.5-8x7b-GGUF/resolve/main/Qwen1.5-8x7b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-8x7b-Q5_K_S.gguf",
+            "size": "26632656960",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "1557e0eb3a67bf396746cf80b239b8177a8cfa6a8554dbbc8f7e794fe4a310bb",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Qwen1.5-8x7b-GGUF/resolve/main/Qwen1.5-8x7b-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-8x7b-Q6_K.gguf",
+            "size": "31457110080",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "3b9547e0a3e114dc2b784a6c168a1663d96b26601ed6ca4c42d2ad9da18c430e",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Qwen1.5-8x7b-GGUF/resolve/main/Qwen1.5-8x7b-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

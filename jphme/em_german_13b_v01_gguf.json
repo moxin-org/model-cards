@@ -1,0 +1,63 @@
+{
+    "id": "jphme/em_german_13b_v01_gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "jphme",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-29T22:10:44Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "em_german_13b_v01_Q4_K_M.gguf",
+            "size": "7865956224",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "8d92663e9c250a1f833e5fff2ffa1cfd83f5f05a38cbbec174d044de315eee35",
+            "download": {
+                "default": "https://huggingface.co/jphme/em_german_13b_v01_gguf/resolve/main/em_german_13b_v01_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "em_german_13b_v01_Q4_K_S.gguf",
+            "size": "7414331264",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "8341a96245072b758f3e454298244235840bbbe5364bec9cf7cdcdc6600d0500",
+            "download": {
+                "default": "https://huggingface.co/jphme/em_german_13b_v01_gguf/resolve/main/em_german_13b_v01_Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "em_german_13b_v01_Q5_K_M.gguf",
+            "size": "9229924224",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "0a34450caf384be1eea8fad45d4fad29ab9a656bef275a2959f00b9223190dab",
+            "download": {
+                "default": "https://huggingface.co/jphme/em_german_13b_v01_gguf/resolve/main/em_german_13b_v01_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "em_german_13b_v01_Q8_0.gguf",
+            "size": "13831319424",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "8c860a466dcc344ed58ee6b8be1c7beb29685b0ad9702f70694788e639063265",
+            "download": {
+                "default": "https://huggingface.co/jphme/em_german_13b_v01_gguf/resolve/main/em_german_13b_v01_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

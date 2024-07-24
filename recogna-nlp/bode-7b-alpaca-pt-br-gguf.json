@@ -1,0 +1,83 @@
+{
+    "id": "recogna-nlp/bode-7b-alpaca-pt-br-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "recogna-nlp",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-26T00:18:26Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "bode-7b-alpaca-f16.gguf",
+            "size": "13478105696",
+            "quantization": "",
+            "tags": [],
+            "sha256": "cb1de622281d938214fde908a11f4893d6fa34ee5c8da203a06ea136e7f95e05",
+            "download": {
+                "default": "https://huggingface.co/recogna-nlp/bode-7b-alpaca-pt-br-gguf/resolve/main/bode-7b-alpaca-f16.gguf"
+            }
+        },
+        {
+            "name": "bode-7b-alpaca-f32.gguf",
+            "size": "26954404448",
+            "quantization": "",
+            "tags": [],
+            "sha256": "20937352a33b8be5d3b3798330b1603c8ec24a69c1716dd27056717acc9a79e6",
+            "download": {
+                "default": "https://huggingface.co/recogna-nlp/bode-7b-alpaca-pt-br-gguf/resolve/main/bode-7b-alpaca-f32.gguf"
+            }
+        },
+        {
+            "name": "bode-7b-alpaca-q4_0.gguf",
+            "size": "3825808000",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fc93caea8a5a0b7b876a46ec4204ed71aed68df48006323111af7d239f1d8565",
+            "download": {
+                "default": "https://huggingface.co/recogna-nlp/bode-7b-alpaca-pt-br-gguf/resolve/main/bode-7b-alpaca-q4_0.gguf"
+            }
+        },
+        {
+            "name": "bode-7b-alpaca-q4_k_m.gguf",
+            "size": "4081005184",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5a14a6d2e8a046c8db5837a457bc0ee8a12380bd059865732fd2cdd84f86350d",
+            "download": {
+                "default": "https://huggingface.co/recogna-nlp/bode-7b-alpaca-pt-br-gguf/resolve/main/bode-7b-alpaca-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "bode-7b-alpaca-q5_k_m.gguf",
+            "size": "4783157888",
+            "quantization": "",
+            "tags": [],
+            "sha256": "21c183335f33ff5a13ea3199fb656a1a33f1c7d152c636ae2859dfa22c07d6eb",
+            "download": {
+                "default": "https://huggingface.co/recogna-nlp/bode-7b-alpaca-pt-br-gguf/resolve/main/bode-7b-alpaca-q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "bode-7b-alpaca-q8_0.gguf",
+            "size": "7161090688",
+            "quantization": "",
+            "tags": [],
+            "sha256": "42f9ecbb9579bc5c74852da6ae3f149039cc5bd1dd1657eea0ed524accc2caf9",
+            "download": {
+                "default": "https://huggingface.co/recogna-nlp/bode-7b-alpaca-pt-br-gguf/resolve/main/bode-7b-alpaca-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,43 @@
+{
+    "id": "Sosnitskij/polylm-chat-13b-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Sosnitskij",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-06T06:45:50Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "polylm-chat-13b-Q5_K_M.gguf",
+            "size": "11347860672",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "04bef764d5cc0dca11a17c544fb09532a700d52e4cd8785d9dbec71bc06a328c",
+            "download": {
+                "default": "https://huggingface.co/Sosnitskij/polylm-chat-13b-gguf/resolve/main/polylm-chat-13b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "polylm-chat-13b-Q6_K.gguf",
+            "size": "12498181312",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "07ec670d9af4b93606314f14215784013800db41bebfe0e4cad099260540bde3",
+            "download": {
+                "default": "https://huggingface.co/Sosnitskij/polylm-chat-13b-gguf/resolve/main/polylm-chat-13b-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,113 @@
+{
+    "id": "oleg-go/mistral-7b-GGUF-Q16K",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "oleg-go",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-27T21:29:43Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-vocab-aquila.gguf",
+            "size": "4825676",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7c53c3c516ac67c7ca12977b9690fdea3d2ef13bbaed6378f98191a13ef5ca00",
+            "download": {
+                "default": "https://huggingface.co/oleg-go/mistral-7b-GGUF-Q16K/resolve/main/ggml-vocab-aquila.gguf"
+            }
+        },
+        {
+            "name": "ggml-vocab-baichuan.gguf",
+            "size": "1340998",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4f5b955697f3bd3108070b1d5936c7eb9fc542b81c6932e59abddec75bca1963",
+            "download": {
+                "default": "https://huggingface.co/oleg-go/mistral-7b-GGUF-Q16K/resolve/main/ggml-vocab-baichuan.gguf"
+            }
+        },
+        {
+            "name": "ggml-vocab-falcon.gguf",
+            "size": "2547782",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ffbc7c119de7e9aab8f4257d617e3fa55f942a9f9ca84139ef3f5b1ca53836a8",
+            "download": {
+                "default": "https://huggingface.co/oleg-go/mistral-7b-GGUF-Q16K/resolve/main/ggml-vocab-falcon.gguf"
+            }
+        },
+        {
+            "name": "ggml-vocab-gpt-neox.gguf",
+            "size": "1771431",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ae593a7f9b8bb174ed4f5019e41530463e4dac7aa06e42dee8aa650d2bdac53d",
+            "download": {
+                "default": "https://huggingface.co/oleg-go/mistral-7b-GGUF-Q16K/resolve/main/ggml-vocab-gpt-neox.gguf"
+            }
+        },
+        {
+            "name": "ggml-vocab-llama.gguf",
+            "size": "",
+            "quantization": "",
+            "tags": [],
+            "sha256": "",
+            "download": {
+                "default": "https://huggingface.co/oleg-go/mistral-7b-GGUF-Q16K/resolve/main/ggml-vocab-llama.gguf"
+            }
+        },
+        {
+            "name": "ggml-vocab-mpt.gguf",
+            "size": "1771406",
+            "quantization": "",
+            "tags": [],
+            "sha256": "55c7df0d0443a24260ac6f8d3710f224fa38137cfaec6693413b913194d47cc5",
+            "download": {
+                "default": "https://huggingface.co/oleg-go/mistral-7b-GGUF-Q16K/resolve/main/ggml-vocab-mpt.gguf"
+            }
+        },
+        {
+            "name": "ggml-vocab-refact.gguf",
+            "size": "1720666",
+            "quantization": "",
+            "tags": [],
+            "sha256": "38ffb84a4c1aba7dc7f84358827e252874edeb80050bb0358e2b34fca09741d3",
+            "download": {
+                "default": "https://huggingface.co/oleg-go/mistral-7b-GGUF-Q16K/resolve/main/ggml-vocab-refact.gguf"
+            }
+        },
+        {
+            "name": "ggml-vocab-starcoder.gguf",
+            "size": "1719281",
+            "quantization": "",
+            "tags": [],
+            "sha256": "621db3ccdfcc3e5ed687fbba6dec9c6b29cec9f3c48172435a704f6321689b66",
+            "download": {
+                "default": "https://huggingface.co/oleg-go/mistral-7b-GGUF-Q16K/resolve/main/ggml-vocab-starcoder.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-GGUF-Q16K.gguf",
+            "size": "14484764288",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9b216919bb8e7f4afdb9c20872c9155e2c7efbd0134cc1267401c822c45019fe",
+            "download": {
+                "default": "https://huggingface.co/oleg-go/mistral-7b-GGUF-Q16K/resolve/main/mistral-7b-GGUF-Q16K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

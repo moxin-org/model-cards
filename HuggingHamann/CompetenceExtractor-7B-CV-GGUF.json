@@ -1,0 +1,43 @@
+{
+    "id": "HuggingHamann/CompetenceExtractor-7B-CV-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "HuggingHamann",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-02T23:24:24Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "competenceextractor-7b-cv.Q4_K_M.gguf",
+            "size": "4368439552",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a2933ec63ffdbade0e6ec6b02133f716bc54950aa6e3ff111f4178e689b0cca0",
+            "download": {
+                "default": "https://huggingface.co/HuggingHamann/CompetenceExtractor-7B-CV-GGUF/resolve/main/competenceextractor-7b-cv.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "competenceextractor-7b-cv.Q5_K_M.gguf",
+            "size": "5131409664",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ab233b5fbd9f9c941574bddce5818ffa91c0343e7fa800ae1038699d60f0eb09",
+            "download": {
+                "default": "https://huggingface.co/HuggingHamann/CompetenceExtractor-7B-CV-GGUF/resolve/main/competenceextractor-7b-cv.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

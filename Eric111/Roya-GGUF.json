@@ -1,0 +1,53 @@
+{
+    "id": "Eric111/Roya-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Eric111",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-07T23:17:35Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "roya.Q2_K.gguf",
+            "size": "2719241856",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "4ccf07a02ad1214cd0eff48b50a928b9a91d6a515aa3c72de8096d319d31844f",
+            "download": {
+                "default": "https://huggingface.co/Eric111/Roya-GGUF/resolve/main/roya.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "roya.Q3_K_M.gguf",
+            "size": "3518985856",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "0ff448ef08c4d51cbe5ee16ee9fde94b8e599c925b9bb7735f05e4b0a7d7ff35",
+            "download": {
+                "default": "https://huggingface.co/Eric111/Roya-GGUF/resolve/main/roya.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "roya.Q4_K_M.gguf",
+            "size": "1799239296",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4d803c21db766a7582308fa38f864c53d125f2aa99e56248fc243ba3444a3119",
+            "download": {
+                "default": "https://huggingface.co/Eric111/Roya-GGUF/resolve/main/roya.Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,133 @@
+{
+    "id": "brittlewis12/Phiter-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "brittlewis12",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-27T15:35:12Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "phiter.fp16.gguf",
+            "size": "5563088672",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ab4d47b80aaeaa98e5bc2014b85d13ddf12ca7aee9f4219a98f6064b8a66007e",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Phiter-GGUF/resolve/main/phiter.fp16.gguf"
+            }
+        },
+        {
+            "name": "phiter.Q2_K.gguf",
+            "size": "1088413536",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "8fe58e62bc4b4d65e7c9d84906c1ec31786d6a1e41656d3caf8e74918f2a7106",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Phiter-GGUF/resolve/main/phiter.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "phiter.Q3_K_L.gguf",
+            "size": "1604714336",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "2072d5cd9cd0e56565cf8b5805a0b5c5f72b5cdd7ffff4bd6aa5617442a43d6e",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Phiter-GGUF/resolve/main/phiter.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "phiter.Q3_K_M.gguf",
+            "size": "1486749536",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "4f14364282e7b924e122a0fdd4c2515deb077ad53451454c6121e262e3bd58e4",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Phiter-GGUF/resolve/main/phiter.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "phiter.Q3_K_S.gguf",
+            "size": "1250819936",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "8a9c97d84a68eaa9d8170ccde344476a9c12b595520a2ebe3cbf49fba223c7bd",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Phiter-GGUF/resolve/main/phiter.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "phiter.Q4_K_M.gguf",
+            "size": "1789239136",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "cff467e3b00d0c379f807e505c1069653ac4412c34fe1463772e6fef514f3434",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Phiter-GGUF/resolve/main/phiter.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "phiter.Q4_K_S.gguf",
+            "size": "1628675936",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "8aa3e6488c88d14b68d00c8e75ac9ad47ef8ed346bb34a0c6503e1599b3a3972",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Phiter-GGUF/resolve/main/phiter.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "phiter.Q5_K_M.gguf",
+            "size": "2072682336",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "92512f49309d70c2ba24ca00d7d6c7ec67ff62ca5ef5472aa2ff392bfc3b2045",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Phiter-GGUF/resolve/main/phiter.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "phiter.Q5_K_S.gguf",
+            "size": "1933418336",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "4d1ab9ed94b03ae20805a6a77daca158180b9444e9b9ed2692dc44a192673fa2",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Phiter-GGUF/resolve/main/phiter.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "phiter.Q6_K.gguf",
+            "size": "2285059936",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "c7a163b8d51e6dbd1ebb6a133b882beccbce7c3e0351977a4c497d5efb2641ab",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Phiter-GGUF/resolve/main/phiter.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "phiter.Q8_0.gguf",
+            "size": "2958032736",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "43a29a04dc95ae8247761d9befbdd1dbddbe8b8c56fa78b544c86817ce14f966",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/Phiter-GGUF/resolve/main/phiter.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

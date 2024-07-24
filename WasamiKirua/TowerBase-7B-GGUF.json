@@ -1,0 +1,43 @@
+{
+    "id": "WasamiKirua/TowerBase-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "WasamiKirua",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-14T00:25:24Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "towerbase-7b-v0.1.Q3_K_M.gguf",
+            "size": "3298004704",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "b1893d77a2afe9883c917575886e81afc1fa266f878e2880c5bd3fb64cc8f44d",
+            "download": {
+                "default": "https://huggingface.co/WasamiKirua/TowerBase-7B-GGUF/resolve/main/towerbase-7b-v0.1.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "towerbase-7b-v0.1.Q4_K_M.gguf",
+            "size": "4081004256",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e92375da001af817926115c6a578f895a6a845cec70ddb71b3aa8a9d07f2271d",
+            "download": {
+                "default": "https://huggingface.co/WasamiKirua/TowerBase-7B-GGUF/resolve/main/towerbase-7b-v0.1.Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

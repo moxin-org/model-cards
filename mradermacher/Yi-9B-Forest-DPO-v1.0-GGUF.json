@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Yi-9B-Forest-DPO-v1.0-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-20T03:52:00Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Yi-9B-Forest-DPO-v1.0.IQ3_M.gguf",
+            "size": "4364709632",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "e8bca116d7495064a31b6232547ca1365d9972a51df51184aee55ef1c53d5698",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yi-9B-Forest-DPO-v1.0-GGUF/resolve/main/Yi-9B-Forest-DPO-v1.0.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-Forest-DPO-v1.0.IQ3_S.gguf",
+            "size": "4221824768",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "cb8795b6b891fb6b2f94d407a11cda65b44dc4becc2ad3d1949ea1567fb17867",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yi-9B-Forest-DPO-v1.0-GGUF/resolve/main/Yi-9B-Forest-DPO-v1.0.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-Forest-DPO-v1.0.IQ3_XS.gguf",
+            "size": "4013813504",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "172e32abba8a72215889eccf85e1db0e33862055d37be2f77f3d2c915192a0fa",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yi-9B-Forest-DPO-v1.0-GGUF/resolve/main/Yi-9B-Forest-DPO-v1.0.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-Forest-DPO-v1.0.IQ4_XS.gguf",
+            "size": "5136527104",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "b3dfd3bc1d075b6b2eebd3c14da6bb831ee01197bebb4c1cb29bb738d04a7395",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yi-9B-Forest-DPO-v1.0-GGUF/resolve/main/Yi-9B-Forest-DPO-v1.0.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-Forest-DPO-v1.0.Q2_K.gguf",
+            "size": "3663572736",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "cdd1165680d89c28b7f25a7b262ad487ba33c348c819defda571e8e874ae53a7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yi-9B-Forest-DPO-v1.0-GGUF/resolve/main/Yi-9B-Forest-DPO-v1.0.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-Forest-DPO-v1.0.Q3_K_L.gguf",
+            "size": "4999999232",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "2de5bd4cbb6590419e3c94366b03c72293e46caa136b3febb6f6ab10793a2f61",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yi-9B-Forest-DPO-v1.0-GGUF/resolve/main/Yi-9B-Forest-DPO-v1.0.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-Forest-DPO-v1.0.Q3_K_M.gguf",
+            "size": "4633652992",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "8544b60ea51a7bab997a6f84259460d3a31513298c182396177a73c9574de2da",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yi-9B-Forest-DPO-v1.0-GGUF/resolve/main/Yi-9B-Forest-DPO-v1.0.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-Forest-DPO-v1.0.Q3_K_S.gguf",
+            "size": "4208455424",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "c235c709f59c2f6184b0422e76845a82f5130c8087682e4c0d2e033ae5fabfa4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yi-9B-Forest-DPO-v1.0-GGUF/resolve/main/Yi-9B-Forest-DPO-v1.0.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-Forest-DPO-v1.0.Q4_K_M.gguf",
+            "size": "5638205184",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "d62c08e857af59310df0466fb7b4ad126dc24858968dcb2c1dafcf9dff8d026a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yi-9B-Forest-DPO-v1.0-GGUF/resolve/main/Yi-9B-Forest-DPO-v1.0.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-Forest-DPO-v1.0.Q4_K_S.gguf",
+            "size": "5381107456",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "9d11165abf65659e9f547bd18a5b11c0df42859540a7e52f5a521c13d2517332",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yi-9B-Forest-DPO-v1.0-GGUF/resolve/main/Yi-9B-Forest-DPO-v1.0.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-Forest-DPO-v1.0.Q5_K_M.gguf",
+            "size": "6567505664",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5f96323aeb135976188576ab9da2423c7279d35b7fb40a1473758bb1cc7139a3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yi-9B-Forest-DPO-v1.0-GGUF/resolve/main/Yi-9B-Forest-DPO-v1.0.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-Forest-DPO-v1.0.Q5_K_S.gguf",
+            "size": "6417100544",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "299a40a54fceb85668355dcdf2ac6006c21ad208403537391fdf08297db7e446",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yi-9B-Forest-DPO-v1.0-GGUF/resolve/main/Yi-9B-Forest-DPO-v1.0.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-Forest-DPO-v1.0.Q6_K.gguf",
+            "size": "7554887424",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "c04dee1b5a40919d934d08bf5fd228cde1274bada2ec4f86ee229be2fdbd1496",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yi-9B-Forest-DPO-v1.0-GGUF/resolve/main/Yi-9B-Forest-DPO-v1.0.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-Forest-DPO-v1.0.Q8_0.gguf",
+            "size": "9629675264",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "b8e2343fb17ed75173bb7b00f586f56775dc3d058c142bec27daa35aa9a57cd2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Yi-9B-Forest-DPO-v1.0-GGUF/resolve/main/Yi-9B-Forest-DPO-v1.0.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

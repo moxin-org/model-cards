@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/mistral-7b-grok-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-18T15:11:12Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistral-7b-grok.IQ3_M.gguf",
+            "size": "3439515840",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "1f2d66917e91fff3df566d2f0319801c54b2117bb4ddb0e7cf4e969427f20e59",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral-7b-grok-GGUF/resolve/main/mistral-7b-grok.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-grok.IQ3_S.gguf",
+            "size": "3337017536",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "8886130b5c748a159b376294efe1f9965c2548d73b39c592ff0800d60b02fcd3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral-7b-grok-GGUF/resolve/main/mistral-7b-grok.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-grok.IQ3_XS.gguf",
+            "size": "3155613888",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "7712aa30a74aaf543e4de3c6e3553e508ea690b30db02fb9775e124751b7efb9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral-7b-grok-GGUF/resolve/main/mistral-7b-grok.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-grok.IQ4_XS.gguf",
+            "size": "4099012800",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "c4d3b791a2189b0231f58d2427992fcd31e8fde1fcbdccab1c362988c8760a0e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral-7b-grok-GGUF/resolve/main/mistral-7b-grok.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-grok.Q2_K.gguf",
+            "size": "2873866432",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "0ec13e0b9832da8b94476eee5b5882a5fa945a6b2a814c982ec4b1bc3848132b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral-7b-grok-GGUF/resolve/main/mistral-7b-grok.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-grok.Q3_K_L.gguf",
+            "size": "3976648896",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "f1612bff76426594d4b5a656cad52a76c2b6bd244981b54049eb8ec883935743",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral-7b-grok-GGUF/resolve/main/mistral-7b-grok.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-grok.Q3_K_M.gguf",
+            "size": "3673610432",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "03f43f1574a02dd4648258395d7f58e58bdb07ea35f3309dd1a70ea94e3ac8ef",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral-7b-grok-GGUF/resolve/main/mistral-7b-grok.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-grok.Q3_K_S.gguf",
+            "size": "3319191744",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "c55908112c12fbdbd5b67b6f2d5fdf949a2a9501401c5096ba7982b7ea3eefb3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral-7b-grok-GGUF/resolve/main/mistral-7b-grok.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-grok.Q4_K_M.gguf",
+            "size": "4523063488",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c68cb8ea05bc9dc5a5299fe364b110ba79d560a38db2eb8502cfb47d56267a81",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral-7b-grok-GGUF/resolve/main/mistral-7b-grok.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-grok.Q4_K_S.gguf",
+            "size": "4294998208",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "720d1d133ead22bc760a3f2906a16c2a45a4b5bba703c0be9249133edd80dcfa",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral-7b-grok-GGUF/resolve/main/mistral-7b-grok.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-grok.Q5_K_M.gguf",
+            "size": "5286033600",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "2e6ddfc385b342bb974ef6fe4eb1dab2aa08d167254a9e10915dc4a8b28e61ae",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral-7b-grok-GGUF/resolve/main/mistral-7b-grok.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-grok.Q5_K_S.gguf",
+            "size": "5152340160",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "fc2211ff1548a0b570b1dd8f6eec6e2121f64dca4598a1f8936438ae6afda198",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral-7b-grok-GGUF/resolve/main/mistral-7b-grok.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-grok.Q6_K.gguf",
+            "size": "6096689344",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "870a925e9ab932ca5dfbe83fdd3d335125ed7bc3cb0030882391ac1953c1dc44",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral-7b-grok-GGUF/resolve/main/mistral-7b-grok.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-grok.Q8_0.gguf",
+            "size": "7818737856",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "08d2399ce54e2edea2b8a4fb051e0104ecd5c771db82598c8e9d712a45536ba4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral-7b-grok-GGUF/resolve/main/mistral-7b-grok.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/GPT4-X-Alpasta-30b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-06T14:12:48Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "GPT4-X-Alpasta-30b.IQ3_M.gguf",
+            "size": "14881203040",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "e541eca5a8cf7423339f00a3694bf786b773faad4199f3830d09cb769fd0ed04",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-X-Alpasta-30b-GGUF/resolve/main/GPT4-X-Alpasta-30b.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "GPT4-X-Alpasta-30b.IQ3_S.gguf",
+            "size": "14064245600",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "dbbd06b7fcd153d6b27cd7307e111977a2156ad7542af4acbf6dd3b1de4c0bff",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-X-Alpasta-30b-GGUF/resolve/main/GPT4-X-Alpasta-30b.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "GPT4-X-Alpasta-30b.IQ3_XS.gguf",
+            "size": "13311851360",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "7da9cc1789a31e31a3bef3df5c9af9552bc02d536a436f9c227feed0a418b5e7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-X-Alpasta-30b-GGUF/resolve/main/GPT4-X-Alpasta-30b.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "GPT4-X-Alpasta-30b.IQ4_XS.gguf",
+            "size": "17476721056",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "9720c2fc3c04ad2789bccc257a57e826304fef14d9d3beb922fa60ea597e437f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-X-Alpasta-30b-GGUF/resolve/main/GPT4-X-Alpasta-30b.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "GPT4-X-Alpasta-30b.Q2_K.gguf",
+            "size": "12048997664",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "1439c6287402c9e8b11e66e07b5e77866fdb717eb21058aeeebc307f654bf923",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-X-Alpasta-30b-GGUF/resolve/main/GPT4-X-Alpasta-30b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "GPT4-X-Alpasta-30b.Q3_K_L.gguf",
+            "size": "17279892320",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "1fa2f5c4bc0c5fe7a4c62466dbe7b368085bdcbe68ae435ca30e7a0ec121cf24",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-X-Alpasta-30b-GGUF/resolve/main/GPT4-X-Alpasta-30b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "GPT4-X-Alpasta-30b.Q3_K_M.gguf",
+            "size": "15776594784",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "13eb8e12e3a8d1af6c942d5f3ce695569f132f2fa971da1639b13093a53e4278",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-X-Alpasta-30b-GGUF/resolve/main/GPT4-X-Alpasta-30b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "GPT4-X-Alpasta-30b.Q3_K_S.gguf",
+            "size": "14064245600",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "e33f5e1b56f648c9ac08ef2977924d269cbbe70c5a3bb0ebefed8fadf9a745d9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-X-Alpasta-30b-GGUF/resolve/main/GPT4-X-Alpasta-30b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "GPT4-X-Alpasta-30b.Q4_K_M.gguf",
+            "size": "19621287584",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "eb6c027555241d5886289974a0e05b8c25a630d648ce0478185acc2aa968a14c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-X-Alpasta-30b-GGUF/resolve/main/GPT4-X-Alpasta-30b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "GPT4-X-Alpasta-30b.Q4_K_S.gguf",
+            "size": "18482632352",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "085e866d2c53f35f26a391cf3044f5b3602b91cde8e907f7a98db95cdfd0379b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-X-Alpasta-30b-GGUF/resolve/main/GPT4-X-Alpasta-30b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "GPT4-X-Alpasta-30b.Q5_K_M.gguf",
+            "size": "23047277216",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "84512959fdebf4b5af06184c32c8c359fc37bcc27dc447248c5e935c3d995ff0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-X-Alpasta-30b-GGUF/resolve/main/GPT4-X-Alpasta-30b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "GPT4-X-Alpasta-30b.Q5_K_S.gguf",
+            "size": "22395521696",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "303801e97d839351d9e468f204070f1146915f0c98fc34ff6cc26788f4b72146",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-X-Alpasta-30b-GGUF/resolve/main/GPT4-X-Alpasta-30b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "GPT4-X-Alpasta-30b.Q6_K.gguf",
+            "size": "26687391200",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b09de7300d5cabfd79294f911829dd80d002e450af7442133efb72b10a2fee2a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-X-Alpasta-30b-GGUF/resolve/main/GPT4-X-Alpasta-30b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "GPT4-X-Alpasta-30b.Q8_0.gguf",
+            "size": "34565351264",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "63675364a6493bc68991e0da22fb6446e946b3ef3a880313044198afaff7fd9e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-X-Alpasta-30b-GGUF/resolve/main/GPT4-X-Alpasta-30b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

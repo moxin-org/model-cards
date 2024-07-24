@@ -1,0 +1,93 @@
+{
+    "id": "Nexesenex/vicuna-33b-v1.3-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Nexesenex",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-17T05:48:02Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "lmsys_vicuna-33b-v1.3-AR-Q2_K.gguf",
+            "size": "13502545344",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "fe8d3f3362d31f80cd5edc132f482df0411d2b48053753446f9a5e344c931dcc",
+            "download": {
+                "default": "https://huggingface.co/Nexesenex/vicuna-33b-v1.3-GGUF/resolve/main/lmsys_vicuna-33b-v1.3-AR-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "lmsys_vicuna-33b-v1.3-AR-Q3_K_L.gguf",
+            "size": "17279758784",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "21f5f5863d3f7e3bf6774405bba879711284bca37b2fb5bb1648f6f36c1de362",
+            "download": {
+                "default": "https://huggingface.co/Nexesenex/vicuna-33b-v1.3-GGUF/resolve/main/lmsys_vicuna-33b-v1.3-AR-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "lmsys_vicuna-33b-v1.3-AR-Q3_K_M.gguf",
+            "size": "15761551808",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "6ae6fa8e606106eeb7477d37587eb6d86e80b0b698e200f52c06fbd359152d23",
+            "download": {
+                "default": "https://huggingface.co/Nexesenex/vicuna-33b-v1.3-GGUF/resolve/main/lmsys_vicuna-33b-v1.3-AR-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "lmsys_vicuna-33b-v1.3-AR-Q3_K_S.gguf",
+            "size": "14064112064",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "c39f63cbea644b67587a107abe4f411a8f2e5d611d411265eeefc2892b673864",
+            "download": {
+                "default": "https://huggingface.co/Nexesenex/vicuna-33b-v1.3-GGUF/resolve/main/lmsys_vicuna-33b-v1.3-AR-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "lmsys_vicuna-33b-v1.3-AR-Q4_K_M.gguf",
+            "size": "19621139904",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "14559c2e0f1a76c24cd0edb81a7d01dacf34261ca132fa123d527bee441f31c0",
+            "download": {
+                "default": "https://huggingface.co/Nexesenex/vicuna-33b-v1.3-GGUF/resolve/main/lmsys_vicuna-33b-v1.3-AR-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "lmsys_vicuna-33b-v1.3-AR-Q4_K_S.gguf",
+            "size": "18437756352",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "a941121e0defa3bc12f46f2e7cdc8e6d773eea925919dd9c0cd27339748460c0",
+            "download": {
+                "default": "https://huggingface.co/Nexesenex/vicuna-33b-v1.3-GGUF/resolve/main/lmsys_vicuna-33b-v1.3-AR-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "lmsys_vicuna-33b-v1.3-AR-Q5_K_M.gguf",
+            "size": "23047116224",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "05f3c51710389da4dfbf64b6f190b979d3af055c207a76c699b0f70b37bb166a",
+            "download": {
+                "default": "https://huggingface.co/Nexesenex/vicuna-33b-v1.3-GGUF/resolve/main/lmsys_vicuna-33b-v1.3-AR-Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

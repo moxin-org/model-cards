@@ -1,0 +1,123 @@
+{
+    "id": "MaziyarPanahi/zephyr-7b-alpha-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "MaziyarPanahi",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-03T05:26:37Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "zephyr-7b-alpha.Q2_K.gguf",
+            "size": "2719242336",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "c1458f121fc6c3548a171bd41323c1f9fad2261d5ad58d428a935a48cd4be337",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/zephyr-7b-alpha-GGUF/resolve/main/zephyr-7b-alpha.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-alpha.Q3_K_L.gguf",
+            "size": "3822024800",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "1b0db1672604fabb368201fbf0455e3eca65876d332781d39fc0539be00118c4",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/zephyr-7b-alpha-GGUF/resolve/main/zephyr-7b-alpha.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-alpha.Q3_K_M.gguf",
+            "size": "3518986336",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "d3cb1da3bc63b8bfdc8c022b93ea6fca566314014a395da9cd1fefd68fd56876",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/zephyr-7b-alpha-GGUF/resolve/main/zephyr-7b-alpha.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-alpha.Q3_K_S.gguf",
+            "size": "3164567648",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "e768d99d3a0efdca613da9d48de5c809be25f40e0e7d3ae32d86d14c4d194fc3",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/zephyr-7b-alpha-GGUF/resolve/main/zephyr-7b-alpha.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-alpha.Q4_K_M.gguf",
+            "size": "4368439392",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "baf4e479f1a3a736924ef2cdf4ae217257ae0b7daab4757f9cd001feb57392c5",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/zephyr-7b-alpha-GGUF/resolve/main/zephyr-7b-alpha.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-alpha.Q4_K_S.gguf",
+            "size": "4140374112",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "ac9ba73b34631b70050137d552603832f1397d3eae265b0543816eaa6fcab662",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/zephyr-7b-alpha-GGUF/resolve/main/zephyr-7b-alpha.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-alpha.Q5_K_M.gguf",
+            "size": "5131409504",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "337dd0028ac6932edddebe3a111c899e780dff2db799a5fe5a2019e4bd5f733d",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/zephyr-7b-alpha-GGUF/resolve/main/zephyr-7b-alpha.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-alpha.Q5_K_S.gguf",
+            "size": "4997716064",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "e1527e9111e34507562352f5a38903318411feadf2435f25baae6aaf95dd14ba",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/zephyr-7b-alpha-GGUF/resolve/main/zephyr-7b-alpha.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-alpha.Q6_K.gguf",
+            "size": "5942065248",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "d81a0439609b9c937c9ef72ec35d164855dbf9728a710eb724131a4e62f4b2de",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/zephyr-7b-alpha-GGUF/resolve/main/zephyr-7b-alpha.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-alpha.Q8_0.gguf",
+            "size": "7695857760",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "ac5072eb8556a77ec974608346079f2ac3ac17bef9a611cd6ed4391a4af4aa78",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/zephyr-7b-alpha-GGUF/resolve/main/zephyr-7b-alpha.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

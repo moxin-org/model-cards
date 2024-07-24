@@ -1,0 +1,173 @@
+{
+    "id": "mradermacher/Luna-2x7B-MoE-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-31T15:11:51Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Luna-2x7B-MoE.IQ3_M.gguf",
+            "size": "5893453792",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "d7a1062d858552e301d658a0e39a0cca4435b4fbe0077ae9c24e195528df0bec",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Luna-2x7B-MoE-GGUF/resolve/main/Luna-2x7B-MoE.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Luna-2x7B-MoE.IQ3_S.gguf",
+            "size": "5759760352",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "78f6ece2add0adbb2a5df8d0b4838364f55d49b40dadda54957107b178de0566",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Luna-2x7B-MoE-GGUF/resolve/main/Luna-2x7B-MoE.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Luna-2x7B-MoE.IQ3_XS.gguf",
+            "size": "5453051872",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "010249c39192759953076c64e76d6a5dc36dc167e619e088cb112a2faf652fac",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Luna-2x7B-MoE-GGUF/resolve/main/Luna-2x7B-MoE.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Luna-2x7B-MoE.IQ4_XS.gguf",
+            "size": "7130978272",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "2a3601b929e52da0a410b0a25ae1509440ef1e0dc9dead492e7902e3e4a2b0d0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Luna-2x7B-MoE-GGUF/resolve/main/Luna-2x7B-MoE.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Luna-2x7B-MoE.Q2_K.gguf",
+            "size": "4914927584",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "c7f26e2b7092088f22b31f0db397d41eb8f8dd6b0b2adbf77efbc8a6624e544c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Luna-2x7B-MoE-GGUF/resolve/main/Luna-2x7B-MoE.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Luna-2x7B-MoE.Q3_K_L.gguf",
+            "size": "6883833824",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "5bfbb00d66b046291b4849474259b1301044e36c4feabffdcad66c27b528f715",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Luna-2x7B-MoE-GGUF/resolve/main/Luna-2x7B-MoE.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Luna-2x7B-MoE.Q3_K_M.gguf",
+            "size": "6360594400",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "db5bdb37de29f1f208101c1ad57c09a7e81856d16b38b369ca526a51a4cf2439",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Luna-2x7B-MoE-GGUF/resolve/main/Luna-2x7B-MoE.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Luna-2x7B-MoE.Q3_K_S.gguf",
+            "size": "5741934560",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "3ca129787da40ec3f393bb180960ebe90954c1be025f03c9afa4dbb442546fcf",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Luna-2x7B-MoE-GGUF/resolve/main/Luna-2x7B-MoE.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Luna-2x7B-MoE.Q4_0.gguf",
+            "size": "7434967008",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "0153cb6c00c0e3436ffc17977b7773b46b61f34ff9859b4988b7704b0371f984",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Luna-2x7B-MoE-GGUF/resolve/main/Luna-2x7B-MoE.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Luna-2x7B-MoE.Q4_K_M.gguf",
+            "size": "7936710624",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "46de5e8f8a53a2ca4c83f96e40972f959ffb2c00606fd6021d11463af753e192",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Luna-2x7B-MoE-GGUF/resolve/main/Luna-2x7B-MoE.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Luna-2x7B-MoE.Q4_K_S.gguf",
+            "size": "7495784416",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "248f731665b059518849e1666e95dc9fada0cd5f1063163e1be7674beb6009a1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Luna-2x7B-MoE-GGUF/resolve/main/Luna-2x7B-MoE.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Luna-2x7B-MoE.Q5_K_M.gguf",
+            "size": "9286883296",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "3fcfecf8bd162a00fb3f9e7d2850a61856672e742174928d3712d2bbb743293a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Luna-2x7B-MoE-GGUF/resolve/main/Luna-2x7B-MoE.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Luna-2x7B-MoE.Q5_K_S.gguf",
+            "size": "9028409312",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "8bb05969013117e0df357002e176f5d5cceea36290f79f07f8a52631b80d3086",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Luna-2x7B-MoE-GGUF/resolve/main/Luna-2x7B-MoE.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Luna-2x7B-MoE.Q6_K.gguf",
+            "size": "10721441760",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "320a9e0ea64b722bd49713437bc078cb1c62396a3a03c61b08d58e68798afd3d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Luna-2x7B-MoE-GGUF/resolve/main/Luna-2x7B-MoE.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Luna-2x7B-MoE.Q8_0.gguf",
+            "size": "13808736224",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "ab15463bfe6922edde6ef16815f131e4fa405fd516cd9ad4222530b350b8fe42",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Luna-2x7B-MoE-GGUF/resolve/main/Luna-2x7B-MoE.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

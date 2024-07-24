@@ -1,0 +1,143 @@
+{
+    "id": "second-state/Mistral-7B-Instruct-v0.2-GGUF",
+    "status": "published",
+    "model_type": "instruct",
+    "name": "Mistral-7B-Instruct-v0.2-GGUF",
+    "summary": "The Mistral-7B-Instruct-v0.2 Large Language Model (LLM) is an instruct fine-tuned version of the Mistral-7B-v0.2.\n\nMistral-7B-v0.2 has the following changes compared to Mistral-7B-v0.1\n\n- 32k context window (vs 8k context in v0.1)\n- Rope-theta = 1e6\n- No Sliding-Window Attention",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "7B",
+    "requires": "8GB+ RAM",
+    "released_at": "2024-01-12T02:18:08Z",
+    "architecture": "mistral",
+    "files": [
+        {
+            "name": "Mistral-7B-Instruct-v0.2-Q2_K.gguf",
+            "size": "3083098304",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "061863aa59c706501c703c785276034a66703f50803b007a533b3df8bdecd9a0",
+            "download": {
+                "default": "https://huggingface.co/second-state/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/Mistral-7B-Instruct-v0.2-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-Instruct-v0.2-Q3_K_L.gguf",
+            "size": "3822024896",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "a11cd57a796963d408ed8951b934130def4cab5819962f44c36a76e3c7c1c1a5",
+            "download": {
+                "default": "https://huggingface.co/second-state/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/Mistral-7B-Instruct-v0.2-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-Instruct-v0.2-Q3_K_M.gguf",
+            "size": "3518986432",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "d4bcf73c2c8b9b1f018e6f278980549b75f8993f0f8f6e3275571fdd3013da51",
+            "download": {
+                "default": "https://huggingface.co/second-state/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/Mistral-7B-Instruct-v0.2-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-Instruct-v0.2-Q3_K_S.gguf",
+            "size": "3164567744",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "3c57d1204f7e22efcb7f6ea7c4e5ef81b99b1234286d05c1d3804dca80516266",
+            "download": {
+                "default": "https://huggingface.co/second-state/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/Mistral-7B-Instruct-v0.2-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-Instruct-v0.2-Q4_0.gguf",
+            "size": "4108916928",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "141da842f1cd9dd6be6cdd0d79cfc1b04a660805f9608c1475e16ce5beb138f2",
+            "download": {
+                "default": "https://huggingface.co/second-state/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/Mistral-7B-Instruct-v0.2-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-Instruct-v0.2-Q4_K_M.gguf",
+            "size": "4368439488",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "14268497e591764a76c9f8085448ca97722f27e85bb89c795d292545e1200a97",
+            "download": {
+                "default": "https://huggingface.co/second-state/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/Mistral-7B-Instruct-v0.2-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-Instruct-v0.2-Q4_K_S.gguf",
+            "size": "4140374208",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "e9b5b4fae8e2461e03411f98f9c7b8fc23cfdf88b63a1222c5021edb338411b9",
+            "download": {
+                "default": "https://huggingface.co/second-state/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/Mistral-7B-Instruct-v0.2-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-Instruct-v0.2-Q5_0.gguf",
+            "size": "4997716160",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "562b5f2928928dbd3a65cc5a32190127b62a0fc1a15abd48fc199f679bb4730f",
+            "download": {
+                "default": "https://huggingface.co/second-state/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/Mistral-7B-Instruct-v0.2-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-Instruct-v0.2-Q5_K_M.gguf",
+            "size": "5131409600",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "4ce9a46d73b47ca1d46aa0f182c12bd18ee2f3bcfffcc397de191ae31c3c3c4e",
+            "download": {
+                "default": "https://huggingface.co/second-state/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/Mistral-7B-Instruct-v0.2-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-Instruct-v0.2-Q5_K_S.gguf",
+            "size": "4997716160",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "a917883b9af98183513cb526477096894b548f820aaf5834790b4ec52082b36a",
+            "download": {
+                "default": "https://huggingface.co/second-state/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/Mistral-7B-Instruct-v0.2-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-Instruct-v0.2-Q6_K.gguf",
+            "size": "5942065344",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "8eae3811bfd827819082fa1c011644dd108e5519f6d1da07ad1db23b6e9d2bac",
+            "download": {
+                "default": "https://huggingface.co/second-state/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/Mistral-7B-Instruct-v0.2-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-Instruct-v0.2-Q8_0.gguf",
+            "size": "7695857856",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "1909b6abaef7c10378f7795396356ab308a8bd8809373b0016a8334287559e07",
+            "download": {
+                "default": "https://huggingface.co/second-state/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/Mistral-7B-Instruct-v0.2-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "mistral-instruct",
+    "reverse_prompt": "",
+    "context_size": 4096,
+    "vector_size": 0,
+    "metrics": {}
+}

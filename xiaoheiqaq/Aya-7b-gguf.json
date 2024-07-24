@@ -1,0 +1,73 @@
+{
+    "id": "xiaoheiqaq/Aya-7b-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "xiaoheiqaq",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-08T18:51:02Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Aya-7b_Q2_K.gguf",
+            "size": "2719242464",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "c77658687887999c9e80329181516ff7cae01455db42e0ed8b5a0f3d773be1bc",
+            "download": {
+                "default": "https://huggingface.co/xiaoheiqaq/Aya-7b-gguf/resolve/main/Aya-7b_Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Aya-7b_Q3_K_M.gguf",
+            "size": "3518986464",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "1c896416638c88662a7133777960dc817dc015eb7a5651510d35de53803c8f18",
+            "download": {
+                "default": "https://huggingface.co/xiaoheiqaq/Aya-7b-gguf/resolve/main/Aya-7b_Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Aya-7b_Q4_K_M.gguf",
+            "size": "4368439520",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "7dccbedea2ffb917d23e67b6076c6fe77a72a971acab91052b58c8bc75f4ddd9",
+            "download": {
+                "default": "https://huggingface.co/xiaoheiqaq/Aya-7b-gguf/resolve/main/Aya-7b_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Aya-7b_Q5_K_M.gguf",
+            "size": "5131409632",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "84a8ec95f5da6d5f45ebabe39964271c9234d823ec7177e691932e397ea1c906",
+            "download": {
+                "default": "https://huggingface.co/xiaoheiqaq/Aya-7b-gguf/resolve/main/Aya-7b_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Aya-7b_Q6_K.gguf",
+            "size": "5942065376",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "5303ca32b76793b3c6899fcb8acb8d52ae4c93b8e52a4bc8957f20972762f888",
+            "download": {
+                "default": "https://huggingface.co/xiaoheiqaq/Aya-7b-gguf/resolve/main/Aya-7b_Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

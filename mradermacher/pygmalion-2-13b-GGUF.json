@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/pygmalion-2-13b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-09T16:19:59Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "pygmalion-2-13b.IQ3_M.gguf",
+            "size": "5984509952",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "07fbe6eb6f0bbc42a052ea0c3a28650c10941a7896c0d81b1b9788ca93822edf",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pygmalion-2-13b-GGUF/resolve/main/pygmalion-2-13b.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "pygmalion-2-13b.IQ3_S.gguf",
+            "size": "5658980352",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "256b34b8cb65ba2eb87b77860d2dd71b03cefb20fd16f16e2cd495cadf7dbc85",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pygmalion-2-13b-GGUF/resolve/main/pygmalion-2-13b.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "pygmalion-2-13b.IQ3_XS.gguf",
+            "size": "5361610752",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "f7306df4a40e71f008e9e77bd391792e07a5564d4af3db5e544ac3f12aeaec02",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pygmalion-2-13b-GGUF/resolve/main/pygmalion-2-13b.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "pygmalion-2-13b.IQ4_XS.gguf",
+            "size": "7019517952",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "da9dad71dc9484cf722d91884decc9ebad7a8e8065945ea2333770705dcdfc15",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pygmalion-2-13b-GGUF/resolve/main/pygmalion-2-13b.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "pygmalion-2-13b.Q2_K.gguf",
+            "size": "4854269952",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "2039f339232f0341fcc02e86991c68150ac6fd75dc567b643861db0896fabf2d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pygmalion-2-13b-GGUF/resolve/main/pygmalion-2-13b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "pygmalion-2-13b.Q3_K_L.gguf",
+            "size": "6929559552",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "c73f6e3975a226b8ad4c5755ca535b26fc496006be364fcf5446d2076b9950e4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pygmalion-2-13b-GGUF/resolve/main/pygmalion-2-13b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "pygmalion-2-13b.Q3_K_M.gguf",
+            "size": "6337769472",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "7f3643f5f0c7ec663346c32452315efc5cc27f6690efd21513e4e626521b3c33",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pygmalion-2-13b-GGUF/resolve/main/pygmalion-2-13b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "pygmalion-2-13b.Q3_K_S.gguf",
+            "size": "5658980352",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "71493e69f8cbe06bd02badb1bb30260c1cd3a67177979f77f43af7120066bfaa",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pygmalion-2-13b-GGUF/resolve/main/pygmalion-2-13b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "pygmalion-2-13b.Q4_K_M.gguf",
+            "size": "7865956352",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5eba5b3cb1ef5f606aac453b51d62c8eb23245659798ea34b14e633def0fad08",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pygmalion-2-13b-GGUF/resolve/main/pygmalion-2-13b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "pygmalion-2-13b.Q4_K_S.gguf",
+            "size": "7423178752",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "24d98597896d7117c9a908cf37d795e31d747554be56bf9711589387ff4a906f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pygmalion-2-13b-GGUF/resolve/main/pygmalion-2-13b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "pygmalion-2-13b.Q5_K_M.gguf",
+            "size": "9229924352",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "71df5d78b5c035ab8b9cf570ad7817ce970ca3e9bb376e8cfde5fd6ae12d5669",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pygmalion-2-13b-GGUF/resolve/main/pygmalion-2-13b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "pygmalion-2-13b.Q5_K_S.gguf",
+            "size": "8972285952",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "645761e2d145f55f4ffefa058f744bdf8014472e7182c463b1b9924fce2cf311",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pygmalion-2-13b-GGUF/resolve/main/pygmalion-2-13b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "pygmalion-2-13b.Q6_K.gguf",
+            "size": "10679140352",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "8ec266be55e4d6432d2cfe07bf1005f514ec1820b6c2c7ad840253d87c08de4f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pygmalion-2-13b-GGUF/resolve/main/pygmalion-2-13b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "pygmalion-2-13b.Q8_0.gguf",
+            "size": "13831319552",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "ead670ede65d72b6887119cf69b2435725f5a6c9d463a1501f14561925caf5ce",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/pygmalion-2-13b-GGUF/resolve/main/pygmalion-2-13b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/DaringMaid-20B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-20T21:04:04Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "daringmaid-20b.Q2_K.gguf",
+            "size": "8312565696",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "b29be669569f6f27c24008a909d7576504abac8110a491447ac3d9d59d7a2b80",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/DaringMaid-20B-GGUF/resolve/main/daringmaid-20b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "daringmaid-20b.Q3_K_L.gguf",
+            "size": "10628741056",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "4833fcee907d716ed11e8da5f0f9590fce487042959da50506bb1bbae8507f02",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/DaringMaid-20B-GGUF/resolve/main/daringmaid-20b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "daringmaid-20b.Q3_K_M.gguf",
+            "size": "9698129856",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "27b91023c8b34b0bc860943c8737046151e3e40d899a088a858f6fa59f6f47c6",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/DaringMaid-20B-GGUF/resolve/main/daringmaid-20b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "daringmaid-20b.Q3_K_S.gguf",
+            "size": "8659343296",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "75c1184b935a254be03b86bae0f9fc508264c7b2cab726389114e4cbd488cce2",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/DaringMaid-20B-GGUF/resolve/main/daringmaid-20b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "daringmaid-20b.Q4_0.gguf",
+            "size": "11292999616",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "d9a672ed65857a1d33e353c0fb5bc9089de3c28fc925d159302bd6c6af5e7181",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/DaringMaid-20B-GGUF/resolve/main/daringmaid-20b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "daringmaid-20b.Q4_K_M.gguf",
+            "size": "12043182016",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "0376f63aad35dba30a447e137cf2dd2934c10abd619f3dfc743b72215c4ddcad",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/DaringMaid-20B-GGUF/resolve/main/daringmaid-20b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "daringmaid-20b.Q4_K_S.gguf",
+            "size": "11341496256",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "440f1dac93e1751becba0439654fca579dce5566413bf2b32da6dd6cb0051d4d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/DaringMaid-20B-GGUF/resolve/main/daringmaid-20b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "daringmaid-20b.Q5_0.gguf",
+            "size": "13771734976",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "cfd5fc1a43fdf4ba244646801f9e6a65682a7cfadf5ecd85beec4a58a5fee9d0",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/DaringMaid-20B-GGUF/resolve/main/daringmaid-20b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "daringmaid-20b.Q5_K_M.gguf",
+            "size": "14158192576",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "8ce83628c7f8669d9aaef902f9357e15988cd95925f1a6c0b3d9013434ec4941",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/DaringMaid-20B-GGUF/resolve/main/daringmaid-20b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "daringmaid-20b.Q5_K_S.gguf",
+            "size": "13771734976",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "41e2632da31ab3020ed7cc55125648dffd9ce51c2d531013b4c55edef184f5dd",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/DaringMaid-20B-GGUF/resolve/main/daringmaid-20b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "daringmaid-20b.Q6_K.gguf",
+            "size": "16405391296",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "240a8ec892e1b2ac8f1ad1989cf36ad2601abf40640514a33b02c281dae1b58d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/DaringMaid-20B-GGUF/resolve/main/daringmaid-20b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "daringmaid-20b.Q8_0.gguf",
+            "size": "21247621056",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "dfad7e98d3178149e808bc185a5820da50d139072d7216a946e05f40685167a7",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/DaringMaid-20B-GGUF/resolve/main/daringmaid-20b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,43 @@
+{
+    "id": "Chuanming/NeuralBeagle14-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Chuanming",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-26T10:14:52Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "neuralbeagle14-7b.Q4_K_M.gguf",
+            "size": "4368439232",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "61c21a452c5cc3afa5554ed1ceaf268e388764840b1141bde5ac2334aec7c939",
+            "download": {
+                "default": "https://huggingface.co/Chuanming/NeuralBeagle14-7B-GGUF/resolve/main/neuralbeagle14-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "neuralbeagle14-7b.Q5_K_M.gguf",
+            "size": "593227776",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "2147fd1036531f915ffb202e913b21c0bd3b080e33f4da1a80b25e3c7fc9c423",
+            "download": {
+                "default": "https://huggingface.co/Chuanming/NeuralBeagle14-7B-GGUF/resolve/main/neuralbeagle14-7b.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

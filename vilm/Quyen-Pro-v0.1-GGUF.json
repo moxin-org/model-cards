@@ -1,0 +1,113 @@
+{
+    "id": "vilm/Quyen-Pro-v0.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "vilm",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-06T16:39:52Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Quyen-Pro-v0.1_f16.gguf",
+            "size": "28342598944",
+            "quantization": "",
+            "tags": [],
+            "sha256": "492538ee8faafb6d3da5281aea307c836119d6d0aa95a36847a6965fd7d8e611",
+            "download": {
+                "default": "https://huggingface.co/vilm/Quyen-Pro-v0.1-GGUF/resolve/main/Quyen-Pro-v0.1_f16.gguf"
+            }
+        },
+        {
+            "name": "Quyen-Pro-v0.1_Q2_K.gguf",
+            "size": "6087290240",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "e8e2acb1347d21446ecb2f3f260e8e37aa8a5795955ca20ea9bbdaf58dc08ed2",
+            "download": {
+                "default": "https://huggingface.co/vilm/Quyen-Pro-v0.1-GGUF/resolve/main/Quyen-Pro-v0.1_Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Quyen-Pro-v0.1_Q3_K_M.gguf",
+            "size": "7418264960",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ae7e7ee1e0f8e7a01367c613e5a712eee738641f0bbf5db6361f41c5d1c2f0c4",
+            "download": {
+                "default": "https://huggingface.co/vilm/Quyen-Pro-v0.1-GGUF/resolve/main/Quyen-Pro-v0.1_Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Quyen-Pro-v0.1_Q4_0.gguf",
+            "size": "8179322240",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "ffa17dfe184553d24152c6ab6bc82c71ca12168fbb33683f2af28f80541ed0ec",
+            "download": {
+                "default": "https://huggingface.co/vilm/Quyen-Pro-v0.1-GGUF/resolve/main/Quyen-Pro-v0.1_Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Quyen-Pro-v0.1_Q4_K_M.gguf",
+            "size": "9191034240",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "03f090dc5e86ad6b3b1cdc26661938407ae6b732c125dc858522ee51dd44cc2e",
+            "download": {
+                "default": "https://huggingface.co/vilm/Quyen-Pro-v0.1-GGUF/resolve/main/Quyen-Pro-v0.1_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Quyen-Pro-v0.1_Q5_0.gguf",
+            "size": "9852784000",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "f2fbe1a5778d162b42dfc83515c915853d1a154c59ecbdca367103b85d71fa69",
+            "download": {
+                "default": "https://huggingface.co/vilm/Quyen-Pro-v0.1-GGUF/resolve/main/Quyen-Pro-v0.1_Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Quyen-Pro-v0.1_Q5_K_M.gguf",
+            "size": "10535996800",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "84dba5f99f0bc43d0b22e9d04a8559fb89005f013a7666c30e2bfde95f817ed3",
+            "download": {
+                "default": "https://huggingface.co/vilm/Quyen-Pro-v0.1-GGUF/resolve/main/Quyen-Pro-v0.1_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Quyen-Pro-v0.1_Q6_K.gguf",
+            "size": "12310158720",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "4c40d50dd56dbcf9bada3703ca64a75c38b9c549cff00ffd8e3c7e2470d6fdae",
+            "download": {
+                "default": "https://huggingface.co/vilm/Quyen-Pro-v0.1-GGUF/resolve/main/Quyen-Pro-v0.1_Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Quyen-Pro-v0.1_Q8_0.gguf",
+            "size": "15061728640",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "3496338981b73a722c818d91cbc66899d517d379500c37e8ac4508cf496d6b07",
+            "download": {
+                "default": "https://huggingface.co/vilm/Quyen-Pro-v0.1-GGUF/resolve/main/Quyen-Pro-v0.1_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}
