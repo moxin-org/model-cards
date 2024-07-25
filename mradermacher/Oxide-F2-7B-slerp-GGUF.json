@@ -1,0 +1,173 @@
+{
+    "id": "mradermacher/Oxide-F2-7B-slerp-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-10T03:12:19Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Oxide-F2-7B-slerp.f16.gguf",
+            "size": "14484731616",
+            "quantization": "",
+            "tags": [],
+            "sha256": "66c4618e31485df9f0a9c6e2e6c14c35ccafd0b45676a02392327541b738c78a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Oxide-F2-7B-slerp-GGUF/resolve/main/Oxide-F2-7B-slerp.f16.gguf"
+            }
+        },
+        {
+            "name": "Oxide-F2-7B-slerp.IQ3_M.gguf",
+            "size": "3284891360",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "c7bb6b9964b22e8bf1b91b8bdfdcee81e3a069ea879cc2b9669d56f9c2842c14",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Oxide-F2-7B-slerp-GGUF/resolve/main/Oxide-F2-7B-slerp.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Oxide-F2-7B-slerp.IQ3_S.gguf",
+            "size": "3182393056",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "24918032cbe396973ca1ede0efce6268522c165f43d05da2fb740afc8a368489",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Oxide-F2-7B-slerp-GGUF/resolve/main/Oxide-F2-7B-slerp.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Oxide-F2-7B-slerp.IQ3_XS.gguf",
+            "size": "3018815200",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "0f3710cc2607051e39128c3fd442416a41bfe56b3c0683d28bee0cedd4a7ab15",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Oxide-F2-7B-slerp-GGUF/resolve/main/Oxide-F2-7B-slerp.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Oxide-F2-7B-slerp.IQ4_XS.gguf",
+            "size": "3944388320",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "cae84ca5ef18846e4f607ff93afb3f6704bade7ba23f1baee397670975313fb6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Oxide-F2-7B-slerp-GGUF/resolve/main/Oxide-F2-7B-slerp.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Oxide-F2-7B-slerp.Q2_K.gguf",
+            "size": "2719241952",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "d8570d8b00e25cf8b7bcceda348dba48c9a3f5faf8c5c6d8a1228cec1cd5fb8f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Oxide-F2-7B-slerp-GGUF/resolve/main/Oxide-F2-7B-slerp.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Oxide-F2-7B-slerp.Q3_K_L.gguf",
+            "size": "3822024416",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "d6295c3aa3a158edd3deb252f77852ee8f0644429ec73fe761ffbb8080f8f63a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Oxide-F2-7B-slerp-GGUF/resolve/main/Oxide-F2-7B-slerp.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Oxide-F2-7B-slerp.Q3_K_M.gguf",
+            "size": "3518985952",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "c91e6d5bf2977c6b3f7bf4810fa847219da9c5681dc843e2fba7872d308808cf",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Oxide-F2-7B-slerp-GGUF/resolve/main/Oxide-F2-7B-slerp.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Oxide-F2-7B-slerp.Q3_K_S.gguf",
+            "size": "3164567264",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "775b01bf587fc2b3178b4757b72a179bde87538c217c2767c471f46559934417",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Oxide-F2-7B-slerp-GGUF/resolve/main/Oxide-F2-7B-slerp.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Oxide-F2-7B-slerp.Q4_K_M.gguf",
+            "size": "4368439008",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "7b1308c1411634c2d8e2a8c8add829fc9188d9ba81978f306ec42c0ab4865624",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Oxide-F2-7B-slerp-GGUF/resolve/main/Oxide-F2-7B-slerp.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Oxide-F2-7B-slerp.Q4_K_S.gguf",
+            "size": "4140373728",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "239ede2b36c6c12fd279a82f5990555337d7a258e7065033aca2b90b7411fe07",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Oxide-F2-7B-slerp-GGUF/resolve/main/Oxide-F2-7B-slerp.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Oxide-F2-7B-slerp.Q5_K_M.gguf",
+            "size": "5131409120",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "356976cf885af38398fbf4b384d6bf7689f53c6a05051f1062e08e091285df43",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Oxide-F2-7B-slerp-GGUF/resolve/main/Oxide-F2-7B-slerp.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Oxide-F2-7B-slerp.Q5_K_S.gguf",
+            "size": "4997715680",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "1c28e2bd0892a8cf3b4c37814abedd7f0f6a8e47301cd8a9bca6671c452e2775",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Oxide-F2-7B-slerp-GGUF/resolve/main/Oxide-F2-7B-slerp.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Oxide-F2-7B-slerp.Q6_K.gguf",
+            "size": "5942064864",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "86fc2f41059c329371e7bd1a6acb0a8b5a8d19e7d05aba1c52762c505b40ecbe",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Oxide-F2-7B-slerp-GGUF/resolve/main/Oxide-F2-7B-slerp.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Oxide-F2-7B-slerp.Q8_0.gguf",
+            "size": "7695857376",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "65e830c31cf2cc4e202732bbc448dd44cfb94c3dba5b9b0f47295a746dd50f55",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Oxide-F2-7B-slerp-GGUF/resolve/main/Oxide-F2-7B-slerp.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

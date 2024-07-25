@@ -1,0 +1,83 @@
+{
+    "id": "jeiku/Pasta-PrimaMaid-7b_GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "jeiku",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-08T00:48:12Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-f16.gguf",
+            "size": "14484731456",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c1b37f7df18e80311269b6f9aaae564388e1ac12a9f5a36979a366f5d8c29543",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Pasta-PrimaMaid-7b_GGUF/resolve/main/ggml-model-f16.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q2_K.gguf",
+            "size": "2719241856",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "be1f46b0a3bb44907549a964a03507f8855935b4d770e7eea9f7a97b4b1c8543",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Pasta-PrimaMaid-7b_GGUF/resolve/main/ggml-model-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q3_K.gguf",
+            "size": "3518985856",
+            "quantization": "Q3_K",
+            "tags": [],
+            "sha256": "255d02cc010a37f967dca421367daf3e40fc52599c9938438198a28641e25c0b",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Pasta-PrimaMaid-7b_GGUF/resolve/main/ggml-model-Q3_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q4_K.gguf",
+            "size": "4368438912",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "6a263ea78ab4791d2ad87d4a8e4836687e8bfd11d238bcb1e33cb99f8c5813de",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Pasta-PrimaMaid-7b_GGUF/resolve/main/ggml-model-Q4_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q5_K.gguf",
+            "size": "5131409024",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "33ec3da210c758065e9722c3163c0c3048ba9caed8c92c162316c7a230a6db12",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Pasta-PrimaMaid-7b_GGUF/resolve/main/ggml-model-Q5_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q6_K.gguf",
+            "size": "5942064768",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b3f6631b0db9a19bab3168f6a67aa372c8791481aa162c79da2eeaae5ddc8bb2",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Pasta-PrimaMaid-7b_GGUF/resolve/main/ggml-model-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

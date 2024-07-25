@@ -1,0 +1,113 @@
+{
+    "id": "TeeZee/DarkForest-20B-v1.0-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TeeZee",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-28T00:16:23Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "DarkForest-20B-v1.0.q2_K.gguf",
+            "size": "7420220960",
+            "quantization": "",
+            "tags": [],
+            "sha256": "15f856967ac3ece858bb3eee0b1c7ec38bebbe4c34154225a7553aae4b52f23a",
+            "download": {
+                "default": "https://huggingface.co/TeeZee/DarkForest-20B-v1.0-GGUF/resolve/main/DarkForest-20B-v1.0.q2_K.gguf"
+            }
+        },
+        {
+            "name": "DarkForest-20B-v1.0.q3_K_M.gguf",
+            "size": "9706004000",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4d4e31968114968ecf3f52b96bb48d43bd7f1ef5d79efd0540bfff3b32d0e865",
+            "download": {
+                "default": "https://huggingface.co/TeeZee/DarkForest-20B-v1.0-GGUF/resolve/main/DarkForest-20B-v1.0.q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "DarkForest-20B-v1.0.q4_0.gguf",
+            "size": "11292026400",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6800c51ffeb18132ca1e12d4e177c47187cbb990dcab26b920f0de5aabf6dddd",
+            "download": {
+                "default": "https://huggingface.co/TeeZee/DarkForest-20B-v1.0-GGUF/resolve/main/DarkForest-20B-v1.0.q4_0.gguf"
+            }
+        },
+        {
+            "name": "DarkForest-20B-v1.0.q4_K_M.gguf",
+            "size": "12042208800",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c50626e3ecc40e07e958e6471521acfe056f4515c65415429fcd4311a1483a69",
+            "download": {
+                "default": "https://huggingface.co/TeeZee/DarkForest-20B-v1.0-GGUF/resolve/main/DarkForest-20B-v1.0.q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "DarkForest-20B-v1.0.q4_K_S.gguf",
+            "size": "11367065120",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f40019471f7c3164e95e0c62fc5b258d772b4adb5dc35e16585a943fd85575dc",
+            "download": {
+                "default": "https://huggingface.co/TeeZee/DarkForest-20B-v1.0-GGUF/resolve/main/DarkForest-20B-v1.0.q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "DarkForest-20B-v1.0.q5_0.gguf",
+            "size": "13770761760",
+            "quantization": "",
+            "tags": [],
+            "sha256": "123b4d397f8b1b4b673a7515cf3f968348769be5666b9e98ea36cfdb5580d744",
+            "download": {
+                "default": "https://huggingface.co/TeeZee/DarkForest-20B-v1.0-GGUF/resolve/main/DarkForest-20B-v1.0.q5_0.gguf"
+            }
+        },
+        {
+            "name": "DarkForest-20B-v1.0.q5_K_M.gguf",
+            "size": "14157219360",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4870eacd5ea2f43732e7d9e8f4077caa6445878817d9aa96ff8fd4bb5ffdf477",
+            "download": {
+                "default": "https://huggingface.co/TeeZee/DarkForest-20B-v1.0-GGUF/resolve/main/DarkForest-20B-v1.0.q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "DarkForest-20B-v1.0.q6_K.gguf",
+            "size": "16404418080",
+            "quantization": "",
+            "tags": [],
+            "sha256": "449ddfffd02f74a187e2a2c6ea96f40155af9137e754dc93b3f44742a4c3b202",
+            "download": {
+                "default": "https://huggingface.co/TeeZee/DarkForest-20B-v1.0-GGUF/resolve/main/DarkForest-20B-v1.0.q6_K.gguf"
+            }
+        },
+        {
+            "name": "DarkForest-20B-v1.0.q8_0.gguf",
+            "size": "21246647840",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ae3e0290d210aede40a7055cd158f03f84acc23e86f9054477d223905d3123fd",
+            "download": {
+                "default": "https://huggingface.co/TeeZee/DarkForest-20B-v1.0-GGUF/resolve/main/DarkForest-20B-v1.0.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

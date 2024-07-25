@@ -1,0 +1,63 @@
+{
+    "id": "Eric111/UltraCatunaMayo-DPO-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Eric111",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-28T11:22:41Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ultracatunamayo-dpo.Q2_K.gguf",
+            "size": "2719242016",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "24dbbc399a7f9e108978d99c6c614abc3e7b9be31bb49901d403cdca5ce859d4",
+            "download": {
+                "default": "https://huggingface.co/Eric111/UltraCatunaMayo-DPO-GGUF/resolve/main/ultracatunamayo-dpo.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "ultracatunamayo-dpo.Q4_K_M.gguf",
+            "size": "4368439072",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "40193ce9006771eb4cf7e115197246f45c0b0140e8334740db5ff60c93ddd173",
+            "download": {
+                "default": "https://huggingface.co/Eric111/UltraCatunaMayo-DPO-GGUF/resolve/main/ultracatunamayo-dpo.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "ultracatunamayo-dpo.Q5_K_M.gguf",
+            "size": "5131409184",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ecec3a000bcf7ab44f820f84fdc9f0b93a4fcc28f9a548584a538f0594f8ea6c",
+            "download": {
+                "default": "https://huggingface.co/Eric111/UltraCatunaMayo-DPO-GGUF/resolve/main/ultracatunamayo-dpo.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "ultracatunamayo-dpo.Q8_0.gguf",
+            "size": "7695857440",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "b5cfe5e45e68236ebcd481986f76ec0fd8ba2794838d5082b8c61e138b91332e",
+            "download": {
+                "default": "https://huggingface.co/Eric111/UltraCatunaMayo-DPO-GGUF/resolve/main/ultracatunamayo-dpo.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

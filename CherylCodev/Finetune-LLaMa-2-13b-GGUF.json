@@ -1,0 +1,43 @@
+{
+    "id": "CherylCodev/Finetune-LLaMa-2-13b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "CherylCodev",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-04T10:14:33Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "finetune-llama-2-13b.Q4_K_M.gguf",
+            "size": "7865963520",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "afff88c388ed5e2e3106d528ba122fa0b886870712472f4ffe24a00a13a536ea",
+            "download": {
+                "default": "https://huggingface.co/CherylCodev/Finetune-LLaMa-2-13b-GGUF/resolve/main/finetune-llama-2-13b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "finetune-llama-2-13b.Q5_K_M.gguf",
+            "size": "9229932160",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ad8ec0d9a27c0b44d5e1289b14330a2fbc793de70ab95d159659bc0c2020ae1e",
+            "download": {
+                "default": "https://huggingface.co/CherylCodev/Finetune-LLaMa-2-13b-GGUF/resolve/main/finetune-llama-2-13b.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

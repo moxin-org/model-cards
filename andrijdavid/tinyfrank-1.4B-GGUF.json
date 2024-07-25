@@ -1,0 +1,243 @@
+{
+    "id": "andrijdavid/tinyfrank-1.4B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "andrijdavid",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-02T15:37:13Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tinyfrank-1.4B-Q5_0.gguf",
+            "size": "948769376",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "237da3c4104664aa69902fa07f8fab43861ffc1cf715a3aa2226bd7232e6c9fb",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/tinyfrank-1.4B-GGUF/resolve/main/tinyfrank-1.4B-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "tinyfrank-q6L.gguf",
+            "size": "1431732832",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7452f98008b3385b212c5be0b8c782c181b7a1eb11a5871bfb2d67bf3e6fd25b",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/tinyfrank-1.4B-GGUF/resolve/main/tinyfrank-q6L.gguf"
+            }
+        },
+        {
+            "name": "tinyfrank-q4L.gguf",
+            "size": "1191404128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3765cc2d81f8d4e6f15c30795aa36947a8cdec8573af1b0c80b30d9d6e156ba7",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/tinyfrank-1.4B-GGUF/resolve/main/tinyfrank-q4L.gguf"
+            }
+        },
+        {
+            "name": "tinyfrank-q2L.gguf",
+            "size": "989725280",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d5696aee9af97f8c2ccafff88746ea5bea146b88d5e89ddf20128305a376b00d",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/tinyfrank-1.4B-GGUF/resolve/main/tinyfrank-q2L.gguf"
+            }
+        },
+        {
+            "name": "tinyfrank-f16.gguf",
+            "size": "2730574400",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3ede0e391a859ff6f34f3ca8cd57d82095c721eb400525f7c42bb254af30677f",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/tinyfrank-1.4B-GGUF/resolve/main/tinyfrank-f16.gguf"
+            }
+        },
+        {
+            "name": "tinyfrank-1.4B-Q8_0.gguf",
+            "size": "1451639392",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "aecc67186930020e8bc7da27cca4a3a36bc18b492a0c5471faa8c048e4522d03",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/tinyfrank-1.4B-GGUF/resolve/main/tinyfrank-1.4B-Q8_0.gguf"
+            }
+        },
+        {
+            "name": "tinyfrank-1.4B-Q6_K.gguf",
+            "size": "1121247840",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "80a9d95ff3f05edeed2ebc869326df3f136056e6e0e0c78b556007e21ea1b8a4",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/tinyfrank-1.4B-GGUF/resolve/main/tinyfrank-1.4B-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "tinyfrank-1.4B-Q5_K.gguf",
+            "size": "971190880",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "763c14333261da02f902c179cf18a6d5159f1581262426e0678e2114ef72c7a9",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/tinyfrank-1.4B-GGUF/resolve/main/tinyfrank-1.4B-Q5_K.gguf"
+            }
+        },
+        {
+            "name": "tinyfrank-1.4B-Q5_K_S.gguf",
+            "size": "948769376",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "580bb65dd5b66f0ddcaea78cc5348b9fefe4be396912a09579af9f8fab4385c7",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/tinyfrank-1.4B-GGUF/resolve/main/tinyfrank-1.4B-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "tinyfrank-1.4B-Q5_K_M.gguf",
+            "size": "971190880",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "763c14333261da02f902c179cf18a6d5159f1581262426e0678e2114ef72c7a9",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/tinyfrank-1.4B-GGUF/resolve/main/tinyfrank-1.4B-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "tinyfrank-1.4B-Q5_1.gguf",
+            "size": "1029935712",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "6d8fa44a1af922cfbbc618d28ef2669b7516a7d2a03b33485acb0949dd5e8316",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/tinyfrank-1.4B-GGUF/resolve/main/tinyfrank-1.4B-Q5_1.gguf"
+            }
+        },
+        {
+            "name": "tinyfrank-1.4B-f16.gguf",
+            "size": "2730574368",
+            "quantization": "",
+            "tags": [],
+            "sha256": "43aa798a9cf2a41e9d305a28a0efca6685d5781f4cf56aa3be023fb53a24508b",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/tinyfrank-1.4B-GGUF/resolve/main/tinyfrank-1.4B-f16.gguf"
+            }
+        },
+        {
+            "name": "tinyfrank-1.4B-Q4_K.gguf",
+            "size": "829960800",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "0c300c6ee90f9ca9897ebd9b131e0668ce42ac71715e10f40123e34d344148ab",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/tinyfrank-1.4B-GGUF/resolve/main/tinyfrank-1.4B-Q4_K.gguf"
+            }
+        },
+        {
+            "name": "tinyfrank-1.4B-Q4_K_S.gguf",
+            "size": "792466016",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "19957b22bcc02d6d0ea6e254360d426595cc6dbf4ed57d0426fc1081b59b2c66",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/tinyfrank-1.4B-GGUF/resolve/main/tinyfrank-1.4B-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "tinyfrank-1.4B-Q4_K_M.gguf",
+            "size": "829960800",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "0c300c6ee90f9ca9897ebd9b131e0668ce42ac71715e10f40123e34d344148ab",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/tinyfrank-1.4B-GGUF/resolve/main/tinyfrank-1.4B-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "tinyfrank-1.4B-Q4_1.gguf",
+            "size": "867603040",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "a3b3716ce1493b3774b15ecb8cfbf1a817711103c0bc209ff4ee64f73fd0445b",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/tinyfrank-1.4B-GGUF/resolve/main/tinyfrank-1.4B-Q4_1.gguf"
+            }
+        },
+        {
+            "name": "tinyfrank-1.4B-Q4_0.gguf",
+            "size": "786436704",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "c7275f9e1f67ae1ffec0193375042e02913fce859e32da7fdf879a4c0f14884a",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/tinyfrank-1.4B-GGUF/resolve/main/tinyfrank-1.4B-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "tinyfrank-1.4B-Q3_K.gguf",
+            "size": "677413472",
+            "quantization": "Q3_K",
+            "tags": [],
+            "sha256": "3e3faa69bff4f11e0ba5f5f6dce17260aaf417993be36f77cd070f44bf21eb50",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/tinyfrank-1.4B-GGUF/resolve/main/tinyfrank-1.4B-Q3_K.gguf"
+            }
+        },
+        {
+            "name": "tinyfrank-1.4B-Q3_K_S.gguf",
+            "size": "613958240",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "9c640b8a7b00cd3326e2fc8414335c45dce8f9f2e93ccfd61ec882c97096eb96",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/tinyfrank-1.4B-GGUF/resolve/main/tinyfrank-1.4B-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "tinyfrank-1.4B-Q3_K_M.gguf",
+            "size": "677413472",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "3e3faa69bff4f11e0ba5f5f6dce17260aaf417993be36f77cd070f44bf21eb50",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/tinyfrank-1.4B-GGUF/resolve/main/tinyfrank-1.4B-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "tinyfrank-1.4B-Q3_K_L.gguf",
+            "size": "731284064",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "80a06febb6090399dd5054fd8a0d1a2b6b01b2f2b2a276b2730893b58da2fb83",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/tinyfrank-1.4B-GGUF/resolve/main/tinyfrank-1.4B-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "tinyfrank-1.4B-Q2_K.gguf",
+            "size": "593883744",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "5b5129299fd568b17006294f3d9329cc5417c1d32196bff8ffe3726a525ce837",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/tinyfrank-1.4B-GGUF/resolve/main/tinyfrank-1.4B-Q2_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

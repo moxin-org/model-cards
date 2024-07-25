@@ -1,0 +1,83 @@
+{
+    "id": "gate369/starsnatched-MemGPT-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "gate369",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-25T01:12:06Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "memgpt.Q3_K_M.gguf",
+            "size": "3518986496",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "597cf261a25643d171401ef39e2c022ae310adc89dd93c838f3b9047b51388b5",
+            "download": {
+                "default": "https://huggingface.co/gate369/starsnatched-MemGPT-GGUF/resolve/main/memgpt.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "memgpt.Q4_0.gguf",
+            "size": "4108916992",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "e3a9f3caaabfcd72bfc296d39ccf4818189aaffddb79b1e3d0fdf42a112b5498",
+            "download": {
+                "default": "https://huggingface.co/gate369/starsnatched-MemGPT-GGUF/resolve/main/memgpt.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "memgpt.Q4_K_M.gguf",
+            "size": "4368439552",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c6db4283e8a95f0fb86a0a18f34b1200a9f8cea9079b3342bddbc1b4ea5648a3",
+            "download": {
+                "default": "https://huggingface.co/gate369/starsnatched-MemGPT-GGUF/resolve/main/memgpt.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "memgpt.Q5_K_M.gguf",
+            "size": "5131409664",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "2d58f078dcfc69e211465c1551095e832e440249a7a991e406bb593d175ba248",
+            "download": {
+                "default": "https://huggingface.co/gate369/starsnatched-MemGPT-GGUF/resolve/main/memgpt.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "memgpt.Q6_K.gguf",
+            "size": "5942065408",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "ab930ca31a9a66a051a0f7b94bb6aa1e44cfaf0999d97fd5e2e0bab4a2798d7f",
+            "download": {
+                "default": "https://huggingface.co/gate369/starsnatched-MemGPT-GGUF/resolve/main/memgpt.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "memgpt.Q8_0.gguf",
+            "size": "7695857920",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "dce8c80b9e2a4333d62744c8eaf74e1484a6c613b4c2bfa6ee75e3db7ef2bc77",
+            "download": {
+                "default": "https://huggingface.co/gate369/starsnatched-MemGPT-GGUF/resolve/main/memgpt.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

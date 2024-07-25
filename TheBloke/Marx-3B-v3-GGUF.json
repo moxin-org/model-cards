@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/Marx-3B-v3-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-17T10:24:45Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "marx-3b-v3.Q2_K.gguf",
+            "size": "1198771136",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "f2f53beaf31c2e6d8daec3540b25734906e19ee9d5d39a9664cb1b6eed0eeb3a",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Marx-3B-v3-GGUF/resolve/main/marx-3b-v3.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "marx-3b-v3.Q3_K_L.gguf",
+            "size": "1508564416",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "444f910047e9aa437df98ab8ef8a2e0b43bac18fb3f41a1d69823f0324cb9d47",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Marx-3B-v3-GGUF/resolve/main/marx-3b-v3.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "marx-3b-v3.Q3_K_M.gguf",
+            "size": "1391418816",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "89b06f22277ea76f2d6d82f6663ee70ec5205cdae79719494a3171a9b2c3a284",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Marx-3B-v3-GGUF/resolve/main/marx-3b-v3.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "marx-3b-v3.Q3_K_S.gguf",
+            "size": "1254448576",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "fb16032da1b4f68d465cb7b2164c5305be8a008657ed0cd6cbb91b3a94b032ee",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Marx-3B-v3-GGUF/resolve/main/marx-3b-v3.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "marx-3b-v3.Q4_0.gguf",
+            "size": "1608570816",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "b93777e2aa772c734ffaf19a368e4e17ec64d6b8808777526aacd4b7f0c8de17",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Marx-3B-v3-GGUF/resolve/main/marx-3b-v3.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "marx-3b-v3.Q4_K_M.gguf",
+            "size": "1708595136",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "9209e1d87bef0c8ccdf3e3aebac2d284717c45c610d3522947c1c42a4982e86a",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Marx-3B-v3-GGUF/resolve/main/marx-3b-v3.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "marx-3b-v3.Q4_K_S.gguf",
+            "size": "1620694976",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "3c0d3729a6504fa31b3889536a7706f282f02a13ee3d70cb5afd2c5d75b9b07a",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Marx-3B-v3-GGUF/resolve/main/marx-3b-v3.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "marx-3b-v3.Q5_0.gguf",
+            "size": "1941862336",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "70995557bb23377868e16e360a185b25e5f789489ae9f6b4d94730580653907f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Marx-3B-v3-GGUF/resolve/main/marx-3b-v3.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "marx-3b-v3.Q5_K_M.gguf",
+            "size": "1993390016",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "9be399534ccbc3c474672cab5dc97fcf97fbecdf1bece294a1897d848a10dbca",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Marx-3B-v3-GGUF/resolve/main/marx-3b-v3.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "marx-3b-v3.Q5_K_S.gguf",
+            "size": "1941862336",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "e9f87ca2b5c83e1baf9734acf2dc57511b31b9b3030f7e6a3c6e9c1777ef9f35",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Marx-3B-v3-GGUF/resolve/main/marx-3b-v3.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "marx-3b-v3.Q6_K.gguf",
+            "size": "2295984576",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "4863d495079ac5f91bbf59ae28f428d1bc8cf999b99f7baafabce1111f5b6498",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Marx-3B-v3-GGUF/resolve/main/marx-3b-v3.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "marx-3b-v3.Q8_0.gguf",
+            "size": "2972925376",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "e1114f7901ce6063eeaae9d0766a0c050d03aa538484961b2e60cdf41e4aba66",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Marx-3B-v3-GGUF/resolve/main/marx-3b-v3.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

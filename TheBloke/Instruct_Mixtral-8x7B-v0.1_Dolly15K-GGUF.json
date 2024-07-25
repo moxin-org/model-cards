@@ -1,0 +1,103 @@
+{
+    "id": "TheBloke/Instruct_Mixtral-8x7B-v0.1_Dolly15K-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-24T17:05:01Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "instruct_mixtral-8x7b-v0.1_dolly15k.Q2_K.gguf",
+            "size": "15644971328",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "9e00312796ba63f7564034d656049e2f1c14d14e7c8b5e6fb6c9161954e0457f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Instruct_Mixtral-8x7B-v0.1_Dolly15K-GGUF/resolve/main/instruct_mixtral-8x7b-v0.1_dolly15k.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "instruct_mixtral-8x7b-v0.1_dolly15k.Q3_K_M.gguf",
+            "size": "20364292416",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "747edfce9846cd0a78a81d388b7b61c80b93cff729e9acc194e578fb044ce48d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Instruct_Mixtral-8x7B-v0.1_Dolly15K-GGUF/resolve/main/instruct_mixtral-8x7b-v0.1_dolly15k.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "instruct_mixtral-8x7b-v0.1_dolly15k.Q4_0.gguf",
+            "size": "26442469696",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "693588044dba16545e6c94c561428de85b916eb7e8327acdd1e00a3a62b5f600",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Instruct_Mixtral-8x7B-v0.1_Dolly15K-GGUF/resolve/main/instruct_mixtral-8x7b-v0.1_dolly15k.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "instruct_mixtral-8x7b-v0.1_dolly15k.Q4_K_M.gguf",
+            "size": "26442469696",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "9d8501b20329a7de0574fa52ec1cbff164043c94b868ce179180aa1a4a2c7919",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Instruct_Mixtral-8x7B-v0.1_Dolly15K-GGUF/resolve/main/instruct_mixtral-8x7b-v0.1_dolly15k.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "instruct_mixtral-8x7b-v0.1_dolly15k.Q5_0.gguf",
+            "size": "32230216000",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "6e0baa88b88969427215d606acdd339b36f4e30277f93e98e7d18c68ce1199a8",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Instruct_Mixtral-8x7B-v0.1_Dolly15K-GGUF/resolve/main/instruct_mixtral-8x7b-v0.1_dolly15k.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "instruct_mixtral-8x7b-v0.1_dolly15k.Q5_K_M.gguf",
+            "size": "32230216000",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "1ea8f2a2415a0b0b1841db1e2f51c6cbd7ad041bbabab36b50c49c7f24394ae0",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Instruct_Mixtral-8x7B-v0.1_Dolly15K-GGUF/resolve/main/instruct_mixtral-8x7b-v0.1_dolly15k.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "instruct_mixtral-8x7b-v0.1_dolly15k.Q6_K.gguf",
+            "size": "38379696448",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "aeead96f82d1d8f2bac886fb474d5d0adbe5c5fa539329f7ed2e1641a1a855e9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Instruct_Mixtral-8x7B-v0.1_Dolly15K-GGUF/resolve/main/instruct_mixtral-8x7b-v0.1_dolly15k.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "instruct_mixtral-8x7b-v0.1_dolly15k.Q8_0.gguf",
+            "size": "49625198912",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "0941a8b0d2a4d49c5df361eecc55dd8d30f9937103aa13dcc166105337d640d6",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Instruct_Mixtral-8x7B-v0.1_Dolly15K-GGUF/resolve/main/instruct_mixtral-8x7b-v0.1_dolly15k.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

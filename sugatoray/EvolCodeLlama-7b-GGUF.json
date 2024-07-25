@@ -1,0 +1,43 @@
+{
+    "id": "sugatoray/EvolCodeLlama-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "sugatoray",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-24T06:25:24Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "evolcodellama-7b.Q4_K_M.gguf",
+            "size": "4081095328",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "cc3f593cee1688cd9724a8a9d411f79271ecc95f0a01dd721b25bf588aad640c",
+            "download": {
+                "default": "https://huggingface.co/sugatoray/EvolCodeLlama-7b-GGUF/resolve/main/evolcodellama-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "evolcodellama-7b.Q5_K_M.gguf",
+            "size": "4783256224",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "3528c277099164d1e58cf915856190c98f9dcb5725cdd6bc5ec7d24d0f893d63",
+            "download": {
+                "default": "https://huggingface.co/sugatoray/EvolCodeLlama-7b-GGUF/resolve/main/evolcodellama-7b.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

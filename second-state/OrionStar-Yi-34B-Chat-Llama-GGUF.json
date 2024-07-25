@@ -1,0 +1,143 @@
+{
+    "id": "second-state/OrionStar-Yi-34B-Chat-Llama-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-25T09:28:28Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "OrionStar-Yi-34B-Chat-Llama-Q2_K.gguf",
+            "size": "12825233408",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "16e1c63a33fed248c9ba259361aafd355464792cbe68e687f029b5e25a9a4b7d",
+            "download": {
+                "default": "https://huggingface.co/second-state/OrionStar-Yi-34B-Chat-Llama-GGUF/resolve/main/OrionStar-Yi-34B-Chat-Llama-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "OrionStar-Yi-34B-Chat-Llama-Q3_K_L.gguf",
+            "size": "18139445248",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "e39ee260a9b74553cd7976014284be8256336de30ceacf7cbe803a38486526ba",
+            "download": {
+                "default": "https://huggingface.co/second-state/OrionStar-Yi-34B-Chat-Llama-GGUF/resolve/main/OrionStar-Yi-34B-Chat-Llama-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "OrionStar-Yi-34B-Chat-Llama-Q3_K_M.gguf",
+            "size": "16654923776",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "b65d9cd6b0c3ffa97b482d3152b406bb5c0ea59ab10a7df2e22ee702d3588060",
+            "download": {
+                "default": "https://huggingface.co/second-state/OrionStar-Yi-34B-Chat-Llama-GGUF/resolve/main/OrionStar-Yi-34B-Chat-Llama-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "OrionStar-Yi-34B-Chat-Llama-Q3_K_S.gguf",
+            "size": "14960293888",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "f4348ff858c96649074de3938c2eef3850b80568c36f609fb4de7e482293c5f3",
+            "download": {
+                "default": "https://huggingface.co/second-state/OrionStar-Yi-34B-Chat-Llama-GGUF/resolve/main/OrionStar-Yi-34B-Chat-Llama-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "OrionStar-Yi-34B-Chat-Llama-Q4_0.gguf",
+            "size": "19466528768",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "2c83d2a43ddb7b6df93026766d1b8cc1b909f53075e47f958b874150f7675e6a",
+            "download": {
+                "default": "https://huggingface.co/second-state/OrionStar-Yi-34B-Chat-Llama-GGUF/resolve/main/OrionStar-Yi-34B-Chat-Llama-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "OrionStar-Yi-34B-Chat-Llama-Q4_K_M.gguf",
+            "size": "20658710528",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "29b71cbc437a6dd04ae24d39f82be30e47d858eb257416464611c962b795649a",
+            "download": {
+                "default": "https://huggingface.co/second-state/OrionStar-Yi-34B-Chat-Llama-GGUF/resolve/main/OrionStar-Yi-34B-Chat-Llama-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "OrionStar-Yi-34B-Chat-Llama-Q4_K_S.gguf",
+            "size": "19598649344",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "72cc5365165e38e760c2a75b4dd6cb928133d6757a423f2b68fbef6b93894951",
+            "download": {
+                "default": "https://huggingface.co/second-state/OrionStar-Yi-34B-Chat-Llama-GGUF/resolve/main/OrionStar-Yi-34B-Chat-Llama-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "OrionStar-Yi-34B-Chat-Llama-Q5_0.gguf",
+            "size": "23707691008",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "23388edcb7a40dc66c419f1dd2415dc213e90d5bc76601f063cec0df750edcdc",
+            "download": {
+                "default": "https://huggingface.co/second-state/OrionStar-Yi-34B-Chat-Llama-GGUF/resolve/main/OrionStar-Yi-34B-Chat-Llama-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "OrionStar-Yi-34B-Chat-Llama-Q5_K_M.gguf",
+            "size": "24321845248",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5ffad97826890a46e9e815a884babe2868f2ed8dfcebdc9386cf73e436148191",
+            "download": {
+                "default": "https://huggingface.co/second-state/OrionStar-Yi-34B-Chat-Llama-GGUF/resolve/main/OrionStar-Yi-34B-Chat-Llama-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "OrionStar-Yi-34B-Chat-Llama-Q5_K_S.gguf",
+            "size": "23707691008",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "b47d5942c23231428fbc5a85d06b9197517c00d28b40236f89adabbb8559c682",
+            "download": {
+                "default": "https://huggingface.co/second-state/OrionStar-Yi-34B-Chat-Llama-GGUF/resolve/main/OrionStar-Yi-34B-Chat-Llama-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "OrionStar-Yi-34B-Chat-Llama-Q6_K.gguf",
+            "size": "28213925888",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "6f2d0e4abe9455eb216ed4dfb5d3d593c32be5eca379eb308812a74f9260d4de",
+            "download": {
+                "default": "https://huggingface.co/second-state/OrionStar-Yi-34B-Chat-Llama-GGUF/resolve/main/OrionStar-Yi-34B-Chat-Llama-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "OrionStar-Yi-34B-Chat-Llama-Q8_0.gguf",
+            "size": "36542281728",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "870e1b18c18fbfa742057cedb48544f1994ed6b8712764858c235f1292b50447",
+            "download": {
+                "default": "https://huggingface.co/second-state/OrionStar-Yi-34B-Chat-Llama-GGUF/resolve/main/OrionStar-Yi-34B-Chat-Llama-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 7168,
+    "vector_size": 0,
+    "metrics": {}
+}

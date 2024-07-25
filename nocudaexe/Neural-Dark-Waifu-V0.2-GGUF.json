@@ -1,0 +1,63 @@
+{
+    "id": "nocudaexe/Neural-Dark-Waifu-V0.2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "nocudaexe",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-11T10:15:28Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Neural-Dark-Waifu-V0.2-f16.gguf",
+            "size": "14484731840",
+            "quantization": "",
+            "tags": [],
+            "sha256": "18d48aabe65dbef25a6b074d16fbea1107e00e0db49133c187463c1eb373aba1",
+            "download": {
+                "default": "https://huggingface.co/nocudaexe/Neural-Dark-Waifu-V0.2-GGUF/resolve/main/Neural-Dark-Waifu-V0.2-f16.gguf"
+            }
+        },
+        {
+            "name": "Neural-Dark-Waifu-V0.2-Q8_0.gguf",
+            "size": "7695857600",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "4014e038102ecc5aa936db70e9f7c2f5612837fb619771e44a4f4213082e9483",
+            "download": {
+                "default": "https://huggingface.co/nocudaexe/Neural-Dark-Waifu-V0.2-GGUF/resolve/main/Neural-Dark-Waifu-V0.2-Q8_0.gguf"
+            }
+        },
+        {
+            "name": "neural-dark-waifu.V0.2.Q4_K_M.gguf",
+            "size": "4368439552",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "3c30a154a87a703ceb62db3d87eabd643b5b62f4aebf88c3d08248c4c708444d",
+            "download": {
+                "default": "https://huggingface.co/nocudaexe/Neural-Dark-Waifu-V0.2-GGUF/resolve/main/neural-dark-waifu.V0.2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "neural-dark-waifu.v0.2.Q5_K_M.gguf",
+            "size": "5131409664",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "d8296af11570ea3993478836675cce5e1489bdd08b7810b502ed262524227184",
+            "download": {
+                "default": "https://huggingface.co/nocudaexe/Neural-Dark-Waifu-V0.2-GGUF/resolve/main/neural-dark-waifu.v0.2.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

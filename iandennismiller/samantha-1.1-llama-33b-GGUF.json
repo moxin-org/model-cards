@@ -1,0 +1,53 @@
+{
+    "id": "iandennismiller/samantha-1.1-llama-33b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "iandennismiller",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-08T21:31:00Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "samantha-1.1-llama-33b.Q4_K_M.gguf",
+            "size": "19566227968",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "ea556558cd9294e2688dad0d6a976ee5069885c3905df016d6c0bdb3996495c4",
+            "download": {
+                "default": "https://huggingface.co/iandennismiller/samantha-1.1-llama-33b-GGUF/resolve/main/samantha-1.1-llama-33b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "samantha-1.1-llama-33b.Q4_K_S.gguf",
+            "size": "18301055456",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "05441329aaefaa3f861e41711e1e24548d9a03481a19b82cd88858d03953bbdf",
+            "download": {
+                "default": "https://huggingface.co/iandennismiller/samantha-1.1-llama-33b-GGUF/resolve/main/samantha-1.1-llama-33b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "samantha-1.1-llama-33b.Q6_K.gguf",
+            "size": "26687216096",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "30327f6b816cf2813ecbd62fbaebc50f70dca48fd9ee3811e1eee02aabff44d4",
+            "download": {
+                "default": "https://huggingface.co/iandennismiller/samantha-1.1-llama-33b-GGUF/resolve/main/samantha-1.1-llama-33b.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

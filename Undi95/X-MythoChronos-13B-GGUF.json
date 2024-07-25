@@ -1,0 +1,73 @@
+{
+    "id": "Undi95/X-MythoChronos-13B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Undi95",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-18T18:38:50Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "X-MythoChronos-13B.q2_k.gguf",
+            "size": "5429348416",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fbd705e1da2ad76f974c629dca037d4e97db067527b0c351d94bd70ede2881f6",
+            "download": {
+                "default": "https://huggingface.co/Undi95/X-MythoChronos-13B-GGUF/resolve/main/X-MythoChronos-13B.q2_k.gguf"
+            }
+        },
+        {
+            "name": "X-MythoChronos-13B.q4_k_s.gguf",
+            "size": "7414331456",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e0cd7cbc0110194bd7359a3f64779ed8243bc27a9d24b3f1b1369743f1492e62",
+            "download": {
+                "default": "https://huggingface.co/Undi95/X-MythoChronos-13B-GGUF/resolve/main/X-MythoChronos-13B.q4_k_s.gguf"
+            }
+        },
+        {
+            "name": "X-MythoChronos-13B.q5_k_m.gguf",
+            "size": "9229924416",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9aced1c9d4287f1f402231befe6a5217b27521cc723b621f39176409540b6e9a",
+            "download": {
+                "default": "https://huggingface.co/Undi95/X-MythoChronos-13B-GGUF/resolve/main/X-MythoChronos-13B.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "X-MythoChronos-13B.q6_k.gguf",
+            "size": "10679140416",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1ce44ebd626f957d81e0ab45ce90a182a63cb0b3259609399e9e586868eddf34",
+            "download": {
+                "default": "https://huggingface.co/Undi95/X-MythoChronos-13B-GGUF/resolve/main/X-MythoChronos-13B.q6_k.gguf"
+            }
+        },
+        {
+            "name": "X-MythoChronos-13B.q8_0.gguf",
+            "size": "13831319616",
+            "quantization": "",
+            "tags": [],
+            "sha256": "123a3b88516f5a9a59fbe43faf24bd7ac9374e0da841dc14eee7613148ff713f",
+            "download": {
+                "default": "https://huggingface.co/Undi95/X-MythoChronos-13B-GGUF/resolve/main/X-MythoChronos-13B.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,63 @@
+{
+    "id": "refarde/Mistral-7B-Instruct-v0.2-Ko-S-Core-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "refarde",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-23T10:18:01Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Mistral-7B-Instruct-v0.2-Ko-S-Core-Q4_0.gguf",
+            "size": "4108916960",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "eef3564a511b25f4bc5f135f33900351f4f89727a889a114e1b377a0cca944b2",
+            "download": {
+                "default": "https://huggingface.co/refarde/Mistral-7B-Instruct-v0.2-Ko-S-Core-GGUF/resolve/main/Mistral-7B-Instruct-v0.2-Ko-S-Core-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-Instruct-v0.2-Ko-S-Core-Q4_K_M.gguf",
+            "size": "4368439520",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "b90d6790372b2181124654fef2380791b57a3d554cab0066ec75af118a9c88cd",
+            "download": {
+                "default": "https://huggingface.co/refarde/Mistral-7B-Instruct-v0.2-Ko-S-Core-GGUF/resolve/main/Mistral-7B-Instruct-v0.2-Ko-S-Core-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-Instruct-v0.2-Ko-S-Core-Q4_K_S.gguf",
+            "size": "4140374240",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "a5ec628314b03b90cbdeb4887d0aac742a0af09c1a8a127adfbb5127671392b6",
+            "download": {
+                "default": "https://huggingface.co/refarde/Mistral-7B-Instruct-v0.2-Ko-S-Core-GGUF/resolve/main/Mistral-7B-Instruct-v0.2-Ko-S-Core-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-Instruct-v0.2-Ko-S-Core-Q8_0.gguf",
+            "size": "7695857888",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "083ed7c7849a361e095a030f0698eed1cb58a39c19ec752a636813ace14d0e67",
+            "download": {
+                "default": "https://huggingface.co/refarde/Mistral-7B-Instruct-v0.2-Ko-S-Core-GGUF/resolve/main/Mistral-7B-Instruct-v0.2-Ko-S-Core-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

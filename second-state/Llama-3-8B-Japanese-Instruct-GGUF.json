@@ -1,0 +1,153 @@
+{
+    "id": "second-state/Llama-3-8B-Japanese-Instruct-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-05-14T05:37:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Llama-3-8B-Japanese-Instruct-f16.gguf",
+            "size": "16068890912",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a2e3f7710c4ec2bd62070695e88af2e2950c3db7fa5354a0eaf4e7e540d6cbbb",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-8B-Japanese-Instruct-GGUF/resolve/main/Llama-3-8B-Japanese-Instruct-f16.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-8B-Japanese-Instruct-Q2_K.gguf",
+            "size": "3179131200",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "62d7a2c8d8397fc99ec2787a1cfd89ed0af2a32629d8a1ec22adee037183bf2a",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-8B-Japanese-Instruct-GGUF/resolve/main/Llama-3-8B-Japanese-Instruct-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-8B-Japanese-Instruct-Q3_K_L.gguf",
+            "size": "4321956160",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "e9464fedd8de14d206159f9f75d663e9082053f28cd29afb43573a154062277b",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-8B-Japanese-Instruct-GGUF/resolve/main/Llama-3-8B-Japanese-Instruct-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-8B-Japanese-Instruct-Q3_K_M.gguf",
+            "size": "4018917696",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "324a212a46a865ab7213a538d5f520b14e2c1206b8e98353bea1cff720316b51",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-8B-Japanese-Instruct-GGUF/resolve/main/Llama-3-8B-Japanese-Instruct-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-8B-Japanese-Instruct-Q3_K_S.gguf",
+            "size": "3664499008",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "28210653257d5c91cd719c24c1dfdc16f1d02f1e60c49923f7841bc664b8793d",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-8B-Japanese-Instruct-GGUF/resolve/main/Llama-3-8B-Japanese-Instruct-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-8B-Japanese-Instruct-Q4_0.gguf",
+            "size": "4661211456",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "a58b2a9dca819f4d7d89a9a165c96624181d77e70907f0bd3ad2ad9d09ee9549",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-8B-Japanese-Instruct-GGUF/resolve/main/Llama-3-8B-Japanese-Instruct-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-8B-Japanese-Instruct-Q4_K_M.gguf",
+            "size": "4920734016",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "cc90b857ed435c024727c3769af0ded2af6dc5bfe8d8b35f7805bd93677d4d42",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-8B-Japanese-Instruct-GGUF/resolve/main/Llama-3-8B-Japanese-Instruct-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-8B-Japanese-Instruct-Q4_K_S.gguf",
+            "size": "4692668736",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "e4c567802d8211e688de955872a588004d33fa6ac2bdeef804d7795e8cf170e5",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-8B-Japanese-Instruct-GGUF/resolve/main/Llama-3-8B-Japanese-Instruct-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-8B-Japanese-Instruct-Q5_0.gguf",
+            "size": "5599293760",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "1b54d6dc20113c895435ae78fefc7dce5152ffd9ed7b735ee316ea70f7ae2609",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-8B-Japanese-Instruct-GGUF/resolve/main/Llama-3-8B-Japanese-Instruct-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-8B-Japanese-Instruct-Q5_K_M.gguf",
+            "size": "5732987200",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "a05cd11c8f83d01dc4dd3b3e74ef59246e6ccf33ad74c93c49af2e1036ad15a6",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-8B-Japanese-Instruct-GGUF/resolve/main/Llama-3-8B-Japanese-Instruct-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-8B-Japanese-Instruct-Q5_K_S.gguf",
+            "size": "5599293760",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "7a1288f669ad6d2e92cb6c415c793af3a126c9d374c9a07109f2a49865047202",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-8B-Japanese-Instruct-GGUF/resolve/main/Llama-3-8B-Japanese-Instruct-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-8B-Japanese-Instruct-Q6_K.gguf",
+            "size": "6596006208",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "df04d491bc6c122f1008db150154ed19c341a6c7ef5b40a12848442e6afdf54b",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-8B-Japanese-Instruct-GGUF/resolve/main/Llama-3-8B-Japanese-Instruct-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-8B-Japanese-Instruct-Q8_0.gguf",
+            "size": "8540770624",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "14ec4de1615dd67fe8899682219909e238f0f50792ff4f4ef57b0bf44d46ce24",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-8B-Japanese-Instruct-GGUF/resolve/main/Llama-3-8B-Japanese-Instruct-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

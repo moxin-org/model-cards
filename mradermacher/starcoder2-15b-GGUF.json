@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/starcoder2-15b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-03T11:39:05Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "starcoder2-15b.IQ3_M.gguf",
+            "size": "7760512832",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "1610edcfea9c5e10a84a1f793ddda08058fc3b3d5cf2cb5d6c6c616cbd8f14c4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/starcoder2-15b-GGUF/resolve/main/starcoder2-15b.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "starcoder2-15b.IQ3_S.gguf",
+            "size": "7359432512",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "3d70234c3963b956db59b53c6cc47a816e46c53cca79f064c41b692c0c24cae5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/starcoder2-15b-GGUF/resolve/main/starcoder2-15b.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "starcoder2-15b.IQ3_XS.gguf",
+            "size": "7070418752",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "115bd85e9995bd1c2d446fc9cc88e2b461c3534cbf715c86091ca276e4bc6f1b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/starcoder2-15b-GGUF/resolve/main/starcoder2-15b.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "starcoder2-15b.IQ4_XS.gguf",
+            "size": "9188083520",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "91ffa30fb00396fabc81b47b9c0662f68e32f3c01c780f884e694b53d0ea8d3c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/starcoder2-15b-GGUF/resolve/main/starcoder2-15b.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "starcoder2-15b.Q2_K.gguf",
+            "size": "6549210944",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "8511335019347a2a1db9fe3822933ea1acdd795724f333949aab873e8e24ff3e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/starcoder2-15b-GGUF/resolve/main/starcoder2-15b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "starcoder2-15b.Q3_K_L.gguf",
+            "size": "9321580352",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "2d81a1ad9cb8732c4fbbf8859e9e8fdd9731ddd668d45a4fc1c2bee19bc815e4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/starcoder2-15b-GGUF/resolve/main/starcoder2-15b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "starcoder2-15b.Q3_K_M.gguf",
+            "size": "8457291584",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "b8da76e8c1cae5d3f89bb2d6426d355543be8ed3ff9616d17ec20352423a7e0e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/starcoder2-15b-GGUF/resolve/main/starcoder2-15b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "starcoder2-15b.Q3_K_S.gguf",
+            "size": "7342720832",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "345c6ca73c7d31c299e184f552019d3236a0d2b7c947c09fbadf7521d697b805",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/starcoder2-15b-GGUF/resolve/main/starcoder2-15b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "starcoder2-15b.Q4_K_M.gguf",
+            "size": "10216441664",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "b76b40f02ecf0254c115318331fb80a0cc70fc44340d7ad5954e00b0878afa6b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/starcoder2-15b-GGUF/resolve/main/starcoder2-15b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "starcoder2-15b.Q4_K_S.gguf",
+            "size": "9611970368",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "35b1323c346f3e05333ce0a6979b89e6fb76e203df08fd395757a1f64fe0b9e0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/starcoder2-15b-GGUF/resolve/main/starcoder2-15b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "starcoder2-15b.Q5_K_M.gguf",
+            "size": "11787732800",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "034462822ece6cf5e9c319884f3279ffedad6ff9dcc429d9339aaa52fe28c67c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/starcoder2-15b-GGUF/resolve/main/starcoder2-15b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "starcoder2-15b.Q5_K_S.gguf",
+            "size": "11378296640",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "c21dd3d29787818d58dd49625a5763a8409cde8c7b92f526c5b49566c5e16f29",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/starcoder2-15b-GGUF/resolve/main/starcoder2-15b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "starcoder2-15b.Q6_K.gguf",
+            "size": "13457229632",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "37ba98d7acc3f6a876d98c1fa83771ee484f74ac62e59bb6796745e17f593920",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/starcoder2-15b-GGUF/resolve/main/starcoder2-15b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "starcoder2-15b.Q8_0.gguf",
+            "size": "17248225088",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "3a5191e254dca2726fd6df64aef21c481a6f5e96f34c1223051303a8d49a2054",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/starcoder2-15b-GGUF/resolve/main/starcoder2-15b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

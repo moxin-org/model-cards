@@ -1,0 +1,53 @@
+{
+    "id": "croissantllm/CroissantLLMChat-v0.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "croissantllm",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-08T10:07:39Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "croissantllmchat-v0.1.Q4_K_M.gguf",
+            "size": "872319104",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "932a8d4007221249aec65400bb3df8555ea5e679acb27b5041d3b2c6687c0de5",
+            "download": {
+                "default": "https://huggingface.co/croissantllm/CroissantLLMChat-v0.1-GGUF/resolve/main/croissantllmchat-v0.1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "croissantllmchat-v0.1.Q5_K_M.gguf",
+            "size": "1000639104",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "0bddabe59b8b4ef758eea4369bc25d0e67ad785aa812442e0ead1f60c70da676",
+            "download": {
+                "default": "https://huggingface.co/croissantllm/CroissantLLMChat-v0.1-GGUF/resolve/main/croissantllmchat-v0.1.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "croissantllmchat-v0.1.Q8_0.gguf",
+            "size": "1430570080",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "42bb5ab4f7815f431ae725f429ef9495d4c72530e46fe7e4203343847360857d",
+            "download": {
+                "default": "https://huggingface.co/croissantllm/CroissantLLMChat-v0.1-GGUF/resolve/main/croissantllmchat-v0.1.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

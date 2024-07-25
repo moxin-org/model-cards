@@ -1,0 +1,63 @@
+{
+    "id": "nold/Prima-LelantaclesV3-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "nold",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-19T06:37:45Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Prima-LelantaclesV3-7b_Q4_K_M.gguf",
+            "size": "4368438912",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "2ee1093bcc2cb8e8d7e770b9c995cff5a748626311960156c7fae5363d432021",
+            "download": {
+                "default": "https://huggingface.co/nold/Prima-LelantaclesV3-7b-GGUF/resolve/main/Prima-LelantaclesV3-7b_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Prima-LelantaclesV3-7b_Q5_K_M.gguf",
+            "size": "5131409024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "71a63fd7e760aec8a28fba1ff07b920bb05ebac4df5e7c054d13b2f2d6b1973d",
+            "download": {
+                "default": "https://huggingface.co/nold/Prima-LelantaclesV3-7b-GGUF/resolve/main/Prima-LelantaclesV3-7b_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Prima-LelantaclesV3-7b_Q6_K.gguf",
+            "size": "5942064768",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "cb466f58ab1ff0e03151b79d471c67470c6c27b5e0a861aa58789a40bd9b4d89",
+            "download": {
+                "default": "https://huggingface.co/nold/Prima-LelantaclesV3-7b-GGUF/resolve/main/Prima-LelantaclesV3-7b_Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Prima-LelantaclesV3-7b_Q8_0.gguf",
+            "size": "7695857280",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "3fddeec5db867b717bca85f3585f1b7ada0977a0e217f4db426bc81216eb9cf6",
+            "download": {
+                "default": "https://huggingface.co/nold/Prima-LelantaclesV3-7b-GGUF/resolve/main/Prima-LelantaclesV3-7b_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

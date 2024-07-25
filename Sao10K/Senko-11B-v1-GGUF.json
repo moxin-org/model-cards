@@ -1,0 +1,63 @@
+{
+    "id": "Sao10K/Senko-11B-v1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Sao10K",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-13T15:52:11Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Senko-11B-v1.q4_K_S.gguf",
+            "size": "6118520928",
+            "quantization": "",
+            "tags": [],
+            "sha256": "258e76519a28330f1b21d75402aad2a8bf744ef93fd6d08102b8088886262b26",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Senko-11B-v1-GGUF/resolve/main/Senko-11B-v1.q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Senko-11B-v1.q5_K_M.gguf",
+            "size": "7597930592",
+            "quantization": "",
+            "tags": [],
+            "sha256": "65b9fd328e62b7db0ee2ce301e018f667068d233101afe1a346ff0bfaae2d117",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Senko-11B-v1-GGUF/resolve/main/Senko-11B-v1.q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Senko-11B-v1.q6_K.gguf",
+            "size": "8805210208",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8df49e43944ee0c3ff7220a26b71d974a434c1b9cd63560df1a03ae789d0e175",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Senko-11B-v1-GGUF/resolve/main/Senko-11B-v1.q6_K.gguf"
+            }
+        },
+        {
+            "name": "Senko-11B-v1.q8_0.gguf",
+            "size": "11404154976",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b74b30c047ff1e646bddec8ea742775fd1dca64da0634976384968e7c6d8c9cd",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Senko-11B-v1-GGUF/resolve/main/Senko-11B-v1.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

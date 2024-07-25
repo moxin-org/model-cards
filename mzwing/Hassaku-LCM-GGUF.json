@@ -1,0 +1,83 @@
+{
+    "id": "mzwing/Hassaku-LCM-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mzwing",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-22T05:36:58Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "hassakuHentaiModel_v13-LCM.f16.gguf",
+            "size": "2132584864",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1cf7f84751cea6edb75090f91ff8d099a2b567775c6d0667bb77f0bff4f5aaa5",
+            "download": {
+                "default": "https://huggingface.co/mzwing/Hassaku-LCM-GGUF/resolve/main/hassakuHentaiModel_v13-LCM.f16.gguf"
+            }
+        },
+        {
+            "name": "hassakuHentaiModel_v13-LCM.q4_0.gguf",
+            "size": "1566766336",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fc5b54706b38fd07b302a1f82d8c7ef0aa55bb3edfa3d07b7e1ca3fb096c2bd2",
+            "download": {
+                "default": "https://huggingface.co/mzwing/Hassaku-LCM-GGUF/resolve/main/hassakuHentaiModel_v13-LCM.q4_0.gguf"
+            }
+        },
+        {
+            "name": "hassakuHentaiModel_v13-LCM.q4_1.gguf",
+            "size": "1591362816",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f45bff0bb31732ad261098d16bc1ab185c10794f8f6053c2a84ea97ac068a141",
+            "download": {
+                "default": "https://huggingface.co/mzwing/Hassaku-LCM-GGUF/resolve/main/hassakuHentaiModel_v13-LCM.q4_1.gguf"
+            }
+        },
+        {
+            "name": "hassakuHentaiModel_v13-LCM.q5_0.gguf",
+            "size": "1615965824",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b87af9a764daeb4666244cd6eb060224eb1e8bd59a9d04261741a461b96a462e",
+            "download": {
+                "default": "https://huggingface.co/mzwing/Hassaku-LCM-GGUF/resolve/main/hassakuHentaiModel_v13-LCM.q5_0.gguf"
+            }
+        },
+        {
+            "name": "hassakuHentaiModel_v13-LCM.q5_1.gguf",
+            "size": "1640562176",
+            "quantization": "",
+            "tags": [],
+            "sha256": "57790e332368829fde4a4d01d2d42be853d02b5efe33273d211500a3b041cfcc",
+            "download": {
+                "default": "https://huggingface.co/mzwing/Hassaku-LCM-GGUF/resolve/main/hassakuHentaiModel_v13-LCM.q5_1.gguf"
+            }
+        },
+        {
+            "name": "hassakuHentaiModel_v13-LCM.q8_0.gguf",
+            "size": "1763576096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fce8a6203550cd353089cd1615aa79f8cce5763862618106a6dff7fdbf002636",
+            "download": {
+                "default": "https://huggingface.co/mzwing/Hassaku-LCM-GGUF/resolve/main/hassakuHentaiModel_v13-LCM.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

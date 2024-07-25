@@ -1,0 +1,93 @@
+{
+    "id": "afrideva/smartyplats-1.1b-v2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-27T04:39:08Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "smartyplats-1.1b-v2.fp16.gguf",
+            "size": "2201990048",
+            "quantization": "",
+            "tags": [],
+            "sha256": "96fec91a6a8df4f3666e85de2393405ee2397c33e8140bf497e55d036dba7d4d",
+            "download": {
+                "default": "https://huggingface.co/afrideva/smartyplats-1.1b-v2-GGUF/resolve/main/smartyplats-1.1b-v2.fp16.gguf"
+            }
+        },
+        {
+            "name": "smartyplats-1.1b-v2.q2_k.gguf",
+            "size": "483115968",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e4266e24c06985d1347afc3882b0d366cfd082eded69b94048b054f4803354ae",
+            "download": {
+                "default": "https://huggingface.co/afrideva/smartyplats-1.1b-v2-GGUF/resolve/main/smartyplats-1.1b-v2.q2_k.gguf"
+            }
+        },
+        {
+            "name": "smartyplats-1.1b-v2.q3_k_m.gguf",
+            "size": "550818752",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e745fd5d06f099f9315795c026f190f87913414cb0f272c2ab856ecf8d75502e",
+            "download": {
+                "default": "https://huggingface.co/afrideva/smartyplats-1.1b-v2-GGUF/resolve/main/smartyplats-1.1b-v2.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "smartyplats-1.1b-v2.q4_k_m.gguf",
+            "size": "668787648",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8bd6afd61eaab5c557f7d8bc3f7f041673550462804fe705d731ade6491b96f2",
+            "download": {
+                "default": "https://huggingface.co/afrideva/smartyplats-1.1b-v2-GGUF/resolve/main/smartyplats-1.1b-v2.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "smartyplats-1.1b-v2.q5_k_m.gguf",
+            "size": "783016896",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c27e51f791697bf18e074cb2a1c4727bc825e93e86084b3574a08b514aee3e02",
+            "download": {
+                "default": "https://huggingface.co/afrideva/smartyplats-1.1b-v2-GGUF/resolve/main/smartyplats-1.1b-v2.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "smartyplats-1.1b-v2.q6_k.gguf",
+            "size": "904385472",
+            "quantization": "",
+            "tags": [],
+            "sha256": "463b6e4b5b9eecce9176bbb99e1381c8b94782ff815934dc93af0cd293ad59da",
+            "download": {
+                "default": "https://huggingface.co/afrideva/smartyplats-1.1b-v2-GGUF/resolve/main/smartyplats-1.1b-v2.q6_k.gguf"
+            }
+        },
+        {
+            "name": "smartyplats-1.1b-v2.q8_0.gguf",
+            "size": "1170781120",
+            "quantization": "",
+            "tags": [],
+            "sha256": "627a18ef87d754b1f35012a97f971b3c870b3661273965b8ede2bac941e2d125",
+            "download": {
+                "default": "https://huggingface.co/afrideva/smartyplats-1.1b-v2-GGUF/resolve/main/smartyplats-1.1b-v2.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

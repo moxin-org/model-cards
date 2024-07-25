@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/NeuralContext-7b-v2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-29T21:44:40Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "NeuralContext-7b-v2.IQ3_M.gguf",
+            "size": "3439515840",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "b125dd1ce3ff1f7eb8e440476ddb657a5c53ca4c93928c02dc3f3ab3578bf91b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralContext-7b-v2-GGUF/resolve/main/NeuralContext-7b-v2.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "NeuralContext-7b-v2.IQ3_S.gguf",
+            "size": "3337017536",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "c4165c0abd5318ce49d5c8be2e3903072a3278786c31665e06b1f48920fc1b20",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralContext-7b-v2-GGUF/resolve/main/NeuralContext-7b-v2.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "NeuralContext-7b-v2.IQ3_XS.gguf",
+            "size": "3173439680",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "d8b4bdffa9ca8b5ed1dd2ab8f439f9135707f39f886d06b65ffc4be49b6f1b7f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralContext-7b-v2-GGUF/resolve/main/NeuralContext-7b-v2.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "NeuralContext-7b-v2.IQ4_NL.gguf",
+            "size": "4309678272",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "e7cacc0e9be65fe4cee541b605423a13680b5527cca25397eff07bf149607497",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralContext-7b-v2-GGUF/resolve/main/NeuralContext-7b-v2.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "NeuralContext-7b-v2.IQ4_XS.gguf",
+            "size": "4099012800",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "739652ee8becdd9d3fa4b534839982c592b384c2682ab8ec317af7f832916b7e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralContext-7b-v2-GGUF/resolve/main/NeuralContext-7b-v2.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "NeuralContext-7b-v2.Q2_K.gguf",
+            "size": "2873866432",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "98e4257eb6528892131fd42c9b020577eec7c6b7ecfd15b55ff7c5200b75cd20",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralContext-7b-v2-GGUF/resolve/main/NeuralContext-7b-v2.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "NeuralContext-7b-v2.Q3_K_L.gguf",
+            "size": "3976648896",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "46524d95641c3211695570dc0733eed13a01bf1a9affb70a85403c050c667876",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralContext-7b-v2-GGUF/resolve/main/NeuralContext-7b-v2.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "NeuralContext-7b-v2.Q3_K_M.gguf",
+            "size": "3673610432",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e6133f2aa2d5aa34cb3021f0fe871af86c7b1be48745405ad2b86df7dc8d60de",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralContext-7b-v2-GGUF/resolve/main/NeuralContext-7b-v2.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "NeuralContext-7b-v2.Q3_K_S.gguf",
+            "size": "3319191744",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "b5145f3c950c6b77ec7a7cb9a1e8d2c35757b309ac989bba06430829bbf4913b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralContext-7b-v2-GGUF/resolve/main/NeuralContext-7b-v2.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "NeuralContext-7b-v2.Q4_0.gguf",
+            "size": "4263540928",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "9528a732a9819f9df6645a3d3a440b311a4f4627b6b1653f6a84d48b6c53225b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralContext-7b-v2-GGUF/resolve/main/NeuralContext-7b-v2.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "NeuralContext-7b-v2.Q4_K_M.gguf",
+            "size": "4523063488",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "daccb982d2979bcd586241568138b1e9566968bd019c8a25e159281a0d005479",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralContext-7b-v2-GGUF/resolve/main/NeuralContext-7b-v2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "NeuralContext-7b-v2.Q4_K_S.gguf",
+            "size": "4294998208",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "07630a6925d1ea93c1251f01ab78e2a36d4cb3315d525fc00527234733e105a3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralContext-7b-v2-GGUF/resolve/main/NeuralContext-7b-v2.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "NeuralContext-7b-v2.Q5_K_M.gguf",
+            "size": "5286033600",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "320b04da0138527c6452711f7d44799b688225677f14ac10a53f9265cad78b8f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralContext-7b-v2-GGUF/resolve/main/NeuralContext-7b-v2.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "NeuralContext-7b-v2.Q5_K_S.gguf",
+            "size": "5152340160",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "6fbef2c6ebfe6f3422014ee96072c17b1e2e0825754ea62f131915ce26d7e3fa",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralContext-7b-v2-GGUF/resolve/main/NeuralContext-7b-v2.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "NeuralContext-7b-v2.Q6_K.gguf",
+            "size": "6096689344",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "ffc3275055492fb1eecd987d34f6e4ca2b94435bcfb3723bdb5282023383f4d8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralContext-7b-v2-GGUF/resolve/main/NeuralContext-7b-v2.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "NeuralContext-7b-v2.Q8_0.gguf",
+            "size": "7818737856",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "e4ebb7bb87b58d7c2385a0cedfff273a0fd6df839bcc8adf01ef828a1fc6341f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralContext-7b-v2-GGUF/resolve/main/NeuralContext-7b-v2.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

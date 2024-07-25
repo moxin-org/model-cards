@@ -1,0 +1,133 @@
+{
+    "id": "intervitens/internlm-chat-20b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "intervitens",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-03T05:47:43Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "internlm-chat-20b.Q2_K.gguf",
+            "size": "8473124960",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "34c6b24ca8c50150358704eaf05f39ed32e780dd4c3474534801d475cf5c3444",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm-chat-20b-GGUF/resolve/main/internlm-chat-20b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "internlm-chat-20b.Q3_K_L.gguf",
+            "size": "10752129120",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "6848085727f258bc4bb5317903e7f0e8ef360fc2df84874ee4a0d9b6ba22404f",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm-chat-20b-GGUF/resolve/main/internlm-chat-20b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "internlm-chat-20b.Q3_K_M.gguf",
+            "size": "9852319840",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "f0abc81db9617364d3ba2f29bdd151a2de2f17bda15bb9179c44a7963ba939c5",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm-chat-20b-GGUF/resolve/main/internlm-chat-20b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "internlm-chat-20b.Q3_K_S.gguf",
+            "size": "8846260320",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "23962712b33f71c906dc34ca40eb36db4ec292853c334c12ec77944be82f5906",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm-chat-20b-GGUF/resolve/main/internlm-chat-20b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "internlm-chat-20b.Q4_0.gguf",
+            "size": "11444056160",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "fd352e46c215453f8b840a96f6efa94882867f4a760556e1f9165f4c7210d1cf",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm-chat-20b-GGUF/resolve/main/internlm-chat-20b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "internlm-chat-20b.Q4_K_M.gguf",
+            "size": "12194238560",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e9ebd744c6f823eb7de17a56e27c6ea92a1a4cdd4db15bc8bd71ab8cb61435ae",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm-chat-20b-GGUF/resolve/main/internlm-chat-20b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "internlm-chat-20b.Q4_K_S.gguf",
+            "size": "11492552800",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "e068f826a4c050a098ae3eb7b6f2e0cab05138d910353c4542042616ed2b5716",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm-chat-20b-GGUF/resolve/main/internlm-chat-20b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "internlm-chat-20b.Q5_0.gguf",
+            "size": "13889040480",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "ae88fe0e2e966c5a5c057cb0c6a8d1400bb0aacca9b140e221a031714ba8bbeb",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm-chat-20b-GGUF/resolve/main/internlm-chat-20b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "internlm-chat-20b.Q5_K_M.gguf",
+            "size": "14275498080",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "2873adfcbe3e942f97d250364eca242e3c5d574420b711b7b4a25d7a5c49f868",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm-chat-20b-GGUF/resolve/main/internlm-chat-20b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "internlm-chat-20b.Q5_K_S.gguf",
+            "size": "13889040480",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "3d3b3d7ce50144c48383f67c550848612bded7f9650a6dd39430c95223518079",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm-chat-20b-GGUF/resolve/main/internlm-chat-20b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "internlm-chat-20b.Q6_K.gguf",
+            "size": "16486836320",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "fe05b239106dbe9ac7eb448fe819cd7bbac6cb9670abd9a790e15dc2de332274",
+            "download": {
+                "default": "https://huggingface.co/intervitens/internlm-chat-20b-GGUF/resolve/main/internlm-chat-20b.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

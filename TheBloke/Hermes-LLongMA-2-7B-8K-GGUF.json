@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/Hermes-LLongMA-2-7B-8K-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-05T17:38:06Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "hermes-llongma-2-7b-8k.Q2_K.gguf",
+            "size": "2825940736",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "12475fcc9004d22eeb5e41685c862f142fe2b61dd6872831260fff63d2e4042d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Hermes-LLongMA-2-7B-8K-GGUF/resolve/main/hermes-llongma-2-7b-8k.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "hermes-llongma-2-7b-8k.Q3_K_L.gguf",
+            "size": "3597111040",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "ca6238400c569426477fa9a46e7b69524d4b8d8bf343eeda5068f31793efdaf8",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Hermes-LLongMA-2-7B-8K-GGUF/resolve/main/hermes-llongma-2-7b-8k.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "hermes-llongma-2-7b-8k.Q3_K_M.gguf",
+            "size": "3298004736",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "08c99cf835613c4e92ca074b8ebbcf9b1da512c913a6fc6bdc4ead0af71a0e81",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Hermes-LLongMA-2-7B-8K-GGUF/resolve/main/hermes-llongma-2-7b-8k.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "hermes-llongma-2-7b-8k.Q3_K_S.gguf",
+            "size": "2948304640",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "e1df20587ba3c17fd32b368806485ff50c9ccf12cba6aa1c9acf75198189e0f6",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Hermes-LLongMA-2-7B-8K-GGUF/resolve/main/hermes-llongma-2-7b-8k.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "hermes-llongma-2-7b-8k.Q4_0.gguf",
+            "size": "3825807104",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "46dc0970f49be6e7c2fe75472f6a76e9e9946f41af5c684e65e2fee5fcf13ec5",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Hermes-LLongMA-2-7B-8K-GGUF/resolve/main/hermes-llongma-2-7b-8k.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "hermes-llongma-2-7b-8k.Q4_K_M.gguf",
+            "size": "4081004288",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e0dc19082c082598cd827e57f9578a46134ff114e7cbef9e531933dc870ca129",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Hermes-LLongMA-2-7B-8K-GGUF/resolve/main/hermes-llongma-2-7b-8k.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "hermes-llongma-2-7b-8k.Q4_K_S.gguf",
+            "size": "3856740096",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "10d3a65cc6b21b1fcdb73d7fd3288fb2468faba91d994b9825cdbc22ba2bc10f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Hermes-LLongMA-2-7B-8K-GGUF/resolve/main/hermes-llongma-2-7b-8k.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "hermes-llongma-2-7b-8k.Q5_0.gguf",
+            "size": "4651691776",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "0cec2cde1d64880383eee27dd05dbfbf3df27bfae36362f3fe81b691410c7c5f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Hermes-LLongMA-2-7B-8K-GGUF/resolve/main/hermes-llongma-2-7b-8k.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "hermes-llongma-2-7b-8k.Q5_K_M.gguf",
+            "size": "4783156992",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "097baed915ac914d42e5c3ec1b308350b8dfa33faa62cd98ce60888d775d8194",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Hermes-LLongMA-2-7B-8K-GGUF/resolve/main/hermes-llongma-2-7b-8k.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "hermes-llongma-2-7b-8k.Q5_K_S.gguf",
+            "size": "4651691776",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "9367ed448923100fa98ff55d55add4dfd1906c5e1be2244cf7f26950acd29c40",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Hermes-LLongMA-2-7B-8K-GGUF/resolve/main/hermes-llongma-2-7b-8k.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "hermes-llongma-2-7b-8k.Q6_K.gguf",
+            "size": "5529194240",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "a09a4592e7e227494abd7645d5b6569c4bacba9019dd9f6f87728701acc4350e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Hermes-LLongMA-2-7B-8K-GGUF/resolve/main/hermes-llongma-2-7b-8k.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "hermes-llongma-2-7b-8k.Q8_0.gguf",
+            "size": "7161089792",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "f7ed7d49d813f538a560fcf36ec3031e1a089dee19626c9f557246ffa16db2f1",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Hermes-LLongMA-2-7B-8K-GGUF/resolve/main/hermes-llongma-2-7b-8k.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

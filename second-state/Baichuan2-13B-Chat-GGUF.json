@@ -1,0 +1,143 @@
+{
+    "id": "second-state/Baichuan2-13B-Chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-24T02:26:38Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Baichuan2-13B-Chat-Q2_K.gguf",
+            "size": "5926713056",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "b3bf9efe5af9a0556772d1c32c476b7e95d067d7365420aa1fd548cc017f4844",
+            "download": {
+                "default": "https://huggingface.co/second-state/Baichuan2-13B-Chat-GGUF/resolve/main/Baichuan2-13B-Chat-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Baichuan2-13B-Chat-Q3_K_L.gguf",
+            "size": "7666110176",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "bc3674747d3533f9f858a7c2015263bd0e35c345fea7e99e7c346598d9e340e1",
+            "download": {
+                "default": "https://huggingface.co/second-state/Baichuan2-13B-Chat-GGUF/resolve/main/Baichuan2-13B-Chat-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Baichuan2-13B-Chat-Q3_K_M.gguf",
+            "size": "7243976416",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "40712faff4eeaaaecb502a13046abb4d8b503944563881138aef5aa384ee7c2e",
+            "download": {
+                "default": "https://huggingface.co/second-state/Baichuan2-13B-Chat-GGUF/resolve/main/Baichuan2-13B-Chat-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Baichuan2-13B-Chat-Q3_K_S.gguf",
+            "size": "6774820576",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "e48692364aab966e2378cd49d21f000ae377c930799e938f7ba002a8149f470e",
+            "download": {
+                "default": "https://huggingface.co/second-state/Baichuan2-13B-Chat-GGUF/resolve/main/Baichuan2-13B-Chat-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Baichuan2-13B-Chat-Q4_0.gguf",
+            "size": "7987103456",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "d6cf9a7f585c241f853a40a27c6c106f9e3fd17f7ce45e332fe5fae5cb2ed106",
+            "download": {
+                "default": "https://huggingface.co/second-state/Baichuan2-13B-Chat-GGUF/resolve/main/Baichuan2-13B-Chat-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Baichuan2-13B-Chat-Q4_K_M.gguf",
+            "size": "8998815456",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "3a05631db845767ae5eb4690f4670365a9ec1e350936136e17f3d7129c916bf2",
+            "download": {
+                "default": "https://huggingface.co/second-state/Baichuan2-13B-Chat-GGUF/resolve/main/Baichuan2-13B-Chat-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Baichuan2-13B-Chat-Q4_K_S.gguf",
+            "size": "8372741856",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "7b7ebb69eb700f22d0e0b58671c111f3fc5fbcdcc36f797ab2bce1b2054d6baa",
+            "download": {
+                "default": "https://huggingface.co/second-state/Baichuan2-13B-Chat-GGUF/resolve/main/Baichuan2-13B-Chat-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Baichuan2-13B-Chat-Q5_0.gguf",
+            "size": "9643689696",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "3904c5c37c527ae5e81af98dbdb1e63cc8eb750537f8897d5881b6b8495db1b7",
+            "download": {
+                "default": "https://huggingface.co/second-state/Baichuan2-13B-Chat-GGUF/resolve/main/Baichuan2-13B-Chat-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Baichuan2-13B-Chat-Q5_K_M.gguf",
+            "size": "10326902496",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "54c6cebdbc545f177779d380fba6367ff048a084eb083b00b61ff6caa6b9731d",
+            "download": {
+                "default": "https://huggingface.co/second-state/Baichuan2-13B-Chat-GGUF/resolve/main/Baichuan2-13B-Chat-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Baichuan2-13B-Chat-Q5_K_S.gguf",
+            "size": "9818998496",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "29ce17b3390255aa8798dfbef74ddb376409776ee1f77fc6c7a57c2f0afdebf7",
+            "download": {
+                "default": "https://huggingface.co/second-state/Baichuan2-13B-Chat-GGUF/resolve/main/Baichuan2-13B-Chat-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Baichuan2-13B-Chat-Q6_K.gguf",
+            "size": "12083134176",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "629287cff9814f5ca12692161b684c0941524db0356bbbd698c51ce672f1044c",
+            "download": {
+                "default": "https://huggingface.co/second-state/Baichuan2-13B-Chat-GGUF/resolve/main/Baichuan2-13B-Chat-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Baichuan2-13B-Chat-Q8_0.gguf",
+            "size": "14769311456",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "30bbae14948a5550f621ed6ec7072196f4af362ee2ee2aafdc449d649065b53c",
+            "download": {
+                "default": "https://huggingface.co/second-state/Baichuan2-13B-Chat-GGUF/resolve/main/Baichuan2-13B-Chat-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 5120,
+    "vector_size": 0,
+    "metrics": {}
+}

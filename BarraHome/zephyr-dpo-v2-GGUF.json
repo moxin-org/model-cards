@@ -1,0 +1,43 @@
+{
+    "id": "BarraHome/zephyr-dpo-v2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "BarraHome",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-04T07:04:34Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "zephyr-dpo-fast-GGUF.q5_k_m.gguf",
+            "size": "5131409600",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f3fe3e7d2288898cc5ef83e1ce74eb267176d2adbc62ba05ea211ebe445f649d",
+            "download": {
+                "default": "https://huggingface.co/BarraHome/zephyr-dpo-v2-GGUF/resolve/main/zephyr-dpo-fast-GGUF.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "zephyr-dpo-fast-GGUF.q6_K.gguf",
+            "size": "5942065344",
+            "quantization": "",
+            "tags": [],
+            "sha256": "66b7391678ed1bb289c2a87a9e7ff5b421de9b9ce9d2ca88af96f15c7068cf30",
+            "download": {
+                "default": "https://huggingface.co/BarraHome/zephyr-dpo-v2-GGUF/resolve/main/zephyr-dpo-fast-GGUF.q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

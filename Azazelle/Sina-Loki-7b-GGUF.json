@@ -1,0 +1,43 @@
+{
+    "id": "Azazelle/Sina-Loki-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Azazelle",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-11T01:30:59Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Sina-Loki-7b_Q4_K_M.gguf",
+            "size": "4369375296",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "3ff7e639aec028f235de6a333606b3f9751193d25e98f5da5a249752e30ec78e",
+            "download": {
+                "default": "https://huggingface.co/Azazelle/Sina-Loki-7b-GGUF/resolve/main/Sina-Loki-7b_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Sina-Loki-7b.gguf",
+            "size": "14485667872",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9fae88180da2a884daaa59ce6886a34370739dc706ea12662999a4aa04cd4aca",
+            "download": {
+                "default": "https://huggingface.co/Azazelle/Sina-Loki-7b-GGUF/resolve/main/Sina-Loki-7b.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

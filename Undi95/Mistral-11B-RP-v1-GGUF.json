@@ -1,0 +1,63 @@
+{
+    "id": "Undi95/Mistral-11B-RP-v1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Undi95",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-09T15:44:24Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Mistral-11B-RP-v1.q4_k_m.gguf",
+            "size": "6461667360",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d064973f629c5c21d393db216db72cef1658f93f11ec1cb73126061366b5cba1",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-11B-RP-v1-GGUF/resolve/main/Mistral-11B-RP-v1.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "Mistral-11B-RP-v1.q5_k_m.gguf",
+            "size": "7597930528",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6d680c1b57c79db7070691a1eb3112b0952e1cd7be94ceb2c04d7ed1cb1f043e",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-11B-RP-v1-GGUF/resolve/main/Mistral-11B-RP-v1.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "Mistral-11B-RP-v1.q6_k.gguf",
+            "size": "8805210144",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c71a3e4a7a3fcb7018c9ad88331501fda0a2997f7b2e298b331d3f03d7aa9e6b",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-11B-RP-v1-GGUF/resolve/main/Mistral-11B-RP-v1.q6_k.gguf"
+            }
+        },
+        {
+            "name": "Mistral-11B-RP-v1.q8_0.gguf",
+            "size": "11404154912",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ae575878820ddc1dde80c4ee7fb48699a454cf289c10d2da9207c7d1bf3c27ec",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-11B-RP-v1-GGUF/resolve/main/Mistral-11B-RP-v1.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,83 @@
+{
+    "id": "neopolita/yi-34b-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "neopolita",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-17T10:14:49Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "yi-34b_q2_k.gguf",
+            "size": "12825233504",
+            "quantization": "",
+            "tags": [],
+            "sha256": "72e924bb63e6866f776fda1d2c17b5d0a7c715aec785767d4f2052613b4d1ab7",
+            "download": {
+                "default": "https://huggingface.co/neopolita/yi-34b-gguf/resolve/main/yi-34b_q2_k.gguf"
+            }
+        },
+        {
+            "name": "yi-34b_q3_k_m.gguf",
+            "size": "16654923872",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f2728af125b7a339358e7f4bbb3299a047b56d6c3098bc26062854b45f2355f1",
+            "download": {
+                "default": "https://huggingface.co/neopolita/yi-34b-gguf/resolve/main/yi-34b_q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "yi-34b_q4_k_m.gguf",
+            "size": "20658710624",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2d7c116f7111daa86d1599c1a5d18d2d891174aade9fda8d54aa7e8c2d1b3f25",
+            "download": {
+                "default": "https://huggingface.co/neopolita/yi-34b-gguf/resolve/main/yi-34b_q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "yi-34b_q5_k_m.gguf",
+            "size": "24321845344",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fb30e7728bfe310153c75ce79cdedf164fb295b849cc8f1967a41432b2ff2701",
+            "download": {
+                "default": "https://huggingface.co/neopolita/yi-34b-gguf/resolve/main/yi-34b_q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "yi-34b_q6_k.gguf",
+            "size": "28213925984",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f2e7eb6c3d3100f48774fd2be4dd6e0f92dfa075d16a98482f21c5c9e2bcd49a",
+            "download": {
+                "default": "https://huggingface.co/neopolita/yi-34b-gguf/resolve/main/yi-34b_q6_k.gguf"
+            }
+        },
+        {
+            "name": "yi-34b_q8_0.gguf",
+            "size": "36542281824",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3c8b7ac3e32c15c0317311533cc5a75127691e7010010704f39125d255500500",
+            "download": {
+                "default": "https://huggingface.co/neopolita/yi-34b-gguf/resolve/main/yi-34b_q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/WestLakev2-IreneRP-Neural-7B-slerp-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-25T22:54:41Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "WestLakev2-IreneRP-Neural-7B-slerp.IQ3_M.gguf",
+            "size": "3439515328",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "0b584d3032decd1eca85ac59dd9b03a88110e5c55c9e502bec34bd3e4cd3f8cc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLakev2-IreneRP-Neural-7B-slerp-GGUF/resolve/main/WestLakev2-IreneRP-Neural-7B-slerp.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "WestLakev2-IreneRP-Neural-7B-slerp.IQ3_S.gguf",
+            "size": "3337017024",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "0c204af866808c42b9063bdfbe2f54fca6b184dbf00a3e88fb6b32f41f2a1e6c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLakev2-IreneRP-Neural-7B-slerp-GGUF/resolve/main/WestLakev2-IreneRP-Neural-7B-slerp.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "WestLakev2-IreneRP-Neural-7B-slerp.IQ3_XS.gguf",
+            "size": "3173439168",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "893864653c05354a5eca608b3b98f459e50213f78ea3dbbcfeb6c24f267447f3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLakev2-IreneRP-Neural-7B-slerp-GGUF/resolve/main/WestLakev2-IreneRP-Neural-7B-slerp.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "WestLakev2-IreneRP-Neural-7B-slerp.IQ4_NL.gguf",
+            "size": "4309677760",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "726487b945b921993cbea14b29c10fedb85e92a3d1acffd5b59abc0e450d1782",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLakev2-IreneRP-Neural-7B-slerp-GGUF/resolve/main/WestLakev2-IreneRP-Neural-7B-slerp.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "WestLakev2-IreneRP-Neural-7B-slerp.IQ4_XS.gguf",
+            "size": "4099012288",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "d267fb0026075e7a62acb1418e0def0fe556d22ab1b53ff1dd7c7990c90f7b72",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLakev2-IreneRP-Neural-7B-slerp-GGUF/resolve/main/WestLakev2-IreneRP-Neural-7B-slerp.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "WestLakev2-IreneRP-Neural-7B-slerp.Q2_K.gguf",
+            "size": "2873865920",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "2b8328821848167e89f8b4cce9e76c95a8cb9c68b21a3ccc3fc1bb87618ea95f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLakev2-IreneRP-Neural-7B-slerp-GGUF/resolve/main/WestLakev2-IreneRP-Neural-7B-slerp.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "WestLakev2-IreneRP-Neural-7B-slerp.Q3_K_L.gguf",
+            "size": "3976648384",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "724386883d65a81ecba0100ce0a3282f511f52e76a860e7a742a3f2d2b60b68d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLakev2-IreneRP-Neural-7B-slerp-GGUF/resolve/main/WestLakev2-IreneRP-Neural-7B-slerp.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "WestLakev2-IreneRP-Neural-7B-slerp.Q3_K_M.gguf",
+            "size": "3673609920",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "4c686677847770c276574f96203fef00c9d36c9341919d396d704936692b145a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLakev2-IreneRP-Neural-7B-slerp-GGUF/resolve/main/WestLakev2-IreneRP-Neural-7B-slerp.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "WestLakev2-IreneRP-Neural-7B-slerp.Q3_K_S.gguf",
+            "size": "3319191232",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "df52db366c6eebd00dde897c8af0a3508ee8355dc8164b8a87f035d99fd00e90",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLakev2-IreneRP-Neural-7B-slerp-GGUF/resolve/main/WestLakev2-IreneRP-Neural-7B-slerp.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "WestLakev2-IreneRP-Neural-7B-slerp.Q4_0.gguf",
+            "size": "4263540416",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "54b31cfa8429b0035899906c2fbaf8b448cfa2bcdf7a060ed16beabe21f98ecd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLakev2-IreneRP-Neural-7B-slerp-GGUF/resolve/main/WestLakev2-IreneRP-Neural-7B-slerp.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "WestLakev2-IreneRP-Neural-7B-slerp.Q4_K_M.gguf",
+            "size": "4523062976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "1d152635cf69525bd62d8043635910e65467f4dd483aeb8e8b5e3f233304b0e7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLakev2-IreneRP-Neural-7B-slerp-GGUF/resolve/main/WestLakev2-IreneRP-Neural-7B-slerp.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "WestLakev2-IreneRP-Neural-7B-slerp.Q4_K_S.gguf",
+            "size": "4294997696",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "a95693592d7fef6936a8a65046732e716cb0d0b59c54e3975bda54fc7d237cb7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLakev2-IreneRP-Neural-7B-slerp-GGUF/resolve/main/WestLakev2-IreneRP-Neural-7B-slerp.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "WestLakev2-IreneRP-Neural-7B-slerp.Q5_K_M.gguf",
+            "size": "5286033088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ce31d463f8460cc185301b17443687424135c84d64b90c474aa3910190b01fc8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLakev2-IreneRP-Neural-7B-slerp-GGUF/resolve/main/WestLakev2-IreneRP-Neural-7B-slerp.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "WestLakev2-IreneRP-Neural-7B-slerp.Q5_K_S.gguf",
+            "size": "5152339648",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "d5ae18d8539650b3579bb6ea36deac6e41fb4b3f3d57871dd64108ce47383629",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLakev2-IreneRP-Neural-7B-slerp-GGUF/resolve/main/WestLakev2-IreneRP-Neural-7B-slerp.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "WestLakev2-IreneRP-Neural-7B-slerp.Q6_K.gguf",
+            "size": "6096688832",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "0c2f24fb7ca3924864f9fbcd66fa107aacd243f117334a5f02374d87e3ed0ffa",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLakev2-IreneRP-Neural-7B-slerp-GGUF/resolve/main/WestLakev2-IreneRP-Neural-7B-slerp.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "WestLakev2-IreneRP-Neural-7B-slerp.Q8_0.gguf",
+            "size": "7818737344",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "2a93e8014b82c1a74102cb782bbe61e2b45cd269ba14ab471314a6b6729ff82b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/WestLakev2-IreneRP-Neural-7B-slerp-GGUF/resolve/main/WestLakev2-IreneRP-Neural-7B-slerp.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

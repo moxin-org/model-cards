@@ -1,0 +1,183 @@
+{
+    "id": "bartowski/Code-Mistral-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bartowski",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-25T17:34:21Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Code-Mistral-7B-IQ3_M.gguf",
+            "size": "3284892096",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "ba58b01476c07b2dd7bf2e94bf16d83cb1a0e2fb32fbd29718c8257a3f92a755",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Code-Mistral-7B-GGUF/resolve/main/Code-Mistral-7B-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Code-Mistral-7B-IQ3_S.gguf",
+            "size": "3182393792",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "e0c67347404fa9deae18e90f0ea863fd33d7e5c2c6fddd9c0b8f9c09da8700e8",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Code-Mistral-7B-GGUF/resolve/main/Code-Mistral-7B-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Code-Mistral-7B-IQ4_NL.gguf",
+            "size": "4155054528",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "df31ef6e53222527576c2525aa4c045c78c9c98986fbad00072ed0bb71e7fea5",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Code-Mistral-7B-GGUF/resolve/main/Code-Mistral-7B-IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Code-Mistral-7B-IQ4_XS.gguf",
+            "size": "3944389056",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "efe115f928e828f5f34b5daca8a3311505dfe2fbf02801e96faa3b0d1bdc2da4",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Code-Mistral-7B-GGUF/resolve/main/Code-Mistral-7B-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Code-Mistral-7B-Q2_K.gguf",
+            "size": "2719242688",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "69948d5ede8d3a871827dc83c5b85b4766924b44c04f593691f280fd434c5cda",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Code-Mistral-7B-GGUF/resolve/main/Code-Mistral-7B-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Code-Mistral-7B-Q3_K_L.gguf",
+            "size": "3822025152",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "dfc0391a5021ae6017281119120d1f626f4c52e7d5891ee7db78930abfe5fad1",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Code-Mistral-7B-GGUF/resolve/main/Code-Mistral-7B-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Code-Mistral-7B-Q3_K_M.gguf",
+            "size": "3518986688",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "f0cfc546a7f7328151d976ce1660d6389a843a35b4874823ed76a1e0b214e0d5",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Code-Mistral-7B-GGUF/resolve/main/Code-Mistral-7B-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Code-Mistral-7B-Q3_K_S.gguf",
+            "size": "3164568000",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "164faf26fd312b5dea58862c858732ae2f70357a2b4c5c9e9f4de05ac940c175",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Code-Mistral-7B-GGUF/resolve/main/Code-Mistral-7B-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Code-Mistral-7B-Q4_0.gguf",
+            "size": "4108917184",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "752f3e626b80d7189d323887ba0d5e2ef9f1a57a94bf9234dc1f7abbc2b78a62",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Code-Mistral-7B-GGUF/resolve/main/Code-Mistral-7B-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Code-Mistral-7B-Q4_K_M.gguf",
+            "size": "4368439744",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "69d245224e7dec37457eeaf70fecb24121ae65f85aa3dfcbed36ed235115af61",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Code-Mistral-7B-GGUF/resolve/main/Code-Mistral-7B-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Code-Mistral-7B-Q4_K_S.gguf",
+            "size": "4140374464",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "53073608463455969140e7050cb2d9ad8e4ab2afd89c3147dbe0e0e116c89759",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Code-Mistral-7B-GGUF/resolve/main/Code-Mistral-7B-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Code-Mistral-7B-Q5_0.gguf",
+            "size": "4997716416",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "337796a42344744494b3ecf2b2079cbcb324393678d9129ccd30c7f2a05b2f6e",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Code-Mistral-7B-GGUF/resolve/main/Code-Mistral-7B-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Code-Mistral-7B-Q5_K_M.gguf",
+            "size": "5131409856",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "93a8b51c264d828276fb40b45276a2bf2f2635b82f8d2b586b4f5c8e0c4a0e05",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Code-Mistral-7B-GGUF/resolve/main/Code-Mistral-7B-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Code-Mistral-7B-Q5_K_S.gguf",
+            "size": "4997716416",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "f4c23f994cc79e2d7b894b1b9704e6efb5211aaf0f7e5dfc54d3a2764d05030f",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Code-Mistral-7B-GGUF/resolve/main/Code-Mistral-7B-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Code-Mistral-7B-Q6_K.gguf",
+            "size": "5942065600",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "47be15dde4a65e09e7aa7dcac043927d88da7087f3361d272c9f8587c6d9be67",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Code-Mistral-7B-GGUF/resolve/main/Code-Mistral-7B-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Code-Mistral-7B-Q8_0.gguf",
+            "size": "7695858112",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "ce5a03914655415c25397167aeadaf273f1accd8f2af6469a004ebb88d235b49",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Code-Mistral-7B-GGUF/resolve/main/Code-Mistral-7B-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

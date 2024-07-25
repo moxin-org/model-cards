@@ -1,0 +1,73 @@
+{
+    "id": "Rybens/finetuning-sn6-1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Rybens",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-11T19:29:11Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "finetuning-sn6-1.Q3_K_M.gguf",
+            "size": "3518986496",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "8726ab9a6e70fe2a77a7619b3d12f161c795c61dc26a9e61397904119691bdbe",
+            "download": {
+                "default": "https://huggingface.co/Rybens/finetuning-sn6-1-GGUF/resolve/main/finetuning-sn6-1.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "finetuning-sn6-1.Q4_K_M.gguf",
+            "size": "4368439552",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "df47827c4caa5ebda0fdb443a6e951665d180c7693162c285addd5433e0c6b2e",
+            "download": {
+                "default": "https://huggingface.co/Rybens/finetuning-sn6-1-GGUF/resolve/main/finetuning-sn6-1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "finetuning-sn6-1.Q5_K_M.gguf",
+            "size": "5131409664",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "744d6c6e43e1a6c79ce7fce1b42adab0180c995014a29ae3047f5cc1e4415f76",
+            "download": {
+                "default": "https://huggingface.co/Rybens/finetuning-sn6-1-GGUF/resolve/main/finetuning-sn6-1.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "finetuning-sn6-1.Q6_K.gguf",
+            "size": "5942065408",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "92d91e73de12571f032d5b4395aec7493aaa5a6e625d8a7ee1ff3dd60593e49c",
+            "download": {
+                "default": "https://huggingface.co/Rybens/finetuning-sn6-1-GGUF/resolve/main/finetuning-sn6-1.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "finetuning-sn6-1.Q8_0.gguf",
+            "size": "7695857920",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "9156191f88a94f05675f88d67901d928fdefc401861766b384989aaf2f0d03e4",
+            "download": {
+                "default": "https://huggingface.co/Rybens/finetuning-sn6-1-GGUF/resolve/main/finetuning-sn6-1.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

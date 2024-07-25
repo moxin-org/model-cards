@@ -1,0 +1,413 @@
+{
+    "id": "pmysl/c4ai-command-r-plus-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "pmysl",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-04T16:59:46Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "imatrix/command-r-plus-IQ2_XXS.gguf",
+            "size": "28611388672",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "27ca36ec79fd497faed06fcb511af7ba700bd0d33d410319c60dcd48a2be391a",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/imatrix/command-r-plus-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "command-r-plus-Q6_K-00002-of-00002.gguf",
+            "size": "40011004736",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e101702d7172024cc3d71480e364738a92f21855a24d206e471a58edbbcc5397",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/command-r-plus-Q6_K-00002-of-00002.gguf"
+            }
+        },
+        {
+            "name": "command-r-plus-Q8_0-00001-of-00003.gguf",
+            "size": "45121607520",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f603a443d7afdf176a4ba8cf22f50c8730e9d1c71d8df104c6c787325d2f7977",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/command-r-plus-Q8_0-00001-of-00003.gguf"
+            }
+        },
+        {
+            "name": "command-r-plus-Q8_0-00002-of-00003.gguf",
+            "size": "41353956448",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d64e7d340b4f21575399acf1eea7818bc0312b3e103a70aa8c378e40cf40459f",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/command-r-plus-Q8_0-00002-of-00003.gguf"
+            }
+        },
+        {
+            "name": "command-r-plus-Q8_0-00003-of-00003.gguf",
+            "size": "23839031936",
+            "quantization": "",
+            "tags": [],
+            "sha256": "625a9f703921be3684934026f14b64c470d953a9e390a423f381f59f53c56024",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/command-r-plus-Q8_0-00003-of-00003.gguf"
+            }
+        },
+        {
+            "name": "imatrix/command-r-plus-IQ1_M.gguf",
+            "size": "25217934592",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "e3848c14bda6462650acd45c03863a5a0dcfbb86ff477e4303b59bcb890768ee",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/imatrix/command-r-plus-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "imatrix/command-r-plus-IQ1_S.gguf",
+            "size": "23181862144",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "3013f48e0a8b39c620ebf64449f1bbb6dbadbd15ef10e1a37c52fcbdd9765986",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/imatrix/command-r-plus-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "imatrix/command-r-plus-IQ2_M.gguf",
+            "size": "36039238912",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "15dba5b393d181f1d904347625d1df37c4525d86578d7fd3eb69c284b28b0564",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/imatrix/command-r-plus-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "imatrix/command-r-plus-IQ2_S.gguf",
+            "size": "33324475648",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "410fdb589f992b158502036cde5be0240a7badecb8fea16e093899b8fb80008f",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/imatrix/command-r-plus-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "imatrix/command-r-plus-IQ2_XS.gguf",
+            "size": "31628141824",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "b238a9b37bc38ec19a0503c0f6ecc38485d1066b32b07f2602292b676f12b1d1",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/imatrix/command-r-plus-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "command-r-plus-Q6_K-00001-of-00002.gguf",
+            "size": "45162343072",
+            "quantization": "",
+            "tags": [],
+            "sha256": "77bb78da52eb9e226df25a94ab746fa08e3bf18cb513b0ba9c3df52ef170626a",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/command-r-plus-Q6_K-00001-of-00002.gguf"
+            }
+        },
+        {
+            "name": "imatrix/command-r-plus-IQ3_M.gguf",
+            "size": "47683347712",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "47bb628317cc6f5c563c5d9ec1f9892ae7323701359f0804e0cf96560c4c17d1",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/imatrix/command-r-plus-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "imatrix/command-r-plus-IQ3_S.gguf",
+            "size": "45958702336",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "0642091057b4db87bd61da6c3e996dbdd1d0031d1848db97de4a7293656e8788",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/imatrix/command-r-plus-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "imatrix/command-r-plus-IQ3_XS.gguf",
+            "size": "43599406336",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "738cf3c48f3bb4630c1c7a13a79507c5248eef853ce369c72a6b7695a92c8010",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/imatrix/command-r-plus-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "imatrix/command-r-plus-IQ3_XXS.gguf",
+            "size": "40658740480",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "0d318ca1c7f51fe598e019b60a350d2cb299c70f5807db42f25338e15663985d",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/imatrix/command-r-plus-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "imatrix/command-r-plus-IQ4_NL-00001-of-00002.gguf",
+            "size": "31834286752",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5b90f3900838c1282b10ac17da2bdd4574dd83920f023bd2be172f54bb2ac7c6",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/imatrix/command-r-plus-IQ4_NL-00001-of-00002.gguf"
+            }
+        },
+        {
+            "name": "imatrix/command-r-plus-IQ4_NL-00002-of-00002.gguf",
+            "size": "27487468352",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2505ffc8f0ca1d58dee37de2f0668aba9748e7dad48070b59efaa69b52403755",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/imatrix/command-r-plus-IQ4_NL-00002-of-00002.gguf"
+            }
+        },
+        {
+            "name": "imatrix/command-r-plus-IQ4_XS-00001-of-00002.gguf",
+            "size": "30225246880",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2bb3f3baf1ec4d2fb5ab12e9373e4aa62cc59d5cacd623d0983d6708d401ab10",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/imatrix/command-r-plus-IQ4_XS-00001-of-00002.gguf"
+            }
+        },
+        {
+            "name": "imatrix/command-r-plus-IQ4_XS-00002-of-00002.gguf",
+            "size": "25975946048",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7b408b90663c77741ba262462e707e8c91a15f1b36c5c1a5158f59f4996cbdbe",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/imatrix/command-r-plus-IQ4_XS-00002-of-00002.gguf"
+            }
+        },
+        {
+            "name": "imatrix/command-r-plus-Q2_K_S.gguf",
+            "size": "36595442944",
+            "quantization": "Q2_K_S",
+            "tags": [],
+            "sha256": "f324a0e721e65245844639bde8da1fe3dc08511f040bc98330a2b2c8a5280803",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/imatrix/command-r-plus-Q2_K_S.gguf"
+            }
+        },
+        {
+            "name": "command-r-plus-Q3_K_S.gguf",
+            "size": "45851747584",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "7b4460761275ce9f709c738aacecdb39970d780f9260e948b508c5100fc4e19d",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/command-r-plus-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "command-r-plus-f16-00002-of-00005.gguf",
+            "size": "40090496928",
+            "quantization": "",
+            "tags": [],
+            "sha256": "008a747dcb6141ca77f13d4bfd9814266f6ea464f89059aa9ebdcf527a018877",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/command-r-plus-f16-00002-of-00005.gguf"
+            }
+        },
+        {
+            "name": "command-r-plus-f16-00003-of-00005.gguf",
+            "size": "41701109664",
+            "quantization": "",
+            "tags": [],
+            "sha256": "68a41b6b79906e705e084343cb1fb585a0408cc985fd40cdc7afb88659e9f0a8",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/command-r-plus-f16-00003-of-00005.gguf"
+            }
+        },
+        {
+            "name": "command-r-plus-f16-00004-of-00005.gguf",
+            "size": "40895803296",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5add7df2df92d567ae222c89e7a8251d7dfa5885c6333f3b48ea67101bc5c06e",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/command-r-plus-f16-00004-of-00005.gguf"
+            }
+        },
+        {
+            "name": "command-r-plus-f16-00005-of-00005.gguf",
+            "size": "37775187360",
+            "quantization": "",
+            "tags": [],
+            "sha256": "83de3fcd21a3e92e73ad0c7998fd133ce1bf4510deff1af5eb24de8bc1871df9",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/command-r-plus-f16-00005-of-00005.gguf"
+            }
+        },
+        {
+            "name": "command-r-plus-Q2_K.gguf",
+            "size": "39497377024",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "47e139a57872a72096c05b043b1ec6c2f08451da7df0d84d45168708667b98f5",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/command-r-plus-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "command-r-plus-Q3_K_L-00001-of-00002.gguf",
+            "size": "29813254816",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4e5bb98726138472e4711ac60ae9dcd4b120253119dde724d057f5e84a6dc046",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/command-r-plus-Q3_K_L-00001-of-00002.gguf"
+            }
+        },
+        {
+            "name": "command-r-plus-Q3_K_L-00002-of-00002.gguf",
+            "size": "25588923200",
+            "quantization": "",
+            "tags": [],
+            "sha256": "914d8cd7e1199caa44f93389e41ac0d8aaedf5d4053c74c2b163918483d78368",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/command-r-plus-Q3_K_L-00002-of-00002.gguf"
+            }
+        },
+        {
+            "name": "command-r-plus-Q3_K_M-00001-of-00002.gguf",
+            "size": "27637983904",
+            "quantization": "",
+            "tags": [],
+            "sha256": "cf8c930df3a26b9a73edae0a382430dc96727e530230cfd3a5adc341a7adfab7",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/command-r-plus-Q3_K_M-00001-of-00002.gguf"
+            }
+        },
+        {
+            "name": "command-r-plus-Q3_K_M-00002-of-00002.gguf",
+            "size": "23344446272",
+            "quantization": "",
+            "tags": [],
+            "sha256": "611a8022df227d676e6b8f5f28411314b01785e128b395c1e40cf3ac7da45d90",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/command-r-plus-Q3_K_M-00002-of-00002.gguf"
+            }
+        },
+        {
+            "name": "command-r-plus-f16-00001-of-00005.gguf",
+            "size": "47172958848",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2b41331521c1114c15d79bd4015ed8e7ca80b7a7aa6e82f07b7c1ca5a5093798",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/command-r-plus-f16-00001-of-00005.gguf"
+            }
+        },
+        {
+            "name": "command-r-plus-Q4_K_M-00001-of-00002.gguf",
+            "size": "33548708512",
+            "quantization": "",
+            "tags": [],
+            "sha256": "32f8b958f200c18e6900ee0780b7b8d55a462322093a8e2dc79b91867fb3523e",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/command-r-plus-Q4_K_M-00001-of-00002.gguf"
+            }
+        },
+        {
+            "name": "command-r-plus-Q4_K_M-00002-of-00002.gguf",
+            "size": "29201890112",
+            "quantization": "",
+            "tags": [],
+            "sha256": "609e4bc1fe5c093e97f631d63b9c0295502f18d53ea8d8b312c875d6b60d544d",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/command-r-plus-Q4_K_M-00002-of-00002.gguf"
+            }
+        },
+        {
+            "name": "command-r-plus-Q4_K_S-00001-of-00002.gguf",
+            "size": "32205482656",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a91a4903d631dc626eb22ed5dd9226e8caaaa5b4fe60c190c6dfb30225bd1654",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/command-r-plus-Q4_K_S-00001-of-00002.gguf"
+            }
+        },
+        {
+            "name": "command-r-plus-Q4_K_S-00002-of-00002.gguf",
+            "size": "27437136704",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d7efedc8bd059666fb0ba045f8017fd1ece770792ba0d77113ca78bcc3ccdc46",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/command-r-plus-Q4_K_S-00002-of-00002.gguf"
+            }
+        },
+        {
+            "name": "command-r-plus-Q5_K_M-00001-of-00002.gguf",
+            "size": "39179561632",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1b1df7ed8fe7c4f3c32a45f08512dc67af5b025f5d45ed2e5e91f55fa89a1895",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/command-r-plus-Q5_K_M-00001-of-00002.gguf"
+            }
+        },
+        {
+            "name": "command-r-plus-Q5_K_M-00002-of-00002.gguf",
+            "size": "34442672960",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ab00c42039c67c871e806bccd11557698ed78400af8b44cd0e433bc4aaaaa534",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/command-r-plus-Q5_K_M-00002-of-00002.gguf"
+            }
+        },
+        {
+            "name": "command-r-plus-Q5_K_S-00001-of-00002.gguf",
+            "size": "38270446240",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b3ec9dce39538a730f34bb0ca964acf1a4e34754a83bcac4a13ce0329be800cf",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/command-r-plus-Q5_K_S-00001-of-00002.gguf"
+            }
+        },
+        {
+            "name": "command-r-plus-Q5_K_S-00002-of-00002.gguf",
+            "size": "33533557568",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ca9a87a5daa0f547375321fdb1681e5635ecd9a047188306f8d6decd2928ba3c",
+            "download": {
+                "default": "https://huggingface.co/pmysl/c4ai-command-r-plus-GGUF/resolve/main/command-r-plus-Q5_K_S-00002-of-00002.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

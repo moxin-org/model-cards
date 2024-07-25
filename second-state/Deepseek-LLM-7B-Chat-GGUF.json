@@ -1,0 +1,143 @@
+{
+    "id": "second-state/Deepseek-LLM-7B-Chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-01T12:43:33Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "deepseek-llm-7b-chat-Q2_K.gguf",
+            "size": "2718832096",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "6bd5bdb54e10137b51294e46077a2e806dcb3c359b0c16f771decabc758a449c",
+            "download": {
+                "default": "https://huggingface.co/second-state/Deepseek-LLM-7B-Chat-GGUF/resolve/main/deepseek-llm-7b-chat-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "deepseek-llm-7b-chat-Q3_K_L.gguf",
+            "size": "3746682336",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "48715d2a9e3ea3e5e24b9664e01ec33cdfb7cda4ed3ae344a9028d6dd50a63b1",
+            "download": {
+                "default": "https://huggingface.co/second-state/Deepseek-LLM-7B-Chat-GGUF/resolve/main/deepseek-llm-7b-chat-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "deepseek-llm-7b-chat-Q3_K_M.gguf",
+            "size": "3461600736",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "d5289e17183f7a5d70f7cfc29e591e21552c739d0747585309e88c5879e8c66b",
+            "download": {
+                "default": "https://huggingface.co/second-state/Deepseek-LLM-7B-Chat-GGUF/resolve/main/deepseek-llm-7b-chat-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "deepseek-llm-7b-chat-Q3_K_S.gguf",
+            "size": "3138426336",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "1ca0d5415cf2a77a631fbcd2199a5130cc44d07f3ec83361922080d4cc0b7788",
+            "download": {
+                "default": "https://huggingface.co/second-state/Deepseek-LLM-7B-Chat-GGUF/resolve/main/deepseek-llm-7b-chat-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "deepseek-llm-7b-chat-Q4_0.gguf",
+            "size": "4000470496",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "3bc9241ce6fcb92157820e3c4548db31176acc8b416ed3b0ecf5c619b413b27a",
+            "download": {
+                "default": "https://huggingface.co/second-state/Deepseek-LLM-7B-Chat-GGUF/resolve/main/deepseek-llm-7b-chat-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "deepseek-llm-7b-chat-Q4_K_M.gguf",
+            "size": "4223768032",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "239893d8bf508f3b87026906475d1e666acfb0f7278861191a9af2d0a7b3d1aa",
+            "download": {
+                "default": "https://huggingface.co/second-state/Deepseek-LLM-7B-Chat-GGUF/resolve/main/deepseek-llm-7b-chat-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "deepseek-llm-7b-chat-Q4_K_S.gguf",
+            "size": "4025767392",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "d227a82e7b3646a89c4aa95bb999bc6b3191313f25c150e4464fda18077221b0",
+            "download": {
+                "default": "https://huggingface.co/second-state/Deepseek-LLM-7B-Chat-GGUF/resolve/main/deepseek-llm-7b-chat-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "deepseek-llm-7b-chat-Q5_0.gguf",
+            "size": "4811806176",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "15076c64c64f8573439f187ef1944249a39e6c9abc2807fcb49907666e096f73",
+            "download": {
+                "default": "https://huggingface.co/second-state/Deepseek-LLM-7B-Chat-GGUF/resolve/main/deepseek-llm-7b-chat-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "deepseek-llm-7b-chat-Q5_K_M.gguf",
+            "size": "4926838240",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "521dd4f2e740aaad46577dd0c85a2c4549968471ad626759bc685c8b6c557d78",
+            "download": {
+                "default": "https://huggingface.co/second-state/Deepseek-LLM-7B-Chat-GGUF/resolve/main/deepseek-llm-7b-chat-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "deepseek-llm-7b-chat-Q5_K_S.gguf",
+            "size": "4811806176",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "41af8ac39c591d60360df50f6344d8a32a6c66c92ec8399b1c35a423ae402920",
+            "download": {
+                "default": "https://huggingface.co/second-state/Deepseek-LLM-7B-Chat-GGUF/resolve/main/deepseek-llm-7b-chat-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "deepseek-llm-7b-chat-Q6_K.gguf",
+            "size": "5673850336",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "47d38af72bf9ea65b8b65416b4929497e42bd8bad9e633cc11937b0236aa3259",
+            "download": {
+                "default": "https://huggingface.co/second-state/Deepseek-LLM-7B-Chat-GGUF/resolve/main/deepseek-llm-7b-chat-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "deepseek-llm-7b-chat-Q8_0.gguf",
+            "size": "7347394016",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "5356452a30f12541207a542e74a748525469251f9afd3d0b4e7600a02c8ca89a",
+            "download": {
+                "default": "https://huggingface.co/second-state/Deepseek-LLM-7B-Chat-GGUF/resolve/main/deepseek-llm-7b-chat-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 4096,
+    "vector_size": 0,
+    "metrics": {}
+}

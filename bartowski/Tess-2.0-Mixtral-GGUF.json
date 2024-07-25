@@ -1,0 +1,183 @@
+{
+    "id": "bartowski/Tess-2.0-Mixtral-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bartowski",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-02T10:30:07Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Tess-2.0-Mixtral-IQ3_M.gguf",
+            "size": "21428708736",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "147d043aec7058363fa5d904c45cdff5a5dd90cbd4342e6adc85086368977b94",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Mixtral-GGUF/resolve/main/Tess-2.0-Mixtral-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral-IQ3_S.gguf",
+            "size": "20430464384",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "216ab6c2c09daf439c8c6f06565fcdd0b5a9ac900d1d03bf4c8cbd6373c6b9fd",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Mixtral-GGUF/resolve/main/Tess-2.0-Mixtral-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral-IQ4_NL.gguf",
+            "size": "26743522688",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "c40aa2930882c1e520e2b90987abe2f2f840d3a387e33d1140c0ef949058efc0",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Mixtral-GGUF/resolve/main/Tess-2.0-Mixtral-IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral-IQ4_XS.gguf",
+            "size": "25372083584",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "2acbd37ced00f8b7c8157a741eda5ba7b7499f5bdc9ce6f9e3ae7b8fea9cd1c9",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Mixtral-GGUF/resolve/main/Tess-2.0-Mixtral-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral-Q2_K.gguf",
+            "size": "17309173120",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "915d785c456628e2b4e4db743968fccd57c4c492ce53e5c2bc0448948c9db32f",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Mixtral-GGUF/resolve/main/Tess-2.0-Mixtral-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral-Q3_K_L.gguf",
+            "size": "24167589248",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "9573b3b8e4db0d64a793e6a332fc533ef75dd63bf1c88e56eedb430de83ec4ea",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Mixtral-GGUF/resolve/main/Tess-2.0-Mixtral-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral-Q3_K_M.gguf",
+            "size": "22544393600",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "18465da681884c49551e765ed2d7b0360d48471ac591554abc7fffa0ba9af78f",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Mixtral-GGUF/resolve/main/Tess-2.0-Mixtral-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral-Q3_K_S.gguf",
+            "size": "20430464384",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "7bfbb2b08bcd64bf38ec1a072726af4c86b60f5b5c36de226118d2783485abc9",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Mixtral-GGUF/resolve/main/Tess-2.0-Mixtral-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral-Q4_0.gguf",
+            "size": "26441532800",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "f24656538c13c78b2bcc1edd9802d47237e7b69e724c4dad0997ae0491b125fb",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Mixtral-GGUF/resolve/main/Tess-2.0-Mixtral-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral-Q4_K_M.gguf",
+            "size": "28446410112",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "f131ab368bd85fc1ca4ad462f4fb781bc328bae502c2754e9d5088ba01422941",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Mixtral-GGUF/resolve/main/Tess-2.0-Mixtral-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral-Q4_K_S.gguf",
+            "size": "26743522688",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "ebe595f27ec3d969a5f202246d33a6cd301d0d9881cf06a935802672858c31fc",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Mixtral-GGUF/resolve/main/Tess-2.0-Mixtral-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral-Q5_0.gguf",
+            "size": "32229279104",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "4f78ca3f19d97ccb8d958b87a27ac11f8f322b2c9424dbcf9ef2d36a2d575f62",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Mixtral-GGUF/resolve/main/Tess-2.0-Mixtral-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral-Q5_K_M.gguf",
+            "size": "33227523456",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "81fd024ec80be4bdc1914b8d45e374e257d3bbc09c3dbc20cc659f939df155b9",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Mixtral-GGUF/resolve/main/Tess-2.0-Mixtral-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral-Q5_K_S.gguf",
+            "size": "32229279104",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "ad338c335be45bcecf0618613d8b83e1638d664940a31feb5c9c9e9a3d0fe75c",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Mixtral-GGUF/resolve/main/Tess-2.0-Mixtral-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral-Q6_K.gguf",
+            "size": "38378759552",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "c798621772094f1ebb2a17cf63baf53e0ee8d438c4b3bf441b3946ef5df201ab",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Mixtral-GGUF/resolve/main/Tess-2.0-Mixtral-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Tess-2.0-Mixtral-Q8_0.gguf",
+            "size": "49624262016",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "c27a27f222989de92d4d78637dc178fb757a1df4df4f5963bf35ea5a8f2a6a0d",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Tess-2.0-Mixtral-GGUF/resolve/main/Tess-2.0-Mixtral-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

@@ -1,0 +1,73 @@
+{
+    "id": "AlenBadel/Yi-34B-200K-20240307-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "AlenBadel",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-29T01:21:48Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "yi-34b-200k-20240307-Q3_K_M.gguf",
+            "size": "16654923872",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ae733153506b194f3f78e4e6995e40c61009eacef7782f4397c104c1d3ab74a2",
+            "download": {
+                "default": "https://huggingface.co/AlenBadel/Yi-34B-200K-20240307-GGUF/resolve/main/yi-34b-200k-20240307-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "yi-34b-200k-20240307-Q4_K_M.gguf",
+            "size": "20658710624",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c433b6417a7a65ca963880ef40fa475668d758e97064441915eb211a2e1f6de5",
+            "download": {
+                "default": "https://huggingface.co/AlenBadel/Yi-34B-200K-20240307-GGUF/resolve/main/yi-34b-200k-20240307-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "yi-34b-200k-20240307-Q4_K_S.gguf",
+            "size": "19598649440",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "694d83d3e8e0753457739f01a5fd7e340e4402138fa39fbae977c7c0d45dc757",
+            "download": {
+                "default": "https://huggingface.co/AlenBadel/Yi-34B-200K-20240307-GGUF/resolve/main/yi-34b-200k-20240307-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "yi-34b-200k-20240307-Q5_K_M.gguf",
+            "size": "24321845344",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5c6dccb934d037b35800f7cc34ff6282ca36af284e5c8c6a1d3e0e6fd6490c08",
+            "download": {
+                "default": "https://huggingface.co/AlenBadel/Yi-34B-200K-20240307-GGUF/resolve/main/yi-34b-200k-20240307-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "yi-34b-200k-20240307-Q5_K_S.gguf",
+            "size": "23707691104",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "5e240e61ac437d289e18484c7727ac57615c1ba4288a5d276370afe1576ce251",
+            "download": {
+                "default": "https://huggingface.co/AlenBadel/Yi-34B-200K-20240307-GGUF/resolve/main/yi-34b-200k-20240307-Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

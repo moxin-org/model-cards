@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/MonarchCoder-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-29T00:23:40Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "MonarchCoder-7B.IQ3_M.gguf",
+            "size": "3439515616",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "1b8c63edd547aac58ca5a484d063c6e559d5f166aaf2c856e7d5004fff580351",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MonarchCoder-7B-GGUF/resolve/main/MonarchCoder-7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "MonarchCoder-7B.IQ3_S.gguf",
+            "size": "3337017312",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "5f16918ae49bbcfdd3701652b2f2a695d20915d74f2377e339e266fb352d096e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MonarchCoder-7B-GGUF/resolve/main/MonarchCoder-7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "MonarchCoder-7B.IQ3_XS.gguf",
+            "size": "3173439456",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "06e1d3a2e2be3328c17519edd007cc72140fc1caa7966a6df3acb9dd1ae70a3c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MonarchCoder-7B-GGUF/resolve/main/MonarchCoder-7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "MonarchCoder-7B.IQ4_NL.gguf",
+            "size": "4309678048",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "94b1279e4a2e8e3fe59c7fddb9d66aacee0873f9db736c49eb26edb571b1bee6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MonarchCoder-7B-GGUF/resolve/main/MonarchCoder-7B.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "MonarchCoder-7B.IQ4_XS.gguf",
+            "size": "4099012576",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "06aadfa48ef4f1971654a6914574905ddb04c38e290b00505ffda591b89afff9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MonarchCoder-7B-GGUF/resolve/main/MonarchCoder-7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "MonarchCoder-7B.Q2_K.gguf",
+            "size": "2873866208",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "4a73c8fe36eb56e0818f64cf8c1925be69dba389b49a344364d299302ba22a8b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MonarchCoder-7B-GGUF/resolve/main/MonarchCoder-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "MonarchCoder-7B.Q3_K_L.gguf",
+            "size": "3976648672",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "162c2bf30ee5bfaf787c3b1ccc0bbba4e46a4bd6110279fabeb01b74598e1a45",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MonarchCoder-7B-GGUF/resolve/main/MonarchCoder-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "MonarchCoder-7B.Q3_K_M.gguf",
+            "size": "3673610208",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "33ea46c91a1aceae18390eb7ea4b550e8636652d57f4f586c41cd8cc039dc622",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MonarchCoder-7B-GGUF/resolve/main/MonarchCoder-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "MonarchCoder-7B.Q3_K_S.gguf",
+            "size": "3319191520",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "1cf622bba18fd0c65a0d6e4ac1f6b03d5e5bd7417dc3a364f6d55feef67e93a7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MonarchCoder-7B-GGUF/resolve/main/MonarchCoder-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "MonarchCoder-7B.Q4_0.gguf",
+            "size": "4263540704",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "f630cf48207cfa0a71c630de26dd7064b7d2414ebba26964511e37b7d1089100",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MonarchCoder-7B-GGUF/resolve/main/MonarchCoder-7B.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "MonarchCoder-7B.Q4_K_M.gguf",
+            "size": "4523063264",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "d1d377028ffc72ad4b09ab3344a996ea43a866fdf1c871d8d12b25df97030e55",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MonarchCoder-7B-GGUF/resolve/main/MonarchCoder-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "MonarchCoder-7B.Q4_K_S.gguf",
+            "size": "4294997984",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "8d0e3db5d3f0c4c90b75a754e7e1ee2730b48a44ad908a114c3f7a3c7546e309",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MonarchCoder-7B-GGUF/resolve/main/MonarchCoder-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "MonarchCoder-7B.Q5_K_M.gguf",
+            "size": "5286033376",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5e80f155e082047664069eaa0c278a78065ac83b59d2d5ff04ddb63062d08f34",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MonarchCoder-7B-GGUF/resolve/main/MonarchCoder-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "MonarchCoder-7B.Q5_K_S.gguf",
+            "size": "5152339936",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "924cd274cce1d9643f9c9df0c9b6dc1d3b82c5cc13b64011d31db389219b5eda",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MonarchCoder-7B-GGUF/resolve/main/MonarchCoder-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "MonarchCoder-7B.Q6_K.gguf",
+            "size": "6096689120",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "a81d64251a828fbb154b7ad2fe1e508c7d0055875b65cc97c5c123bf9bf2bd36",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MonarchCoder-7B-GGUF/resolve/main/MonarchCoder-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "MonarchCoder-7B.Q8_0.gguf",
+            "size": "7818737632",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "c786d1626297f9aafae9c5994bff46ac4046af3f9fd943b0534977f028359d7d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MonarchCoder-7B-GGUF/resolve/main/MonarchCoder-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

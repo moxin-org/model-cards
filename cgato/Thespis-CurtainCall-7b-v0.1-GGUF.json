@@ -1,0 +1,63 @@
+{
+    "id": "cgato/Thespis-CurtainCall-7b-v0.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "cgato",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-23T01:14:13Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Thespis-CurtainCall-v0.1-Q4_K_M.gguf",
+            "size": "4368438976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "ffe73770e76c29d2da1d53bd4c08cbe512e2ca3d653031b9591131995ff84542",
+            "download": {
+                "default": "https://huggingface.co/cgato/Thespis-CurtainCall-7b-v0.1-GGUF/resolve/main/Thespis-CurtainCall-v0.1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Thespis-CurtainCall-v0.1-Q5_K_M.gguf",
+            "size": "5131409088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "efd07a2e1fffaa75cc1bf326a3f1b05edb1f5c6133732b1e99122776d5ae356d",
+            "download": {
+                "default": "https://huggingface.co/cgato/Thespis-CurtainCall-7b-v0.1-GGUF/resolve/main/Thespis-CurtainCall-v0.1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Thespis-CurtainCall-v0.1-Q6_K.gguf",
+            "size": "5942064832",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "a21b60905822bd75193410ce994fcbbabeeed36a16b287882526cbdc329d5450",
+            "download": {
+                "default": "https://huggingface.co/cgato/Thespis-CurtainCall-7b-v0.1-GGUF/resolve/main/Thespis-CurtainCall-v0.1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Thespis-CurtainCall-v0.1-Q8_0.gguf",
+            "size": "7695857344",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "9db1e08398aba65d84f9282eb49affe19c9bdc2df14547f29c6d29a7eba3f815",
+            "download": {
+                "default": "https://huggingface.co/cgato/Thespis-CurtainCall-7b-v0.1-GGUF/resolve/main/Thespis-CurtainCall-v0.1-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,203 @@
+{
+    "id": "andrijdavid/phi-2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "andrijdavid",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-19T16:47:22Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-Q4_K_S.gguf",
+            "size": "1615568736",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "44136c699e7cb57094b6445be5c73b7fa0ed90c8d3d34efb3cb445ede744cec7",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/phi-2-GGUF/resolve/main/ggml-model-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q8_0.gguf",
+            "size": "2958032736",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "26a44c5a2bc22f33a1271cdf1accb689028141a6cb12e97671740a9803d23c63",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/phi-2-GGUF/resolve/main/ggml-model-Q8_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q6_K.gguf",
+            "size": "2285059936",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "8d5bfe64287b8aa2614e62490e782f744fa1a2616b1346cb93a121821d7a4bb8",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/phi-2-GGUF/resolve/main/ggml-model-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q5_K.gguf",
+            "size": "2072682336",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "4a9bbc79525f3097e79bbf91374b89522df030ea9aaf58cb1c318a91cdbba8cf",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/phi-2-GGUF/resolve/main/ggml-model-Q5_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q5_K_S.gguf",
+            "size": "1933418336",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "26f34efdbc39eb184d1d84ea019911612463d341c6d7e191663fdec35b86edb4",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/phi-2-GGUF/resolve/main/ggml-model-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q5_K_M.gguf",
+            "size": "2072682336",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "4a9bbc79525f3097e79bbf91374b89522df030ea9aaf58cb1c318a91cdbba8cf",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/phi-2-GGUF/resolve/main/ggml-model-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q5_1.gguf",
+            "size": "2098896736",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "8a1ffc60dae9846c8f34d5a969fd34532f066656b78a4a341f1b78d8f7b33e99",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/phi-2-GGUF/resolve/main/ggml-model-Q5_1.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q5_0.gguf",
+            "size": "1933418336",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "a7d08efff23bc76f1575098a70e491f4405f8605555559d9f9839b92d360e622",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/phi-2-GGUF/resolve/main/ggml-model-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q4_K.gguf",
+            "size": "1789239136",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "85612400fc3a137ff36013f4889fc03783077c788a53cc13decd5c176f1fb0e3",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/phi-2-GGUF/resolve/main/ggml-model-Q4_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-f16.gguf",
+            "size": "5563088672",
+            "quantization": "",
+            "tags": [],
+            "sha256": "edcdc2f26e5db840d32c1f32c66e566583b1f8ca4c103e45f767adbb2d43a5b4",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/phi-2-GGUF/resolve/main/ggml-model-f16.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q4_K_M.gguf",
+            "size": "1789239136",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "85612400fc3a137ff36013f4889fc03783077c788a53cc13decd5c176f1fb0e3",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/phi-2-GGUF/resolve/main/ggml-model-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q4_1.gguf",
+            "size": "1767939936",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "0e3874b91e257ed836c68c502aaa1e93c6294354f08115d31c7e652e082bd789",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/phi-2-GGUF/resolve/main/ggml-model-Q4_1.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q4_0.gguf",
+            "size": "1602461536",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "73c2de6ab3d036f441474c3607ab5104a5a80e808c27e73fe4f54c07566f18a5",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/phi-2-GGUF/resolve/main/ggml-model-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q3_K.gguf",
+            "size": "1480195936",
+            "quantization": "Q3_K",
+            "tags": [],
+            "sha256": "55e39356e204419b0d2c5fe2a970964f53cf5b74f7bcf68b3b7e782edb910331",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/phi-2-GGUF/resolve/main/ggml-model-Q3_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q3_K_S.gguf",
+            "size": "1250819936",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "70241ac2ad8ec895a67b280c1c3a2f5c801745c67fd9a58ac429043dda6e9954",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/phi-2-GGUF/resolve/main/ggml-model-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q3_K_M.gguf",
+            "size": "1480195936",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "55e39356e204419b0d2c5fe2a970964f53cf5b74f7bcf68b3b7e782edb910331",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/phi-2-GGUF/resolve/main/ggml-model-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q3_K_L.gguf",
+            "size": "1604714336",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "198f6ae0c1d80088da6484af0eb74dedf88051a9f0af7180146d3ea09d252594",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/phi-2-GGUF/resolve/main/ggml-model-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q2_K.gguf",
+            "size": "1173610336",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "d50c7670b660e5a05bf93277dae0f1a771b3a0200c07325d3b07e8afd1a41867",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/phi-2-GGUF/resolve/main/ggml-model-Q2_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

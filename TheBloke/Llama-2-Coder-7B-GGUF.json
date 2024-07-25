@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/Llama-2-Coder-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-13T16:28:12Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llama-2-coder-7b.Q2_K.gguf",
+            "size": "2825940672",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "1e0abb55eeda3b8818e018bbefd0bb86aefe58664c9dba649ce99db4e704a171",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Llama-2-Coder-7B-GGUF/resolve/main/llama-2-coder-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "llama-2-coder-7b.Q3_K_L.gguf",
+            "size": "3597110976",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "ff7acb128828649d9ff1300671ec736c81c84be9ee50591c027183ce7cd03605",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Llama-2-Coder-7B-GGUF/resolve/main/llama-2-coder-7b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "llama-2-coder-7b.Q3_K_M.gguf",
+            "size": "3298004672",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "a80eda728f064acee84d9c87a14e8f5f8fd716a6bb007cfd9e492db18df2bf53",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Llama-2-Coder-7B-GGUF/resolve/main/llama-2-coder-7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama-2-coder-7b.Q3_K_S.gguf",
+            "size": "2948304576",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "59477eae936c5c267db7d6c533dc31a5d044ddb040f3833e1f284569f5fbb680",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Llama-2-Coder-7B-GGUF/resolve/main/llama-2-coder-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "llama-2-coder-7b.Q4_0.gguf",
+            "size": "3825807040",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "fd3b492f3ee9ddfe0de200dbd3e82e23553dde6788e1b301722f86b3b18b9202",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Llama-2-Coder-7B-GGUF/resolve/main/llama-2-coder-7b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "llama-2-coder-7b.Q4_K_M.gguf",
+            "size": "4081004224",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "2bf7c50b7b5cc0484290b104caebff7d559f9e6f72d497941eb05c0c95661388",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Llama-2-Coder-7B-GGUF/resolve/main/llama-2-coder-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama-2-coder-7b.Q4_K_S.gguf",
+            "size": "3856740032",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "74ad642faa541742435c52b2f29b392922bb258d70014c7c6929664eb563ac60",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Llama-2-Coder-7B-GGUF/resolve/main/llama-2-coder-7b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "llama-2-coder-7b.Q5_0.gguf",
+            "size": "4651691712",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "71fa426fba1c1333605f57f46b3bee1c5caf77f0ffc1ac1cb784beaa6691f223",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Llama-2-Coder-7B-GGUF/resolve/main/llama-2-coder-7b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "llama-2-coder-7b.Q5_K_M.gguf",
+            "size": "4783156928",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f616329e71e51da808f6232c03e056dd018f5cdde2e5c6d1a51f3320af56bdd9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Llama-2-Coder-7B-GGUF/resolve/main/llama-2-coder-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama-2-coder-7b.Q5_K_S.gguf",
+            "size": "4651691712",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "70926513adc846fd042a4555907939b26dd914c4f478accaca1ba80641abb626",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Llama-2-Coder-7B-GGUF/resolve/main/llama-2-coder-7b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "llama-2-coder-7b.Q6_K.gguf",
+            "size": "5529194176",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "a90fbc5b64327f3ce1dcc9ac23ddbcb210d5dd7b27b601adbbfe574a3f12f630",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Llama-2-Coder-7B-GGUF/resolve/main/llama-2-coder-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "llama-2-coder-7b.Q8_0.gguf",
+            "size": "7161089728",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "86d2e636476307023ee4c4c64eb9d965389f5dd95a6cfa8c7b76f8b8e82a97f5",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Llama-2-Coder-7B-GGUF/resolve/main/llama-2-coder-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

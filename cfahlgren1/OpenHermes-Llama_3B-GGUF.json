@@ -1,0 +1,43 @@
+{
+    "id": "cfahlgren1/OpenHermes-Llama_3B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "cfahlgren1",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-29T05:03:56Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "openhermes-llama_3b.Q4_K_M.gguf",
+            "size": "2581109216",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "33a73e2de07fd1fe1d293e8ea1de0bd6cf4be193aba6e132b43d82e6d56cbfef",
+            "download": {
+                "default": "https://huggingface.co/cfahlgren1/OpenHermes-Llama_3B-GGUF/resolve/main/openhermes-llama_3b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "openhermes-llama_3b.Q5_K_M.gguf",
+            "size": "2758069216",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "12f6fb9d17dea5f4de42fa7518afcf5c41ec36f316a0b1f893ff82a38f86ce19",
+            "download": {
+                "default": "https://huggingface.co/cfahlgren1/OpenHermes-Llama_3B-GGUF/resolve/main/openhermes-llama_3b.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

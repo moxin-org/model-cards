@@ -1,0 +1,93 @@
+{
+    "id": "RichardErkhov/Gemmalpaca-7B-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "RichardErkhov",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-25T20:00:47Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Gemmalpaca-7B.Q2_K.gguf",
+            "size": "3094374752",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "0b977df36a2e02b569af3506c7d455111b0fe646c77e97daf2856fbd358e8857",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Gemmalpaca-7B-gguf/resolve/main/Gemmalpaca-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Gemmalpaca-7B.Q3_K_L.gguf",
+            "size": "4401867104",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "60ccd036ca5f49b265cdab34d4716e1c52277c925040a19e89511ad48c1e3634",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Gemmalpaca-7B-gguf/resolve/main/Gemmalpaca-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Gemmalpaca-7B.Q3_K_M.gguf",
+            "size": "4062128480",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "a4d120d76907122d28d22ff258c7005ed6d68f7aedb5ce46f5e32b860ca35621",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Gemmalpaca-7B-gguf/resolve/main/Gemmalpaca-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Gemmalpaca-7B.Q3_K_S.gguf",
+            "size": "3675203936",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "3a9429728a546416ee24336119e28862731387e39a1d3f632976699dfb96cb34",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Gemmalpaca-7B-gguf/resolve/main/Gemmalpaca-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Gemmalpaca-7B.Q4_0.gguf",
+            "size": "4809091424",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "1574915147b25cd44cfd04f55ced523cc8e51f52646550684438f38b4a6c2b4c",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Gemmalpaca-7B-gguf/resolve/main/Gemmalpaca-7B.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Gemmalpaca-7B.Q4_K_M.gguf",
+            "size": "5127006560",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "243abf04302bd896219a82b2487d3a45efda1ed855ffbf2849d9ccc582433f77",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Gemmalpaca-7B-gguf/resolve/main/Gemmalpaca-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Gemmalpaca-7B.Q4_K_S.gguf",
+            "size": "4843694432",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "7b28c874e31f4243c1e3c4a48f4b764b254ef59f46085e584b4cfbf860daf768",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Gemmalpaca-7B-gguf/resolve/main/Gemmalpaca-7B.Q4_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

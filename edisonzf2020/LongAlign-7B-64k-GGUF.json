@@ -1,0 +1,63 @@
+{
+    "id": "edisonzf2020/LongAlign-7B-64k-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "edisonzf2020",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-05T15:18:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "LongAlign-7B-64k.F16.gguf",
+            "size": "13482306368",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ef8329825002dc551b3889c0cc663b4dba130f9dff41b0dfec5d706bc1daa50e",
+            "download": {
+                "default": "https://huggingface.co/edisonzf2020/LongAlign-7B-64k-GGUF/resolve/main/LongAlign-7B-64k.F16.gguf"
+            }
+        },
+        {
+            "name": "longalign-7b-64k.Q4_K_M.gguf",
+            "size": "4082461536",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "bc8afe608bcb3eb13877c929189c6b19e470be59d3f09d304b963ef2e014508a",
+            "download": {
+                "default": "https://huggingface.co/edisonzf2020/LongAlign-7B-64k-GGUF/resolve/main/longalign-7b-64k.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "longalign-7b-64k.Q5_K_M.gguf",
+            "size": "4784745312",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "cd56b01197ac4c9b13ad84aa3b47f5e20282a93a7249ce8f3d77d1febb35a403",
+            "download": {
+                "default": "https://huggingface.co/edisonzf2020/LongAlign-7B-64k-GGUF/resolve/main/longalign-7b-64k.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "LongAlign-7B-64k.Q8_0.gguf",
+            "size": "7163325248",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "0ee22f9c933bbf6cd7356349abcd12a869100c0d42ed0daaf3fd7b6086650b94",
+            "download": {
+                "default": "https://huggingface.co/edisonzf2020/LongAlign-7B-64k-GGUF/resolve/main/LongAlign-7B-64k.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

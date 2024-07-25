@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/vicuna-7B-v1.5-16K-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-05T04:00:37Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "vicuna-7b-v1.5-16k.Q2_K.gguf",
+            "size": "2825940736",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a755a06ac47e8d00cf829f2d96bc7b0d8420044f5ed909bdd5c406f1943511eb",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/vicuna-7B-v1.5-16K-GGUF/resolve/main/vicuna-7b-v1.5-16k.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "vicuna-7b-v1.5-16k.Q3_K_L.gguf",
+            "size": "3597111040",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "3fd15d3c01de848e8e12e8c185cae005e95fdddd881de8b7305c73f51c40cf3c",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/vicuna-7B-v1.5-16K-GGUF/resolve/main/vicuna-7b-v1.5-16k.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "vicuna-7b-v1.5-16k.Q3_K_M.gguf",
+            "size": "3298004736",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "b63e745f77186f1813235decf86013b1f0065d4ea9523c199add926b58d736e7",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/vicuna-7B-v1.5-16K-GGUF/resolve/main/vicuna-7b-v1.5-16k.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "vicuna-7b-v1.5-16k.Q3_K_S.gguf",
+            "size": "2948304640",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "0f4692e6a86c3a4117aa7f9f1b8bfac04969705e46bd48aa7611cf32c4df9104",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/vicuna-7B-v1.5-16K-GGUF/resolve/main/vicuna-7b-v1.5-16k.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "vicuna-7b-v1.5-16k.Q4_0.gguf",
+            "size": "3825807104",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "1d2bfdf573ffe1cb64a7bd3fe381873745c711e78e22d121f1fb2ac864b01b14",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/vicuna-7B-v1.5-16K-GGUF/resolve/main/vicuna-7b-v1.5-16k.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "vicuna-7b-v1.5-16k.Q4_K_M.gguf",
+            "size": "4081004288",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "6acb9edf36abc63c850325a08b5590ca5242be9eea3e6d19e05fb76e2c79747e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/vicuna-7B-v1.5-16K-GGUF/resolve/main/vicuna-7b-v1.5-16k.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "vicuna-7b-v1.5-16k.Q4_K_S.gguf",
+            "size": "3856740096",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "e8c48097b829849dd0558e6c2deae5f512f3e1605ff137a64f3e111e9f19098d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/vicuna-7B-v1.5-16K-GGUF/resolve/main/vicuna-7b-v1.5-16k.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "vicuna-7b-v1.5-16k.Q5_0.gguf",
+            "size": "4651691776",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "f9b8b8c38ff908e3b3a262a359e89e584fd4c819e8bdf72bf84e98900344ca16",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/vicuna-7B-v1.5-16K-GGUF/resolve/main/vicuna-7b-v1.5-16k.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "vicuna-7b-v1.5-16k.Q5_K_M.gguf",
+            "size": "4783156992",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "8c3396bbde209c60722fee13817afb7abcdaa1d08742bfaddca7f0eb2751d2b2",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/vicuna-7B-v1.5-16K-GGUF/resolve/main/vicuna-7b-v1.5-16k.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "vicuna-7b-v1.5-16k.Q5_K_S.gguf",
+            "size": "4651691776",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "76be88ddfa29548f2d9c17fec3c7f2c0903308e17dee93290dd5c4d65810b87a",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/vicuna-7B-v1.5-16K-GGUF/resolve/main/vicuna-7b-v1.5-16k.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "vicuna-7b-v1.5-16k.Q6_K.gguf",
+            "size": "5529194240",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "3981d793843a47dc72b081b012a4300c93448048dd4ad8ebb3f6391af5d9e749",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/vicuna-7B-v1.5-16K-GGUF/resolve/main/vicuna-7b-v1.5-16k.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "vicuna-7b-v1.5-16k.Q8_0.gguf",
+            "size": "7161089792",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "c623dc9b14112ae7c8327e1be8fcb4cf69027f018839518c3c4cedb44b1a91d1",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/vicuna-7B-v1.5-16K-GGUF/resolve/main/vicuna-7b-v1.5-16k.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

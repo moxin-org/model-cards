@@ -1,0 +1,53 @@
+{
+    "id": "NikolayKozloff/Llama-2-13b-Romanian-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "NikolayKozloff",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-15T00:46:29Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Llama-2-13b-Romanian-Q4_K_M.gguf",
+            "size": "7865956288",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "f2304ce62d9de382a21ba5d4b8ce7212a0749fb2e79674c4b06b26d174edcf54",
+            "download": {
+                "default": "https://huggingface.co/NikolayKozloff/Llama-2-13b-Romanian-GGUF/resolve/main/Llama-2-13b-Romanian-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-13b-Romanian-Q5_K_M.gguf",
+            "size": "9229924288",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "9ad52fb6a84e2582390a76aed1219c4b80c802734fe59eb0a97c34c7e844f6dd",
+            "download": {
+                "default": "https://huggingface.co/NikolayKozloff/Llama-2-13b-Romanian-GGUF/resolve/main/Llama-2-13b-Romanian-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-13b-Romanian-Q6_K.gguf",
+            "size": "10679140288",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "7f8077da3e019a2d1665c877d0aca587c88f22a76e0125e5d9dae42323473a84",
+            "download": {
+                "default": "https://huggingface.co/NikolayKozloff/Llama-2-13b-Romanian-GGUF/resolve/main/Llama-2-13b-Romanian-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

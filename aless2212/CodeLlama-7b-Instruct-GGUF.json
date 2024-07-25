@@ -1,0 +1,53 @@
+{
+    "id": "aless2212/CodeLlama-7b-Instruct-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "aless2212",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-19T22:08:01Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "CodeLlama-7b-Instruct.Q4_K_M.gguf",
+            "size": "4081096288",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e2365fc58c6bab2dbb23f47ee43492106bd7935f2980c5645864fb36e0c22ff0",
+            "download": {
+                "default": "https://huggingface.co/aless2212/CodeLlama-7b-Instruct-GGUF/resolve/main/CodeLlama-7b-Instruct.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-7b-Instruct.Q5_K_M.gguf",
+            "size": "4783257184",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "24a7e34e340387e47046a1c93d3a3ca5ad7f4e53572066bc4efed22baa9c6549",
+            "download": {
+                "default": "https://huggingface.co/aless2212/CodeLlama-7b-Instruct-GGUF/resolve/main/CodeLlama-7b-Instruct.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-7b-Instruct.Q6_K.gguf",
+            "size": "5529303136",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "00b7a8c712d2e26e96fc0fa2209ee667a461e6f370873a95409d27aa515fe2c2",
+            "download": {
+                "default": "https://huggingface.co/aless2212/CodeLlama-7b-Instruct-GGUF/resolve/main/CodeLlama-7b-Instruct.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

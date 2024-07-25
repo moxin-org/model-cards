@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Mnemosyne-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-08T14:58:58Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Mnemosyne-7B.IQ3_M.gguf",
+            "size": "3284891840",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "31c800fc5c2a664e7ddfc0f709cf4057d57d8c768fe1bb8c0e56bc7d632fe6ba",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mnemosyne-7B-GGUF/resolve/main/Mnemosyne-7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Mnemosyne-7B.IQ3_S.gguf",
+            "size": "3182393536",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "4e02df4b0a4e39a024f0da9137d9faa4ad1dfd4871679609fcf951a82670506b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mnemosyne-7B-GGUF/resolve/main/Mnemosyne-7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Mnemosyne-7B.IQ3_XS.gguf",
+            "size": "3018815680",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "e474162b8cea3db6ca697e6a7da1dcbb24bb10f8b275754221193a7d0a66bb5c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mnemosyne-7B-GGUF/resolve/main/Mnemosyne-7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Mnemosyne-7B.IQ4_XS.gguf",
+            "size": "3944388800",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "c2f48b9b4540dd81ff100d014c0bda968285842f7b6f1695a9c5249abdc8a51b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mnemosyne-7B-GGUF/resolve/main/Mnemosyne-7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Mnemosyne-7B.Q2_K.gguf",
+            "size": "2719242432",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "e763d4ee6b363c9c1d33c35be5ab40730ae4cf531d1e123a1c1e231e0b5df384",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mnemosyne-7B-GGUF/resolve/main/Mnemosyne-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Mnemosyne-7B.Q3_K_L.gguf",
+            "size": "3822024896",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "04b9228ef6b70b6ca83f43e7dcedb111c8a976c21648e1d389875feaee5cc455",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mnemosyne-7B-GGUF/resolve/main/Mnemosyne-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Mnemosyne-7B.Q3_K_M.gguf",
+            "size": "3518986432",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "93b7581c841664d80a03fa94e09adeb8441362800b0393411daa8ad51de2ff83",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mnemosyne-7B-GGUF/resolve/main/Mnemosyne-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mnemosyne-7B.Q3_K_S.gguf",
+            "size": "3164567744",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "302098186e31d49150a2cde55158b89f91f82f6e56eef17c7587fd4f3648c9a9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mnemosyne-7B-GGUF/resolve/main/Mnemosyne-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mnemosyne-7B.Q4_K_M.gguf",
+            "size": "4368439488",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "192af4f9414d22f43f15c847cc572106496a1f7175746132c00eb0e24e8ce028",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mnemosyne-7B-GGUF/resolve/main/Mnemosyne-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mnemosyne-7B.Q4_K_S.gguf",
+            "size": "4140374208",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "1cb0ad03e3ad10d17654931dc198b3f67292ef7484147e5f77d05bdc101bd49f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mnemosyne-7B-GGUF/resolve/main/Mnemosyne-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mnemosyne-7B.Q5_K_M.gguf",
+            "size": "5131409600",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "cfe978df6b357f32febcb8d9990dd9bd48b2c8490b30fdf1d6f86df6798f1bd9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mnemosyne-7B-GGUF/resolve/main/Mnemosyne-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mnemosyne-7B.Q5_K_S.gguf",
+            "size": "4997716160",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "9e4e31b68baae2727ff62afc415e446cc0ce559b64077ae19dfe53a648c495fc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mnemosyne-7B-GGUF/resolve/main/Mnemosyne-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mnemosyne-7B.Q6_K.gguf",
+            "size": "5942065344",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "e5682e3eac74087029c8d5b963d76f59504fcb3a0241aedcac13cb47cd48075f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mnemosyne-7B-GGUF/resolve/main/Mnemosyne-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Mnemosyne-7B.Q8_0.gguf",
+            "size": "7695857856",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "89f0066dd982ade35df570eab3f9bf361d88b577091e95efe3485fb25b91381c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mnemosyne-7B-GGUF/resolve/main/Mnemosyne-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

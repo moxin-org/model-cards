@@ -1,0 +1,233 @@
+{
+    "id": "mradermacher/Aurora-Nights-70B-v1.0-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-18T20:20:10Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Aurora-Nights-70B-v1.0.i1-IQ4_XS.gguf",
+            "size": "37139067968",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "34efb0590db64b7db23c157b48a3bcaa78e84ef176b0226269d9cabf8d29b0db",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Aurora-Nights-70B-v1.0-i1-GGUF/resolve/main/Aurora-Nights-70B-v1.0.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Aurora-Nights-70B-v1.0.i1-Q5_K_S.gguf",
+            "size": "47770645568",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "1afbe5afbedb5b8f2b5ac5485e4e926d5133ff2568697cda835b2862045ff322",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Aurora-Nights-70B-v1.0-i1-GGUF/resolve/main/Aurora-Nights-70B-v1.0.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Aurora-Nights-70B-v1.0.i1-Q5_K_M.gguf",
+            "size": "49063015488",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ee7d5aab98e23f3f88201ba8d93784e1da295cdcd4554678d9c2a98346980574",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Aurora-Nights-70B-v1.0-i1-GGUF/resolve/main/Aurora-Nights-70B-v1.0.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Aurora-Nights-70B-v1.0.i1-Q4_K_S.gguf",
+            "size": "39558984768",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "38267d7fcd7df04405b6a15ef20528a4a195add71ea6a8b618e1cf78a4efa9d9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Aurora-Nights-70B-v1.0-i1-GGUF/resolve/main/Aurora-Nights-70B-v1.0.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Aurora-Nights-70B-v1.0.i1-Q4_K_M.gguf",
+            "size": "41732158528",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "ea662f5e6ce0687c796502cc33aa6b80f1d7c554e09924b339f53a3c5d61378b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Aurora-Nights-70B-v1.0-i1-GGUF/resolve/main/Aurora-Nights-70B-v1.0.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Aurora-Nights-70B-v1.0.i1-Q4_0.gguf",
+            "size": "39019050048",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "8c3e35a6f657fed5811abc4a06a0d648ca1f09df4c5c4f439b1c34f17f229dd7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Aurora-Nights-70B-v1.0-i1-GGUF/resolve/main/Aurora-Nights-70B-v1.0.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Aurora-Nights-70B-v1.0.i1-Q3_K_XS.gguf",
+            "size": "28563928128",
+            "quantization": "Q3_K_XS",
+            "tags": [],
+            "sha256": "2622867e62ec836ded7f61d52c7bca7d4da622439bac63f83ba0f84b73e47540",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Aurora-Nights-70B-v1.0-i1-GGUF/resolve/main/Aurora-Nights-70B-v1.0.i1-Q3_K_XS.gguf"
+            }
+        },
+        {
+            "name": "Aurora-Nights-70B-v1.0.i1-Q3_K_S.gguf",
+            "size": "30228542528",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "962ed264144d983864dda37af795f1153b0575c2ed43de5c5e0cc179ff112c6c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Aurora-Nights-70B-v1.0-i1-GGUF/resolve/main/Aurora-Nights-70B-v1.0.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Aurora-Nights-70B-v1.0.i1-Q3_K_M.gguf",
+            "size": "33583985728",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "117654b65184db6b6239916b6aeb11c275952ca4045aeb561bff364f836e78b7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Aurora-Nights-70B-v1.0-i1-GGUF/resolve/main/Aurora-Nights-70B-v1.0.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Aurora-Nights-70B-v1.0.i1-Q3_K_L.gguf",
+            "size": "36457083968",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "c85a535c894656810b5edb1c0a97c5711c032c5f2018b6640b1c7e1bd5eb562b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Aurora-Nights-70B-v1.0-i1-GGUF/resolve/main/Aurora-Nights-70B-v1.0.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Aurora-Nights-70B-v1.0.i1-Q2_K.gguf",
+            "size": "25771684928",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "c63910abf43348c2fb683743752b3e1a4cf915bc4422ea1b71819924821a6570",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Aurora-Nights-70B-v1.0-i1-GGUF/resolve/main/Aurora-Nights-70B-v1.0.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Aurora-Nights-70B-v1.0.i1-IQ1_M.gguf",
+            "size": "15943251008",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "4a30236b450836b9b40be67563e431e1e79ad6ef929ebe05775e6437c63620cd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Aurora-Nights-70B-v1.0-i1-GGUF/resolve/main/Aurora-Nights-70B-v1.0.i1-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "Aurora-Nights-70B-v1.0.i1-IQ3_XXS.gguf",
+            "size": "27337831488",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "14c2f92e42a819e0589fdb10de193059839b75749f8e00398dc6c4dc51a7cc03",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Aurora-Nights-70B-v1.0-i1-GGUF/resolve/main/Aurora-Nights-70B-v1.0.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "Aurora-Nights-70B-v1.0.i1-IQ3_XS.gguf",
+            "size": "28451206208",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "9f8b410b3c16676192559c2a4c31959a75dc95c4abe646a0a4087db2b935e153",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Aurora-Nights-70B-v1.0-i1-GGUF/resolve/main/Aurora-Nights-70B-v1.0.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Aurora-Nights-70B-v1.0.i1-IQ3_S.gguf",
+            "size": "30228542528",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "636bb029a2d87c6b35cb7194ccbb0d12a61166fead4820090be764073dcdb9bb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Aurora-Nights-70B-v1.0-i1-GGUF/resolve/main/Aurora-Nights-70B-v1.0.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Aurora-Nights-70B-v1.0.i1-IQ3_M.gguf",
+            "size": "31253525568",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "7b4bd9e9354ec0a9a4b1177e31b6a1821ad74c985fc358d94a63b56d340aafe4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Aurora-Nights-70B-v1.0-i1-GGUF/resolve/main/Aurora-Nights-70B-v1.0.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Aurora-Nights-70B-v1.0.i1-IQ2_XXS.gguf",
+            "size": "18633503808",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "7c490d77bbee4d36e17fb5a572f1a30bfb31e9cb83b0d279ecfdd75c2ad7d9bb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Aurora-Nights-70B-v1.0-i1-GGUF/resolve/main/Aurora-Nights-70B-v1.0.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "Aurora-Nights-70B-v1.0.i1-IQ2_XS.gguf",
+            "size": "20678227008",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "884a1e8106addbb88e3f0ef6eeef8b4a3d4d32142844f13433aedfba25014fd8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Aurora-Nights-70B-v1.0-i1-GGUF/resolve/main/Aurora-Nights-70B-v1.0.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Aurora-Nights-70B-v1.0.i1-IQ2_S.gguf",
+            "size": "21698376768",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "eaba06f833eb9077369ce195c6cd3822d64497490df92300b8212ea7ec8f43c9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Aurora-Nights-70B-v1.0-i1-GGUF/resolve/main/Aurora-Nights-70B-v1.0.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "Aurora-Nights-70B-v1.0.i1-IQ2_M.gguf",
+            "size": "23575327808",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "400c52743a9925c657b453bfc906c23f928d4f79cabf3274cc18ac2d0c72f15f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Aurora-Nights-70B-v1.0-i1-GGUF/resolve/main/Aurora-Nights-70B-v1.0.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "Aurora-Nights-70B-v1.0.i1-IQ1_S.gguf",
+            "size": "14879601728",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "e0b9268c4f7be35fbccf0d47350f9af3a27d44202e8466b17171241fe8a84669",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Aurora-Nights-70B-v1.0-i1-GGUF/resolve/main/Aurora-Nights-70B-v1.0.i1-IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

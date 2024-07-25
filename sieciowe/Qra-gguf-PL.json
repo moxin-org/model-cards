@@ -1,0 +1,53 @@
+{
+    "id": "sieciowe/Qra-gguf-PL",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "sieciowe",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-23T17:10:13Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Qra-7b-ggml-model-Q4_K_M.gguf",
+            "size": "4081004384",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "421d91dc26f856f09712a7c1a4a8e005af3335041da24f20fe59ee61819401b0",
+            "download": {
+                "default": "https://huggingface.co/sieciowe/Qra-gguf-PL/resolve/main/Qra-7b-ggml-model-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Qra-7b-ggml-model-Q5_K_M.gguf",
+            "size": "4783157088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "402a8a732b95c2a959bd20d4b0728d30c3a0defc3527a3fdc0fa833e144cf831",
+            "download": {
+                "default": "https://huggingface.co/sieciowe/Qra-gguf-PL/resolve/main/Qra-7b-ggml-model-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Qra-7b-ggml-model-Q6_K.gguf",
+            "size": "5529194336",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "21884758e8eb9cdd5180f25c762bbe07c61e5eb788ad7d1e4df76cc23dbf1c38",
+            "download": {
+                "default": "https://huggingface.co/sieciowe/Qra-gguf-PL/resolve/main/Qra-7b-ggml-model-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

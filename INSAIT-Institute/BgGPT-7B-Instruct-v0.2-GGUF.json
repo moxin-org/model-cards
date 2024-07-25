@@ -1,0 +1,93 @@
+{
+    "id": "INSAIT-Institute/BgGPT-7B-Instruct-v0.2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "INSAIT-Institute",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-03T22:06:11Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "BgGPT-7B-Instruct-v0.2.F16.gguf",
+            "size": "14583208864",
+            "quantization": "",
+            "tags": [],
+            "sha256": "675128ef28e53d24ea2cff2b131338d7686487ae09fb8feb9c3371a21699cc16",
+            "download": {
+                "default": "https://huggingface.co/INSAIT-Institute/BgGPT-7B-Instruct-v0.2-GGUF/resolve/main/BgGPT-7B-Instruct-v0.2.F16.gguf"
+            }
+        },
+        {
+            "name": "BgGPT-7B-Instruct-v0.2.Q4_K_M.gguf",
+            "size": "4402596288",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5a2ae4dc19771421dcefc112a8211f82eb30134a466b760eeadfec739c92b9e6",
+            "download": {
+                "default": "https://huggingface.co/INSAIT-Institute/BgGPT-7B-Instruct-v0.2-GGUF/resolve/main/BgGPT-7B-Instruct-v0.2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "BgGPT-7B-Instruct-v0.2.Q4_K_S.gguf",
+            "size": "4174531008",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "d2520f294153204a206c3cefae88fe15132658e777c64c8aa7f4747bc352fa33",
+            "download": {
+                "default": "https://huggingface.co/INSAIT-Institute/BgGPT-7B-Instruct-v0.2-GGUF/resolve/main/BgGPT-7B-Instruct-v0.2.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "BgGPT-7B-Instruct-v0.2.Q5_K_M.gguf",
+            "size": "5168638400",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f904454cb233bfca8e1ac3ae31db9737cbd8ebcf62239c398fcd8390f67cf07c",
+            "download": {
+                "default": "https://huggingface.co/INSAIT-Institute/BgGPT-7B-Instruct-v0.2-GGUF/resolve/main/BgGPT-7B-Instruct-v0.2.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "BgGPT-7B-Instruct-v0.2.Q5_K_S.gguf",
+            "size": "5034944960",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "3df7f27188442c0a274e2f93239e7a246661cb6b3247dad79db1791d123fa32b",
+            "download": {
+                "default": "https://huggingface.co/INSAIT-Institute/BgGPT-7B-Instruct-v0.2-GGUF/resolve/main/BgGPT-7B-Instruct-v0.2.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "BgGPT-7B-Instruct-v0.2.Q6_K.gguf",
+            "size": "5982558144",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "181dd1cec3e786ec8877828df54a21add89f4229c505236c535a7dd061089c0d",
+            "download": {
+                "default": "https://huggingface.co/INSAIT-Institute/BgGPT-7B-Instruct-v0.2-GGUF/resolve/main/BgGPT-7B-Instruct-v0.2.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "BgGPT-7B-Instruct-v0.2.Q8_0.gguf",
+            "size": "7748254656",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "261b715a474a847676a3db78ef0927b5ae9650cfafda4a311d1c90e6995d9444",
+            "download": {
+                "default": "https://huggingface.co/INSAIT-Institute/BgGPT-7B-Instruct-v0.2-GGUF/resolve/main/BgGPT-7B-Instruct-v0.2.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

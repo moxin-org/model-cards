@@ -1,0 +1,63 @@
+{
+    "id": "YanaS/llama-2-7b-langchain-chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "YanaS",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-27T10:47:15Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llama-2-7b-langchain-chat-Q4_K_M.gguf",
+            "size": "4081004224",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "750e96efc7b6220462eabd02938ba1410c991773896acca1317e6da51b623a3e",
+            "download": {
+                "default": "https://huggingface.co/YanaS/llama-2-7b-langchain-chat-GGUF/resolve/main/llama-2-7b-langchain-chat-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-langchain-chat-Q5_K_M.gguf",
+            "size": "4783156928",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "00c1c6129bccc237cdb85b065a25b8826f96464c94946a4f28a11313f10f0362",
+            "download": {
+                "default": "https://huggingface.co/YanaS/llama-2-7b-langchain-chat-GGUF/resolve/main/llama-2-7b-langchain-chat-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-langchain-chat-Q6_K.gguf",
+            "size": "5529194176",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "9a625393ec6f72b60c3c0c7cd7db547b875c9becb6a8d43288036c73f8c4f7b7",
+            "download": {
+                "default": "https://huggingface.co/YanaS/llama-2-7b-langchain-chat-GGUF/resolve/main/llama-2-7b-langchain-chat-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-langchain-chat-Q8_0.gguf",
+            "size": "7161089728",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "84c321bc9173ded1e14d5a4139f524c4f809eb06c9c5ebe68a8dfd4deb43dc27",
+            "download": {
+                "default": "https://huggingface.co/YanaS/llama-2-7b-langchain-chat-GGUF/resolve/main/llama-2-7b-langchain-chat-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

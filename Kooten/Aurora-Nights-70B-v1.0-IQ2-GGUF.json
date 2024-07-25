@@ -1,0 +1,43 @@
+{
+    "id": "Kooten/Aurora-Nights-70B-v1.0-IQ2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Kooten",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-19T20:10:24Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Aurora-Nights-70B-v1.0-IQ2_XS.gguf",
+            "size": "20334163008",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "4d4992ee18a8368da48c1e64fe5b8b3408a98f9123ed65557d4b4eb63cd25128",
+            "download": {
+                "default": "https://huggingface.co/Kooten/Aurora-Nights-70B-v1.0-IQ2-GGUF/resolve/main/Aurora-Nights-70B-v1.0-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Aurora-Nights-70B-v1.0-IQ2_XXS.gguf",
+            "size": "18289439808",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "45e6425475abeae850a3055e609e57580e65ea82d6e824e1833f9523c66b34f5",
+            "download": {
+                "default": "https://huggingface.co/Kooten/Aurora-Nights-70B-v1.0-IQ2-GGUF/resolve/main/Aurora-Nights-70B-v1.0-IQ2_XXS.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

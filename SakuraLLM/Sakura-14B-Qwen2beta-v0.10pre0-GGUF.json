@@ -1,0 +1,53 @@
+{
+    "id": "SakuraLLM/Sakura-14B-Qwen2beta-v0.10pre0-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "SakuraLLM",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-02T09:57:19Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "sakura-13b-qwen2beta-v0.10.0pre0-fp16.gguf",
+            "size": "28342599296",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d9dae2859aa91adacbc7f88ef6a8b58db6201477bb218acedac6ef9690c6246a",
+            "download": {
+                "default": "https://huggingface.co/SakuraLLM/Sakura-14B-Qwen2beta-v0.10pre0-GGUF/resolve/main/sakura-13b-qwen2beta-v0.10.0pre0-fp16.gguf"
+            }
+        },
+        {
+            "name": "sakura-13b-qwen2beta-v0.10pre0-IQ4_XS.gguf",
+            "size": "7914352320",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "f58a92090acee9ade320bd19b8be1e44537437889e816113a1ab8b67cfc7f917",
+            "download": {
+                "default": "https://huggingface.co/SakuraLLM/Sakura-14B-Qwen2beta-v0.10pre0-GGUF/resolve/main/sakura-13b-qwen2beta-v0.10pre0-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "sakura-13b-qwen2beta-v0.10pre0-Q6_K.gguf",
+            "size": "12310159040",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "24bcbf778ba3874ff751d3191461a8ad66c0e4a8b20e740319794bf1d5c025e2",
+            "download": {
+                "default": "https://huggingface.co/SakuraLLM/Sakura-14B-Qwen2beta-v0.10pre0-GGUF/resolve/main/sakura-13b-qwen2beta-v0.10pre0-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

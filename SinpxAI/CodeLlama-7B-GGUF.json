@@ -1,0 +1,143 @@
+{
+    "id": "SinpxAI/CodeLlama-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "SinpxAI",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-06T09:27:52Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "codellama-7b.Q2_K.gguf",
+            "size": "2532939520",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "9a8cb245480085edb6717bf374fa719a35371ca44564c62942f6800f3446830d",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/CodeLlama-7B-GGUF/resolve/main/codellama-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "codellama-7b.Q3_K_L.gguf",
+            "size": "3597193472",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "fb99c7ed65618d3dea87e4e5823e5089725e938ed1b74d0deb8836782ef635ce",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/CodeLlama-7B-GGUF/resolve/main/codellama-7b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "codellama-7b.Q3_K_M.gguf",
+            "size": "3298087168",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "123e701f4d7bfdd5c978ea583bf2fb097f4740cc36e940515c4c8222c17c52e1",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/CodeLlama-7B-GGUF/resolve/main/codellama-7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "codellama-7b.Q3_K_S.gguf",
+            "size": "2948387072",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "a176df7c7e1f41f7741db4787d459ac209bf8ac7fd97bff393ed5465c33a7ce3",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/CodeLlama-7B-GGUF/resolve/main/codellama-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "codellama-7b.Q4_0.gguf",
+            "size": "3825898240",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "ad00b8cc74e7adee3b0404ffa33d9d3a2cc8eec0b1c3f44f9c186686826982a1",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/CodeLlama-7B-GGUF/resolve/main/codellama-7b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "codellama-7b.Q4_K_M.gguf",
+            "size": "4081095424",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "658ebc35e1bc1a90405f8d484cc81aceb8ecd2689e7c585a8917a78e41c97b9b",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/CodeLlama-7B-GGUF/resolve/main/codellama-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "codellama-7b.Q4_K_S.gguf",
+            "size": "3856831232",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "613c13b352d831aa578ed8b799a704c34f61770b4a28223fd9a4468d65c144c2",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/CodeLlama-7B-GGUF/resolve/main/codellama-7b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "codellama-7b.Q5_0.gguf",
+            "size": "4651791104",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "0e3f867a40eaac42ea00e91595cd032f7d03f1504a99ddcb5b5c40a0d2e789a8",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/CodeLlama-7B-GGUF/resolve/main/codellama-7b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "codellama-7b.Q5_K_M.gguf",
+            "size": "4783256320",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "d1af5e1f65adb24e2c3937c8acdaed297abf5173d419787f7a98454b32d712ed",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/CodeLlama-7B-GGUF/resolve/main/codellama-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "codellama-7b.Q5_K_S.gguf",
+            "size": "4651791104",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "27b3d157fd5175f18fcf95e8a62aa3a922703f4c34f327c9d53d547298887b8e",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/CodeLlama-7B-GGUF/resolve/main/codellama-7b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "codellama-7b.Q6_K.gguf",
+            "size": "5529302272",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "ff699bccd2a056db5a7d2fbd87075bead5d3520d1c1f2c98bc7a42251e286f70",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/CodeLlama-7B-GGUF/resolve/main/codellama-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "codellama-7b.Q8_0.gguf",
+            "size": "7161229568",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "d44156b30e83aebb2a199ad6939d94a864edaf73d8b2991ffd02c85f57d99c5c",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/CodeLlama-7B-GGUF/resolve/main/codellama-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

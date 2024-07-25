@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/T3Q-ko-solar-dpo-v3.0-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-20T17:45:36Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "T3Q-ko-solar-dpo-v3.0.IQ3_M.gguf",
+            "size": "4999674464",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "4d1cb6badde32ebc0d6934ed81c52cb29c1383b02c8d46bd0725dc374ee2ac4a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-ko-solar-dpo-v3.0-GGUF/resolve/main/T3Q-ko-solar-dpo-v3.0.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "T3Q-ko-solar-dpo-v3.0.IQ3_S.gguf",
+            "size": "4845927008",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "bf5201dd9f730b526ac378b1c26b3f5d318184cedff873f47eee0db67797ed7a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-ko-solar-dpo-v3.0-GGUF/resolve/main/T3Q-ko-solar-dpo-v3.0.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "T3Q-ko-solar-dpo-v3.0.IQ3_XS.gguf",
+            "size": "4573821536",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "96179756cb76b2bd5a464456829387e9610c06d46bfb896a93180ca5ff942122",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-ko-solar-dpo-v3.0-GGUF/resolve/main/T3Q-ko-solar-dpo-v3.0.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "T3Q-ko-solar-dpo-v3.0.IQ4_XS.gguf",
+            "size": "5982263904",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "0e07b05284640e2e29fe2db3ac2163f1c016825cc73dfd0d3a3d0c46d92ab8bb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-ko-solar-dpo-v3.0-GGUF/resolve/main/T3Q-ko-solar-dpo-v3.0.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "T3Q-ko-solar-dpo-v3.0.Q2_K.gguf",
+            "size": "4157856352",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "fa4a4774ed888c13470c65d194e2b7fe307371e661fbdbab5ece86e807ffb310",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-ko-solar-dpo-v3.0-GGUF/resolve/main/T3Q-ko-solar-dpo-v3.0.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "T3Q-ko-solar-dpo-v3.0.Q3_K_L.gguf",
+            "size": "5805374048",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "31b992276280e646c4fd8e8c818c66ec08f5a568f640d569dc4e013304d8d9f8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-ko-solar-dpo-v3.0-GGUF/resolve/main/T3Q-ko-solar-dpo-v3.0.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "T3Q-ko-solar-dpo-v3.0.Q3_K_M.gguf",
+            "size": "5350292064",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "34bba51f97600a0f31279f460021b816045e2000b494d0b753ba0f71844221c6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-ko-solar-dpo-v3.0-GGUF/resolve/main/T3Q-ko-solar-dpo-v3.0.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "T3Q-ko-solar-dpo-v3.0.Q3_K_S.gguf",
+            "size": "4819188320",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "8b4661951ec01bce7cc6360c730afd373824d0f8adda7a6a3ff13bac9bdb91b4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-ko-solar-dpo-v3.0-GGUF/resolve/main/T3Q-ko-solar-dpo-v3.0.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "T3Q-ko-solar-dpo-v3.0.Q4_K_M.gguf",
+            "size": "6616291936",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "8352b959554a5e0de4e02d019275856e0b2d62636174ea34ed489f6630ed2971",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-ko-solar-dpo-v3.0-GGUF/resolve/main/T3Q-ko-solar-dpo-v3.0.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "T3Q-ko-solar-dpo-v3.0.Q4_K_S.gguf",
+            "size": "6273145440",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "2d7b12be03a030753bc83a8f01b912e84a152d3147556641efa34585f7099155",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-ko-solar-dpo-v3.0-GGUF/resolve/main/T3Q-ko-solar-dpo-v3.0.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "T3Q-ko-solar-dpo-v3.0.Q5_K_M.gguf",
+            "size": "7752555104",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "884e0326c31ccd7806124e5e15f09a0414708bb8c5e6286f001a9e77f7f3a436",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-ko-solar-dpo-v3.0-GGUF/resolve/main/T3Q-ko-solar-dpo-v3.0.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "T3Q-ko-solar-dpo-v3.0.Q5_K_S.gguf",
+            "size": "7552014944",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "693278d2dce5ef58dd732d88d02b3e092de71eaac42b31670bb4571d99717343",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-ko-solar-dpo-v3.0-GGUF/resolve/main/T3Q-ko-solar-dpo-v3.0.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "T3Q-ko-solar-dpo-v3.0.Q6_K.gguf",
+            "size": "8959834720",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "0dc47615977b35abcb8f88c57b3c72d43189ddad3efc85fc3262ece684296314",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-ko-solar-dpo-v3.0-GGUF/resolve/main/T3Q-ko-solar-dpo-v3.0.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "T3Q-ko-solar-dpo-v3.0.Q8_0.gguf",
+            "size": "11527035488",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "a35a2ed602bec3d2e0477c27bafcf64e5c9bcafbdba51d5cb3fe2f8e0fe7d2f5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/T3Q-ko-solar-dpo-v3.0-GGUF/resolve/main/T3Q-ko-solar-dpo-v3.0.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

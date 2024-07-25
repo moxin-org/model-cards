@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/WSB-GPT-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-05T08:01:23Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "wsb-gpt-7b.Q3_K_S.gguf",
+            "size": "2948304608",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "8db3de8c73caba2d95650014015fc78ab3153160798a21ef3004d01db35f7d59",
+            "download": {
+                "default": "https://huggingface.co/s3nh/WSB-GPT-7B-GGUF/resolve/main/wsb-gpt-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "wsb-gpt-7b.Q4_K_M.gguf",
+            "size": "4081004256",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "b2eeef2c757cd64764f52412751bb347f48a6f740e336f453c1bb89546874089",
+            "download": {
+                "default": "https://huggingface.co/s3nh/WSB-GPT-7B-GGUF/resolve/main/wsb-gpt-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "wsb-gpt-7b.Q5_K_M.gguf",
+            "size": "4783156960",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "2ff393f82fc47bfdaa1b53b1276cf44ec8895b046625ce8ba221fb583414b38d",
+            "download": {
+                "default": "https://huggingface.co/s3nh/WSB-GPT-7B-GGUF/resolve/main/wsb-gpt-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "wsb-gpt-7b.Q6_K.gguf",
+            "size": "5529194208",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "496bbb9fd578b4418090212a750650c9688846593f919825c471b871d33398d3",
+            "download": {
+                "default": "https://huggingface.co/s3nh/WSB-GPT-7B-GGUF/resolve/main/wsb-gpt-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "wsb-gpt-7b.Q8_0.gguf",
+            "size": "7161089760",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "0247dee5ad873dbe7a5fbdabf93de0e6cbe96f60840bed888903e5f5babf5f50",
+            "download": {
+                "default": "https://huggingface.co/s3nh/WSB-GPT-7B-GGUF/resolve/main/wsb-gpt-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

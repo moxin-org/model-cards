@@ -1,0 +1,143 @@
+{
+    "id": "second-state/phi-2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-28T16:20:38Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "phi-2-Q2_K.gguf",
+            "size": "1109719584",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "1a85d9fb3be8a0bff42ad5fb3a44a609641ae7f6d7811609e48d2a06d79fe408",
+            "download": {
+                "default": "https://huggingface.co/second-state/phi-2-GGUF/resolve/main/phi-2-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "phi-2-Q3_K_L.gguf",
+            "size": "1575229984",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "151e8824c65b489a0047d9aa8f96c46cddc5aec62555e965d50bd8fddc170306",
+            "download": {
+                "default": "https://huggingface.co/second-state/phi-2-GGUF/resolve/main/phi-2-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "phi-2-Q3_K_M.gguf",
+            "size": "1432689184",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "dadd02955c85373667d3868bcba0a90d826ae63f3e849d0c017498ec6ca28052",
+            "download": {
+                "default": "https://huggingface.co/second-state/phi-2-GGUF/resolve/main/phi-2-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "phi-2-Q3_K_S.gguf",
+            "size": "1250826784",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "68375808a372b10cf8d169e4158143541fdc1aded185f73b205fe663a01fd99c",
+            "download": {
+                "default": "https://huggingface.co/second-state/phi-2-GGUF/resolve/main/phi-2-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "phi-2-Q4_0.gguf",
+            "size": "1602468384",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "bb9e1a4422c3fd5670c0005b8f826f7e2ac33d0f2c0675aa21bffbc1fa845b08",
+            "download": {
+                "default": "https://huggingface.co/second-state/phi-2-GGUF/resolve/main/phi-2-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "phi-2-Q4_K_M.gguf",
+            "size": "1737636384",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "633978264ca3431291ad70cf7e483636c63495edd57074af668ee6953ac9d5dd",
+            "download": {
+                "default": "https://huggingface.co/second-state/phi-2-GGUF/resolve/main/phi-2-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "phi-2-Q4_K_S.gguf",
+            "size": "1631959584",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "013e23a4dc453a276ef8cfe398174446ecd2fb3b41d3972f14bf50ae0d79bace",
+            "download": {
+                "default": "https://huggingface.co/second-state/phi-2-GGUF/resolve/main/phi-2-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "phi-2-Q5_0.gguf",
+            "size": "1933425184",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "af87f8e00e4664b77464309cea3159f6cca3acd3f4d4c09ee5d89c88d2d5628b",
+            "download": {
+                "default": "https://huggingface.co/second-state/phi-2-GGUF/resolve/main/phi-2-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "phi-2-Q5_K_M.gguf",
+            "size": "2003057184",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "36d88c4161f10a94a9b3c22ac3cef7a9807cc9239b1aac42559c5d90fafe4a3e",
+            "download": {
+                "default": "https://huggingface.co/second-state/phi-2-GGUF/resolve/main/phi-2-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "phi-2-Q5_K_S.gguf",
+            "size": "1933425184",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "8a287fa8f2fe088507f1dab42e95fda6c69e2acfca7b725e7d1d01fc00be0a13",
+            "download": {
+                "default": "https://huggingface.co/second-state/phi-2-GGUF/resolve/main/phi-2-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "phi-2-Q6_K.gguf",
+            "size": "2285066784",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b65be768d640627e0b1abc51d7b6b19c41b76b75f238cceb6e9c30c5bfd47102",
+            "download": {
+                "default": "https://huggingface.co/second-state/phi-2-GGUF/resolve/main/phi-2-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "phi-2-Q8_0.gguf",
+            "size": "2958039584",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "a736a52f8d30526ae6d4a1a2d2fd5701e7f7a2c95dc950f8ef36cd2a5adde364",
+            "download": {
+                "default": "https://huggingface.co/second-state/phi-2-GGUF/resolve/main/phi-2-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 2560,
+    "vector_size": 0,
+    "metrics": {}
+}

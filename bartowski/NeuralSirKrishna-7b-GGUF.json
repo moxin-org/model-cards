@@ -1,0 +1,183 @@
+{
+    "id": "bartowski/NeuralSirKrishna-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bartowski",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-19T14:24:59Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "NeuralSirKrishna-7b-IQ3_M.gguf",
+            "size": "3284891360",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "46e9e0c90c776acf092064479fcd43b956eac74f4454e5bfc83cb69d7fd26690",
+            "download": {
+                "default": "https://huggingface.co/bartowski/NeuralSirKrishna-7b-GGUF/resolve/main/NeuralSirKrishna-7b-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "NeuralSirKrishna-7b-IQ3_S.gguf",
+            "size": "3182393056",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "02ce5f66d03f48b61a627b28326f57a70535d60b49bd46100573825b703328e4",
+            "download": {
+                "default": "https://huggingface.co/bartowski/NeuralSirKrishna-7b-GGUF/resolve/main/NeuralSirKrishna-7b-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "NeuralSirKrishna-7b-IQ4_NL.gguf",
+            "size": "4155053792",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "f1aff009a765015a543d361263c62d279391dbbf6b11547c46f7565477027cd7",
+            "download": {
+                "default": "https://huggingface.co/bartowski/NeuralSirKrishna-7b-GGUF/resolve/main/NeuralSirKrishna-7b-IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "NeuralSirKrishna-7b-IQ4_XS.gguf",
+            "size": "3944388320",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "d6c0cbe3ee14529cdf601e4b2a04d788cbaeb1edf92910783be0b651f2623197",
+            "download": {
+                "default": "https://huggingface.co/bartowski/NeuralSirKrishna-7b-GGUF/resolve/main/NeuralSirKrishna-7b-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "NeuralSirKrishna-7b-Q2_K.gguf",
+            "size": "2719241952",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "0ca1ff63e9e8a8ba7be6db0c9f90f3cefe361995b2b60c0bbede8c8d02d81880",
+            "download": {
+                "default": "https://huggingface.co/bartowski/NeuralSirKrishna-7b-GGUF/resolve/main/NeuralSirKrishna-7b-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "NeuralSirKrishna-7b-Q3_K_L.gguf",
+            "size": "3822024416",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "82f07177a80f4a454d706419005f0478ddfa271fbdbe2fc229c99eb876c72019",
+            "download": {
+                "default": "https://huggingface.co/bartowski/NeuralSirKrishna-7b-GGUF/resolve/main/NeuralSirKrishna-7b-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "NeuralSirKrishna-7b-Q3_K_M.gguf",
+            "size": "3518985952",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "94061274a63f2885197d539a028296e76920f9c68da933f206f03395052285f0",
+            "download": {
+                "default": "https://huggingface.co/bartowski/NeuralSirKrishna-7b-GGUF/resolve/main/NeuralSirKrishna-7b-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "NeuralSirKrishna-7b-Q3_K_S.gguf",
+            "size": "3164567264",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "5034fcb64e91f7a12518d8a018cb544ca1b6de53f3424c4bb7f650c882c88ad9",
+            "download": {
+                "default": "https://huggingface.co/bartowski/NeuralSirKrishna-7b-GGUF/resolve/main/NeuralSirKrishna-7b-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "NeuralSirKrishna-7b-Q4_0.gguf",
+            "size": "4108916448",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "1ce976fb22c62f589a0e528db6e6773b31b55eef81645bd01f0cc8f0e2954e26",
+            "download": {
+                "default": "https://huggingface.co/bartowski/NeuralSirKrishna-7b-GGUF/resolve/main/NeuralSirKrishna-7b-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "NeuralSirKrishna-7b-Q4_K_M.gguf",
+            "size": "4368439008",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "ae6a36c5d72a150bdc7057bf12f66ebc037814927a3874554b6aca50357d8bd3",
+            "download": {
+                "default": "https://huggingface.co/bartowski/NeuralSirKrishna-7b-GGUF/resolve/main/NeuralSirKrishna-7b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "NeuralSirKrishna-7b-Q4_K_S.gguf",
+            "size": "4140373728",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "4fc02b2c9434eab49a4eb7e99151129d42669d04270148f2aa7dac197cf63059",
+            "download": {
+                "default": "https://huggingface.co/bartowski/NeuralSirKrishna-7b-GGUF/resolve/main/NeuralSirKrishna-7b-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "NeuralSirKrishna-7b-Q5_0.gguf",
+            "size": "4997715680",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "a79f0913fd92b52e155b5151d153d0a6e37318cc60c1e9f789ea55e425925b35",
+            "download": {
+                "default": "https://huggingface.co/bartowski/NeuralSirKrishna-7b-GGUF/resolve/main/NeuralSirKrishna-7b-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "NeuralSirKrishna-7b-Q5_K_M.gguf",
+            "size": "5131409120",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e164ce4f6b9f3aee0825ea592ea0a029dd8fb68957bd5f908b1456d69fa5bb29",
+            "download": {
+                "default": "https://huggingface.co/bartowski/NeuralSirKrishna-7b-GGUF/resolve/main/NeuralSirKrishna-7b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "NeuralSirKrishna-7b-Q5_K_S.gguf",
+            "size": "4997715680",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "e7fea383b3ec2e3d0f219b1916b86b3664056d21b0804efb8c5c59d1518db935",
+            "download": {
+                "default": "https://huggingface.co/bartowski/NeuralSirKrishna-7b-GGUF/resolve/main/NeuralSirKrishna-7b-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "NeuralSirKrishna-7b-Q6_K.gguf",
+            "size": "5942064864",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "f375afb88d7d72150065caa1cb70c9f409d249b0c475a5d7070eeb3bfa66b74b",
+            "download": {
+                "default": "https://huggingface.co/bartowski/NeuralSirKrishna-7b-GGUF/resolve/main/NeuralSirKrishna-7b-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "NeuralSirKrishna-7b-Q8_0.gguf",
+            "size": "7695857376",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "f3ef7bf7c6908ceeed55e102fba71aa68e032f079b99c9dddc8e160a92731c3f",
+            "download": {
+                "default": "https://huggingface.co/bartowski/NeuralSirKrishna-7b-GGUF/resolve/main/NeuralSirKrishna-7b-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

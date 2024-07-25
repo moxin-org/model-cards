@@ -1,0 +1,103 @@
+{
+    "id": "TheBloke/Synthia-MoE-v3-Mixtral-8x7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-12T17:30:00Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "synthia-moe-v3-mixtral-8x7b.Q2_K.gguf",
+            "size": "15644034496",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "7cc20f1984e3a37d0af892941396e104d1829beb900c2ed5bc634fe012fc7203",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Synthia-MoE-v3-Mixtral-8x7B-GGUF/resolve/main/synthia-moe-v3-mixtral-8x7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "synthia-moe-v3-mixtral-8x7b.Q3_K_M.gguf",
+            "size": "20363355584",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "82ab5fd9852c92bb6bf357edfc469dc4415c6d2b2973614e7f13344415bd881f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Synthia-MoE-v3-Mixtral-8x7B-GGUF/resolve/main/synthia-moe-v3-mixtral-8x7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "synthia-moe-v3-mixtral-8x7b.Q4_0.gguf",
+            "size": "26441532864",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "3a0ae44f02aea68a983dcd73e763788d3db133317a9279ab8535e9e3aa1433f8",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Synthia-MoE-v3-Mixtral-8x7B-GGUF/resolve/main/synthia-moe-v3-mixtral-8x7b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "synthia-moe-v3-mixtral-8x7b.Q4_K_M.gguf",
+            "size": "26441532864",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "f77db7152efb561ec033261edcc551949775210d6aeea5e4be0df9fbb4c33d78",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Synthia-MoE-v3-Mixtral-8x7B-GGUF/resolve/main/synthia-moe-v3-mixtral-8x7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "synthia-moe-v3-mixtral-8x7b.Q5_0.gguf",
+            "size": "32229279168",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "345bf8cc3028d7f6880f56a5fcc4dbe42ac9b594bd3afae589e755e06fdd9c80",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Synthia-MoE-v3-Mixtral-8x7B-GGUF/resolve/main/synthia-moe-v3-mixtral-8x7b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "synthia-moe-v3-mixtral-8x7b.Q5_K_M.gguf",
+            "size": "32229279168",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "c278e00133af878b362c8cf9e0783acb98fefcb7983b6accd18d31f8b59caaf9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Synthia-MoE-v3-Mixtral-8x7B-GGUF/resolve/main/synthia-moe-v3-mixtral-8x7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "synthia-moe-v3-mixtral-8x7b.Q6_K.gguf",
+            "size": "38378759616",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "23d50f2283fc6ec3d3149d8a87aeef2be60de71d4a9fe5477a8f7370735e326d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Synthia-MoE-v3-Mixtral-8x7B-GGUF/resolve/main/synthia-moe-v3-mixtral-8x7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "synthia-moe-v3-mixtral-8x7b.Q8_0.gguf",
+            "size": "49624262080",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "20c5ba4d0f29089b53adf93df997ef81c7d9362e5e8f003864796463d230faaa",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Synthia-MoE-v3-Mixtral-8x7B-GGUF/resolve/main/synthia-moe-v3-mixtral-8x7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

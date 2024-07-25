@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Ignis-7B-DPO-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-20T14:27:42Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Ignis-7B-DPO.IQ3_M.gguf",
+            "size": "3439515904",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "c518b08d04626a8c8d317cec58156f18211b4b4dd5a2b5c6c87b7e7fd6d9cd7c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Ignis-7B-DPO-GGUF/resolve/main/Ignis-7B-DPO.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Ignis-7B-DPO.IQ3_S.gguf",
+            "size": "3337017600",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "827b06fe60e27343172b713c310d9bc68a72e12f536262b2fc453b4b91654dbd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Ignis-7B-DPO-GGUF/resolve/main/Ignis-7B-DPO.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Ignis-7B-DPO.IQ3_XS.gguf",
+            "size": "3155613952",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "09ef22cfce6250a6f634d37e77467a9984419cee2fa9cf36c52703aa27415621",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Ignis-7B-DPO-GGUF/resolve/main/Ignis-7B-DPO.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Ignis-7B-DPO.IQ4_XS.gguf",
+            "size": "4099012864",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "e3a943ae67412af88ced19d3200cd612daa7d24b6484c5886b6558a51b354c1b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Ignis-7B-DPO-GGUF/resolve/main/Ignis-7B-DPO.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Ignis-7B-DPO.Q2_K.gguf",
+            "size": "2873866496",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "0a040a320ddc83b9cf4f0d689feaa45fc1b1cad9592437a69b140d04b7d322ff",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Ignis-7B-DPO-GGUF/resolve/main/Ignis-7B-DPO.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Ignis-7B-DPO.Q3_K_L.gguf",
+            "size": "3976648960",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "8361bb9a7823d2efa5c33fd47b70a00e24335844e85b0421bd7c54d2aad693df",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Ignis-7B-DPO-GGUF/resolve/main/Ignis-7B-DPO.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Ignis-7B-DPO.Q3_K_M.gguf",
+            "size": "3673610496",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "90ba48f49dc3de651fd9eb263cc71338ccfb48ae722c4bd9e4e10adc6e200f78",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Ignis-7B-DPO-GGUF/resolve/main/Ignis-7B-DPO.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Ignis-7B-DPO.Q3_K_S.gguf",
+            "size": "3319191808",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "02ed55752c709015f31f9ce97375f8df12290087fed5e6e89432498b34eb8265",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Ignis-7B-DPO-GGUF/resolve/main/Ignis-7B-DPO.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Ignis-7B-DPO.Q4_K_M.gguf",
+            "size": "4523063552",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "9dbb83d55c8a55923b343c48b10d91224ec03730c8c4f0323e3289524da7b7c9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Ignis-7B-DPO-GGUF/resolve/main/Ignis-7B-DPO.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Ignis-7B-DPO.Q4_K_S.gguf",
+            "size": "4294998272",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "96128d0a008cb313b940efe87e129e3d4286a668417c26736c109da3f71a4ff2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Ignis-7B-DPO-GGUF/resolve/main/Ignis-7B-DPO.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Ignis-7B-DPO.Q5_K_M.gguf",
+            "size": "5286033664",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5076fe4d865f41baccd8cce0719fb50c7ec936c89afeb1fe3c130fc59c7ae8ee",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Ignis-7B-DPO-GGUF/resolve/main/Ignis-7B-DPO.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Ignis-7B-DPO.Q5_K_S.gguf",
+            "size": "5152340224",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "468f589d39abaa6f7f1216e10850c266e17c139516718500fc5a51ffbaa4fc54",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Ignis-7B-DPO-GGUF/resolve/main/Ignis-7B-DPO.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Ignis-7B-DPO.Q6_K.gguf",
+            "size": "6096689408",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "1b0a84de1c70002116d598ff2ad4947a82dfc300529e5508be2f8ea697906838",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Ignis-7B-DPO-GGUF/resolve/main/Ignis-7B-DPO.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Ignis-7B-DPO.Q8_0.gguf",
+            "size": "7818737920",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "4ab70dbc15991bcd0640ccf8d6dff34de4ed677efd1fbab8edc2a5fa24a51d6c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Ignis-7B-DPO-GGUF/resolve/main/Ignis-7B-DPO.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

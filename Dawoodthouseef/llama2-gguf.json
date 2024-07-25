@@ -1,0 +1,93 @@
+{
+    "id": "Dawoodthouseef/llama2-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Dawoodthouseef",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-22T16:56:01Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llama-2-13b-chat.Q2_K.gguf",
+            "size": "5429348224",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "fb69352085bf25c70bf0de94fc3dc9248609a255d7482a3fb308d102aabb066c",
+            "download": {
+                "default": "https://huggingface.co/Dawoodthouseef/llama2-gguf/resolve/main/llama-2-13b-chat.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "llama-2-13b-chat.Q8_0.gguf",
+            "size": "13831319424",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "9f4d06112114dd1b48023305578ad52b690d3aee42181631a2bddbe856f75ae6",
+            "download": {
+                "default": "https://huggingface.co/Dawoodthouseef/llama2-gguf/resolve/main/llama-2-13b-chat.Q8_0.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-chat.Q8_0.gguf",
+            "size": "7161089728",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "f47dade5e86466edb66c5afe6f8e9fb1fbb2c292827b90bd46b7a1817d864bf2",
+            "download": {
+                "default": "https://huggingface.co/Dawoodthouseef/llama2-gguf/resolve/main/llama-2-7b-chat.Q8_0.gguf"
+            }
+        },
+        {
+            "name": "llama-2-coder-7b.Q5_K_M.gguf",
+            "size": "4783156928",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f616329e71e51da808f6232c03e056dd018f5cdde2e5c6d1a51f3320af56bdd9",
+            "download": {
+                "default": "https://huggingface.co/Dawoodthouseef/llama2-gguf/resolve/main/llama-2-coder-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama2.gguf",
+            "size": "7161089536",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6a8726800e195280fb0fecf543190dd669f257875614965e9e355113d76b46cc",
+            "download": {
+                "default": "https://huggingface.co/Dawoodthouseef/llama2-gguf/resolve/main/llama2.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-instruct-v0.1.Q2_K.gguf",
+            "size": "3083097760",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "f27558927c82a62367ba29337af784d7502682c0fe01b2ca2a369fdaeaa61ea4",
+            "download": {
+                "default": "https://huggingface.co/Dawoodthouseef/llama2-gguf/resolve/main/mistral-7b-instruct-v0.1.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "uncensored-frank-7b.Q5_K_M.gguf",
+            "size": "4783156960",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "6eb4e0098c36d31a2c2ef56c5f6118ee470974f7bc870930069dfe8e152f0228",
+            "download": {
+                "default": "https://huggingface.co/Dawoodthouseef/llama2-gguf/resolve/main/uncensored-frank-7b.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

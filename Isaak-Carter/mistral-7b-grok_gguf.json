@@ -1,0 +1,163 @@
+{
+    "id": "Isaak-Carter/mistral-7b-grok_gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Isaak-Carter",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-18T09:24:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistral-7b-grok.Q2_K.gguf",
+            "size": "2719242464",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "713d73278b2cd75d790bbcd8f836dd3416675726e72971ecf261e3ab82b1186c",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/mistral-7b-grok_gguf/resolve/main/mistral-7b-grok.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-grok.Q3_K_L.gguf",
+            "size": "3822024928",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "cb0d92a39bc84e61590d7ef1075b542816c60ad043d3a465ef2127f4fff8104a",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/mistral-7b-grok_gguf/resolve/main/mistral-7b-grok.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-grok.Q3_K_M.gguf",
+            "size": "3518986464",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "76c954379951e0193015012c677102cea201483eb9f70709c7ff87dd66b2db59",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/mistral-7b-grok_gguf/resolve/main/mistral-7b-grok.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-grok.Q3_K_S.gguf",
+            "size": "3164567776",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "578d6fb8d652656a8bb649baa7fd9520fe08e2a3410734bc67760284f402ee9a",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/mistral-7b-grok_gguf/resolve/main/mistral-7b-grok.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-grok.Q4_0.gguf",
+            "size": "4108916960",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "2c40c11efeb2aedfb36c84d79fbb22fd7df269707d3f02456dc5762ee0054729",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/mistral-7b-grok_gguf/resolve/main/mistral-7b-grok.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-grok.Q4_1.gguf",
+            "size": "4553316576",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "aca087c9e1287a4ef7b9fad4d0b04c0ab97b30e395afbef94e05d344238ee7e0",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/mistral-7b-grok_gguf/resolve/main/mistral-7b-grok.Q4_1.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-grok.Q4_K_M.gguf",
+            "size": "4368439520",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "b8254f91802a0180b8d85a56e66e070548905a674c762bfd5a25f59a174a0392",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/mistral-7b-grok_gguf/resolve/main/mistral-7b-grok.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-grok.Q4_K_S.gguf",
+            "size": "4140374240",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "b45669f6ef8d209d7d3a074e8ead602236521a3cd8debea27e8743bb78cce918",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/mistral-7b-grok_gguf/resolve/main/mistral-7b-grok.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-grok.Q5_0.gguf",
+            "size": "4997716192",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "4f1a8630a13289d1861b05d326b6aac09e5528f4ff2f30f64ea391096cb1ddd1",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/mistral-7b-grok_gguf/resolve/main/mistral-7b-grok.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-grok.Q5_1.gguf",
+            "size": "5442115808",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "750fd897cc934496423d7f340adf224acff9ee8aec0715eab8a5eef2d504bb56",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/mistral-7b-grok_gguf/resolve/main/mistral-7b-grok.Q5_1.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-grok.Q5_K_M.gguf",
+            "size": "5131409632",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "dc34c6a6845dab4771b19443cadae69dfc1f82c5032faf8a86a0fe665c312dd2",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/mistral-7b-grok_gguf/resolve/main/mistral-7b-grok.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-grok.Q5_K_S.gguf",
+            "size": "4997716192",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "75d37f98ee6b1ee7002a956bf53023467dab81ce484354636cd6d2c0635d74a0",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/mistral-7b-grok_gguf/resolve/main/mistral-7b-grok.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-grok.Q6_K.gguf",
+            "size": "5942065376",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "bd1619dc4584013283efebaace8dcd41a2ad3a5f9005e24be9affdea7c5052de",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/mistral-7b-grok_gguf/resolve/main/mistral-7b-grok.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-grok.Q8_0.gguf",
+            "size": "7695857888",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "e39f77b81a43275ced1faba606563a78d514fc764929c15926366c9ebe5f9d1a",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/mistral-7b-grok_gguf/resolve/main/mistral-7b-grok.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

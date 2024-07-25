@@ -1,0 +1,123 @@
+{
+    "id": "Artefact2/Yarn-Llama-2-70b-32k-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Artefact2",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-22T23:01:40Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Yarn-Llama-2-70b-32k-IQ2_XS.gguf",
+            "size": "20334163104",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "7303ab368e17646d743072dda9dc5a79dd41a8cc101e3ca65b9090f7f4c0a486",
+            "download": {
+                "default": "https://huggingface.co/Artefact2/Yarn-Llama-2-70b-32k-GGUF/resolve/main/Yarn-Llama-2-70b-32k-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Yarn-Llama-2-70b-32k-IQ2_XXS.gguf",
+            "size": "18289439904",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "32a5062eb9c18edcaf69222ec5e277a6f4464ba85c6f326d1f2ee353a9971ad5",
+            "download": {
+                "default": "https://huggingface.co/Artefact2/Yarn-Llama-2-70b-32k-GGUF/resolve/main/Yarn-Llama-2-70b-32k-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "Yarn-Llama-2-70b-32k-Q2_K_S.gguf",
+            "size": "23559271584",
+            "quantization": "Q2_K_S",
+            "tags": [],
+            "sha256": "590ebc853a3fa659ae9200743e3aa02a0350996143ca94ccc0ce320ddcfd0d87",
+            "download": {
+                "default": "https://huggingface.co/Artefact2/Yarn-Llama-2-70b-32k-GGUF/resolve/main/Yarn-Llama-2-70b-32k-Q2_K_S.gguf"
+            }
+        },
+        {
+            "name": "Yarn-Llama-2-70b-32k-Q2_K.gguf",
+            "size": "25462437024",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "675c6a867b8dd5fb3c9aa1c068988e2e51d168d06d7104fcf8570a887f901890",
+            "download": {
+                "default": "https://huggingface.co/Artefact2/Yarn-Llama-2-70b-32k-GGUF/resolve/main/Yarn-Llama-2-70b-32k-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Yarn-Llama-2-70b-32k-Q3_K_L.gguf",
+            "size": "36147836064",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "af8fbf950783310983e315e254d31f39ed3580cfef9a84c8cba9347d22bb8ce4",
+            "download": {
+                "default": "https://huggingface.co/Artefact2/Yarn-Llama-2-70b-32k-GGUF/resolve/main/Yarn-Llama-2-70b-32k-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Yarn-Llama-2-70b-32k-Q3_K_M.gguf",
+            "size": "33274737824",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "bcd3966cd84bbcb0fd77215aec437e50502fad440b3f0b5f230d479cb7a3f9f0",
+            "download": {
+                "default": "https://huggingface.co/Artefact2/Yarn-Llama-2-70b-32k-GGUF/resolve/main/Yarn-Llama-2-70b-32k-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Yarn-Llama-2-70b-32k-Q3_K_S.gguf",
+            "size": "29919294624",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "8265728af0726586fc8140a28afb7b95e6181e38f921b6019f79e5d77ae3735d",
+            "download": {
+                "default": "https://huggingface.co/Artefact2/Yarn-Llama-2-70b-32k-GGUF/resolve/main/Yarn-Llama-2-70b-32k-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Yarn-Llama-2-70b-32k-Q3_K_XS.gguf",
+            "size": "28254680224",
+            "quantization": "Q3_K_XS",
+            "tags": [],
+            "sha256": "2e3711142df13e1075cf13bd6ba26e6c997b149d52f3b9baa97ebb4245eb72d3",
+            "download": {
+                "default": "https://huggingface.co/Artefact2/Yarn-Llama-2-70b-32k-GGUF/resolve/main/Yarn-Llama-2-70b-32k-Q3_K_XS.gguf"
+            }
+        },
+        {
+            "name": "Yarn-Llama-2-70b-32k-Q4_K_S.gguf",
+            "size": "39249736864",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "36376294e4b5ffb925614806ae8525793c9be376c98da20be335cdc91f501b82",
+            "download": {
+                "default": "https://huggingface.co/Artefact2/Yarn-Llama-2-70b-32k-GGUF/resolve/main/Yarn-Llama-2-70b-32k-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Yarn-Llama-2-70b-32k-Q5_K_S.gguf",
+            "size": "47461397664",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "7b569c74a99969ac5fd4361f699e13687732085212825303ec5790d3178d3758",
+            "download": {
+                "default": "https://huggingface.co/Artefact2/Yarn-Llama-2-70b-32k-GGUF/resolve/main/Yarn-Llama-2-70b-32k-Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

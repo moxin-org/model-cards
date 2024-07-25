@@ -1,0 +1,103 @@
+{
+    "id": "yuuko-eth/UniNER-7B-all-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "yuuko-eth",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-06T14:32:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "UniversalNER-7B-all-Q4_0.gguf",
+            "size": "3825807040",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "d17614707e2ede1afedef597935c507684c987934ed8cb5d4e4f7782663bae40",
+            "download": {
+                "default": "https://huggingface.co/yuuko-eth/UniNER-7B-all-GGUF/resolve/main/UniversalNER-7B-all-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "UniversalNER-7B-all-Q4_K_M.gguf",
+            "size": "4081004224",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "ea8abb002e4b21daa61de41b671836f271ab367ccf7dbe340912b1d3b3b4f260",
+            "download": {
+                "default": "https://huggingface.co/yuuko-eth/UniNER-7B-all-GGUF/resolve/main/UniversalNER-7B-all-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "UniversalNER-7B-all-Q4_K_S.gguf",
+            "size": "3856740032",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "8900bcc8ae938ece87d2f2f22b0856088e074ce34c21b069ecb2e3372ef9d7ef",
+            "download": {
+                "default": "https://huggingface.co/yuuko-eth/UniNER-7B-all-GGUF/resolve/main/UniversalNER-7B-all-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "UniversalNER-7B-all-Q5_0.gguf",
+            "size": "4651691712",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "02d393177ee753069000fe21f472c966a8d62e1ed79eb3b38da0af752b02fee2",
+            "download": {
+                "default": "https://huggingface.co/yuuko-eth/UniNER-7B-all-GGUF/resolve/main/UniversalNER-7B-all-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "UniversalNER-7B-all-Q5_K_M.gguf",
+            "size": "4783156928",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "c1c76d9ab9e4babadb152c74d4a5060a685d0c1f5ef106ffff4193b43787823c",
+            "download": {
+                "default": "https://huggingface.co/yuuko-eth/UniNER-7B-all-GGUF/resolve/main/UniversalNER-7B-all-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "UniversalNER-7B-all-Q5_K_S.gguf",
+            "size": "4651691712",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "edec75203de064ce0981e4bc18deb9c1907c082137219929c690f60f787fb063",
+            "download": {
+                "default": "https://huggingface.co/yuuko-eth/UniNER-7B-all-GGUF/resolve/main/UniversalNER-7B-all-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "UniversalNER-7B-all-Q6_K.gguf",
+            "size": "5529194176",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "a33295539a008a87076716183fb1d2c07076d225115965948d3f532c183d5b62",
+            "download": {
+                "default": "https://huggingface.co/yuuko-eth/UniNER-7B-all-GGUF/resolve/main/UniversalNER-7B-all-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "UniversalNER-7B-all-Q8_0.gguf",
+            "size": "7161089728",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "dfe5ab3fdcc39f3e04c3222136300a2294a793fb7aa658fdc1cdbd6df00f782a",
+            "download": {
+                "default": "https://huggingface.co/yuuko-eth/UniNER-7B-all-GGUF/resolve/main/UniversalNER-7B-all-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

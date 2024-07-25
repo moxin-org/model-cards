@@ -1,0 +1,123 @@
+{
+    "id": "ikawrakow/mistral-7b-quantized-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "ikawrakow",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-07T15:00:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistral-7b-q2k-extra-small.gguf",
+            "size": "2473875072",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dc5175431a49579ffccf74e53d9743ee28f9cf4dec363f9df7a01521c4d80041",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/mistral-7b-quantized-gguf/resolve/main/mistral-7b-q2k-extra-small.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-q3km.gguf",
+            "size": "3518985856",
+            "quantization": "",
+            "tags": [],
+            "sha256": "cdd963ef684577bbe206b0b674155d1fb4f7f0421fe50854a00ebf9067725220",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/mistral-7b-quantized-gguf/resolve/main/mistral-7b-q3km.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-q3ks.gguf",
+            "size": "3164567168",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3f867f9db8a68b6c263f25745fa62a0256b2bdfa4e007575fa0a6d7cec6e11e3",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/mistral-7b-quantized-gguf/resolve/main/mistral-7b-q3ks.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-q40.gguf",
+            "size": "4108916352",
+            "quantization": "",
+            "tags": [],
+            "sha256": "56a75a428a3097eb4829ec09c0cc04ecf6b57fcaa446394252445ef8a840a97d",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/mistral-7b-quantized-gguf/resolve/main/mistral-7b-q40.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-q41.gguf",
+            "size": "4553315968",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1d2e82a5f5046a9bae5040f2c9b670d2b053410fc585ee8b125c49ab95e41b77",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/mistral-7b-quantized-gguf/resolve/main/mistral-7b-q41.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-q4km.gguf",
+            "size": "4454946432",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2010fa21ab2cca537e81fa27a1ef7c30109ed282bfa9bb7064c48d2c73c3baec",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/mistral-7b-quantized-gguf/resolve/main/mistral-7b-q4km.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-q4ks.gguf",
+            "size": "4155053696",
+            "quantization": "",
+            "tags": [],
+            "sha256": "15064660f4bd3fccfe85090cc41c0e84d15539ce5157425150d4b1186f401964",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/mistral-7b-quantized-gguf/resolve/main/mistral-7b-q4ks.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-q50.gguf",
+            "size": "4997715584",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b6a210485b6a35666c926ddf49d96a1650cedad4db5697bfcf2fb50e70d763ba",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/mistral-7b-quantized-gguf/resolve/main/mistral-7b-q50.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-q51.gguf",
+            "size": "5442115200",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b439dbecd90443c0476dc7ac41815d989f17d45c4bb8c6a2effd53a846f0f974",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/mistral-7b-quantized-gguf/resolve/main/mistral-7b-q51.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-q5ks.gguf",
+            "size": "4997715584",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c843bbf3685cb789c8733e7275a124cddbe41d06e350a983d89ecb3c23cfd254",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/mistral-7b-quantized-gguf/resolve/main/mistral-7b-q5ks.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

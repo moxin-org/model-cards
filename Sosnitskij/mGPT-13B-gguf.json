@@ -1,0 +1,43 @@
+{
+    "id": "Sosnitskij/mGPT-13B-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Sosnitskij",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-06T00:42:26Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mGPT-13B-Q5_K_M.gguf",
+            "size": "10141104832",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "dfe7ad73561a1b45640efe4a0ebb19c6e1848fe416c61ede1c50fe80e5785dd7",
+            "download": {
+                "default": "https://huggingface.co/Sosnitskij/mGPT-13B-gguf/resolve/main/mGPT-13B-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "mGPT-13B-Q6_K.gguf",
+            "size": "9904328704",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "e782711e0cb1c71c04a590e5865f76bd8aeeb332a4ec179086180d78ca820eff",
+            "download": {
+                "default": "https://huggingface.co/Sosnitskij/mGPT-13B-gguf/resolve/main/mGPT-13B-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

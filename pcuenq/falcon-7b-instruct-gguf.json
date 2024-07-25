@@ -1,0 +1,33 @@
+{
+    "id": "pcuenq/falcon-7b-instruct-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "pcuenq",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-21T15:29:14Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "falcon-7b-instruct.gguf",
+            "size": "14437278592",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fd1990c2e433edd514dbcc9fbdc66a3bea5e33bb7838f7dda27aa3f7cdf5bb4d",
+            "download": {
+                "default": "https://huggingface.co/pcuenq/falcon-7b-instruct-gguf/resolve/main/falcon-7b-instruct.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,243 @@
+{
+    "id": "mradermacher/QuartetAnemoi-70B-t0.0001-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-25T08:37:07Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "QuartetAnemoi-70B-t0.0001.i1-IQ4_XS.gguf",
+            "size": "37139067968",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "c5fa6a5cfa2b8d61e04c5e23d8a29549ecaf84af3e104c9397f4f71f822dab2f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QuartetAnemoi-70B-t0.0001-i1-GGUF/resolve/main/QuartetAnemoi-70B-t0.0001.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "QuartetAnemoi-70B-t0.0001.i1-Q5_K_S.gguf",
+            "size": "47770645568",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "5a7cce5455225aae166eaf0fd5deb0a1e3dbe120d6cf60b0544832ba5588d94d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QuartetAnemoi-70B-t0.0001-i1-GGUF/resolve/main/QuartetAnemoi-70B-t0.0001.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "QuartetAnemoi-70B-t0.0001.i1-Q5_K_M.gguf",
+            "size": "49063015488",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "a2bb05cf978bf71d87668e5f8f99f5cb53330b83d9e8d65745a378beab1f84fd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QuartetAnemoi-70B-t0.0001-i1-GGUF/resolve/main/QuartetAnemoi-70B-t0.0001.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "QuartetAnemoi-70B-t0.0001.i1-Q4_K_S.gguf",
+            "size": "39558984768",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "726e7e77f7f400fac93338f0fce617e285bc08da1fa81a819cf179f17d3082bb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QuartetAnemoi-70B-t0.0001-i1-GGUF/resolve/main/QuartetAnemoi-70B-t0.0001.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "QuartetAnemoi-70B-t0.0001.i1-Q4_K_M.gguf",
+            "size": "41732158528",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "7f32d86442cde1a0aabba210976ce763e76bf3e539679019494265896137594e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QuartetAnemoi-70B-t0.0001-i1-GGUF/resolve/main/QuartetAnemoi-70B-t0.0001.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "QuartetAnemoi-70B-t0.0001.i1-Q4_0.gguf",
+            "size": "39328298048",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "d818da35a148a22caad5622cd335179202021762df51edc90311314ff926abae",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QuartetAnemoi-70B-t0.0001-i1-GGUF/resolve/main/QuartetAnemoi-70B-t0.0001.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "QuartetAnemoi-70B-t0.0001.i1-Q3_K_XS.gguf",
+            "size": "28563928128",
+            "quantization": "Q3_K_XS",
+            "tags": [],
+            "sha256": "7811fdf258652658f82ff69421f6be04ad54f42b56ae4670c572d42aaccfc1da",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QuartetAnemoi-70B-t0.0001-i1-GGUF/resolve/main/QuartetAnemoi-70B-t0.0001.i1-Q3_K_XS.gguf"
+            }
+        },
+        {
+            "name": "QuartetAnemoi-70B-t0.0001.i1-Q3_K_S.gguf",
+            "size": "30228542528",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "82526a149553fc7d4d530cc6e5cc19a693471f974f1d34e8e5cabc7918d7e3a6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QuartetAnemoi-70B-t0.0001-i1-GGUF/resolve/main/QuartetAnemoi-70B-t0.0001.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "QuartetAnemoi-70B-t0.0001.i1-Q3_K_M.gguf",
+            "size": "33583985728",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "6abf4e54df73ad3e42615ef88b36d80838ae66166d6c2aa29c1aeded9b056a8e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QuartetAnemoi-70B-t0.0001-i1-GGUF/resolve/main/QuartetAnemoi-70B-t0.0001.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "QuartetAnemoi-70B-t0.0001.i1-Q3_K_L.gguf",
+            "size": "36457083968",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "e0ee1fbb693e0daa39254c04fae283383a9617d1a523eb9e6847619cc5fc0112",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QuartetAnemoi-70B-t0.0001-i1-GGUF/resolve/main/QuartetAnemoi-70B-t0.0001.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "QuartetAnemoi-70B-t0.0001.i1-Q2_K.gguf",
+            "size": "25771684928",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a03a41f3301c76cb762078f0abdd666e4ec885497902ee1124fe1b1287ae5e89",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QuartetAnemoi-70B-t0.0001-i1-GGUF/resolve/main/QuartetAnemoi-70B-t0.0001.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "QuartetAnemoi-70B-t0.0001.i1-IQ1_M.gguf",
+            "size": "16287315008",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "f6c3277fa04d3ba8404c4999d79d3093fff7ef63d8fa5abf5d5fe8ecd079e5e9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QuartetAnemoi-70B-t0.0001-i1-GGUF/resolve/main/QuartetAnemoi-70B-t0.0001.i1-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "QuartetAnemoi-70B-t0.0001.i1-IQ4_NL.gguf",
+            "size": "39265383488",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "581fa89585629955d3c0bb59027491772c2378c04d168fdab0db3aab85051843",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QuartetAnemoi-70B-t0.0001-i1-GGUF/resolve/main/QuartetAnemoi-70B-t0.0001.i1-IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "QuartetAnemoi-70B-t0.0001.i1-IQ3_XXS.gguf",
+            "size": "27337831488",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "a9296bdcf3d6e3e8983243fe2635cbf9c4ef6c90395ffe93c5f4a505113d5fce",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QuartetAnemoi-70B-t0.0001-i1-GGUF/resolve/main/QuartetAnemoi-70B-t0.0001.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "QuartetAnemoi-70B-t0.0001.i1-IQ3_XS.gguf",
+            "size": "28451206208",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "37034f2d3ee3e0405b3023d28c18d65b0bda14980c15ad2997a66a163c566133",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QuartetAnemoi-70B-t0.0001-i1-GGUF/resolve/main/QuartetAnemoi-70B-t0.0001.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "QuartetAnemoi-70B-t0.0001.i1-IQ3_S.gguf",
+            "size": "30228542528",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "adb3cd66c6b11d9793fbbe9f5fc26bb312476131e1300ccc6cdd283bc93207f7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QuartetAnemoi-70B-t0.0001-i1-GGUF/resolve/main/QuartetAnemoi-70B-t0.0001.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "QuartetAnemoi-70B-t0.0001.i1-IQ3_M.gguf",
+            "size": "31253525568",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "3fd6ca9741cf70bcd939f4680cd11f9b1783ec2dc0eb26d52967710363bb10d4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QuartetAnemoi-70B-t0.0001-i1-GGUF/resolve/main/QuartetAnemoi-70B-t0.0001.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "QuartetAnemoi-70B-t0.0001.i1-IQ2_XXS.gguf",
+            "size": "18633503808",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "9c33e0b7885747d9f931ca99cfd427cbcd7ce5ca3f224a29f962e886659b8e9e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QuartetAnemoi-70B-t0.0001-i1-GGUF/resolve/main/QuartetAnemoi-70B-t0.0001.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "QuartetAnemoi-70B-t0.0001.i1-IQ2_XS.gguf",
+            "size": "20678227008",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "35ecdc3ec121f3664c301996f014352d4b12cdb87e779eca6ff088c613cb06e0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QuartetAnemoi-70B-t0.0001-i1-GGUF/resolve/main/QuartetAnemoi-70B-t0.0001.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "QuartetAnemoi-70B-t0.0001.i1-IQ2_S.gguf",
+            "size": "21698376768",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "cb3c4f20c4c2157dd3cbf65279a5a9c3f551a0159dbdb96f79cc50ddab26be03",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QuartetAnemoi-70B-t0.0001-i1-GGUF/resolve/main/QuartetAnemoi-70B-t0.0001.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "QuartetAnemoi-70B-t0.0001.i1-IQ2_M.gguf",
+            "size": "23575327808",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "f4b66d5b47b2496aa060b53358806694f5aad50c1a4fad84746a638251e1ccaf",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QuartetAnemoi-70B-t0.0001-i1-GGUF/resolve/main/QuartetAnemoi-70B-t0.0001.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "QuartetAnemoi-70B-t0.0001.i1-IQ1_S.gguf",
+            "size": "14879601728",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "44dbd650723953ea3860df76a65bf29361c33f8a2c63333d5ceeb7f35559d387",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/QuartetAnemoi-70B-t0.0001-i1-GGUF/resolve/main/QuartetAnemoi-70B-t0.0001.i1-IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,53 @@
+{
+    "id": "elliotthwangmsa/KimLan_TinyLlama-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "elliotthwangmsa",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-07T02:54:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "KimLan_TinyLlama-q4_k_m.gguf",
+            "size": "668788160",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c752f6fe068851bb23e15f80da4d6545b1441a690acf13b0cb59e50a388c9b41",
+            "download": {
+                "default": "https://huggingface.co/elliotthwangmsa/KimLan_TinyLlama-GGUF/resolve/main/KimLan_TinyLlama-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "KimLan_TinyLlama-q5_k_m.gguf",
+            "size": "783017408",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2c7052ad31d2741839d5f28a879dac6845e13cddfed3100e36a1b5bf73166e47",
+            "download": {
+                "default": "https://huggingface.co/elliotthwangmsa/KimLan_TinyLlama-GGUF/resolve/main/KimLan_TinyLlama-q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "KimLan_TinyLlama-q5_k_mq8_0.gguf.gguf",
+            "size": "1170781632",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e3b89029370cd7392a03a323e220f55c58addad31850c3e7ded915bc3c0451df",
+            "download": {
+                "default": "https://huggingface.co/elliotthwangmsa/KimLan_TinyLlama-GGUF/resolve/main/KimLan_TinyLlama-q5_k_mq8_0.gguf.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

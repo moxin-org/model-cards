@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/SuperMente-7B-v4-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-25T20:37:05Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "SuperMente-7B-v4.IQ3_M.gguf",
+            "size": "3439515328",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "3164137c52e38fab9d79bb950551e3442074cd020bf519276b6183dd4d7811a4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SuperMente-7B-v4-GGUF/resolve/main/SuperMente-7B-v4.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "SuperMente-7B-v4.IQ3_S.gguf",
+            "size": "3337017024",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "54ac30572e249974347bf71fe683cef89617a59f5addf0873c74ffb8e268a356",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SuperMente-7B-v4-GGUF/resolve/main/SuperMente-7B-v4.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "SuperMente-7B-v4.IQ3_XS.gguf",
+            "size": "3173439168",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "db05bbee8bd9acceff44cd5876de14e6fb75555f227bb5012877dc38b2bdc3aa",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SuperMente-7B-v4-GGUF/resolve/main/SuperMente-7B-v4.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "SuperMente-7B-v4.IQ4_NL.gguf",
+            "size": "4309677760",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "9098d8da41faa28c3b8fd1b16940f7e19195e3bac7e3b5b72385ee901210560e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SuperMente-7B-v4-GGUF/resolve/main/SuperMente-7B-v4.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "SuperMente-7B-v4.IQ4_XS.gguf",
+            "size": "4099012288",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "4d8834440bb8ed41a279d1ac0cf5b588bb18dc9c3f34780e966fdb7aad6880c9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SuperMente-7B-v4-GGUF/resolve/main/SuperMente-7B-v4.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "SuperMente-7B-v4.Q2_K.gguf",
+            "size": "2873865920",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "61061a3e1595cba72b3fd52f548cb2c8bf8f5ad7605557b1e91c00014874980c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SuperMente-7B-v4-GGUF/resolve/main/SuperMente-7B-v4.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "SuperMente-7B-v4.Q3_K_L.gguf",
+            "size": "3976648384",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "7fa5902b93851b550283882bbfb83a6cf79b560b314ad849e486ba393740fe86",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SuperMente-7B-v4-GGUF/resolve/main/SuperMente-7B-v4.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "SuperMente-7B-v4.Q3_K_M.gguf",
+            "size": "3673609920",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "567d9e1cff4d67cf5cae014e3cbe3fc8894cfc60c4f52cf00756756e97c93750",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SuperMente-7B-v4-GGUF/resolve/main/SuperMente-7B-v4.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "SuperMente-7B-v4.Q3_K_S.gguf",
+            "size": "3319191232",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "4e4e87818f3ecbce489f7b36db8fe61265e5e6fb56634e09a7997bce67b35f80",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SuperMente-7B-v4-GGUF/resolve/main/SuperMente-7B-v4.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "SuperMente-7B-v4.Q4_0.gguf",
+            "size": "4263540416",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "cb692032901f4633255ad3dca1a2f5eef0de36fc5c7584fdbb8a79a233a7f790",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SuperMente-7B-v4-GGUF/resolve/main/SuperMente-7B-v4.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "SuperMente-7B-v4.Q4_K_M.gguf",
+            "size": "4523062976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a8bc9ad07de18f9dacc40ae29bce79e4574760699de157e7b4c645a306fd3989",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SuperMente-7B-v4-GGUF/resolve/main/SuperMente-7B-v4.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "SuperMente-7B-v4.Q4_K_S.gguf",
+            "size": "4294997696",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "e605712b36261747551481d8c74239f7b146a4de26de57bdd789323ee19dd831",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SuperMente-7B-v4-GGUF/resolve/main/SuperMente-7B-v4.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "SuperMente-7B-v4.Q5_K_M.gguf",
+            "size": "5286033088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "3ae4005072dd7151704ff5c337300a4fd45eca7f993b69d6757052caa33a4288",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SuperMente-7B-v4-GGUF/resolve/main/SuperMente-7B-v4.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "SuperMente-7B-v4.Q5_K_S.gguf",
+            "size": "5152339648",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "09a094e2192756e9bc58b9afcfb463791ad546ed5f6643fe5500277d996e375d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SuperMente-7B-v4-GGUF/resolve/main/SuperMente-7B-v4.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "SuperMente-7B-v4.Q6_K.gguf",
+            "size": "6096688832",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "53f092166d7ca8f44aeae21ccca0e14f6168bf0e1671d93765bb2e1a2bfd6922",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SuperMente-7B-v4-GGUF/resolve/main/SuperMente-7B-v4.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "SuperMente-7B-v4.Q8_0.gguf",
+            "size": "7818737344",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "97e903052acc44f3c89f5268a692751f090ff2d1a1cd0c06741b4b28f5a0f807",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SuperMente-7B-v4-GGUF/resolve/main/SuperMente-7B-v4.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

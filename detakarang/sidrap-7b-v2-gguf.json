@@ -1,0 +1,43 @@
+{
+    "id": "detakarang/sidrap-7b-v2-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "detakarang",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-11T07:17:26Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "sidrap-7b-v2.q4_K_M.gguf",
+            "size": "4368438912",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e796bd95a5d742d01c8650e37d5852f941fdfc4c97f74830cffbf6e6ab5de4a1",
+            "download": {
+                "default": "https://huggingface.co/detakarang/sidrap-7b-v2-gguf/resolve/main/sidrap-7b-v2.q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "sidrap-7b-v2.Q8_0.gguf",
+            "size": "7695857216",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "3c87a17d084a2d1c76ab0fc8ff3d0e090c3f47b2075dff563246b5f969a8ef04",
+            "download": {
+                "default": "https://huggingface.co/detakarang/sidrap-7b-v2-gguf/resolve/main/sidrap-7b-v2.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,83 @@
+{
+    "id": "imi2/mixtralnt-4x7b-test-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "imi2",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-12T17:02:14Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mixtralnt-4x7b-test-f16.gguf",
+            "size": "48308668096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3e83c43658211bc22d0bfbb551b524cbb3fa610af6cd4c1a224dd3f48c716762",
+            "download": {
+                "default": "https://huggingface.co/imi2/mixtralnt-4x7b-test-gguf/resolve/main/mixtralnt-4x7b-test-f16.gguf"
+            }
+        },
+        {
+            "name": "mixtralnt-4x7b-test-Q2_K.gguf",
+            "size": "8060708576",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "1e3bfdaaece453b68837a71b94cb7e20ddb05f368862ced4c43771741447ef6f",
+            "download": {
+                "default": "https://huggingface.co/imi2/mixtralnt-4x7b-test-gguf/resolve/main/mixtralnt-4x7b-test-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "mixtralnt-4x7b-test-Q3_K_M.gguf",
+            "size": "10522445536",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e20613d29998ef921a1fc7290084e635393b2a3dde8790287658a6098f774a89",
+            "download": {
+                "default": "https://huggingface.co/imi2/mixtralnt-4x7b-test-gguf/resolve/main/mixtralnt-4x7b-test-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "mixtralnt-4x7b-test-Q4_K_M.gguf",
+            "size": "13639968480",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e68729e06fbd375f1ca5316aae54e60ced5b07fe6d562316b59af56e5740a2be",
+            "download": {
+                "default": "https://huggingface.co/imi2/mixtralnt-4x7b-test-gguf/resolve/main/mixtralnt-4x7b-test-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "mixtralnt-4x7b-test-Q5_K_M.gguf",
+            "size": "16634308320",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "27b3ce5adcc8b255956b5c54f1764305ee41603f384d7bd2512a376c0db6eb98",
+            "download": {
+                "default": "https://huggingface.co/imi2/mixtralnt-4x7b-test-gguf/resolve/main/mixtralnt-4x7b-test-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "mixtralnt-4x7b-test-Q6_K.gguf",
+            "size": "19815794400",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "5856eba3eccc9400ddad8200fe1f64cfab413ce65ebb1641196715a0ad72031e",
+            "download": {
+                "default": "https://huggingface.co/imi2/mixtralnt-4x7b-test-gguf/resolve/main/mixtralnt-4x7b-test-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

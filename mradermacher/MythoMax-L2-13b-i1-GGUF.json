@@ -1,0 +1,203 @@
+{
+    "id": "mradermacher/MythoMax-L2-13b-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-11T23:43:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "MythoMax-L2-13b.i1-Q2_K.gguf",
+            "size": "5047549920",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "485bbd6f1ddf98bc507e155f62c1585447589bff4af6fd70758aeaea8290086a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoMax-L2-13b-i1-GGUF/resolve/main/MythoMax-L2-13b.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "MythoMax-L2-13b.i1-Q6_K.gguf",
+            "size": "10872420320",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "bc426438e88619b701d3a8a53a18e0513ed90988609ace65e13830000b7fd80f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoMax-L2-13b-i1-GGUF/resolve/main/MythoMax-L2-13b.i1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "MythoMax-L2-13b.i1-Q5_K_S.gguf",
+            "size": "9165565920",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "75537a1f308f51c165cfec7a80c6945d4366ea1372e54645a70b4e8e791aaa24",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoMax-L2-13b-i1-GGUF/resolve/main/MythoMax-L2-13b.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "MythoMax-L2-13b.i1-Q5_K_M.gguf",
+            "size": "9423204320",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "203aa05c242d43260a31bc4fcf3ab5086fd763106eb7d2dc9ab8e9ec8e0210db",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoMax-L2-13b-i1-GGUF/resolve/main/MythoMax-L2-13b.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "MythoMax-L2-13b.i1-Q4_K_S.gguf",
+            "size": "7616458720",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "049b661f7f17c5fc4899117452eebf851e79ba72fb7319b9168b9136f8bb82df",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoMax-L2-13b-i1-GGUF/resolve/main/MythoMax-L2-13b.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "MythoMax-L2-13b.i1-Q4_K_M.gguf",
+            "size": "8059236320",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "f7f320d894e1ba9532726e4961a206804a2116363b17f49fd94a823612aa084b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoMax-L2-13b-i1-GGUF/resolve/main/MythoMax-L2-13b.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "MythoMax-L2-13b.i1-Q3_K_S.gguf",
+            "size": "5852260320",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "8b3aebde36e91ce27dc5997c7ade3b71d070f94e0b67fa074a2fd263f84abf85",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoMax-L2-13b-i1-GGUF/resolve/main/MythoMax-L2-13b.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "MythoMax-L2-13b.i1-Q3_K_M.gguf",
+            "size": "6531049440",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "aed54530672bbe7fcb57c26bb8bb3fc033fa33397ac5144fec430e5061173959",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoMax-L2-13b-i1-GGUF/resolve/main/MythoMax-L2-13b.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "MythoMax-L2-13b.i1-Q3_K_L.gguf",
+            "size": "7122839520",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "ad817aff0a77f51aeced2aaf4dd2a80616ad037c64c86fa52d38a2354fcd577d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoMax-L2-13b-i1-GGUF/resolve/main/MythoMax-L2-13b.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "MythoMax-L2-13b.i1-IQ1_S.gguf",
+            "size": "3113725920",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "ce6008f11d5b4fabce2bdfbc4d630c808af20d2498c5941cefb4a0acf5e6961a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoMax-L2-13b-i1-GGUF/resolve/main/MythoMax-L2-13b.i1-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "MythoMax-L2-13b.i1-IQ3_XXS.gguf",
+            "size": "5175601120",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "8b22eccb96c81ded3f3adb8ccca968ee96e9432cdcab25e60db8eaeb2bd8c4a4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoMax-L2-13b-i1-GGUF/resolve/main/MythoMax-L2-13b.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "MythoMax-L2-13b.i1-IQ3_XS.gguf",
+            "size": "5554890720",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "0ad4d88e77360d281abc72ae073ee4d6058ca58e1326e28e17b0d92e69945cfe",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoMax-L2-13b-i1-GGUF/resolve/main/MythoMax-L2-13b.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "MythoMax-L2-13b.i1-IQ3_S.gguf",
+            "size": "5852260320",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "080704a8ac50c6810f920cfac980972b52e465c1a2daf2c21bebcd1f21d0d080",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoMax-L2-13b-i1-GGUF/resolve/main/MythoMax-L2-13b.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "MythoMax-L2-13b.i1-IQ3_M.gguf",
+            "size": "6177789920",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "f7023c801c204860d54320c007781fbb8364f417b41ed53fef186e717bbe2237",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoMax-L2-13b-i1-GGUF/resolve/main/MythoMax-L2-13b.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "MythoMax-L2-13b.i1-IQ2_XXS.gguf",
+            "size": "3753521120",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "0b6ebfac67722ed1b3a660a582f90dacabf376731bceea84bb073b7fe48f5592",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoMax-L2-13b-i1-GGUF/resolve/main/MythoMax-L2-13b.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "MythoMax-L2-13b.i1-IQ2_XS.gguf",
+            "size": "4106186720",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "bf484da5ba1b45af472896052bdde6fb6b73a51a3ae185a52e0052d94ef115c3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoMax-L2-13b-i1-GGUF/resolve/main/MythoMax-L2-13b.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "MythoMax-L2-13b.i1-IQ2_S.gguf",
+            "size": "4412721120",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "874e7d2eb52df1e97a9866c5eddf8b06fa5c64461ad366bae844daf15be0ab48",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoMax-L2-13b-i1-GGUF/resolve/main/MythoMax-L2-13b.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "MythoMax-L2-13b.i1-IQ2_M.gguf",
+            "size": "4732618720",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "4737c74200d967763bfc56caa76b01bbbb9169a87bc20e5f7293cf706562ab89",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MythoMax-L2-13b-i1-GGUF/resolve/main/MythoMax-L2-13b.i1-IQ2_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

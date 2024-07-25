@@ -1,0 +1,83 @@
+{
+    "id": "jeiku/Rosa_v2_7B_GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "jeiku",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-01T00:26:31Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Rosa_v2_7B-f16.gguf",
+            "size": "14485668384",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c16eb998bd98bbfbf9ca54788339b15e753764bdd9c0f2cd81a2b31a0ba1f4f0",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Rosa_v2_7B_GGUF/resolve/main/Rosa_v2_7B-f16.gguf"
+            }
+        },
+        {
+            "name": "Rosa_v2_7B-Q2_K.gguf",
+            "size": "3084034624",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "bc253075b034326319443a4509d66d680f6cbe887be4dc863fc3dcf90bef12af",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Rosa_v2_7B_GGUF/resolve/main/Rosa_v2_7B-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Rosa_v2_7B-Q3_K.gguf",
+            "size": "3519922752",
+            "quantization": "Q3_K",
+            "tags": [],
+            "sha256": "a5b6e6406966f4fb76aaa34ae6cc9dff78a90f59646bdb0bfe3bb4cf035e9301",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Rosa_v2_7B_GGUF/resolve/main/Rosa_v2_7B-Q3_K.gguf"
+            }
+        },
+        {
+            "name": "Rosa_v2_7B-Q4_K.gguf",
+            "size": "4369375808",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "42a1bc20faa5e03e56147ed23a5b0b20843995c00b5b2c4e955a574dcab3c7be",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Rosa_v2_7B_GGUF/resolve/main/Rosa_v2_7B-Q4_K.gguf"
+            }
+        },
+        {
+            "name": "Rosa_v2_7B-Q5_K.gguf",
+            "size": "5132345920",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "3fe053d02499eec6fc589ade6ddb889539baa92369501f37ba54192909cd0900",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Rosa_v2_7B_GGUF/resolve/main/Rosa_v2_7B-Q5_K.gguf"
+            }
+        },
+        {
+            "name": "Rosa_v2_7B-Q6_K.gguf",
+            "size": "5943001664",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "731c31f017a6c2a95e8bbfb2273715b727f9f8158cf8c9dd1220f6ee5e1abd00",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Rosa_v2_7B_GGUF/resolve/main/Rosa_v2_7B-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

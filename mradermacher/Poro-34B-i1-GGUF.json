@@ -1,0 +1,233 @@
+{
+    "id": "mradermacher/Poro-34B-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-10T01:01:59Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Poro-34B.i1-IQ4_XS.gguf",
+            "size": "18952698016",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "ef3df8407e8b6b117497e1f70c5bf3d48187109faf46c05598db9fc81f1f3d83",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-i1-GGUF/resolve/main/Poro-34B.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.i1-Q6_K.gguf",
+            "size": "28842072224",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "3f7a221262fb56bca1bfe9b1e900cde6fad706cc334eb2092fae0bad71a5aa0e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-i1-GGUF/resolve/main/Poro-34B.i1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.i1-Q5_K_S.gguf",
+            "size": "24298305696",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "258b7b3436dfd6421e642102c1a1ffe93a5e29f4ebc679915c441078f8ecff90",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-i1-GGUF/resolve/main/Poro-34B.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.i1-Q5_K_M.gguf",
+            "size": "26113472672",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "af72aa2bdee4537963c307e966be36a9247b2f4e402b86ea8bd358dd08c2e4f4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-i1-GGUF/resolve/main/Poro-34B.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.i1-Q4_K_S.gguf",
+            "size": "20175960224",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "e7706a25fa3962fa87e3c457aac6b063076a348e7e16ca5ce2ec6b7948ae0b4e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-i1-GGUF/resolve/main/Poro-34B.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.i1-Q4_K_M.gguf",
+            "size": "22439901344",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "f3156a0b18e9ee4670cdd9a1ce7c7d244bcb55663bbd121ad2a441e8315ca2ed",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-i1-GGUF/resolve/main/Poro-34B.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.i1-Q4_0.gguf",
+            "size": "20098889888",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "b17643cf24263e757a64e39abb99dddd2b412c328c6f2b4150ddc100574456ea",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-i1-GGUF/resolve/main/Poro-34B.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.i1-Q3_K_S.gguf",
+            "size": "15478053024",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "dc9c23b8a2cf7aa7df296577fe2fa9207da3d5c80381cf512f20e455b7d90e47",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-i1-GGUF/resolve/main/Poro-34B.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.i1-Q3_K_M.gguf",
+            "size": "18503063712",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "996cae3ba1381b4e7d6233960aa31e9dcf15a9822d3da810a2a14d9ad576b096",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-i1-GGUF/resolve/main/Poro-34B.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.i1-Q3_K_L.gguf",
+            "size": "20160075936",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "3f92bae590113100c2edc5050326bcec54f24d4b24232f5405c91c942a47584d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-i1-GGUF/resolve/main/Poro-34B.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.i1-Q2_K.gguf",
+            "size": "13412350112",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "6ed31d8e61541e505ab2a3f9b4d4740495b34e8b8c294831d1a23799bbb3ff6b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-i1-GGUF/resolve/main/Poro-34B.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.i1-IQ1_M.gguf",
+            "size": "8483231904",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "632b2807413cdb17ad605ed1e9114e3852a7a2b23f5f5215f924dcb2f914739e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-i1-GGUF/resolve/main/Poro-34B.i1-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.i1-IQ3_XXS.gguf",
+            "size": "13925578912",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "73502c76e75d849bb89e21f668f4f229d379406433f25dfc45b80986435fba4c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-i1-GGUF/resolve/main/Poro-34B.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.i1-IQ3_XS.gguf",
+            "size": "15083067552",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "d513fdd297b7afe11b5b006e4343c6213433761a82556b3d2b0dca235fdd4b3e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-i1-GGUF/resolve/main/Poro-34B.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.i1-IQ3_S.gguf",
+            "size": "15478053024",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "2f293dff68698b39a601c892d93dfc9856c6f255cd2ef6f9b37d848a65d350ca",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-i1-GGUF/resolve/main/Poro-34B.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.i1-IQ3_M.gguf",
+            "size": "17115797664",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "e19c9763d03eb0bc81b1fb91e3fd88f10cdd347ab1db0533badb6cb83c99abce",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-i1-GGUF/resolve/main/Poro-34B.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.i1-IQ2_XXS.gguf",
+            "size": "9627244704",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "113601c8045495fff8ba7dd3b171dd725abe7285d496449b56dab6064d04ca74",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-i1-GGUF/resolve/main/Poro-34B.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.i1-IQ2_XS.gguf",
+            "size": "10629159072",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "afdd7586ec41b52addc79e504ed7b87ecb272c9a9a9ef5e36c9e3722893780f8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-i1-GGUF/resolve/main/Poro-34B.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.i1-IQ2_S.gguf",
+            "size": "11237750944",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "870416d7f2705e59c70f8d011d4f1921ba0ebc0e0eae76114cbd8adcc6c3bbd2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-i1-GGUF/resolve/main/Poro-34B.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.i1-IQ2_M.gguf",
+            "size": "12152961184",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "dbe572564f2e69810d8b5df47d7cbd826573f238d2399984f74575ff773cdd30",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-i1-GGUF/resolve/main/Poro-34B.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "Poro-34B.i1-IQ1_S.gguf",
+            "size": "7796824224",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "829ddb136c1dabe31f513d1f2af67196aed653932be24511ca76a854f46037fb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Poro-34B-i1-GGUF/resolve/main/Poro-34B.i1-IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/NeuralQuant-9B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-29T17:06:23Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "neuralquant-9b.Q2_K.gguf",
+            "size": "3816999744",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "113917deeaf5f7e7995044213f08c2378e2022383fb63f2dfc5b6c816644e10f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralQuant-9B-GGUF/resolve/main/neuralquant-9b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "neuralquant-9b.Q3_K_L.gguf",
+            "size": "4737329984",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "66b81e0c3ec0fb73ac276dc111d359bae1de1749e095c7f778497aa18a475e32",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralQuant-9B-GGUF/resolve/main/neuralquant-9b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "neuralquant-9b.Q3_K_M.gguf",
+            "size": "4354599744",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "1d1eeefc3b5d3bd8ea00140f623b2dec7ea9f93285cd16dd4a897e196d16494b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralQuant-9B-GGUF/resolve/main/neuralquant-9b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "neuralquant-9b.Q3_K_S.gguf",
+            "size": "3915508544",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "d1d2780d5c85f3cbf33320e0c23195d56bccb3cccc746ea379ed8958e134bfb5",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralQuant-9B-GGUF/resolve/main/neuralquant-9b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "neuralquant-9b.Q4_0.gguf",
+            "size": "5091593024",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "6330ba05a32bbf8d1d11c04f2ff5197740b000137cb8c4472fac8aa2cc26e944",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralQuant-9B-GGUF/resolve/main/neuralquant-9b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "neuralquant-9b.Q4_K_M.gguf",
+            "size": "5415996224",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "33e506687556c9fa8f7ab86038cc11e0edf52ee8865cb5693c58e32435e51b25",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralQuant-9B-GGUF/resolve/main/neuralquant-9b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "neuralquant-9b.Q4_K_S.gguf",
+            "size": "5123050304",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "cfecfb1f736f7d1fd1a87465f0ae5d85e9f4a8f6b8aff558148075ab68e41b5a",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralQuant-9B-GGUF/resolve/main/neuralquant-9b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "neuralquant-9b.Q5_0.gguf",
+            "size": "6198496064",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "0f343623eb3d99546075f8d5930ffd86795607d33963903318ecd86dcd83b56b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralQuant-9B-GGUF/resolve/main/neuralquant-9b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "neuralquant-9b.Q5_K_M.gguf",
+            "size": "6365612864",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "7d4e6feff0956593bba8ad112720cc64b6b77a5271d1c9896bd0c67682da4ec2",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralQuant-9B-GGUF/resolve/main/neuralquant-9b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "neuralquant-9b.Q5_K_S.gguf",
+            "size": "6198496064",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "62ea8ec08bc05cb84b900a3a92914158aaef4ed2762a129a46e33bc610a09c7a",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralQuant-9B-GGUF/resolve/main/neuralquant-9b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "neuralquant-9b.Q6_K.gguf",
+            "size": "7374580544",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "1952a4f80fba430c608097b762ddde9562f978ce8942092bc1d1165793af00f0",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralQuant-9B-GGUF/resolve/main/neuralquant-9b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "neuralquant-9b.Q8_0.gguf",
+            "size": "9550951168",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "14cb91ebef160f20d57cd4d9cbe5f1990314ab23fbc69755d2f51c8e10d4a82c",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralQuant-9B-GGUF/resolve/main/neuralquant-9b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

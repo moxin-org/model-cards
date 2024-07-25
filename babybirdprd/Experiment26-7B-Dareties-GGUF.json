@@ -1,0 +1,43 @@
+{
+    "id": "babybirdprd/Experiment26-7B-Dareties-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "babybirdprd",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-03T01:04:59Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "experiment26-7b-dareties.Q4_K_M.gguf",
+            "size": "4368439040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "7ad76994e5c12850d552e482e25017576c4dc33d05dd12a4a8f78054e6fc607d",
+            "download": {
+                "default": "https://huggingface.co/babybirdprd/Experiment26-7B-Dareties-GGUF/resolve/main/experiment26-7b-dareties.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "experiment26-7b-dareties.Q5_K_M.gguf",
+            "size": "5131409152",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "b62482babcc0675198d3bfdec9bbee92b9bc08a3759d659ab0170e2c48207727",
+            "download": {
+                "default": "https://huggingface.co/babybirdprd/Experiment26-7B-Dareties-GGUF/resolve/main/experiment26-7b-dareties.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

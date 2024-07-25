@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/penchant-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-01T16:09:20Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "penchant-7B.IQ3_M.gguf",
+            "size": "3439535616",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "026e4f44d5f0fe6cdc41776e51576bd10df0ae7f96d09d109ba75438cc46cb95",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/penchant-7B-GGUF/resolve/main/penchant-7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "penchant-7B.IQ3_S.gguf",
+            "size": "3337037312",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "ff24b2685fa73f7e5e244c026899f2aab86d1be3bf3ade3ac586edaa71bfc279",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/penchant-7B-GGUF/resolve/main/penchant-7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "penchant-7B.IQ3_XS.gguf",
+            "size": "3173459456",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "51d44f5065890d774ce223376fb6d51c2264367e2b4851e27282ef0855e4c15b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/penchant-7B-GGUF/resolve/main/penchant-7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "penchant-7B.IQ4_XS.gguf",
+            "size": "4099033408",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "becc88633a6ea0272a61d76201b0de275c8063ada380250ffe56df16759ffc34",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/penchant-7B-GGUF/resolve/main/penchant-7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "penchant-7B.Q2_K.gguf",
+            "size": "2873885376",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "ec5c78cd3bd7d870892eeeb325ef5e69eaad78b97f633b37332f9938a7369cd5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/penchant-7B-GGUF/resolve/main/penchant-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "penchant-7B.Q3_K_L.gguf",
+            "size": "3976668672",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "7fd89339a11d628f14f01769d2ee58b698cb77f414916177eeed02a33e889a0e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/penchant-7B-GGUF/resolve/main/penchant-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "penchant-7B.Q3_K_M.gguf",
+            "size": "3673630208",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "d3be8d40ec0d673e4e26d03760dc2c75e2091d59fa09eeaaec2af1ae3a6e0480",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/penchant-7B-GGUF/resolve/main/penchant-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "penchant-7B.Q3_K_S.gguf",
+            "size": "3319211520",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "69f8823673c6059813983ff28ff7c305b79e826bc713d7271ab3ec570c82a9f4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/penchant-7B-GGUF/resolve/main/penchant-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "penchant-7B.Q4_K_M.gguf",
+            "size": "4523084352",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e3088ab52ba7e2a459ad8f85dce56697193333c303be2b93cfc2bcb22f462520",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/penchant-7B-GGUF/resolve/main/penchant-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "penchant-7B.Q4_K_S.gguf",
+            "size": "4295019072",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "0e64e4aa4b5a4cdf49de8bab5ff1b655f527ab8e3ae8a8c14ab5b7a41f829c40",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/penchant-7B-GGUF/resolve/main/penchant-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "penchant-7B.Q5_K_M.gguf",
+            "size": "5286055488",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "dea7c7ef3d8f83222c41040e990638550d003effccbb89fc895f202edb075bf4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/penchant-7B-GGUF/resolve/main/penchant-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "penchant-7B.Q5_K_S.gguf",
+            "size": "5152362048",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "53378cbf8d48cea9826bde6a6325a5a6dbc88dc8395273e75b78cdf3a42042a1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/penchant-7B-GGUF/resolve/main/penchant-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "penchant-7B.Q6_K.gguf",
+            "size": "6096712320",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "ec98d33209d50c733f941eb05becaa8c054ef7cbcb9cd3589ddf5155c69d1ad6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/penchant-7B-GGUF/resolve/main/penchant-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "penchant-7B.Q8_0.gguf",
+            "size": "7818762816",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "570d2d47b81ba6b2b8ed8b07b0963aa5a8e60d9562e17cb248da890cbf1abfb1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/penchant-7B-GGUF/resolve/main/penchant-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

@@ -1,0 +1,33 @@
+{
+    "id": "antiven0m/finch-truthy-dpo-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "antiven0m",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-17T04:03:28Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-Q6_K.gguf",
+            "size": "5942078560",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "cf2db43753e0d8056d302f6264e04b072291f0f11698f87abc7b3ba4d955bbcc",
+            "download": {
+                "default": "https://huggingface.co/antiven0m/finch-truthy-dpo-gguf/resolve/main/ggml-model-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

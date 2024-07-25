@@ -1,0 +1,53 @@
+{
+    "id": "ND911/Maiden-Unquirked-20B-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "ND911",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-22T21:42:33Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Maiden-Unquirked-20B-Q3_K_M.gguf",
+            "size": "9706004064",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "5563a54f1bd239297b48d4fea390710e60c5d6c917fb5183741622c3e22de44f",
+            "download": {
+                "default": "https://huggingface.co/ND911/Maiden-Unquirked-20B-gguf/resolve/main/Maiden-Unquirked-20B-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Maiden-Unquirked-20B-Q4_K_M.gguf",
+            "size": "12042208864",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a2091e8e769508cd82d8afbae6f3c3a11243ab5ead446990e5d5c83c091e22e0",
+            "download": {
+                "default": "https://huggingface.co/ND911/Maiden-Unquirked-20B-gguf/resolve/main/Maiden-Unquirked-20B-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Maiden-Unquirked-20B-Q5_K_M.gguf",
+            "size": "14157219424",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ed749e4e0fa240fc0e7a55af75d85f41557408555be3cc170a271d40201c8324",
+            "download": {
+                "default": "https://huggingface.co/ND911/Maiden-Unquirked-20B-gguf/resolve/main/Maiden-Unquirked-20B-Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

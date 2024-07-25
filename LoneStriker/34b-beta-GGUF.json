@@ -1,0 +1,113 @@
+{
+    "id": "LoneStriker/34b-beta-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LoneStriker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-18T14:58:13Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "34b-beta-Q3_K_L.gguf",
+            "size": "18139445536",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "0b6c9ccd1590780a5a153cf27e701037dc101efc0839216cf575ded0a6ba4aca",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/34b-beta-GGUF/resolve/main/34b-beta-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "34b-beta-Q3_K_M.gguf",
+            "size": "16654924064",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "8f2aef48dcf11ae56506c8a49ef56274cbd6a21858cc3c00cf019fdab4b97874",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/34b-beta-GGUF/resolve/main/34b-beta-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "34b-beta-Q3_K_S.gguf",
+            "size": "14960294176",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "b8e75b4d0041b2f863face57bcff6aa7a678304886b1d9d50296969dce86980c",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/34b-beta-GGUF/resolve/main/34b-beta-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "34b-beta-Q4_K_M.gguf",
+            "size": "20658710816",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "d83e4b1f61e7e3a79562bb90893bc4ddf05f11e6b97a0bad0a2cb7fef1e86b48",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/34b-beta-GGUF/resolve/main/34b-beta-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "34b-beta-Q4_K_S.gguf",
+            "size": "19598649632",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "0f2e51890810492c19c461e20d8c2a231beea57140d4c633a41f3e483dd2424f",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/34b-beta-GGUF/resolve/main/34b-beta-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "34b-beta-Q5_K_M.gguf",
+            "size": "24321845536",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "482564f26a0e7fda7502df468f798e8f2edbff1059edcdaa1a938f84d04a811e",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/34b-beta-GGUF/resolve/main/34b-beta-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "34b-beta-Q5_K_S.gguf",
+            "size": "23707691296",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "0f4becfe6c5e5b6cb8e827aac1ef850964aea682e36d470a2df20ba85f1b1c77",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/34b-beta-GGUF/resolve/main/34b-beta-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "34b-beta-Q6_K.gguf",
+            "size": "28213926176",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "c58e760b2b2ebd53aa9090d9ca75153f1d79d5957f22bdf836069c52248ce189",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/34b-beta-GGUF/resolve/main/34b-beta-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "34b-beta-Q8_0.gguf",
+            "size": "36542282016",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "d9f679aa64d2165aca660c6d694d2d085e703578da2206f08ad73180b79cf0c0",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/34b-beta-GGUF/resolve/main/34b-beta-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

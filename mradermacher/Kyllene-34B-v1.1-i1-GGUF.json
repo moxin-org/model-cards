@@ -1,0 +1,243 @@
+{
+    "id": "mradermacher/Kyllene-34B-v1.1-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-29T21:57:56Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Kyllene-34B-v1.1.i1-IQ4_XS.gguf",
+            "size": "19016235552",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "1bd3ef2030cdacac5a23bfb4394a504a7d6f1a24160886d357a256cbb7314f00",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Kyllene-34B-v1.1-i1-GGUF/resolve/main/Kyllene-34B-v1.1.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Kyllene-34B-v1.1.i1-Q6_K.gguf",
+            "size": "28755110432",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "439746f3ef5d331dd8ff1307ffd4186895cd1e38de9c1e309e5ccd9c2e6d5e7f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Kyllene-34B-v1.1-i1-GGUF/resolve/main/Kyllene-34B-v1.1.i1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Kyllene-34B-v1.1.i1-Q5_K_S.gguf",
+            "size": "24248875552",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "08e31b707ca747b055d9bba5755cec97bb258134a1dd1d9570d4bc7167532a90",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Kyllene-34B-v1.1-i1-GGUF/resolve/main/Kyllene-34B-v1.1.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Kyllene-34B-v1.1.i1-Q5_K_M.gguf",
+            "size": "24863029792",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "b6a9601e41b2d501339f030a40d883c3888fe1302698f32d0e152afed1d049c6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Kyllene-34B-v1.1-i1-GGUF/resolve/main/Kyllene-34B-v1.1.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Kyllene-34B-v1.1.i1-Q4_K_S.gguf",
+            "size": "20139833888",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "b32e51a7f253c5d9750d4cbf9787c14fb995c6a08e6ee146a43faa44fb0cd1f3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Kyllene-34B-v1.1-i1-GGUF/resolve/main/Kyllene-34B-v1.1.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Kyllene-34B-v1.1.i1-Q4_K_M.gguf",
+            "size": "21199895072",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "1247c6fdb86ed43c9a5f46510eafad22a44659443e383a629fb573f904f25450",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Kyllene-34B-v1.1-i1-GGUF/resolve/main/Kyllene-34B-v1.1.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Kyllene-34B-v1.1.i1-Q4_0.gguf",
+            "size": "20071938592",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "880d19826af5158bff3d52ee0163539ccf372e420c414019678ce1dd61f838ec",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Kyllene-34B-v1.1-i1-GGUF/resolve/main/Kyllene-34B-v1.1.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Kyllene-34B-v1.1.i1-Q3_K_S.gguf",
+            "size": "15501478432",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "1151f8894efa2e57f8520a6af0396484bfcdc49ec4c9949463af93351772422e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Kyllene-34B-v1.1-i1-GGUF/resolve/main/Kyllene-34B-v1.1.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Kyllene-34B-v1.1.i1-Q3_K_M.gguf",
+            "size": "17196108320",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "8e5865e7e7e13811d021da34678093dd39d80713983e8f0a4c602ad5e8310523",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Kyllene-34B-v1.1-i1-GGUF/resolve/main/Kyllene-34B-v1.1.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Kyllene-34B-v1.1.i1-Q3_K_L.gguf",
+            "size": "18680629792",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "9b17f9c9c437b4919ebd8df0f6dd7bbc1e4a8ccebe848819016cb5f112394d0c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Kyllene-34B-v1.1-i1-GGUF/resolve/main/Kyllene-34B-v1.1.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Kyllene-34B-v1.1.i1-Q2_K.gguf",
+            "size": "13366417952",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a80496bbdddadb338927aa5ab1665d79ec0b85eba38e1923dfdefce623221232",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Kyllene-34B-v1.1-i1-GGUF/resolve/main/Kyllene-34B-v1.1.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Kyllene-34B-v1.1.i1-IQ1_M.gguf",
+            "size": "8778897952",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "b34ae0ae636aff8d700ef07bc1eba889acbdb28235260c7edc3849ae415ac5e5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Kyllene-34B-v1.1-i1-GGUF/resolve/main/Kyllene-34B-v1.1.i1-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "Kyllene-34B-v1.1.i1-IQ4_NL.gguf",
+            "size": "20062763552",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "8076c4fe7bb88575ef857b9fe37335514a297be769466d875853350c2f95a221",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Kyllene-34B-v1.1-i1-GGUF/resolve/main/Kyllene-34B-v1.1.i1-IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Kyllene-34B-v1.1.i1-IQ3_XXS.gguf",
+            "size": "13935987232",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "8950d96ff666a2cea972d4d87773b8020ae1a269f8d2a812ef3827211833b58b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Kyllene-34B-v1.1-i1-GGUF/resolve/main/Kyllene-34B-v1.1.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "Kyllene-34B-v1.1.i1-IQ3_XS.gguf",
+            "size": "14775503392",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "40e6240a8b9c3f8ecd64080ff4fcc6e809ccde9a2db3d1fa33d149025f7832ca",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Kyllene-34B-v1.1-i1-GGUF/resolve/main/Kyllene-34B-v1.1.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Kyllene-34B-v1.1.i1-IQ3_S.gguf",
+            "size": "15559969312",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "f36827a97e3337771ed0cf01133df9010e263ee75dc5503a9be47c96e209b178",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Kyllene-34B-v1.1-i1-GGUF/resolve/main/Kyllene-34B-v1.1.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Kyllene-34B-v1.1.i1-IQ3_M.gguf",
+            "size": "16105884192",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "e00899e3d94d0105a48d10824a9d34172dc13160c0d64ddcc69f5fde12eb9cfd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Kyllene-34B-v1.1-i1-GGUF/resolve/main/Kyllene-34B-v1.1.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Kyllene-34B-v1.1.i1-IQ2_XXS.gguf",
+            "size": "9908574752",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "7e862a6b8d67e6eaee908bf6fa84f862b19157c36e26d8c874c6042e59893345",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Kyllene-34B-v1.1-i1-GGUF/resolve/main/Kyllene-34B-v1.1.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "Kyllene-34B-v1.1.i1-IQ2_XS.gguf",
+            "size": "10908654112",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "26f47c5a5f2e520ed4a3a02a2b76f7b59a063774f822429c34205b7cdd800e57",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Kyllene-34B-v1.1-i1-GGUF/resolve/main/Kyllene-34B-v1.1.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Kyllene-34B-v1.1.i1-IQ2_S.gguf",
+            "size": "11493132832",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "1315a43d3baef718d1d51de136fb9912b32cfb0f6ca5c739fd48e693889b885a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Kyllene-34B-v1.1-i1-GGUF/resolve/main/Kyllene-34B-v1.1.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "Kyllene-34B-v1.1.i1-IQ2_M.gguf",
+            "size": "12396874272",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "bbf853f7a0882ba3a6dddd4720c54b107b110435d82791c4ea525eb59c4dac44",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Kyllene-34B-v1.1-i1-GGUF/resolve/main/Kyllene-34B-v1.1.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "Kyllene-34B-v1.1.i1-IQ1_S.gguf",
+            "size": "8101091872",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "7a3d1606189b5bce0bd5881f9960ff6d8874ee4858b96a0c5a906cb9d0b40ca5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Kyllene-34B-v1.1-i1-GGUF/resolve/main/Kyllene-34B-v1.1.i1-IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

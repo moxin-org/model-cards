@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/JOSIExMistral-7B-Instruct-v0.2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-29T03:21:12Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "JOSIExMistral-7B-Instruct-v0.2.IQ3_M.gguf",
+            "size": "3439695520",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "f8817501b5f1dced9a99a00983697076b6a4660a61e8489dd83a3f3b68f92482",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/JOSIExMistral-7B-Instruct-v0.2-GGUF/resolve/main/JOSIExMistral-7B-Instruct-v0.2.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "JOSIExMistral-7B-Instruct-v0.2.IQ3_S.gguf",
+            "size": "3337197216",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "8fea407c5b501a763796a8c296b767d77228105f07de9e0bf6b58e331f468c5f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/JOSIExMistral-7B-Instruct-v0.2-GGUF/resolve/main/JOSIExMistral-7B-Instruct-v0.2.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "JOSIExMistral-7B-Instruct-v0.2.IQ3_XS.gguf",
+            "size": "3173619360",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "d2c71ad2a73af8f771c118956587927c2cbf7ceedde1b7dbc7702bfb4b2278ca",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/JOSIExMistral-7B-Instruct-v0.2-GGUF/resolve/main/JOSIExMistral-7B-Instruct-v0.2.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "JOSIExMistral-7B-Instruct-v0.2.IQ4_NL.gguf",
+            "size": "4309867744",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "4e96c99c716ae72d075bc3e52ba8e63a27439349dcfec241c49a71af128563e5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/JOSIExMistral-7B-Instruct-v0.2-GGUF/resolve/main/JOSIExMistral-7B-Instruct-v0.2.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "JOSIExMistral-7B-Instruct-v0.2.IQ4_XS.gguf",
+            "size": "4099199968",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "dc0081d867443b91a0204ad7194554ab5383b332ac3806f659d8118992ee25c8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/JOSIExMistral-7B-Instruct-v0.2-GGUF/resolve/main/JOSIExMistral-7B-Instruct-v0.2.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "JOSIExMistral-7B-Instruct-v0.2.Q2_K.gguf",
+            "size": "2874038624",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "adab7f27a3a348196f7a5ef48827e9ab1a3f43c2ac6f165b1bf7ccc95076fcb0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/JOSIExMistral-7B-Instruct-v0.2-GGUF/resolve/main/JOSIExMistral-7B-Instruct-v0.2.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "JOSIExMistral-7B-Instruct-v0.2.Q3_K_L.gguf",
+            "size": "3976828576",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "b76a9dddb7d4034d15db68f09a274a7be72efb144db2d8b5ce1f8431e2fbc814",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/JOSIExMistral-7B-Instruct-v0.2-GGUF/resolve/main/JOSIExMistral-7B-Instruct-v0.2.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "JOSIExMistral-7B-Instruct-v0.2.Q3_K_M.gguf",
+            "size": "3673790112",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "38226ce869a1daecccd1adad4879d87963996e4a793999362e30b97285035781",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/JOSIExMistral-7B-Instruct-v0.2-GGUF/resolve/main/JOSIExMistral-7B-Instruct-v0.2.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "JOSIExMistral-7B-Instruct-v0.2.Q3_K_S.gguf",
+            "size": "3319371424",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "5eda401970cd7abdaf14385824bb99b490f901d4af43e01449728014aaecbf09",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/JOSIExMistral-7B-Instruct-v0.2-GGUF/resolve/main/JOSIExMistral-7B-Instruct-v0.2.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "JOSIExMistral-7B-Instruct-v0.2.Q4_0.gguf",
+            "size": "4263730400",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "88069d9fe23b03d76a2ab9065560044b41ae31a754436d4c310e8ca1df6cf115",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/JOSIExMistral-7B-Instruct-v0.2-GGUF/resolve/main/JOSIExMistral-7B-Instruct-v0.2.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "JOSIExMistral-7B-Instruct-v0.2.Q4_K_M.gguf",
+            "size": "4523252960",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "f80452634485d03d1b19a181edc7030704fb25a3a3a4c40cc92305869418a129",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/JOSIExMistral-7B-Instruct-v0.2-GGUF/resolve/main/JOSIExMistral-7B-Instruct-v0.2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "JOSIExMistral-7B-Instruct-v0.2.Q4_K_S.gguf",
+            "size": "4295187680",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "5ae80b4fc007b5ce8a771eeb615c31a3ca99f0b7d3ffeb1beb6b0dd32900617f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/JOSIExMistral-7B-Instruct-v0.2-GGUF/resolve/main/JOSIExMistral-7B-Instruct-v0.2.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "JOSIExMistral-7B-Instruct-v0.2.Q5_K_M.gguf",
+            "size": "5286232288",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "6019e85a6315fe7a6acb5c9a3c90a0cc156a0a765382c7a03fc482f1aea3ff26",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/JOSIExMistral-7B-Instruct-v0.2-GGUF/resolve/main/JOSIExMistral-7B-Instruct-v0.2.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "JOSIExMistral-7B-Instruct-v0.2.Q5_K_S.gguf",
+            "size": "5152538848",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "6beee55c3bc2974961837a8721b7dc8d0e4c9fd57c3e352bcd80aae1c787b5c9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/JOSIExMistral-7B-Instruct-v0.2-GGUF/resolve/main/JOSIExMistral-7B-Instruct-v0.2.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "JOSIExMistral-7B-Instruct-v0.2.Q6_K.gguf",
+            "size": "6096897824",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "6daa5b8e1a1af73559ba308e6c05d73ee662d60131e264bed55e3344b45f402f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/JOSIExMistral-7B-Instruct-v0.2-GGUF/resolve/main/JOSIExMistral-7B-Instruct-v0.2.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "JOSIExMistral-7B-Instruct-v0.2.Q8_0.gguf",
+            "size": "7818964192",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "4ae5f0ba4e3ba504b2368aed2a5fdbce728cb82a2e32b917ec989a878855c17b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/JOSIExMistral-7B-Instruct-v0.2-GGUF/resolve/main/JOSIExMistral-7B-Instruct-v0.2.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,53 @@
+{
+    "id": "Virt-io/Erokuna-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Virt-io",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-25T08:24:50Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Erokuna-FP16.gguf",
+            "size": "14484731936",
+            "quantization": "",
+            "tags": [],
+            "sha256": "270078e9b40a668988c4ed8110d1ed71888bf5c3d1cc631bcc1cfa37b3776a7f",
+            "download": {
+                "default": "https://huggingface.co/Virt-io/Erokuna-GGUF/resolve/main/Erokuna-FP16.gguf"
+            }
+        },
+        {
+            "name": "Erokuna-Q4_K_M.gguf",
+            "size": "4368439360",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "2cc9a7e5696f23f187a1e9774acb11ba745e233e6bc5c2b18a0ed6c724908311",
+            "download": {
+                "default": "https://huggingface.co/Virt-io/Erokuna-GGUF/resolve/main/Erokuna-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Erokuna-Q8_0.gguf",
+            "size": "7695857728",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "32cd29edf4d22fc5408e1fce44890956c398270287c2ec83535641f3debd2db9",
+            "download": {
+                "default": "https://huggingface.co/Virt-io/Erokuna-GGUF/resolve/main/Erokuna-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

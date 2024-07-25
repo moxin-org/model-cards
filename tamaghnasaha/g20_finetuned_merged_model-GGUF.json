@@ -1,0 +1,43 @@
+{
+    "id": "tamaghnasaha/g20_finetuned_merged_model-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "tamaghnasaha",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-25T14:24:28Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "g20_finetuned_merged_model.Q4_K_M.gguf",
+            "size": "4368439488",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "0f2a745ea0358c9011c820d0c57b34ec69d37e54391b094dcc0c6ae02c8dbb9f",
+            "download": {
+                "default": "https://huggingface.co/tamaghnasaha/g20_finetuned_merged_model-GGUF/resolve/main/g20_finetuned_merged_model.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "g20_finetuned_merged_model.Q5_K_M.gguf",
+            "size": "5131409600",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "6bc153431756baf967c03e8a46de16a2aacce34ca82b3d79c0840fb845915cd8",
+            "download": {
+                "default": "https://huggingface.co/tamaghnasaha/g20_finetuned_merged_model-GGUF/resolve/main/g20_finetuned_merged_model.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

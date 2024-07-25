@@ -1,0 +1,183 @@
+{
+    "id": "bartowski/Hermes-2-Pro-Mistral-10.7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bartowski",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-31T17:35:27Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Hermes-2-Pro-Mistral-10.7B-IQ3_M.gguf",
+            "size": "4845215008",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "1dc4ea6b52979b529e6ebe17700985bc93718d7a75de4cdbb0ad627b000c21b7",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hermes-2-Pro-Mistral-10.7B-GGUF/resolve/main/Hermes-2-Pro-Mistral-10.7B-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Mistral-10.7B-IQ3_S.gguf",
+            "size": "4691467552",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "6edd9e3109e5fde0007fe0a8c08742c6ca90e43d8fb4480a82fe997dd5b17330",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hermes-2-Pro-Mistral-10.7B-GGUF/resolve/main/Hermes-2-Pro-Mistral-10.7B-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Mistral-10.7B-IQ4_NL.gguf",
+            "size": "6141772064",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "09381ce6d13ccdd6d8e1ea9d6e91c2428281a4910f3a8605e587d5b7db86517f",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hermes-2-Pro-Mistral-10.7B-GGUF/resolve/main/Hermes-2-Pro-Mistral-10.7B-IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Mistral-10.7B-IQ4_XS.gguf",
+            "size": "5827817760",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "0b94cb8e182a12182cbb6274a39d6b95af4988ec9d1164574bec0e0bdd6d2a58",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hermes-2-Pro-Mistral-10.7B-GGUF/resolve/main/Hermes-2-Pro-Mistral-10.7B-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Mistral-10.7B-Q2_K.gguf",
+            "size": "4003383584",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "b761afceb9d71464bdda07f08d2e77f03801187913b4f632e1cfd44202458442",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hermes-2-Pro-Mistral-10.7B-GGUF/resolve/main/Hermes-2-Pro-Mistral-10.7B-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Mistral-10.7B-Q3_K_L.gguf",
+            "size": "5650914592",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "0662fc499f4886f199ead0973c892d468651e71cd05da5840660358dbb637b03",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hermes-2-Pro-Mistral-10.7B-GGUF/resolve/main/Hermes-2-Pro-Mistral-10.7B-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Mistral-10.7B-Q3_K_M.gguf",
+            "size": "5195832608",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "85fe3405b9745a1c50290afcba02ae78943596219961f27988ae1c658091c218",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hermes-2-Pro-Mistral-10.7B-GGUF/resolve/main/Hermes-2-Pro-Mistral-10.7B-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Mistral-10.7B-Q3_K_S.gguf",
+            "size": "4664728864",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "991f7b9b82cdfe524bfc9edf21e6d04fc23e0248d15953f221ec9b7526399ed0",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hermes-2-Pro-Mistral-10.7B-GGUF/resolve/main/Hermes-2-Pro-Mistral-10.7B-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Mistral-10.7B-Q4_0.gguf",
+            "size": "6072566048",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "263a10338797c1cf0836be92c10551c5ca81a404850f17bc6e480027111b77d6",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hermes-2-Pro-Mistral-10.7B-GGUF/resolve/main/Hermes-2-Pro-Mistral-10.7B-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Mistral-10.7B-Q4_K_M.gguf",
+            "size": "6461849888",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "ccd67deed9cd444e39fb9d221444ed0bc3b1d46b4e09e90b03f88e4cfd2cfafc",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hermes-2-Pro-Mistral-10.7B-GGUF/resolve/main/Hermes-2-Pro-Mistral-10.7B-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Mistral-10.7B-Q4_K_S.gguf",
+            "size": "6118703392",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "4bcbf8cf7e13386f35324a30fce2e2e11e8cad8143cd046f1812d8788dfeb5b7",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hermes-2-Pro-Mistral-10.7B-GGUF/resolve/main/Hermes-2-Pro-Mistral-10.7B-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Mistral-10.7B-Q5_0.gguf",
+            "size": "7397589280",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "7c791f54039407171b4e069614a13b7721f85b879e31bd039772bd44681e7aba",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hermes-2-Pro-Mistral-10.7B-GGUF/resolve/main/Hermes-2-Pro-Mistral-10.7B-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Mistral-10.7B-Q5_K_M.gguf",
+            "size": "7598129440",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f399cddb91416bedb109ed2e03f286fc63a4d6f7c908a03c2a2ea1e69c20831a",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hermes-2-Pro-Mistral-10.7B-GGUF/resolve/main/Hermes-2-Pro-Mistral-10.7B-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Mistral-10.7B-Q5_K_S.gguf",
+            "size": "7397589280",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "f9eb53c81b9ca4f3f2154251eb23f3d0e3bfe5d9883e3a5bdafd1853f0b349fe",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hermes-2-Pro-Mistral-10.7B-GGUF/resolve/main/Hermes-2-Pro-Mistral-10.7B-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Mistral-10.7B-Q6_K.gguf",
+            "size": "8805426464",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "63b4dd7bed4b8649f5271600dba0fab5d8d79fa836b2f26254f9e63cd034fd58",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hermes-2-Pro-Mistral-10.7B-GGUF/resolve/main/Hermes-2-Pro-Mistral-10.7B-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Mistral-10.7B-Q8_0.gguf",
+            "size": "11404434720",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "b7b0a090def0131d1b0d69c3468b860e59bc10dc71fb8a152207363799ef4754",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Hermes-2-Pro-Mistral-10.7B-GGUF/resolve/main/Hermes-2-Pro-Mistral-10.7B-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

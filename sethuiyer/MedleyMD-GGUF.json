@@ -1,0 +1,43 @@
+{
+    "id": "sethuiyer/MedleyMD-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "sethuiyer",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-15T09:06:41Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "medleymd.Q4_K_M.gguf",
+            "size": "7782086624",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e04982928ed9179b08963a1a3ed1fa7f212a07355732a779640bb298fa18a337",
+            "download": {
+                "default": "https://huggingface.co/sethuiyer/MedleyMD-GGUF/resolve/main/medleymd.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "medleymd.Q5_K_M.gguf",
+            "size": "9132259296",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "0047d1b7e3ff5bde29666c33de806a9a97806b9022c893de561ddd118c8fe8e5",
+            "download": {
+                "default": "https://huggingface.co/sethuiyer/MedleyMD-GGUF/resolve/main/medleymd.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

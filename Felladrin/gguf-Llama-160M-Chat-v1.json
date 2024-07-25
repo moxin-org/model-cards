@@ -1,0 +1,83 @@
+{
+    "id": "Felladrin/gguf-Llama-160M-Chat-v1",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Felladrin",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-21T19:28:11Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Llama-160M-Chat-v1.Q2_K.gguf",
+            "size": "77227168",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "369fb9e16896b9a33d0e2cbc808cd08b73106ad40f951d0b5928ca5298e64445",
+            "download": {
+                "default": "https://huggingface.co/Felladrin/gguf-Llama-160M-Chat-v1/resolve/main/Llama-160M-Chat-v1.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Llama-160M-Chat-v1.Q3_K_M.gguf",
+            "size": "87538336",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "b614fced51da8478b040ddf26edb1e582fea8e14b97cfb7e8a910b40c71062b0",
+            "download": {
+                "default": "https://huggingface.co/Felladrin/gguf-Llama-160M-Chat-v1/resolve/main/Llama-160M-Chat-v1.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Llama-160M-Chat-v1.Q4_K_M.gguf",
+            "size": "104027296",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e3ab1afe55f2be4ea888b71a143b52fb9ec0eab5b4484387e649778f3b5dc1d4",
+            "download": {
+                "default": "https://huggingface.co/Felladrin/gguf-Llama-160M-Chat-v1/resolve/main/Llama-160M-Chat-v1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Llama-160M-Chat-v1.Q5_K_M.gguf",
+            "size": "119043232",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "bff63b8a1c4d0550af356d3d3ab35ab2efdd6ddafb9f3aee7fb9f334be9c3811",
+            "download": {
+                "default": "https://huggingface.co/Felladrin/gguf-Llama-160M-Chat-v1/resolve/main/Llama-160M-Chat-v1.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Llama-160M-Chat-v1.Q6_K.gguf",
+            "size": "134997664",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "fc51ccb2aacceb44d58e0013a17fa8b412bf4a772bc429ef885afbc2943d3f78",
+            "download": {
+                "default": "https://huggingface.co/Felladrin/gguf-Llama-160M-Chat-v1/resolve/main/Llama-160M-Chat-v1.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Llama-160M-Chat-v1.Q8_0.gguf",
+            "size": "174328480",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "5d7b533d782d76751784569ad007281b1741b9c69bcf1fbda52d9a0ed7d0da66",
+            "download": {
+                "default": "https://huggingface.co/Felladrin/gguf-Llama-160M-Chat-v1/resolve/main/Llama-160M-Chat-v1.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

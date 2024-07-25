@@ -1,0 +1,183 @@
+{
+    "id": "bartowski/TableLLM-13b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bartowski",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-05T06:29:14Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "TableLLM-13b-IQ3_M.gguf",
+            "size": "5984612896",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "053cf7e5ac21083680760d4381baec8a6e507261c16a60f1329e7129c34db4d6",
+            "download": {
+                "default": "https://huggingface.co/bartowski/TableLLM-13b-GGUF/resolve/main/TableLLM-13b-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b-IQ3_S.gguf",
+            "size": "5659083296",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "87b3bbbfcdcdce33162ae79545e111e8a649bed953a4494613ef5ec9436e1a0b",
+            "download": {
+                "default": "https://huggingface.co/bartowski/TableLLM-13b-GGUF/resolve/main/TableLLM-13b-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b-IQ4_NL.gguf",
+            "size": "7410185376",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "44ab26c4e0459dd0e2e6302284cd7e97b1fa98c3046429fce98c3e543b7c9778",
+            "download": {
+                "default": "https://huggingface.co/bartowski/TableLLM-13b-GGUF/resolve/main/TableLLM-13b-IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b-IQ4_XS.gguf",
+            "size": "7019629216",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "4cd1a88fe9367982f1ea1d2913a6ace450def8c9dcbee741f0776c52820e6840",
+            "download": {
+                "default": "https://huggingface.co/bartowski/TableLLM-13b-GGUF/resolve/main/TableLLM-13b-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b-Q2_K.gguf",
+            "size": "4854364576",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "1336e7922a876451b5b3259a12a664cd29851a86a1de8be2eea780d4829e2918",
+            "download": {
+                "default": "https://huggingface.co/bartowski/TableLLM-13b-GGUF/resolve/main/TableLLM-13b-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b-Q3_K_L.gguf",
+            "size": "6929662496",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "d58089f90c1b62c3c86784ffe28ec0869e2a9b84850d98fe1716f660c54f2c65",
+            "download": {
+                "default": "https://huggingface.co/bartowski/TableLLM-13b-GGUF/resolve/main/TableLLM-13b-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b-Q3_K_M.gguf",
+            "size": "6337872416",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "6477f6a08225a7e34d70f73fdf64a5b3f3ba44f4ea869d0e90385f87914779e2",
+            "download": {
+                "default": "https://huggingface.co/bartowski/TableLLM-13b-GGUF/resolve/main/TableLLM-13b-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b-Q3_K_S.gguf",
+            "size": "5659083296",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "105ac9c36201e06cd8293f3f52a62671785c2d01cb3b04c63c848b0f282ad143",
+            "download": {
+                "default": "https://huggingface.co/bartowski/TableLLM-13b-GGUF/resolve/main/TableLLM-13b-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b-Q4_0.gguf",
+            "size": "7365948576",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "d3bcc5b17038867e83f8b43fbc99bf95b4542cb30979eb1a33bf2cf88091d5cb",
+            "download": {
+                "default": "https://huggingface.co/bartowski/TableLLM-13b-GGUF/resolve/main/TableLLM-13b-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b-Q4_K_M.gguf",
+            "size": "7866070176",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "cfa9e48c7a924da898aee15d85ec0903326c25f731a0a2a8c579d6b7caca955b",
+            "download": {
+                "default": "https://huggingface.co/bartowski/TableLLM-13b-GGUF/resolve/main/TableLLM-13b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b-Q4_K_S.gguf",
+            "size": "7423292576",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "b5e487412b3a3aaca7959f83cccd1fcdfbd49fc28d89f8200591596dfc3846a2",
+            "download": {
+                "default": "https://huggingface.co/bartowski/TableLLM-13b-GGUF/resolve/main/TableLLM-13b-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b-Q5_0.gguf",
+            "size": "8972410016",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "d3a91336bc1e30e4cb2bc83b405c2b7d2af3f435c0cf6d255b4fbe55fdc2684d",
+            "download": {
+                "default": "https://huggingface.co/bartowski/TableLLM-13b-GGUF/resolve/main/TableLLM-13b-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b-Q5_K_M.gguf",
+            "size": "9230048416",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "438b49771570104394c12a21184274d0b55cfa161d60aa0d3334a8b102c27341",
+            "download": {
+                "default": "https://huggingface.co/bartowski/TableLLM-13b-GGUF/resolve/main/TableLLM-13b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b-Q5_K_S.gguf",
+            "size": "8972410016",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "433208de69f32dd13e80621165930ad2c2623ff006b75f02e7c82b61a649c7df",
+            "download": {
+                "default": "https://huggingface.co/bartowski/TableLLM-13b-GGUF/resolve/main/TableLLM-13b-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b-Q6_K.gguf",
+            "size": "10679275296",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "811fb0c33330ef687b113fa58b65fa0e5b683c0297c7aa1c6ae44887cd150666",
+            "download": {
+                "default": "https://huggingface.co/bartowski/TableLLM-13b-GGUF/resolve/main/TableLLM-13b-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b-Q8_0.gguf",
+            "size": "13831494176",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "68a7c62090e1bbaf1d01e07ef8ad1e94b68dc750d7868598cabe31f12b67fec7",
+            "download": {
+                "default": "https://huggingface.co/bartowski/TableLLM-13b-GGUF/resolve/main/TableLLM-13b-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/NeuralMona_MoE-4x7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-25T20:19:41Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "NeuralMona_MoE-4x7B.IQ3_M.gguf",
+            "size": "10800801568",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "a63660210ea9fdde63d6269383aa24e81c604b5397a326d1e860897243cd4ae6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralMona_MoE-4x7B-GGUF/resolve/main/NeuralMona_MoE-4x7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "NeuralMona_MoE-4x7B.IQ3_S.gguf",
+            "size": "10604717856",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "eed482e98a2ce0b8ddcefec725fffd712b50c9608de8a11bd9b77260bc5b1814",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralMona_MoE-4x7B-GGUF/resolve/main/NeuralMona_MoE-4x7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "NeuralMona_MoE-4x7B.IQ3_XS.gguf",
+            "size": "10011748128",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "bf5204ffbfd607ebc304c585b507473f85ae88084ad257b44776cc941b51aafa",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralMona_MoE-4x7B-GGUF/resolve/main/NeuralMona_MoE-4x7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "NeuralMona_MoE-4x7B.IQ4_NL.gguf",
+            "size": "13911508768",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "ff0058bbf1d0aeaac93c26d9d1487dc9ee2f1c4057bc90b3ac763307cc6e027f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralMona_MoE-4x7B-GGUF/resolve/main/NeuralMona_MoE-4x7B.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "NeuralMona_MoE-4x7B.IQ4_XS.gguf",
+            "size": "13194381088",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "51d3c6003f905b2e6e6e5420b1b78aa150c1f43aa89542a50ed040d59051f45e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralMona_MoE-4x7B-GGUF/resolve/main/NeuralMona_MoE-4x7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "NeuralMona_MoE-4x7B.Q2_K.gguf",
+            "size": "8996521760",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "71b322e43a9190f7399d299811ccf2e9754060a136f697eed229ce3afa33402b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralMona_MoE-4x7B-GGUF/resolve/main/NeuralMona_MoE-4x7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "NeuralMona_MoE-4x7B.Q3_K_L.gguf",
+            "size": "12697675552",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "b9400a432223781ecf8cc6dd59ba716ac24e0ecd8a253ce9e11b202b011db463",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralMona_MoE-4x7B-GGUF/resolve/main/NeuralMona_MoE-4x7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "NeuralMona_MoE-4x7B.Q3_K_M.gguf",
+            "size": "11734034208",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ec73ba78f4d4d07d9fb3bfde37549ca011a14b3b67f27c6a85e4a4c6fae8e634",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralMona_MoE-4x7B-GGUF/resolve/main/NeuralMona_MoE-4x7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "NeuralMona_MoE-4x7B.Q3_K_S.gguf",
+            "size": "10586892064",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "57e024fadd48aa6603b81fa590326f45b667b48cde7cf74b477b578147accec0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralMona_MoE-4x7B-GGUF/resolve/main/NeuralMona_MoE-4x7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "NeuralMona_MoE-4x7B.Q4_0.gguf",
+            "size": "13777291040",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "2a0c680fae299ddd9ff1776ac4676241b9465015b456dbe8b3a86723fd7232fa",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralMona_MoE-4x7B-GGUF/resolve/main/NeuralMona_MoE-4x7B.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "NeuralMona_MoE-4x7B.Q4_K_M.gguf",
+            "size": "14763476768",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "6aa51f0d389b08a2ca13b153012773803bc5afbd27c56b0d8fbc4785583321f9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralMona_MoE-4x7B-GGUF/resolve/main/NeuralMona_MoE-4x7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "NeuralMona_MoE-4x7B.Q4_K_S.gguf",
+            "size": "13896828704",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "9f4551a345dcfb93e517f106f2d7d6e7eb067a4b07ee77d63172ad7a9cac001a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralMona_MoE-4x7B-GGUF/resolve/main/NeuralMona_MoE-4x7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "NeuralMona_MoE-4x7B.Q5_K_M.gguf",
+            "size": "17288054560",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e7e37447ddbc773a6dd14e537107028a8b6f57b15b8a4ff0149028bc68d60a8c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralMona_MoE-4x7B-GGUF/resolve/main/NeuralMona_MoE-4x7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "NeuralMona_MoE-4x7B.Q5_K_S.gguf",
+            "size": "16780019488",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "bbf9365c850aecf8c837eb578e3b5ce0b6a6c0168991db13cc0c70af7b138c22",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralMona_MoE-4x7B-GGUF/resolve/main/NeuralMona_MoE-4x7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "NeuralMona_MoE-4x7B.Q6_K.gguf",
+            "size": "19970418464",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "a6396243355ed4c8c4593c21864e6e2f7d72bb99f4bec7550d5049772cf7505b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralMona_MoE-4x7B-GGUF/resolve/main/NeuralMona_MoE-4x7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "NeuralMona_MoE-4x7B.Q8_0.gguf",
+            "size": "25788204832",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "02a425261bb3aad9626ef97009b322e3b5a27b0ea2d1d89dcc8984a9fd62adf5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NeuralMona_MoE-4x7B-GGUF/resolve/main/NeuralMona_MoE-4x7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

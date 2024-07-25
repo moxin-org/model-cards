@@ -1,0 +1,133 @@
+{
+    "id": "brittlewis12/StructLM-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "brittlewis12",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-27T16:22:55Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "structlm-7b.fp16.gguf",
+            "size": "13478383808",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a536c34f45169ad8919e0b57428b982ef3bc71d05c00dc7fdefb5a732b5627b8",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/StructLM-7B-GGUF/resolve/main/structlm-7b.fp16.gguf"
+            }
+        },
+        {
+            "name": "structlm-7b.Q2_K.gguf",
+            "size": "2532944192",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "e4c773328d3914bd2bcefec4f76a8533767bc1bbb776687de2f0b6061ec9ce35",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/StructLM-7B-GGUF/resolve/main/structlm-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "structlm-7b.Q3_K_L.gguf",
+            "size": "3597198560",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "da689c0c57518b8efc8deddb8bddf97c49b8b744b23aa315c9ee5988c97e96aa",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/StructLM-7B-GGUF/resolve/main/structlm-7b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "structlm-7b.Q3_K_M.gguf",
+            "size": "3298092256",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e128e5de8dc64cf8db0a555736064d313784a2654f9c66c3f70efb0f9ae39ac9",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/StructLM-7B-GGUF/resolve/main/structlm-7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "structlm-7b.Q3_K_S.gguf",
+            "size": "2948392160",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "cc97c2012c86d53de2d517b12e19a54e186c95ef0a8067fa6cbd1ad36a4404d7",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/StructLM-7B-GGUF/resolve/main/structlm-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "structlm-7b.Q4_K_M.gguf",
+            "size": "4081101056",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "f41d650d96539931440b6ea1e066f8efb47d98517b3725ab08f60e9df6967a1a",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/StructLM-7B-GGUF/resolve/main/structlm-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "structlm-7b.Q4_K_S.gguf",
+            "size": "3856836864",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "a0c21f3f3ebbee0b78ff6aee0e50551cc39d89df7d905fdd44021c3b01481742",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/StructLM-7B-GGUF/resolve/main/structlm-7b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "structlm-7b.Q5_K_M.gguf",
+            "size": "4783262464",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "895c3c46f056175243a3c6bb8f5fc27c5ad4c74e41a695ed0cd25cfa509ac38f",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/StructLM-7B-GGUF/resolve/main/structlm-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "structlm-7b.Q5_K_S.gguf",
+            "size": "4651797248",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "1ae2c81b184df9a98bb56b247d40c8c857fbb3cd9e60e3032a2cab80b497784c",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/StructLM-7B-GGUF/resolve/main/structlm-7b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "structlm-7b.Q6_K.gguf",
+            "size": "5529308960",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "d39f0de4ed537a7c4e61a7cec9972eb7bcdae7cb11592c7523df2862db091ebd",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/StructLM-7B-GGUF/resolve/main/structlm-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "structlm-7b.Q8_0.gguf",
+            "size": "7161238240",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "14129fb94a3d7a89a36d39e61ba11934a26d05c9df82c959ce82627c9a785a2a",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/StructLM-7B-GGUF/resolve/main/structlm-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

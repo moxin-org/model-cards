@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/Metabird-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-20T13:10:15Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "metabird-7b.Q3_K_S.gguf",
+            "size": "3164577728",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "503f2515bc1b791477c0055fcda4de643fdb61c8704daf846590b04fcf032645",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Metabird-7B-GGUF/resolve/main/metabird-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "metabird-7b.Q4_K_M.gguf",
+            "size": "4368450560",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "dfb61307f355a316e5c2c108db306c27c366df2bcc382c9bee7ea74b1d1bb67e",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Metabird-7B-GGUF/resolve/main/metabird-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "metabird-7b.Q5_K_M.gguf",
+            "size": "5131421696",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "78c4f85e4d499ed24bdd49b2a6cf572f49af4675726034f972796c1b885dafb6",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Metabird-7B-GGUF/resolve/main/metabird-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "metabird-7b.Q6_K.gguf",
+            "size": "5942078528",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "6241b6f7bc1fd64abcce299d0142a23c301b6b72632c373b475a6402af3562ec",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Metabird-7B-GGUF/resolve/main/metabird-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "metabird-7b.Q8_0.gguf",
+            "size": "7695875008",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "bd5e87ce7301035f956dffea801f043aeb1251411ed47a9b21182d2e24ccddbf",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Metabird-7B-GGUF/resolve/main/metabird-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

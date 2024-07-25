@@ -1,0 +1,153 @@
+{
+    "id": "bartowski/Flora_7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bartowski",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-06T02:34:06Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Flora_7B-fp16.gguf",
+            "size": "14484731552",
+            "quantization": "",
+            "tags": [],
+            "sha256": "906f36ad116666d93412e19115e758fe935607e13bbb426994b07bdc19eaad40",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Flora_7B-GGUF/resolve/main/Flora_7B-fp16.gguf"
+            }
+        },
+        {
+            "name": "Flora_7B-Q2_K.gguf",
+            "size": "2719241920",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "1770b2e4489100989dbfb8cc05685a77405de23ba9377de3b32d790b972deccd",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Flora_7B-GGUF/resolve/main/Flora_7B-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Flora_7B-Q3_K_L.gguf",
+            "size": "3822024384",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "071b01dfe5d234894fd1d0c963be259dc40b1330ffe0a6fb94358c2dcc2cd78c",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Flora_7B-GGUF/resolve/main/Flora_7B-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Flora_7B-Q3_K_M.gguf",
+            "size": "3518985920",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "5c9ec7ba0bb94ef63c1bdba0159044c74164d3c89908eab8e01b8fef1b6b0834",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Flora_7B-GGUF/resolve/main/Flora_7B-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Flora_7B-Q3_K_S.gguf",
+            "size": "3164567232",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "b21a1e62b9c96039c77aac3a573707a48f6a6b65411f57851199b7c7804abcd5",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Flora_7B-GGUF/resolve/main/Flora_7B-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Flora_7B-Q4_0.gguf",
+            "size": "4108916416",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "b07f8ac4b69d7f769bb725ce87e69522a06516df3497c7c966a9cb70de278cf2",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Flora_7B-GGUF/resolve/main/Flora_7B-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Flora_7B-Q4_K_M.gguf",
+            "size": "4368438976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "b8bed9835b5fd7731cb9c175d13a795496eb5e4a637d15a7cd6f0899fc12c632",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Flora_7B-GGUF/resolve/main/Flora_7B-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Flora_7B-Q4_K_S.gguf",
+            "size": "4140373696",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "8511fa659ef472179c2279f23c5bff25311f6cfa9b4e63e269a7298ca984c689",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Flora_7B-GGUF/resolve/main/Flora_7B-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Flora_7B-Q5_0.gguf",
+            "size": "4997715648",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "f9ea6c5f1adab85886f19255580c83089bf96e2cbc0262657cc3235ad5da9348",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Flora_7B-GGUF/resolve/main/Flora_7B-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Flora_7B-Q5_K_M.gguf",
+            "size": "5131409088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "79b95de35891c358b1c7e24b185b0f24d3382d4e230a29b969ed23b0ee6ca819",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Flora_7B-GGUF/resolve/main/Flora_7B-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Flora_7B-Q5_K_S.gguf",
+            "size": "4997715648",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "f84576cc7bb785d7e0021dc6b7adffea0c985be0fec8da7fcb412df324c1b563",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Flora_7B-GGUF/resolve/main/Flora_7B-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Flora_7B-Q6_K.gguf",
+            "size": "5942064832",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "50d336922c0e7766a24e9a22631c20218376f07c3b024d29bd49b12bccd59bce",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Flora_7B-GGUF/resolve/main/Flora_7B-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Flora_7B-Q8_0.gguf",
+            "size": "7695857344",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "67b77eb23cf3a57f9f173c2cf532f2e915831dd3009a10e2e1b8bee9e1448f4d",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Flora_7B-GGUF/resolve/main/Flora_7B-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

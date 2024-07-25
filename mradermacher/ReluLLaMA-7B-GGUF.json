@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/ReluLLaMA-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-09T18:45:36Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ReluLLaMA-7B.IQ3_M.gguf",
+            "size": "3114864416",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "cbe5ba62c785aa6bbd810518d422b9a2f08b4dfedfa55aa99201b4c4425a8276",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/ReluLLaMA-7B-GGUF/resolve/main/ReluLLaMA-7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "ReluLLaMA-7B.IQ3_S.gguf",
+            "size": "2948304672",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "477d567371d9e56429e477baabca346f93863438e30ddef6f401b646cb6497b3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/ReluLLaMA-7B-GGUF/resolve/main/ReluLLaMA-7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "ReluLLaMA-7B.IQ3_XS.gguf",
+            "size": "2796523296",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "bd6a4fcb8b1da15c48ab17d0acdde4eca74b8fbdd4196306b2fdf763090d76bf",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/ReluLLaMA-7B-GGUF/resolve/main/ReluLLaMA-7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "ReluLLaMA-7B.IQ4_XS.gguf",
+            "size": "3647516448",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "97e687cda465fe54281e7d831b27c9280cb8d93891e9141703bb78b5050b9c51",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/ReluLLaMA-7B-GGUF/resolve/main/ReluLLaMA-7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "ReluLLaMA-7B.Q2_K.gguf",
+            "size": "2532863776",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "efc60b217da8bb21d1e1cc562362f8538adf33471644057808d107f06b9aee8f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/ReluLLaMA-7B-GGUF/resolve/main/ReluLLaMA-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "ReluLLaMA-7B.Q3_K_L.gguf",
+            "size": "3597111072",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "96b4700cc54e7eecda892d8fecee9b95219b272f2dc55380ca31241643a90c6c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/ReluLLaMA-7B-GGUF/resolve/main/ReluLLaMA-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "ReluLLaMA-7B.Q3_K_M.gguf",
+            "size": "3298004768",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e2d784021ffb4699141fcb91bbf825c25a0c4d71779a9f472a830f80ae010ec4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/ReluLLaMA-7B-GGUF/resolve/main/ReluLLaMA-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "ReluLLaMA-7B.Q3_K_S.gguf",
+            "size": "2948304672",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "d4835d076aaab278b9b0f4e3918687de5a09f9e235a60f2a3211a01864f8af7e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/ReluLLaMA-7B-GGUF/resolve/main/ReluLLaMA-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "ReluLLaMA-7B.Q4_K_M.gguf",
+            "size": "4081004320",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "0c341c1e567ef7721a94bf750af4a6f57644a1c4a637bbfd0481b9abb6df8890",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/ReluLLaMA-7B-GGUF/resolve/main/ReluLLaMA-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "ReluLLaMA-7B.Q4_K_S.gguf",
+            "size": "3856740128",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "74cce813438974a4459f280a5a1a2813980572b8c21f940a33782bbd59e2b0d9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/ReluLLaMA-7B-GGUF/resolve/main/ReluLLaMA-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "ReluLLaMA-7B.Q5_K_M.gguf",
+            "size": "4783157024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "24636d1c64f84710dab4f46843120a27b396d840d9157f1a204186ce5056eab8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/ReluLLaMA-7B-GGUF/resolve/main/ReluLLaMA-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "ReluLLaMA-7B.Q5_K_S.gguf",
+            "size": "4651691808",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "6d875bc4a6754db78a35fb4624113e40c444683a0a657778c76db211f1f8d386",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/ReluLLaMA-7B-GGUF/resolve/main/ReluLLaMA-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "ReluLLaMA-7B.Q6_K.gguf",
+            "size": "5529194272",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "c165c0034052f45a950d4b295ca8ccdf5d25a6474b3577558a28376aa625ca91",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/ReluLLaMA-7B-GGUF/resolve/main/ReluLLaMA-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "ReluLLaMA-7B.Q8_0.gguf",
+            "size": "7161089824",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "7b4d205503cbd1e1003ca930f4549e904898799d41c6c9a2e10cc22023022dca",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/ReluLLaMA-7B-GGUF/resolve/main/ReluLLaMA-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

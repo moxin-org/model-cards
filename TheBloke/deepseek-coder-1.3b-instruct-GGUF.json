@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/deepseek-coder-1.3b-instruct-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-05T13:15:17Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "deepseek-coder-1.3b-instruct.Q2_K.gguf",
+            "size": "631705632",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "80648071361b5d0d71457bfabf71c40d7475e1792a988bc7c64f5598ab20e4c1",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/deepseek-coder-1.3b-instruct-GGUF/resolve/main/deepseek-coder-1.3b-instruct.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-1.3b-instruct.Q3_K_L.gguf",
+            "size": "744583200",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "a366d9cb896a7dfdd40b246d616a20ba90ef4be26f6cd4b827399f0d8249fbf5",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/deepseek-coder-1.3b-instruct-GGUF/resolve/main/deepseek-coder-1.3b-instruct.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-1.3b-instruct.Q3_K_M.gguf",
+            "size": "704966688",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ff02a88557469e4ea95500f7a845562bb8b670f119809ec9e71baaab5ed84db6",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/deepseek-coder-1.3b-instruct-GGUF/resolve/main/deepseek-coder-1.3b-instruct.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-1.3b-instruct.Q3_K_S.gguf",
+            "size": "658862112",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "f34a870ebf2a45bff45d3ad228c20519181d2595f21894d7389db4fe4ef5640e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/deepseek-coder-1.3b-instruct-GGUF/resolve/main/deepseek-coder-1.3b-instruct.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-1.3b-instruct.Q4_0.gguf",
+            "size": "776065056",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "73f08c11c669b0659a4d8e5d9860576409a1f24d923076361899846dc2970446",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/deepseek-coder-1.3b-instruct-GGUF/resolve/main/deepseek-coder-1.3b-instruct.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-1.3b-instruct.Q4_K_M.gguf",
+            "size": "873582624",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "04cebb6fafa40ae628cf6bfeb76032ec792852f54020c559ad0a56b9f2839118",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/deepseek-coder-1.3b-instruct-GGUF/resolve/main/deepseek-coder-1.3b-instruct.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-1.3b-instruct.Q4_K_S.gguf",
+            "size": "814796832",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "d29e66f1a3771cddea8e242a426d4de92579b21a4ba0356c4987422ed5b484e8",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/deepseek-coder-1.3b-instruct-GGUF/resolve/main/deepseek-coder-1.3b-instruct.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-1.3b-instruct.Q5_0.gguf",
+            "size": "936103968",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "80d3c4464cf7a77345aa29e926b7ff65ced382ce69e711295599c3e922e50b0f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/deepseek-coder-1.3b-instruct-GGUF/resolve/main/deepseek-coder-1.3b-instruct.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-1.3b-instruct.Q5_K_M.gguf",
+            "size": "1001967648",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "d5dcc2a484498b412b8bf5821b0ef2a7ea2e1984b37d15e14344259068d19a31",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/deepseek-coder-1.3b-instruct-GGUF/resolve/main/deepseek-coder-1.3b-instruct.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-1.3b-instruct.Q5_K_S.gguf",
+            "size": "953012256",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "b352bea6275e29d6c075878d6ae11b08697ed03c6ba978e2be4a362ad050a2c7",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/deepseek-coder-1.3b-instruct-GGUF/resolve/main/deepseek-coder-1.3b-instruct.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-1.3b-instruct.Q6_K.gguf",
+            "size": "1171664928",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "a2048c5d02d3436719d2f452c3aa19f7f96b29b367ae7bc430a509cd870dcab0",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/deepseek-coder-1.3b-instruct-GGUF/resolve/main/deepseek-coder-1.3b-instruct.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-1.3b-instruct.Q8_0.gguf",
+            "size": "1432219680",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "36eb025121a50ee6d37fe900659393ff8fb5ea34adc0e3c11fc635e07624dcdb",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/deepseek-coder-1.3b-instruct-GGUF/resolve/main/deepseek-coder-1.3b-instruct.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

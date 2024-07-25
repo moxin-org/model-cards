@@ -1,0 +1,63 @@
+{
+    "id": "janhq/TenyxChat-7B-v1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "janhq",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-16T03:18:29Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tenyxchat-7b-v1.Q3_K_M.gguf",
+            "size": "2043097088",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e1be15e0068d1a30758e4f31dbc33bb4b01240401415363d621d381c13997d7e",
+            "download": {
+                "default": "https://huggingface.co/janhq/TenyxChat-7B-v1-GGUF/resolve/main/tenyxchat-7b-v1.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "tenyxchat-7b-v1.Q4_K_M.gguf",
+            "size": "4368450784",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e46bcdec51d648b185514f701192381e2a6e40b887719ecaf5eb9f3c2e4eac81",
+            "download": {
+                "default": "https://huggingface.co/janhq/TenyxChat-7B-v1-GGUF/resolve/main/tenyxchat-7b-v1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "tenyxchat-7b-v1.Q5_K_M.gguf",
+            "size": "5131421920",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "9124c316c0759d4472540c415ef49044f2fdd8066f375481c6b5be8a2604422d",
+            "download": {
+                "default": "https://huggingface.co/janhq/TenyxChat-7B-v1-GGUF/resolve/main/tenyxchat-7b-v1.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "tenyxchat-7b-v1.Q8_0.gguf",
+            "size": "7695875232",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "6366bbc83d5198407f583d6ea257b31a89a1f21d20f43498bd6ed5c830fddcf2",
+            "download": {
+                "default": "https://huggingface.co/janhq/TenyxChat-7B-v1-GGUF/resolve/main/tenyxchat-7b-v1.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

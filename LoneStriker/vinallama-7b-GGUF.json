@@ -1,0 +1,113 @@
+{
+    "id": "LoneStriker/vinallama-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LoneStriker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-12T06:48:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "vinallama-7b-Q3_K_L.gguf",
+            "size": "3670671104",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "51b2c284cfe5802f7c5d46e49b993bdc32e507277acdb9eaed32233520f25f9a",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/vinallama-7b-GGUF/resolve/main/vinallama-7b-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "vinallama-7b-Q3_K_M.gguf",
+            "size": "3371564800",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "04b85d71d9e10c5bd26f2e9a3ca57d15f41cc707eec6d825c68946e22130ab64",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/vinallama-7b-GGUF/resolve/main/vinallama-7b-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "vinallama-7b-Q3_K_S.gguf",
+            "size": "3021864704",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "7c802bb7db6576d8889b14f9d6d4c1a33e88aeb0b20a70404947085fe1d4e88f",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/vinallama-7b-GGUF/resolve/main/vinallama-7b-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "vinallama-7b-Q4_K_M.gguf",
+            "size": "4162345184",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "8627fabeb4ad93d18f01fda524863c6514042618b5906cbc41ab2f73b98e10cb",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/vinallama-7b-GGUF/resolve/main/vinallama-7b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "vinallama-7b-Q4_K_S.gguf",
+            "size": "3938080992",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "efc5c2f8ab4424786d5618963f7232740138e4106e33d37fdfde922df62090da",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/vinallama-7b-GGUF/resolve/main/vinallama-7b-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "vinallama-7b-Q5_K_M.gguf",
+            "size": "4871821024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "8bf44a716117eadb6036cb8109a43d6da08360fb7608705cc6edc297ac6977c7",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/vinallama-7b-GGUF/resolve/main/vinallama-7b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "vinallama-7b-Q5_K_S.gguf",
+            "size": "4740355808",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "473d34d3f60d2500d9ad342975388d61810ec1dfd68f76c5dc4dbc41e18b3baf",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/vinallama-7b-GGUF/resolve/main/vinallama-7b-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "vinallama-7b-Q6_K.gguf",
+            "size": "5625639104",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "772f28dba966492814078acf8ef844619a777148bf8b55f84e37e1c6759b2e1a",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/vinallama-7b-GGUF/resolve/main/vinallama-7b-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "vinallama-7b-Q8_0.gguf",
+            "size": "7285911808",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "581fbd07c72dac5bc66af44dcd9c8540621dbedc7bbf6c7bfc936bdd15606eb4",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/vinallama-7b-GGUF/resolve/main/vinallama-7b-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

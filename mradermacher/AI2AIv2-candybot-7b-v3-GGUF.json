@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/AI2AIv2-candybot-7b-v3-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-29T04:41:55Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "AI2AIv2-candybot-7b-v3.IQ3_M.gguf",
+            "size": "3439515392",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "80403497a69423ec6ade5002a0d960d1fe2b4bfd309b6042fd421d8127019c0e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AI2AIv2-candybot-7b-v3-GGUF/resolve/main/AI2AIv2-candybot-7b-v3.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "AI2AIv2-candybot-7b-v3.IQ3_S.gguf",
+            "size": "3337017088",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "4b638b47f885550c1ea886fa511416f4510880fb184297377cdbb274f3065ee4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AI2AIv2-candybot-7b-v3-GGUF/resolve/main/AI2AIv2-candybot-7b-v3.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "AI2AIv2-candybot-7b-v3.IQ3_XS.gguf",
+            "size": "3173439232",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "7b232d41cca591d1ec383bb6166d790b7a176bc69fefd9d76e2db03e5e508fa5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AI2AIv2-candybot-7b-v3-GGUF/resolve/main/AI2AIv2-candybot-7b-v3.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "AI2AIv2-candybot-7b-v3.IQ4_NL.gguf",
+            "size": "4309677824",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "8aa3dde8d282e1289114ab4636ed274678f201e5d3d038909045d7074a630e71",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AI2AIv2-candybot-7b-v3-GGUF/resolve/main/AI2AIv2-candybot-7b-v3.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "AI2AIv2-candybot-7b-v3.IQ4_XS.gguf",
+            "size": "4099012352",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "8013b141cdef8b3824b923e38a4df0836d62292c0a863d23e4eaf1ff9a311cce",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AI2AIv2-candybot-7b-v3-GGUF/resolve/main/AI2AIv2-candybot-7b-v3.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "AI2AIv2-candybot-7b-v3.Q2_K.gguf",
+            "size": "2873865984",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "1c5dbad49b1cb08979980c1b26af73a6fa10ada51854fd64d51811438e8d1082",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AI2AIv2-candybot-7b-v3-GGUF/resolve/main/AI2AIv2-candybot-7b-v3.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "AI2AIv2-candybot-7b-v3.Q3_K_L.gguf",
+            "size": "3976648448",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "2ddfe03d1fe3046deda9a2738406683ec91d2fd4bd91c7ecefed325d3ecc8f93",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AI2AIv2-candybot-7b-v3-GGUF/resolve/main/AI2AIv2-candybot-7b-v3.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "AI2AIv2-candybot-7b-v3.Q3_K_M.gguf",
+            "size": "3673609984",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "2421d070ee61f6e9f7b997e25ac2f6f0a446550ecf4c100cb9754c024ccbb874",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AI2AIv2-candybot-7b-v3-GGUF/resolve/main/AI2AIv2-candybot-7b-v3.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "AI2AIv2-candybot-7b-v3.Q3_K_S.gguf",
+            "size": "3319191296",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "73e92c3a201277b4cc2a7fe6d351c3cd5583f24f092994ec518f3fb3c017845e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AI2AIv2-candybot-7b-v3-GGUF/resolve/main/AI2AIv2-candybot-7b-v3.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "AI2AIv2-candybot-7b-v3.Q4_0.gguf",
+            "size": "4263540480",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "7e16c983fcbc704ccf8255c980a98b14ac52b0b6f4823ab29f93cbe01f565d54",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AI2AIv2-candybot-7b-v3-GGUF/resolve/main/AI2AIv2-candybot-7b-v3.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "AI2AIv2-candybot-7b-v3.Q4_K_M.gguf",
+            "size": "4523063040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "3bcb2bc35bacc21d523d050f06c655b9975c2a85f12879b9c26ae2e9066bb3b5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AI2AIv2-candybot-7b-v3-GGUF/resolve/main/AI2AIv2-candybot-7b-v3.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "AI2AIv2-candybot-7b-v3.Q4_K_S.gguf",
+            "size": "4294997760",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "353ff5acb955de56025a5ca291c1aa8794eaa7113d52abe5e22262fb0a514fe7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AI2AIv2-candybot-7b-v3-GGUF/resolve/main/AI2AIv2-candybot-7b-v3.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "AI2AIv2-candybot-7b-v3.Q5_K_M.gguf",
+            "size": "5286033152",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "1f7f47f61e6977a716fd44ce681c001faf4e0800d198c21fb3d24fb89347e5e6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AI2AIv2-candybot-7b-v3-GGUF/resolve/main/AI2AIv2-candybot-7b-v3.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "AI2AIv2-candybot-7b-v3.Q5_K_S.gguf",
+            "size": "5152339712",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "bdbb2f51b467f3afb7c65c96f275c06e3dff39cd91753a4ecffa9683055f1992",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AI2AIv2-candybot-7b-v3-GGUF/resolve/main/AI2AIv2-candybot-7b-v3.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "AI2AIv2-candybot-7b-v3.Q6_K.gguf",
+            "size": "6096688896",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "68622e5b974a2190e298408e87d4698b74e76862fc77e82602cfcfb8c0bbdbc6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AI2AIv2-candybot-7b-v3-GGUF/resolve/main/AI2AIv2-candybot-7b-v3.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "AI2AIv2-candybot-7b-v3.Q8_0.gguf",
+            "size": "7818737408",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "2c422cd14b17ecf81594fe08ca324561db9d8675d68ed5d2b34549522a31a0f3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/AI2AIv2-candybot-7b-v3-GGUF/resolve/main/AI2AIv2-candybot-7b-v3.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

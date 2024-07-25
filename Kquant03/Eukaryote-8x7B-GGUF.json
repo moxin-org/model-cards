@@ -1,0 +1,103 @@
+{
+    "id": "Kquant03/Eukaryote-8x7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Kquant03",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-17T03:11:50Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-q2_k.gguf",
+            "size": "15644034464",
+            "quantization": "",
+            "tags": [],
+            "sha256": "972b0b886197b8fc95d7e7961c796512b45941eb5b73cdf11f2ca31a0c8a15c9",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/Eukaryote-8x7B-GGUF/resolve/main/ggml-model-q2_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q3_k_m.gguf",
+            "size": "20363355552",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2d884ce5868a6bf7dce6cafa87f55aef5ebe8e68ca6dbab648e9d248d92d481d",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/Eukaryote-8x7B-GGUF/resolve/main/ggml-model-q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_0.gguf",
+            "size": "26441532832",
+            "quantization": "",
+            "tags": [],
+            "sha256": "056586bfefcf1b896c8abbc8376316d8997d149fefb8f67b7484e7476d25a98b",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/Eukaryote-8x7B-GGUF/resolve/main/ggml-model-q4_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_k_m.gguf",
+            "size": "26441532832",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ab067774041dce9474824cbc1fdb299a63a930a791998f13b410b976ba842882",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/Eukaryote-8x7B-GGUF/resolve/main/ggml-model-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_0.gguf",
+            "size": "32229279136",
+            "quantization": "",
+            "tags": [],
+            "sha256": "728aee8967068c8dea6f1dae23f4ec8bf6cac19917d65b74d29fed200b9fb6f6",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/Eukaryote-8x7B-GGUF/resolve/main/ggml-model-q5_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_k_m.gguf",
+            "size": "32229279136",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f350ab9c344fab38db9ffa9b5a81d137f9958bb1dc1ada04d6ab36245062bf87",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/Eukaryote-8x7B-GGUF/resolve/main/ggml-model-q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q6_k.gguf",
+            "size": "38378759584",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9b2c1091c03279dd6979cd39494b5fcb7d2ffefd534549ab735b6bdc38488603",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/Eukaryote-8x7B-GGUF/resolve/main/ggml-model-q6_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q8_0.gguf",
+            "size": "49624262048",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5bb0335ab9b007ba81ed920c8409e878fa525c763d9c5cb435bf3fdfe8c84788",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/Eukaryote-8x7B-GGUF/resolve/main/ggml-model-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

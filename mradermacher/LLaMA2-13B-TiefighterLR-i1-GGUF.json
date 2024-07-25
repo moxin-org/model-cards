@@ -1,0 +1,193 @@
+{
+    "id": "mradermacher/LLaMA2-13B-TiefighterLR-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-05T20:51:03Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "LLaMA2-13B-TiefighterLR.i1-IQ3_XXS.gguf",
+            "size": "5175601152",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "6e97a5e7da6fd167d7162c1c446bb7d2dd580d56d9c178b6e37ba1b8cae153ef",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LLaMA2-13B-TiefighterLR-i1-GGUF/resolve/main/LLaMA2-13B-TiefighterLR.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-TiefighterLR.i1-Q5_K_S.gguf",
+            "size": "9165565952",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "3704f4be11ff739df16e8fbd3b8fc8a96d3d71e215195b0ded27375f33a14b39",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LLaMA2-13B-TiefighterLR-i1-GGUF/resolve/main/LLaMA2-13B-TiefighterLR.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-TiefighterLR.i1-Q5_K_M.gguf",
+            "size": "9423204352",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "235c4cf7af8db4df683a6f0c578257767e2f05e54af5b3ec4ea3a902c7e3fb05",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LLaMA2-13B-TiefighterLR-i1-GGUF/resolve/main/LLaMA2-13B-TiefighterLR.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-TiefighterLR.i1-Q4_K_S.gguf",
+            "size": "7616458752",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "37fcf68f8814a8d45ffa2751dc989f65c83ee92c27e1e894e5553091db2fad3e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LLaMA2-13B-TiefighterLR-i1-GGUF/resolve/main/LLaMA2-13B-TiefighterLR.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-TiefighterLR.i1-Q4_K_M.gguf",
+            "size": "8059236352",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c24a9b11a029e7452fde42a251bea71ca28fbe7fda9e5fd9bad35df03ae992d7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LLaMA2-13B-TiefighterLR-i1-GGUF/resolve/main/LLaMA2-13B-TiefighterLR.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-TiefighterLR.i1-Q3_K_S.gguf",
+            "size": "5852260352",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "2af8f546c0c6e269a995cf936205c187a62b301def7d1d44aec5beea436c883b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LLaMA2-13B-TiefighterLR-i1-GGUF/resolve/main/LLaMA2-13B-TiefighterLR.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-TiefighterLR.i1-Q3_K_M.gguf",
+            "size": "6531049472",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "22e9be7a415badaeee8c7e4eb5b0df2176376bf464caf966ce817052fbdf441b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LLaMA2-13B-TiefighterLR-i1-GGUF/resolve/main/LLaMA2-13B-TiefighterLR.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-TiefighterLR.i1-Q3_K_L.gguf",
+            "size": "7122839552",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "aca6206521ed95c312bcca834afaa8e896af0b8868f45a502596051a6cd84567",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LLaMA2-13B-TiefighterLR-i1-GGUF/resolve/main/LLaMA2-13B-TiefighterLR.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-TiefighterLR.i1-Q2_K.gguf",
+            "size": "5047549952",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "9a8efc68f51fb65dbc669aa60effdfdee0876e1a7abb9e151bb8b0b3bc6a6dc9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LLaMA2-13B-TiefighterLR-i1-GGUF/resolve/main/LLaMA2-13B-TiefighterLR.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-TiefighterLR.i1-IQ1_S.gguf",
+            "size": "3113725952",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "6b719050eaa85a69a30518f68c007a2ae19f65d0cee550a5ce7a1311d5b37878",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LLaMA2-13B-TiefighterLR-i1-GGUF/resolve/main/LLaMA2-13B-TiefighterLR.i1-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-TiefighterLR.i1-IQ3_XS.gguf",
+            "size": "5554890752",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "71adb5d236dd6cd06842941c1b454e3a34652c028f1909b9c7e29e6bb3030e30",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LLaMA2-13B-TiefighterLR-i1-GGUF/resolve/main/LLaMA2-13B-TiefighterLR.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-TiefighterLR.i1-IQ3_S.gguf",
+            "size": "5852260352",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "a7e7a6bb62a7ae2df54d5067e0a2a36a01132dcf89c8cdf0de258932b36ddab2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LLaMA2-13B-TiefighterLR-i1-GGUF/resolve/main/LLaMA2-13B-TiefighterLR.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-TiefighterLR.i1-IQ3_M.gguf",
+            "size": "6177789952",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "8afb610378f7541a6e9e61775a816d826307c576f7fc9e088ea58d218308543c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LLaMA2-13B-TiefighterLR-i1-GGUF/resolve/main/LLaMA2-13B-TiefighterLR.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-TiefighterLR.i1-IQ2_XXS.gguf",
+            "size": "3753521152",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "0f60fef1aa244405db6395a5577d1dff6d2234eebd2207af656b942048499c1b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LLaMA2-13B-TiefighterLR-i1-GGUF/resolve/main/LLaMA2-13B-TiefighterLR.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-TiefighterLR.i1-IQ2_XS.gguf",
+            "size": "4106186752",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "85e0dd8a06850f07dc59862c089f4cfb04e1b2ff9639abe2ec851a2b5f7db199",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LLaMA2-13B-TiefighterLR-i1-GGUF/resolve/main/LLaMA2-13B-TiefighterLR.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-TiefighterLR.i1-IQ2_S.gguf",
+            "size": "4412721152",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "68ec42566af454d5fdc3d5c2cf6131adbd352bc296a3e4f1889ee1e0dcc1e547",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LLaMA2-13B-TiefighterLR-i1-GGUF/resolve/main/LLaMA2-13B-TiefighterLR.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-TiefighterLR.i1-IQ2_M.gguf",
+            "size": "4732618752",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "9f596bfbe9d63434e778b45c8a8e617af1381adb554fd361f0b21f5713e17238",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LLaMA2-13B-TiefighterLR-i1-GGUF/resolve/main/LLaMA2-13B-TiefighterLR.i1-IQ2_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/Synatra-7B-v0.3-dpo-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-18T10:44:02Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "synatra-7b-v0.3-dpo.Q3_K_S.gguf",
+            "size": "3164577728",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "2a5617b395a7004842457e8ddbb711360ad291e91117cd22006875b734b145ed",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Synatra-7B-v0.3-dpo-GGUF/resolve/main/synatra-7b-v0.3-dpo.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "synatra-7b-v0.3-dpo.Q4_K_M.gguf",
+            "size": "4368450560",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "b7ced87359b0838b4326d86e3a44fae56763aa536b42ea39ce60b812ceca64af",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Synatra-7B-v0.3-dpo-GGUF/resolve/main/synatra-7b-v0.3-dpo.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "synatra-7b-v0.3-dpo.Q5_K_M.gguf",
+            "size": "5131421696",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "653ead6ab3257910e65fb52caca9da4e7738a5a7f2f446a9d6e2a7ae5a5e0e46",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Synatra-7B-v0.3-dpo-GGUF/resolve/main/synatra-7b-v0.3-dpo.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "synatra-7b-v0.3-dpo.Q6_K.gguf",
+            "size": "5942078528",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "cf980055800d20384c1f7229ce8f40fdb4d7f149b93b065710cab7681ba1f60d",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Synatra-7B-v0.3-dpo-GGUF/resolve/main/synatra-7b-v0.3-dpo.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "synatra-7b-v0.3-dpo.Q8_0.gguf",
+            "size": "7695875008",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "10d8a44d3aafe64c1eebbfaaa183530c5229caa05978b65c534c7caafd723325",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Synatra-7B-v0.3-dpo-GGUF/resolve/main/synatra-7b-v0.3-dpo.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

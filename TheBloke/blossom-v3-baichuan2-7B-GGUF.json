@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/blossom-v3-baichuan2-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-19T21:36:52Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "blossom-v3-baichuan2-7b.Q2_K.gguf",
+            "size": "3268824480",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "3f7c797b90db84cf3df7de953ac5d1909db9b333942b025d26c505f06edd74d9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/blossom-v3-baichuan2-7B-GGUF/resolve/main/blossom-v3-baichuan2-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "blossom-v3-baichuan2-7b.Q3_K_L.gguf",
+            "size": "4078972320",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "ddf548844a854af5da0c8d50fbd0e518a4ca74c3e386bc03bb9ac03d7195d8c7",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/blossom-v3-baichuan2-7B-GGUF/resolve/main/blossom-v3-baichuan2-7b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "blossom-v3-baichuan2-7b.Q3_K_M.gguf",
+            "size": "3779866016",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "946f694cf388d9d4e40eff11d9175f947d8b6b9bedbfa2a091bcbf286c642bb6",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/blossom-v3-baichuan2-7B-GGUF/resolve/main/blossom-v3-baichuan2-7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "blossom-v3-baichuan2-7b.Q3_K_S.gguf",
+            "size": "3430165920",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "4d88763e6b046d16d450bd61df7f7de0549342acfc9c0429f97472422539c296",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/blossom-v3-baichuan2-7B-GGUF/resolve/main/blossom-v3-baichuan2-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "blossom-v3-baichuan2-7b.Q4_0.gguf",
+            "size": "4358639008",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "8e7087d4b11bf37492c82d545aa24269ec4efdce9a807a4a54ae5093620244e6",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/blossom-v3-baichuan2-7B-GGUF/resolve/main/blossom-v3-baichuan2-7b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "blossom-v3-baichuan2-7b.Q4_K_M.gguf",
+            "size": "4613836192",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "441d1717c3a397db63fe7f55bc0b3dc6112d6d5e51677d1e5ec59a9ccbc126d3",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/blossom-v3-baichuan2-7B-GGUF/resolve/main/blossom-v3-baichuan2-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "blossom-v3-baichuan2-7b.Q4_K_S.gguf",
+            "size": "4389572000",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "ebc1b8665c7b321c61aabb6d629e412cb06a0734cc6e8f7ad5518d5f8f8b79b3",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/blossom-v3-baichuan2-7B-GGUF/resolve/main/blossom-v3-baichuan2-7b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "blossom-v3-baichuan2-7b.Q5_0.gguf",
+            "size": "5232496032",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "b35796896b8c6b72c498ff8bb3c55bb81f8c63d442a091f8a44f9ea40a4da748",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/blossom-v3-baichuan2-7B-GGUF/resolve/main/blossom-v3-baichuan2-7b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "blossom-v3-baichuan2-7b.Q5_K_M.gguf",
+            "size": "5363961248",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "8beadee9485fca0ca875d15d56ebbbae1564b93c3ce2861a66fdbd300becec5e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/blossom-v3-baichuan2-7B-GGUF/resolve/main/blossom-v3-baichuan2-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "blossom-v3-baichuan2-7b.Q5_K_S.gguf",
+            "size": "5232496032",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "b03a1dd9b71dc3ee06e1034e2badc20479151232e2cbb330d2b3a06deb225db6",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/blossom-v3-baichuan2-7B-GGUF/resolve/main/blossom-v3-baichuan2-7b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "blossom-v3-baichuan2-7b.Q6_K.gguf",
+            "size": "6160969120",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "2cdc81537b9fb97f7d459f114674829b49f52700c39ba530ae0d16edc88e1d2c",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/blossom-v3-baichuan2-7B-GGUF/resolve/main/blossom-v3-baichuan2-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "blossom-v3-baichuan2-7b.Q8_0.gguf",
+            "size": "7978757536",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "684521033d095194b976a1e0702862d1d3c89d51404154b08febe4db46257624",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/blossom-v3-baichuan2-7B-GGUF/resolve/main/blossom-v3-baichuan2-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

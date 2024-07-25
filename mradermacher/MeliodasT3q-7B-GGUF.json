@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/MeliodasT3q-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-24T09:04:02Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "MeliodasT3q-7B.IQ3_M.gguf",
+            "size": "3439515392",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "d3959b5f432c496bbb3efa18cddbef900c9a4a70fd8e29a3530307d1f80f180d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MeliodasT3q-7B-GGUF/resolve/main/MeliodasT3q-7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "MeliodasT3q-7B.IQ3_S.gguf",
+            "size": "3337017088",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "9c9b5dc0c62ae30eb18571193ff51985f3a547d78cc297ae45815a46ce692c06",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MeliodasT3q-7B-GGUF/resolve/main/MeliodasT3q-7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "MeliodasT3q-7B.IQ3_XS.gguf",
+            "size": "3173439232",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "786aa4ec830ad5ee18f0b740ce3d1c2c8c033d75b08e4c22e85f062913caf4b6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MeliodasT3q-7B-GGUF/resolve/main/MeliodasT3q-7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "MeliodasT3q-7B.IQ4_NL.gguf",
+            "size": "4309677824",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "0010214c23497a4a16e46cee6f6dec625c8afbd2f74892582aeea138d35d3246",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MeliodasT3q-7B-GGUF/resolve/main/MeliodasT3q-7B.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "MeliodasT3q-7B.IQ4_XS.gguf",
+            "size": "4099012352",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "4fdff70200359e1161cee23fb8c225ff0a1c93259e1a381e3a3917231f23b90a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MeliodasT3q-7B-GGUF/resolve/main/MeliodasT3q-7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "MeliodasT3q-7B.Q2_K.gguf",
+            "size": "2873865984",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "dcd8edde7a4f405bbc8702627908b29059d7309bd0a747f27b633a868114af97",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MeliodasT3q-7B-GGUF/resolve/main/MeliodasT3q-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "MeliodasT3q-7B.Q3_K_L.gguf",
+            "size": "3976648448",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "6938663de1b3752989a9bfff122b45dc66331bc824e237a99e6c18bc3f394cfe",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MeliodasT3q-7B-GGUF/resolve/main/MeliodasT3q-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "MeliodasT3q-7B.Q3_K_M.gguf",
+            "size": "3673609984",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "adca411cfb7dae9e63c6c53a04622526b6a1a775fce6f8a70e116eeb429d926b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MeliodasT3q-7B-GGUF/resolve/main/MeliodasT3q-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "MeliodasT3q-7B.Q3_K_S.gguf",
+            "size": "3319191296",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "00aafcc327461112e00ed5c6d09e91c1ea9caae94bb46912deadd9798519f38a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MeliodasT3q-7B-GGUF/resolve/main/MeliodasT3q-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "MeliodasT3q-7B.Q4_0.gguf",
+            "size": "4263540480",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "9e0f3023546e0a7a19a3566a5c09c8da049bd0fce2175987b33ff890e0857624",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MeliodasT3q-7B-GGUF/resolve/main/MeliodasT3q-7B.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "MeliodasT3q-7B.Q4_K_M.gguf",
+            "size": "4523063040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "802dc2c41d358103eb00b4e413a8b6a01897433037d9744586ab941da5cd4bae",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MeliodasT3q-7B-GGUF/resolve/main/MeliodasT3q-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "MeliodasT3q-7B.Q4_K_S.gguf",
+            "size": "4294997760",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "70059b3b7b7e40aacaef20e0d828c4f8e00f17586097021463aa6b379757d502",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MeliodasT3q-7B-GGUF/resolve/main/MeliodasT3q-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "MeliodasT3q-7B.Q5_K_M.gguf",
+            "size": "5286033152",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "2ee07212455300de80b0ff5eaca573973376ad68f4445f474ea4f1f612bea333",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MeliodasT3q-7B-GGUF/resolve/main/MeliodasT3q-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "MeliodasT3q-7B.Q5_K_S.gguf",
+            "size": "5152339712",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "f597aa33726d42660f086ab1a1f9adb32c1fe9dde6ce7baa211992262681e7e9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MeliodasT3q-7B-GGUF/resolve/main/MeliodasT3q-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "MeliodasT3q-7B.Q6_K.gguf",
+            "size": "6096688896",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b96716d1c25f14ea24780225f7e8dec1301821cf4eeabf89420abd00a0acdee5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MeliodasT3q-7B-GGUF/resolve/main/MeliodasT3q-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "MeliodasT3q-7B.Q8_0.gguf",
+            "size": "7818737408",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "e175cbfba3ba95dd82a462d35e3da4a07a9d249a705eca83c1312620feb69813",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MeliodasT3q-7B-GGUF/resolve/main/MeliodasT3q-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

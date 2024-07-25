@@ -1,0 +1,73 @@
+{
+    "id": "saishf/West-Maid-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "saishf",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-03T01:49:38Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "West-Maid-7B-Q2_K.gguf",
+            "size": "2719241984",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "7373c8c9a9fd5b5bd90515292a336cc6b3f60393f34233f817d3111ab505a45b",
+            "download": {
+                "default": "https://huggingface.co/saishf/West-Maid-7B-GGUF/resolve/main/West-Maid-7B-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "West-Maid-7B-Q3_K_M.gguf",
+            "size": "3518985984",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "fe4d99447cf306a262d50bd3588482a3c4df3b25ef9a780f4ee2e638bcf64ba3",
+            "download": {
+                "default": "https://huggingface.co/saishf/West-Maid-7B-GGUF/resolve/main/West-Maid-7B-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "West-Maid-7B-Q4_K_M.gguf",
+            "size": "4368439040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "1c63c8b9bc6dac1983be5dddd2424631c53a93d7ad7f0dfe85a115c44cf6029c",
+            "download": {
+                "default": "https://huggingface.co/saishf/West-Maid-7B-GGUF/resolve/main/West-Maid-7B-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "West-Maid-7B-Q5_K_M.gguf",
+            "size": "5131409152",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "a3c6d8a3794d6911d6fec6bab4bbac47360c33f21e8f90908bc6851d7ceb6a3f",
+            "download": {
+                "default": "https://huggingface.co/saishf/West-Maid-7B-GGUF/resolve/main/West-Maid-7B-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "West-Maid-7B-Q6_K.gguf",
+            "size": "5942064896",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "0c88e9eea989dd7b4eea0d7b355fdc3329d37305ffd16d75be3f212a23c3d7f1",
+            "download": {
+                "default": "https://huggingface.co/saishf/West-Maid-7B-GGUF/resolve/main/West-Maid-7B-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

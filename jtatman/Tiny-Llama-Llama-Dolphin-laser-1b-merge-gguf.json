@@ -1,0 +1,53 @@
+{
+    "id": "jtatman/Tiny-Llama-Llama-Dolphin-laser-1b-merge-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "jtatman",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-25T16:12:20Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Tiny-Llama-Llama-Dolphin-laser-1b-merge-Q_4_K_M.gguf",
+            "size": "667814560",
+            "quantization": "",
+            "tags": [],
+            "sha256": "53d36838d3911997bb70c21eae86dbf538d44f4b35c5a2590c2cb537a5119276",
+            "download": {
+                "default": "https://huggingface.co/jtatman/Tiny-Llama-Llama-Dolphin-laser-1b-merge-gguf/resolve/main/Tiny-Llama-Llama-Dolphin-laser-1b-merge-Q_4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Tiny-Llama-Llama-Dolphin-laser-1b-merge-Q2_K.gguf",
+            "size": "432130720",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "c68f0b58328d06f320655256cd6ba14fea8d0e1b5e6cc76169df2c595c6e3c60",
+            "download": {
+                "default": "https://huggingface.co/jtatman/Tiny-Llama-Llama-Dolphin-laser-1b-merge-gguf/resolve/main/Tiny-Llama-Llama-Dolphin-laser-1b-merge-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Tiny-Llama-Llama-Dolphin-laser-1b-merge-Q4_0.gguf",
+            "size": "636725920",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "3de70363a09937a0fd770e2b2b255f990b87cf11e1548ddb897c5f6f6e91b4b0",
+            "download": {
+                "default": "https://huggingface.co/jtatman/Tiny-Llama-Llama-Dolphin-laser-1b-merge-gguf/resolve/main/Tiny-Llama-Llama-Dolphin-laser-1b-merge-Q4_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

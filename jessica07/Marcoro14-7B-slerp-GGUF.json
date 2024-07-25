@@ -1,0 +1,43 @@
+{
+    "id": "jessica07/Marcoro14-7B-slerp-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "jessica07",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-20T09:52:45Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "marcoro14-7b-slerp.Q4_K_M.gguf",
+            "size": "4368438912",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "954952873e63b068b6b105719055be81b9fedbc8ed534d2f8df27d111cfd549e",
+            "download": {
+                "default": "https://huggingface.co/jessica07/Marcoro14-7B-slerp-GGUF/resolve/main/marcoro14-7b-slerp.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "marcoro14-7b-slerp.Q5_K_M.gguf",
+            "size": "5131409024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "a11102920cf209e143e467565ef23869be1c851b9c657eb30da4dff129e279ec",
+            "download": {
+                "default": "https://huggingface.co/jessica07/Marcoro14-7B-slerp-GGUF/resolve/main/marcoro14-7b-slerp.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,83 @@
+{
+    "id": "afrideva/GPT-NeoX-1.3B-viet-final-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-09T08:43:58Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "gpt-neox-1.3b-viet-final.q2_k.gguf",
+            "size": "635160160",
+            "quantization": "",
+            "tags": [],
+            "sha256": "931549bb2e7ed7d64d6850aa381cdbb691286ac2fdc0388ad4abf5f97af119bf",
+            "download": {
+                "default": "https://huggingface.co/afrideva/GPT-NeoX-1.3B-viet-final-GGUF/resolve/main/gpt-neox-1.3b-viet-final.q2_k.gguf"
+            }
+        },
+        {
+            "name": "gpt-neox-1.3b-viet-final.q3_k_m.gguf",
+            "size": "789546592",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0d0ac37725cf4c322865094d7b7437d5ca9af8532b9b5059eff533211d5ac12d",
+            "download": {
+                "default": "https://huggingface.co/afrideva/GPT-NeoX-1.3B-viet-final-GGUF/resolve/main/gpt-neox-1.3b-viet-final.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "gpt-neox-1.3b-viet-final.q4_k_m.gguf",
+            "size": "944916064",
+            "quantization": "",
+            "tags": [],
+            "sha256": "75eca76cd9220dd2ebc3845fd7cc2305fef2d5cfbd6c1ae4aa868e853abf0cf7",
+            "download": {
+                "default": "https://huggingface.co/afrideva/GPT-NeoX-1.3B-viet-final-GGUF/resolve/main/gpt-neox-1.3b-viet-final.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "gpt-neox-1.3b-viet-final.q5_k_m.gguf",
+            "size": "1088570976",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f0ad5eda6ff0504318ea4bb2d4c057d99dfd1c4a108d9310925657c0aa0d7756",
+            "download": {
+                "default": "https://huggingface.co/afrideva/GPT-NeoX-1.3B-viet-final-GGUF/resolve/main/gpt-neox-1.3b-viet-final.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "gpt-neox-1.3b-viet-final.q6_k.gguf",
+            "size": "1198589536",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3c911ea1255d67136c0d618912691c6841aadf608d9e2b9bb489fc211957fd7c",
+            "download": {
+                "default": "https://huggingface.co/afrideva/GPT-NeoX-1.3B-viet-final-GGUF/resolve/main/gpt-neox-1.3b-viet-final.q6_k.gguf"
+            }
+        },
+        {
+            "name": "gpt-neox-1.3b-viet-final.q8_0.gguf",
+            "size": "1551074912",
+            "quantization": "",
+            "tags": [],
+            "sha256": "823a6c87329b1fe4c4e6c6df06722720eb8f7b3ed064175ad7fa0849dd02988a",
+            "download": {
+                "default": "https://huggingface.co/afrideva/GPT-NeoX-1.3B-viet-final-GGUF/resolve/main/gpt-neox-1.3b-viet-final.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

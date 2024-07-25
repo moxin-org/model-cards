@@ -1,0 +1,123 @@
+{
+    "id": "TheBloke/Genz-70b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-08-26T16:37:13Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "genz-70b.Q2_K.gguf",
+            "size": "29279253408",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "f914c8469db258440c6eaadd138aa010e61683b0e122d2fc5f02d3b8b69b3d5c",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Genz-70b-GGUF/resolve/main/genz-70b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "genz-70b.Q3_K_L.gguf",
+            "size": "36147835808",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "20ea0e25b1f1513bb0b892358e1c11e17e3ddfa6732f0d0f616ea7395677fbea",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Genz-70b-GGUF/resolve/main/genz-70b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "genz-70b.Q3_K_M.gguf",
+            "size": "33186657184",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "a5c6d9343b1eb5232fe192802726519272bccd82826082ef4da43031fa7b17ad",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Genz-70b-GGUF/resolve/main/genz-70b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "genz-70b.Q3_K_S.gguf",
+            "size": "29919294368",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "a24793b64305f159e2bd6f73e7fff4a4b0e9637a8c0555fa11b0bba739d61780",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Genz-70b-GGUF/resolve/main/genz-70b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "genz-70b.Q4_0.gguf",
+            "size": "38872249248",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "0954e1167137217247caa60edcc50728f6bb7d2a77525b688b0241ee4f36d9cd",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Genz-70b-GGUF/resolve/main/genz-70b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "genz-70b.Q4_K_M.gguf",
+            "size": "41422910368",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "137ef46b61236b96108258b12c58c5ca3203ea1199598f48e392997d88a366c0",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Genz-70b-GGUF/resolve/main/genz-70b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "genz-70b.Q4_K_S.gguf",
+            "size": "39073575840",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "02af887a15725c8130db329b39394602c42048c74a43d81310afe830901e4808",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Genz-70b-GGUF/resolve/main/genz-70b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "genz-70b.Q5_0.gguf",
+            "size": "47461397408",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "9deac9b4d50f15f7ce0c8c849cde049a9f8818366a0a4d30f46128af64a9d846",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Genz-70b-GGUF/resolve/main/genz-70b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "genz-70b.Q5_K_M.gguf",
+            "size": "48753767328",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "fbe9efaef254ff5b5a6599d5581e6a3e5d8ba4c2b007f9277f1b01edb0c76199",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Genz-70b-GGUF/resolve/main/genz-70b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "genz-70b.Q5_K_S.gguf",
+            "size": "47461397408",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "d2419664559e1b9d3d921522882b2ffb0708a24b0397ebf6831d4cd35d21f336",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Genz-70b-GGUF/resolve/main/genz-70b.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

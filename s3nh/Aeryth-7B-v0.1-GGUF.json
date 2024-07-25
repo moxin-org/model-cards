@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/Aeryth-7B-v0.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-15T09:27:38Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "aeryth-7b-v0.1.Q3_K_S.gguf",
+            "size": "3164567712",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "f76bc97f8502c8ab13c3342db01f2261ada7076405e20f99260de5943c1217fc",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Aeryth-7B-v0.1-GGUF/resolve/main/aeryth-7b-v0.1.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "aeryth-7b-v0.1.Q4_K_M.gguf",
+            "size": "4368439456",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "04393ec3cd284bd264ceb5cc88bf0f8cd24e2d3e6428d0de7e9af626273bb9db",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Aeryth-7B-v0.1-GGUF/resolve/main/aeryth-7b-v0.1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "aeryth-7b-v0.1.Q5_K_M.gguf",
+            "size": "5131409568",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ade1222202d7925bf9bccc6f8838c2ae68f13015258dbed92b02f1270e4207f0",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Aeryth-7B-v0.1-GGUF/resolve/main/aeryth-7b-v0.1.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "aeryth-7b-v0.1.Q6_K.gguf",
+            "size": "5942065312",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "3d9bbc272629d71a87c421ed8eae343bf0b748493d1cb3e6e130e9787cb5f80a",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Aeryth-7B-v0.1-GGUF/resolve/main/aeryth-7b-v0.1.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "aeryth-7b-v0.1.Q8_0.gguf",
+            "size": "7695857824",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "53f04adb8e7224fad5376249a32e53eb7ad98504a996adc23293e31d1857655a",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Aeryth-7B-v0.1-GGUF/resolve/main/aeryth-7b-v0.1.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

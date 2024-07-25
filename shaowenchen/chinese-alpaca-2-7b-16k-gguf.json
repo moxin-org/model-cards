@@ -1,0 +1,173 @@
+{
+    "id": "shaowenchen/chinese-alpaca-2-7b-16k-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "shaowenchen",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-08T04:50:45Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "chinese-alpaca-2-7b-16k.gguf",
+            "size": "13860294112",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5253f49af145765eadd2cc59690bd500a789eabfe3e74258fc9ea5dd6ce9ee30",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/chinese-alpaca-2-7b-16k-gguf/resolve/main/chinese-alpaca-2-7b-16k.gguf"
+            }
+        },
+        {
+            "name": "chinese-alpaca-2-7b-16k.Q2_K.gguf",
+            "size": "2936032800",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "6d2f53e19377100339b744d09fcdcdfa7183d24b78b441d07b3880c6efdc399f",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/chinese-alpaca-2-7b-16k-gguf/resolve/main/chinese-alpaca-2-7b-16k.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "chinese-alpaca-2-7b-16k.Q3_K_L.gguf",
+            "size": "3716894240",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "fc5c29b3720e8928b1016187ef40dd5f5bb9246f3d28d64dee3be4a627f5036a",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/chinese-alpaca-2-7b-16k-gguf/resolve/main/chinese-alpaca-2-7b-16k.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "chinese-alpaca-2-7b-16k.Q3_K_S.gguf",
+            "size": "3068087840",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "d93b6324ac9b39caf598ba9b57b3351b7588f413fcb684756915f3608aa55e4f",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/chinese-alpaca-2-7b-16k-gguf/resolve/main/chinese-alpaca-2-7b-16k.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "chinese-alpaca-2-7b-16k.Q3_K.gguf",
+            "size": "3417787936",
+            "quantization": "Q3_K",
+            "tags": [],
+            "sha256": "e2a3ebb86bf93ef2ec540a429c525354c3e9c94c652d11effd20e35e778682f6",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/chinese-alpaca-2-7b-16k-gguf/resolve/main/chinese-alpaca-2-7b-16k.Q3_K.gguf"
+            }
+        },
+        {
+            "name": "chinese-alpaca-2-7b-16k.Q4_0.gguf",
+            "size": "3958263328",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "03c8268e5ebb2179efc8f8a090b1ef61592e71a70d21041d76eebaa6056cee3f",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/chinese-alpaca-2-7b-16k-gguf/resolve/main/chinese-alpaca-2-7b-16k.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "chinese-alpaca-2-7b-16k.Q4_1.gguf",
+            "size": "4377169440",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "dc6b58b7b11111c7f25c7681d6239a9b671c0bb443b296b2fa2e00ff5ea30368",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/chinese-alpaca-2-7b-16k-gguf/resolve/main/chinese-alpaca-2-7b-16k.Q4_1.gguf"
+            }
+        },
+        {
+            "name": "chinese-alpaca-2-7b-16k.Q4_K_S.gguf",
+            "size": "3989196320",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "a096e1dc0e2f48a428ae540a355392daf2d4bf105c5ad900e83181a7b97cff32",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/chinese-alpaca-2-7b-16k-gguf/resolve/main/chinese-alpaca-2-7b-16k.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "chinese-alpaca-2-7b-16k.Q4_K.gguf",
+            "size": "4213460512",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "26261d868b9bdb9a9ce8cd8f696240b675b6311ba4235f8d3fe87ff2eb132f4e",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/chinese-alpaca-2-7b-16k-gguf/resolve/main/chinese-alpaca-2-7b-16k.Q4_K.gguf"
+            }
+        },
+        {
+            "name": "chinese-alpaca-2-7b-16k.Q5_0.gguf",
+            "size": "4796075552",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "8768fa4121619202017a79c563de44ff9a492e0086ffe2db43c9959da92ee3a2",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/chinese-alpaca-2-7b-16k-gguf/resolve/main/chinese-alpaca-2-7b-16k.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "chinese-alpaca-2-7b-16k.Q5_1.gguf",
+            "size": "5214981664",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "4245225ab47cc2efed40808645c5d119495e5f38d3b2334ce4a08615e845d284",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/chinese-alpaca-2-7b-16k-gguf/resolve/main/chinese-alpaca-2-7b-16k.Q5_1.gguf"
+            }
+        },
+        {
+            "name": "chinese-alpaca-2-7b-16k.Q5_K_S.gguf",
+            "size": "4796075552",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "e6955405c00ade27929e25da328671f69eaca7e3c50bf562baf367cfe8b61ce6",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/chinese-alpaca-2-7b-16k-gguf/resolve/main/chinese-alpaca-2-7b-16k.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "chinese-alpaca-2-7b-16k.Q5_K.gguf",
+            "size": "4927540768",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "79a9e4d6511850298c50bfbcd2baf81333638d55cc2bfe498974d96357bee3c8",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/chinese-alpaca-2-7b-16k-gguf/resolve/main/chinese-alpaca-2-7b-16k.Q5_K.gguf"
+            }
+        },
+        {
+            "name": "chinese-alpaca-2-7b-16k.Q6_K.gguf",
+            "size": "5686251040",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "cd073f81de2e9c74343c01507ac62d2916efb796a6c7ad98b29fc91e1ceb30b8",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/chinese-alpaca-2-7b-16k-gguf/resolve/main/chinese-alpaca-2-7b-16k.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "chinese-alpaca-2-7b-16k.Q8_0.gguf",
+            "size": "7364365856",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "7c3e53e9ff168674849211aaa30260bb3f031fe7bd95a99b4c91503e3939fbcb",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/chinese-alpaca-2-7b-16k-gguf/resolve/main/chinese-alpaca-2-7b-16k.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

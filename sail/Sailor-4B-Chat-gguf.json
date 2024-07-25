@@ -1,0 +1,133 @@
+{
+    "id": "sail/Sailor-4B-Chat-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "sail",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-03T05:23:02Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-f16.gguf",
+            "size": "7907723776",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b155c7d309f2f2cfcecb75b0e6efc41e1097b16987af6c73da9c9d1fcbddc8c0",
+            "download": {
+                "default": "https://huggingface.co/sail/Sailor-4B-Chat-gguf/resolve/main/ggml-model-f16.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q2_K.gguf",
+            "size": "1620632608",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "dfdd724dee13270537bb847ee39b4696973e32534c23554f01ace522f1f7bb19",
+            "download": {
+                "default": "https://huggingface.co/sail/Sailor-4B-Chat-gguf/resolve/main/ggml-model-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q3_K_L.gguf",
+            "size": "2174798368",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "d817f97f6a101aeec41528c46bc16653a90e65f79f2e52076af937a8e25e9f39",
+            "download": {
+                "default": "https://huggingface.co/sail/Sailor-4B-Chat-gguf/resolve/main/ggml-model-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q3_K_M.gguf",
+            "size": "2026850848",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "f402db88ed5ae498c8fcb8248a0f497090744a58f69266d8a74425e2352d27fc",
+            "download": {
+                "default": "https://huggingface.co/sail/Sailor-4B-Chat-gguf/resolve/main/ggml-model-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q3_K_S.gguf",
+            "size": "1857153568",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "589262cfb7007328add409a2647999a61c69c901336fb8ebdcfab46f77dcb8e0",
+            "download": {
+                "default": "https://huggingface.co/sail/Sailor-4B-Chat-gguf/resolve/main/ggml-model-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q4_K_M.gguf",
+            "size": "2455115808",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "46ad341b01601be4a4bb62ad48bc2ed467aa3bafc73b56d1e2db28bc21832405",
+            "download": {
+                "default": "https://huggingface.co/sail/Sailor-4B-Chat-gguf/resolve/main/ggml-model-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q4_K_S.gguf",
+            "size": "2344421408",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "3b9965cb9a6dd54cc363edd8fde8f49afb8e203fe15b85d1f67a16403e13ba01",
+            "download": {
+                "default": "https://huggingface.co/sail/Sailor-4B-Chat-gguf/resolve/main/ggml-model-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q5_K_M.gguf",
+            "size": "2839607328",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "d231d4d7f3b5023d565a4926e6cb81b566bcf20c99589622c06d1f3154ede2fd",
+            "download": {
+                "default": "https://huggingface.co/sail/Sailor-4B-Chat-gguf/resolve/main/ggml-model-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q5_K_S.gguf",
+            "size": "2775197728",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "dc4649997f0f152632118a30ab83e4cbba4167b8a22f2843cd2a43a48f839ed6",
+            "download": {
+                "default": "https://huggingface.co/sail/Sailor-4B-Chat-gguf/resolve/main/ggml-model-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q6_K.gguf",
+            "size": "3248129568",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "26ccd06b962246be0fa5e4080266eda72eb62b0b909cf73484253606587f1fa7",
+            "download": {
+                "default": "https://huggingface.co/sail/Sailor-4B-Chat-gguf/resolve/main/ggml-model-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q8_0.gguf",
+            "size": "4204735008",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "d41033345bb7133133bc1e0c8f874f0f460be45fa0854ff12a0d8e4c9975ca5b",
+            "download": {
+                "default": "https://huggingface.co/sail/Sailor-4B-Chat-gguf/resolve/main/ggml-model-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

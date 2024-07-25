@@ -1,0 +1,143 @@
+{
+    "id": "bartowski/Mistral-Evolved-11b-v0.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bartowski",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-17T14:27:35Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Mistral-Evolved-11b-v0.1-Q2_K.gguf",
+            "size": "4163730624",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "3ef237b4daa22c4b0e84b864c19b0607a765d2b5f9a0197be35e94e746c8a8cb",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Mistral-Evolved-11b-v0.1-GGUF/resolve/main/Mistral-Evolved-11b-v0.1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Mistral-Evolved-11b-v0.1-Q3_K_L.gguf",
+            "size": "5879340224",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "0f2db1038d4bcf9ca3a83de426eda609ef97bbb99885f990678d9479c54f8c47",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Mistral-Evolved-11b-v0.1-GGUF/resolve/main/Mistral-Evolved-11b-v0.1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Mistral-Evolved-11b-v0.1-Q3_K_M.gguf",
+            "size": "5404335296",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "2307cb920ff28a0462cb1de202ca6409231c27004c902efe8701a77057fe1392",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Mistral-Evolved-11b-v0.1-GGUF/resolve/main/Mistral-Evolved-11b-v0.1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mistral-Evolved-11b-v0.1-Q3_K_S.gguf",
+            "size": "4852063424",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "028746f4b500c2ee49ff02d3a3fae09406926a19e17fe5f1aa10be2ac2ea9852",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Mistral-Evolved-11b-v0.1-GGUF/resolve/main/Mistral-Evolved-11b-v0.1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mistral-Evolved-11b-v0.1-Q4_0.gguf",
+            "size": "6317817024",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "c7d2503031706138def4fe7ee9a1dbf8a208038361b3a1485118403256f902a2",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Mistral-Evolved-11b-v0.1-GGUF/resolve/main/Mistral-Evolved-11b-v0.1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Mistral-Evolved-11b-v0.1-Q4_K_M.gguf",
+            "size": "6723321024",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4902163b2d4e51abe583dc807d8be1d0e5e5b19a6cfee4f0dd317aec0d559b0f",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Mistral-Evolved-11b-v0.1-GGUF/resolve/main/Mistral-Evolved-11b-v0.1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mistral-Evolved-11b-v0.1-Q4_K_S.gguf",
+            "size": "6363954368",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "f5cfe5bd737d06760b24437f91ea9ffda5225702477853eddcf6e27791c30595",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Mistral-Evolved-11b-v0.1-GGUF/resolve/main/Mistral-Evolved-11b-v0.1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mistral-Evolved-11b-v0.1-Q5_0.gguf",
+            "size": "7697349824",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "7008af0d2abb29578c68d14a4c16ebfe7dabe7513bb11f91c3bab1ee25a82158",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Mistral-Evolved-11b-v0.1-GGUF/resolve/main/Mistral-Evolved-11b-v0.1-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Mistral-Evolved-11b-v0.1-Q5_K_M.gguf",
+            "size": "7906245824",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "fe1adbb300df5ddeb2197141e26c1f35c7de154bdcaa5f9fe039eb161655208e",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Mistral-Evolved-11b-v0.1-GGUF/resolve/main/Mistral-Evolved-11b-v0.1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mistral-Evolved-11b-v0.1-Q5_K_S.gguf",
+            "size": "7697349824",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "fdb38db51eddfddb485a51bdd729a895c15b9d00d3bd2eb721bad2b2e3011d81",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Mistral-Evolved-11b-v0.1-GGUF/resolve/main/Mistral-Evolved-11b-v0.1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mistral-Evolved-11b-v0.1-Q6_K.gguf",
+            "size": "9163103424",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "36943f45ba1e9e171f2e99005301b6146865891d701b30cfc7c93d038bd2b150",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Mistral-Evolved-11b-v0.1-GGUF/resolve/main/Mistral-Evolved-11b-v0.1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Mistral-Evolved-11b-v0.1-Q8_0.gguf",
+            "size": "11867692224",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "02f6bd9ea36909298c88dc83e25329c8a56d23791d72cf6c54955293bbacddf8",
+            "download": {
+                "default": "https://huggingface.co/bartowski/Mistral-Evolved-11b-v0.1-GGUF/resolve/main/Mistral-Evolved-11b-v0.1-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,113 @@
+{
+    "id": "LoneStriker/DeepMagic-Coder-7b-Alt-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LoneStriker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-07T14:44:22Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "DeepMagic-Coder-7b-Alt-Q3_K_L.gguf",
+            "size": "3598983488",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "8b5cfab2da3f088bbd3b7fee3401b4b5ce5c61d92dfaf156f00930b2c22f21aa",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/DeepMagic-Coder-7b-Alt-GGUF/resolve/main/DeepMagic-Coder-7b-Alt-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "DeepMagic-Coder-7b-Alt-Q3_K_M.gguf",
+            "size": "3299877184",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "cf9e35d02d47442beff28ab931bd76c180abf01899dccecde912e8410da2c797",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/DeepMagic-Coder-7b-Alt-GGUF/resolve/main/DeepMagic-Coder-7b-Alt-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "DeepMagic-Coder-7b-Alt-Q3_K_S.gguf",
+            "size": "2950177088",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "c0871dd56beb930f13dab8111b84d4847f86b5d48e27c6428daa7cd708b3ce2c",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/DeepMagic-Coder-7b-Alt-GGUF/resolve/main/DeepMagic-Coder-7b-Alt-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "DeepMagic-Coder-7b-Alt-Q4_K_M.gguf",
+            "size": "4083016000",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "41fb366032d4fae6be99c786bde60032a01fbb8671eaa6e85567e96cf29c4d45",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/DeepMagic-Coder-7b-Alt-GGUF/resolve/main/DeepMagic-Coder-7b-Alt-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "DeepMagic-Coder-7b-Alt-Q4_K_S.gguf",
+            "size": "3858751808",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "41c28bfab4921196b18d7f63895fb50ecfda70caccaed9d869ded1928ea3cb73",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/DeepMagic-Coder-7b-Alt-GGUF/resolve/main/DeepMagic-Coder-7b-Alt-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "DeepMagic-Coder-7b-Alt-Q5_K_M.gguf",
+            "size": "4785299776",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ab70e6731aaaa62e677de61466181b7205ca7508b15216d06afb08b96ef44833",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/DeepMagic-Coder-7b-Alt-GGUF/resolve/main/DeepMagic-Coder-7b-Alt-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "DeepMagic-Coder-7b-Alt-Q5_K_S.gguf",
+            "size": "4653834560",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "039ed39c30564e54ab0f1d94eea496b8fd86e863a95d25c03ff2fee07f3abf1e",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/DeepMagic-Coder-7b-Alt-GGUF/resolve/main/DeepMagic-Coder-7b-Alt-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "DeepMagic-Coder-7b-Alt-Q6_K.gguf",
+            "size": "5531476288",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "22a73fc795ef272afa30ec3b3e765e826e166cef343133e3f4dcca8b18fd60f0",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/DeepMagic-Coder-7b-Alt-GGUF/resolve/main/DeepMagic-Coder-7b-Alt-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "DeepMagic-Coder-7b-Alt-Q8_0.gguf",
+            "size": "7163879744",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "351e6d1a2f12b4ef3b425f33a9c1a55429d0b969f634f8a877b338ae2f0e119b",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/DeepMagic-Coder-7b-Alt-GGUF/resolve/main/DeepMagic-Coder-7b-Alt-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,123 @@
+{
+    "id": "PsiPi/liuhaotian_llava-v1.5-13b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "PsiPi",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-01T14:23:26Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llava-v1.5-13b-f16.gguf",
+            "size": "26033303488",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1278b3a1b77905280ebec8f810c6afee7b474a494ed4895c23036994e8ebc64e",
+            "download": {
+                "default": "https://huggingface.co/PsiPi/liuhaotian_llava-v1.5-13b-GGUF/resolve/main/llava-v1.5-13b-f16.gguf"
+            }
+        },
+        {
+            "name": "llava-v1.5-13b-Q2_K.gguf",
+            "size": "5429348320",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "c303b02ff9cb151df67790db7f2f8eeffe7c3640376694b482d6373ff716f67a",
+            "download": {
+                "default": "https://huggingface.co/PsiPi/liuhaotian_llava-v1.5-13b-GGUF/resolve/main/llava-v1.5-13b-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "llava-v1.5-13b-Q4_0.gguf",
+            "size": "7365834720",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "3cb2baafd1f6ca9975492a243dc04eabdbe4b617cf7020a6e064fdd846125480",
+            "download": {
+                "default": "https://huggingface.co/PsiPi/liuhaotian_llava-v1.5-13b-GGUF/resolve/main/llava-v1.5-13b-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "llava-v1.5-13b-Q5_K_M.gguf",
+            "size": "9229924320",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "9092055678bd6c2feaab8281a0f2a3431ed19c4ed78812252fb87da8adf4f9e1",
+            "download": {
+                "default": "https://huggingface.co/PsiPi/liuhaotian_llava-v1.5-13b-GGUF/resolve/main/llava-v1.5-13b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "llava-v1.5-13b-Q6_K.gguf",
+            "size": "10679140320",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "89d9a95a45f844e3df71cbe26fe2ca6691cc7e7317cfab528f04c0f61d185d78",
+            "download": {
+                "default": "https://huggingface.co/PsiPi/liuhaotian_llava-v1.5-13b-GGUF/resolve/main/llava-v1.5-13b-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "llava-v1.5-13b-Q8_0.gguf",
+            "size": "13831319488",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "f77f13915f34a7f1f6cd0a4d3eee40e598557b4dcc7c50fdd254da9497850d8b",
+            "download": {
+                "default": "https://huggingface.co/PsiPi/liuhaotian_llava-v1.5-13b-GGUF/resolve/main/llava-v1.5-13b-Q8_0.gguf"
+            }
+        },
+        {
+            "name": "mmproj-model-f16.gguf",
+            "size": "645414048",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0af93a69825fd741ffdc7c002dcd47d045c795dd55f73a3e08afa484aff1bcd3",
+            "download": {
+                "default": "https://huggingface.co/PsiPi/liuhaotian_llava-v1.5-13b-GGUF/resolve/main/mmproj-model-f16.gguf"
+            }
+        },
+        {
+            "name": "mmproj-model-Q4_0.gguf",
+            "size": "183322368",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "53c6bb76ec6e9760fbcdb1e726021e90d5be66c389d6d3c43bd87c7fe53734c2",
+            "download": {
+                "default": "https://huggingface.co/PsiPi/liuhaotian_llava-v1.5-13b-GGUF/resolve/main/mmproj-model-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "mmproj-model-Q5_0.gguf",
+            "size": "344049920",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "ffe9117a2bef968f852f4795c02cf45a9e86833c92d702dfab2e52d5bc711ac6",
+            "download": {
+                "default": "https://huggingface.co/PsiPi/liuhaotian_llava-v1.5-13b-GGUF/resolve/main/mmproj-model-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "mmproj-model-Q8_0.gguf",
+            "size": "243595200",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "f4d127428c1b1a7828926404fa5d3e3683b8fe40a355b2a59dc2c4850c0bef8a",
+            "download": {
+                "default": "https://huggingface.co/PsiPi/liuhaotian_llava-v1.5-13b-GGUF/resolve/main/mmproj-model-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/tora-13B-v1.0-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-14T19:30:20Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tora-13b-v1.0.Q2_K.gguf",
+            "size": "5429354176",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "ed0d271092e05b0e25e5177b30354f024b53ab6acaf17c0525794a48d883ad5e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/tora-13B-v1.0-GGUF/resolve/main/tora-13b-v1.0.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "tora-13b-v1.0.Q3_K_L.gguf",
+            "size": "6929565888",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "6586b2a0caf9d00ee0618ad8478134e7703b7527398dbbd58281b6ec34b4b39e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/tora-13B-v1.0-GGUF/resolve/main/tora-13b-v1.0.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "tora-13b-v1.0.Q3_K_M.gguf",
+            "size": "6337775808",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "04e15c79ece96b2ee898d7a34f9f4cac51194835836dd76b31ec9f8f7dc78838",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/tora-13B-v1.0-GGUF/resolve/main/tora-13b-v1.0.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "tora-13b-v1.0.Q3_K_S.gguf",
+            "size": "5658986688",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "debce79e2a9d8493f94e71003ef0c166af366e784e307041c0c8a292e988ce81",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/tora-13B-v1.0-GGUF/resolve/main/tora-13b-v1.0.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "tora-13b-v1.0.Q4_0.gguf",
+            "size": "7365841760",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "627dd5fea99a05c1c23edca07dd4c028218d3b7881563fa6208be4365714c0ae",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/tora-13B-v1.0-GGUF/resolve/main/tora-13b-v1.0.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "tora-13b-v1.0.Q4_K_M.gguf",
+            "size": "7865963360",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "ac6ef03328b88e10bdbf0882aadc769441936d5e034e521caa156edc83861666",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/tora-13B-v1.0-GGUF/resolve/main/tora-13b-v1.0.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "tora-13b-v1.0.Q4_K_S.gguf",
+            "size": "7414338400",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "3c3b18fafa75175e9357e8ab95a6d28a4c0ced105fbeffac5ca3ae09ecaeda35",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/tora-13B-v1.0-GGUF/resolve/main/tora-13b-v1.0.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "tora-13b-v1.0.Q5_0.gguf",
+            "size": "8972293600",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "61f9b5fa7c9990a9ea002d0939a4f825d26d9693e1a217db7b9f31dc9ca234c9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/tora-13B-v1.0-GGUF/resolve/main/tora-13b-v1.0.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "tora-13b-v1.0.Q5_K_M.gguf",
+            "size": "9229932000",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "8339b39a40e79a690d2819304db15d11315155418f2481eadb610c5388449a0b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/tora-13B-v1.0-GGUF/resolve/main/tora-13b-v1.0.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "tora-13b-v1.0.Q5_K_S.gguf",
+            "size": "8972293600",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "3d5cf0b1a2e92ede2cca83103a05cb3e8a1a9ee51b5e41a29bc1085ae118ab54",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/tora-13B-v1.0-GGUF/resolve/main/tora-13b-v1.0.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "tora-13b-v1.0.Q6_K.gguf",
+            "size": "10679148704",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "afb47ef9f13a31b9ef7451eb9642d995d22ac6214be4eb5e74e882ee51cc1c9b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/tora-13B-v1.0-GGUF/resolve/main/tora-13b-v1.0.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "tora-13b-v1.0.Q8_0.gguf",
+            "size": "13831330336",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "3830dc1d56e7ca96bcffbc17fcd9c756af5bf02015f4a125f8d736dfc4de6949",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/tora-13B-v1.0-GGUF/resolve/main/tora-13b-v1.0.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

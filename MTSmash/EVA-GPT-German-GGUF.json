@@ -1,0 +1,53 @@
+{
+    "id": "MTSmash/EVA-GPT-German-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "MTSmash",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-21T13:09:29Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "EVA-GPT-German-V5.7.7-f16.gguf",
+            "size": "14484780864",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0fbb263cda24e84fd3657ef782a6622f936cc66a6f5314e4e544095381126dd9",
+            "download": {
+                "default": "https://huggingface.co/MTSmash/EVA-GPT-German-GGUF/resolve/main/EVA-GPT-German-V5.7.7-f16.gguf"
+            }
+        },
+        {
+            "name": "EVA-GPT-German-V5.7.7-q4_k_m.gguf",
+            "size": "4368456160",
+            "quantization": "",
+            "tags": [],
+            "sha256": "eca88f0c138b0cebc4faf3e81d058c1b5d39d906f1f9fce54e45ebd2be3a2328",
+            "download": {
+                "default": "https://huggingface.co/MTSmash/EVA-GPT-German-GGUF/resolve/main/EVA-GPT-German-V5.7.7-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "EVA-GPT-German-V5.7.7-q8_0.gguf",
+            "size": "7695883648",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8f0d305adba1cb02a364661b91ef93928d9638dfff512a09a473fdad7ec86f21",
+            "download": {
+                "default": "https://huggingface.co/MTSmash/EVA-GPT-German-GGUF/resolve/main/EVA-GPT-German-V5.7.7-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

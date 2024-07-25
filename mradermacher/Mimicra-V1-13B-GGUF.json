@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Mimicra-V1-13B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-18T03:48:50Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Mimicra-V1-13B.IQ3_M.gguf",
+            "size": "6177789888",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "6349bd92c6650717fac94fe3e5adf2efe3791e6694413a81c697fea99cff6c49",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mimicra-V1-13B-GGUF/resolve/main/Mimicra-V1-13B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Mimicra-V1-13B.IQ3_S.gguf",
+            "size": "5852260288",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "afb427710cfb009720366a0daf95950cfac221888e25b55f6ac05fb70f8fb22d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mimicra-V1-13B-GGUF/resolve/main/Mimicra-V1-13B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Mimicra-V1-13B.IQ3_XS.gguf",
+            "size": "5554890688",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "c8da05f58774b1610577ec4b78b73b0ed69c128dc1084a798ba51dabeedea78a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mimicra-V1-13B-GGUF/resolve/main/Mimicra-V1-13B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Mimicra-V1-13B.IQ4_XS.gguf",
+            "size": "7212797888",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "7bc4776deb836a6b7557e264b60677fd16e64ec2dd2ac7d6dc9436f6a9ef1cbb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mimicra-V1-13B-GGUF/resolve/main/Mimicra-V1-13B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Mimicra-V1-13B.Q2_K.gguf",
+            "size": "5047549888",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "9d52e38f716cc430b8b90f24e988d288c9b5dfb95e0ffc41dd845fc0e8eb7823",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mimicra-V1-13B-GGUF/resolve/main/Mimicra-V1-13B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Mimicra-V1-13B.Q3_K_L.gguf",
+            "size": "7122839488",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "734cb8ad535b8428df3903b4d285afea2d25161f08c158f9c29893d749a910f5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mimicra-V1-13B-GGUF/resolve/main/Mimicra-V1-13B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Mimicra-V1-13B.Q3_K_M.gguf",
+            "size": "6531049408",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "8b19bb398aa738b14a068bec13d4e17639487dfb248de6fee41bfed8b83ceb17",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mimicra-V1-13B-GGUF/resolve/main/Mimicra-V1-13B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mimicra-V1-13B.Q3_K_S.gguf",
+            "size": "5852260288",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "1561a728812bc3cf6217afdfc5fb2163a211023522dffb745c1b05440a6126db",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mimicra-V1-13B-GGUF/resolve/main/Mimicra-V1-13B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mimicra-V1-13B.Q4_K_M.gguf",
+            "size": "8059236288",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a5004f7c51a17fd8e815a1ac6784cccee1f29dd6fcc796b63cf4f36246878000",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mimicra-V1-13B-GGUF/resolve/main/Mimicra-V1-13B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mimicra-V1-13B.Q4_K_S.gguf",
+            "size": "7616458688",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "fd7ba0d585b5338b9c84886f7250bd3ed258e1b88f90e819484c599eec3acd31",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mimicra-V1-13B-GGUF/resolve/main/Mimicra-V1-13B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mimicra-V1-13B.Q5_K_M.gguf",
+            "size": "9423204288",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "cb35286a15c75b5089310485eefaf87a77bf65de09e955c257faf081413c53a5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mimicra-V1-13B-GGUF/resolve/main/Mimicra-V1-13B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mimicra-V1-13B.Q5_K_S.gguf",
+            "size": "9165565888",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "43608e845edc96daabc5cb7e85a4a1fc48a519119d62b3dcda31c30d949f43dd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mimicra-V1-13B-GGUF/resolve/main/Mimicra-V1-13B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mimicra-V1-13B.Q6_K.gguf",
+            "size": "10872420288",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "8f80a5e7a4b6a74e358902d45d0e3bb9eec1705fa6aaef6dbd5343701fab443e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mimicra-V1-13B-GGUF/resolve/main/Mimicra-V1-13B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Mimicra-V1-13B.Q8_0.gguf",
+            "size": "13984919488",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "799fe556a1c1af8b39576ed4ad3ccc084510d7054d4cc8fa81ab23b4c5724b88",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mimicra-V1-13B-GGUF/resolve/main/Mimicra-V1-13B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

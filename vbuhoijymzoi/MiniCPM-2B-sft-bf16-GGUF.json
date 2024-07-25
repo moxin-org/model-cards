@@ -1,0 +1,83 @@
+{
+    "id": "vbuhoijymzoi/MiniCPM-2B-sft-bf16-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "vbuhoijymzoi",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-10T08:13:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "minicpm-2b-sft-bf16.fp16.gguf",
+            "size": "5452991648",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b2deef286a0a9dcc1eca81db71c73664ca14a7e9a7870248745137684955465f",
+            "download": {
+                "default": "https://huggingface.co/vbuhoijymzoi/MiniCPM-2B-sft-bf16-GGUF/resolve/main/minicpm-2b-sft-bf16.fp16.gguf"
+            }
+        },
+        {
+            "name": "minicpm-2b-sft-bf16.Q3_K_L.gguf",
+            "size": "1453891488",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "e62e080f2b91781d7930582fd88b5f2d3b900e367532fd412619bd7187124ea7",
+            "download": {
+                "default": "https://huggingface.co/vbuhoijymzoi/MiniCPM-2B-sft-bf16-GGUF/resolve/main/minicpm-2b-sft-bf16.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "minicpm-2b-sft-bf16.Q4_K_M.gguf",
+            "size": "1729503200",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5f47c6de2d5fb96b22d79492327dcad6f5e8f8011b4a0eeabf2d0501c47ed6ab",
+            "download": {
+                "default": "https://huggingface.co/vbuhoijymzoi/MiniCPM-2B-sft-bf16-GGUF/resolve/main/minicpm-2b-sft-bf16.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "minicpm-2b-sft-bf16.Q5_K_M.gguf",
+            "size": "2007052544",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "8acb4872db23fc84de50fc33b63c6c23fa48546b561879abd88bd0a27f30ffb6",
+            "download": {
+                "default": "https://huggingface.co/vbuhoijymzoi/MiniCPM-2B-sft-bf16-GGUF/resolve/main/minicpm-2b-sft-bf16.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "minicpm-2b-sft-bf16.Q6_K.gguf",
+            "size": "2367267136",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "c111b3cda3d56eef96cfa89a1b5d2d85160d35d5f90d370798dbc714522ca6b0",
+            "download": {
+                "default": "https://huggingface.co/vbuhoijymzoi/MiniCPM-2B-sft-bf16-GGUF/resolve/main/minicpm-2b-sft-bf16.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "minicpm-2b-sft-bf16.Q8_0.gguf",
+            "size": "2898590816",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "e2ad285e8bfcf5d51244f58a0ceba0264f0d5d19fe55fd73e641f4247de620f6",
+            "download": {
+                "default": "https://huggingface.co/vbuhoijymzoi/MiniCPM-2B-sft-bf16-GGUF/resolve/main/minicpm-2b-sft-bf16.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

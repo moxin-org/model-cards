@@ -1,0 +1,53 @@
+{
+    "id": "praneshgunner/llama2-trained-medical-v2-GGUF-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "praneshgunner",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-20T07:35:33Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llama-2-7b-medquad-merged.Q3_K_M.gguf",
+            "size": "3298977920",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "752b3f9d86897b7fcdb576711cd5ff362bb85f471608a72e281170fd57b07e9a",
+            "download": {
+                "default": "https://huggingface.co/praneshgunner/llama2-trained-medical-v2-GGUF-GGUF/resolve/main/llama-2-7b-medquad-merged.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-medquad-merged.Q4_K_M.gguf",
+            "size": "4081977472",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4332b80b94d8f638f48996bec92cbfa91235c978f74b655b473aa359606532b6",
+            "download": {
+                "default": "https://huggingface.co/praneshgunner/llama2-trained-medical-v2-GGUF-GGUF/resolve/main/llama-2-7b-medquad-merged.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-medquad-merged.Q5_K_M.gguf",
+            "size": "4784130176",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "67ecc3e5f791fdf75790cbdd9d3842aeb92a86e1ad8b87a9c1d91c6054f3c5cc",
+            "download": {
+                "default": "https://huggingface.co/praneshgunner/llama2-trained-medical-v2-GGUF-GGUF/resolve/main/llama-2-7b-medquad-merged.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

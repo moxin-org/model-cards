@@ -1,0 +1,43 @@
+{
+    "id": "Gille/StrangeMerges_1-7B-slerp-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Gille",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-27T14:53:36Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "strangemerges_1-7b-slerp.Q4_K_M.gguf",
+            "size": "4368439040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "95a326c95ae44b430c4718f22d43ef6f0ea6c0df02b5f57c885588ac6c1c28c1",
+            "download": {
+                "default": "https://huggingface.co/Gille/StrangeMerges_1-7B-slerp-GGUF/resolve/main/strangemerges_1-7b-slerp.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "strangemerges_1-7b-slerp.Q5_K_M.gguf",
+            "size": "5131409152",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f78dd2aca53943211398821ca9cc62d99c470132732da087dffc9647fa181832",
+            "download": {
+                "default": "https://huggingface.co/Gille/StrangeMerges_1-7B-slerp-GGUF/resolve/main/strangemerges_1-7b-slerp.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

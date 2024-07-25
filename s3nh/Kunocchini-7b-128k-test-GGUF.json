@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/Kunocchini-7b-128k-test-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-07T08:48:23Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "kunocchini-7b-128k-test.Q3_K_S.gguf",
+            "size": "3164567552",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "8dfc3013745c5d52c66768b0cf4062f133b6b946a4669a793c18c4e5a033b2de",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Kunocchini-7b-128k-test-GGUF/resolve/main/kunocchini-7b-128k-test.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "kunocchini-7b-128k-test.Q4_K_M.gguf",
+            "size": "4368439296",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "ab027be95ad904c394cbe6ea4f21d9d89fd3eccc4b0047a0cde342e1727c5aa0",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Kunocchini-7b-128k-test-GGUF/resolve/main/kunocchini-7b-128k-test.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "kunocchini-7b-128k-test.Q5_K_M.gguf",
+            "size": "5131409408",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "67915e3c3b7febc78f14140de65dd0e283a7405f6c73f69e2ab542502c379c16",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Kunocchini-7b-128k-test-GGUF/resolve/main/kunocchini-7b-128k-test.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "kunocchini-7b-128k-test.Q6_K.gguf",
+            "size": "5942065152",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "1d4c576c8fa2ff3df24cd4ee2b137fcc23340e3bec52524568e739be5c26c62b",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Kunocchini-7b-128k-test-GGUF/resolve/main/kunocchini-7b-128k-test.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "kunocchini-7b-128k-test.Q8_0.gguf",
+            "size": "7695857664",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "4a7183634596543f3df2f8e3c5b85302d59c6e5d2fa31f256aff2a6d4e75ce3d",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Kunocchini-7b-128k-test-GGUF/resolve/main/kunocchini-7b-128k-test.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

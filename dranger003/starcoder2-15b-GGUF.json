@@ -1,0 +1,73 @@
+{
+    "id": "dranger003/starcoder2-15b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "dranger003",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-29T13:21:11Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-starcoder2-15b-f16.gguf",
+            "size": "31923046208",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dde7c68d1581de990431e52de59526ad12bf957ed53003cea11a9645b9edaf7b",
+            "download": {
+                "default": "https://huggingface.co/dranger003/starcoder2-15b-GGUF/resolve/main/ggml-starcoder2-15b-f16.gguf"
+            }
+        },
+        {
+            "name": "ggml-starcoder2-15b-q4_k.gguf",
+            "size": "9860188000",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b8f1f53fd8888116f8710cf51ca246f993fafc584f80ec6a7f4d673ddd289c0c",
+            "download": {
+                "default": "https://huggingface.co/dranger003/starcoder2-15b-GGUF/resolve/main/ggml-starcoder2-15b-q4_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-starcoder2-15b-q5_k.gguf",
+            "size": "11431479136",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a4f4658ff6a474d0a3a17ac7c17b6e2862f3028e729d7cfea6f8f4d72eff3ca1",
+            "download": {
+                "default": "https://huggingface.co/dranger003/starcoder2-15b-GGUF/resolve/main/ggml-starcoder2-15b-q5_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-starcoder2-15b-q6_k.gguf",
+            "size": "13100975968",
+            "quantization": "",
+            "tags": [],
+            "sha256": "94c671960701cea99e141056f772388a7f454feaf0c953977cc5684bf68b8b0a",
+            "download": {
+                "default": "https://huggingface.co/dranger003/starcoder2-15b-GGUF/resolve/main/ggml-starcoder2-15b-q6_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-starcoder2-15b-q8_0.gguf",
+            "size": "16965109600",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6cfe972755f7924cf8c176cb8607027f105196b8abb7614a2f680e84171cb418",
+            "download": {
+                "default": "https://huggingface.co/dranger003/starcoder2-15b-GGUF/resolve/main/ggml-starcoder2-15b-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

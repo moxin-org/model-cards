@@ -1,0 +1,43 @@
+{
+    "id": "DrNicefellow/ChatAllInOne-Yi-34B-200K-V1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "DrNicefellow",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-02T12:30:06Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ChatAllInOne-Yi-34B-200K-V1-unsloth.Q4_K_M.gguf",
+            "size": "20658710560",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4095ad99f74c14729afff5cb917a72a7afa680b1fcfd49cc0b77b7208a4e7a7f",
+            "download": {
+                "default": "https://huggingface.co/DrNicefellow/ChatAllInOne-Yi-34B-200K-V1-GGUF/resolve/main/ChatAllInOne-Yi-34B-200K-V1-unsloth.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "ChatAllInOne-Yi-34B-200K-V1-unsloth.Q5_K_M.gguf",
+            "size": "24321845280",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "a7bafbdb62365a16fdabb430aefa109ce45ab6afad492a30fe557b243954e163",
+            "download": {
+                "default": "https://huggingface.co/DrNicefellow/ChatAllInOne-Yi-34B-200K-V1-GGUF/resolve/main/ChatAllInOne-Yi-34B-200K-V1-unsloth.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

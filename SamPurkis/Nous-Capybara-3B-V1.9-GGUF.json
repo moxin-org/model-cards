@@ -1,0 +1,73 @@
+{
+    "id": "SamPurkis/Nous-Capybara-3B-V1.9-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "SamPurkis",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-04T21:36:54Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Nous-Capybara-3B-V1.9.f16.gguf",
+            "size": "5593341376",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7277fb49b7d6e5c5fd75a6f1181a646555f379c9bcc140f7ab0c7b593f8a03ca",
+            "download": {
+                "default": "https://huggingface.co/SamPurkis/Nous-Capybara-3B-V1.9-GGUF/resolve/main/Nous-Capybara-3B-V1.9.f16.gguf"
+            }
+        },
+        {
+            "name": "Nous-Capybara-3B-V1.9.Q2_K.gguf",
+            "size": "1198771200",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "ade053b3aab7fa8faf1d0a5c541da202dfcf62b19b62b0b78b10252d46eb7f16",
+            "download": {
+                "default": "https://huggingface.co/SamPurkis/Nous-Capybara-3B-V1.9-GGUF/resolve/main/Nous-Capybara-3B-V1.9.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Nous-Capybara-3B-V1.9.Q4_K_M.gguf",
+            "size": "1708595200",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "04d51924b7e9cdcbcb8019c53ad48dd1a8ccdb9477cd1bd8077ddf9818a23699",
+            "download": {
+                "default": "https://huggingface.co/SamPurkis/Nous-Capybara-3B-V1.9-GGUF/resolve/main/Nous-Capybara-3B-V1.9.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Nous-Capybara-3B-V1.9.Q6_K.gguf",
+            "size": "2295984640",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "759ac6aeb3efdaa11e3bcda64d03a11c87714cae0a98a71ec3412ffa5476a0c0",
+            "download": {
+                "default": "https://huggingface.co/SamPurkis/Nous-Capybara-3B-V1.9-GGUF/resolve/main/Nous-Capybara-3B-V1.9.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Nous-Capybara-3B-V1.9.Q8_K.gguf",
+            "size": "2972925440",
+            "quantization": "Q8_K",
+            "tags": [],
+            "sha256": "c474fa030a24a427de7198c0211d45f06dc043256862959ff903d5ca094deb7a",
+            "download": {
+                "default": "https://huggingface.co/SamPurkis/Nous-Capybara-3B-V1.9-GGUF/resolve/main/Nous-Capybara-3B-V1.9.Q8_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

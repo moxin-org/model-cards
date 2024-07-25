@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/Hikari-4x7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-29T10:10:42Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Hikari-4x7B.IQ3_M.gguf",
+            "size": "10960407296",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "a61771787d5d8f41fa8ef833ccb1081ea169f556b2e3209d2800242423f1e21e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hikari-4x7B-GGUF/resolve/main/Hikari-4x7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Hikari-4x7B.IQ3_S.gguf",
+            "size": "10764323584",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "8eaec06b05b5d0be037c54fda3f40f2948877512a373bc2816d58c73e89f1647",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hikari-4x7B-GGUF/resolve/main/Hikari-4x7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Hikari-4x7B.IQ3_XS.gguf",
+            "size": "10171353856",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "3bd43835ffad2167f1f8932374855de06d0a780cf33a169df7f18b8c7bbfef14",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hikari-4x7B-GGUF/resolve/main/Hikari-4x7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Hikari-4x7B.IQ4_NL.gguf",
+            "size": "14079818496",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "86dfc740eb79969f49e88287a14fc2cdf87d7a7bee17d1cae96b29dd13e98f43",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hikari-4x7B-GGUF/resolve/main/Hikari-4x7B.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Hikari-4x7B.IQ4_XS.gguf",
+            "size": "13360642816",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "23496464ee1830b8cb08b88cfa420fcfb7fd6672342293e91dc1d354b82b6914",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hikari-4x7B-GGUF/resolve/main/Hikari-4x7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Hikari-4x7B.Q2_K.gguf",
+            "size": "9149471488",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "7d891eaa9498169eb719f6df82c67232b17f619a7b5fa2698ea468d0059232fc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hikari-4x7B-GGUF/resolve/main/Hikari-4x7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Hikari-4x7B.Q3_K_L.gguf",
+            "size": "12857281280",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "9bc4a9d65546f07652fa8c5324c8304290fbb429160dddc5d3c64693671cc1a5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hikari-4x7B-GGUF/resolve/main/Hikari-4x7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Hikari-4x7B.Q3_K_M.gguf",
+            "size": "11893639936",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "acca2f70f5a12a14a64b5118c7f200788d5f8d85f6c3b9565049756fa4ea0b49",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hikari-4x7B-GGUF/resolve/main/Hikari-4x7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hikari-4x7B.Q3_K_S.gguf",
+            "size": "10746497792",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "07c517914d4962b0df0d8b6136e9640f621fe45685bfd3afd32d6874cd837aa5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hikari-4x7B-GGUF/resolve/main/Hikari-4x7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hikari-4x7B.Q4_0.gguf",
+            "size": "13945600768",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "290d6ba00c64ee0191a5308859dd2a3991b71ef73099a75d1ee795356e4a6409",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hikari-4x7B-GGUF/resolve/main/Hikari-4x7B.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Hikari-4x7B.Q4_K_M.gguf",
+            "size": "14931786496",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "049f6342d96ee03310257e42d8712472703d0612fd1bb0f442d350731ccf2c93",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hikari-4x7B-GGUF/resolve/main/Hikari-4x7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hikari-4x7B.Q4_K_S.gguf",
+            "size": "14065138432",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "32de5e2634cc4d52305b28e3a92561e9165dfa20ec8c8d31511b8fcaf00b62ca",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hikari-4x7B-GGUF/resolve/main/Hikari-4x7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hikari-4x7B.Q5_K_M.gguf",
+            "size": "17464556288",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "a212824a5a54c3230d7273c87d064b34b8908bc13e81601c27a4f9b83cc2629d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hikari-4x7B-GGUF/resolve/main/Hikari-4x7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hikari-4x7B.Q5_K_S.gguf",
+            "size": "16956521216",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "d4ab4c16804b500e7eb9643f0390014395bc682a13b446a7c7cd2431091e8776",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hikari-4x7B-GGUF/resolve/main/Hikari-4x7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hikari-4x7B.Q6_K.gguf",
+            "size": "20155624192",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "01b7255fea52cae27dfd0448087c5e9ca4d6e0356e59df46e03ae4098b8a03b5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hikari-4x7B-GGUF/resolve/main/Hikari-4x7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Hikari-4x7B.Q8_0.gguf",
+            "size": "25989282560",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "b80ad5b82c1481e99cc5282e614f3ecfb3a4051345cb217d6cedb622706379c3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hikari-4x7B-GGUF/resolve/main/Hikari-4x7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

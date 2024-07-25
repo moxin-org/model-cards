@@ -1,0 +1,73 @@
+{
+    "id": "Sam2x/Mistral_OpenArabic_v0.2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Sam2x",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-07T06:39:06Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistral_openarabic_v0.2.Q4_0.gguf",
+            "size": "4108916928",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "12f29800f1f9b267c76f0538882d29860a61929e8eaa8731c9cff63ad1be1547",
+            "download": {
+                "default": "https://huggingface.co/Sam2x/Mistral_OpenArabic_v0.2-GGUF/resolve/main/mistral_openarabic_v0.2.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "mistral_openarabic_v0.2.Q4_K_M.gguf",
+            "size": "4368439488",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "6b364d5fc73a1c926dabcbe83605727fa9285e83db9e5fe1b953300830cb9902",
+            "download": {
+                "default": "https://huggingface.co/Sam2x/Mistral_OpenArabic_v0.2-GGUF/resolve/main/mistral_openarabic_v0.2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral_openarabic_v0.2.Q5_0.gguf",
+            "size": "4997716160",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "bf6148a86c7deedbbb78ff4cfb6590330494d7988a6ae6e968ea6305ec9ecf6f",
+            "download": {
+                "default": "https://huggingface.co/Sam2x/Mistral_OpenArabic_v0.2-GGUF/resolve/main/mistral_openarabic_v0.2.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "mistral_openarabic_v0.2.Q6_K.gguf",
+            "size": "5942065344",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "06e6dea2b9ce283d85ff75a142abc9ac908ab56fc74f47f683f428f4fc05cf00",
+            "download": {
+                "default": "https://huggingface.co/Sam2x/Mistral_OpenArabic_v0.2-GGUF/resolve/main/mistral_openarabic_v0.2.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "mistral_openarabic_v0.2.Q8_0.gguf",
+            "size": "7695857856",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "0d14030987a21adf8827908139f74ed338f627a9fd2cafc69cba5db412641f50",
+            "download": {
+                "default": "https://huggingface.co/Sam2x/Mistral_OpenArabic_v0.2-GGUF/resolve/main/mistral_openarabic_v0.2.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

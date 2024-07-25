@@ -1,0 +1,73 @@
+{
+    "id": "Kearm/samba-1.1B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Kearm",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-21T00:31:32Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "samba-1.1B-Q3_K_M.gguf",
+            "size": "548404256",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e66471f89fa651a03145f228025c9e4c39ce27b74802e4f57afac5826cd56d61",
+            "download": {
+                "default": "https://huggingface.co/Kearm/samba-1.1B-GGUF/resolve/main/samba-1.1B-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "samba-1.1B-Q4_K_M.gguf",
+            "size": "667814944",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "67882c88625fad699cd04a765008c465cd63169f069a3c4ac5cb37611436c744",
+            "download": {
+                "default": "https://huggingface.co/Kearm/samba-1.1B-GGUF/resolve/main/samba-1.1B-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "samba-1.1B-Q5_K_M.gguf",
+            "size": "782044192",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "7c2be0d68a45712d88b5be855f9445927ae972e8f38539bbc1ef2b6d5f8d193d",
+            "download": {
+                "default": "https://huggingface.co/Kearm/samba-1.1B-GGUF/resolve/main/samba-1.1B-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "samba-1.1B-Q6_K.gguf",
+            "size": "903412768",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "82ef65bfef07982fafc5109fc368a92955ad7584bfdd215a8e51007f2206611c",
+            "download": {
+                "default": "https://huggingface.co/Kearm/samba-1.1B-GGUF/resolve/main/samba-1.1B-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "samba-1.1B-Q8_0.gguf",
+            "size": "1169808416",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "b83e2b163cb56db8759848ed3eff66fe67ce155094404ff7ee825a5f81f4e2f5",
+            "download": {
+                "default": "https://huggingface.co/Kearm/samba-1.1B-GGUF/resolve/main/samba-1.1B-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

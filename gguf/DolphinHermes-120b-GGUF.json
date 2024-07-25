@@ -1,0 +1,33 @@
+{
+    "id": "gguf/DolphinHermes-120b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "gguf",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-27T07:50:40Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "dolphinhermes-120b.Q2_K.gguf",
+            "size": "44186123968",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a84cde180c0d7ab97b4747e90d09ee39f85e7eb92199cb38caec0a1c112402a4",
+            "download": {
+                "default": "https://huggingface.co/gguf/DolphinHermes-120b-GGUF/resolve/main/dolphinhermes-120b.Q2_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

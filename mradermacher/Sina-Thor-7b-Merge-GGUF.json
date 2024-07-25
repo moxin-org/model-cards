@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/Sina-Thor-7b-Merge-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-24T02:32:09Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Sina-Thor-7b-Merge.IQ3_M.gguf",
+            "size": "3439515328",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "5f2a25f9a8228514b5af6ada77d38f0d55e509c7b1118c06ea637c323106cac1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Thor-7b-Merge-GGUF/resolve/main/Sina-Thor-7b-Merge.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Sina-Thor-7b-Merge.IQ3_S.gguf",
+            "size": "3337017024",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "eeb35cf99962debb965431f7a7ecac5c5b540fda52d87300a6380f59bef643cf",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Thor-7b-Merge-GGUF/resolve/main/Sina-Thor-7b-Merge.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Sina-Thor-7b-Merge.IQ3_XS.gguf",
+            "size": "3173439168",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "9701d6163a94e88466841cf8f2834218a3c5a0f6bbdeb1636389f898ccbb3023",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Thor-7b-Merge-GGUF/resolve/main/Sina-Thor-7b-Merge.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Sina-Thor-7b-Merge.IQ4_NL.gguf",
+            "size": "4309677760",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "3fdb66797404ca180ef150fe8f07914edcd11966403fd9be6a78b48ae0ee60f7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Thor-7b-Merge-GGUF/resolve/main/Sina-Thor-7b-Merge.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Sina-Thor-7b-Merge.IQ4_XS.gguf",
+            "size": "4099012288",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "7708515a337092bc7a5ce520fa2da80306f9a578cc6fc07374c03093fa102366",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Thor-7b-Merge-GGUF/resolve/main/Sina-Thor-7b-Merge.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Sina-Thor-7b-Merge.Q2_K.gguf",
+            "size": "2873865920",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "d3204d02557931d29d1d1a91f9f8f70f9788ea1121c7f08bfd03d5e98d29e613",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Thor-7b-Merge-GGUF/resolve/main/Sina-Thor-7b-Merge.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Sina-Thor-7b-Merge.Q3_K_L.gguf",
+            "size": "3976648384",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "f5642b91636065836150dbcb5b5eb608ee73c5efa742088b4380911c0f283ae6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Thor-7b-Merge-GGUF/resolve/main/Sina-Thor-7b-Merge.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Sina-Thor-7b-Merge.Q3_K_M.gguf",
+            "size": "3673609920",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ae0d1379f6d9dd9217f1c4ddc21a35211df59a4650e5c0e56675e740ad4c31f6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Thor-7b-Merge-GGUF/resolve/main/Sina-Thor-7b-Merge.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Sina-Thor-7b-Merge.Q3_K_S.gguf",
+            "size": "3319191232",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "b2bc01dac4a339551d047b5432881e20c7c855a559c6b125d362f7330bf79d7f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Thor-7b-Merge-GGUF/resolve/main/Sina-Thor-7b-Merge.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Sina-Thor-7b-Merge.Q4_0.gguf",
+            "size": "4263540416",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "2b0845cf27f26a5f61d3c226d2d9dbc957ed5e763225801865228537bcd9fb89",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Thor-7b-Merge-GGUF/resolve/main/Sina-Thor-7b-Merge.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Sina-Thor-7b-Merge.Q4_K_M.gguf",
+            "size": "4523062976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "8ae8430dbe28db32875ca8b7916bb91fb763abfb1474bc61ab7778968de82587",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Thor-7b-Merge-GGUF/resolve/main/Sina-Thor-7b-Merge.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Sina-Thor-7b-Merge.Q4_K_S.gguf",
+            "size": "4294997696",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "ed2ed19ad0a5c7b5967f00a49c2f2b54973312bcdac233bbf42599b986bc209e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Thor-7b-Merge-GGUF/resolve/main/Sina-Thor-7b-Merge.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Sina-Thor-7b-Merge.Q5_K_M.gguf",
+            "size": "5286033088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5e58b43145859e9cba06d5cf5c3c64790c3de6a67195cbc3ea86380cd90b8a36",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Thor-7b-Merge-GGUF/resolve/main/Sina-Thor-7b-Merge.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Sina-Thor-7b-Merge.Q5_K_S.gguf",
+            "size": "5152339648",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "5df9baa51208a91dfd4f7c44c274a7c6a4f5e85e26e8b1c5a6da949fa49cbf8a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Thor-7b-Merge-GGUF/resolve/main/Sina-Thor-7b-Merge.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Sina-Thor-7b-Merge.Q6_K.gguf",
+            "size": "6096688832",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "0b35e7f8e03848c65508c07777e033a816a3d426ca9d0b8628ceaca271f94b78",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Thor-7b-Merge-GGUF/resolve/main/Sina-Thor-7b-Merge.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Sina-Thor-7b-Merge.Q8_0.gguf",
+            "size": "7818737344",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "cd869ee3419e74a6f338deef15339f35b26a5006751dd3d3a8a51142f27c598e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Sina-Thor-7b-Merge-GGUF/resolve/main/Sina-Thor-7b-Merge.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

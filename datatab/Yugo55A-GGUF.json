@@ -1,0 +1,43 @@
+{
+    "id": "datatab/Yugo55A-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "datatab",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-06T00:50:40Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Yugo55A-GGUF.Q4_K_M.gguf",
+            "size": "4368439264",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "7b5d35d314058a486b0abf078c8b9592f36d979029134066860dc4fedacef998",
+            "download": {
+                "default": "https://huggingface.co/datatab/Yugo55A-GGUF/resolve/main/Yugo55A-GGUF.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Yugo55A-GGUF.Q6_K.gguf",
+            "size": "5942065120",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b251bbb775e5be2d731cefec516885b564b6f6fa4e9ba55e6e6a17e11129ca91",
+            "download": {
+                "default": "https://huggingface.co/datatab/Yugo55A-GGUF/resolve/main/Yugo55A-GGUF.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

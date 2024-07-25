@@ -1,0 +1,43 @@
+{
+    "id": "hiraltalsaniya/llama2-7b-fine-tune-company-task-classification-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "hiraltalsaniya",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-23T10:26:06Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llama2-7b-fine-tune-company-task-classification.Q4_K_M.gguf",
+            "size": "4081004256",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "8d7268c51b47f66808c86b7b40fbeee8a7ff3b2a13adcca6fa40cef7866bcb2e",
+            "download": {
+                "default": "https://huggingface.co/hiraltalsaniya/llama2-7b-fine-tune-company-task-classification-GGUF/resolve/main/llama2-7b-fine-tune-company-task-classification.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama2-7b-fine-tune-company-task-classification.Q5_K_M.gguf",
+            "size": "4783156960",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "305ebb9b4602b5303899b9818694dd9b3ff893b4689b0f7197250392a15d3204",
+            "download": {
+                "default": "https://huggingface.co/hiraltalsaniya/llama2-7b-fine-tune-company-task-classification-GGUF/resolve/main/llama2-7b-fine-tune-company-task-classification.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

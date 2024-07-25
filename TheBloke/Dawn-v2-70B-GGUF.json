@@ -1,0 +1,123 @@
+{
+    "id": "TheBloke/Dawn-v2-70B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-07T21:02:20Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "dawn-v2-70b.Q2_K.gguf",
+            "size": "29279253440",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "f43cb5efb83e285518ea6005984dd8fef44f038235c5edcef5e688624d38b876",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Dawn-v2-70B-GGUF/resolve/main/dawn-v2-70b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "dawn-v2-70b.Q3_K_L.gguf",
+            "size": "36147835840",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "50530d04c894294ef6b2fe6c49f50c56e6b1f1ea7bc653abe2494965c82b540f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Dawn-v2-70B-GGUF/resolve/main/dawn-v2-70b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "dawn-v2-70b.Q3_K_M.gguf",
+            "size": "33186657216",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "9f00184ef3ad2a6bb068d2a3c8739b577385341b676f6414c10de179dbe70a7c",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Dawn-v2-70B-GGUF/resolve/main/dawn-v2-70b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "dawn-v2-70b.Q3_K_S.gguf",
+            "size": "29919294400",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "198e91800871e9ec8b17aac3d8b858e92e07100dc6c37af2d6acdf0672e1a424",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Dawn-v2-70B-GGUF/resolve/main/dawn-v2-70b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "dawn-v2-70b.Q4_0.gguf",
+            "size": "38872249280",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "726c92b1838586a84b97472f249a7c251eaa7a4cde6459d88b6b4c0d4aaa8f4b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Dawn-v2-70B-GGUF/resolve/main/dawn-v2-70b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "dawn-v2-70b.Q4_K_M.gguf",
+            "size": "41422910400",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "30aa2a6bd875a4a5f60d1b966a734ee7f4db47b0d6d94ef26f955604d14c0260",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Dawn-v2-70B-GGUF/resolve/main/dawn-v2-70b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "dawn-v2-70b.Q4_K_S.gguf",
+            "size": "39073575872",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "51164c4ccfb56b173a4412f6c639370d896cf90403f8ecd02c6221e527fb50b1",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Dawn-v2-70B-GGUF/resolve/main/dawn-v2-70b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "dawn-v2-70b.Q5_0.gguf",
+            "size": "47461397440",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "deb9b89d24ebed365ced82483cadbecfa7ada8758b955e59643e2efeeb10ce67",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Dawn-v2-70B-GGUF/resolve/main/dawn-v2-70b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "dawn-v2-70b.Q5_K_M.gguf",
+            "size": "48753767360",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "d2d35c3981da24759ef9fc16b65b004f993261c34ee5b107de3906fe3e973190",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Dawn-v2-70B-GGUF/resolve/main/dawn-v2-70b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "dawn-v2-70b.Q5_K_S.gguf",
+            "size": "47461397440",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "6d497ddc4bf6b2640685d790ffaf2a08f696b8edeeac1a98848c6c6765429ce4",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Dawn-v2-70B-GGUF/resolve/main/dawn-v2-70b.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

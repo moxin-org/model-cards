@@ -1,0 +1,73 @@
+{
+    "id": "PVAMedias/dopeyplats-1.1b-2T-v1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "PVAMedias",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-09T14:49:28Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-f16.gguf",
+            "size": "2201016832",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2d89971b114aa5620d26f707cbae5a3b9a69ac6223fe3825447b8b5e07099891",
+            "download": {
+                "default": "https://huggingface.co/PVAMedias/dopeyplats-1.1b-2T-v1-GGUF/resolve/main/ggml-model-f16.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_k_m-v2.gguf",
+            "size": "667814464",
+            "quantization": "",
+            "tags": [],
+            "sha256": "68a27afe2481f1304573641604a8829331e3662aeef188ac3cce741d7bb64103",
+            "download": {
+                "default": "https://huggingface.co/PVAMedias/dopeyplats-1.1b-2T-v1-GGUF/resolve/main/ggml-model-q4_k_m-v2.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_k_m.gguf",
+            "size": "667814464",
+            "quantization": "",
+            "tags": [],
+            "sha256": "68a27afe2481f1304573641604a8829331e3662aeef188ac3cce741d7bb64103",
+            "download": {
+                "default": "https://huggingface.co/PVAMedias/dopeyplats-1.1b-2T-v1-GGUF/resolve/main/ggml-model-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_k_m-v2.gguf",
+            "size": "782043712",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4c68524e4a3ea64101f01dea4b1aaeb9bd23d4a56fc655fb874bdb9dc04261f2",
+            "download": {
+                "default": "https://huggingface.co/PVAMedias/dopeyplats-1.1b-2T-v1-GGUF/resolve/main/ggml-model-q5_k_m-v2.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_k_m.gguf",
+            "size": "782043712",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4c68524e4a3ea64101f01dea4b1aaeb9bd23d4a56fc655fb874bdb9dc04261f2",
+            "download": {
+                "default": "https://huggingface.co/PVAMedias/dopeyplats-1.1b-2T-v1-GGUF/resolve/main/ggml-model-q5_k_m.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

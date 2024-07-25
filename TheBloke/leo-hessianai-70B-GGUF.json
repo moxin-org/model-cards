@@ -1,0 +1,123 @@
+{
+    "id": "TheBloke/leo-hessianai-70B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-11T12:30:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "leo-hessianai-70b.Q2_K.gguf",
+            "size": "29279253600",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "fb04638e9630791486d080b5b0cd290e28f7c29737912636f66fd50c080d2881",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/leo-hessianai-70B-GGUF/resolve/main/leo-hessianai-70b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "leo-hessianai-70b.Q3_K_L.gguf",
+            "size": "36147836000",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "f585b005669642543ad3df4d815449f3f8420db9a266c27c3b55077090913f0f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/leo-hessianai-70B-GGUF/resolve/main/leo-hessianai-70b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "leo-hessianai-70b.Q3_K_M.gguf",
+            "size": "33186657376",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "5d336d7d55f506f15668dce358098c069aefc8528e91fa0079302fc6213a62b8",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/leo-hessianai-70B-GGUF/resolve/main/leo-hessianai-70b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "leo-hessianai-70b.Q3_K_S.gguf",
+            "size": "29919294560",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "e4d0ca8e36df74c2089834652363d2e6d15f912ae7edb19cf3c56ab14372df17",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/leo-hessianai-70B-GGUF/resolve/main/leo-hessianai-70b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "leo-hessianai-70b.Q4_0.gguf",
+            "size": "38872249440",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "874daaa4c68c13b97befc38a455001482844456a5443364ea1ce1e7f6a445e96",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/leo-hessianai-70B-GGUF/resolve/main/leo-hessianai-70b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "leo-hessianai-70b.Q4_K_M.gguf",
+            "size": "41422910560",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "3749af18e36bce663fccff71d495d564f9024a5e7771f9de001d2112f679b887",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/leo-hessianai-70B-GGUF/resolve/main/leo-hessianai-70b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "leo-hessianai-70b.Q4_K_S.gguf",
+            "size": "39073576032",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "35557e143fb9b00c9331bb3d66978c8711aa21e4f8c9544219a82caee359562b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/leo-hessianai-70B-GGUF/resolve/main/leo-hessianai-70b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "leo-hessianai-70b.Q5_0.gguf",
+            "size": "47461397600",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "f50211b837ea6a33434a862f7b42bedb23b6a2d8db1bb5b6429d13df0d619216",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/leo-hessianai-70B-GGUF/resolve/main/leo-hessianai-70b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "leo-hessianai-70b.Q5_K_M.gguf",
+            "size": "48753767520",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "d9b13bd0c656b890be9c07178808e53857a759163041212f1411220a0d89acb9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/leo-hessianai-70B-GGUF/resolve/main/leo-hessianai-70b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "leo-hessianai-70b.Q5_K_S.gguf",
+            "size": "47461397600",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "8b251d5b3cb231d64edb9d20cda90500d58ce3694d0b0962d41c693c1ae366e7",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/leo-hessianai-70B-GGUF/resolve/main/leo-hessianai-70b.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

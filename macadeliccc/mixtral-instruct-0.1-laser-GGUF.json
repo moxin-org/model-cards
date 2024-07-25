@@ -1,0 +1,73 @@
+{
+    "id": "macadeliccc/mixtral-instruct-0.1-laser-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "macadeliccc",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-22T17:04:18Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mixtral-instruct-0.1-laser.iq2_xs.gguf",
+            "size": "13671032704",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f2dbca3b3a79e94257d11951c80ffe87cd7eddd0158608397aa9f8e9e13dec35",
+            "download": {
+                "default": "https://huggingface.co/macadeliccc/mixtral-instruct-0.1-laser-GGUF/resolve/main/mixtral-instruct-0.1-laser.iq2_xs.gguf"
+            }
+        },
+        {
+            "name": "mixtral-instruct-0.1-laser.iq2_xxs.gguf",
+            "size": "12282718080",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c3c850f5de56065a66fa5f1646af1095018e18c17c1d05ed384098fa39f413b9",
+            "download": {
+                "default": "https://huggingface.co/macadeliccc/mixtral-instruct-0.1-laser-GGUF/resolve/main/mixtral-instruct-0.1-laser.iq2_xxs.gguf"
+            }
+        },
+        {
+            "name": "mixtral-instruct-0.1-laser.q2_k.gguf",
+            "size": "17309173632",
+            "quantization": "",
+            "tags": [],
+            "sha256": "26a1c8a80fedffbfb5051291211fb924218e451bec852018328cc0de9d6720a2",
+            "download": {
+                "default": "https://huggingface.co/macadeliccc/mixtral-instruct-0.1-laser-GGUF/resolve/main/mixtral-instruct-0.1-laser.q2_k.gguf"
+            }
+        },
+        {
+            "name": "mixtral-instruct-0.1-laser.q5_0.gguf",
+            "size": "32229279616",
+            "quantization": "",
+            "tags": [],
+            "sha256": "89b6e8c9c0a505cd277afba1900194bde5a56088b1998df16061d6d0947fa720",
+            "download": {
+                "default": "https://huggingface.co/macadeliccc/mixtral-instruct-0.1-laser-GGUF/resolve/main/mixtral-instruct-0.1-laser.q5_0.gguf"
+            }
+        },
+        {
+            "name": "mixtral-instruct-0.1-laser.q5_k_m.gguf",
+            "size": "14865125376",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dc8589d452aa9eaeaebff43162b7ca8ec392ecfc26f01ea506c1374fd1852b06",
+            "download": {
+                "default": "https://huggingface.co/macadeliccc/mixtral-instruct-0.1-laser-GGUF/resolve/main/mixtral-instruct-0.1-laser.q5_k_m.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

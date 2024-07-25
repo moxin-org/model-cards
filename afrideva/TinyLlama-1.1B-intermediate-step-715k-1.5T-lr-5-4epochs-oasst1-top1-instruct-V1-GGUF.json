@@ -1,0 +1,83 @@
+{
+    "id": "afrideva/TinyLlama-1.1B-intermediate-step-715k-1.5T-lr-5-4epochs-oasst1-top1-instruct-V1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-21T20:20:03Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tinyllama-1.1b-intermediate-step-715k-1.5t-lr-5-4epochs-oasst1-top1-instruct-v1.q2_k.gguf",
+            "size": "482142752",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a8b0b6ad2a70148cbdb1a79034ded5d281cfe40687eb223fddc77c310fab1dcf",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-intermediate-step-715k-1.5T-lr-5-4epochs-oasst1-top1-instruct-V1-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-715k-1.5t-lr-5-4epochs-oasst1-top1-instruct-v1.q2_k.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-715k-1.5t-lr-5-4epochs-oasst1-top1-instruct-v1.q3_k_m.gguf",
+            "size": "549845536",
+            "quantization": "",
+            "tags": [],
+            "sha256": "bcbccfd358e68310caa7bdb73527d52959b876711fd8a6e7d3be4e8183208bd4",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-intermediate-step-715k-1.5T-lr-5-4epochs-oasst1-top1-instruct-V1-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-715k-1.5t-lr-5-4epochs-oasst1-top1-instruct-v1.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-715k-1.5t-lr-5-4epochs-oasst1-top1-instruct-v1.q4_k_m.gguf",
+            "size": "667814432",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a7237b6e299ef31aa26fdd3a3e3436d86c6a1eeee9554d0d58262db049a54f9f",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-intermediate-step-715k-1.5T-lr-5-4epochs-oasst1-top1-instruct-V1-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-715k-1.5t-lr-5-4epochs-oasst1-top1-instruct-v1.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-715k-1.5t-lr-5-4epochs-oasst1-top1-instruct-v1.q5_k_m.gguf",
+            "size": "782043680",
+            "quantization": "",
+            "tags": [],
+            "sha256": "61c194732bac290814d27ca277e8dac581a556249ae0787a16f3ad9e999e9e3b",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-intermediate-step-715k-1.5T-lr-5-4epochs-oasst1-top1-instruct-V1-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-715k-1.5t-lr-5-4epochs-oasst1-top1-instruct-v1.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-715k-1.5t-lr-5-4epochs-oasst1-top1-instruct-v1.q6_k.gguf",
+            "size": "903412256",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6ed5840640bd2a1162c6df5855c94f590e23861d63c889d04c272813ab4fc907",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-intermediate-step-715k-1.5T-lr-5-4epochs-oasst1-top1-instruct-V1-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-715k-1.5t-lr-5-4epochs-oasst1-top1-instruct-v1.q6_k.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-715k-1.5t-lr-5-4epochs-oasst1-top1-instruct-v1.q8_0.gguf",
+            "size": "1169807904",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f014314571c633e212d248262a6a4363c473c3a9389c737e6ee426d802a4f1ca",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-intermediate-step-715k-1.5T-lr-5-4epochs-oasst1-top1-instruct-V1-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-715k-1.5t-lr-5-4epochs-oasst1-top1-instruct-v1.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

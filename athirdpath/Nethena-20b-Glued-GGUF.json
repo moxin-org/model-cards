@@ -1,0 +1,53 @@
+{
+    "id": "athirdpath/Nethena-20b-Glued-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "athirdpath",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-12T08:27:22Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Nethena-20b-Glued.fp16.gguf",
+            "size": "39990783456",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6fbf14c8bbe6f1be9ad7a6c0dc184d1ff139925a5ad149fa17932d886a2c2b44",
+            "download": {
+                "default": "https://huggingface.co/athirdpath/Nethena-20b-Glued-GGUF/resolve/main/Nethena-20b-Glued.fp16.gguf"
+            }
+        },
+        {
+            "name": "Nethena-20b-Glued.q4_k_m.gguf",
+            "size": "12042215872",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4aa7d90f6d0f7d84a68c16414c0f1a1566b809adae77daa5ff714deb8937c7e9",
+            "download": {
+                "default": "https://huggingface.co/athirdpath/Nethena-20b-Glued-GGUF/resolve/main/Nethena-20b-Glued.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "Nethena-20b-Glued.q8_0.gguf",
+            "size": "21246658688",
+            "quantization": "",
+            "tags": [],
+            "sha256": "22943592833362c421cc6abf10e713fbba0e2574d6bc18d2c4be33c502a7841a",
+            "download": {
+                "default": "https://huggingface.co/athirdpath/Nethena-20b-Glued-GGUF/resolve/main/Nethena-20b-Glued.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

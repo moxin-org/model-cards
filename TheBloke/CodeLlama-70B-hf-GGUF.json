@@ -1,0 +1,123 @@
+{
+    "id": "TheBloke/CodeLlama-70B-hf-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-30T16:16:54Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "codellama-70b-hf.Q2_K.gguf",
+            "size": "25462587904",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "fe5cd4a98bc23fb8323816a44cc098c24539527abc4deae2e576ceb44c184770",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/CodeLlama-70B-hf-GGUF/resolve/main/codellama-70b-hf.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "codellama-70b-hf.Q3_K_L.gguf",
+            "size": "36148000256",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "474ba60427475ed1209db1fe83379e5c33c3beb4e96d5b3940717aae1f116515",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/CodeLlama-70B-hf-GGUF/resolve/main/codellama-70b-hf.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "codellama-70b-hf.Q3_K_M.gguf",
+            "size": "33274902016",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "14504a226fe843ab0662fedcb502ec491ab3cd09257464e4ac5ee7ff94f856d7",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/CodeLlama-70B-hf-GGUF/resolve/main/codellama-70b-hf.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "codellama-70b-hf.Q3_K_S.gguf",
+            "size": "29919458816",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "034a966db2060da6310d8303a40b83872223611a54b566fc9e02309e0f4d31eb",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/CodeLlama-70B-hf-GGUF/resolve/main/codellama-70b-hf.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "codellama-70b-hf.Q4_0.gguf",
+            "size": "38872431104",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "05d312ee1bbc8ba8654f0b165f6d1470737b1884ca3f2ad12d5ba5629c008e7d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/CodeLlama-70B-hf-GGUF/resolve/main/codellama-70b-hf.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "codellama-70b-hf.Q4_K_M.gguf",
+            "size": "41423092224",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "ccc9d9e37ccb8dda3f0654edbc9084a45702c1d0b1317f15994682a5f66d7dd2",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/CodeLlama-70B-hf-GGUF/resolve/main/codellama-70b-hf.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "codellama-70b-hf.Q4_K_S.gguf",
+            "size": "39249918464",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "30b4d25dd3a4a8db50d4552431e6821ba40083b60746170dc0e5b715e6fd3381",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/CodeLlama-70B-hf-GGUF/resolve/main/codellama-70b-hf.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "codellama-70b-hf.Q5_0.gguf",
+            "size": "47461595648",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "edccd6d5eec70a3e365fcb4d98f0219626aefc57fede6e3cada9c1ecaef37f55",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/CodeLlama-70B-hf-GGUF/resolve/main/codellama-70b-hf.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "codellama-70b-hf.Q5_K_M.gguf",
+            "size": "48753965568",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "fc28168dfbb637821334c04a6d2a3cbd6a7fe5202973eed0c7668832b5ea4b96",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/CodeLlama-70B-hf-GGUF/resolve/main/codellama-70b-hf.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "codellama-70b-hf.Q5_K_S.gguf",
+            "size": "47461595648",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "e8f9178ea9017fcb12de09fbfa20c93b9e27df5dafbe63236afe180449185c7e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/CodeLlama-70B-hf-GGUF/resolve/main/codellama-70b-hf.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

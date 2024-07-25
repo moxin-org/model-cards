@@ -1,0 +1,43 @@
+{
+    "id": "second-state/Yi-34B-200K-GGUF",
+    "status": "init",
+    "model_type": "chat",
+    "name": "Yi 34B with 200k context length",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "34b",
+    "requires": "",
+    "released_at": "2024-02-17T04:29:41Z",
+    "architecture": "Llama2",
+    "files": [
+        {
+            "name": "Yi-34B-200K-Q2_K.gguf",
+            "size": "12825233472",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "72f54a0ae916f2c54020da5b4ede1cd4cfa70219aca231c9228c15b298e7c0d2",
+            "download": {
+                "default": "https://huggingface.co/second-state/Yi-34B-200K-GGUF/resolve/main/Yi-34B-200K-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Yi-34B-200K-Q5_K_M.gguf",
+            "size": "24321845312",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "eb1fae44cef20079d0fd9abb605557a660523f21a15e56d57ae14ef041218585",
+            "download": {
+                "default": "https://huggingface.co/second-state/Yi-34B-200K-GGUF/resolve/main/Yi-34B-200K-Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "chatml",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

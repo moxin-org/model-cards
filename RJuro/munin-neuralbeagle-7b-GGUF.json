@@ -1,0 +1,33 @@
+{
+    "id": "RJuro/munin-neuralbeagle-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "RJuro",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-17T21:27:24Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-Q6_K.gguf",
+            "size": "5942064768",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b28b3650e6fc8c7e23bafd4f246a33ce794f821669b1e96c6be85a814f636fb3",
+            "download": {
+                "default": "https://huggingface.co/RJuro/munin-neuralbeagle-7b-GGUF/resolve/main/ggml-model-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

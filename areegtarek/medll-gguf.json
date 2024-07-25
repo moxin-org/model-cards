@@ -1,0 +1,43 @@
+{
+    "id": "areegtarek/medll-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "areegtarek",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-25T14:05:03Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "medll-model-8bit.gguf",
+            "size": "7161124608",
+            "quantization": "",
+            "tags": [],
+            "sha256": "082c27bf23934d32ba6d4b4809fe231e3424d8d988e6493730c4d8a90f8c3c14",
+            "download": {
+                "default": "https://huggingface.co/areegtarek/medll-gguf/resolve/main/medll-model-8bit.gguf"
+            }
+        },
+        {
+            "name": "medll-model.gguf",
+            "size": "13478170368",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4f42c99d7f36a7a0584828e6a729497d51271362fdf673417612e624bb9e8617",
+            "download": {
+                "default": "https://huggingface.co/areegtarek/medll-gguf/resolve/main/medll-model.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

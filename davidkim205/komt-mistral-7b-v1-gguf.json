@@ -1,0 +1,173 @@
+{
+    "id": "davidkim205/komt-mistral-7b-v1-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "davidkim205",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-24T04:04:26Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-q2_k.gguf",
+            "size": "3083097760",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4525e127c1a002bba9664287d19098af1cd38a8c897ad38a0d69dea6574f183f",
+            "download": {
+                "default": "https://huggingface.co/davidkim205/komt-mistral-7b-v1-gguf/resolve/main/ggml-model-q2_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q3_k_l.gguf",
+            "size": "3822024352",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7faccac4e8a7492e28393f30033b32282cf41d4390a7ec8af90903df17b20e33",
+            "download": {
+                "default": "https://huggingface.co/davidkim205/komt-mistral-7b-v1-gguf/resolve/main/ggml-model-q3_k_l.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q3_k_m.gguf",
+            "size": "3518985888",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4e56c4fefee6e29032c5b6a48f38260820c25bf998af8251903d3d14d3dd41d4",
+            "download": {
+                "default": "https://huggingface.co/davidkim205/komt-mistral-7b-v1-gguf/resolve/main/ggml-model-q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q3_k.gguf",
+            "size": "3518985888",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4e56c4fefee6e29032c5b6a48f38260820c25bf998af8251903d3d14d3dd41d4",
+            "download": {
+                "default": "https://huggingface.co/davidkim205/komt-mistral-7b-v1-gguf/resolve/main/ggml-model-q3_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_0.gguf",
+            "size": "4108916384",
+            "quantization": "",
+            "tags": [],
+            "sha256": "bd6b1d3f2d43d3becfd2f98c4ad070b1d1e47977539090e9681821d72b1878e8",
+            "download": {
+                "default": "https://huggingface.co/davidkim205/komt-mistral-7b-v1-gguf/resolve/main/ggml-model-q4_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_1.gguf",
+            "size": "4553316000",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3541a180d5a33aa7086bd407c7531673137ed0699229bd4d637193814f4987dd",
+            "download": {
+                "default": "https://huggingface.co/davidkim205/komt-mistral-7b-v1-gguf/resolve/main/ggml-model-q4_1.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_k_m.gguf",
+            "size": "4368438944",
+            "quantization": "",
+            "tags": [],
+            "sha256": "412b9f6cceb3b74753ed3a4c0d978e83e92f5949eaba915b8d12365518ebf09a",
+            "download": {
+                "default": "https://huggingface.co/davidkim205/komt-mistral-7b-v1-gguf/resolve/main/ggml-model-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_k_s.gguf",
+            "size": "4140373664",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9985d81df26c31889c59e7a9a03137ca6044e9f2ebc5d936dbe91c72fa247ab5",
+            "download": {
+                "default": "https://huggingface.co/davidkim205/komt-mistral-7b-v1-gguf/resolve/main/ggml-model-q4_k_s.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_k.gguf",
+            "size": "4368438944",
+            "quantization": "",
+            "tags": [],
+            "sha256": "412b9f6cceb3b74753ed3a4c0d978e83e92f5949eaba915b8d12365518ebf09a",
+            "download": {
+                "default": "https://huggingface.co/davidkim205/komt-mistral-7b-v1-gguf/resolve/main/ggml-model-q4_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_0.gguf",
+            "size": "4997715616",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fc54d43dcf448bf84cee226dc4c988f42754743e7b649378cdff3c956bcca63a",
+            "download": {
+                "default": "https://huggingface.co/davidkim205/komt-mistral-7b-v1-gguf/resolve/main/ggml-model-q5_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_1.gguf",
+            "size": "5442115232",
+            "quantization": "",
+            "tags": [],
+            "sha256": "011c4d070ab54bd10151c4a8d41f0ba9c00dcd95836a4a9a7e4fa28c2a2cd44e",
+            "download": {
+                "default": "https://huggingface.co/davidkim205/komt-mistral-7b-v1-gguf/resolve/main/ggml-model-q5_1.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_k_m.gguf",
+            "size": "5131409056",
+            "quantization": "",
+            "tags": [],
+            "sha256": "92d92ba2d1e8838fc798ef4fc095acc09e6a2da35a53d46dcd34082ab54b6968",
+            "download": {
+                "default": "https://huggingface.co/davidkim205/komt-mistral-7b-v1-gguf/resolve/main/ggml-model-q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_k_s.gguf",
+            "size": "4997715616",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4950cbaead7e9bc8b772d0125ab8e3f57cbe7c6de6c4a42d867291379fa17b8c",
+            "download": {
+                "default": "https://huggingface.co/davidkim205/komt-mistral-7b-v1-gguf/resolve/main/ggml-model-q5_k_s.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_k.gguf",
+            "size": "5131409056",
+            "quantization": "",
+            "tags": [],
+            "sha256": "92d92ba2d1e8838fc798ef4fc095acc09e6a2da35a53d46dcd34082ab54b6968",
+            "download": {
+                "default": "https://huggingface.co/davidkim205/komt-mistral-7b-v1-gguf/resolve/main/ggml-model-q5_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q8_0.gguf",
+            "size": "7695857312",
+            "quantization": "",
+            "tags": [],
+            "sha256": "aed37c7917290b2652caa798bef2961fb5b78e039b6ab7bb24540e0d39a87b6e",
+            "download": {
+                "default": "https://huggingface.co/davidkim205/komt-mistral-7b-v1-gguf/resolve/main/ggml-model-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

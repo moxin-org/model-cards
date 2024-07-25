@@ -1,0 +1,103 @@
+{
+    "id": "dreamgen/opus-v1-34b-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "dreamgen",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-21T14:01:40Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "opus-v1-34b.q3_k_m.gguf",
+            "size": "16654924160",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9e790f850be4a9e2582c1d869c7865c83cfbbe63cbde195061231daa1a5eb657",
+            "download": {
+                "default": "https://huggingface.co/dreamgen/opus-v1-34b-gguf/resolve/main/opus-v1-34b.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "opus-v1-34b.q3_k_s.gguf",
+            "size": "14960294272",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8f6c63840e7c080ae70ee08829afa03cc95df9ea7fa451f48fa8d5afe1166b1d",
+            "download": {
+                "default": "https://huggingface.co/dreamgen/opus-v1-34b-gguf/resolve/main/opus-v1-34b.q3_k_s.gguf"
+            }
+        },
+        {
+            "name": "opus-v1-34b.q4_k_m.gguf",
+            "size": "20658710912",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6e9f2b6e0aeaacd70f2bd4337164d4ceef93f5354910ce1bd4942850f61d9eca",
+            "download": {
+                "default": "https://huggingface.co/dreamgen/opus-v1-34b-gguf/resolve/main/opus-v1-34b.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "opus-v1-34b.q4_k_s.gguf",
+            "size": "19598649728",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dd833d5506ccb7f6263ccb133277e14946fa4cc7fb8738b058446075ceea0fa7",
+            "download": {
+                "default": "https://huggingface.co/dreamgen/opus-v1-34b-gguf/resolve/main/opus-v1-34b.q4_k_s.gguf"
+            }
+        },
+        {
+            "name": "opus-v1-34b.q5_k_m.gguf",
+            "size": "24321845632",
+            "quantization": "",
+            "tags": [],
+            "sha256": "34758ffb24b5b29359af55a78518b249e60c9f82009c6057e5f3aec56f7889bc",
+            "download": {
+                "default": "https://huggingface.co/dreamgen/opus-v1-34b-gguf/resolve/main/opus-v1-34b.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "opus-v1-34b.q5_k_s.gguf",
+            "size": "23707691392",
+            "quantization": "",
+            "tags": [],
+            "sha256": "96f438e8e019b6da8fbce98fa2437f45efd13bb3ade772c99a513c12d59d2829",
+            "download": {
+                "default": "https://huggingface.co/dreamgen/opus-v1-34b-gguf/resolve/main/opus-v1-34b.q5_k_s.gguf"
+            }
+        },
+        {
+            "name": "opus-v1-34b.q6_k.gguf",
+            "size": "28213926272",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1e6270275f8b31d6e6a551aa8c386f3647f84391c6cce7c41054f3864585314f",
+            "download": {
+                "default": "https://huggingface.co/dreamgen/opus-v1-34b-gguf/resolve/main/opus-v1-34b.q6_k.gguf"
+            }
+        },
+        {
+            "name": "opus-v1-34b.q8_0.gguf",
+            "size": "36542282112",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5a80c677edc95ed1e690cd7d1241af28fb3cca38150e7bfeb7e309e91ee0559c",
+            "download": {
+                "default": "https://huggingface.co/dreamgen/opus-v1-34b-gguf/resolve/main/opus-v1-34b.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

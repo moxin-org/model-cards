@@ -1,0 +1,173 @@
+{
+    "id": "shaowenchen/colossal-llama-2-7b-base-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "shaowenchen",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-26T00:44:26Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "colossal-llama-2-7b-base.gguf",
+            "size": "14086828704",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c30c7d0bcdfc113e1c3e49f565b28fb7f2ef5119222bd1993a38e711cf0c2c8c",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/colossal-llama-2-7b-base-gguf/resolve/main/colossal-llama-2-7b-base.gguf"
+            }
+        },
+        {
+            "name": "colossal-llama-2-7b-base.Q2_K.gguf",
+            "size": "3001289920",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "e219c42c29beae8aac63dcd03001f9b9dc8f486800eef40715fbd6a1f018ae16",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/colossal-llama-2-7b-base-gguf/resolve/main/colossal-llama-2-7b-base.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "colossal-llama-2-7b-base.Q3_K_L.gguf",
+            "size": "3787895488",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "d733a63af21dc0f651385b7257894e5193b93cf76ac181bec185a11e28b95cff",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/colossal-llama-2-7b-base-gguf/resolve/main/colossal-llama-2-7b-base.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "colossal-llama-2-7b-base.Q3_K_S.gguf",
+            "size": "3139089088",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "1e24a7b4466e893c643c068c4b7e60a404c237da07d8fdafb8a00ab80601f075",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/colossal-llama-2-7b-base-gguf/resolve/main/colossal-llama-2-7b-base.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "colossal-llama-2-7b-base.Q3_K.gguf",
+            "size": "3488789184",
+            "quantization": "Q3_K",
+            "tags": [],
+            "sha256": "7e6840b267ac4ea4b174ea445ae3d853c17d51648c9f1235cc69d043a1b03181",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/colossal-llama-2-7b-base-gguf/resolve/main/colossal-llama-2-7b-base.Q3_K.gguf"
+            }
+        },
+        {
+            "name": "colossal-llama-2-7b-base.Q4_0.gguf",
+            "size": "4036776128",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "45e903a6cd3bbb28602ae0ae3ec95d16781ac5e02d6a38dc6d83194a7d8dd7b3",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/colossal-llama-2-7b-base-gguf/resolve/main/colossal-llama-2-7b-base.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "colossal-llama-2-7b-base.Q4_1.gguf",
+            "size": "4459217088",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "464ae338803c0e26e5879b0827439b8b8a1e4b8e3f5cf931dfc1e1152e809034",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/colossal-llama-2-7b-base-gguf/resolve/main/colossal-llama-2-7b-base.Q4_1.gguf"
+            }
+        },
+        {
+            "name": "colossal-llama-2-7b-base.Q4_K_S.gguf",
+            "size": "4067709120",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "c3cdde2664a115d043645047528c94ab90f56bb50751fc0efd6bbeeb4e7305d0",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/colossal-llama-2-7b-base-gguf/resolve/main/colossal-llama-2-7b-base.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "colossal-llama-2-7b-base.Q4_K.gguf",
+            "size": "4291973312",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "8632596330a5486e5f081917e9dbcad5d8bd295b9ef2366dc5ca0bcc3c144a3c",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/colossal-llama-2-7b-base-gguf/resolve/main/colossal-llama-2-7b-base.Q4_K.gguf"
+            }
+        },
+        {
+            "name": "colossal-llama-2-7b-base.Q5_0.gguf",
+            "size": "4881658048",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "dd159a3634b510f5b3ab9446eca06d14d3ac0eee5f86f1ba28a1672e0b0cf575",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/colossal-llama-2-7b-base-gguf/resolve/main/colossal-llama-2-7b-base.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "colossal-llama-2-7b-base.Q5_1.gguf",
+            "size": "5304099008",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "e5db8433440d6235ec6dea4ff7264a9d392d108e6b6f931703707b9c2581c13d",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/colossal-llama-2-7b-base-gguf/resolve/main/colossal-llama-2-7b-base.Q5_1.gguf"
+            }
+        },
+        {
+            "name": "colossal-llama-2-7b-base.Q5_K_S.gguf",
+            "size": "4881658048",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "fe5ab9ca90efc56f6872682c58e1dea6dc979c55b8bf505dbb8f7a28236ddc32",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/colossal-llama-2-7b-base-gguf/resolve/main/colossal-llama-2-7b-base.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "colossal-llama-2-7b-base.Q5_K.gguf",
+            "size": "5013123264",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "271ddf43e131ff2157b782d78ef80b50fc7674bf65a779e51b156642fde0fe9e",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/colossal-llama-2-7b-base-gguf/resolve/main/colossal-llama-2-7b-base.Q5_K.gguf"
+            }
+        },
+        {
+            "name": "colossal-llama-2-7b-base.Q6_K.gguf",
+            "size": "5779345088",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "76f2a2f193330e30321143bffe459795daf642de83ff6725ef9148eef9e2e543",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/colossal-llama-2-7b-base-gguf/resolve/main/colossal-llama-2-7b-base.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "colossal-llama-2-7b-base.Q8_0.gguf",
+            "size": "7484854976",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "1057be471ed493e366220ef36a047719df5afa099990da8986367e4ca086d7f4",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/colossal-llama-2-7b-base-gguf/resolve/main/colossal-llama-2-7b-base.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,133 @@
+{
+    "id": "MaziyarPanahi/LongAlign-13B-64k-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "MaziyarPanahi",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-11T13:13:17Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "LongAlign-13B-64k.fp16.gguf",
+            "size": "26038553600",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2e2243c717909baf60a85a5eea320f24512967c19789362028a9ff6632c8c02a",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/LongAlign-13B-64k-GGUF/resolve/main/LongAlign-13B-64k.fp16.gguf"
+            }
+        },
+        {
+            "name": "LongAlign-13B-64k.Q2_K.gguf",
+            "size": "4855782432",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "ac08c0c57fce1504908f25059eb09542367b97b829cbc54f408637d13bda220b",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/LongAlign-13B-64k-GGUF/resolve/main/LongAlign-13B-64k.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "LongAlign-13B-64k.Q3_K_L.gguf",
+            "size": "6931205152",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "b66b1df75dea8a006720726203ecf0f48dfcef0d56243af36af85d2fd6652506",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/LongAlign-13B-64k-GGUF/resolve/main/LongAlign-13B-64k.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "LongAlign-13B-64k.Q3_K_M.gguf",
+            "size": "6339415072",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "32b168f2837c786cb5e970e52c967d5286a9a359ef459cf1a91aff7c95355746",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/LongAlign-13B-64k-GGUF/resolve/main/LongAlign-13B-64k.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "LongAlign-13B-64k.Q3_K_S.gguf",
+            "size": "5660625952",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "05e18e87a906ad7a19b9ec152e211e3094b1545c64a54041ee5327be8c22611a",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/LongAlign-13B-64k-GGUF/resolve/main/LongAlign-13B-64k.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "LongAlign-13B-64k.Q4_K_M.gguf",
+            "size": "7867776032",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a868dd29db120b9016a2fbfc5681abccae1ea4b5f038519ef19f0edd7b6e9dd8",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/LongAlign-13B-64k-GGUF/resolve/main/LongAlign-13B-64k.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "LongAlign-13B-64k.Q4_K_S.gguf",
+            "size": "7424998432",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "e6860536d9d4eb27ac9f199cd4e389c20eef6aed68008b2f6425a8b855ff88b4",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/LongAlign-13B-64k-GGUF/resolve/main/LongAlign-13B-64k.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "LongAlign-13B-64k.Q5_K_M.gguf",
+            "size": "9231907872",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "b3f6a4f0e289ae0bb3dcfc6817b08dff42f13a393dfcbb8197885010c221107d",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/LongAlign-13B-64k-GGUF/resolve/main/LongAlign-13B-64k.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "LongAlign-13B-64k.Q5_K_S.gguf",
+            "size": "8974269472",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "c1bf90094e57955508ba32c9ced00803e5cfcb297bded545cd9a0ed406b9d9f2",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/LongAlign-13B-64k-GGUF/resolve/main/LongAlign-13B-64k.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "LongAlign-13B-64k.Q6_K.gguf",
+            "size": "10681297952",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "e3c33782d3f68a81692cc0654227fb9de164cefd1562c71c82f781735420220b",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/LongAlign-13B-64k-GGUF/resolve/main/LongAlign-13B-64k.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "LongAlign-13B-64k.Q8_0.gguf",
+            "size": "13834112032",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "38fc0b3a924660013e68319351ac88361e9eaf09c5f8ea84acf677c268cfda57",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/LongAlign-13B-64k-GGUF/resolve/main/LongAlign-13B-64k.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

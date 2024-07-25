@@ -1,0 +1,53 @@
+{
+    "id": "elliotthwang/elliott_Llama-2-7b_zh-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "elliotthwang",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-20T15:40:07Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "elliott_Llama-2-7b_zh-Q4_km.gguf",
+            "size": "4081004224",
+            "quantization": "Q4_km",
+            "tags": [],
+            "sha256": "32f5d99365ae118107b7692bf0fc9fa9b932e30d5dbdd753c99024688b8c6c54",
+            "download": {
+                "default": "https://huggingface.co/elliotthwang/elliott_Llama-2-7b_zh-GGUF/resolve/main/elliott_Llama-2-7b_zh-Q4_km.gguf"
+            }
+        },
+        {
+            "name": "elliott_Llama-2-7b_zh-Q5_km.gguf",
+            "size": "4783156928",
+            "quantization": "Q5_km",
+            "tags": [],
+            "sha256": "1da7ac45c162a27f03829edc52c121d8d36a73323be62d26f39aac0b009e4032",
+            "download": {
+                "default": "https://huggingface.co/elliotthwang/elliott_Llama-2-7b_zh-GGUF/resolve/main/elliott_Llama-2-7b_zh-Q5_km.gguf"
+            }
+        },
+        {
+            "name": "elliott_Llama-2-7b_zh-Q5_ks.gguf",
+            "size": "4651691712",
+            "quantization": "Q5_ks",
+            "tags": [],
+            "sha256": "a1b6b0b21f84fcd918cd55bc6c9296c4587570f0b04abef5c1ffcc540486e0c2",
+            "download": {
+                "default": "https://huggingface.co/elliotthwang/elliott_Llama-2-7b_zh-GGUF/resolve/main/elliott_Llama-2-7b_zh-Q5_ks.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

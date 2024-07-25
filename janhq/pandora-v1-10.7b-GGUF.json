@@ -1,0 +1,63 @@
+{
+    "id": "janhq/pandora-v1-10.7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "janhq",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-14T18:01:12Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "pandora-v1-10.7b.Q3_K_M.gguf",
+            "size": "5188327520",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "a01bcfe285e2ba422557acd94583ebbb825f2267f727c5081ee378148639f6b9",
+            "download": {
+                "default": "https://huggingface.co/janhq/pandora-v1-10.7b-GGUF/resolve/main/pandora-v1-10.7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "pandora-v1-10.7b.Q4_K_M.gguf",
+            "size": "6461667424",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "504da15eb1975e3b571fe7e57ef89cc71f9d090914d07329cebf2a44bec87b16",
+            "download": {
+                "default": "https://huggingface.co/janhq/pandora-v1-10.7b-GGUF/resolve/main/pandora-v1-10.7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "pandora-v1-10.7b.Q5_K_M.gguf",
+            "size": "7597930592",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e515918e2bf4a5e01ac64306bc5baeb4102bc3ee215dba30da23ac75e3b1160d",
+            "download": {
+                "default": "https://huggingface.co/janhq/pandora-v1-10.7b-GGUF/resolve/main/pandora-v1-10.7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "pandora-v1-10.7b.Q8_0.gguf",
+            "size": "11404154976",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "f70e21f4c65e146b33b5f1c8c24c8ef5177b09e18f43f85bbf19c35c4f484098",
+            "download": {
+                "default": "https://huggingface.co/janhq/pandora-v1-10.7b-GGUF/resolve/main/pandora-v1-10.7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

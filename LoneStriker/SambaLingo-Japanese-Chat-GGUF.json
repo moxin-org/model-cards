@@ -1,0 +1,73 @@
+{
+    "id": "LoneStriker/SambaLingo-Japanese-Chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LoneStriker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-07T06:38:01Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "SambaLingo-Japanese-Chat-Q3_K_L.gguf",
+            "size": "3727512000",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "1b78e2e2516d25e5c68e0b537273277faca879c638bde9adaae755836c5a455b",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/SambaLingo-Japanese-Chat-GGUF/resolve/main/SambaLingo-Japanese-Chat-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "SambaLingo-Japanese-Chat-Q4_K_M.gguf",
+            "size": "4225192384",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "b1fc29994a2bfc5110a51b407bf1e3fd4a80a5deb8eec2d68cc7d7daae92c89b",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/SambaLingo-Japanese-Chat-GGUF/resolve/main/SambaLingo-Japanese-Chat-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "SambaLingo-Japanese-Chat-Q5_K_M.gguf",
+            "size": "4940321216",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "75c42d29991cad56d4245fab823ee561f211d9e06b696b735befc01432b78faf",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/SambaLingo-Japanese-Chat-GGUF/resolve/main/SambaLingo-Japanese-Chat-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "SambaLingo-Japanese-Chat-Q6_K.gguf",
+            "size": "5700145600",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "efb1930d1441f88e542fcc4a1ce3bbf1fc238fa355a2a10c1c3f12b098b4d57a",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/SambaLingo-Japanese-Chat-GGUF/resolve/main/SambaLingo-Japanese-Chat-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "SambaLingo-Japanese-Chat-Q8_0.gguf",
+            "size": "7382323648",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "83364a121c4f1d39e54e27248fb86efc2fdcdef77b46bc2b435cd12ed0d181b2",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/SambaLingo-Japanese-Chat-GGUF/resolve/main/SambaLingo-Japanese-Chat-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

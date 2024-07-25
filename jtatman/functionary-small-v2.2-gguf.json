@@ -1,0 +1,53 @@
+{
+    "id": "jtatman/functionary-small-v2.2-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "jtatman",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-18T09:08:35Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "functionary-small-v2.2-Q2_K.gguf",
+            "size": "2719261888",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "73a73cffb08a4bbf2cad9b0256bf92373cd772fc20c6924ed4f18463ef169b7e",
+            "download": {
+                "default": "https://huggingface.co/jtatman/functionary-small-v2.2-gguf/resolve/main/functionary-small-v2.2-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "functionary-small-v2.2-Q4_0.gguf",
+            "size": "4108940224",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "ca2b8f47a1c38426950a3e4c019e8756c6ba02cad6ce594d56909d16ee327586",
+            "download": {
+                "default": "https://huggingface.co/jtatman/functionary-small-v2.2-gguf/resolve/main/functionary-small-v2.2-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "functionary-small-v2.2-Q4_K_M.gguf",
+            "size": "4368462784",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "324b68bfa176d82b4ab326d57fdbc98095eb6b177dec416c3bc7e6b49730071d",
+            "download": {
+                "default": "https://huggingface.co/jtatman/functionary-small-v2.2-gguf/resolve/main/functionary-small-v2.2-Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

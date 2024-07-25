@@ -1,0 +1,163 @@
+{
+    "id": "tsunemoto/LiteLlama-460M-1T-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "tsunemoto",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-07T22:41:51Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "litellama-460m-1t.Q2_K.gguf",
+            "size": "212556704",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "4df2c243ab62c742f9941dcb378655d2db0e90b4058891b1b757884ebd9aba99",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/LiteLlama-460M-1T-GGUF/resolve/main/litellama-460m-1t.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "litellama-460m-1t.Q3_K_L.gguf",
+            "size": "253915040",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "f6e5192eda541ebce4dee33f5bd45aeba85ce1031f91fdd3479dea8e6bd3c771",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/LiteLlama-460M-1T-GGUF/resolve/main/litellama-460m-1t.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "litellama-460m-1t.Q3_K_M.gguf",
+            "size": "238874528",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "432afbc3897a1264b205a08c9cab199477e7440944dc56bb914850f51188ffaa",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/LiteLlama-460M-1T-GGUF/resolve/main/litellama-460m-1t.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "litellama-460m-1t.Q3_K_S.gguf",
+            "size": "220663712",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "50d504e11ccf5a27653a0a0b0bace60f6e38d2dc2935a96b28bf60a6505408f4",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/LiteLlama-460M-1T-GGUF/resolve/main/litellama-460m-1t.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "litellama-460m-1t.Q4_0.gguf",
+            "size": "275133344",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "ffacfd8f63dcac9801d495b925235a7533987560373f6dbae4890814667ad71d",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/LiteLlama-460M-1T-GGUF/resolve/main/litellama-460m-1t.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "litellama-460m-1t.Q4_1.gguf",
+            "size": "300766112",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "fc0e665f9d8bf3aa57de0173a7d910d3b92b5c3148d44772d1f6c0fb2063bb31",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/LiteLlama-460M-1T-GGUF/resolve/main/litellama-460m-1t.Q4_1.gguf"
+            }
+        },
+        {
+            "name": "litellama-460m-1t.Q4_K_M.gguf",
+            "size": "288514976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "757cc33f6be269ddec86719b1ef048949d21e1350391230491e09f37e107218e",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/LiteLlama-460M-1T-GGUF/resolve/main/litellama-460m-1t.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "litellama-460m-1t.Q4_K_S.gguf",
+            "size": "277296032",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "f2be63fb6fb05196f810601c54dd90c2ff1ab41327af69f8a6971f018500b834",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/LiteLlama-460M-1T-GGUF/resolve/main/litellama-460m-1t.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "litellama-460m-1t.Q5_0.gguf",
+            "size": "326398880",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "b33ac7bc14a8a30db496b9074b36f54cbf0f8e354ddbe92e77a703aeac41c489",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/LiteLlama-460M-1T-GGUF/resolve/main/litellama-460m-1t.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "litellama-460m-1t.Q5_1.gguf",
+            "size": "352031648",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "6bd20e428d5db71d3514ede35a94e1d345f31f34426d910e324ebc1dd1a8a2e4",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/LiteLlama-460M-1T-GGUF/resolve/main/litellama-460m-1t.Q5_1.gguf"
+            }
+        },
+        {
+            "name": "litellama-460m-1t.Q5_K_M.gguf",
+            "size": "333292448",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "1fa433eb921db3b85881dc18ed434ae2949c9ab83ee1408986d5f5a332641fd3",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/LiteLlama-460M-1T-GGUF/resolve/main/litellama-460m-1t.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "litellama-460m-1t.Q5_K_S.gguf",
+            "size": "326398880",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "a4b21138a3a405320300c759d2359434eb8ce427f2c6a7394e32f71214f1a868",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/LiteLlama-460M-1T-GGUF/resolve/main/litellama-460m-1t.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "litellama-460m-1t.Q6_K.gguf",
+            "size": "380868512",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "539f5cbead5fc22ff716cdd21a7369a8705272fc3218596b73cf03ab724aa5ea",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/LiteLlama-460M-1T-GGUF/resolve/main/litellama-460m-1t.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "litellama-460m-1t.Q8_0.gguf",
+            "size": "492670880",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "252750d4bccaad5f578437a478b7010a84d34fa48124ef51d4373dfb152e9273",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/LiteLlama-460M-1T-GGUF/resolve/main/litellama-460m-1t.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

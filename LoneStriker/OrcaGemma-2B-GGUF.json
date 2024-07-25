@@ -1,0 +1,73 @@
+{
+    "id": "LoneStriker/OrcaGemma-2B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LoneStriker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-27T18:23:21Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "OrcaGemma-2B-Q3_K_L.gguf",
+            "size": "1465590912",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "a522032c4511a11a32349270e9f054b4204ddedebb81de94b5be6d03a570fd8c",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/OrcaGemma-2B-GGUF/resolve/main/OrcaGemma-2B-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "OrcaGemma-2B-Q4_K_M.gguf",
+            "size": "1630262400",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "6ade9bf3d5f06601ee063ac142e623a8862441316d1297d826a00fb4c8381e8c",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/OrcaGemma-2B-GGUF/resolve/main/OrcaGemma-2B-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "OrcaGemma-2B-Q5_K_M.gguf",
+            "size": "1839649920",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "742c1790d043ee6aba227f9cd51ab753bcd7ee5d7c2d4b38a510f4b230942fa9",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/OrcaGemma-2B-GGUF/resolve/main/OrcaGemma-2B-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "OrcaGemma-2B-Q6_K.gguf",
+            "size": "2062124160",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "14b4b1eafe33f93583cf1ab6d6c41c4d9361f5f227572ec65172450a6f4fa1a1",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/OrcaGemma-2B-GGUF/resolve/main/OrcaGemma-2B-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "OrcaGemma-2B-Q8_0.gguf",
+            "size": "2669069440",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "87cc12ef46ed872dcce9c79a303efac2cca2ce788f9abcd191dc236d4e27648e",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/OrcaGemma-2B-GGUF/resolve/main/OrcaGemma-2B-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

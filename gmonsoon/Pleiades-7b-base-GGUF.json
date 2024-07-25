@@ -1,0 +1,53 @@
+{
+    "id": "gmonsoon/Pleiades-7b-base-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "gmonsoon",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-21T17:14:42Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "pleiades-7b-base.fp16.gguf",
+            "size": "13527455104",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6c5813390636f30cfd7fd1dea36279242c8c36e5ef4892209998c87bb421b994",
+            "download": {
+                "default": "https://huggingface.co/gmonsoon/Pleiades-7b-base-GGUF/resolve/main/pleiades-7b-base.fp16.gguf"
+            }
+        },
+        {
+            "name": "pleiades-7b-base.Q2_K.gguf",
+            "size": "2547080640",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "9b071cf770c8dbcc110067e475880ee7388f9634ae377dfcd2b8452e0c4eb194",
+            "download": {
+                "default": "https://huggingface.co/gmonsoon/Pleiades-7b-base-GGUF/resolve/main/pleiades-7b-base.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "pleiades-7b-base.Q4_K_M.gguf",
+            "size": "4098108864",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "6001f3575e560d45b804f0682636f985fa505292764569efba342a17748ad5dc",
+            "download": {
+                "default": "https://huggingface.co/gmonsoon/Pleiades-7b-base-GGUF/resolve/main/pleiades-7b-base.Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

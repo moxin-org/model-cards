@@ -1,0 +1,43 @@
+{
+    "id": "NousResearch/Nous-Capybara-7B-V1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "NousResearch",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-20T01:53:14Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Capybara-V1-Q4_K_M.gguf",
+            "size": "4081004256",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a114fc8697e5ad3fa87b378b6d1c0ea6b3ba344424fc13702ade33588c16a5e1",
+            "download": {
+                "default": "https://huggingface.co/NousResearch/Nous-Capybara-7B-V1-GGUF/resolve/main/Capybara-V1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q5_K.gguf",
+            "size": "4783156960",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "4ae4fae616f5316e92db4078ed3103e0f5ec3a26d73c0a0c77cf47a537b0d6b4",
+            "download": {
+                "default": "https://huggingface.co/NousResearch/Nous-Capybara-7B-V1-GGUF/resolve/main/ggml-model-Q5_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,203 @@
+{
+    "id": "andrijdavid/TinyLlama-1.1B-32k-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "andrijdavid",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-02T15:04:39Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "TinyLlama-1.1B-32k-Q4_K_S.gguf",
+            "size": "643728384",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "03d26b82e11614062191dca460713b01a309701abca3ffbe8b842e3fd54430e3",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/TinyLlama-1.1B-32k-GGUF/resolve/main/TinyLlama-1.1B-32k-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "TinyLlama-1.1B-32k-Q8_0.gguf",
+            "size": "1170781184",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "307074dd112e41cfbddd1f7d6c34b835b9bf73eef134cd7241f8aa59e860d71d",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/TinyLlama-1.1B-32k-GGUF/resolve/main/TinyLlama-1.1B-32k-Q8_0.gguf"
+            }
+        },
+        {
+            "name": "TinyLlama-1.1B-32k-Q6_K.gguf",
+            "size": "904385536",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "8e8e71949dbb72f91e8801d95c12fb0fc7b48350dfcbd3aa4d2b68b6b8d40aff",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/TinyLlama-1.1B-32k-GGUF/resolve/main/TinyLlama-1.1B-32k-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "TinyLlama-1.1B-32k-Q5_K.gguf",
+            "size": "783016960",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "df9f976c7ddf763db805f6008ec6c095e79404f44dcefa53ce1d31e681091d40",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/TinyLlama-1.1B-32k-GGUF/resolve/main/TinyLlama-1.1B-32k-Q5_K.gguf"
+            }
+        },
+        {
+            "name": "TinyLlama-1.1B-32k-Q5_K_S.gguf",
+            "size": "767001600",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "9b057cc2010d45ffb8254311c0135017642f1445e62bf51ab4b2a70e4ba633f5",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/TinyLlama-1.1B-32k-GGUF/resolve/main/TinyLlama-1.1B-32k-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "TinyLlama-1.1B-32k-Q5_K_M.gguf",
+            "size": "783016960",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "df9f976c7ddf763db805f6008ec6c095e79404f44dcefa53ce1d31e681091d40",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/TinyLlama-1.1B-32k-GGUF/resolve/main/TinyLlama-1.1B-32k-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "TinyLlama-1.1B-32k-Q5_1.gguf",
+            "size": "831652864",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "5fd46c38b2903ca5d3dc927229d1e93319e83b990fc594232d3b2be3db2583f7",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/TinyLlama-1.1B-32k-GGUF/resolve/main/TinyLlama-1.1B-32k-Q5_1.gguf"
+            }
+        },
+        {
+            "name": "TinyLlama-1.1B-32k-Q5_0.gguf",
+            "size": "767001600",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "8bcf5425fc94e4663f777575c986050c536149ee5a674b8fc8b2a06814c3bfea",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/TinyLlama-1.1B-32k-GGUF/resolve/main/TinyLlama-1.1B-32k-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "TinyLlama-1.1B-32k-Q4_K.gguf",
+            "size": "668787712",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "fa017255dd6ed72ed4791173fe71e63e4b271cdc4daaf1b5cc154d953400ed96",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/TinyLlama-1.1B-32k-GGUF/resolve/main/TinyLlama-1.1B-32k-Q4_K.gguf"
+            }
+        },
+        {
+            "name": "TinyLlama-1.1B-32k-f16.gguf",
+            "size": "2201990080",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4c08de26a2fd76aedfebdf0ded208e7d737e9433ff6411341c373219f712b522",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/TinyLlama-1.1B-32k-GGUF/resolve/main/TinyLlama-1.1B-32k-f16.gguf"
+            }
+        },
+        {
+            "name": "TinyLlama-1.1B-32k-Q4_K_M.gguf",
+            "size": "668787712",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "fa017255dd6ed72ed4791173fe71e63e4b271cdc4daaf1b5cc154d953400ed96",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/TinyLlama-1.1B-32k-GGUF/resolve/main/TinyLlama-1.1B-32k-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "TinyLlama-1.1B-32k-Q4_1.gguf",
+            "size": "702350336",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "58d069252951c6896a328394c7089fa8edd57cf9f32aef6b1e7695756e444be2",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/TinyLlama-1.1B-32k-GGUF/resolve/main/TinyLlama-1.1B-32k-Q4_1.gguf"
+            }
+        },
+        {
+            "name": "TinyLlama-1.1B-32k-Q4_0.gguf",
+            "size": "637699072",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "1141414ce0d87194c3350dd20830187b12e9fdc59554cfe942d4479f23269d16",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/TinyLlama-1.1B-32k-GGUF/resolve/main/TinyLlama-1.1B-32k-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "TinyLlama-1.1B-32k-Q3_K.gguf",
+            "size": "550818816",
+            "quantization": "Q3_K",
+            "tags": [],
+            "sha256": "a1cf452dd5d10ea7bec547bb490a99fc94cab97dfe2239534a7f5197066b1c9e",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/TinyLlama-1.1B-32k-GGUF/resolve/main/TinyLlama-1.1B-32k-Q3_K.gguf"
+            }
+        },
+        {
+            "name": "TinyLlama-1.1B-32k-Q3_K_S.gguf",
+            "size": "500315136",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "b8934095bf82543365ea263fff11264a37d05cb4cc2ca6e9dd20974af7071b40",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/TinyLlama-1.1B-32k-GGUF/resolve/main/TinyLlama-1.1B-32k-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "TinyLlama-1.1B-32k-Q3_K_M.gguf",
+            "size": "550818816",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "a1cf452dd5d10ea7bec547bb490a99fc94cab97dfe2239534a7f5197066b1c9e",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/TinyLlama-1.1B-32k-GGUF/resolve/main/TinyLlama-1.1B-32k-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "TinyLlama-1.1B-32k-Q3_K_L.gguf",
+            "size": "592499712",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "d5b19335ce9c88f402fc5a6df44bb001a6e4ab45b7aa61cf44a2f9e70f53d7e8",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/TinyLlama-1.1B-32k-GGUF/resolve/main/TinyLlama-1.1B-32k-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "TinyLlama-1.1B-32k-Q2_K.gguf",
+            "size": "483116032",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "b5acbfbe9df29f2a9e7bb5d419c07d33dd4a7dc7c5ab16d6be866f8896c7dd76",
+            "download": {
+                "default": "https://huggingface.co/andrijdavid/TinyLlama-1.1B-32k-GGUF/resolve/main/TinyLlama-1.1B-32k-Q2_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

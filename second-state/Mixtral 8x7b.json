@@ -1,0 +1,143 @@
+{
+    "id": "second-state/Mixtral-8x7B-Instruct-v0.1-GGUF",
+    "status": "published",
+    "model_type": "instruct",
+    "name": "Mixtral 8x7b",
+    "summary": "The MoE model from Mistral AI",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "8x7B",
+    "requires": "",
+    "released_at": "2024-01-01T12:43:59Z",
+    "architecture": "Llama2",
+    "files": [
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-Q2_K.gguf",
+            "size": "17309173632",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "00d72a92564ef228b15cad2a95f7292fad0e7ac58dfa9488ba7363cd52cfa14a",
+            "download": {
+                "default": "https://huggingface.co/second-state/Mixtral-8x7B-Instruct-v0.1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-Q3_K_L.gguf",
+            "size": "24167589760",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "3e00697bc004cd19b2b6c3b1f8da70283559be1457b5c9a8b74fdc146d9229b9",
+            "download": {
+                "default": "https://huggingface.co/second-state/Mixtral-8x7B-Instruct-v0.1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-Q3_K_M.gguf",
+            "size": "22544394112",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e9728d89750c879bc2bab36a105bfb1c2ce93675b38938ba750d32deb6d09f75",
+            "download": {
+                "default": "https://huggingface.co/second-state/Mixtral-8x7B-Instruct-v0.1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-Q3_K_S.gguf",
+            "size": "20430464896",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "e685c729b482a0fba3f7560cd20235569937c55fde9a79526bfc8271ed16d88d",
+            "download": {
+                "default": "https://huggingface.co/second-state/Mixtral-8x7B-Instruct-v0.1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-Q4_0.gguf",
+            "size": "26441533312",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "a66f440f631d56d54a3ee444448c98d7e3ba44d58c32fb00852d25e72bbcd369",
+            "download": {
+                "default": "https://huggingface.co/second-state/Mixtral-8x7B-Instruct-v0.1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-Q4_K_M.gguf",
+            "size": "28446410624",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "f82f5e18140c1b715d97623b8d3d2453252d0517e1bc3f53e7828362c6e50137",
+            "download": {
+                "default": "https://huggingface.co/second-state/Mixtral-8x7B-Instruct-v0.1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-Q4_K_S.gguf",
+            "size": "26743523200",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "d758d872813b4006b12334f9881fd1babb678643925889e926cbf6435ce98181",
+            "download": {
+                "default": "https://huggingface.co/second-state/Mixtral-8x7B-Instruct-v0.1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-Q5_0.gguf",
+            "size": "32229279616",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "c912687e8c1d0093b24420f57490e5676c742e59c0cd2632d9d78899cc973755",
+            "download": {
+                "default": "https://huggingface.co/second-state/Mixtral-8x7B-Instruct-v0.1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-Q5_K_M.gguf",
+            "size": "33227523968",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ffc48e5363b830341d157b7501374232badbf98c18384aecb93ff5adbfe0bdd7",
+            "download": {
+                "default": "https://huggingface.co/second-state/Mixtral-8x7B-Instruct-v0.1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-Q5_K_S.gguf",
+            "size": "32229279616",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "6d6f69cbed2dc3b46d73d340250346809eca7e214fe050c8339f450208775060",
+            "download": {
+                "default": "https://huggingface.co/second-state/Mixtral-8x7B-Instruct-v0.1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-Q6_K.gguf",
+            "size": "38378760064",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "6aa6a3a2a576fe549e136e1f17ef1cb7627e7d2b337a0cb06d675ffb66ba7be3",
+            "download": {
+                "default": "https://huggingface.co/second-state/Mixtral-8x7B-Instruct-v0.1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-Q8_0.gguf",
+            "size": "49624262528",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "b738afcd7892b22286377f4c25ba70dbefad5e8ff3d33dba64767b640f4884b1",
+            "download": {
+                "default": "https://huggingface.co/second-state/Mixtral-8x7B-Instruct-v0.1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "mistral-instruct",
+    "reverse_prompt": "",
+    "context_size": 4096,
+    "vector_size": 0,
+    "metrics": {}
+}

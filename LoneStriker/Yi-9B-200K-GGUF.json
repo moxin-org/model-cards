@@ -1,0 +1,73 @@
+{
+    "id": "LoneStriker/Yi-9B-200K-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LoneStriker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-16T10:54:34Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Yi-9B-200K-Q3_K_L.gguf",
+            "size": "4690751264",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "6b12456d303a1b8a1910a0e2bf04584f372ea448bfd8ed306264d7967e7226eb",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Yi-9B-200K-GGUF/resolve/main/Yi-9B-200K-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-200K-Q4_K_M.gguf",
+            "size": "5328957216",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "9505d9cae76933f788c8271a8a608640fecf1bf1ee4819a9ffca2b9b04374a08",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Yi-9B-200K-GGUF/resolve/main/Yi-9B-200K-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-200K-Q5_K_M.gguf",
+            "size": "6258257696",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f7d7bcef5e28483b5825ca03db213601317df5a5d7698497b487773a4e65f9b7",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Yi-9B-200K-GGUF/resolve/main/Yi-9B-200K-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-200K-Q6_K.gguf",
+            "size": "7245639456",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "16162007818fa8a7f0c381eddca3383e641268c6e0dc3453085772b82e7315dc",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Yi-9B-200K-GGUF/resolve/main/Yi-9B-200K-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-200K-Q8_0.gguf",
+            "size": "9383915296",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "6a00e8fda65a86e8d44cb0eae3f769c47192fb3cc5ce58c1c99b62f9a86363b3",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Yi-9B-200K-GGUF/resolve/main/Yi-9B-200K-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

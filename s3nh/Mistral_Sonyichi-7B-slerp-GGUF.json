@@ -1,0 +1,43 @@
+{
+    "id": "s3nh/Mistral_Sonyichi-7B-slerp-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-13T22:55:47Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistral_sonyichi-7b-slerp.Q4_K_M.gguf",
+            "size": "4368439520",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "657f2984013a6445473c29eb46293c829345966896fa3345cb55b004889e6d5a",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Mistral_Sonyichi-7B-slerp-GGUF/resolve/main/mistral_sonyichi-7b-slerp.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral_sonyichi-7b-slerp.Q5_K_M.gguf",
+            "size": "5131409632",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e65ec38c7c13811c79ef1c4cade5106d52c006ea42630417ede325add23bb2b8",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Mistral_Sonyichi-7B-slerp-GGUF/resolve/main/mistral_sonyichi-7b-slerp.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

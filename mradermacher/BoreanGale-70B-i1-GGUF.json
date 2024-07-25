@@ -1,0 +1,233 @@
+{
+    "id": "mradermacher/BoreanGale-70B-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-01T15:25:36Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "BoreanGale-70B.i1-IQ4_NL.gguf",
+            "size": "39265383488",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "4405273e01979fa96585567d8c41c94b33d7ffea59c919dcd00ffaf18c27f522",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BoreanGale-70B-i1-GGUF/resolve/main/BoreanGale-70B.i1-IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "BoreanGale-70B.i1-Q5_K_S.gguf",
+            "size": "47770645568",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "b4710d5f4801edab5e2be7a4e6bbaf60d481f7fe2658f9c4b485922781630409",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BoreanGale-70B-i1-GGUF/resolve/main/BoreanGale-70B.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "BoreanGale-70B.i1-Q5_K_M.gguf",
+            "size": "49063015488",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "b967e7468f6e4136972a4a22039cee817b2fdb656ef57ca03625e6536fc50542",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BoreanGale-70B-i1-GGUF/resolve/main/BoreanGale-70B.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "BoreanGale-70B.i1-Q4_K_S.gguf",
+            "size": "39558984768",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "c8af456d4947ea24011fbb106eca5e12f9b4dac90216d99f56a06ae6e6c84141",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BoreanGale-70B-i1-GGUF/resolve/main/BoreanGale-70B.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "BoreanGale-70B.i1-Q4_K_M.gguf",
+            "size": "41732158528",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "176620e514b43c378e346274dc7a3909ee198009449d6674424edbf38b80fbd0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BoreanGale-70B-i1-GGUF/resolve/main/BoreanGale-70B.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "BoreanGale-70B.i1-Q4_0.gguf",
+            "size": "39328298048",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "80e75558c23c358d91d6ef4b1404fa42d8ef0d6c8020e61d405503dca1eeda74",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BoreanGale-70B-i1-GGUF/resolve/main/BoreanGale-70B.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "BoreanGale-70B.i1-Q3_K_S.gguf",
+            "size": "30228542528",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "f54e0fd659c397b596ccb4b36751efe3de596b51de66ed5a5191962e626721e7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BoreanGale-70B-i1-GGUF/resolve/main/BoreanGale-70B.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "BoreanGale-70B.i1-Q3_K_M.gguf",
+            "size": "33583985728",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "71f84c5265e55917ee1f67f71cc351dbb3896e1166b6e497591bc1889958ca2f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BoreanGale-70B-i1-GGUF/resolve/main/BoreanGale-70B.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "BoreanGale-70B.i1-Q3_K_L.gguf",
+            "size": "36457083968",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "2f6ec39640fdabdc4015aafccfab03e81eb4db900412241180a7ee7755bc600d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BoreanGale-70B-i1-GGUF/resolve/main/BoreanGale-70B.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "BoreanGale-70B.i1-Q2_K.gguf",
+            "size": "25771684928",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "01f04b62c6b54bc3133e4c5a72dcb2611c4cd52dcd03109a5901e42cf1b685da",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BoreanGale-70B-i1-GGUF/resolve/main/BoreanGale-70B.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "BoreanGale-70B.i1-IQ4_XS.gguf",
+            "size": "37139067968",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "1a796679dbfc6c2228f9aa1104b5f5231f2b81ddc8b0205efcf04b24d59764ff",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BoreanGale-70B-i1-GGUF/resolve/main/BoreanGale-70B.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "BoreanGale-70B.i1-IQ1_M.gguf",
+            "size": "15943251008",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "61235992d4dde6ee45c96e078b07b93875ad16c6c9016dcb5814f35e9b0f90d2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BoreanGale-70B-i1-GGUF/resolve/main/BoreanGale-70B.i1-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "BoreanGale-70B.i1-IQ3_XXS.gguf",
+            "size": "26925528128",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "4809d4f82062a02a7e915a26156762ab20c43d79997c94b19bf25e9add64c62a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BoreanGale-70B-i1-GGUF/resolve/main/BoreanGale-70B.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "BoreanGale-70B.i1-IQ3_XS.gguf",
+            "size": "28451206208",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "e379236546e26a0d3f5d3e3de43cd648b42e2e40f1bac2635b99353dccfc9e56",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BoreanGale-70B-i1-GGUF/resolve/main/BoreanGale-70B.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "BoreanGale-70B.i1-IQ3_S.gguf",
+            "size": "30228542528",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "117d920365d24afd8d948c2c767dac151fd92412bdc1bd74462930b5ba36e9b3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BoreanGale-70B-i1-GGUF/resolve/main/BoreanGale-70B.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "BoreanGale-70B.i1-IQ3_M.gguf",
+            "size": "31253525568",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "75a9ee8e9a5b1e8a6ce36ee1851022491eecb65d2423a3842580eecef1fad61a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BoreanGale-70B-i1-GGUF/resolve/main/BoreanGale-70B.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "BoreanGale-70B.i1-IQ2_XXS.gguf",
+            "size": "18633503808",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "5aeb1a4de287b2d0437c4c0ee5a15186823e3bd43681aac399d4a3042df67518",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BoreanGale-70B-i1-GGUF/resolve/main/BoreanGale-70B.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "BoreanGale-70B.i1-IQ2_XS.gguf",
+            "size": "20678227008",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "0f609d5b94f48f4cf7ffca156fc9204c83093211edb2da535d0504afeabef2f7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BoreanGale-70B-i1-GGUF/resolve/main/BoreanGale-70B.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "BoreanGale-70B.i1-IQ2_S.gguf",
+            "size": "21698376768",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "a0cfe92a41741f09445cfc95992030781c175e6eeb86cc019ab3a807fa9d9c3c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BoreanGale-70B-i1-GGUF/resolve/main/BoreanGale-70B.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "BoreanGale-70B.i1-IQ2_M.gguf",
+            "size": "23575327808",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "c7fd6f77f0c663f154a814094ba584db546a34af47de701fd2eba63ca4a4364c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BoreanGale-70B-i1-GGUF/resolve/main/BoreanGale-70B.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "BoreanGale-70B.i1-IQ1_S.gguf",
+            "size": "14879601728",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "ad4ff90d729ac6a325ca3e73bd1ff03ec6b17d628fc1633bff24cb661fb08c2c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BoreanGale-70B-i1-GGUF/resolve/main/BoreanGale-70B.i1-IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,163 @@
+{
+    "id": "tsunemoto/MiniChat-1.5-3B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "tsunemoto",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-17T15:44:00Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "minichat-1.5-3b.Q2_K.gguf",
+            "size": "1297187936",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "0fc12ed2817faa2bef3aa5b3282a0775e3192362375604624b4e7376667d6a20",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/MiniChat-1.5-3B-GGUF/resolve/main/minichat-1.5-3b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "minichat-1.5-3b.Q3_K_L.gguf",
+            "size": "1631048288",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "0ec83f845378db87af095ab1695dc4831cf89646f14fb10f8ff0149d227a69fa",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/MiniChat-1.5-3B-GGUF/resolve/main/minichat-1.5-3b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "minichat-1.5-3b.Q3_K_M.gguf",
+            "size": "1507578464",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "2d86dc1e3bdc29671cea85d4a6fbcc683d426b8fb7285dea387640e397999f92",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/MiniChat-1.5-3B-GGUF/resolve/main/minichat-1.5-3b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "minichat-1.5-3b.Q3_K_S.gguf",
+            "size": "1358549600",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "c19418e7dbba08cb9e4041f9f226c6411660bad5b2f530519a58aea39ee3d28a",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/MiniChat-1.5-3B-GGUF/resolve/main/minichat-1.5-3b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "minichat-1.5-3b.Q4_0.gguf",
+            "size": "1739602016",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "f4b6f9bb849621a46fff06046c1c81f332dee308267015d572daec7deffc7d74",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/MiniChat-1.5-3B-GGUF/resolve/main/minichat-1.5-3b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "minichat-1.5-3b.Q4_1.gguf",
+            "size": "1918920800",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "051729d88bb30f3027ad4f19d2e3d6d11d547f814e8e44294b4f6470c0cf1a38",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/MiniChat-1.5-3B-GGUF/resolve/main/minichat-1.5-3b.Q4_1.gguf"
+            }
+        },
+        {
+            "name": "minichat-1.5-3b.Q4_K_M.gguf",
+            "size": "1846655072",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "9e1fd530238689e418a047c91fb4449836897a79a705dfb57c7ccac9d0758484",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/MiniChat-1.5-3B-GGUF/resolve/main/minichat-1.5-3b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "minichat-1.5-3b.Q4_K_S.gguf",
+            "size": "1756903520",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "425bbaade022c98e20e683eea1c0de06611a1b0ded25d7d40511fd78d619acc7",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/MiniChat-1.5-3B-GGUF/resolve/main/minichat-1.5-3b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "minichat-1.5-3b.Q5_0.gguf",
+            "size": "2098239584",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "919f73f5dbacd7310fdbb03593d93738268dcb21e4dab3c8bcadbba978f0e389",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/MiniChat-1.5-3B-GGUF/resolve/main/minichat-1.5-3b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "minichat-1.5-3b.Q5_1.gguf",
+            "size": "2277558368",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "106a624b3363b01d6429c62a7632c683c53cb5795a2664ac28417aad12b6d123",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/MiniChat-1.5-3B-GGUF/resolve/main/minichat-1.5-3b.Q5_1.gguf"
+            }
+        },
+        {
+            "name": "minichat-1.5-3b.Q5_K_M.gguf",
+            "size": "2153388128",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "313951b28a7ffc0e70b6cadf2e5f6383b3d51c8898c7de06835067c1189ee0e2",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/MiniChat-1.5-3B-GGUF/resolve/main/minichat-1.5-3b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "minichat-1.5-3b.Q5_K_S.gguf",
+            "size": "2098239584",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "29d6cbf3e33c2608efbb2f1d24c76d2a0290bf8b6cdec56da605c993dff8e748",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/MiniChat-1.5-3B-GGUF/resolve/main/minichat-1.5-3b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "minichat-1.5-3b.Q6_K.gguf",
+            "size": "2479292000",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "93a1cd1b33ee884e285907d0870155f5d0dbfdb3999878c2f828c7a036666eb7",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/MiniChat-1.5-3B-GGUF/resolve/main/minichat-1.5-3b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "minichat-1.5-3b.Q8_0.gguf",
+            "size": "3210768992",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "28c909c1f1c2f3affc5607439bc7219f4d23e4778d1a13c6bfe7d9d18d54df73",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/MiniChat-1.5-3B-GGUF/resolve/main/minichat-1.5-3b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

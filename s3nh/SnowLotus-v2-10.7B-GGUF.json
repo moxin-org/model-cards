@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/SnowLotus-v2-10.7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-17T09:39:47Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "snowlotus-v2-10.7b.Q3_K_S.gguf",
+            "size": "3363528032",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "9827423d44bd5089371f4b5688708f190b21daad6a921963c2712592dbaa0039",
+            "download": {
+                "default": "https://huggingface.co/s3nh/SnowLotus-v2-10.7B-GGUF/resolve/main/snowlotus-v2-10.7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "snowlotus-v2-10.7b.Q4_K_M.gguf",
+            "size": "4693458272",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "0408ba6b5950fa049a26e7bfc71b695dbe48bb9e4948c2baf00dafb60b35ae46",
+            "download": {
+                "default": "https://huggingface.co/s3nh/SnowLotus-v2-10.7B-GGUF/resolve/main/snowlotus-v2-10.7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "snowlotus-v2-10.7b.Q5_K_M.gguf",
+            "size": "5530352992",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "02c874c75c3ac078030206a61a01ca693497caa6abf06528232cf77c28814f56",
+            "download": {
+                "default": "https://huggingface.co/s3nh/SnowLotus-v2-10.7B-GGUF/resolve/main/snowlotus-v2-10.7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "snowlotus-v2-10.7b.Q6_K.gguf",
+            "size": "6419553632",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "9f8d83f86898ca4e6f2a532ea86e77e144368d58037c4e01dc3c51aa15ce9e57",
+            "download": {
+                "default": "https://huggingface.co/s3nh/SnowLotus-v2-10.7B-GGUF/resolve/main/snowlotus-v2-10.7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "snowlotus-v2-10.7b.Q8_0.gguf",
+            "size": "8314289504",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "02b27d94a59407776b3717b7679d5e8130e563d9f1ab86b77ed05b5f552ab9ee",
+            "download": {
+                "default": "https://huggingface.co/s3nh/SnowLotus-v2-10.7B-GGUF/resolve/main/snowlotus-v2-10.7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

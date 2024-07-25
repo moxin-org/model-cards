@@ -1,0 +1,53 @@
+{
+    "id": "21world/go-bruins-v2.1.1.GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "21world",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-16T16:27:05Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "go-bruins-v2.1.1-Q3_K_S.gguf",
+            "size": "3165503552",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "9f7c701c0d98f3d7a4505360bed79582db6c19164ff17c56b2ba683633d4fb54",
+            "download": {
+                "default": "https://huggingface.co/21world/go-bruins-v2.1.1.GGUF/resolve/main/go-bruins-v2.1.1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "go-bruins-v2.1.1-Q4_K_S.gguf",
+            "size": "4141310016",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "efb033284a76e6ae983380e69c347e317519e5aedc134869842aea557932a6cc",
+            "download": {
+                "default": "https://huggingface.co/21world/go-bruins-v2.1.1.GGUF/resolve/main/go-bruins-v2.1.1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "go-bruins-v2.1.1-Q8_0.gguf",
+            "size": "7696793664",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "c602b3f31604b902979eeef8547063c84415ec4a368cef24b3d0153818bb5fff",
+            "download": {
+                "default": "https://huggingface.co/21world/go-bruins-v2.1.1.GGUF/resolve/main/go-bruins-v2.1.1-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,173 @@
+{
+    "id": "rozek/LLaMA-2-7B-32K-Instruct_GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "rozek",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-08-30T07:45:16Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "LLaMA-2-7B-32K-Instruct-f16.gguf",
+            "size": "13477973312",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9e6a5505367f9ee7530ee5579277c386b6c2ed7aff377531059225ec12e27574",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K-Instruct_GGUF/resolve/main/LLaMA-2-7B-32K-Instruct-f16.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Instruct-Q2_K.gguf",
+            "size": "2825940576",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a2dc2f066c194e14313e3a39b88038215483bfafc0aba15780acb76007e29e93",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K-Instruct_GGUF/resolve/main/LLaMA-2-7B-32K-Instruct-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Instruct-Q3_K_L.gguf",
+            "size": "3597110880",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "5827d98e979a32235be0a2e4b8e2789f870bd6459d68e269599175d622945241",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K-Instruct_GGUF/resolve/main/LLaMA-2-7B-32K-Instruct-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Instruct-Q3_K_M.gguf",
+            "size": "3298004576",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "c6de86376a83c5f04af8c22c128691566905d17406a0f1eb58b84607213e08e1",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K-Instruct_GGUF/resolve/main/LLaMA-2-7B-32K-Instruct-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Instruct-Q3_K_S.gguf",
+            "size": "2948304480",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "4dd3653c77b58ca552b43ae2103caa8a719dd44de96327bdd9e7bac6750c83bd",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K-Instruct_GGUF/resolve/main/LLaMA-2-7B-32K-Instruct-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Instruct-Q4_0.gguf",
+            "size": "3825806944",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "26b28a48cc5a5fa568afdf19d18c49d52785e7c068501d9ea5506ebe5ea2bcd1",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K-Instruct_GGUF/resolve/main/LLaMA-2-7B-32K-Instruct-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Instruct-Q4_1.gguf",
+            "size": "4238749280",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "5b09c19b145f3b79ee76c3bfe60b620be4056b8fd800fb9f2c511515b0d1efb7",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K-Instruct_GGUF/resolve/main/LLaMA-2-7B-32K-Instruct-Q4_1.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Instruct-Q4_K_M.gguf",
+            "size": "4081004128",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a486a5c53ecbd54ddb4377d5a3a12e83432531447d6ba6a7c0919f05c213b272",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K-Instruct_GGUF/resolve/main/LLaMA-2-7B-32K-Instruct-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Instruct-Q4_K_S.gguf",
+            "size": "3856739936",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "1a87797b2ec53f7dc32b14e8a324442d1adbbf525088843cefdbd35c99707756",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K-Instruct_GGUF/resolve/main/LLaMA-2-7B-32K-Instruct-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Instruct-Q5_0.gguf",
+            "size": "4651691616",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "6ad4bd9968a5b9f078284433c5a5e83ca90f056374d0c7296474a477a9730fb1",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K-Instruct_GGUF/resolve/main/LLaMA-2-7B-32K-Instruct-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Instruct-Q5_1.gguf",
+            "size": "5064633952",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "0be910d90411066b07e85478e4f17ca96e67e15835ae9e274382a38dac018853",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K-Instruct_GGUF/resolve/main/LLaMA-2-7B-32K-Instruct-Q5_1.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Instruct-Q5_K_M.gguf",
+            "size": "4783156832",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e7621361b1e3b78e8e5aa9fe41fcd1e55ca6b3d0b8787f63c99aaa72049408fd",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K-Instruct_GGUF/resolve/main/LLaMA-2-7B-32K-Instruct-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Instruct-Q5_K_S.gguf",
+            "size": "4651691616",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "91eaa952ba61e40357ba52de315b8d57ae54e00dd22cc691b78613fc650bc71c",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K-Instruct_GGUF/resolve/main/LLaMA-2-7B-32K-Instruct-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Instruct-Q6_K.gguf",
+            "size": "5529194080",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "00d15b6e02e4fe8b1357c3b980175caad882f29c5b31847535f39852000d6c0b",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K-Instruct_GGUF/resolve/main/LLaMA-2-7B-32K-Instruct-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "LLaMA-2-7B-32K-Instruct-Q8_0.gguf",
+            "size": "7161089632",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "b6ed5ead9a903ff99c6b415617258bedd415113d62b45824d1353f303153e23d",
+            "download": {
+                "default": "https://huggingface.co/rozek/LLaMA-2-7B-32K-Instruct_GGUF/resolve/main/LLaMA-2-7B-32K-Instruct-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

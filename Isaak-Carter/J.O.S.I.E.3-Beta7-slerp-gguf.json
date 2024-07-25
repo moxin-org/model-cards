@@ -1,0 +1,63 @@
+{
+    "id": "Isaak-Carter/J.O.S.I.E.3-Beta7-slerp-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Isaak-Carter",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-17T16:28:05Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "josie_beta-7-7b-slerp.Q3_K_L.gguf",
+            "size": "3822035424",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "6ddd0809de93fe57eeaef1b3847bc350644760a0f79468242c6d18989a31234f",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/J.O.S.I.E.3-Beta7-slerp-gguf/resolve/main/josie_beta-7-7b-slerp.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "josie_beta-7-7b-slerp.Q4_K_S.gguf",
+            "size": "4140385824",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "19b2e46eeeedb39fd863db96866380170c6842ff3c853e78b0b7c9a74d2179a2",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/J.O.S.I.E.3-Beta7-slerp-gguf/resolve/main/josie_beta-7-7b-slerp.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "josie_beta-7-7b-slerp.Q5_K_M.gguf",
+            "size": "5131422240",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "af96b5c30789878da40abc3e0d7a6169e401457a8c0d958e59a0280d924fa63a",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/J.O.S.I.E.3-Beta7-slerp-gguf/resolve/main/josie_beta-7-7b-slerp.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "josie_beta-7-7b-slerp.Q6_K.gguf",
+            "size": "5942079072",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "5f7a5d127be68df9561bc0b61ba73fce90e40b529c5c76be3ef73a79bbbf5922",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/J.O.S.I.E.3-Beta7-slerp-gguf/resolve/main/josie_beta-7-7b-slerp.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

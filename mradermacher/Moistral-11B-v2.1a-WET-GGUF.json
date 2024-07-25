@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Moistral-11B-v2.1a-WET-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-01T00:20:49Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Moistral-11B-v2.1a-WET.IQ3_M.gguf",
+            "size": "4999673920",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "99fa2547677e0cd4e224b2d08075bba9439e93ff7c4fc1f6e21c2ab4337fffe1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Moistral-11B-v2.1a-WET-GGUF/resolve/main/Moistral-11B-v2.1a-WET.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Moistral-11B-v2.1a-WET.IQ3_S.gguf",
+            "size": "4845926464",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "059ed068995fe107ef0560a3fe77755c5310d63b11d1768720643bee88546895",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Moistral-11B-v2.1a-WET-GGUF/resolve/main/Moistral-11B-v2.1a-WET.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Moistral-11B-v2.1a-WET.IQ3_XS.gguf",
+            "size": "4600559680",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "53a768d083682aebee25022669817c93b6fb0a213cafa5227050a4dc98b2b570",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Moistral-11B-v2.1a-WET-GGUF/resolve/main/Moistral-11B-v2.1a-WET.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Moistral-11B-v2.1a-WET.IQ4_XS.gguf",
+            "size": "5982263360",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "43f9334485c04f9270e7c47bcea1452d305f73c5a51708edcf4262aa9a0061b9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Moistral-11B-v2.1a-WET-GGUF/resolve/main/Moistral-11B-v2.1a-WET.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Moistral-11B-v2.1a-WET.Q2_K.gguf",
+            "size": "4157855808",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "0217251094a5f398269ef997d7e5d23e4aa715413c3b3085a42384812367114f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Moistral-11B-v2.1a-WET-GGUF/resolve/main/Moistral-11B-v2.1a-WET.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Moistral-11B-v2.1a-WET.Q3_K_L.gguf",
+            "size": "5805373504",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "493c727eb5ea98be66d1d19dc050a89b1340ecdf02d0d97413cf3962713c65f4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Moistral-11B-v2.1a-WET-GGUF/resolve/main/Moistral-11B-v2.1a-WET.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Moistral-11B-v2.1a-WET.Q3_K_M.gguf",
+            "size": "5350291520",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "3ec130511456634f3858771fd062381d8d32dba3a3fcf2785e815fe00cb7130f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Moistral-11B-v2.1a-WET-GGUF/resolve/main/Moistral-11B-v2.1a-WET.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Moistral-11B-v2.1a-WET.Q3_K_S.gguf",
+            "size": "4819187776",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "0ad27d671bf38878e948a0f1477da14385d047c6335df87467b704dc7f356b7a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Moistral-11B-v2.1a-WET-GGUF/resolve/main/Moistral-11B-v2.1a-WET.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Moistral-11B-v2.1a-WET.Q4_K_M.gguf",
+            "size": "6616291392",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "725ebaa9c1bc4a0b98b17e5c7e1281b082fa9c1381087a630bc922515d8f5296",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Moistral-11B-v2.1a-WET-GGUF/resolve/main/Moistral-11B-v2.1a-WET.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Moistral-11B-v2.1a-WET.Q4_K_S.gguf",
+            "size": "6273144896",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "c793c0757e23870b6ea586af9e4d6467fe1991d96bf5b7ab090d400abd9bed4b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Moistral-11B-v2.1a-WET-GGUF/resolve/main/Moistral-11B-v2.1a-WET.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Moistral-11B-v2.1a-WET.Q5_K_M.gguf",
+            "size": "7752554560",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "3f6c644c10ad039f303c70a4da4494fdfd1c9dfd6a9053d1ec7094641946c386",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Moistral-11B-v2.1a-WET-GGUF/resolve/main/Moistral-11B-v2.1a-WET.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Moistral-11B-v2.1a-WET.Q5_K_S.gguf",
+            "size": "7552014400",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "e35fed330ad2bb85b762d0500afde91bc86e5b9474a0a8c1d5e78b9d13d3b34d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Moistral-11B-v2.1a-WET-GGUF/resolve/main/Moistral-11B-v2.1a-WET.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Moistral-11B-v2.1a-WET.Q6_K.gguf",
+            "size": "8959834176",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "a61ca125d70c2d8bbb20b55e35696b4a746e4fd05895e87e80a6a64f9f1c0c32",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Moistral-11B-v2.1a-WET-GGUF/resolve/main/Moistral-11B-v2.1a-WET.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Moistral-11B-v2.1a-WET.Q8_0.gguf",
+            "size": "11527034944",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "f69f1b86318b749101b24c33268e83a79eecb51f7c05b641825f79a3aa4197f7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Moistral-11B-v2.1a-WET-GGUF/resolve/main/Moistral-11B-v2.1a-WET.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

@@ -1,0 +1,233 @@
+{
+    "id": "mradermacher/Merged-Vicuna-RP-Stew-34B-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-09T13:43:43Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Merged-Vicuna-RP-Stew-34B.i1-IQ4_XS.gguf",
+            "size": "18475070400",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "1871357000838364aa6708c189e06e03fe604f3a287427d3863f11ec8f292d2e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-Vicuna-RP-Stew-34B-i1-GGUF/resolve/main/Merged-Vicuna-RP-Stew-34B.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Merged-Vicuna-RP-Stew-34B.i1-Q6_K.gguf",
+            "size": "28213949440",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "a577ed74ff5974793184a8d66a399ddceca33a6a23a2470c09701a3ab3323e03",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-Vicuna-RP-Stew-34B-i1-GGUF/resolve/main/Merged-Vicuna-RP-Stew-34B.i1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Merged-Vicuna-RP-Stew-34B.i1-Q5_K_S.gguf",
+            "size": "23707712640",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "6fc7f60111f0bd08e1494dfd8b0e5a21305246c83ee40c5eb67614cb95d5d4c2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-Vicuna-RP-Stew-34B-i1-GGUF/resolve/main/Merged-Vicuna-RP-Stew-34B.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Merged-Vicuna-RP-Stew-34B.i1-Q5_K_M.gguf",
+            "size": "24321866880",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "1659b81bbd332ee245c2ed4e67b17e36b6c323c07dcc06ac027a7a0a7348bf6f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-Vicuna-RP-Stew-34B-i1-GGUF/resolve/main/Merged-Vicuna-RP-Stew-34B.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Merged-Vicuna-RP-Stew-34B.i1-Q4_K_S.gguf",
+            "size": "19598669184",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "b68a2480ef4228f063ef0d27ced262efc0babab9fe84ab4760f4bf4fb2b267b1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-Vicuna-RP-Stew-34B-i1-GGUF/resolve/main/Merged-Vicuna-RP-Stew-34B.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Merged-Vicuna-RP-Stew-34B.i1-Q4_K_M.gguf",
+            "size": "20658730368",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "891625fd41ff6f45cf8ab622f73b06a8e580832a29841dad44f69f9941fd2f18",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-Vicuna-RP-Stew-34B-i1-GGUF/resolve/main/Merged-Vicuna-RP-Stew-34B.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Merged-Vicuna-RP-Stew-34B.i1-Q4_0.gguf",
+            "size": "19530773888",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "2082aa8ae3c5fd610a1adaef078195c1e2ab11b2bf8797e4caac1f4c99653f98",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-Vicuna-RP-Stew-34B-i1-GGUF/resolve/main/Merged-Vicuna-RP-Stew-34B.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Merged-Vicuna-RP-Stew-34B.i1-Q3_K_S.gguf",
+            "size": "14960311840",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "8b1ce703daad55f8acd4bcf7f0c77fc1914fc3c03ad5fcc356a95e36377ef886",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-Vicuna-RP-Stew-34B-i1-GGUF/resolve/main/Merged-Vicuna-RP-Stew-34B.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Merged-Vicuna-RP-Stew-34B.i1-Q3_K_M.gguf",
+            "size": "16654941728",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "90b62e8fbfbccaeb78ae5cb9078acc04a0f6c9570530b29bd22bbb058b1e684b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-Vicuna-RP-Stew-34B-i1-GGUF/resolve/main/Merged-Vicuna-RP-Stew-34B.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Merged-Vicuna-RP-Stew-34B.i1-Q3_K_L.gguf",
+            "size": "18139463200",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "23e389d5ee418e829e4f470ad820ba508d73c1d108a49f1d63bb3d97c1c14797",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-Vicuna-RP-Stew-34B-i1-GGUF/resolve/main/Merged-Vicuna-RP-Stew-34B.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Merged-Vicuna-RP-Stew-34B.i1-Q2_K.gguf",
+            "size": "12825249888",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "869a05b10520ceef55a4aceb17121cf0798c3d5e05153d9e0c66fac037d5a1f2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-Vicuna-RP-Stew-34B-i1-GGUF/resolve/main/Merged-Vicuna-RP-Stew-34B.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Merged-Vicuna-RP-Stew-34B.i1-IQ1_M.gguf",
+            "size": "8176799968",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "b9a1ae6914d8ca09472f3c0afb62f9d3b7c91612819708c56cf326aa5698c5d3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-Vicuna-RP-Stew-34B-i1-GGUF/resolve/main/Merged-Vicuna-RP-Stew-34B.i1-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "Merged-Vicuna-RP-Stew-34B.i1-IQ3_XXS.gguf",
+            "size": "13333890720",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "24108f3f105e5f7cce05fc4e149312dcffd69a7933c04ca2d28b1bb3fa705b73",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-Vicuna-RP-Stew-34B-i1-GGUF/resolve/main/Merged-Vicuna-RP-Stew-34B.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "Merged-Vicuna-RP-Stew-34B.i1-IQ3_XS.gguf",
+            "size": "14234336800",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "1522dcf3a1a3a4858d6f8d2736082b83d56181ef811d61108aa184a307b1a1e7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-Vicuna-RP-Stew-34B-i1-GGUF/resolve/main/Merged-Vicuna-RP-Stew-34B.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Merged-Vicuna-RP-Stew-34B.i1-IQ3_S.gguf",
+            "size": "15018802720",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "6440e46e2d6533749332894059f49f0b250a40c25e1528b9eeab5ffe74e85422",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-Vicuna-RP-Stew-34B-i1-GGUF/resolve/main/Merged-Vicuna-RP-Stew-34B.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Merged-Vicuna-RP-Stew-34B.i1-IQ3_M.gguf",
+            "size": "15564717600",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "6e11ed0c5f5149f8204ec4fd5225665d8d81658cf57a4246cdf031b7906d6364",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-Vicuna-RP-Stew-34B-i1-GGUF/resolve/main/Merged-Vicuna-RP-Stew-34B.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Merged-Vicuna-RP-Stew-34B.i1-IQ2_XXS.gguf",
+            "size": "9306476768",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "6186c29004c5bd78e619a7e5b445ea1343d2c05bbb7544bdb19810eabf7f6ce4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-Vicuna-RP-Stew-34B-i1-GGUF/resolve/main/Merged-Vicuna-RP-Stew-34B.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "Merged-Vicuna-RP-Stew-34B.i1-IQ2_XS.gguf",
+            "size": "10306556128",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "c4cc978fbbddbea06f3d42d5474079348dd59262175c99fd3be8aa03d3949c77",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-Vicuna-RP-Stew-34B-i1-GGUF/resolve/main/Merged-Vicuna-RP-Stew-34B.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Merged-Vicuna-RP-Stew-34B.i1-IQ2_S.gguf",
+            "size": "10891036320",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "79b6da40752946a4961b0c786121564ae118de09e67bce56c4c790b69d8671c0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-Vicuna-RP-Stew-34B-i1-GGUF/resolve/main/Merged-Vicuna-RP-Stew-34B.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "Merged-Vicuna-RP-Stew-34B.i1-IQ2_M.gguf",
+            "size": "11794777760",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "c9f7d3f3f3727cb37d9c74b932b6b3f591e6660ceb0b1033c829d34110e49e82",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-Vicuna-RP-Stew-34B-i1-GGUF/resolve/main/Merged-Vicuna-RP-Stew-34B.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "Merged-Vicuna-RP-Stew-34B.i1-IQ1_S.gguf",
+            "size": "7498993888",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "3562ce1b5e624191b78c93fca3086470300b651d457864c1e7bbfa3c225629a0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-Vicuna-RP-Stew-34B-i1-GGUF/resolve/main/Merged-Vicuna-RP-Stew-34B.i1-IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

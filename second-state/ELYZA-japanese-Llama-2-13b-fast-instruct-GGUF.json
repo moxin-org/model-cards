@@ -1,0 +1,143 @@
+{
+    "id": "second-state/ELYZA-japanese-Llama-2-13b-fast-instruct-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-06T03:33:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ELYZA-japanese-Llama-2-13b-fast-instruct-Q2_K.gguf",
+            "size": "5503618208",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "1af295fe3ebba88b45e0c95ca2afdf34d97bd2a166ed9c6e7c3aa5c495709461",
+            "download": {
+                "default": "https://huggingface.co/second-state/ELYZA-japanese-Llama-2-13b-fast-instruct-GGUF/resolve/main/ELYZA-japanese-Llama-2-13b-fast-instruct-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "ELYZA-japanese-Llama-2-13b-fast-instruct-Q3_K_L.gguf",
+            "size": "7010371520",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "eb51af018f0bf8cbd966ad28154ea492c7a0edd3c5677ebee679f89c861e7a8f",
+            "download": {
+                "default": "https://huggingface.co/second-state/ELYZA-japanese-Llama-2-13b-fast-instruct-GGUF/resolve/main/ELYZA-japanese-Llama-2-13b-fast-instruct-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "ELYZA-japanese-Llama-2-13b-fast-instruct-Q3_K_M.gguf",
+            "size": "6418581440",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "46ab63904bd49a8978a3c6c9b09efc8191caa3f791ea1e75ff4196e0adbf1a94",
+            "download": {
+                "default": "https://huggingface.co/second-state/ELYZA-japanese-Llama-2-13b-fast-instruct-GGUF/resolve/main/ELYZA-japanese-Llama-2-13b-fast-instruct-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "ELYZA-japanese-Llama-2-13b-fast-instruct-Q3_K_S.gguf",
+            "size": "5739792320",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "175c130066aafccf1879121f0ccba237d5f9006494dcfbdf029083b0e189f9d8",
+            "download": {
+                "default": "https://huggingface.co/second-state/ELYZA-japanese-Llama-2-13b-fast-instruct-GGUF/resolve/main/ELYZA-japanese-Llama-2-13b-fast-instruct-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "ELYZA-japanese-Llama-2-13b-fast-instruct-Q4_0.gguf",
+            "size": "7455201792",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "74292e65a7fe8817dec57046de79b4b4439f745d480512aca64c0f23e1896b96",
+            "download": {
+                "default": "https://huggingface.co/second-state/ELYZA-japanese-Llama-2-13b-fast-instruct-GGUF/resolve/main/ELYZA-japanese-Llama-2-13b-fast-instruct-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "ELYZA-japanese-Llama-2-13b-fast-instruct-Q4_K_M.gguf",
+            "size": "7955323392",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "19045bb5daa4b8d36b6b34a8861a78f65f326e567ab5761d706aea7a5374dc64",
+            "download": {
+                "default": "https://huggingface.co/second-state/ELYZA-japanese-Llama-2-13b-fast-instruct-GGUF/resolve/main/ELYZA-japanese-Llama-2-13b-fast-instruct-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "ELYZA-japanese-Llama-2-13b-fast-instruct-Q4_K_S.gguf",
+            "size": "7503698432",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "345dbbbb30f5e4c108951046b63098c7fa015bf2c06bd7f807cdb9a818e25e26",
+            "download": {
+                "default": "https://huggingface.co/second-state/ELYZA-japanese-Llama-2-13b-fast-instruct-GGUF/resolve/main/ELYZA-japanese-Llama-2-13b-fast-instruct-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "ELYZA-japanese-Llama-2-13b-fast-instruct-Q5_0.gguf",
+            "size": "9069704832",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "64e13f475c0628fbb19ea90b5d083f18fb863e928aa187e4763f3b7861130859",
+            "download": {
+                "default": "https://huggingface.co/second-state/ELYZA-japanese-Llama-2-13b-fast-instruct-GGUF/resolve/main/ELYZA-japanese-Llama-2-13b-fast-instruct-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "ELYZA-japanese-Llama-2-13b-fast-instruct-Q5_K_M.gguf",
+            "size": "9327343232",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5afdb0941cb08cdaa248a890b17256ea4776b2db4e9fed4982073e9ffbd7cff6",
+            "download": {
+                "default": "https://huggingface.co/second-state/ELYZA-japanese-Llama-2-13b-fast-instruct-GGUF/resolve/main/ELYZA-japanese-Llama-2-13b-fast-instruct-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "ELYZA-japanese-Llama-2-13b-fast-instruct-Q5_K_S.gguf",
+            "size": "9069704832",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "8b4d90586e8b85e55a20f2cb07cdab30d7c1f183b2b353d2a033f476387b153b",
+            "download": {
+                "default": "https://huggingface.co/second-state/ELYZA-japanese-Llama-2-13b-fast-instruct-GGUF/resolve/main/ELYZA-japanese-Llama-2-13b-fast-instruct-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "ELYZA-japanese-Llama-2-13b-fast-instruct-Q6_K.gguf",
+            "size": "10785114336",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "d55221da27a493d1bc10d6d30445d0480029f8af5bd41ec1fa2e1da704440ff8",
+            "download": {
+                "default": "https://huggingface.co/second-state/ELYZA-japanese-Llama-2-13b-fast-instruct-GGUF/resolve/main/ELYZA-japanese-Llama-2-13b-fast-instruct-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "ELYZA-japanese-Llama-2-13b-fast-instruct-Q8_0.gguf",
+            "size": "13968494368",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "31f9bd3248e2717b5a5496ba41b340d6feb18dac793871fb389f33e1265ba56a",
+            "download": {
+                "default": "https://huggingface.co/second-state/ELYZA-japanese-Llama-2-13b-fast-instruct-GGUF/resolve/main/ELYZA-japanese-Llama-2-13b-fast-instruct-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 5120,
+    "vector_size": 0,
+    "metrics": {}
+}

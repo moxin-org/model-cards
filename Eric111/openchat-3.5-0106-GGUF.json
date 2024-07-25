@@ -1,0 +1,53 @@
+{
+    "id": "Eric111/openchat-3.5-0106-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Eric111",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-22T14:48:17Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "openchat-3.5-0106.Q2_K.gguf",
+            "size": "2719251648",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "cb8e7bde16389a72930392f4fe6ca785b49dfa5ffe5c5d7fad09a1f5e3eb8684",
+            "download": {
+                "default": "https://huggingface.co/Eric111/openchat-3.5-0106-GGUF/resolve/main/openchat-3.5-0106.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "openchat-3.5-0106.Q3_K_M.gguf",
+            "size": "3518996480",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "edc1a761b2e57f3a30493b44d49539b350f9d48a422cd9e6a055d25f486eb898",
+            "download": {
+                "default": "https://huggingface.co/Eric111/openchat-3.5-0106-GGUF/resolve/main/openchat-3.5-0106.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "openchat-3.5-0106.Q4_K_M.gguf",
+            "size": "4368450624",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "08beea43d9817b7fa490b5a4ec677bce5b7c453040a89d48c0f6bffb59d0edbf",
+            "download": {
+                "default": "https://huggingface.co/Eric111/openchat-3.5-0106-GGUF/resolve/main/openchat-3.5-0106.Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

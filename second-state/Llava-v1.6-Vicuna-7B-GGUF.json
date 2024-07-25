@@ -1,0 +1,153 @@
+{
+    "id": "second-state/Llava-v1.6-Vicuna-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-25T15:46:16Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llava-v1.6-vicuna-7b-mmproj-model-f16.gguf",
+            "size": "624451168",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d1b9981bda94fb0bdddad5ff60f84bb226ec29ade04a6474e0168185d659357d",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llava-v1.6-Vicuna-7B-GGUF/resolve/main/llava-v1.6-vicuna-7b-mmproj-model-f16.gguf"
+            }
+        },
+        {
+            "name": "llava-v1.6-vicuna-7b-Q2_K.gguf",
+            "size": "2532863808",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "220ff73b8f274d1ffdda9cdfcce8e7645ef09e1bc36f5b36c34b20b6c2e3b2c1",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llava-v1.6-Vicuna-7B-GGUF/resolve/main/llava-v1.6-vicuna-7b-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "llava-v1.6-vicuna-7b-Q3_K_L.gguf",
+            "size": "3597111104",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "cb7c3c0e36bfbdef615baa9fc2e3ec7e23749b8e8926c22184c37440d61e5c1f",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llava-v1.6-Vicuna-7B-GGUF/resolve/main/llava-v1.6-vicuna-7b-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "llava-v1.6-vicuna-7b-Q3_K_M.gguf",
+            "size": "3298004800",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "752176a033a11bb6612bb4b7ad7d398d923b22fb07d5a8fc28c2474de89391f3",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llava-v1.6-Vicuna-7B-GGUF/resolve/main/llava-v1.6-vicuna-7b-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "llava-v1.6-vicuna-7b-Q3_K_S.gguf",
+            "size": "2948304704",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "5d2f60914ad17d2b60a70dcc0516c7e4e4794f2d52ce9a9270ce021fad189ccc",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llava-v1.6-Vicuna-7B-GGUF/resolve/main/llava-v1.6-vicuna-7b-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "llava-v1.6-vicuna-7b-Q4_0.gguf",
+            "size": "3825807168",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "7e2652dd4cd85824a8ab32f574b93f02a9c2c30760152796eaf7951df804eb34",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llava-v1.6-Vicuna-7B-GGUF/resolve/main/llava-v1.6-vicuna-7b-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "llava-v1.6-vicuna-7b-Q4_K_M.gguf",
+            "size": "4081004352",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "83f2dea8dab95ae7d53b676da77749854afec6fcf72be73f0798a42db9eb4841",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llava-v1.6-Vicuna-7B-GGUF/resolve/main/llava-v1.6-vicuna-7b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "llava-v1.6-vicuna-7b-Q4_K_S.gguf",
+            "size": "3856740160",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "b6670882d6a0bc4081959f2396258564ddca0ca0bf52cc525dbb30e77fb6c8c1",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llava-v1.6-Vicuna-7B-GGUF/resolve/main/llava-v1.6-vicuna-7b-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "llava-v1.6-vicuna-7b-Q5_0.gguf",
+            "size": "4651691840",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "2851469e30f840e6ce4c0e83dadbb5cca4325a7d8d18d731ee3e90a3bfca289e",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llava-v1.6-Vicuna-7B-GGUF/resolve/main/llava-v1.6-vicuna-7b-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "llava-v1.6-vicuna-7b-Q5_K_M.gguf",
+            "size": "4783157056",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "4c97b33d7bf6c2291f013116dd1b8ebbf165d4d88988dedee9aacb5e31e9e209",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llava-v1.6-Vicuna-7B-GGUF/resolve/main/llava-v1.6-vicuna-7b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "llava-v1.6-vicuna-7b-Q5_K_S.gguf",
+            "size": "4651691840",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "b0d460aaf3ed363dc1567df883e1946dd66dbc3bb8aa2676fec57675e0824f6d",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llava-v1.6-Vicuna-7B-GGUF/resolve/main/llava-v1.6-vicuna-7b-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "llava-v1.6-vicuna-7b-Q6_K.gguf",
+            "size": "5529194304",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "a48fca4412100d52f15a42e035e25d8438b2aa5a149be9b96554cc44ce6ebe4a",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llava-v1.6-Vicuna-7B-GGUF/resolve/main/llava-v1.6-vicuna-7b-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "llava-v1.6-vicuna-7b-Q8_0.gguf",
+            "size": "7161089856",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "4e5bf7da76897353fd080328b2c843c8a0aca81d2a77b420b68d99d4142145b8",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llava-v1.6-Vicuna-7B-GGUF/resolve/main/llava-v1.6-vicuna-7b-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 4096,
+    "vector_size": 0,
+    "metrics": {}
+}

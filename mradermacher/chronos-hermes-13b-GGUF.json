@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/chronos-hermes-13b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-07T23:51:39Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "chronos-hermes-13b.IQ3_M.gguf",
+            "size": "5984516384",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "48e351c5ddd1c586a4bac85b70ac0c2d1804e043b46ced5213bd3cf37a587c9a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/chronos-hermes-13b-GGUF/resolve/main/chronos-hermes-13b.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "chronos-hermes-13b.IQ3_S.gguf",
+            "size": "5658986784",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "acb4456129357f35e5e381f837ca2908c42768653aff3a035169dbfe176c791d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/chronos-hermes-13b-GGUF/resolve/main/chronos-hermes-13b.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "chronos-hermes-13b.IQ3_XS.gguf",
+            "size": "5361617184",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "a7305c8c68b399fdd1d0b8245e3345b6d912d18b5205490ea64f04d5e4242e48",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/chronos-hermes-13b-GGUF/resolve/main/chronos-hermes-13b.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "chronos-hermes-13b.IQ4_XS.gguf",
+            "size": "7019524896",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "94a9c7d2c1475795c018c6f75d2aa94a2e79b65585a7568e112d1b7d257b3a77",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/chronos-hermes-13b-GGUF/resolve/main/chronos-hermes-13b.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "chronos-hermes-13b.Q2_K.gguf",
+            "size": "4854275872",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "c147765745d4d79c55f0a4dde0f33b55f85e8f2eaeb91fc4e1266fa933359a62",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/chronos-hermes-13b-GGUF/resolve/main/chronos-hermes-13b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "chronos-hermes-13b.Q3_K_L.gguf",
+            "size": "6929565984",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "cbb0bbdc75125e7e7de163776fdafe0a6dcb1de1ce779078c7aae92e1ec0e966",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/chronos-hermes-13b-GGUF/resolve/main/chronos-hermes-13b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "chronos-hermes-13b.Q3_K_M.gguf",
+            "size": "6337775904",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "90e3f18b1b6e30a4a63480bae7795b3be3f34e41a3f7cf490bc9c2b94d4a816d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/chronos-hermes-13b-GGUF/resolve/main/chronos-hermes-13b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "chronos-hermes-13b.Q3_K_S.gguf",
+            "size": "5658986784",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "9dca9ef1d537316f63993cdd2f43a46212079ed827ef430b0178722367247b1e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/chronos-hermes-13b-GGUF/resolve/main/chronos-hermes-13b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "chronos-hermes-13b.Q4_K_M.gguf",
+            "size": "7865963456",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "385bd6721b829d630487d7e697938560a8c28fb1505dd7046a57e9f874603f17",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/chronos-hermes-13b-GGUF/resolve/main/chronos-hermes-13b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "chronos-hermes-13b.Q4_K_S.gguf",
+            "size": "7423185856",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "0ef48beb6b2819335f9a01b4342c6bd63c5d3b251f808e154c4915c0ffa08001",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/chronos-hermes-13b-GGUF/resolve/main/chronos-hermes-13b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "chronos-hermes-13b.Q5_K_M.gguf",
+            "size": "9229932096",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "65738f6cb2f13e8c8fe748cdddc47b1a15cc0765745b97ad90c4e364ff3eccf6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/chronos-hermes-13b-GGUF/resolve/main/chronos-hermes-13b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "chronos-hermes-13b.Q5_K_S.gguf",
+            "size": "8972293696",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "38930e63fd387b9547bae95425d531bf95ff4a37c056020c254d7ea3ff8e902c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/chronos-hermes-13b-GGUF/resolve/main/chronos-hermes-13b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "chronos-hermes-13b.Q6_K.gguf",
+            "size": "10679148800",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "58c3dc5da1afdd3fdee8816e6ee6a5255fd5f0ac585b38384f3f6dad1586ad36",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/chronos-hermes-13b-GGUF/resolve/main/chronos-hermes-13b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "chronos-hermes-13b.Q8_0.gguf",
+            "size": "13831330432",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "f7a7497e9cd881793552090606b4104fdcf4a628cca43bf0de38e909f1733409",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/chronos-hermes-13b-GGUF/resolve/main/chronos-hermes-13b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "NeuroDonu/OpenCodeInterpreter-CL-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "NeuroDonu",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-25T12:59:29Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "OpenCodeInterpreter-CL-13B.gguf",
+            "size": "13831493984",
+            "quantization": "",
+            "tags": [],
+            "sha256": "896ee1c9996646bc07ac4507b808b535263ad6d7ce96fe7cdafcb30af6f32a67",
+            "download": {
+                "default": "https://huggingface.co/NeuroDonu/OpenCodeInterpreter-CL-GGUF/resolve/main/OpenCodeInterpreter-CL-13B.gguf"
+            }
+        },
+        {
+            "name": "OpenCodeInterpreter-CL-7B.gguf",
+            "size": "7161229472",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e69c1f4311837c786c240a212e42e406f399fb7eed7d129b9a8e38fa2edba91f",
+            "download": {
+                "default": "https://huggingface.co/NeuroDonu/OpenCodeInterpreter-CL-GGUF/resolve/main/OpenCodeInterpreter-CL-7B.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

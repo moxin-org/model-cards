@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/NexusRaven-13B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-28T23:01:05Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "nexusraven-13b.Q2_K.gguf",
+            "size": "5429490080",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "0e5b0ece698d2885d106469bd083d6601dc4eeae99b8ab01f80bac04b83c7db7",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NexusRaven-13B-GGUF/resolve/main/nexusraven-13b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "nexusraven-13b.Q3_K_L.gguf",
+            "size": "6929713760",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "467514beb66e34a5e612f3f39887bb6d802c777b4be1f35780b8b435912a9a0e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NexusRaven-13B-GGUF/resolve/main/nexusraven-13b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "nexusraven-13b.Q3_K_M.gguf",
+            "size": "6337923680",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "1af8824af361c12ffc2ae9c1eaa2363856ee2a8578cdbc9b7b690ea24f1482a3",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NexusRaven-13B-GGUF/resolve/main/nexusraven-13b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "nexusraven-13b.Q3_K_S.gguf",
+            "size": "5659134560",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "f956ee45180814b9c2f05d3620d64207f788a2510b1c10fa5c749d9d2dba4440",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NexusRaven-13B-GGUF/resolve/main/nexusraven-13b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "nexusraven-13b.Q4_0.gguf",
+            "size": "7366005280",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "ff6e6893ef105cee3d61a987e50440bd98369997e039ac63766b8debcd775c9e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NexusRaven-13B-GGUF/resolve/main/nexusraven-13b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "nexusraven-13b.Q4_K_M.gguf",
+            "size": "7866126880",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "774ddb9dd5f07e0d6881d3b4dd7f00a7f23948ee15577d7d7177ab29bfdec14c",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NexusRaven-13B-GGUF/resolve/main/nexusraven-13b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "nexusraven-13b.Q4_K_S.gguf",
+            "size": "7414501920",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "af3acf41169cffeb8b3b03db56679387bc15605b08f8e4ee162eba19c526bdc3",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NexusRaven-13B-GGUF/resolve/main/nexusraven-13b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "nexusraven-13b.Q5_0.gguf",
+            "size": "8972471840",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "895b35ccf2699b5326cd1069dbf150e072ed7cc74920417471b42273738d7e67",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NexusRaven-13B-GGUF/resolve/main/nexusraven-13b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "nexusraven-13b.Q5_K_M.gguf",
+            "size": "9230110240",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "0d2477c0895aa52391d5d21e630be6cf74208bd6c39e7e24139031df96707888",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NexusRaven-13B-GGUF/resolve/main/nexusraven-13b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "nexusraven-13b.Q5_K_S.gguf",
+            "size": "8972471840",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "59048274b73474313e454a311ebb7e27690d8303559df1dff6b80f82028afb9c",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NexusRaven-13B-GGUF/resolve/main/nexusraven-13b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "nexusraven-13b.Q6_K.gguf",
+            "size": "10679342560",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "ec647ae1f79a3979d40830fbe123a428c5642686ef85ca205412a4a88911c246",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NexusRaven-13B-GGUF/resolve/main/nexusraven-13b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "nexusraven-13b.Q8_0.gguf",
+            "size": "13831581280",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "f96da54f638053efb1c06fee0b3ae1815049cfb60999cfd7d11f730e6706985b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NexusRaven-13B-GGUF/resolve/main/nexusraven-13b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

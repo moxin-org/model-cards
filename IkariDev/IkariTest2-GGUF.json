@@ -1,0 +1,83 @@
+{
+    "id": "IkariDev/IkariTest2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "IkariDev",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-25T22:02:29Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "IkariTest2.3_K_L.gguf",
+            "size": "8169075232",
+            "quantization": "",
+            "tags": [],
+            "sha256": "65305817c9c4c5a9c539684cfc5d8b7bc7deb5120c9d6303d1c2563bbc5a2a3b",
+            "download": {
+                "default": "https://huggingface.co/IkariDev/IkariTest2-GGUF/resolve/main/IkariTest2.3_K_L.gguf"
+            }
+        },
+        {
+            "name": "IkariTest2.q3_K_M.gguf",
+            "size": "6337782368",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b7a1df179e9e2c4108d1bd26f71b0305710b4da1211388881325beb1bd37618b",
+            "download": {
+                "default": "https://huggingface.co/IkariDev/IkariTest2-GGUF/resolve/main/IkariTest2.q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "IkariTest2.q4_K_M.gguf",
+            "size": "7865970592",
+            "quantization": "",
+            "tags": [],
+            "sha256": "968d29b9b1482ac1c8a2e0ffea756c3d448135a9913fe91cab7e61bc6507b1b0",
+            "download": {
+                "default": "https://huggingface.co/IkariDev/IkariTest2-GGUF/resolve/main/IkariTest2.q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "IkariTest2.q5_K_M.gguf",
+            "size": "9229939872",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4064ed8442f51fb979b2c6b8d3e7ab681be82930d19176eccf24d2923138fbcd",
+            "download": {
+                "default": "https://huggingface.co/IkariDev/IkariTest2-GGUF/resolve/main/IkariTest2.q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "IkariTest2.q5_K_S.gguf",
+            "size": "8972301472",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e830577b191509594236cfd685a96459b33c03f752b0097bffbeee3e17a58cb5",
+            "download": {
+                "default": "https://huggingface.co/IkariDev/IkariTest2-GGUF/resolve/main/IkariTest2.q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "IkariTest2.q6_K.gguf",
+            "size": "10679157248",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dbd7720cf9457182ae15c5f841ec0fa5e7e1818d81cadce9f6a0efa4ad0296a8",
+            "download": {
+                "default": "https://huggingface.co/IkariDev/IkariTest2-GGUF/resolve/main/IkariTest2.q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

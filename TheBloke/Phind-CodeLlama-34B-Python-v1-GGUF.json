@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/Phind-CodeLlama-34B-Python-v1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-08-26T09:28:26Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "phind-codellama-34b-python-v1.Q2_K.gguf",
+            "size": "14210674848",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "0ebf4ded35204248dec791f2fd1757516887e24e79463668ca15bf5d2848d196",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Phind-CodeLlama-34B-Python-v1-GGUF/resolve/main/phind-codellama-34b-python-v1.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "phind-codellama-34b-python-v1.Q3_K_L.gguf",
+            "size": "17771524256",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "9d191da2cced838c6364567a418a4bec0e6bc00c3c2efd88bdd1e76c397711a4",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Phind-CodeLlama-34B-Python-v1-GGUF/resolve/main/phind-codellama-34b-python-v1.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "phind-codellama-34b-python-v1.Q3_K_M.gguf",
+            "size": "16283594912",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "d8c35f574634d3878d20fef73dff407bfab73e35b48487b3801937eff3a2e4e2",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Phind-CodeLlama-34B-Python-v1-GGUF/resolve/main/phind-codellama-34b-python-v1.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "phind-codellama-34b-python-v1.Q3_K_S.gguf",
+            "size": "14605349024",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "bc7a9cdafe17cfd5076284ea4324f194302b4ca4c3a0bf021804cd238fa07bc7",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Phind-CodeLlama-34B-Python-v1-GGUF/resolve/main/phind-codellama-34b-python-v1.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "phind-codellama-34b-python-v1.Q4_0.gguf",
+            "size": "19052048544",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "beeba5b770c7244aa9f6811eb97c34155cddd57297c647693731d79aac9ef3fb",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Phind-CodeLlama-34B-Python-v1-GGUF/resolve/main/phind-codellama-34b-python-v1.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "phind-codellama-34b-python-v1.Q4_K_M.gguf",
+            "size": "20219900064",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "74d7387eb39541af895600f2a0143d6c0b6fea97ba4fc03cd07a7daa80315930",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Phind-CodeLlama-34B-Python-v1-GGUF/resolve/main/phind-codellama-34b-python-v1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "phind-codellama-34b-python-v1.Q4_K_S.gguf",
+            "size": "19146420384",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "92200c80e0e5fb2c65d79cbafbc2532fb0e1958cd62e60d3b149f81c7cbf128f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Phind-CodeLlama-34B-Python-v1-GGUF/resolve/main/phind-codellama-34b-python-v1.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "phind-codellama-34b-python-v1.Q5_0.gguf",
+            "size": "23237177504",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "4432ee5648b934225af3a7a9938429f3fa8b284f0291985f9fcfffcc19f8c5d0",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Phind-CodeLlama-34B-Python-v1-GGUF/resolve/main/phind-codellama-34b-python-v1.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "phind-codellama-34b-python-v1.Q5_K_M.gguf",
+            "size": "23838797984",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "9f41e4aa21b58fcac74686562ffa929d5ba489f3b58cc226639c3103803888f9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Phind-CodeLlama-34B-Python-v1-GGUF/resolve/main/phind-codellama-34b-python-v1.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "phind-codellama-34b-python-v1.Q5_K_S.gguf",
+            "size": "23237177504",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "fb1cc8bbcd051f095a7be7f60b4aee47806f34fe35c3fa23f05e8fefb95c22fb",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Phind-CodeLlama-34B-Python-v1-GGUF/resolve/main/phind-codellama-34b-python-v1.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "phind-codellama-34b-python-v1.Q6_K.gguf",
+            "size": "27683877024",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "4b1217162b1ee4a96a29e9ad1b2ddc925c15b16af5f18c02d441e8d84993a3a1",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Phind-CodeLlama-34B-Python-v1-GGUF/resolve/main/phind-codellama-34b-python-v1.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "phind-codellama-34b-python-v1.Q8_0.gguf",
+            "size": "35856052384",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "8d8a91abbc8f98c8d95fd472bd3a6af58534be13d9570dbf8c0145dbefcfd46f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Phind-CodeLlama-34B-Python-v1-GGUF/resolve/main/phind-codellama-34b-python-v1.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

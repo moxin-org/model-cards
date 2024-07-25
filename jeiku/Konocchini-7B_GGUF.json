@@ -1,0 +1,83 @@
+{
+    "id": "jeiku/Konocchini-7B_GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "jeiku",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-07T23:58:56Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-f16.gguf",
+            "size": "14484731456",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3b8b9e588548293424ccc10ebf0cb384381dc74ea1930778f6845ee96a077dc5",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Konocchini-7B_GGUF/resolve/main/ggml-model-f16.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q2_K.gguf",
+            "size": "2719241856",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "f564c7bd92c387c088435394149e93c846ea1c453ab15fc42e63e8193399f1c5",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Konocchini-7B_GGUF/resolve/main/ggml-model-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q3_K.gguf",
+            "size": "3518985856",
+            "quantization": "Q3_K",
+            "tags": [],
+            "sha256": "38b91baaadba5812e208603330fd593e84ea9f5458d1181b8f189d621b1d8755",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Konocchini-7B_GGUF/resolve/main/ggml-model-Q3_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q4_K.gguf",
+            "size": "4368438912",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "4ab5d33c4230dd27de52dff319df03e63c4cb4f2889986b2a3612040dca60ea6",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Konocchini-7B_GGUF/resolve/main/ggml-model-Q4_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q5_K.gguf",
+            "size": "5131409024",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "322c80821dc9ef385d8954e231c2a1ae957cb3c024f88e341cb3b686c559ee8e",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Konocchini-7B_GGUF/resolve/main/ggml-model-Q5_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q6_K.gguf",
+            "size": "5942064768",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "3a7b2e7e44352704d6067e746af7909933e43561fecb04137ca11297fbaebbe0",
+            "download": {
+                "default": "https://huggingface.co/jeiku/Konocchini-7B_GGUF/resolve/main/ggml-model-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

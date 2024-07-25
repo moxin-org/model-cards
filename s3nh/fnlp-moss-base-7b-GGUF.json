@@ -1,0 +1,93 @@
+{
+    "id": "s3nh/fnlp-moss-base-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-26T12:26:49Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "fnlp-moss-base-7b.Q2_K.gguf",
+            "size": "3111909664",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "0d8ed71e2e8d8ee04ce5bf63184869ecb2055e445c9dbefec5d2e1d6c6e28861",
+            "download": {
+                "default": "https://huggingface.co/s3nh/fnlp-moss-base-7b-GGUF/resolve/main/fnlp-moss-base-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "fnlp-moss-base-7b.Q3_K_S.gguf",
+            "size": "3259439072",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "648943fc15f240e4722005a720f39ffef3104085328556e8aa3deff2940efa0a",
+            "download": {
+                "default": "https://huggingface.co/s3nh/fnlp-moss-base-7b-GGUF/resolve/main/fnlp-moss-base-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "fnlp-moss-base-7b.Q4_K_M.gguf",
+            "size": "4425047456",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "19004c7766644730af2f8004c78fc163a91a200f5d219ea338f71f829909bf0f",
+            "download": {
+                "default": "https://huggingface.co/s3nh/fnlp-moss-base-7b-GGUF/resolve/main/fnlp-moss-base-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "fnlp-moss-base-7b.Q4_K_S.gguf",
+            "size": "4200783264",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "901402df596f0441e8ecb070a50ddf5deba1e2536cce2653ebd8161ed2d93dbd",
+            "download": {
+                "default": "https://huggingface.co/s3nh/fnlp-moss-base-7b-GGUF/resolve/main/fnlp-moss-base-7b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "fnlp-moss-base-7b.Q5_K_S.gguf",
+            "size": "5026707872",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "a7479e3e3eeadb8d7fecc510731af08954923f6053a0151341b0d9afd98693b1",
+            "download": {
+                "default": "https://huggingface.co/s3nh/fnlp-moss-base-7b-GGUF/resolve/main/fnlp-moss-base-7b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "fnlp-moss-base-7b.Q6_K.gguf",
+            "size": "5937119072",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "f6b4d4c60665b8563989e6d134d7a5b73f39ef3e9201862f18063f7fb790ad3c",
+            "download": {
+                "default": "https://huggingface.co/s3nh/fnlp-moss-base-7b-GGUF/resolve/main/fnlp-moss-base-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "fnlp-moss-base-7b.Q8_0.gguf",
+            "size": "7689034720",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "fd8c0727dfcf60e1f606c184a8bd39c5186a4aa46da60db7e6d5ddfd555cac76",
+            "download": {
+                "default": "https://huggingface.co/s3nh/fnlp-moss-base-7b-GGUF/resolve/main/fnlp-moss-base-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

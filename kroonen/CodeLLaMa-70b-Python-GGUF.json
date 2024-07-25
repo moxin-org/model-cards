@@ -1,0 +1,93 @@
+{
+    "id": "kroonen/CodeLLaMa-70b-Python-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "kroonen",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-30T16:36:50Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "CodeLlama-70b-Python-Q2_K.gguf",
+            "size": "25462587616",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "75a0ae6b261e16b0a3a32fb798344b2b4bbfc7d579dffbc903fdb005e3b5385c",
+            "download": {
+                "default": "https://huggingface.co/kroonen/CodeLLaMa-70b-Python-GGUF/resolve/main/CodeLlama-70b-Python-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-70b-Python-Q3_K_L.gguf",
+            "size": "36147999968",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "79e2206d799eb62c5486234ed3e6ae102fd6421fa5e4d095169d4352ee1388ec",
+            "download": {
+                "default": "https://huggingface.co/kroonen/CodeLLaMa-70b-Python-GGUF/resolve/main/CodeLlama-70b-Python-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-70b-Python-Q3_K_M.gguf",
+            "size": "33274901728",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "19e6061f96d0471189a24b8de56c404ab5998defc9d845136dc3807c8c0968e3",
+            "download": {
+                "default": "https://huggingface.co/kroonen/CodeLLaMa-70b-Python-GGUF/resolve/main/CodeLlama-70b-Python-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-70b-Python-Q3_K_S.gguf",
+            "size": "29919458528",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "7046607010adb034336a46586e363c77f82fe2937e93334c8cf874c30573e2b8",
+            "download": {
+                "default": "https://huggingface.co/kroonen/CodeLLaMa-70b-Python-GGUF/resolve/main/CodeLlama-70b-Python-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-70b-Python-Q3_K_XS.gguf",
+            "size": "28254844128",
+            "quantization": "Q3_K_XS",
+            "tags": [],
+            "sha256": "d249f70055c3823f8199959f20e48acc15eb69e4a2127d203ced0c54f88a9ccf",
+            "download": {
+                "default": "https://huggingface.co/kroonen/CodeLLaMa-70b-Python-GGUF/resolve/main/CodeLlama-70b-Python-Q3_K_XS.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-70b-Python-Q4_K_M.gguf",
+            "size": "41423091936",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "3d6d14aa8eafea7da0c617bbb3d2660a5ecb7fbd9a6ff12f7d971ada5c343c2c",
+            "download": {
+                "default": "https://huggingface.co/kroonen/CodeLLaMa-70b-Python-GGUF/resolve/main/CodeLlama-70b-Python-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-70b-Python-Q4_K_S.gguf",
+            "size": "39249918176",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "5b734d2d384ad4c4ec87de8f671bf14ed6c5e46ff0dc4edaa19c0e0f267ac965",
+            "download": {
+                "default": "https://huggingface.co/kroonen/CodeLLaMa-70b-Python-GGUF/resolve/main/CodeLlama-70b-Python-Q4_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

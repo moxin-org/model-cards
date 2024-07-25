@@ -1,0 +1,173 @@
+{
+    "id": "mradermacher/darwin-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-08T19:20:26Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "darwin-7B.IQ3_M.gguf",
+            "size": "3114869472",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "f5d28e40213816143037ecfc07c4ad66a3bc3d6436712f65211ed4d306a5e687",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/darwin-7B-GGUF/resolve/main/darwin-7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "darwin-7B.IQ3_S.gguf",
+            "size": "2948309728",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "91ca168c10df9804949c150c030923cc698eaf63c0ee498b4620c0a314b6c84b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/darwin-7B-GGUF/resolve/main/darwin-7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "darwin-7B.IQ3_XS.gguf",
+            "size": "2796528352",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "ce83b387f8f0c43c37be7a7f41006ad58f6407a294901ea82b9d1910c3f372ba",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/darwin-7B-GGUF/resolve/main/darwin-7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "darwin-7B.IQ4_XS.gguf",
+            "size": "3647521920",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "019103304d1120d05336ded833cdf31fc39b9bfc09cbece1ea337ea439ee51dc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/darwin-7B-GGUF/resolve/main/darwin-7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "darwin-7B.Q2_K.gguf",
+            "size": "2532868416",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "98712251af7a96eb44c823c305987fd41257161a7a24a98e75430f5202545af2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/darwin-7B-GGUF/resolve/main/darwin-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "darwin-7B.Q3_K_L.gguf",
+            "size": "3597116128",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "46b65d8aa3afd3ae96494b392c0c14b80b6de43e093ea0be50445593e19ee4a6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/darwin-7B-GGUF/resolve/main/darwin-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "darwin-7B.Q3_K_M.gguf",
+            "size": "3298009824",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "8b8c8e43462932777ed88630fe5aeeb9d255605b67ba231c4f0c296924251a6f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/darwin-7B-GGUF/resolve/main/darwin-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "darwin-7B.Q3_K_S.gguf",
+            "size": "2948309728",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "85ce4f2491b0bac61bbdf36467d3d7b157158876cc2bf7547c5b1595eed239e4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/darwin-7B-GGUF/resolve/main/darwin-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "darwin-7B.Q4_K_M.gguf",
+            "size": "4081009920",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "701bc112697833be51e467f4d2d33c2bf033ea43fc3be4cfbdd895f9b8a7af77",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/darwin-7B-GGUF/resolve/main/darwin-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "darwin-7B.Q4_K_S.gguf",
+            "size": "3856745728",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "0449a89239217c00eacd2d189f62421541219f116d6be6ff9e08731723c59b44",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/darwin-7B-GGUF/resolve/main/darwin-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "darwin-7B.Q5_K_M.gguf",
+            "size": "4783163136",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "0e215fa11b3c0530c32a8f9d74751bf8f0b96a4d21820115aa55bd66d8dec4f0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/darwin-7B-GGUF/resolve/main/darwin-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "darwin-7B.Q5_K_S.gguf",
+            "size": "4651697920",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "520c317ee8b8e4f16fc7c06953c501bab1135bb2b62f49bf793f37a2dd39505c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/darwin-7B-GGUF/resolve/main/darwin-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "darwin-7B.Q6_K.gguf",
+            "size": "5529200928",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "8b37d4af4382229f7692eb31cb3e89648b81c5d1636de5320af8c588725c0cbb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/darwin-7B-GGUF/resolve/main/darwin-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "darwin-7B.Q8_0.gguf",
+            "size": "7161098464",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "e7e70a5d598ed9cc519084959c2f745803bad05d950491ca11d10491be4ee6a8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/darwin-7B-GGUF/resolve/main/darwin-7B.Q8_0.gguf"
+            }
+        },
+        {
+            "name": "darwin-7B.SOURCE.gguf",
+            "size": "26954436288",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2ef17b56fb75b4bc36ee3fa1c2d1dc462685a08dcf2ede8f3ea13ee5101cac06",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/darwin-7B-GGUF/resolve/main/darwin-7B.SOURCE.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

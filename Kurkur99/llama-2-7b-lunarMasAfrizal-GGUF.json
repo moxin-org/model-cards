@@ -1,0 +1,43 @@
+{
+    "id": "Kurkur99/llama-2-7b-lunarMasAfrizal-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Kurkur99",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-26T06:03:13Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llama-2-7b-lunarmasafrizal.Q4_K_M.gguf",
+            "size": "4081005280",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "8888df08e6789c3845232c8785fb05037b483e7687aec96f19769d9101446b20",
+            "download": {
+                "default": "https://huggingface.co/Kurkur99/llama-2-7b-lunarMasAfrizal-GGUF/resolve/main/llama-2-7b-lunarmasafrizal.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-lunarmasafrizal.Q5_K_M.gguf",
+            "size": "4783157984",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "6bdcd7f0ba467012bb7477ad69b12ab74420ed71af707badafa001475fbe6aa9",
+            "download": {
+                "default": "https://huggingface.co/Kurkur99/llama-2-7b-lunarMasAfrizal-GGUF/resolve/main/llama-2-7b-lunarmasafrizal.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/Crunchy-onion-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-23T07:32:18Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "crunchy-onion.Q3_K_S.gguf",
+            "size": "20292052640",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "20d41f0444b322248988410ff20ac05589183cea23711cade6b87d0368f7075a",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Crunchy-onion-GGUF/resolve/main/crunchy-onion.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "crunchy-onion.Q4_K_M.gguf",
+            "size": "28379301536",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4484721c169cf0a2cd0b34882a1bf3d3a8d71140a8e9152b7b6f4f5776dad823",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Crunchy-onion-GGUF/resolve/main/crunchy-onion.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "crunchy-onion.Q5_K_M.gguf",
+            "size": "33227523744",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "76143460221444bc3fa9d95f5a8991d1589cbdd93fb3e6adee4b9434fe1d2faa",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Crunchy-onion-GGUF/resolve/main/crunchy-onion.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "crunchy-onion.Q6_K.gguf",
+            "size": "38378759840",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "4e9a7e140e730a19b2b31320eca97d91221357647368b83fbb5fc9fc978a0307",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Crunchy-onion-GGUF/resolve/main/crunchy-onion.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "crunchy-onion.Q8_0.gguf",
+            "size": "49624262304",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "ae5fed525a78441ada492c56648748c9c5913db0c2727582d859f7dde3e7923f",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Crunchy-onion-GGUF/resolve/main/crunchy-onion.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,43 @@
+{
+    "id": "drunkOnData/Einstein-v4-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "drunkOnData",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-01T12:08:24Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "einstein-v4-7b.Q4_K_S.gguf",
+            "size": "4140385696",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "8d9a6fd480f17c99d1378bb582b2f221da7b59c8f872590af32f767d53af8709",
+            "download": {
+                "default": "https://huggingface.co/drunkOnData/Einstein-v4-7B-GGUF/resolve/main/einstein-v4-7b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "einstein-v4-7b.Q6_K.gguf",
+            "size": "5942078944",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "26840bf63e88d49d0f6fc1d758864574d411a0785f34a2eeb0d5b261bfef4ad4",
+            "download": {
+                "default": "https://huggingface.co/drunkOnData/Einstein-v4-7B-GGUF/resolve/main/einstein-v4-7b.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

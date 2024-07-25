@@ -1,0 +1,203 @@
+{
+    "id": "mradermacher/falcon-40b-instruct-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-10T08:09:41Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "falcon-40b-instruct.i1-Q2_K.gguf",
+            "size": "16263370464",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "1478c8afff7cf30214f53b49be7aa3dc386b618cab399f23a6d296d076e7cb39",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/falcon-40b-instruct-i1-GGUF/resolve/main/falcon-40b-instruct.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "falcon-40b-instruct.i1-Q6_K.gguf",
+            "size": "34955581152",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b9132a2108b82793b07943edb02195422acc8233732ed0769f52e941e23a00a9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/falcon-40b-instruct-i1-GGUF/resolve/main/falcon-40b-instruct.i1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "falcon-40b-instruct.i1-Q5_K_S.gguf",
+            "size": "29470250720",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "3a1b1c8773c1ad470950574ba8c76f41eae1493d77b615e074f787d1a0e2dd57",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/falcon-40b-instruct-i1-GGUF/resolve/main/falcon-40b-instruct.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "falcon-40b-instruct.i1-Q5_K_M.gguf",
+            "size": "31141418720",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "23692d950ad59a977b24f3d3d017d93bee9b3b166d0db24d2abf0b124c7c9243",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/falcon-40b-instruct-i1-GGUF/resolve/main/falcon-40b-instruct.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "falcon-40b-instruct.i1-Q4_K_S.gguf",
+            "size": "24307586784",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "86c33ec0e2cbf5df39ee8ba346c19e9a8b8c23e2b93a75f9c38754a782b501fd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/falcon-40b-instruct-i1-GGUF/resolve/main/falcon-40b-instruct.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "falcon-40b-instruct.i1-Q4_K_M.gguf",
+            "size": "25987405536",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "1688d12f52aec32ce4fea3d4e5d348dc4ef509ae42a14f625ccb4255ccdcd30b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/falcon-40b-instruct-i1-GGUF/resolve/main/falcon-40b-instruct.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "falcon-40b-instruct.i1-Q3_K_S.gguf",
+            "size": "18822256352",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "bfe37413a57308dcdb096c273207f31e5d2832ec9a32cf02dba1cb5254acbb5b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/falcon-40b-instruct-i1-GGUF/resolve/main/falcon-40b-instruct.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "falcon-40b-instruct.i1-Q3_K_M.gguf",
+            "size": "20594087648",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "4177031605f653b0a626317335dbc44178e51cdcb51d1e49ca69515d4377a9f2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/falcon-40b-instruct-i1-GGUF/resolve/main/falcon-40b-instruct.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "falcon-40b-instruct.i1-Q3_K_L.gguf",
+            "size": "22097745632",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "0310d75ead7a1cb04fd42210c373794e139d14d2fb5ea2c431a1a2b7b6d3a6e4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/falcon-40b-instruct-i1-GGUF/resolve/main/falcon-40b-instruct.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "falcon-40b-instruct.i1-IQ1_S.gguf",
+            "size": "9714226912",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "4bdb9f797c9f2c07da761744c079add8faf48281254fffb89bb3fd3749369713",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/falcon-40b-instruct-i1-GGUF/resolve/main/falcon-40b-instruct.i1-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "falcon-40b-instruct.i1-IQ3_XXS.gguf",
+            "size": "16911226592",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "f18cb9b31289e4d2206cc16d41954a4895e218444ed3bcdcb6c2fddc78b82600",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/falcon-40b-instruct-i1-GGUF/resolve/main/falcon-40b-instruct.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "falcon-40b-instruct.i1-IQ3_XS.gguf",
+            "size": "18256025312",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "10935bb1793b0ce0b2c3a2c421fc0380bb1090b862854358ec130283e97165e2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/falcon-40b-instruct-i1-GGUF/resolve/main/falcon-40b-instruct.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "falcon-40b-instruct.i1-IQ3_S.gguf",
+            "size": "18822256352",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "d9111b3f9d5f05e7cefd8b8136118721b993947559ab13b42edefb406b8a4fa4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/falcon-40b-instruct-i1-GGUF/resolve/main/falcon-40b-instruct.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "falcon-40b-instruct.i1-IQ3_M.gguf",
+            "size": "19673437920",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "5ee1844fd405358895c424620efe914829e7c92c55ba5e82b5f32a38ec464c0d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/falcon-40b-instruct-i1-GGUF/resolve/main/falcon-40b-instruct.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "falcon-40b-instruct.i1-IQ2_XXS.gguf",
+            "size": "11893167840",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "98902630f5a36d7b930066200f73c3e555f0034e6ca044aa5fa7b0bb64049cea",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/falcon-40b-instruct-i1-GGUF/resolve/main/falcon-40b-instruct.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "falcon-40b-instruct.i1-IQ2_XS.gguf",
+            "size": "13108467424",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "084171b2a420d991716bdfec786e022249966bf037706a320057afde7d0c18fa",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/falcon-40b-instruct-i1-GGUF/resolve/main/falcon-40b-instruct.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "falcon-40b-instruct.i1-IQ2_S.gguf",
+            "size": "13919639264",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "696ead626d6d9eac282cfd46574f01d347b91ac67e2e4558077c04addfb8f5db",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/falcon-40b-instruct-i1-GGUF/resolve/main/falcon-40b-instruct.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "falcon-40b-instruct.i1-IQ2_M.gguf",
+            "size": "15009109728",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "ab03d739b842c2874c0371b9b2f80fdd5a0bc9fe4ff70f7b429ba0cd7ff3e688",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/falcon-40b-instruct-i1-GGUF/resolve/main/falcon-40b-instruct.i1-IQ2_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

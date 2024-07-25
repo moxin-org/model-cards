@@ -1,0 +1,153 @@
+{
+    "id": "second-state/Orca-2-13B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-21T06:54:56Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Orca-2-13b-ggml-model-q4_0.gguf",
+            "size": "7365856000",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8c9ca393b2d882bd7bd0ba672d52eafa29bb22b2cd740418198c1fa1adb6478b",
+            "download": {
+                "default": "https://huggingface.co/second-state/Orca-2-13B-GGUF/resolve/main/Orca-2-13b-ggml-model-q4_0.gguf"
+            }
+        },
+        {
+            "name": "Orca-2-13b-Q2_K.gguf",
+            "size": "5429366080",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "922268ac740c6d94691d9b036e7afbabbc724740b041f0bda07cb4163c84d02d",
+            "download": {
+                "default": "https://huggingface.co/second-state/Orca-2-13B-GGUF/resolve/main/Orca-2-13b-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Orca-2-13b-Q3_K_L.gguf",
+            "size": "6929578848",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "f79157d96c6dd640856888154baa7de1e82e863cd23a6d650221c603fcdb24eb",
+            "download": {
+                "default": "https://huggingface.co/second-state/Orca-2-13B-GGUF/resolve/main/Orca-2-13b-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Orca-2-13b-Q3_K_M.gguf",
+            "size": "6337788768",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "f45e2189079ab23a8701a664e4ae62652a2bf26c97475bbc0f9d1f291d69dd0d",
+            "download": {
+                "default": "https://huggingface.co/second-state/Orca-2-13B-GGUF/resolve/main/Orca-2-13b-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Orca-2-13b-Q3_K_S.gguf",
+            "size": "5658999648",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "d65fad78fc448db57493cb00bca7e19b5ad4ce3ea1042cf6cfb08f14c728bb3b",
+            "download": {
+                "default": "https://huggingface.co/second-state/Orca-2-13B-GGUF/resolve/main/Orca-2-13b-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Orca-2-13b-Q4_0.gguf",
+            "size": "7365856064",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "7ee7e4835b4ea5b8d80ce3cea9b57437b29446f9f409490b16db0276310db07d",
+            "download": {
+                "default": "https://huggingface.co/second-state/Orca-2-13B-GGUF/resolve/main/Orca-2-13b-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Orca-2-13b-Q4_K_M.gguf",
+            "size": "7865977664",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "55d025231c42802368366400bec805650d84cb2701e579fc4160f407f7cc35f6",
+            "download": {
+                "default": "https://huggingface.co/second-state/Orca-2-13B-GGUF/resolve/main/Orca-2-13b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Orca-2-13b-Q4_K_S.gguf",
+            "size": "7414352704",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "edfe9d86abc26ec9ad7e58257ee1ff527c038e7fed85e86dd23ab704f1f8ba1d",
+            "download": {
+                "default": "https://huggingface.co/second-state/Orca-2-13B-GGUF/resolve/main/Orca-2-13b-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Orca-2-13b-Q5_0.gguf",
+            "size": "8972309184",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "e75a8c73fd0d20fde873087d867343e748d8b0396692f3cecac4125d01cc8644",
+            "download": {
+                "default": "https://huggingface.co/second-state/Orca-2-13B-GGUF/resolve/main/Orca-2-13b-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Orca-2-13b-Q5_K_M.gguf",
+            "size": "9229947584",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "104d8239756f5bc861d0c5a407035e894f54218bc2e32b7b7ae437bc8dc6079d",
+            "download": {
+                "default": "https://huggingface.co/second-state/Orca-2-13B-GGUF/resolve/main/Orca-2-13b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Orca-2-13b-Q5_K_S.gguf",
+            "size": "8972309184",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "ad63d1ec55ad13dd1ffc67befd4928fbd3d6888fc76d466150b43fc598f12c6b",
+            "download": {
+                "default": "https://huggingface.co/second-state/Orca-2-13B-GGUF/resolve/main/Orca-2-13b-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Orca-2-13b-Q6_K.gguf",
+            "size": "10679165632",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "487ba0037cc1d8c2b489818d1aef5bf1872874ce592b75e151685300140ea375",
+            "download": {
+                "default": "https://huggingface.co/second-state/Orca-2-13B-GGUF/resolve/main/Orca-2-13b-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Orca-2-13b-Q8_0.gguf",
+            "size": "13831352256",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "9860e2225d7983fcc1906d8ebb4a9bc43f45bd9ecb1263c017490c3ed4831287",
+            "download": {
+                "default": "https://huggingface.co/second-state/Orca-2-13B-GGUF/resolve/main/Orca-2-13b-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 5120,
+    "vector_size": 0,
+    "metrics": {}
+}

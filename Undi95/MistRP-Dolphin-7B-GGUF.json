@@ -1,0 +1,73 @@
+{
+    "id": "Undi95/MistRP-Dolphin-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Undi95",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-03T13:54:10Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "MistRP-Dolphin-7B.q3_k_m.gguf",
+            "size": "3518985856",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a4d7fccd9df947b02cf3115d6821164854b69cb698b83899e72831c3a8225a83",
+            "download": {
+                "default": "https://huggingface.co/Undi95/MistRP-Dolphin-7B-GGUF/resolve/main/MistRP-Dolphin-7B.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "MistRP-Dolphin-7B.q4_k_s.gguf",
+            "size": "4140373632",
+            "quantization": "",
+            "tags": [],
+            "sha256": "bae01b19c51d4061c9a328c84e6dc261bb9f8aa5f2270b9e3dd81e5306559235",
+            "download": {
+                "default": "https://huggingface.co/Undi95/MistRP-Dolphin-7B-GGUF/resolve/main/MistRP-Dolphin-7B.q4_k_s.gguf"
+            }
+        },
+        {
+            "name": "MistRP-Dolphin-7B.q5_k_m.gguf",
+            "size": "5131409024",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9166245a3fd5bddd7e8db871059a3a924711f4ff9e3772303d60de6a6417567b",
+            "download": {
+                "default": "https://huggingface.co/Undi95/MistRP-Dolphin-7B-GGUF/resolve/main/MistRP-Dolphin-7B.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "MistRP-Dolphin-7B.q6_k.gguf",
+            "size": "5942064768",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4fea8ed5069d07d7a9a11cfb4b487289b0f4839e12f895622028faa456ead3be",
+            "download": {
+                "default": "https://huggingface.co/Undi95/MistRP-Dolphin-7B-GGUF/resolve/main/MistRP-Dolphin-7B.q6_k.gguf"
+            }
+        },
+        {
+            "name": "MistRP-Dolphin-7B.q8_0.gguf",
+            "size": "7695857280",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c8daf743670c85cfe6b243f4ddf6bf0c9a345633dc1fa79c600c2f36f3e79e00",
+            "download": {
+                "default": "https://huggingface.co/Undi95/MistRP-Dolphin-7B-GGUF/resolve/main/MistRP-Dolphin-7B.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

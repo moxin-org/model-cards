@@ -1,0 +1,53 @@
+{
+    "id": "imi2/mistral-3.3B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "imi2",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-18T11:01:16Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistral-3.3B-Q2_K.gguf",
+            "size": "1433940256",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "c9195708eb31a0d00079978c7a26e9ee9730d1169deda942a87ff4d084dd6bcb",
+            "download": {
+                "default": "https://huggingface.co/imi2/mistral-3.3B-GGUF/resolve/main/mistral-3.3B-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "mistral-3.3B-Q4_K_M.gguf",
+            "size": "1997336864",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "aea273e8cc4be2b809ec90903ae62e5bcd8e5ebe74b5d4ceb4a21761705f7570",
+            "download": {
+                "default": "https://huggingface.co/imi2/mistral-3.3B-GGUF/resolve/main/mistral-3.3B-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral-3.3B-Q5_K_M.gguf",
+            "size": "2348216608",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "8cc119ebacea77db3b1d5afdd2d623e55981447807966325cb43e267c1fc2231",
+            "download": {
+                "default": "https://huggingface.co/imi2/mistral-3.3B-GGUF/resolve/main/mistral-3.3B-Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,73 @@
+{
+    "id": "Rabinovich/Llama-2-7B-Chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Rabinovich",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-04T08:40:08Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Llama-2-7B-Chat-q4_0.gguf",
+            "size": "3825807040",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9958ee9b670594147b750bbc7d0540b928fa12dcc5dd4c58cc56ed2eb85e371b",
+            "download": {
+                "default": "https://huggingface.co/Rabinovich/Llama-2-7B-Chat-GGUF/resolve/main/Llama-2-7B-Chat-q4_0.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7B-Chat-q4_1.gguf",
+            "size": "4238749376",
+            "quantization": "",
+            "tags": [],
+            "sha256": "adfb641cbeb8a97907992a1dba1345579903f86c61629a1782bedac5e6e3411e",
+            "download": {
+                "default": "https://huggingface.co/Rabinovich/Llama-2-7B-Chat-GGUF/resolve/main/Llama-2-7B-Chat-q4_1.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7B-Chat-q5_0.gguf",
+            "size": "4651691712",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0d55c4133964f80ee31997853cb83637ae3cc258638b7feae9d1aa5606a895ee",
+            "download": {
+                "default": "https://huggingface.co/Rabinovich/Llama-2-7B-Chat-GGUF/resolve/main/Llama-2-7B-Chat-q5_0.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7B-Chat-q5_1.gguf",
+            "size": "5064634048",
+            "quantization": "",
+            "tags": [],
+            "sha256": "472974be869d396077697beedf22d089d624639e2cf6d4bc07abc064872228c4",
+            "download": {
+                "default": "https://huggingface.co/Rabinovich/Llama-2-7B-Chat-GGUF/resolve/main/Llama-2-7B-Chat-q5_1.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7B-Chat-q8_0.gguf",
+            "size": "7161089728",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f47dade5e86466edb66c5afe6f8e9fb1fbb2c292827b90bd46b7a1817d864bf2",
+            "download": {
+                "default": "https://huggingface.co/Rabinovich/Llama-2-7B-Chat-GGUF/resolve/main/Llama-2-7B-Chat-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

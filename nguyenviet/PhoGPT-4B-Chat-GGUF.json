@@ -1,0 +1,173 @@
+{
+    "id": "nguyenviet/PhoGPT-4B-Chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "nguyenviet",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-17T17:24:03Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "PhoGPT-4B-Chat-f16.gguf",
+            "size": "7505283232",
+            "quantization": "",
+            "tags": [],
+            "sha256": "290448cbce779245244e3f908d10c8f8a4c687263fa2fc20bffc1836945581a5",
+            "download": {
+                "default": "https://huggingface.co/nguyenviet/PhoGPT-4B-Chat-GGUF/resolve/main/PhoGPT-4B-Chat-f16.gguf"
+            }
+        },
+        {
+            "name": "PhoGPT-4B-Chat-q2_k.gguf",
+            "size": "1420560608",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b9ab4d0823b445f86380735dafe091095cf2db6b8db38edb486b1b6ff4f686f7",
+            "download": {
+                "default": "https://huggingface.co/nguyenviet/PhoGPT-4B-Chat-GGUF/resolve/main/PhoGPT-4B-Chat-q2_k.gguf"
+            }
+        },
+        {
+            "name": "PhoGPT-4B-Chat-q3_k_l.gguf",
+            "size": "2151254240",
+            "quantization": "",
+            "tags": [],
+            "sha256": "78ea3451b21dcc926bcfe31ca418ee47b2c6e3f7b483d6233ef3152225894799",
+            "download": {
+                "default": "https://huggingface.co/nguyenviet/PhoGPT-4B-Chat-GGUF/resolve/main/PhoGPT-4B-Chat-q3_k_l.gguf"
+            }
+        },
+        {
+            "name": "PhoGPT-4B-Chat-q3_k_m.gguf",
+            "size": "1981384928",
+            "quantization": "",
+            "tags": [],
+            "sha256": "75ff45c0e08b498577e391e094aea9623b069892ff51e45830076e80eb60cd73",
+            "download": {
+                "default": "https://huggingface.co/nguyenviet/PhoGPT-4B-Chat-GGUF/resolve/main/PhoGPT-4B-Chat-q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "PhoGPT-4B-Chat-q3_k_s.gguf",
+            "size": "1641646304",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c3e74a362684cd4082a2ddc78daf9e1c1e6e9a9d76d028616e54ef129010f5ac",
+            "download": {
+                "default": "https://huggingface.co/nguyenviet/PhoGPT-4B-Chat-GGUF/resolve/main/PhoGPT-4B-Chat-q3_k_s.gguf"
+            }
+        },
+        {
+            "name": "PhoGPT-4B-Chat-q4_0.gguf",
+            "size": "2131298528",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e7168c2a09fe0fe939892b2e9e85b490ad712fa59dc17395da44d0e2eea5359c",
+            "download": {
+                "default": "https://huggingface.co/nguyenviet/PhoGPT-4B-Chat-GGUF/resolve/main/PhoGPT-4B-Chat-q4_0.gguf"
+            }
+        },
+        {
+            "name": "PhoGPT-4B-Chat-q4_1.gguf",
+            "size": "2361723104",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a7167b106b7b19ecc1fc0230ff19b9aa849f56b21d55fb22e7823f941a96bd19",
+            "download": {
+                "default": "https://huggingface.co/nguyenviet/PhoGPT-4B-Chat-GGUF/resolve/main/PhoGPT-4B-Chat-q4_1.gguf"
+            }
+        },
+        {
+            "name": "PhoGPT-4B-Chat-q4_k_m.gguf",
+            "size": "2400258272",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f8c276b2dc224ebdd132329b5d9997de6a82d855c60a2541013f01ed3281ad41",
+            "download": {
+                "default": "https://huggingface.co/nguyenviet/PhoGPT-4B-Chat-GGUF/resolve/main/PhoGPT-4B-Chat-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "PhoGPT-4B-Chat-q4_k_s.gguf",
+            "size": "2169047264",
+            "quantization": "",
+            "tags": [],
+            "sha256": "31a324ff35a4897ab9e30a0e0451e084abb440eba12ed9a98d39a95e6e5d73dd",
+            "download": {
+                "default": "https://huggingface.co/nguyenviet/PhoGPT-4B-Chat-GGUF/resolve/main/PhoGPT-4B-Chat-q4_k_s.gguf"
+            }
+        },
+        {
+            "name": "PhoGPT-4B-Chat-q5_0.gguf",
+            "size": "2592147680",
+            "quantization": "",
+            "tags": [],
+            "sha256": "488ce6456409414fb3c7617427276aeb3f306f2518eb7a4f0765e6eff9ac418a",
+            "download": {
+                "default": "https://huggingface.co/nguyenviet/PhoGPT-4B-Chat-GGUF/resolve/main/PhoGPT-4B-Chat-q5_0.gguf"
+            }
+        },
+        {
+            "name": "PhoGPT-4B-Chat-q5_1.gguf",
+            "size": "2822572256",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b2b1e41693f787c194f570d0847b1970e1c4d6095736c2df7321bc3e9404d388",
+            "download": {
+                "default": "https://huggingface.co/nguyenviet/PhoGPT-4B-Chat-GGUF/resolve/main/PhoGPT-4B-Chat-q5_1.gguf"
+            }
+        },
+        {
+            "name": "PhoGPT-4B-Chat-q5_k_m.gguf",
+            "size": "2792687840",
+            "quantization": "",
+            "tags": [],
+            "sha256": "38e8472aa4dc0ee227b471cb1d9c6ef73dc4a7b73284f813a9e58c1a12293924",
+            "download": {
+                "default": "https://huggingface.co/nguyenviet/PhoGPT-4B-Chat-GGUF/resolve/main/PhoGPT-4B-Chat-q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "PhoGPT-4B-Chat-q5_k_s.gguf",
+            "size": "2592147680",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ceeb5f9e5127f803283d2e5bad383611722c7cb58319837ed182d13551f6dc31",
+            "download": {
+                "default": "https://huggingface.co/nguyenviet/PhoGPT-4B-Chat-GGUF/resolve/main/PhoGPT-4B-Chat-q5_k_s.gguf"
+            }
+        },
+        {
+            "name": "PhoGPT-4B-Chat-q6_k.gguf",
+            "size": "3081799904",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b7e8034f7ac148e1e1839a83f485806b30eeaabd5198cfea1001d67c99326d7f",
+            "download": {
+                "default": "https://huggingface.co/nguyenviet/PhoGPT-4B-Chat-GGUF/resolve/main/PhoGPT-4B-Chat-q6_k.gguf"
+            }
+        },
+        {
+            "name": "PhoGPT-4B-Chat-q8_0.gguf",
+            "size": "3989932256",
+            "quantization": "",
+            "tags": [],
+            "sha256": "298a307d8a672f7837261d0530778f6789fa158388c37f099956b3818820d569",
+            "download": {
+                "default": "https://huggingface.co/nguyenviet/PhoGPT-4B-Chat-GGUF/resolve/main/PhoGPT-4B-Chat-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

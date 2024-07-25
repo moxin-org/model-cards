@@ -1,0 +1,43 @@
+{
+    "id": "chanwit/flux-7b-v0.3-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "chanwit",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-19T06:35:47Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "flux-7b-v0.3-Q4_K_M.gguf",
+            "size": "4368439392",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "574346ddbee2c2bb38c138c58aae230d9d66bbad4afa3531cb0e2199daaeec90",
+            "download": {
+                "default": "https://huggingface.co/chanwit/flux-7b-v0.3-gguf/resolve/main/flux-7b-v0.3-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "flux-7b-v0.3-Q5_K_M.gguf",
+            "size": "5131409504",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "00b448ca34fe3dbf209b4053c6fdc9f2178d5c62e28746534b31fa7235dd0b14",
+            "download": {
+                "default": "https://huggingface.co/chanwit/flux-7b-v0.3-gguf/resolve/main/flux-7b-v0.3-Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

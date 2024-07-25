@@ -1,0 +1,63 @@
+{
+    "id": "janhq/nitro-v1-e1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "janhq",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-28T16:43:57Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "nitro-v1-e1.Q3_K_M.gguf",
+            "size": "3519922464",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "13533514c70d5f6b50cb5b622fd0b77da31dc9c048b2905de150d0d8faac4bcf",
+            "download": {
+                "default": "https://huggingface.co/janhq/nitro-v1-e1-GGUF/resolve/main/nitro-v1-e1.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "nitro-v1-e1.Q4_K_M.gguf",
+            "size": "4369375520",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5d8aadff4bdfa3854bd767190c63326f16e0c950b8d2c10f0d23bf9645a3c740",
+            "download": {
+                "default": "https://huggingface.co/janhq/nitro-v1-e1-GGUF/resolve/main/nitro-v1-e1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "nitro-v1-e1.Q5_K_M.gguf",
+            "size": "5132345632",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "79751ea85d8a7c048e67e60444913ad322847199d18d8669d27e772e07246d0c",
+            "download": {
+                "default": "https://huggingface.co/janhq/nitro-v1-e1-GGUF/resolve/main/nitro-v1-e1.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "nitro-v1-e1.Q8_0.gguf",
+            "size": "7696793888",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "7d60da8b0c4fed1081092bd335154cbf75ab01bcfa3c0a49852321e59fcd8a7c",
+            "download": {
+                "default": "https://huggingface.co/janhq/nitro-v1-e1-GGUF/resolve/main/nitro-v1-e1.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

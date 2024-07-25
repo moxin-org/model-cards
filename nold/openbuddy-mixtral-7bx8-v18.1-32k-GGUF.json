@@ -1,0 +1,73 @@
+{
+    "id": "nold/openbuddy-mixtral-7bx8-v18.1-32k-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "nold",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-14T20:10:36Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "openbuddy-mixtral-7bx8-v18.1-32k_Q2_K.gguf",
+            "size": "17330937312",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "d6f21bf9541d9fdb11da1f49df565464f0a7b2ecc356b6b5febdf5043bb6041a",
+            "download": {
+                "default": "https://huggingface.co/nold/openbuddy-mixtral-7bx8-v18.1-32k-GGUF/resolve/main/openbuddy-mixtral-7bx8-v18.1-32k_Q2_K.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-mixtral-7bx8-v18.1-32k_Q4_K_M.gguf",
+            "size": "28472597984",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "94a635d42030c96ac7bd19feab41c65d6ad077d6eb9611a8e93600f72b4b0a88",
+            "download": {
+                "default": "https://huggingface.co/nold/openbuddy-mixtral-7bx8-v18.1-32k-GGUF/resolve/main/openbuddy-mixtral-7bx8-v18.1-32k_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-mixtral-7bx8-v18.1-32k_Q5_K_M.gguf",
+            "size": "33256070624",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "52132a9e4c51cdf481178bedd6e017714dab799e32497ac38d8f24fdf5fcbfe1",
+            "download": {
+                "default": "https://huggingface.co/nold/openbuddy-mixtral-7bx8-v18.1-32k-GGUF/resolve/main/openbuddy-mixtral-7bx8-v18.1-32k_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-mixtral-7bx8-v18.1-32k_Q6_K.gguf",
+            "size": "38409813472",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "e05ae7364866d8ca6cae4cb24e2eb5bebb1b39f66d7f2ff32d9d2449bb8317c5",
+            "download": {
+                "default": "https://huggingface.co/nold/openbuddy-mixtral-7bx8-v18.1-32k-GGUF/resolve/main/openbuddy-mixtral-7bx8-v18.1-32k_Q6_K.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-mixtral-7bx8-v18.1-32k_Q8_0.gguf",
+            "size": "49664458208",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "85a0a03ce9e0854ecebf06d65811f6d9ddb15b864229c7764a0d171a3b2fce22",
+            "download": {
+                "default": "https://huggingface.co/nold/openbuddy-mixtral-7bx8-v18.1-32k-GGUF/resolve/main/openbuddy-mixtral-7bx8-v18.1-32k_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

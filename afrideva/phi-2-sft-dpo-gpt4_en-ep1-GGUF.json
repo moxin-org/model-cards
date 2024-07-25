@@ -1,0 +1,93 @@
+{
+    "id": "afrideva/phi-2-sft-dpo-gpt4_en-ep1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-22T19:37:38Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "phi-2-sft-dpo-gpt4_en-ep1.fp16.gguf",
+            "size": "5563088576",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7b0755a2d4b882eef3501449c43f614960621d4d9e9a14700e7095f2ba4e10a1",
+            "download": {
+                "default": "https://huggingface.co/afrideva/phi-2-sft-dpo-gpt4_en-ep1-GGUF/resolve/main/phi-2-sft-dpo-gpt4_en-ep1.fp16.gguf"
+            }
+        },
+        {
+            "name": "phi-2-sft-dpo-gpt4_en-ep1.q2_k.gguf",
+            "size": "1173610176",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9c15773a76f432ebcc23d61261c4f3f52fae07cb91ad8b2a72ba9bc1158dcb90",
+            "download": {
+                "default": "https://huggingface.co/afrideva/phi-2-sft-dpo-gpt4_en-ep1-GGUF/resolve/main/phi-2-sft-dpo-gpt4_en-ep1.q2_k.gguf"
+            }
+        },
+        {
+            "name": "phi-2-sft-dpo-gpt4_en-ep1.q3_k_m.gguf",
+            "size": "1480195776",
+            "quantization": "",
+            "tags": [],
+            "sha256": "038399411d4423cef35db02947d6685fddc03005ddfd3ab472b5b504dad0b8c4",
+            "download": {
+                "default": "https://huggingface.co/afrideva/phi-2-sft-dpo-gpt4_en-ep1-GGUF/resolve/main/phi-2-sft-dpo-gpt4_en-ep1.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "phi-2-sft-dpo-gpt4_en-ep1.q4_k_m.gguf",
+            "size": "1789238976",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c7091d37c4d604bfd1ed11519743f72ea76762436e5619e35ad0e9596eb63fef",
+            "download": {
+                "default": "https://huggingface.co/afrideva/phi-2-sft-dpo-gpt4_en-ep1-GGUF/resolve/main/phi-2-sft-dpo-gpt4_en-ep1.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "phi-2-sft-dpo-gpt4_en-ep1.q5_k_m.gguf",
+            "size": "2072682176",
+            "quantization": "",
+            "tags": [],
+            "sha256": "340c1273f043050fafdcf17c7cce1a6907e6281ab503cd366a29507eef205624",
+            "download": {
+                "default": "https://huggingface.co/afrideva/phi-2-sft-dpo-gpt4_en-ep1-GGUF/resolve/main/phi-2-sft-dpo-gpt4_en-ep1.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "phi-2-sft-dpo-gpt4_en-ep1.q6_k.gguf",
+            "size": "2285059776",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4cd60681ca3fea24495979b459e196ce554769486a2c76931812db1c7408f57e",
+            "download": {
+                "default": "https://huggingface.co/afrideva/phi-2-sft-dpo-gpt4_en-ep1-GGUF/resolve/main/phi-2-sft-dpo-gpt4_en-ep1.q6_k.gguf"
+            }
+        },
+        {
+            "name": "phi-2-sft-dpo-gpt4_en-ep1.q8_0.gguf",
+            "size": "2958032576",
+            "quantization": "",
+            "tags": [],
+            "sha256": "73c64edb4a2d8ba1f96a9ab3848c8d441ad29d0ef322f7e56b0dffc9a4c7ad3a",
+            "download": {
+                "default": "https://huggingface.co/afrideva/phi-2-sft-dpo-gpt4_en-ep1-GGUF/resolve/main/phi-2-sft-dpo-gpt4_en-ep1.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,133 @@
+{
+    "id": "brittlewis12/stablelm-2-1_6b-chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "brittlewis12",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-09T00:35:58Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "stablelm-2-1_6b-chat.fp16.gguf",
+            "size": "3293286592",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f7c69ee0f6443fe5f4638ccc1c8b068d219f3d67ad8274bfa7032037f3997c39",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stablelm-2-1_6b-chat-GGUF/resolve/main/stablelm-2-1_6b-chat.fp16.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-1_6b-chat.Q2_K.gguf",
+            "size": "694161664",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "40707f2ca11e4f19a2d9e325206d7953f50a0116dd72e33f1847b20cbbee8143",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stablelm-2-1_6b-chat-GGUF/resolve/main/stablelm-2-1_6b-chat.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-1_6b-chat.Q3_K_L.gguf",
+            "size": "914985216",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "5419e6ce2758aea65567e9a669d2b70d4ad5435e63e11a143180f88e9a6c65a4",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stablelm-2-1_6b-chat-GGUF/resolve/main/stablelm-2-1_6b-chat.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-1_6b-chat.Q3_K_M.gguf",
+            "size": "857706752",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "a1e5c1f6a17b380ed1453949193b6c23800de5830edb29a6804404196458a262",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stablelm-2-1_6b-chat-GGUF/resolve/main/stablelm-2-1_6b-chat.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-1_6b-chat.Q3_K_S.gguf",
+            "size": "791712000",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "2c7e0f808e734f421e7afe0367593ec4605833b9685a2f89a5d84ad533285599",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stablelm-2-1_6b-chat-GGUF/resolve/main/stablelm-2-1_6b-chat.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-1_6b-chat.Q4_K_M.gguf",
+            "size": "1031442688",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a465c9a5a8e0afdef7f29e6dd0066dce7d8aeea484c3a9e11cf21478df4f435d",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stablelm-2-1_6b-chat-GGUF/resolve/main/stablelm-2-1_6b-chat.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-1_6b-chat.Q4_K_S.gguf",
+            "size": "989204736",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "71d4add827e90fa999bebe74a3a74c376f838e30471290462685e53f0cb9cc51",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stablelm-2-1_6b-chat-GGUF/resolve/main/stablelm-2-1_6b-chat.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-1_6b-chat.Q5_K_M.gguf",
+            "size": "1187680512",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "d0132c4d130f777a2ac600dd989a6f9a4ee81c71de468c0333796fb285a541f5",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stablelm-2-1_6b-chat-GGUF/resolve/main/stablelm-2-1_6b-chat.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-1_6b-chat.Q5_K_S.gguf",
+            "size": "1162612992",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "2aaf21e3599b4fd7ca182e412757be10adb29b4223c632ab9f1f9c9f01e7c38b",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stablelm-2-1_6b-chat-GGUF/resolve/main/stablelm-2-1_6b-chat.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-1_6b-chat.Q6_K.gguf",
+            "size": "1353683200",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "8c67572019b0a2bccb58da0d5a5af829c80baa7c5cec8a3a43fec69d664855a6",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stablelm-2-1_6b-chat-GGUF/resolve/main/stablelm-2-1_6b-chat.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-1_6b-chat.Q8_0.gguf",
+            "size": "1751879936",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "241c4a96018e2a43e6e63979eedab3d415ac5dd985a27d37d989494cc1d41955",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stablelm-2-1_6b-chat-GGUF/resolve/main/stablelm-2-1_6b-chat.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

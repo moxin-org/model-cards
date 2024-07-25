@@ -1,0 +1,53 @@
+{
+    "id": "Aryanne/Calypso-3B-alpha-v2-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Aryanne",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-25T02:15:03Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "q4_0-calypso-alpha-v2.gguf",
+            "size": "1979924096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ec97a8394dd8a68e220814ea36e25fd4dae9265970c81292446478aaabc51f61",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/Calypso-3B-alpha-v2-gguf/resolve/main/q4_0-calypso-alpha-v2.gguf"
+            }
+        },
+        {
+            "name": "q4_1-calypso-alpha-v2.gguf",
+            "size": "2187668096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8734462abd4dd52c8c8c2e4936366f5762bf0a0d554c0059a7230f4fe15bbd07",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/Calypso-3B-alpha-v2-gguf/resolve/main/q4_1-calypso-alpha-v2.gguf"
+            }
+        },
+        {
+            "name": "q5_0-calypso-alpha-v2.gguf",
+            "size": "2395412096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9f741b5e86b6a8c93a26ec6de9d13707be8b6524a09f9372c715ca679bb01b49",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/Calypso-3B-alpha-v2-gguf/resolve/main/q5_0-calypso-alpha-v2.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

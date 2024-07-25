@@ -1,0 +1,53 @@
+{
+    "id": "sokada/codegen25-7b-multi-gguf-with-dummy-tokenizer",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "sokada",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-29T13:12:01Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-f16.gguf",
+            "size": "13792937824",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ea6e9c8d6418ba85178e0c0f3547087196dcc008333844c8e61cd80bf33c5b57",
+            "download": {
+                "default": "https://huggingface.co/sokada/codegen25-7b-multi-gguf-with-dummy-tokenizer/resolve/main/ggml-model-f16.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-f32.gguf",
+            "size": "27583809376",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c8bae4d623525c0cc749c4398a153c8717557ccd676a5a9ee0511c1ae42577ec",
+            "download": {
+                "default": "https://huggingface.co/sokada/codegen25-7b-multi-gguf-with-dummy-tokenizer/resolve/main/ggml-model-f32.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q4_K.gguf",
+            "size": "4190013312",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "a33eb6211c79e25d2c179614e04be6b734070a8d097e9ab22def3a19c1472c7d",
+            "download": {
+                "default": "https://huggingface.co/sokada/codegen25-7b-multi-gguf-with-dummy-tokenizer/resolve/main/ggml-model-Q4_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

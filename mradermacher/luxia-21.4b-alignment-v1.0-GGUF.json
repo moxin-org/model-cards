@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/luxia-21.4b-alignment-v1.0-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-23T19:23:01Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "luxia-21.4b-alignment-v1.0.IQ3_M.gguf",
+            "size": "10486232128",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "ede8bf56ebaeda23bc33178c7d729f831e28449c4ff24b6ac4993d868cd62bca",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/luxia-21.4b-alignment-v1.0-GGUF/resolve/main/luxia-21.4b-alignment-v1.0.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "luxia-21.4b-alignment-v1.0.IQ3_S.gguf",
+            "size": "10145313856",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "3a439b5ea103ab619ca3ea2a776ea102a775bcb9a1e3c41b6bcb0ecc63fd4e84",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/luxia-21.4b-alignment-v1.0-GGUF/resolve/main/luxia-21.4b-alignment-v1.0.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "luxia-21.4b-alignment-v1.0.IQ3_XS.gguf",
+            "size": "9626465344",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "d890b3023f990e12af6ccbc3d930c58ff98cb4f13296d074926e7cf4e5d305a5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/luxia-21.4b-alignment-v1.0-GGUF/resolve/main/luxia-21.4b-alignment-v1.0.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "luxia-21.4b-alignment-v1.0.IQ4_XS.gguf",
+            "size": "12365159488",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "4bfa6f960f90067797d8a49c377859fcbaeca9406c9aa9bbcb67ae768095dfde",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/luxia-21.4b-alignment-v1.0-GGUF/resolve/main/luxia-21.4b-alignment-v1.0.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "luxia-21.4b-alignment-v1.0.Q2_K.gguf",
+            "size": "8791723072",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "82c5c5aefbf83a16a2e48f0e772845868201281e26190af2f47178cec48033c3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/luxia-21.4b-alignment-v1.0-GGUF/resolve/main/luxia-21.4b-alignment-v1.0.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "luxia-21.4b-alignment-v1.0.Q3_K_L.gguf",
+            "size": "12041794624",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "66703bcf44fcd4fb73e6935af0957689a7061d2d87b126d5466086ebdafbe407",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/luxia-21.4b-alignment-v1.0-GGUF/resolve/main/luxia-21.4b-alignment-v1.0.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "luxia-21.4b-alignment-v1.0.Q3_K_M.gguf",
+            "size": "11140543552",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "6e5c9b8785d471252e6c20dfc82eea3c99d599d076a151bb8f72d53dca8cf961",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/luxia-21.4b-alignment-v1.0-GGUF/resolve/main/luxia-21.4b-alignment-v1.0.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "luxia-21.4b-alignment-v1.0.Q3_K_S.gguf",
+            "size": "10101863488",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "24d6ca3640826d4cb1201ab8673403f00228307975d3aa26d9fb89f26e02d1bd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/luxia-21.4b-alignment-v1.0-GGUF/resolve/main/luxia-21.4b-alignment-v1.0.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "luxia-21.4b-alignment-v1.0.Q4_K_M.gguf",
+            "size": "13588233280",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "3c0809f50da062680e4ec0656adf13b62cbd13ce1672f4f4cbb65d87ac826f2e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/luxia-21.4b-alignment-v1.0-GGUF/resolve/main/luxia-21.4b-alignment-v1.0.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "luxia-21.4b-alignment-v1.0.Q4_K_S.gguf",
+            "size": "12949945408",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "f1f8c5f3a67cb37eb4553845550cdd2b0139dabceb813e8df24ab58452b33f2a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/luxia-21.4b-alignment-v1.0-GGUF/resolve/main/luxia-21.4b-alignment-v1.0.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "luxia-21.4b-alignment-v1.0.Q5_K_M.gguf",
+            "size": "15847160896",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "c4cf6b061d5be323bbf4d5c844ec6b4c41d0194d5ce70df813890d74e8fa9134",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/luxia-21.4b-alignment-v1.0-GGUF/resolve/main/luxia-21.4b-alignment-v1.0.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "luxia-21.4b-alignment-v1.0.Q5_K_S.gguf",
+            "size": "15477832768",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "7d0c101bba0d0c1afd84b1666a420c84ef9c5ac4467e801046efd6845b2aa3ef",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/luxia-21.4b-alignment-v1.0-GGUF/resolve/main/luxia-21.4b-alignment-v1.0.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "luxia-21.4b-alignment-v1.0.Q6_K.gguf",
+            "size": "18247271488",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "74ea574e8ac4af1d399bba731b6e1dc3d25a81226e20442fde1578e0a01c10da",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/luxia-21.4b-alignment-v1.0-GGUF/resolve/main/luxia-21.4b-alignment-v1.0.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "luxia-21.4b-alignment-v1.0.Q8_0.gguf",
+            "size": "23297424448",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "6be44e209c2c97187a5ede443ea217eabd0eaf5ea47d257f9f550c23a2c7e28c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/luxia-21.4b-alignment-v1.0-GGUF/resolve/main/luxia-21.4b-alignment-v1.0.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

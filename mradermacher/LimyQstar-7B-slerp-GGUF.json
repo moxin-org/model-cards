@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/LimyQstar-7B-slerp-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-23T22:47:33Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "LimyQstar-7B-slerp.IQ3_M.gguf",
+            "size": "3439515392",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "f0f98fa69e7e5db4823a28975bef9ce6d37a7b78df20d8ff86c01e8fa32beb2e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LimyQstar-7B-slerp-GGUF/resolve/main/LimyQstar-7B-slerp.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "LimyQstar-7B-slerp.IQ3_S.gguf",
+            "size": "3337017088",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "a9188f583777d10fdd7885504cb8a8a1071b5b97a5ac5478332f3ac921af5b33",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LimyQstar-7B-slerp-GGUF/resolve/main/LimyQstar-7B-slerp.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "LimyQstar-7B-slerp.IQ3_XS.gguf",
+            "size": "3155613440",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "091cee5ddb596055e719f30fd59c10a3c106b93b09726dd827b9b678acade0e4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LimyQstar-7B-slerp-GGUF/resolve/main/LimyQstar-7B-slerp.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "LimyQstar-7B-slerp.IQ4_NL.gguf",
+            "size": "4309677824",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "7fe347de08f1ee8cb5e194c18ffaa473a77910c8e19d361062cdc1e046c15ef2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LimyQstar-7B-slerp-GGUF/resolve/main/LimyQstar-7B-slerp.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "LimyQstar-7B-slerp.IQ4_XS.gguf",
+            "size": "4099012352",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "a4ace61450d706ac8f98454194b650c68aa2f9320e33b0e15e4115995fa91de8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LimyQstar-7B-slerp-GGUF/resolve/main/LimyQstar-7B-slerp.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "LimyQstar-7B-slerp.Q2_K.gguf",
+            "size": "2873865984",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "20718827c01bc8096aba0833a9edf9e8c45734eeca3d1b1f19987d4c88e7ebcb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LimyQstar-7B-slerp-GGUF/resolve/main/LimyQstar-7B-slerp.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "LimyQstar-7B-slerp.Q3_K_L.gguf",
+            "size": "3976648448",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "8aa2eb952310544dc02109779123997aab99f3f908b0352d355908a504d0b344",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LimyQstar-7B-slerp-GGUF/resolve/main/LimyQstar-7B-slerp.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "LimyQstar-7B-slerp.Q3_K_M.gguf",
+            "size": "3673609984",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "86a7b89f4e5903aa2ecbdeaa9dbfa60223e86771408dbdbc8f1d35ce01ead3ed",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LimyQstar-7B-slerp-GGUF/resolve/main/LimyQstar-7B-slerp.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "LimyQstar-7B-slerp.Q3_K_S.gguf",
+            "size": "3319191296",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "90785a778b50655f1592ab62026128610fa3fbfc86aa7ce9334fa4f50adac04b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LimyQstar-7B-slerp-GGUF/resolve/main/LimyQstar-7B-slerp.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "LimyQstar-7B-slerp.Q4_0.gguf",
+            "size": "4263540480",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "08718a2ecbe4b1626f3cc59adeb4993726b001f02dc2cd3c5f0ba52fa5f29447",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LimyQstar-7B-slerp-GGUF/resolve/main/LimyQstar-7B-slerp.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "LimyQstar-7B-slerp.Q4_K_M.gguf",
+            "size": "4523063040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "cc38690c072180642fa99965e24d044b5a4f992fc0e9d58ea1cdc0b413dff195",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LimyQstar-7B-slerp-GGUF/resolve/main/LimyQstar-7B-slerp.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "LimyQstar-7B-slerp.Q4_K_S.gguf",
+            "size": "4294997760",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "2d8ce484190874f07d06bf80b8d4167053d3dc7513fc170665a77526aac7cc83",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LimyQstar-7B-slerp-GGUF/resolve/main/LimyQstar-7B-slerp.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "LimyQstar-7B-slerp.Q5_K_M.gguf",
+            "size": "5286033152",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "759d9e8c0f376edd4f193ebacf8083caa3e365d5a4a12328ac40627c78dea071",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LimyQstar-7B-slerp-GGUF/resolve/main/LimyQstar-7B-slerp.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "LimyQstar-7B-slerp.Q5_K_S.gguf",
+            "size": "5152339712",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "8611a8f4237416edc56596ca1af307d94f64d5d79a4722e8d0174bfdaab4bd5d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LimyQstar-7B-slerp-GGUF/resolve/main/LimyQstar-7B-slerp.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "LimyQstar-7B-slerp.Q6_K.gguf",
+            "size": "6096688896",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "786c9e16014ff848fd89c065da8556703444ab87d586ad4267582cdd637aead8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LimyQstar-7B-slerp-GGUF/resolve/main/LimyQstar-7B-slerp.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "LimyQstar-7B-slerp.Q8_0.gguf",
+            "size": "7818737408",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "65c9393849360d31256d59920f78580ab58f5a34b801d7ffc6338193e1c5b1be",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/LimyQstar-7B-slerp-GGUF/resolve/main/LimyQstar-7B-slerp.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

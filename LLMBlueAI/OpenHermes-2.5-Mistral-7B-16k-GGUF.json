@@ -1,0 +1,43 @@
+{
+    "id": "LLMBlueAI/OpenHermes-2.5-Mistral-7B-16k-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LLMBlueAI",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-05T09:54:07Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-vocab-llama.gguf",
+            "size": "",
+            "quantization": "",
+            "tags": [],
+            "sha256": "",
+            "download": {
+                "default": "https://huggingface.co/LLMBlueAI/OpenHermes-2.5-Mistral-7B-16k-GGUF/resolve/main/ggml-vocab-llama.gguf"
+            }
+        },
+        {
+            "name": "OpenHermes-2.5-Mistral-7B-16k.Q4_K.gguf",
+            "size": "4368450592",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "4914481e5a17ef92640876c6335ee7e1dde9f2c30e592445b3076e81d4e761db",
+            "download": {
+                "default": "https://huggingface.co/LLMBlueAI/OpenHermes-2.5-Mistral-7B-16k-GGUF/resolve/main/OpenHermes-2.5-Mistral-7B-16k.Q4_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

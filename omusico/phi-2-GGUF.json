@@ -1,0 +1,43 @@
+{
+    "id": "omusico/phi-2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "omusico",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-03T03:54:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "phi-2.Q3_K_M.gguf",
+            "size": "1432689184",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "75c8c6217a5b407ad7b6e29482b7a2b32d61ba0cc7438ca49169e67cda37a31f",
+            "download": {
+                "default": "https://huggingface.co/omusico/phi-2-GGUF/resolve/main/phi-2.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "phi-2.Q4_K_M.gguf",
+            "size": "1737636384",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "013e0e421b70dc169adb0c0010171202371e907e5f648084e4ddc8ad9985127a",
+            "download": {
+                "default": "https://huggingface.co/omusico/phi-2-GGUF/resolve/main/phi-2.Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

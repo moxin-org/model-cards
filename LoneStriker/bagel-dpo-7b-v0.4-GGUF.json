@@ -1,0 +1,113 @@
+{
+    "id": "LoneStriker/bagel-dpo-7b-v0.4-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LoneStriker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-06T15:02:01Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "bagel-dpo-7b-v0.4-Q3_K_L.gguf",
+            "size": "3822354560",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "1baff01bf8f54eca77e005e06c3a18b4266212ebfdfb8b10a5f7aeee56c89c8d",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/bagel-dpo-7b-v0.4-GGUF/resolve/main/bagel-dpo-7b-v0.4-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "bagel-dpo-7b-v0.4-Q3_K_M.gguf",
+            "size": "3519316096",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "1a460c2755300bc61fc85e5041cd9138d998402d4882d5c762645cac67d815b2",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/bagel-dpo-7b-v0.4-GGUF/resolve/main/bagel-dpo-7b-v0.4-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "bagel-dpo-7b-v0.4-Q3_K_S.gguf",
+            "size": "3164897408",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "fbfce61b5ed3849a845454124b3c759acd1ade320ec6b52adc9dc5c81b29487e",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/bagel-dpo-7b-v0.4-GGUF/resolve/main/bagel-dpo-7b-v0.4-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "bagel-dpo-7b-v0.4-Q4_K_M.gguf",
+            "size": "4368803968",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "8d1f8efb055352d401c6ad870dfad2b194b977eccf35d9554a4dd0d3103a5c74",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/bagel-dpo-7b-v0.4-GGUF/resolve/main/bagel-dpo-7b-v0.4-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "bagel-dpo-7b-v0.4-Q4_K_S.gguf",
+            "size": "4140738688",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "1199eb53240922c41850ffd6cce54151b82098e297636be55cd357531e06599e",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/bagel-dpo-7b-v0.4-GGUF/resolve/main/bagel-dpo-7b-v0.4-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "bagel-dpo-7b-v0.4-Q5_K_M.gguf",
+            "size": "5131806848",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "123725c8c5026d36eae5f5473d46b27189272f34424d09a2d20ad663877efc6b",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/bagel-dpo-7b-v0.4-GGUF/resolve/main/bagel-dpo-7b-v0.4-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "bagel-dpo-7b-v0.4-Q5_K_S.gguf",
+            "size": "4998113408",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "7ffdbbfbfdb136049e02c222f155aa2734aea9223dfbaa525f26f8b3ec021b67",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/bagel-dpo-7b-v0.4-GGUF/resolve/main/bagel-dpo-7b-v0.4-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "bagel-dpo-7b-v0.4-Q6_K.gguf",
+            "size": "5942497408",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "c49f1c39dac6e56eb5a87ce06b8ee89e31d4193a3375d58a8c821cdafc8da167",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/bagel-dpo-7b-v0.4-GGUF/resolve/main/bagel-dpo-7b-v0.4-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "bagel-dpo-7b-v0.4-Q8_0.gguf",
+            "size": "7696416896",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "c0b405b3ef563f8a4247b8dbbaa9b59e6281c662b894edf63d7581a033ad57cc",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/bagel-dpo-7b-v0.4-GGUF/resolve/main/bagel-dpo-7b-v0.4-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

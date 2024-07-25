@@ -1,0 +1,63 @@
+{
+    "id": "Isaak-Carter/TinyJ.O.S.I.E.-4x1.1B-32k-Base_gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Isaak-Carter",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-20T16:19:00Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tinyj.o.s.i.e.-4x1.1b-32k-base.Q3_K_L.gguf",
+            "size": "1769546848",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "8e7f92c3310b78fc26cd27361dac05d7168b800397256286055896b6364ea7a9",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/TinyJ.O.S.I.E.-4x1.1B-32k-Base_gguf/resolve/main/tinyj.o.s.i.e.-4x1.1b-32k-base.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "tinyj.o.s.i.e.-4x1.1b-32k-base.Q4_K_M.gguf",
+            "size": "2042105312",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "ed1ecc30707eea4226e1c98bc113f157621741151e4764a0e05f9e5a28c0e269",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/TinyJ.O.S.I.E.-4x1.1B-32k-Base_gguf/resolve/main/tinyj.o.s.i.e.-4x1.1b-32k-base.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "tinyj.o.s.i.e.-4x1.1b-32k-base.Q4_K_S.gguf",
+            "size": "1933602272",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "f6fca5b0349e15fae28143767cfdcc18e725466be6e7d641469d2375599985c2",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/TinyJ.O.S.I.E.-4x1.1B-32k-Base_gguf/resolve/main/tinyj.o.s.i.e.-4x1.1b-32k-base.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "tinyj.o.s.i.e.-4x1.1b-32k-base.Q6_K.gguf",
+            "size": "2777296736",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "4f37cafd5d162f7e33417a26926198036d2f6288f64f0c90d9e80d286c0cb41e",
+            "download": {
+                "default": "https://huggingface.co/Isaak-Carter/TinyJ.O.S.I.E.-4x1.1B-32k-Base_gguf/resolve/main/tinyj.o.s.i.e.-4x1.1b-32k-base.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

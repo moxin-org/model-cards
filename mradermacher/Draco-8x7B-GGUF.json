@@ -1,0 +1,153 @@
+{
+    "id": "mradermacher/Draco-8x7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-10T22:37:38Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Draco-8x7B.IQ3_M.gguf",
+            "size": "21583352992",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "de07e51ba70bc3b6791a84768ec72f87748b5d3ec1a032bed5d4829447f8016c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Draco-8x7B-GGUF/resolve/main/Draco-8x7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Draco-8x7B.IQ3_S.gguf",
+            "size": "20585108640",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "36a2680c1aabb316682aa30ad7c6bfe3632b61ff057accf54b70d224c4d90452",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Draco-8x7B-GGUF/resolve/main/Draco-8x7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Draco-8x7B.IQ3_XS.gguf",
+            "size": "19436917920",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "c262b4ae0b5ac37b7d99bb48e1081907f4824065e54553808f5b3daac71cf50f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Draco-8x7B-GGUF/resolve/main/Draco-8x7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Draco-8x7B.IQ4_XS.gguf",
+            "size": "25526728672",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "1d76bddbe9ea76b75ce4b491bb062e8783a85afd77c6de1589d8044c8fd6a0c3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Draco-8x7B-GGUF/resolve/main/Draco-8x7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Draco-8x7B.Q2_K.gguf",
+            "size": "17463816544",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "cc2826c7ca9592337e5732f8eea64595c5ec7110a8294c77a49f7d0820dca4a6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Draco-8x7B-GGUF/resolve/main/Draco-8x7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Draco-8x7B.Q3_K_L.gguf",
+            "size": "24322233504",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "9b65733594683e3348c232e59ba149be065a0030d0770e49efd757b595037afb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Draco-8x7B-GGUF/resolve/main/Draco-8x7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Draco-8x7B.Q3_K_M.gguf",
+            "size": "22699037856",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "74390d585b7c07968c857e2849a29a0f0401fbcf6db0c3c519672188e7885baf",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Draco-8x7B-GGUF/resolve/main/Draco-8x7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Draco-8x7B.Q3_K_S.gguf",
+            "size": "20585108640",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "5e6d0c6177ebb3e40dfaf6620b018462001b055f785d32ea3c09d37abf80476e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Draco-8x7B-GGUF/resolve/main/Draco-8x7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Draco-8x7B.Q4_K_M.gguf",
+            "size": "28601055456",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "06a123d130ade7313db099d35485bb07a2a550082c4841f63e34851e1183771d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Draco-8x7B-GGUF/resolve/main/Draco-8x7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Draco-8x7B.Q4_K_S.gguf",
+            "size": "26898168032",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "0f61740611620ffd35eca2f151157b8bf9ff6ef9661fce988f955856808e09e6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Draco-8x7B-GGUF/resolve/main/Draco-8x7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Draco-8x7B.Q5_K_M.gguf",
+            "size": "33382169824",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "4fcdc9065863fbe480ce6637fbd3017fa59e8587c5d325365c5f40bdd5f14c9f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Draco-8x7B-GGUF/resolve/main/Draco-8x7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Draco-8x7B.Q5_K_S.gguf",
+            "size": "32383925472",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "17d511dd11ff772cdb5e127d2e95fa7b44c83f46f434dc5941f87d28d16ade84",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Draco-8x7B-GGUF/resolve/main/Draco-8x7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Draco-8x7B.Q6_K.gguf",
+            "size": "38533407008",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "be01be70e1052c3fcf9cf368ac073bce743c20be0758be839bc021aeb71fc7b8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Draco-8x7B-GGUF/resolve/main/Draco-8x7B.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

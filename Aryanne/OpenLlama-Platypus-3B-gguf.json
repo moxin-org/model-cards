@@ -1,0 +1,63 @@
+{
+    "id": "Aryanne/OpenLlama-Platypus-3B-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Aryanne",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-09T01:06:05Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "q4_0-openllama-platypus-3b.gguf",
+            "size": "1979924096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a0b5e0f7f052dc3165ed7d4c925192d5eab5d98f2a9f24ac81a4a66e17728a5c",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/OpenLlama-Platypus-3B-gguf/resolve/main/q4_0-openllama-platypus-3b.gguf"
+            }
+        },
+        {
+            "name": "q4_1-openllama-platypus-3b.gguf",
+            "size": "2187668096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "539a0a79ac295e4cd1900b0b5192d739eae46d8546ba855427e2ffb992c80824",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/OpenLlama-Platypus-3B-gguf/resolve/main/q4_1-openllama-platypus-3b.gguf"
+            }
+        },
+        {
+            "name": "q5_0-openllama-platypus-3b.gguf",
+            "size": "2395412096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1c97b3f214534cc214dcf94b23136b26c02c60b10df7579ebf516a017bd5011b",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/OpenLlama-Platypus-3B-gguf/resolve/main/q5_0-openllama-platypus-3b.gguf"
+            }
+        },
+        {
+            "name": "q5_1-openllama-platypus-3b.gguf",
+            "size": "2603156096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c819e5edc636b7e2be7c3ea853b261e4034d02087e2f1497ee4647e02f70fd7b",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/OpenLlama-Platypus-3B-gguf/resolve/main/q5_1-openllama-platypus-3b.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

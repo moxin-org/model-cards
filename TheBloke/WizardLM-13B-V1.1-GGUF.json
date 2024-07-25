@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/WizardLM-13B-V1.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-20T00:48:08Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "wizardlm-13b-v1.1.Q2_K.gguf",
+            "size": "5429354208",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "84f65955c712dacac0ba854c84c1e4c3493285487b90e18b9f53fda15de40ce9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/WizardLM-13B-V1.1-GGUF/resolve/main/wizardlm-13b-v1.1.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "wizardlm-13b-v1.1.Q3_K_L.gguf",
+            "size": "6929565920",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "94cce78b81e9733671345178c5a58135fd09d9bb881dbb2b1d20c45310a7a9c7",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/WizardLM-13B-V1.1-GGUF/resolve/main/wizardlm-13b-v1.1.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "wizardlm-13b-v1.1.Q3_K_M.gguf",
+            "size": "6337775840",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "5c3b30a0a8368d48026196f3b269304fff166740c73d4242347f41849fa61246",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/WizardLM-13B-V1.1-GGUF/resolve/main/wizardlm-13b-v1.1.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "wizardlm-13b-v1.1.Q3_K_S.gguf",
+            "size": "5658986720",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "38d0d1165d9d01321d70215208b2115440c0041ca133854addaa057a29dd61e9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/WizardLM-13B-V1.1-GGUF/resolve/main/wizardlm-13b-v1.1.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "wizardlm-13b-v1.1.Q4_0.gguf",
+            "size": "7365841792",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "a0f0622d4e76178151dc2bb7ab82c1da581e6b6f83a6f790f1497f3282905d70",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/WizardLM-13B-V1.1-GGUF/resolve/main/wizardlm-13b-v1.1.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "wizardlm-13b-v1.1.Q4_K_M.gguf",
+            "size": "7865963392",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "41cba0442a3b2dad4bb2d89817e2e8e40fb46d32969aa8e4f8603c1967b944bb",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/WizardLM-13B-V1.1-GGUF/resolve/main/wizardlm-13b-v1.1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "wizardlm-13b-v1.1.Q4_K_S.gguf",
+            "size": "7414338432",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "3071d3770be4fa0b3b491a08f93a85231aa97373586f9e8e4cf91544553d6520",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/WizardLM-13B-V1.1-GGUF/resolve/main/wizardlm-13b-v1.1.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "wizardlm-13b-v1.1.Q5_0.gguf",
+            "size": "8972293632",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "6aff56817b7af0ed2b4ad92d6a0f9e98b369ac8d8847cd923e7fcae26c8c0739",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/WizardLM-13B-V1.1-GGUF/resolve/main/wizardlm-13b-v1.1.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "wizardlm-13b-v1.1.Q5_K_M.gguf",
+            "size": "9229932032",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "6ec29e6fed126b05eaec3bed25a7db52d4c19f6ca30ccda8f3ad585e696fe94c",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/WizardLM-13B-V1.1-GGUF/resolve/main/wizardlm-13b-v1.1.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "wizardlm-13b-v1.1.Q5_K_S.gguf",
+            "size": "8972293632",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "b4954c7234b06127965263587ee5146238b8629aa9c3adc49b931de20cb61a1e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/WizardLM-13B-V1.1-GGUF/resolve/main/wizardlm-13b-v1.1.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "wizardlm-13b-v1.1.Q6_K.gguf",
+            "size": "10679148736",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "0c0d6a5eaa6d2ef364b1cd2b78daf9f66558b9e59e4e8e3f77b2a73288b32300",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/WizardLM-13B-V1.1-GGUF/resolve/main/wizardlm-13b-v1.1.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "wizardlm-13b-v1.1.Q8_0.gguf",
+            "size": "13831330368",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "be91a7b66bfaf576e89a403c1911218152a05685b84cd4e1a35579b632274746",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/WizardLM-13B-V1.1-GGUF/resolve/main/wizardlm-13b-v1.1.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

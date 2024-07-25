@@ -1,0 +1,53 @@
+{
+    "id": "aless2212/deepseek-coder-6.7b-instruct-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "aless2212",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-18T17:50:50Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "deepseek-coder-6.7b-instruct.Q4_K_M.gguf",
+            "size": "4083017120",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "be0132add4de24fd6283ae503c4bcfa7975bbe8b37e527029d532d58abf350c4",
+            "download": {
+                "default": "https://huggingface.co/aless2212/deepseek-coder-6.7b-instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-6.7b-instruct.Q5_K_M.gguf",
+            "size": "4785300896",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "b23a980c364dd8a560fce2dd01e157a003227d743f981a4b8d0dee153429ca84",
+            "download": {
+                "default": "https://huggingface.co/aless2212/deepseek-coder-6.7b-instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-6.7b-instruct.Q6_K.gguf",
+            "size": "5531477408",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "48a40d0a831e9d31269f1a0eabf7b9ce9ca059d4c95057fdc5047350250fde80",
+            "download": {
+                "default": "https://huggingface.co/aless2212/deepseek-coder-6.7b-instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

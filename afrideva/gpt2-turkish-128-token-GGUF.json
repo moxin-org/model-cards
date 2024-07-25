@@ -1,0 +1,93 @@
+{
+    "id": "afrideva/gpt2-turkish-128-token-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-28T19:20:32Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "gpt2-turkish-128-token.fp16.gguf",
+            "size": "328006720",
+            "quantization": "",
+            "tags": [],
+            "sha256": "11abd6d5f7027bb13cee54134eae8b68e8f1f08ce4859034259f99b9872d890a",
+            "download": {
+                "default": "https://huggingface.co/afrideva/gpt2-turkish-128-token-GGUF/resolve/main/gpt2-turkish-128-token.fp16.gguf"
+            }
+        },
+        {
+            "name": "gpt2-turkish-128-token.q2_k.gguf",
+            "size": "81098624",
+            "quantization": "",
+            "tags": [],
+            "sha256": "335173ab889c52f5e1b76b2a8a136484760b7c437260daca6a7fba8261f7f961",
+            "download": {
+                "default": "https://huggingface.co/afrideva/gpt2-turkish-128-token-GGUF/resolve/main/gpt2-turkish-128-token.q2_k.gguf"
+            }
+        },
+        {
+            "name": "gpt2-turkish-128-token.q3_k_m.gguf",
+            "size": "95365184",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b3b4a863bcadc15c57439aa98a0e5b520fdcc91963d1291e050a6e6f8374b6b3",
+            "download": {
+                "default": "https://huggingface.co/afrideva/gpt2-turkish-128-token-GGUF/resolve/main/gpt2-turkish-128-token.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "gpt2-turkish-128-token.q4_k_m.gguf",
+            "size": "110069888",
+            "quantization": "",
+            "tags": [],
+            "sha256": "573fb4969b9edb7391cbcd706e4c6b9fa24143f0975824442221746c0ecbad3f",
+            "download": {
+                "default": "https://huggingface.co/afrideva/gpt2-turkish-128-token-GGUF/resolve/main/gpt2-turkish-128-token.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "gpt2-turkish-128-token.q5_k_m.gguf",
+            "size": "124006112",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0ce96df96b39cc18ca108b3a07412a62a671fe8d66ac727fede40643562210db",
+            "download": {
+                "default": "https://huggingface.co/afrideva/gpt2-turkish-128-token-GGUF/resolve/main/gpt2-turkish-128-token.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "gpt2-turkish-128-token.q6_k.gguf",
+            "size": "135816992",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3b22705448136c81a23abb5c628677e835b682b6c6f486cb3a2a0ba2f7b65f40",
+            "download": {
+                "default": "https://huggingface.co/afrideva/gpt2-turkish-128-token-GGUF/resolve/main/gpt2-turkish-128-token.q6_k.gguf"
+            }
+        },
+        {
+            "name": "gpt2-turkish-128-token.q8_0.gguf",
+            "size": "175273184",
+            "quantization": "",
+            "tags": [],
+            "sha256": "af33c795fe845039c34e1d60b32c7e19fda538b7e6db8d0a939c3cded163c961",
+            "download": {
+                "default": "https://huggingface.co/afrideva/gpt2-turkish-128-token-GGUF/resolve/main/gpt2-turkish-128-token.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

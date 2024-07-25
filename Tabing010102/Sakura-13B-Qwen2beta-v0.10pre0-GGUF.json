@@ -1,0 +1,53 @@
+{
+    "id": "Tabing010102/Sakura-13B-Qwen2beta-v0.10pre0-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Tabing010102",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-04T05:11:57Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "sakura-13b-qwen2beta-v0.10pre0-Q4_1.gguf",
+            "size": "9016053440",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "a105416f977f6b68292ef89a21fc0a3ebf9a7a75f12b7632338d729af060a3c0",
+            "download": {
+                "default": "https://huggingface.co/Tabing010102/Sakura-13B-Qwen2beta-v0.10pre0-GGUF/resolve/main/sakura-13b-qwen2beta-v0.10pre0-Q4_1.gguf"
+            }
+        },
+        {
+            "name": "sakura-13b-qwen2beta-v0.10pre0-Q6_K.gguf",
+            "size": "12310159040",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "24bcbf778ba3874ff751d3191461a8ad66c0e4a8b20e740319794bf1d5c025e2",
+            "download": {
+                "default": "https://huggingface.co/Tabing010102/Sakura-13B-Qwen2beta-v0.10pre0-GGUF/resolve/main/sakura-13b-qwen2beta-v0.10pre0-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "sakura-13b-qwen2beta-v0.10pre0-Q8_0.gguf",
+            "size": "15061728960",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "b3a61b48d346d083a8cabcf0f46ea2fed1db0d596a4a1c7dfe9e24578e710404",
+            "download": {
+                "default": "https://huggingface.co/Tabing010102/Sakura-13B-Qwen2beta-v0.10pre0-GGUF/resolve/main/sakura-13b-qwen2beta-v0.10pre0-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

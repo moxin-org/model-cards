@@ -1,0 +1,83 @@
+{
+    "id": "acon96/Home-3B-v3-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "acon96",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-23T01:22:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Home-3B-v3.f16.gguf",
+            "size": "5593341824",
+            "quantization": "",
+            "tags": [],
+            "sha256": "80a755053df2f279d160e48b728154518dc90d97ee364061350bd456b32facf2",
+            "download": {
+                "default": "https://huggingface.co/acon96/Home-3B-v3-GGUF/resolve/main/Home-3B-v3.f16.gguf"
+            }
+        },
+        {
+            "name": "Home-3B-v3.q2_k.gguf",
+            "size": "1083755968",
+            "quantization": "",
+            "tags": [],
+            "sha256": "adc4e5d5f4ac950d07c1104542e74ad0dcab8bd734effa5cddf0106666d496d8",
+            "download": {
+                "default": "https://huggingface.co/acon96/Home-3B-v3-GGUF/resolve/main/Home-3B-v3.q2_k.gguf"
+            }
+        },
+        {
+            "name": "Home-3B-v3.q3_k_m.gguf",
+            "size": "1391419328",
+            "quantization": "",
+            "tags": [],
+            "sha256": "cd79125e0d2907628ba93aa23985d41a5edc8c3ec097852a2d769bcb491d80a9",
+            "download": {
+                "default": "https://huggingface.co/acon96/Home-3B-v3-GGUF/resolve/main/Home-3B-v3.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "Home-3B-v3.q4_k_m.gguf",
+            "size": "1708595648",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b3d1c9eaeca6266dc7f57934cd99b348c7665fa2a44a89aac8a7103eaf790ce8",
+            "download": {
+                "default": "https://huggingface.co/acon96/Home-3B-v3-GGUF/resolve/main/Home-3B-v3.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "Home-3B-v3.q5_k_m.gguf",
+            "size": "1993390528",
+            "quantization": "",
+            "tags": [],
+            "sha256": "527e6ec74c71ca62e6c0080d4641d04989b61b62d9f18615d7f22562e3ae2330",
+            "download": {
+                "default": "https://huggingface.co/acon96/Home-3B-v3-GGUF/resolve/main/Home-3B-v3.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "Home-3B-v3.q8_0.gguf",
+            "size": "2972925888",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6601e74c0d2217834aba3b9be8e27380657481c4386a516c6dd484c9809d74a8",
+            "download": {
+                "default": "https://huggingface.co/acon96/Home-3B-v3-GGUF/resolve/main/Home-3B-v3.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

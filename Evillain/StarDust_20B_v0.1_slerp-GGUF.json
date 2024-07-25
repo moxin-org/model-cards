@@ -1,0 +1,63 @@
+{
+    "id": "Evillain/StarDust_20B_v0.1_slerp-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Evillain",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-07T07:13:23Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Dust-A_SLERP_Q5_K_M.gguf",
+            "size": "14157219392",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "9bab0cec5cdf03a808f60b3d14dc8cb091526208d193a8fc1b012c0138901a88",
+            "download": {
+                "default": "https://huggingface.co/Evillain/StarDust_20B_v0.1_slerp-GGUF/resolve/main/Dust-A_SLERP_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Dust-B_SLERP_Q5_K_M.gguf",
+            "size": "14157219392",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e9d3c44c14e718de2a5a66785d3dddfbb5fa8509f42716bb86a5a15d493f95f8",
+            "download": {
+                "default": "https://huggingface.co/Evillain/StarDust_20B_v0.1_slerp-GGUF/resolve/main/Dust-B_SLERP_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "StarDust_20B_v0.1_slerp_f16.gguf",
+            "size": "39990763040",
+            "quantization": "",
+            "tags": [],
+            "sha256": "bcfb355c3569c99d8b525e302604078d0f5026f8996b6afc678765f79aaf57d7",
+            "download": {
+                "default": "https://huggingface.co/Evillain/StarDust_20B_v0.1_slerp-GGUF/resolve/main/StarDust_20B_v0.1_slerp_f16.gguf"
+            }
+        },
+        {
+            "name": "StarDust_20B_v0.1_slerp-Q5_K_M.gguf",
+            "size": "14157219392",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "6c5c63238cf36e28b404d5b771975ead99209ecf692319342b3298bfb7c5c2c2",
+            "download": {
+                "default": "https://huggingface.co/Evillain/StarDust_20B_v0.1_slerp-GGUF/resolve/main/StarDust_20B_v0.1_slerp-Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

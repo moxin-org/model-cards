@@ -1,0 +1,73 @@
+{
+    "id": "xiaoheiqaq/Rana-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "xiaoheiqaq",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-06T21:34:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Rana_Q2_K.gguf",
+            "size": "1083755968",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a033f6927ee1c700cc813bfd5cb28770478b1520be98f0193c5d4db318ff9985",
+            "download": {
+                "default": "https://huggingface.co/xiaoheiqaq/Rana-gguf/resolve/main/Rana_Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Rana_Q3_K_M.gguf",
+            "size": "1391419328",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "edad0071c07ac6b42839970d59b0621747c3f746550abe7d6f74900ccfd7d837",
+            "download": {
+                "default": "https://huggingface.co/xiaoheiqaq/Rana-gguf/resolve/main/Rana_Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Rana_Q4_K_M.gguf",
+            "size": "1708595648",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "b2a92528d66a20117f8229e218995becf34138f587f68636e29f129c9348b305",
+            "download": {
+                "default": "https://huggingface.co/xiaoheiqaq/Rana-gguf/resolve/main/Rana_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Rana_Q5_K_M.gguf",
+            "size": "1993390528",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "4f64aff953af0dc699d077eac54ab3aceec948e487b5519e7ce09e9bb9ebe983",
+            "download": {
+                "default": "https://huggingface.co/xiaoheiqaq/Rana-gguf/resolve/main/Rana_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Rana_Q6_K.gguf",
+            "size": "2295985088",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "ff5cdda1bbaed02982bbd5d98b233fbda51cbb1aa359da525fae883a9d231fab",
+            "download": {
+                "default": "https://huggingface.co/xiaoheiqaq/Rana-gguf/resolve/main/Rana_Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

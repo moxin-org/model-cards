@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Chimera-7B-slerp-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-09T03:13:26Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Chimera-7B-slerp.IQ3_M.gguf",
+            "size": "3284891360",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "7f94eb98f3a21a5e1bdef83336a0956768ed6071a51194d11f532c13abcba69a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Chimera-7B-slerp-GGUF/resolve/main/Chimera-7B-slerp.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Chimera-7B-slerp.IQ3_S.gguf",
+            "size": "3182393056",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "add1da689933e58b683faa99eabd0db438d65b1525c7ba4aab2fe7a4fb387b85",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Chimera-7B-slerp-GGUF/resolve/main/Chimera-7B-slerp.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Chimera-7B-slerp.IQ3_XS.gguf",
+            "size": "3018815200",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "01ff2fd65ee0049d86a0b3144046452dcbe169333d0953862600b6f251175cc9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Chimera-7B-slerp-GGUF/resolve/main/Chimera-7B-slerp.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Chimera-7B-slerp.IQ4_XS.gguf",
+            "size": "3944388320",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "0566bc02715c4d43d0a2e9c69cd812b182ff0ddadc1e722edec1ced1874d3ac5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Chimera-7B-slerp-GGUF/resolve/main/Chimera-7B-slerp.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Chimera-7B-slerp.Q2_K.gguf",
+            "size": "2719241952",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "60cf64f63aa93ff229976323025f6ad65736815dc4fdc2333d141db61d03fa88",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Chimera-7B-slerp-GGUF/resolve/main/Chimera-7B-slerp.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Chimera-7B-slerp.Q3_K_L.gguf",
+            "size": "3822024416",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "5402735c9cb153893d280908ce13426de9b1be345ac33aa2e83cd8a588d367f2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Chimera-7B-slerp-GGUF/resolve/main/Chimera-7B-slerp.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Chimera-7B-slerp.Q3_K_M.gguf",
+            "size": "3518985952",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "b26ce5673df943bb156c026df98e43ec54a1550aa64873648c49e730240afa7d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Chimera-7B-slerp-GGUF/resolve/main/Chimera-7B-slerp.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Chimera-7B-slerp.Q3_K_S.gguf",
+            "size": "3164567264",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "1a2348aaa573e08f1e44201e50d02882a4294a6533636bab6d68cd7fe888d514",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Chimera-7B-slerp-GGUF/resolve/main/Chimera-7B-slerp.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Chimera-7B-slerp.Q4_K_M.gguf",
+            "size": "4368439008",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "126f22b6dab4978ae3bd2851472857105d9e899eae8a9c52b5d907a3fe72baf1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Chimera-7B-slerp-GGUF/resolve/main/Chimera-7B-slerp.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Chimera-7B-slerp.Q4_K_S.gguf",
+            "size": "4140373728",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "63e6dbc4a9fef0328d658bd50555af3a0f65f3d66d943aeabc96ddfa7de7a685",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Chimera-7B-slerp-GGUF/resolve/main/Chimera-7B-slerp.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Chimera-7B-slerp.Q5_K_M.gguf",
+            "size": "5131409120",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5d558fb957102e203f7ef2e806523e8c0a5094f670416983f9da6c2af927ea49",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Chimera-7B-slerp-GGUF/resolve/main/Chimera-7B-slerp.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Chimera-7B-slerp.Q5_K_S.gguf",
+            "size": "4997715680",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "442970877895fffd3308a86a0c24347787cd3ed34780d0ca52d8dc32cc9821df",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Chimera-7B-slerp-GGUF/resolve/main/Chimera-7B-slerp.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Chimera-7B-slerp.Q6_K.gguf",
+            "size": "5942064864",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "848a31c1ceaef632bcd790d98ebb3a6d41f66edcb811648365d183bade11a55a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Chimera-7B-slerp-GGUF/resolve/main/Chimera-7B-slerp.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Chimera-7B-slerp.Q8_0.gguf",
+            "size": "7695857376",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "337275edc7be10e8d261dc6d7e997df006481351b9a98570423143eb11680455",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Chimera-7B-slerp-GGUF/resolve/main/Chimera-7B-slerp.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

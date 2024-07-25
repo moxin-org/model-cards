@@ -1,0 +1,53 @@
+{
+    "id": "khaimaitien/qa-expert-7B-V1.0-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "khaimaitien",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-15T17:07:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "qa-expert-7B-V1.0.f16.gguf",
+            "size": "14484780704",
+            "quantization": "",
+            "tags": [],
+            "sha256": "12404f07613a91c17ec066a58fea4afa24032b2e113718953acb04c4cea108b8",
+            "download": {
+                "default": "https://huggingface.co/khaimaitien/qa-expert-7B-V1.0-GGUF/resolve/main/qa-expert-7B-V1.0.f16.gguf"
+            }
+        },
+        {
+            "name": "qa-expert-7B-V1.0.q4_0.gguf",
+            "size": "4108933408",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1b839d9b18fb6ff6cd33bd5d82dfd7cfc3fed9918f29e80af28ef9018c6765b1",
+            "download": {
+                "default": "https://huggingface.co/khaimaitien/qa-expert-7B-V1.0-GGUF/resolve/main/qa-expert-7B-V1.0.q4_0.gguf"
+            }
+        },
+        {
+            "name": "qa-expert-7B-V1.0.q8_0.gguf",
+            "size": "7695883456",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4636cbdc8ababcd2264263ceebe8efb16af3ccaa158542b12145bba875f4cecc",
+            "download": {
+                "default": "https://huggingface.co/khaimaitien/qa-expert-7B-V1.0-GGUF/resolve/main/qa-expert-7B-V1.0.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

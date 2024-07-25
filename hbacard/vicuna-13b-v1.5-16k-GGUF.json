@@ -1,0 +1,33 @@
+{
+    "id": "hbacard/vicuna-13b-v1.5-16k-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "hbacard",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-15T03:49:10Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "vicuna-13b-v1.5-16k-q8_0.gguf",
+            "size": "13831319424",
+            "quantization": "",
+            "tags": [],
+            "sha256": "58d0d253f20aceb6bf78b4b2362f449bea77218320ea3ae822c644090fc5b7d2",
+            "download": {
+                "default": "https://huggingface.co/hbacard/vicuna-13b-v1.5-16k-GGUF/resolve/main/vicuna-13b-v1.5-16k-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

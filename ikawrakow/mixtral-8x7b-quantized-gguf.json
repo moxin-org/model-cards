@@ -1,0 +1,123 @@
+{
+    "id": "ikawrakow/mixtral-8x7b-quantized-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "ikawrakow",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-06T09:09:29Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mixtral-8x7b-iq3-xxs.gguf",
+            "size": "18309713664",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a30e4b1c68b0ab327940c55542274f2ad4c4b60717f59e95e01f5597121554a4",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/mixtral-8x7b-quantized-gguf/resolve/main/mixtral-8x7b-iq3-xxs.gguf"
+            }
+        },
+        {
+            "name": "mixtral-8x7b-q2k.gguf",
+            "size": "15407361792",
+            "quantization": "",
+            "tags": [],
+            "sha256": "387b7a38e21fc0e70c237ce50459cd672e640b14c4c7897091e8e088e8215cd3",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/mixtral-8x7b-quantized-gguf/resolve/main/mixtral-8x7b-q2k.gguf"
+            }
+        },
+        {
+            "name": "mixtral-8x7b-q3k-medium.gguf",
+            "size": "22545329920",
+            "quantization": "",
+            "tags": [],
+            "sha256": "acee9f11a1be6d3262123cb9f655d9c08d7ff20644320cdd2e261f456947766e",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/mixtral-8x7b-quantized-gguf/resolve/main/mixtral-8x7b-q3k-medium.gguf"
+            }
+        },
+        {
+            "name": "mixtral-8x7b-q3k-small.gguf",
+            "size": "20292988672",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b34cda208dc2aa102fe18a9e56b5706e70dd410fd719c716a5ab126a9994a564",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/mixtral-8x7b-quantized-gguf/resolve/main/mixtral-8x7b-q3k-small.gguf"
+            }
+        },
+        {
+            "name": "mixtral-8x7b-q40.gguf",
+            "size": "26442469120",
+            "quantization": "",
+            "tags": [],
+            "sha256": "415e9c1520a06d568f31051c2895dbf7d889d10433251055d76df973c591d94f",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/mixtral-8x7b-quantized-gguf/resolve/main/mixtral-8x7b-q40.gguf"
+            }
+        },
+        {
+            "name": "mixtral-8x7b-q41.gguf",
+            "size": "29336342272",
+            "quantization": "",
+            "tags": [],
+            "sha256": "02f47e90552e528801dec200c417c9c842faf3e7c5154dfafabe4d6906d17978",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/mixtral-8x7b-quantized-gguf/resolve/main/mixtral-8x7b-q41.gguf"
+            }
+        },
+        {
+            "name": "mixtral-8x7b-q4k-medium.gguf",
+            "size": "28447346432",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4ecf46dd1ca7e1e4fe3a9889b56d1cf9e924fb09196b2c187baf1a8e972a020a",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/mixtral-8x7b-quantized-gguf/resolve/main/mixtral-8x7b-q4k-medium.gguf"
+            }
+        },
+        {
+            "name": "mixtral-8x7b-q4k-small.gguf",
+            "size": "26677350144",
+            "quantization": "",
+            "tags": [],
+            "sha256": "cfede0300544f1f6d87ec6c2af79e9059f1231a51ca0cd6631d65936db3585d6",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/mixtral-8x7b-quantized-gguf/resolve/main/mixtral-8x7b-q4k-small.gguf"
+            }
+        },
+        {
+            "name": "mixtral-8x7b-q50.gguf",
+            "size": "32230215424",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4c0db509bbc9394137dbc48f8b991fc33de6bc962b988ac77c5dd8bdc25d168e",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/mixtral-8x7b-quantized-gguf/resolve/main/mixtral-8x7b-q50.gguf"
+            }
+        },
+        {
+            "name": "mixtral-8x7b-q5k-small.gguf",
+            "size": "32230215424",
+            "quantization": "",
+            "tags": [],
+            "sha256": "945ca78506c4f328669373aed2509fb7f4f6b4c3ab1dcc3d941121ec341acad5",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/mixtral-8x7b-quantized-gguf/resolve/main/mixtral-8x7b-q5k-small.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

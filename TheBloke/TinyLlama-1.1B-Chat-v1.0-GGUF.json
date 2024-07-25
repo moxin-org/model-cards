@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-31T20:53:43Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tinyllama-1.1b-chat-v1.0.Q2_K.gguf",
+            "size": "483116416",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "030a469a63576d59f601ef5608846b7718eaa884dd820e9aa7493efec1788afa",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF/resolve/main/tinyllama-1.1b-chat-v1.0.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v1.0.Q3_K_L.gguf",
+            "size": "592500096",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "3c725e62c1e9a16d949ade83c2a561be1330eaaf41d98773c3fe929512a70aaf",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF/resolve/main/tinyllama-1.1b-chat-v1.0.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v1.0.Q3_K_M.gguf",
+            "size": "550819200",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ec461c4d2b60896152bca3978aa49cd70edad7298715e4222e12af1eefea2125",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF/resolve/main/tinyllama-1.1b-chat-v1.0.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v1.0.Q3_K_S.gguf",
+            "size": "500315520",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "6d58c8fbdaa822b004d7ba473f9b9ad4d1ef7c2dd2c4cf9f9856451aa44bf0ca",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF/resolve/main/tinyllama-1.1b-chat-v1.0.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v1.0.Q4_0.gguf",
+            "size": "637699456",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "da3087fb14aede55fde6eb81a0e55e886810e43509ec82ecdc7aa5d62a03b556",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF/resolve/main/tinyllama-1.1b-chat-v1.0.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf",
+            "size": "668788096",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "9fecc3b3cd76bba89d504f29b616eedf7da85b96540e490ca5824d3f7d2776a0",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF/resolve/main/tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v1.0.Q4_K_S.gguf",
+            "size": "643728768",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "fdf50b4eebd34ccd953b2061d8b4b504f59a8e88d570adf035b1405154d12c29",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF/resolve/main/tinyllama-1.1b-chat-v1.0.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v1.0.Q5_0.gguf",
+            "size": "767001984",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "bf0264251d7c9406983b6beb71b2242428d4564f5a5154bc00825b43965f89b2",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF/resolve/main/tinyllama-1.1b-chat-v1.0.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v1.0.Q5_K_M.gguf",
+            "size": "783017344",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "aa54a5fb99ace5b964859cf072346631b2da6109715a805d07161d157c66ce7f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF/resolve/main/tinyllama-1.1b-chat-v1.0.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v1.0.Q5_K_S.gguf",
+            "size": "767001984",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "87dfd8c5111e6e0b87c5bac654ce01eae412fb3bed24067c75aba60e454b5399",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF/resolve/main/tinyllama-1.1b-chat-v1.0.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v1.0.Q6_K.gguf",
+            "size": "904385920",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "9fb2be7c8bbc0ca358ae88cef6d9e6844b81929eaffa5016a543e6f56b22cb6d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF/resolve/main/tinyllama-1.1b-chat-v1.0.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v1.0.Q8_0.gguf",
+            "size": "1170781568",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "a4c9bb1dbaa372f6381a035fa5c02ef087aaa1ff1f843a56a22328114f03fc59",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF/resolve/main/tinyllama-1.1b-chat-v1.0.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,103 @@
+{
+    "id": "robinsmits/Qwen1.5-7B-Dutch-Chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "robinsmits",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-29T20:27:46Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Qwen1.5-7B-Dutch-Chat-Q2_K.gguf",
+            "size": "3102454496",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "eefc713886ca84f2f77382b28d443431dfe44c91bffb8be31f01173716bc66b2",
+            "download": {
+                "default": "https://huggingface.co/robinsmits/Qwen1.5-7B-Dutch-Chat-GGUF/resolve/main/Qwen1.5-7B-Dutch-Chat-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-7B-Dutch-Chat-Q3_K_M.gguf",
+            "size": "3917368224",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "89148315552e40bad8cad7998c085dc6a3e37825f8e0c3d96e6c8d0b23b0b376",
+            "download": {
+                "default": "https://huggingface.co/robinsmits/Qwen1.5-7B-Dutch-Chat-GGUF/resolve/main/Qwen1.5-7B-Dutch-Chat-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-7B-Dutch-Chat-Q4_0.gguf",
+            "size": "4510258016",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "a8257697196a72e3755dc95fc5bd0795a290a6d1bb47e6cb657859fe7df40e52",
+            "download": {
+                "default": "https://huggingface.co/robinsmits/Qwen1.5-7B-Dutch-Chat-GGUF/resolve/main/Qwen1.5-7B-Dutch-Chat-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-7B-Dutch-Chat-Q4_K_M.gguf",
+            "size": "4765455200",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c94cd86a0ed8c3166d563f9090fbba0aacf238b9245cb82c0f1927417287606d",
+            "download": {
+                "default": "https://huggingface.co/robinsmits/Qwen1.5-7B-Dutch-Chat-GGUF/resolve/main/Qwen1.5-7B-Dutch-Chat-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-7B-Dutch-Chat-Q5_0.gguf",
+            "size": "5397401440",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "cf351c9753a8621ed38c278e640b4021b963e888b30f2359121e4a5470dc0811",
+            "download": {
+                "default": "https://huggingface.co/robinsmits/Qwen1.5-7B-Dutch-Chat-GGUF/resolve/main/Qwen1.5-7B-Dutch-Chat-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-7B-Dutch-Chat-Q5_K_M.gguf",
+            "size": "5528866656",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "fe5d36d817420c2c50c72ef3ab3c4fec3b283e1f9bd940564b14c85c3f2cd968",
+            "download": {
+                "default": "https://huggingface.co/robinsmits/Qwen1.5-7B-Dutch-Chat-GGUF/resolve/main/Qwen1.5-7B-Dutch-Chat-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-7B-Dutch-Chat-Q6_K.gguf",
+            "size": "6339991328",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "54d632f6389cff15491f9f833d943b8085ede7ed4da3c7bff5e200b8f2ab414c",
+            "download": {
+                "default": "https://huggingface.co/robinsmits/Qwen1.5-7B-Dutch-Chat-GGUF/resolve/main/Qwen1.5-7B-Dutch-Chat-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-7B-Dutch-Chat-Q8_0.gguf",
+            "size": "8209264544",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "5b67fc9af32151e860bad459e369ed19132565af51b6a66484a9a1387f365a63",
+            "download": {
+                "default": "https://huggingface.co/robinsmits/Qwen1.5-7B-Dutch-Chat-GGUF/resolve/main/Qwen1.5-7B-Dutch-Chat-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

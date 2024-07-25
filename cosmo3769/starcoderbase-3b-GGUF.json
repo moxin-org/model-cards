@@ -1,0 +1,43 @@
+{
+    "id": "cosmo3769/starcoderbase-3b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "cosmo3769",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-04T09:18:05Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "starcoderbase-3b.Q4_K_M.gguf",
+            "size": "2050319168",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "b3f367c9f8a977129be485991582626a53164a9d4f3154682e31e2a43d6467da",
+            "download": {
+                "default": "https://huggingface.co/cosmo3769/starcoderbase-3b-GGUF/resolve/main/starcoderbase-3b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "starcoderbase-3b.Q4_K_S.gguf",
+            "size": "1899877184",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "172b880ad62cea0e4933e52cfc7ef9aa502d0170465813a528137a827de79769",
+            "download": {
+                "default": "https://huggingface.co/cosmo3769/starcoderbase-3b-GGUF/resolve/main/starcoderbase-3b.Q4_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,43 @@
+{
+    "id": "uncensorie/chronob-1.4-lin-70b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "uncensorie",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-08T21:34:59Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "chronob-1.4-lin-70b.q4_K_S.gguf",
+            "size": "39073575872",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b0800b71b671e65ecb50be335ea89e12a245e1907f5de1346b446c1b5a823b4b",
+            "download": {
+                "default": "https://huggingface.co/uncensorie/chronob-1.4-lin-70b-GGUF/resolve/main/chronob-1.4-lin-70b.q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "chronob-1.4-lin-70b.q5_K_M.gguf",
+            "size": "48753767360",
+            "quantization": "",
+            "tags": [],
+            "sha256": "33e621a514b9db574039c8099fd77882298b14b87075c6bc24680e17530c3b74",
+            "download": {
+                "default": "https://huggingface.co/uncensorie/chronob-1.4-lin-70b-GGUF/resolve/main/chronob-1.4-lin-70b.q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

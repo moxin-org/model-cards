@@ -1,0 +1,133 @@
+{
+    "id": "Artefact2/CodeLlama-70b-Instruct-hf-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Artefact2",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-30T17:11:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "CodeLlama-70b-Instruct-hf-IQ2_XS.gguf",
+            "size": "20334297088",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "35de0c80b5323fbe60873ed53f3b42c3469154bdf97146e10565adfe474e0794",
+            "download": {
+                "default": "https://huggingface.co/Artefact2/CodeLlama-70b-Instruct-hf-GGUF/resolve/main/CodeLlama-70b-Instruct-hf-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-70b-Instruct-hf-IQ2_XXS.gguf",
+            "size": "18289573888",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "e431baebd1baeae657e7ef5d78951ce303cdc876d981762fd69eb84f1c9df238",
+            "download": {
+                "default": "https://huggingface.co/Artefact2/CodeLlama-70b-Instruct-hf-GGUF/resolve/main/CodeLlama-70b-Instruct-hf-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-70b-Instruct-hf-IQ3_XXS.gguf",
+            "size": "27028765696",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "04e6aaa83c3d9bc69aa3921a82e6900a814f33c0a3b3440cb1f7ea569d2faab9",
+            "download": {
+                "default": "https://huggingface.co/Artefact2/CodeLlama-70b-Instruct-hf-GGUF/resolve/main/CodeLlama-70b-Instruct-hf-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-70b-Instruct-hf-Q2_K_S.gguf",
+            "size": "23559422976",
+            "quantization": "Q2_K_S",
+            "tags": [],
+            "sha256": "465aefcec64b1948f3dff81fa0fd0324928e88e36a2b9598ac78c0e3df306909",
+            "download": {
+                "default": "https://huggingface.co/Artefact2/CodeLlama-70b-Instruct-hf-GGUF/resolve/main/CodeLlama-70b-Instruct-hf-Q2_K_S.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-70b-Instruct-hf-Q2_K.gguf",
+            "size": "25462588416",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "cb050d6658860d8c09582b96ae23e2704d43e19b1627c545e65bb414549a7cc4",
+            "download": {
+                "default": "https://huggingface.co/Artefact2/CodeLlama-70b-Instruct-hf-GGUF/resolve/main/CodeLlama-70b-Instruct-hf-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-70b-Instruct-hf-Q3_K_L.gguf",
+            "size": "36148000768",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "5cb04f6a401ff1629de29aa00f3b19a33cdf45981802933425050213a6303a67",
+            "download": {
+                "default": "https://huggingface.co/Artefact2/CodeLlama-70b-Instruct-hf-GGUF/resolve/main/CodeLlama-70b-Instruct-hf-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-70b-Instruct-hf-Q3_K_M.gguf",
+            "size": "33274902528",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "fed047dbc95015e8e557bc34d545004bee412288c00b98e0d5c7f49d0abc2dea",
+            "download": {
+                "default": "https://huggingface.co/Artefact2/CodeLlama-70b-Instruct-hf-GGUF/resolve/main/CodeLlama-70b-Instruct-hf-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-70b-Instruct-hf-Q4_K_M.gguf",
+            "size": "41423092736",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c10a8b3bd9f5ee37e36d1a1dda184583b8ed0b81a45597a48b6a7bcfc9cd6c21",
+            "download": {
+                "default": "https://huggingface.co/Artefact2/CodeLlama-70b-Instruct-hf-GGUF/resolve/main/CodeLlama-70b-Instruct-hf-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-70b-Instruct-hf-Q4_K_S.gguf",
+            "size": "39249918976",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "e078caae5450cff4f1805273ba3cbfd9b5b7ad8a3c84fed92e064256403615f8",
+            "download": {
+                "default": "https://huggingface.co/Artefact2/CodeLlama-70b-Instruct-hf-GGUF/resolve/main/CodeLlama-70b-Instruct-hf-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-70b-Instruct-hf-Q5_K_M.gguf",
+            "size": "48753966080",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e031462b37a59936a1a4e8c98efba42db947b66a63855ff66c8bb5158308b74f",
+            "download": {
+                "default": "https://huggingface.co/Artefact2/CodeLlama-70b-Instruct-hf-GGUF/resolve/main/CodeLlama-70b-Instruct-hf-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-70b-Instruct-hf-Q5_K_S.gguf",
+            "size": "47461596160",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "b2299db63a4af7a17398ce06f2333beb02868ca27c2727ca2816db0284c0e16a",
+            "download": {
+                "default": "https://huggingface.co/Artefact2/CodeLlama-70b-Instruct-hf-GGUF/resolve/main/CodeLlama-70b-Instruct-hf-Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

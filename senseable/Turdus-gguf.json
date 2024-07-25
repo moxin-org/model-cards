@@ -1,0 +1,43 @@
+{
+    "id": "senseable/Turdus-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "senseable",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-21T02:40:02Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Turdus-q4_k_m.gguf",
+            "size": "4369375360",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4de4c4e1b9e7804f49eafffab1be979917761641d8bd4fce0691ac4343b88db3",
+            "download": {
+                "default": "https://huggingface.co/senseable/Turdus-gguf/resolve/main/Turdus-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "Turdus-q5_k_m.gguf",
+            "size": "5132345472",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f511d8e0907c3b815275fd97f22986dbae4c33e0d40dda8f07c06891ca3e2bfb",
+            "download": {
+                "default": "https://huggingface.co/senseable/Turdus-gguf/resolve/main/Turdus-q5_k_m.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

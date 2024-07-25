@@ -1,0 +1,53 @@
+{
+    "id": "SPAHE/Meltemi-7B-Instruct-v1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "SPAHE",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-29T15:21:18Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "meltemi-7b-instruct-v1_f16.gguf",
+            "size": "14969284160",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4839e5e0b63a6c599ff8ccdadad6dd6a63e379711d95ec8e4b681be32f237c93",
+            "download": {
+                "default": "https://huggingface.co/SPAHE/Meltemi-7B-Instruct-v1-GGUF/resolve/main/meltemi-7b-instruct-v1_f16.gguf"
+            }
+        },
+        {
+            "name": "meltemi-7b-instruct-v1_f32.gguf",
+            "size": "29935871552",
+            "quantization": "",
+            "tags": [],
+            "sha256": "04589e377bfd741e3e56ed8e4c7ea0215e480f0f470861b9b1aecac85e7efc76",
+            "download": {
+                "default": "https://huggingface.co/SPAHE/Meltemi-7B-Instruct-v1-GGUF/resolve/main/meltemi-7b-instruct-v1_f32.gguf"
+            }
+        },
+        {
+            "name": "meltemi-7b-instruct-v1_q8_0.gguf",
+            "size": "7953696320",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ba04faf17ee06dcee0009b9c6b3b27ac855a40a6b5856e7b11bf944b6ffbfa09",
+            "download": {
+                "default": "https://huggingface.co/SPAHE/Meltemi-7B-Instruct-v1-GGUF/resolve/main/meltemi-7b-instruct-v1_q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

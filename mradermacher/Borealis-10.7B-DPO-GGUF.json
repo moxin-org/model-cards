@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Borealis-10.7B-DPO-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-09T12:54:51Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Borealis-10.7B-DPO.IQ3_M.gguf",
+            "size": "4999713824",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "9935c0f2e6065c31aeff598b7c3401ad89a9ce63203846609ca5adde51fcd67b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Borealis-10.7B-DPO-GGUF/resolve/main/Borealis-10.7B-DPO.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Borealis-10.7B-DPO.IQ3_S.gguf",
+            "size": "4845966368",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "2c2d40af7d1a0f370e3a4826038c630080d3374966a103623f8d6a829d1bd25c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Borealis-10.7B-DPO-GGUF/resolve/main/Borealis-10.7B-DPO.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Borealis-10.7B-DPO.IQ3_XS.gguf",
+            "size": "4573860896",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "76135dcdebc00629c68019d6ed30aa07a93f57b8bb0b47626121c25ef6c5ba12",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Borealis-10.7B-DPO-GGUF/resolve/main/Borealis-10.7B-DPO.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Borealis-10.7B-DPO.IQ4_XS.gguf",
+            "size": "5982304928",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "c0e960bc33072ea59967f3f3ef1883dca555afa4e3ba1545c637b26c1df250a1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Borealis-10.7B-DPO-GGUF/resolve/main/Borealis-10.7B-DPO.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Borealis-10.7B-DPO.Q2_K.gguf",
+            "size": "4157894048",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "764c996b0a647bcf618b6a39cdcb2106fa7b842a80ec22fe019aaa7c00d42c23",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Borealis-10.7B-DPO-GGUF/resolve/main/Borealis-10.7B-DPO.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Borealis-10.7B-DPO.Q3_K_L.gguf",
+            "size": "5805413408",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "36343b6f9ae547fe2f2e5f883a75787cdb78fcef2c5fc6c8a0a1acbabc200744",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Borealis-10.7B-DPO-GGUF/resolve/main/Borealis-10.7B-DPO.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Borealis-10.7B-DPO.Q3_K_M.gguf",
+            "size": "5350331424",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "5ca84412c62b579299a664124d2d3f91743ad273a603cad915b9ca2482087e26",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Borealis-10.7B-DPO-GGUF/resolve/main/Borealis-10.7B-DPO.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Borealis-10.7B-DPO.Q3_K_S.gguf",
+            "size": "4819227680",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "c015b409b89394b9ea3fe75cecfe0c61b8fb24b1d532157dde69b116c556782d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Borealis-10.7B-DPO-GGUF/resolve/main/Borealis-10.7B-DPO.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Borealis-10.7B-DPO.Q4_K_M.gguf",
+            "size": "6616333472",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c1e7bc17a777f92884aff5f9f7614ed28c05f17b0631e0ce0d86a9e0a1f98ace",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Borealis-10.7B-DPO-GGUF/resolve/main/Borealis-10.7B-DPO.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Borealis-10.7B-DPO.Q4_K_S.gguf",
+            "size": "6273186976",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "f60c226f9e305cffe36bf49ad141b40b80c36eba1666ec795c8b92e514eb53a8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Borealis-10.7B-DPO-GGUF/resolve/main/Borealis-10.7B-DPO.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Borealis-10.7B-DPO.Q5_K_M.gguf",
+            "size": "7752598688",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "367ad8267e5a759b06cb355cf45eeaa6d48d1e1018cedf445f8bcaa9a1106012",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Borealis-10.7B-DPO-GGUF/resolve/main/Borealis-10.7B-DPO.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Borealis-10.7B-DPO.Q5_K_S.gguf",
+            "size": "7552058528",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "dbee8a15d8cd12796cc038e42325a2ee0fdb974316d60f77a2b08144b8d3079c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Borealis-10.7B-DPO-GGUF/resolve/main/Borealis-10.7B-DPO.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Borealis-10.7B-DPO.Q6_K.gguf",
+            "size": "8959880480",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b53ee4a12e77f62ef0c1f2c43d8baa8392c5677d1a9b4ac86dd0b60c2cc3f60a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Borealis-10.7B-DPO-GGUF/resolve/main/Borealis-10.7B-DPO.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Borealis-10.7B-DPO.Q8_0.gguf",
+            "size": "11527085216",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "64e868ece3b51fb6ba3d7784d14de62470bd7f930e11e6a71eeb3c3f868277c0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Borealis-10.7B-DPO-GGUF/resolve/main/Borealis-10.7B-DPO.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

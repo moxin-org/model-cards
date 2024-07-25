@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/RedDevil-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-01T07:42:40Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "RedDevil-7B.IQ3_M.gguf",
+            "size": "3439515328",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "8998639e34ba6b36853b89f560ee61215f94455d6a5d634d0d3c22b431938a0a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/RedDevil-7B-GGUF/resolve/main/RedDevil-7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "RedDevil-7B.IQ3_S.gguf",
+            "size": "3337017024",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "30db976995e7e36a36dcf81af6c5b31f1cd54628af24b3c8c3448bca1557066c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/RedDevil-7B-GGUF/resolve/main/RedDevil-7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "RedDevil-7B.IQ3_XS.gguf",
+            "size": "3173439168",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "af1212500a823509b8364c496e5ae21a5b872b323236238fec75506a408a9f35",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/RedDevil-7B-GGUF/resolve/main/RedDevil-7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "RedDevil-7B.IQ4_XS.gguf",
+            "size": "4099012288",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "ee916ba5e3a9e1cb405646a8aa79bc1e26e3c26c984f313a0bf4f028b9e5b63b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/RedDevil-7B-GGUF/resolve/main/RedDevil-7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "RedDevil-7B.Q2_K.gguf",
+            "size": "2873865920",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "cc9aa24153040d2286c9dae573e450b4e7b55d0956bd843238407689528ba99f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/RedDevil-7B-GGUF/resolve/main/RedDevil-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "RedDevil-7B.Q3_K_L.gguf",
+            "size": "3976648384",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "1269bf8672fb46eccbaaafe9078d4afd4ecf5c8233406a28311f926db637715e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/RedDevil-7B-GGUF/resolve/main/RedDevil-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "RedDevil-7B.Q3_K_M.gguf",
+            "size": "3673609920",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "c82f0ce4deb740376fa48599175c2219af9216d2ce6533f94a95ef6ed667140b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/RedDevil-7B-GGUF/resolve/main/RedDevil-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "RedDevil-7B.Q3_K_S.gguf",
+            "size": "3319191232",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "044d80e442c2ad144b6875876d0d7fd6157ed90945aed16b8ccf290b6b0f7904",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/RedDevil-7B-GGUF/resolve/main/RedDevil-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "RedDevil-7B.Q4_K_M.gguf",
+            "size": "4523062976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "cc54e961e86abad39479c85418b5a192bba84a0ddc29c55a5f88702daebfc2f0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/RedDevil-7B-GGUF/resolve/main/RedDevil-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "RedDevil-7B.Q4_K_S.gguf",
+            "size": "4294997696",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "cc4a319d2138c12076f4577a4f2caf0ca28ea6a8fbf1969508af61375cbb94bb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/RedDevil-7B-GGUF/resolve/main/RedDevil-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "RedDevil-7B.Q5_K_M.gguf",
+            "size": "5286033088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ef26a9a9fd2262ebad26f9e47724de9333869339ba8ad862de60b533923b1f33",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/RedDevil-7B-GGUF/resolve/main/RedDevil-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "RedDevil-7B.Q5_K_S.gguf",
+            "size": "5152339648",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "a1dd342dc5c27d9869700898613b53a9a9c2faa6267636c73da922545322e802",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/RedDevil-7B-GGUF/resolve/main/RedDevil-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "RedDevil-7B.Q6_K.gguf",
+            "size": "6096688832",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "edddb735331b517be5f23ca40b73c9d0b824c2e5c09119949331d36bb873b056",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/RedDevil-7B-GGUF/resolve/main/RedDevil-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "RedDevil-7B.Q8_0.gguf",
+            "size": "7818737344",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "c89de75ab5ac64106f45b327ac53149a36c47e2681380ca722b1627b5cadbcfe",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/RedDevil-7B-GGUF/resolve/main/RedDevil-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

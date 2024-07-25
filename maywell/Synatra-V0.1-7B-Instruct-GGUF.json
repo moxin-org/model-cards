@@ -1,0 +1,43 @@
+{
+    "id": "maywell/Synatra-V0.1-7B-Instruct-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "maywell",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-09T10:55:06Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "synatra-v0.1-7b.Q4_K_M.gguf",
+            "size": "4368438848",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "66a9102e1e22ff768818b572585d5c881b7c8d500fdaddd1481bc91cb76c8512",
+            "download": {
+                "default": "https://huggingface.co/maywell/Synatra-V0.1-7B-Instruct-GGUF/resolve/main/synatra-v0.1-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "synatra-v0.1-7b.Q5_K_M.gguf",
+            "size": "5131408960",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "68025d6b7ce2fa92be09b24a55f481a308c9cc46eb840602771af85f7bf2a6f6",
+            "download": {
+                "default": "https://huggingface.co/maywell/Synatra-V0.1-7B-Instruct-GGUF/resolve/main/synatra-v0.1-7b.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

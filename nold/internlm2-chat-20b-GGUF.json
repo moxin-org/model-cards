@@ -1,0 +1,73 @@
+{
+    "id": "nold/internlm2-chat-20b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "nold",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-29T09:36:04Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "internlm2-chat-20b_Q3_K_M.gguf",
+            "size": "9722279040",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e9c9d94a99faf92b432fbda98d89c3e5fef74baece2b8cc667b1235f1c40c920",
+            "download": {
+                "default": "https://huggingface.co/nold/internlm2-chat-20b-GGUF/resolve/main/internlm2-chat-20b_Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "internlm2-chat-20b_Q4_K_M.gguf",
+            "size": "11984469120",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "020beb20618747aacdbab4362f4b5d8f91158ddbe448d82ef10a5091e89f401b",
+            "download": {
+                "default": "https://huggingface.co/nold/internlm2-chat-20b-GGUF/resolve/main/internlm2-chat-20b_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "internlm2-chat-20b_Q5_K_M.gguf",
+            "size": "14075100288",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "8ede0b67564b6357b24e2cce478d277df3235fb8ceed660dc7f11f10ae5da0ca",
+            "download": {
+                "default": "https://huggingface.co/nold/internlm2-chat-20b-GGUF/resolve/main/internlm2-chat-20b_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "internlm2-chat-20b_Q6_K.gguf",
+            "size": "16296395904",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "901631de2f41bebdb6fabdd1fb3d9d7904278c215223e0d476f0a3b98d8657bd",
+            "download": {
+                "default": "https://huggingface.co/nold/internlm2-chat-20b-GGUF/resolve/main/internlm2-chat-20b_Q6_K.gguf"
+            }
+        },
+        {
+            "name": "internlm2-chat-20b_Q8_0.gguf",
+            "size": "21106373760",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "0f86d539c24b9645d7cc56995a7d072a081bd2fda9182d2330887abd51adaa17",
+            "download": {
+                "default": "https://huggingface.co/nold/internlm2-chat-20b-GGUF/resolve/main/internlm2-chat-20b_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

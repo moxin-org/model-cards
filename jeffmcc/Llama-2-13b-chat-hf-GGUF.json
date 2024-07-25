@@ -1,0 +1,63 @@
+{
+    "id": "jeffmcc/Llama-2-13b-chat-hf-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "jeffmcc",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-08T21:33:50Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Llama-2-13b-chat-hf.q4_k_m.gguf",
+            "size": "7865957184",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0e59bce466b8183ee98f89120f05a3b6efd734d3eb5d21dd5ec6264a307b8814",
+            "download": {
+                "default": "https://huggingface.co/jeffmcc/Llama-2-13b-chat-hf-GGUF/resolve/main/Llama-2-13b-chat-hf.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-13b-chat-hf.q5_k_m.gguf",
+            "size": "9229925184",
+            "quantization": "",
+            "tags": [],
+            "sha256": "abf6f27f13971fdca9757f5ba9514ee97c2b63aa25f7388ce8e975fbb2b71995",
+            "download": {
+                "default": "https://huggingface.co/jeffmcc/Llama-2-13b-chat-hf-GGUF/resolve/main/Llama-2-13b-chat-hf.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-13b-chat-hf.q6_k.gguf",
+            "size": "10679141184",
+            "quantization": "",
+            "tags": [],
+            "sha256": "627ccb3336b57e753e056640f66a1ffe7c7ad6dfaa69e16074af0dff582f67fe",
+            "download": {
+                "default": "https://huggingface.co/jeffmcc/Llama-2-13b-chat-hf-GGUF/resolve/main/Llama-2-13b-chat-hf.q6_k.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-13b-chat-hf.q8_0.gguf",
+            "size": "13831320384",
+            "quantization": "",
+            "tags": [],
+            "sha256": "68adfad7667e333ef169e43f6be11197120a4e773dc456a6fca183defcf5c0b3",
+            "download": {
+                "default": "https://huggingface.co/jeffmcc/Llama-2-13b-chat-hf-GGUF/resolve/main/Llama-2-13b-chat-hf.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,93 @@
+{
+    "id": "bartowski/bigstral-12b-32k-8xMoE-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bartowski",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-08T00:45:12Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "bigstral-12b-32k-8xMoE-Q2_K.gguf",
+            "size": "30177607008",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "e252fc34fd5d88aeb6441fbfaebaf5220103263afa7b35c69a7ddf99b98c29bc",
+            "download": {
+                "default": "https://huggingface.co/bartowski/bigstral-12b-32k-8xMoE-GGUF/resolve/main/bigstral-12b-32k-8xMoE-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "bigstral-12b-32k-8xMoE-Q3_K_L.gguf",
+            "size": "42169851232",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "24531c929491ee0c5fc336f5fa6b02babcb1bef38a3ccb027d694266b8650007",
+            "download": {
+                "default": "https://huggingface.co/bartowski/bigstral-12b-32k-8xMoE-GGUF/resolve/main/bigstral-12b-32k-8xMoE-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "bigstral-12b-32k-8xMoE-Q3_K_M.gguf",
+            "size": "39299898720",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "8e8d88df430dfa5380e460da08b0c1fcdd9a70505b13fc3266e8b1109bd9a906",
+            "download": {
+                "default": "https://huggingface.co/bartowski/bigstral-12b-32k-8xMoE-GGUF/resolve/main/bigstral-12b-32k-8xMoE-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "bigstral-12b-32k-8xMoE-Q3_K_S.gguf",
+            "size": "35629882720",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "244d763db6ffb0c1b7f6ea992de64c872dc8ea572feeb6cd91e6ccae0537fe91",
+            "download": {
+                "default": "https://huggingface.co/bartowski/bigstral-12b-32k-8xMoE-GGUF/resolve/main/bigstral-12b-32k-8xMoE-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "bigstral-12b-32k-8xMoE-Q4_0.gguf",
+            "size": "46136196448",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "6be986a45be187b34ada119715ccf683e0f0dbb6476664cd66845f96403fcd8f",
+            "download": {
+                "default": "https://huggingface.co/bartowski/bigstral-12b-32k-8xMoE-GGUF/resolve/main/bigstral-12b-32k-8xMoE-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "bigstral-12b-32k-8xMoE-Q4_K_M.gguf",
+            "size": "49644731744",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "14568b80e83307620a9eedbb2203e218a328d79378ccedd2a80d9148088ccd6a",
+            "download": {
+                "default": "https://huggingface.co/bartowski/bigstral-12b-32k-8xMoE-GGUF/resolve/main/bigstral-12b-32k-8xMoE-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "bigstral-12b-32k-8xMoE-Q4_K_S.gguf",
+            "size": "46664678752",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "5a22f7ef7ee62ceceb93a4871d986c89213826bbba52d94224e780a03332eba0",
+            "download": {
+                "default": "https://huggingface.co/bartowski/bigstral-12b-32k-8xMoE-GGUF/resolve/main/bigstral-12b-32k-8xMoE-Q4_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/Swallow-13B-Instruct-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-19T22:17:43Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "swallow-13b-instruct.Q2_K.gguf",
+            "size": "5495318176",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "2f1f2762064dd352ccd15f5396a6d95380f46b76a1d12039ef6211d345722d6c",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Swallow-13B-Instruct-GGUF/resolve/main/swallow-13b-instruct.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "swallow-13b-instruct.Q3_K_L.gguf",
+            "size": "7001340896",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "c6d3c68bb197a3c4c0344b505ec692320d859a12812d797298596e6efd5af127",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Swallow-13B-Instruct-GGUF/resolve/main/swallow-13b-instruct.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "swallow-13b-instruct.Q3_K_M.gguf",
+            "size": "6409550816",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "1a09df223319c7332a4d3e7f4e8b39e8495a72302c6c5cb94d66d813a28b62d5",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Swallow-13B-Instruct-GGUF/resolve/main/swallow-13b-instruct.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "swallow-13b-instruct.Q3_K_S.gguf",
+            "size": "5730761696",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "e6a08db68d7bf9989783b34192d29de32f4e2b2f7af5c304b20e67f11b7e5894",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Swallow-13B-Instruct-GGUF/resolve/main/swallow-13b-instruct.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "swallow-13b-instruct.Q4_0.gguf",
+            "size": "7445215776",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "d7c2faff33a01633684f977bc89cb8161b09d8c22ea8d771306daa89d56ac57d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Swallow-13B-Instruct-GGUF/resolve/main/swallow-13b-instruct.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "swallow-13b-instruct.Q4_K_M.gguf",
+            "size": "7945337376",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "1356ceea485beabc07223cd0e2812bb816586b33bd73cf5b56be3ea46f703045",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Swallow-13B-Instruct-GGUF/resolve/main/swallow-13b-instruct.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "swallow-13b-instruct.Q4_K_S.gguf",
+            "size": "7493712416",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "c0dc1fc1068fbfc0a6c5a19db4c5e415fe6fad09e70757987bd09b2fb0e86afc",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Swallow-13B-Instruct-GGUF/resolve/main/swallow-13b-instruct.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "swallow-13b-instruct.Q5_0.gguf",
+            "size": "9058819616",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "fc8b89201a483a5d2eef3376bd2e7946c2ccc3493fc1e7c74ef5f8d231fe65a2",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Swallow-13B-Instruct-GGUF/resolve/main/swallow-13b-instruct.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "swallow-13b-instruct.Q5_K_M.gguf",
+            "size": "9316458016",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "63df82fb49359c0b6cb5439587739136428cbb7ffc40faf8fed41317a1bf4fef",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Swallow-13B-Instruct-GGUF/resolve/main/swallow-13b-instruct.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "swallow-13b-instruct.Q5_K_S.gguf",
+            "size": "9058819616",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "d11e48ad6493a77048c56d2f5a77ac15d6dbec40192090b90509fff36f09e8da",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Swallow-13B-Instruct-GGUF/resolve/main/swallow-13b-instruct.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "swallow-13b-instruct.Q6_K.gguf",
+            "size": "10773273696",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "d756cf935f79a7e260f3f94b7e080bbe6d78dd9c263a49bfae1da4bb3962b6c9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Swallow-13B-Instruct-GGUF/resolve/main/swallow-13b-instruct.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "swallow-13b-instruct.Q8_0.gguf",
+            "size": "13953169376",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "d7c48f1742df9357f18023131740bf022b7683227e357b3702319d2f16fe4776",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Swallow-13B-Instruct-GGUF/resolve/main/swallow-13b-instruct.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

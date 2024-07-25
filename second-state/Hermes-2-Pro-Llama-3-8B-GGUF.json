@@ -1,0 +1,153 @@
+{
+    "id": "second-state/Hermes-2-Pro-Llama-3-8B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-05-06T12:26:04Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Hermes-2-Pro-Llama-3-8B-f16.gguf",
+            "size": "16069416160",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ce59468be9c502b9eb64934d2a046ce54ca4a20921548d3c66930acbd1fb04b1",
+            "download": {
+                "default": "https://huggingface.co/second-state/Hermes-2-Pro-Llama-3-8B-GGUF/resolve/main/Hermes-2-Pro-Llama-3-8B-f16.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Llama-3-8B-Q2_K.gguf",
+            "size": "3179282688",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "2fe3a7aa8342e147fd2f6f78cf86a10ecbe972ec7d60b6ddcf63c4d96c2692df",
+            "download": {
+                "default": "https://huggingface.co/second-state/Hermes-2-Pro-Llama-3-8B-GGUF/resolve/main/Hermes-2-Pro-Llama-3-8B-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Llama-3-8B-Q3_K_L.gguf",
+            "size": "4322120960",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "7b2f09c67cdd509bf79b1f34de32909a63be737431f41a5b390e72917c2ea0e9",
+            "download": {
+                "default": "https://huggingface.co/second-state/Hermes-2-Pro-Llama-3-8B-GGUF/resolve/main/Hermes-2-Pro-Llama-3-8B-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Llama-3-8B-Q3_K_M.gguf",
+            "size": "4019082496",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "a53221e6cb27c6f31c8e23a9f273c9d686c29e91d94c5b14f634e829dcc66d11",
+            "download": {
+                "default": "https://huggingface.co/second-state/Hermes-2-Pro-Llama-3-8B-GGUF/resolve/main/Hermes-2-Pro-Llama-3-8B-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Llama-3-8B-Q3_K_S.gguf",
+            "size": "3664663808",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "809cc2a44b2e0965fdad8d9bce418f6cdc4899c7cfa657830ca18584ca271862",
+            "download": {
+                "default": "https://huggingface.co/second-state/Hermes-2-Pro-Llama-3-8B-GGUF/resolve/main/Hermes-2-Pro-Llama-3-8B-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Llama-3-8B-Q4_0.gguf",
+            "size": "4661393664",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "abd57a22925c281c63d8e05e8a88980db00e89f67ba0cbc811f8918cecb3cfb9",
+            "download": {
+                "default": "https://huggingface.co/second-state/Hermes-2-Pro-Llama-3-8B-GGUF/resolve/main/Hermes-2-Pro-Llama-3-8B-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Llama-3-8B-Q4_K_M.gguf",
+            "size": "4920916224",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "40b138bce2886a468d53f4687ad560ed34ca8f7f8627d1c6cdd9d1e5089383a0",
+            "download": {
+                "default": "https://huggingface.co/second-state/Hermes-2-Pro-Llama-3-8B-GGUF/resolve/main/Hermes-2-Pro-Llama-3-8B-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Llama-3-8B-Q4_K_S.gguf",
+            "size": "4692850944",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "a4a1bfb93084c40ccd15bbe8779a3da903fc1a5aa62ba82537f9c1c4ecb427fb",
+            "download": {
+                "default": "https://huggingface.co/second-state/Hermes-2-Pro-Llama-3-8B-GGUF/resolve/main/Hermes-2-Pro-Llama-3-8B-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Llama-3-8B-Q5_0.gguf",
+            "size": "5599492352",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "33feb8bae874f5e2712bdfc1ebca02a1089f51ad775fec4a9c8cc79898bc8e1c",
+            "download": {
+                "default": "https://huggingface.co/second-state/Hermes-2-Pro-Llama-3-8B-GGUF/resolve/main/Hermes-2-Pro-Llama-3-8B-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Llama-3-8B-Q5_K_M.gguf",
+            "size": "5733185792",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "59324cc86c6b7c07dd3902ee98315964bf45113e60f2544c4a978b872104737a",
+            "download": {
+                "default": "https://huggingface.co/second-state/Hermes-2-Pro-Llama-3-8B-GGUF/resolve/main/Hermes-2-Pro-Llama-3-8B-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Llama-3-8B-Q5_K_S.gguf",
+            "size": "5599492352",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "642d9f80554fe37dfa025655c7be022a6021a27577342df8b74dd3bea079d305",
+            "download": {
+                "default": "https://huggingface.co/second-state/Hermes-2-Pro-Llama-3-8B-GGUF/resolve/main/Hermes-2-Pro-Llama-3-8B-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Llama-3-8B-Q6_K.gguf",
+            "size": "6596222208",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "1c912b05226498946c6def8dacea697b99918727c8bda88ab6f3c92b4e3b493b",
+            "download": {
+                "default": "https://huggingface.co/second-state/Hermes-2-Pro-Llama-3-8B-GGUF/resolve/main/Hermes-2-Pro-Llama-3-8B-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Hermes-2-Pro-Llama-3-8B-Q8_0.gguf",
+            "size": "8541050112",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "d18a076279928b7752ed85b2610687e5d91dd315c7f81fc56890a4912190240a",
+            "download": {
+                "default": "https://huggingface.co/second-state/Hermes-2-Pro-Llama-3-8B-GGUF/resolve/main/Hermes-2-Pro-Llama-3-8B-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 4096,
+    "vector_size": 0,
+    "metrics": null
+}

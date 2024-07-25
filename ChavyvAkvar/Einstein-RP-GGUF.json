@@ -1,0 +1,43 @@
+{
+    "id": "ChavyvAkvar/Einstein-RP-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "ChavyvAkvar",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-16T12:01:30Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Einstein-RP-GGUF-unsloth.Q4_K_M.gguf",
+            "size": "4368451136",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "df82a35181ceef7a17bd68fc55a8da329019fed6038935d3674caef32f9380f6",
+            "download": {
+                "default": "https://huggingface.co/ChavyvAkvar/Einstein-RP-GGUF/resolve/main/Einstein-RP-GGUF-unsloth.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Einstein-RP-GGUF-unsloth.Q8_0.gguf",
+            "size": "7695875520",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "28562259889179428d9ac85f12daf3873389e02f9409a692395b5c64b2652fe5",
+            "download": {
+                "default": "https://huggingface.co/ChavyvAkvar/Einstein-RP-GGUF/resolve/main/Einstein-RP-GGUF-unsloth.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

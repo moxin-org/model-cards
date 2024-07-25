@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/DaringLotus-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-16T10:14:02Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "daringlotus.Q3_K_S.gguf",
+            "size": "3388759392",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "2b531e94b5cf35edba482ee09718973e7cc1b068fc6c640ea048532bc5623474",
+            "download": {
+                "default": "https://huggingface.co/s3nh/DaringLotus-GGUF/resolve/main/daringlotus.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "daringlotus.Q4_K_M.gguf",
+            "size": "4726488416",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "087376337a1042ca82fdefbb4f86f167ec4bd59ad844378179e60e84a59cb5eb",
+            "download": {
+                "default": "https://huggingface.co/s3nh/DaringLotus-GGUF/resolve/main/daringlotus.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "daringlotus.Q5_K_M.gguf",
+            "size": "5570723168",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "2b66e922a75ec6c46c4de79da8d2aec3c5140fb790737f62e59428ab94e190a1",
+            "download": {
+                "default": "https://huggingface.co/s3nh/DaringLotus-GGUF/resolve/main/daringlotus.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "daringlotus.Q6_K.gguf",
+            "size": "6467722592",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "e692a965ca7d54438b848d188b1475a3f12205387c405792da001dd3f6fe663f",
+            "download": {
+                "default": "https://huggingface.co/s3nh/DaringLotus-GGUF/resolve/main/daringlotus.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "daringlotus.Q8_0.gguf",
+            "size": "8376679776",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "6bf8bdc8c907c42c5318f15815ebcf04c0ab801ab892d123046d23f24bc1202d",
+            "download": {
+                "default": "https://huggingface.co/s3nh/DaringLotus-GGUF/resolve/main/daringlotus.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

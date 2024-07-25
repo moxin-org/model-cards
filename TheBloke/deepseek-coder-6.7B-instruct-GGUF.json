@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/deepseek-coder-6.7B-instruct-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-05T13:36:03Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "deepseek-coder-6.7b-instruct.Q2_K.gguf",
+            "size": "2827706592",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "56447b37bd7c606c081d9b216b69c6cd77db6b473721b709a7b21ed4606e4960",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/deepseek-coder-6.7B-instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-6.7b-instruct.Q3_K_L.gguf",
+            "size": "3598983392",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "9e3f820f623d5177ae4b7334cb6a8bfe8c562d7a088722dbd5a1f889845f462e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/deepseek-coder-6.7B-instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-6.7b-instruct.Q3_K_M.gguf",
+            "size": "3299877088",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "6c841fde94b9103c92e875c9ab0ebeeb624b0709b2410c3bd942c80cd635117f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/deepseek-coder-6.7B-instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-6.7b-instruct.Q3_K_S.gguf",
+            "size": "2950176992",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "176ed1c984911dfb1707e85e4f56b8ab6986f21eec9fc7d6a31d5e3cce141e52",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/deepseek-coder-6.7B-instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-6.7b-instruct.Q4_0.gguf",
+            "size": "3827818720",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "0c7cf89d9b2dc8671bfade603181aaa18b3dfd93e1b6a2c569a9807c65d4d438",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/deepseek-coder-6.7B-instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-6.7b-instruct.Q4_K_M.gguf",
+            "size": "4083015904",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "92da6238854f2fa902d8b2ad79d548536af1d3ab06821f323bd5bbcea2013276",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/deepseek-coder-6.7B-instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-6.7b-instruct.Q4_K_S.gguf",
+            "size": "3858751712",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "d5d4b757645ce359a52d25584d29f1ff0d89580075edc35d87a20b89e65a5313",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/deepseek-coder-6.7B-instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-6.7b-instruct.Q5_0.gguf",
+            "size": "4653834464",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "1973cf0d90a90b26d2dff10d978744c038028ccb9d93a32ed415cf96416d50fd",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/deepseek-coder-6.7B-instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-6.7b-instruct.Q5_K_M.gguf",
+            "size": "4785299680",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "0976ee1707fc97b142d7266a9a501893ea6f320e8a8227aa1f04bcab74a5f556",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/deepseek-coder-6.7B-instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-6.7b-instruct.Q5_K_S.gguf",
+            "size": "4653834464",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "1362c06f3036b4c4994bd8497ecbc0b487acb67e568b4addb4b17fc1e863f688",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/deepseek-coder-6.7B-instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-6.7b-instruct.Q6_K.gguf",
+            "size": "5531476192",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "113fba500e4feb1313ce80d72cf381330b51460d265a7719bba626d6a461f9eb",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/deepseek-coder-6.7B-instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-6.7b-instruct.Q8_0.gguf",
+            "size": "7163879648",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "02cd6ce7ccec670cf6d3dd147932f13e584f9e964d5a3297a74b401b658471ae",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/deepseek-coder-6.7B-instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

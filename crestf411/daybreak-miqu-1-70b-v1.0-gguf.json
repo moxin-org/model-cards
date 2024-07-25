@@ -1,0 +1,43 @@
+{
+    "id": "crestf411/daybreak-miqu-1-70b-v1.0-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "crestf411",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-01T15:30:26Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "daybreak-miqu-1-70b-v1.0-q4_k_m.gguf",
+            "size": "41422911168",
+            "quantization": "",
+            "tags": [],
+            "sha256": "905c68191d48b4e142c4dbc755e663380ccc954611f50344fa286ba8b475c2a2",
+            "download": {
+                "default": "https://huggingface.co/crestf411/daybreak-miqu-1-70b-v1.0-gguf/resolve/main/daybreak-miqu-1-70b-v1.0-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "daybreak-miqu-1-70b-v1.0-q5_k_m.gguf",
+            "size": "48753768128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "60e2c662e2afebe00aee7a86575e3baef343f61430a6edd0596df1c75156e316",
+            "download": {
+                "default": "https://huggingface.co/crestf411/daybreak-miqu-1-70b-v1.0-gguf/resolve/main/daybreak-miqu-1-70b-v1.0-q5_k_m.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

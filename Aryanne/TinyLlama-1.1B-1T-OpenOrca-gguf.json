@@ -1,0 +1,73 @@
+{
+    "id": "Aryanne/TinyLlama-1.1B-1T-OpenOrca-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Aryanne",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-09T23:27:31Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "f16-tinyllama-1.1b-1t-openorca.gguf",
+            "size": "2201016704",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5113357b0bef66d91eb198d069953f5791a8305115bcdaaba4afbcf8d30546e0",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/TinyLlama-1.1B-1T-OpenOrca-gguf/resolve/main/f16-tinyllama-1.1b-1t-openorca.gguf"
+            }
+        },
+        {
+            "name": "q2_k-tinyllama-1.1b-1t-openorca.gguf",
+            "size": "482142656",
+            "quantization": "",
+            "tags": [],
+            "sha256": "291d5bfb41f32f41f5cbe79cfcc89db8184c4a0527ebfc7e7c7f6c361b29ab21",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/TinyLlama-1.1B-1T-OpenOrca-gguf/resolve/main/q2_k-tinyllama-1.1b-1t-openorca.gguf"
+            }
+        },
+        {
+            "name": "q4_0-tinyllama-1.1b-1t-openorca.gguf",
+            "size": "636725696",
+            "quantization": "",
+            "tags": [],
+            "sha256": "21b1efc33539f8861f28e6106029e619b61a15b4aeaf2add4906fbf97094792c",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/TinyLlama-1.1B-1T-OpenOrca-gguf/resolve/main/q4_0-tinyllama-1.1b-1t-openorca.gguf"
+            }
+        },
+        {
+            "name": "q6_k-tinyllama-1.1b-1t-openorca.gguf",
+            "size": "903412160",
+            "quantization": "",
+            "tags": [],
+            "sha256": "404c4437186cd32fb3ca26473f4753d413ee6b002e01cd22352332bd34a6277b",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/TinyLlama-1.1B-1T-OpenOrca-gguf/resolve/main/q6_k-tinyllama-1.1b-1t-openorca.gguf"
+            }
+        },
+        {
+            "name": "q8_0-tinyllama-1.1b-1t-openorca.gguf",
+            "size": "1169807808",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1db8145863c40ae9ad3a0b55ecf8bb11971f939ffc513ea56ea61b1e088ac363",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/TinyLlama-1.1B-1T-OpenOrca-gguf/resolve/main/q8_0-tinyllama-1.1b-1t-openorca.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

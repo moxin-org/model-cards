@@ -1,0 +1,53 @@
+{
+    "id": "matthoffner/Magicoder-S-DS-6.7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "matthoffner",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-03T03:38:21Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Magicoder-S-DS-6.7B_Q3_K_M.gguf",
+            "size": "3299877888",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "95185bb4094948ca90af669ca182ec3f55a83b24d4415774484e7d0cff2c1a7f",
+            "download": {
+                "default": "https://huggingface.co/matthoffner/Magicoder-S-DS-6.7B-GGUF/resolve/main/Magicoder-S-DS-6.7B_Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Magicoder-S-DS-6.7B_Q4_K_M.gguf",
+            "size": "4083016704",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "fac09ae0ce85da5c3767ddb44b32142d3d5acc7196332269e7cd62f9ebe078cb",
+            "download": {
+                "default": "https://huggingface.co/matthoffner/Magicoder-S-DS-6.7B-GGUF/resolve/main/Magicoder-S-DS-6.7B_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Magicoder-S-DS-6.7B_Q5_K_M.gguf",
+            "size": "4785300480",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "9fda7911f8e742eecfd82c78edc3878e0582680b0728751fa16c5ca500ce4db8",
+            "download": {
+                "default": "https://huggingface.co/matthoffner/Magicoder-S-DS-6.7B-GGUF/resolve/main/Magicoder-S-DS-6.7B_Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

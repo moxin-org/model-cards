@@ -1,0 +1,153 @@
+{
+    "id": "sayhan/gemma-7b-GGUF-quantized",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "sayhan",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-21T15:34:23Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "gemma-7b-fp16.gguf",
+            "size": "17081755936",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4df20ea2eb82cba9e4106ac6ee87629776cd60a07a02e0d04a7d0666c4ed0248",
+            "download": {
+                "default": "https://huggingface.co/sayhan/gemma-7b-GGUF-quantized/resolve/main/gemma-7b-fp16.gguf"
+            }
+        },
+        {
+            "name": "gemma-7b.Q2_K-v2.gguf",
+            "size": "3094374752",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fad369df9cc5ac513b260d091bcbc43c004e7ba84a2c5c15604e5fbb7036c95e",
+            "download": {
+                "default": "https://huggingface.co/sayhan/gemma-7b-GGUF-quantized/resolve/main/gemma-7b.Q2_K-v2.gguf"
+            }
+        },
+        {
+            "name": "gemma-7b.Q3_K_L-v2.gguf",
+            "size": "4401867104",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dc341b435a127925a251cdd9c0f3f2f6d9ee2c3f35aa62dfe63b2121bd1e13ba",
+            "download": {
+                "default": "https://huggingface.co/sayhan/gemma-7b-GGUF-quantized/resolve/main/gemma-7b.Q3_K_L-v2.gguf"
+            }
+        },
+        {
+            "name": "gemma-7b.Q3_K_M-v2.gguf",
+            "size": "4062128480",
+            "quantization": "",
+            "tags": [],
+            "sha256": "669e9d0c9bfd41417516a52dc684cec301891a6da2a1486b2e8eb6a96c134e09",
+            "download": {
+                "default": "https://huggingface.co/sayhan/gemma-7b-GGUF-quantized/resolve/main/gemma-7b.Q3_K_M-v2.gguf"
+            }
+        },
+        {
+            "name": "gemma-7b.Q3_K_S-v2.gguf",
+            "size": "3675203936",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a035d19a7f6cc1e0a6a05095761e467fd1c445afdf80cb039c05628b8c7f917a",
+            "download": {
+                "default": "https://huggingface.co/sayhan/gemma-7b-GGUF-quantized/resolve/main/gemma-7b.Q3_K_S-v2.gguf"
+            }
+        },
+        {
+            "name": "gemma-7b.Q4_0-v2.gguf",
+            "size": "4809091424",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e58bbbe5a407f7cac3044e1c3a209e8ee4eb8e920d253bc47dc6853f4563a1a8",
+            "download": {
+                "default": "https://huggingface.co/sayhan/gemma-7b-GGUF-quantized/resolve/main/gemma-7b.Q4_0-v2.gguf"
+            }
+        },
+        {
+            "name": "gemma-7b.Q4_K_M-v2.gguf",
+            "size": "5127006560",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5d523fc678f0a8640cb306ca6d706ce7b58e1e331d6a9295e9e3577546df656f",
+            "download": {
+                "default": "https://huggingface.co/sayhan/gemma-7b-GGUF-quantized/resolve/main/gemma-7b.Q4_K_M-v2.gguf"
+            }
+        },
+        {
+            "name": "gemma-7b.Q4_K_S-v2.gguf",
+            "size": "4843694432",
+            "quantization": "",
+            "tags": [],
+            "sha256": "de353d1e4945395f0465b95c28c3acf34e09d4cf6fdcd95ffe4b4b88cc373dd8",
+            "download": {
+                "default": "https://huggingface.co/sayhan/gemma-7b-GGUF-quantized/resolve/main/gemma-7b.Q4_K_S-v2.gguf"
+            }
+        },
+        {
+            "name": "gemma-7b.Q5_0-v2.gguf",
+            "size": "5876279648",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1509b000053b4fe017a9d722bec891fb1c1ff4ec1031d87357181c298e5700e0",
+            "download": {
+                "default": "https://huggingface.co/sayhan/gemma-7b-GGUF-quantized/resolve/main/gemma-7b.Q5_0-v2.gguf"
+            }
+        },
+        {
+            "name": "gemma-7b.Q5_K_M-v2.gguf",
+            "size": "6040054112",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4454d137becf10728b6e94c5da5a43b2b4d7e49d01c9343d1de26e179eab6d16",
+            "download": {
+                "default": "https://huggingface.co/sayhan/gemma-7b-GGUF-quantized/resolve/main/gemma-7b.Q5_K_M-v2.gguf"
+            }
+        },
+        {
+            "name": "gemma-7b.Q5_K_S-v2.gguf",
+            "size": "5876279648",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6e43f3a6139f2f0ab867b45a1f72fd024b9cdc7fe2da2e41847e2e1d434d4397",
+            "download": {
+                "default": "https://huggingface.co/sayhan/gemma-7b-GGUF-quantized/resolve/main/gemma-7b.Q5_K_S-v2.gguf"
+            }
+        },
+        {
+            "name": "gemma-7b.Q6_K-v2.gguf",
+            "size": "7010167136",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b0765e6a8845ca467f559f139a6ac8a817e53e64b0834df847c3b3ea803edfb0",
+            "download": {
+                "default": "https://huggingface.co/sayhan/gemma-7b-GGUF-quantized/resolve/main/gemma-7b.Q6_K-v2.gguf"
+            }
+        },
+        {
+            "name": "gemma-7b.Q8_0-v2.gguf",
+            "size": "9077844320",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6a945698cac9f296a9d638ecbd0935387477fd0ad682b4be19e372036ea6e8c7",
+            "download": {
+                "default": "https://huggingface.co/sayhan/gemma-7b-GGUF-quantized/resolve/main/gemma-7b.Q8_0-v2.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

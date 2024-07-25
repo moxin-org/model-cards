@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/dragon-mistral-7B-v0-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-20T22:14:24Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "dragon-mistral-7b-v0.Q2_K.gguf",
+            "size": "3084034176",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "2859f150bd2da61bae38e711761e598904c2e9a9fa27b2a9fa0310fc9e4c0326",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/dragon-mistral-7B-v0-GGUF/resolve/main/dragon-mistral-7b-v0.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "dragon-mistral-7b-v0.Q3_K_L.gguf",
+            "size": "3822960768",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "6affd464608c27e26a0c692a6a080661afe1b0f24eeaa199063d6966e9dad0bc",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/dragon-mistral-7B-v0-GGUF/resolve/main/dragon-mistral-7b-v0.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "dragon-mistral-7b-v0.Q3_K_M.gguf",
+            "size": "3519922304",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "7c43185143ab493f80c7776702d040a6663fb7459f131c4f7fa1069022727b15",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/dragon-mistral-7B-v0-GGUF/resolve/main/dragon-mistral-7b-v0.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "dragon-mistral-7b-v0.Q3_K_S.gguf",
+            "size": "3165503616",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "739deada237d329ce9899dcc58b33427f1bc351fe3aa00d088b66e52559d5432",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/dragon-mistral-7B-v0-GGUF/resolve/main/dragon-mistral-7b-v0.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "dragon-mistral-7b-v0.Q4_0.gguf",
+            "size": "4109852800",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "5a2147e8b8b690bd052356cbc2e2dc17df76ac055da5b37f0c40e382a93241d5",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/dragon-mistral-7B-v0-GGUF/resolve/main/dragon-mistral-7b-v0.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "dragon-mistral-7b-v0.Q4_K_M.gguf",
+            "size": "4369375360",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "b1a429e9e865266e45d4204fcaa76a7efde737298e45c9970b1dc5caf3b0b320",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/dragon-mistral-7B-v0-GGUF/resolve/main/dragon-mistral-7b-v0.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "dragon-mistral-7b-v0.Q4_K_S.gguf",
+            "size": "4141310080",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "5317ad560ded1ce6689d76e1b8319cea1b8e7a8f512b6dfeb0a7551bbab59f87",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/dragon-mistral-7B-v0-GGUF/resolve/main/dragon-mistral-7b-v0.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "dragon-mistral-7b-v0.Q5_0.gguf",
+            "size": "4998652032",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "cd1aadfdf0726260e2d98fb3a42ffe24e8ee1aacb7cdd4e72763a4d1ce787c22",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/dragon-mistral-7B-v0-GGUF/resolve/main/dragon-mistral-7b-v0.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "dragon-mistral-7b-v0.Q5_K_M.gguf",
+            "size": "5132345472",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "1363aaf25f5178eb0c0be63d76e7a6634214ffdd7df5ecb7cbbb64088e6f20af",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/dragon-mistral-7B-v0-GGUF/resolve/main/dragon-mistral-7b-v0.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "dragon-mistral-7b-v0.Q5_K_S.gguf",
+            "size": "4998652032",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "d278eb69887520aa822b70d847ead4d290df23d3c46a305b585253c0be606c72",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/dragon-mistral-7B-v0-GGUF/resolve/main/dragon-mistral-7b-v0.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "dragon-mistral-7b-v0.Q6_K.gguf",
+            "size": "5943001216",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "e579bb61628868d91e8992cd231bc62ed69b9cff43711cc850fe12598748cae9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/dragon-mistral-7B-v0-GGUF/resolve/main/dragon-mistral-7b-v0.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "dragon-mistral-7b-v0.Q8_0.gguf",
+            "size": "7696793728",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "90b81a965f2575ad450fd7a730f21b73a3a873cdce2e766515e2299c5f853c1b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/dragon-mistral-7B-v0-GGUF/resolve/main/dragon-mistral-7b-v0.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

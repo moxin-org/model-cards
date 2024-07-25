@@ -1,0 +1,73 @@
+{
+    "id": "Sao10K/Typhon-Mixtral-v1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Sao10K",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-27T08:37:18Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Typhon-Mixtral-v1.q3_K_S.gguf",
+            "size": "20428817792",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7093ce3550de3465335790ba8aa1644ef4fb20b8765110230b70c66c57f36a0e",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Typhon-Mixtral-v1-GGUF/resolve/main/Typhon-Mixtral-v1.q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Typhon-Mixtral-v1.q4_K_S.gguf",
+            "size": "26742015360",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3e6290aa36da3f89a82439c6e91cdd5d15f40cb8c5d68e98d307c1510bd2eaca",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Typhon-Mixtral-v1-GGUF/resolve/main/Typhon-Mixtral-v1.q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Typhon-Mixtral-v1.q5_K_M.gguf",
+            "size": "33226147200",
+            "quantization": "",
+            "tags": [],
+            "sha256": "72960873f973f9690bb20866004f1455e8817b4f4ebf6041559625ef2f054cde",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Typhon-Mixtral-v1-GGUF/resolve/main/Typhon-Mixtral-v1.q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Typhon-Mixtral-v1.q6_K.gguf",
+            "size": "38377522560",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fcd2721e9278659c31490cf5d2ca0c594c053e2cea2d2e093089700a1565700a",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Typhon-Mixtral-v1-GGUF/resolve/main/Typhon-Mixtral-v1.q6_K.gguf"
+            }
+        },
+        {
+            "name": "Typhon-Mixtral-v1.q8_0.gguf",
+            "size": "49623278976",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e2f252641bac8d4d6a0945d1257d459a28c62a8643397f6c4c76bb813479335f",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Typhon-Mixtral-v1-GGUF/resolve/main/Typhon-Mixtral-v1.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

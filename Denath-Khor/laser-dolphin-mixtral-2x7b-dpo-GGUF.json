@@ -1,0 +1,43 @@
+{
+    "id": "Denath-Khor/laser-dolphin-mixtral-2x7b-dpo-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Denath-Khor",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-20T13:08:49Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "laser-dolphin-mixtral-2x7b-dpo.fp16.gguf",
+            "size": "25759553472",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b930e055269565bf173848e9ffcfa9a25a6a4918d268cf8201678412dc190822",
+            "download": {
+                "default": "https://huggingface.co/Denath-Khor/laser-dolphin-mixtral-2x7b-dpo-GGUF/resolve/main/laser-dolphin-mixtral-2x7b-dpo.fp16.gguf"
+            }
+        },
+        {
+            "name": "laser-dolphin-mixtral-2x7b-dpo.Q8_0.gguf",
+            "size": "13685856256",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "1770b20d886bac02c8b13af18de6817fa1bac5f7a49377fa5b06efeb3344efc4",
+            "download": {
+                "default": "https://huggingface.co/Denath-Khor/laser-dolphin-mixtral-2x7b-dpo-GGUF/resolve/main/laser-dolphin-mixtral-2x7b-dpo.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

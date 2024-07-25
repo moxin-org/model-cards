@@ -1,0 +1,83 @@
+{
+    "id": "afrideva/palmer-x-002-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-19T21:23:33Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "palmer-x-002.fp16.gguf",
+            "size": "2201990016",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e232b52122da46b7045691c78c6e8ad642806cb5fdd7862ede8af0179d48e588",
+            "download": {
+                "default": "https://huggingface.co/afrideva/palmer-x-002-GGUF/resolve/main/palmer-x-002.fp16.gguf"
+            }
+        },
+        {
+            "name": "palmer-x-002.q2_k.gguf",
+            "size": "483115936",
+            "quantization": "",
+            "tags": [],
+            "sha256": "18d4e4c25fbaca6455688ddd8c9ae341d3ac212a91d270962b214d53b59724b4",
+            "download": {
+                "default": "https://huggingface.co/afrideva/palmer-x-002-GGUF/resolve/main/palmer-x-002.q2_k.gguf"
+            }
+        },
+        {
+            "name": "palmer-x-002.q4_k_m.gguf",
+            "size": "668787616",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6c47425a281ee496179a7d3fe66c034eb0f588c7cf0fe673df8308c728c5308d",
+            "download": {
+                "default": "https://huggingface.co/afrideva/palmer-x-002-GGUF/resolve/main/palmer-x-002.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "palmer-x-002.q5_k_m.gguf",
+            "size": "783016864",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8a835ebe9af074898c2471e835ec4cb2d7079249e8ca8ff6904a1b1a1f3bd370",
+            "download": {
+                "default": "https://huggingface.co/afrideva/palmer-x-002-GGUF/resolve/main/palmer-x-002.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "palmer-x-002.q6_k.gguf",
+            "size": "904385440",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7b0a07e7648c51b94b5bc7c684984ee48ec2ff241458532afa2a91b5d310e5b2",
+            "download": {
+                "default": "https://huggingface.co/afrideva/palmer-x-002-GGUF/resolve/main/palmer-x-002.q6_k.gguf"
+            }
+        },
+        {
+            "name": "palmer-x-002.q8_0.gguf",
+            "size": "1170781088",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8518265bffc81cd5a1d919b69c7aaa956437f53f6b773bd5ea162fe92b49d5a9",
+            "download": {
+                "default": "https://huggingface.co/afrideva/palmer-x-002-GGUF/resolve/main/palmer-x-002.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

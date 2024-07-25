@@ -1,0 +1,193 @@
+{
+    "id": "mradermacher/lzlv-longLORA-70b-rope8-32k-fp16-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-12T04:14:18Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "lzlv-longLORA-70b-rope8-32k-fp16.i1-IQ3_XXS.gguf",
+            "size": "26925528128",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "82aef7eb4201a0fe360f4a62121a2bc2ce5ffb4bcadc8a86573b0125d586a992",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv-longLORA-70b-rope8-32k-fp16-i1-GGUF/resolve/main/lzlv-longLORA-70b-rope8-32k-fp16.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "lzlv-longLORA-70b-rope8-32k-fp16.i1-Q5_K_S.gguf",
+            "size": "47770645568",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "75ad42f6fdc2518be5485d0ca777e732f36fc78798eeb56254e8b3a62e201a76",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv-longLORA-70b-rope8-32k-fp16-i1-GGUF/resolve/main/lzlv-longLORA-70b-rope8-32k-fp16.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "lzlv-longLORA-70b-rope8-32k-fp16.i1-Q5_K_M.gguf",
+            "size": "49063015488",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "c906b93b65524664128ea70c52cff62c60a928c23ccefbf2bdc3cab0a19dc3cb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv-longLORA-70b-rope8-32k-fp16-i1-GGUF/resolve/main/lzlv-longLORA-70b-rope8-32k-fp16.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "lzlv-longLORA-70b-rope8-32k-fp16.i1-Q4_K_S.gguf",
+            "size": "39558984768",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "31816c1342d5baabd403c4bebd5a63412966ed954a218dbb4a9a6e26df7553a2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv-longLORA-70b-rope8-32k-fp16-i1-GGUF/resolve/main/lzlv-longLORA-70b-rope8-32k-fp16.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "lzlv-longLORA-70b-rope8-32k-fp16.i1-Q4_K_M.gguf",
+            "size": "41732158528",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a5770abdc5c99f6bd9c2466e161a14237ef58d22917147b427bd82cb1d943066",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv-longLORA-70b-rope8-32k-fp16-i1-GGUF/resolve/main/lzlv-longLORA-70b-rope8-32k-fp16.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "lzlv-longLORA-70b-rope8-32k-fp16.i1-Q3_K_S.gguf",
+            "size": "30228542528",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "bc5851d605cd4de82f604075e65079dd66d2d115f34b775740a65b8a85278c7c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv-longLORA-70b-rope8-32k-fp16-i1-GGUF/resolve/main/lzlv-longLORA-70b-rope8-32k-fp16.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "lzlv-longLORA-70b-rope8-32k-fp16.i1-Q3_K_M.gguf",
+            "size": "33583985728",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "18be7b2d9aff5eda1ffcaf90b6375e1b4e18d33f592f01311c3253d07d78a132",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv-longLORA-70b-rope8-32k-fp16-i1-GGUF/resolve/main/lzlv-longLORA-70b-rope8-32k-fp16.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "lzlv-longLORA-70b-rope8-32k-fp16.i1-Q3_K_L.gguf",
+            "size": "36457083968",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "dec09eceb71a5030172905de1c793a5364f5ecb8e9e137c06b2d44ca9a410569",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv-longLORA-70b-rope8-32k-fp16-i1-GGUF/resolve/main/lzlv-longLORA-70b-rope8-32k-fp16.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "lzlv-longLORA-70b-rope8-32k-fp16.i1-Q2_K.gguf",
+            "size": "25771684928",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "05b833b71ff86e17c210b7a0e3a7000acb04bb72b41b262e49f6781ba59681d4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv-longLORA-70b-rope8-32k-fp16-i1-GGUF/resolve/main/lzlv-longLORA-70b-rope8-32k-fp16.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "lzlv-longLORA-70b-rope8-32k-fp16.i1-IQ1_S.gguf",
+            "size": "14879601728",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "0a5ef078dbdd8b0e84676881e2af48ecb449c47be5219b398aeaa329bd5430d1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv-longLORA-70b-rope8-32k-fp16-i1-GGUF/resolve/main/lzlv-longLORA-70b-rope8-32k-fp16.i1-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "lzlv-longLORA-70b-rope8-32k-fp16.i1-IQ3_XS.gguf",
+            "size": "28451206208",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "7c10780bde3ccb8efd1ec3c5ec9344f60a9ebe6bb2abd9a8537bcf2055645ff4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv-longLORA-70b-rope8-32k-fp16-i1-GGUF/resolve/main/lzlv-longLORA-70b-rope8-32k-fp16.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "lzlv-longLORA-70b-rope8-32k-fp16.i1-IQ3_S.gguf",
+            "size": "30228542528",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "e00fd7c89cf8537f70b61c06c4d28e2afd326706761ad2ce0c88f1f7f1622229",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv-longLORA-70b-rope8-32k-fp16-i1-GGUF/resolve/main/lzlv-longLORA-70b-rope8-32k-fp16.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "lzlv-longLORA-70b-rope8-32k-fp16.i1-IQ3_M.gguf",
+            "size": "31253525568",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "3cd6d531c516f725552442d7e0e72ede10b1896ce9f51de91e2b9803aae85dfa",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv-longLORA-70b-rope8-32k-fp16-i1-GGUF/resolve/main/lzlv-longLORA-70b-rope8-32k-fp16.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "lzlv-longLORA-70b-rope8-32k-fp16.i1-IQ2_XXS.gguf",
+            "size": "18633503808",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "6619a998ead41628648a5e22fd6d327c23b2e017ec6d7f83807e325e61c9af1c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv-longLORA-70b-rope8-32k-fp16-i1-GGUF/resolve/main/lzlv-longLORA-70b-rope8-32k-fp16.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "lzlv-longLORA-70b-rope8-32k-fp16.i1-IQ2_XS.gguf",
+            "size": "20678227008",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "203cbc8418b6f1ffaf645cc98023bd3f9b249d1b480f00457eb81fd507e07445",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv-longLORA-70b-rope8-32k-fp16-i1-GGUF/resolve/main/lzlv-longLORA-70b-rope8-32k-fp16.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "lzlv-longLORA-70b-rope8-32k-fp16.i1-IQ2_S.gguf",
+            "size": "21698376768",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "a0d637055e7002ff7a9a819e071f8253ac939754bcb936e4f68f221c517ae287",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv-longLORA-70b-rope8-32k-fp16-i1-GGUF/resolve/main/lzlv-longLORA-70b-rope8-32k-fp16.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "lzlv-longLORA-70b-rope8-32k-fp16.i1-IQ2_M.gguf",
+            "size": "23575327808",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "d5694eab6da2f5d1b4799330bbc0dd1e1fc93322e3092c939fb64fc2e343906c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/lzlv-longLORA-70b-rope8-32k-fp16-i1-GGUF/resolve/main/lzlv-longLORA-70b-rope8-32k-fp16.i1-IQ2_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

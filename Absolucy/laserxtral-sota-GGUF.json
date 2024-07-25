@@ -1,0 +1,63 @@
+{
+    "id": "Absolucy/laserxtral-sota-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Absolucy",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-10T16:48:14Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "laserxtral-IQ2_XS.gguf",
+            "size": "7115310880",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "b32b6f5d3534df494be3709568cc629fd82681b370eee441d7a213475e09736d",
+            "download": {
+                "default": "https://huggingface.co/Absolucy/laserxtral-sota-GGUF/resolve/main/laserxtral-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "laserxtral-IQ2_XXS.gguf",
+            "size": "6402279200",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "968b84dbcb5761e7ceb8f6b7c228d4d9df914020ad1a6a35502ac46813e4c21d",
+            "download": {
+                "default": "https://huggingface.co/Absolucy/laserxtral-sota-GGUF/resolve/main/laserxtral-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "laserxtral-IQ3_XXS.gguf",
+            "size": "9379079968",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "1ef4b65901f9c99d23df5bf9e33f0c3f6ceabed048bffd1d258b0b2113f85ed5",
+            "download": {
+                "default": "https://huggingface.co/Absolucy/laserxtral-sota-GGUF/resolve/main/laserxtral-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "laserxtral-Q3_K_XS.gguf",
+            "size": "9732343584",
+            "quantization": "Q3_K_XS",
+            "tags": [],
+            "sha256": "9e2efc8d4178f78a582d3123d76e64da43033e0b75ab2a0bfa80e6189137e394",
+            "download": {
+                "default": "https://huggingface.co/Absolucy/laserxtral-sota-GGUF/resolve/main/laserxtral-Q3_K_XS.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

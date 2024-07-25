@@ -1,0 +1,153 @@
+{
+    "id": "second-state/llm-compiler-13b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-06-29T08:42:10Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llm-compiler-13b-f16.gguf",
+            "size": "26033303648",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6230da630b7980d4afc476e1f65376b5e10cb291af5798dc58e632fbb50571b4",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-13b-GGUF/resolve/main/llm-compiler-13b-f16.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-13b-Q2_K.gguf",
+            "size": "4854270048",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "604e6a2ce8a1dac0e1f5b330a5b39516a8cb48f302407d6247cc491c8496a9a9",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-13b-GGUF/resolve/main/llm-compiler-13b-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-13b-Q3_K_L.gguf",
+            "size": "6929559648",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "42b22f5bf0849866329f6dec5739bbb9c9a40cf00de29b30ab130bd329df0456",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-13b-GGUF/resolve/main/llm-compiler-13b-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-13b-Q3_K_M.gguf",
+            "size": "6337769568",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "d7352820e4d7245161830934bb6e41618e335e94640d97c3fe43918062544573",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-13b-GGUF/resolve/main/llm-compiler-13b-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-13b-Q3_K_S.gguf",
+            "size": "5658980448",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "cacb2da8a11a522cb86e98da14a36c5224c4054537c7cd2d5c77f28a9c095213",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-13b-GGUF/resolve/main/llm-compiler-13b-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-13b-Q4_0.gguf",
+            "size": "7365834848",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "d10d86c0ddba3d9a0dbb4b345517d5054570ab9b872460fcc57a1a90219c2bf0",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-13b-GGUF/resolve/main/llm-compiler-13b-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-13b-Q4_K_M.gguf",
+            "size": "7865956448",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "02da48356d8355b2823eb4e9750a471208abf5c794b926e8b32fe418ef3e80fd",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-13b-GGUF/resolve/main/llm-compiler-13b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-13b-Q4_K_S.gguf",
+            "size": "7423178848",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "cc7f3f1ba7569537a11cfdd8f80e4e50345253b055b484c32811e19bf38434c4",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-13b-GGUF/resolve/main/llm-compiler-13b-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-13b-Q5_0.gguf",
+            "size": "8972286048",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "c57d150cae61a1304a6e3201fe2b1dfae28eb497da112f6c0dc0a36c835f61bb",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-13b-GGUF/resolve/main/llm-compiler-13b-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-13b-Q5_K_M.gguf",
+            "size": "9229924448",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "58b379954ba002ed6a9ee8b7590c0030d4bbf40a13aa39b7908a676be5a0bf14",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-13b-GGUF/resolve/main/llm-compiler-13b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-13b-Q5_K_S.gguf",
+            "size": "8972286048",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "d4b759a464a556e9d71fcf918815737ee72dee3d4069b37ace3305bebd966921",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-13b-GGUF/resolve/main/llm-compiler-13b-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-13b-Q6_K.gguf",
+            "size": "10679140448",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "65519b5191ac0488bdee9d9e1db6f86aa07415cfb83beb748b43785c6ae9457c",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-13b-GGUF/resolve/main/llm-compiler-13b-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "llm-compiler-13b-Q8_0.gguf",
+            "size": "13831319648",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "e8f108cc07702a6240597414974ff2b5648c53a0e6039b7d464d419f68727a30",
+            "download": {
+                "default": "https://huggingface.co/second-state/llm-compiler-13b-GGUF/resolve/main/llm-compiler-13b-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 5120,
+    "vector_size": 0,
+    "metrics": null
+}

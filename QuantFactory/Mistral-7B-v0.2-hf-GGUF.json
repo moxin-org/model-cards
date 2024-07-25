@@ -1,0 +1,143 @@
+{
+    "id": "QuantFactory/Mistral-7B-v0.2-hf-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "QuantFactory",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-31T05:44:42Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Mistral-7B-v0.2-hf.Q2_K.gguf",
+            "size": "2719241952",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "225c1f4501e02583aa29f2632a41e95a2edc7b9b132cdcd639a417750d239039",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/Mistral-7B-v0.2-hf-GGUF/resolve/main/Mistral-7B-v0.2-hf.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-v0.2-hf.Q3_K_L.gguf",
+            "size": "3822024416",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "462b7dd91241122c870dc9bf428d3212ca9c94cd8a047d5b264f32dd44978a64",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/Mistral-7B-v0.2-hf-GGUF/resolve/main/Mistral-7B-v0.2-hf.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-v0.2-hf.Q3_K_M.gguf",
+            "size": "3518985952",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "93643e13c9360c20f4391c4583ccfc336c9ee92991db587cac006ca8f4472944",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/Mistral-7B-v0.2-hf-GGUF/resolve/main/Mistral-7B-v0.2-hf.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-v0.2-hf.Q3_K_S.gguf",
+            "size": "3164567264",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "efbd2fa8790365dd06cba835a3afc0745b0d2d992eaa4b9b62061d64d203c962",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/Mistral-7B-v0.2-hf-GGUF/resolve/main/Mistral-7B-v0.2-hf.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-v0.2-hf.Q4_0.gguf",
+            "size": "4108916448",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "af471153f5f0f5263f18522a8a80e503d7fa9bf73073e61a128ad622ecaf631b",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/Mistral-7B-v0.2-hf-GGUF/resolve/main/Mistral-7B-v0.2-hf.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-v0.2-hf.Q4_K_M.gguf",
+            "size": "4368439008",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5623d39e43bf55a27741708b85aa7d18911d2f452e6854546409d602c7ef018c",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/Mistral-7B-v0.2-hf-GGUF/resolve/main/Mistral-7B-v0.2-hf.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-v0.2-hf.Q4_K_S.gguf",
+            "size": "4140373728",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "2ff6a4fc05895ef792afac1dbc370ac785ae3cecfd58fb58c8d1788fbe69b9c3",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/Mistral-7B-v0.2-hf-GGUF/resolve/main/Mistral-7B-v0.2-hf.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-v0.2-hf.Q5_0.gguf",
+            "size": "4997715680",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "d8bc54fb07fbd6778e0c6519693211936a7ff9ac484a8f968d0a847025177c66",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/Mistral-7B-v0.2-hf-GGUF/resolve/main/Mistral-7B-v0.2-hf.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-v0.2-hf.Q5_K_M.gguf",
+            "size": "5131409120",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "bf36b746635168f4b7c37d8fd75129954afd4e4eaafab5aaf012bc1a58e2e9cd",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/Mistral-7B-v0.2-hf-GGUF/resolve/main/Mistral-7B-v0.2-hf.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-v0.2-hf.Q5_K_S.gguf",
+            "size": "4997715680",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "379a884407a6d2f841a5883e9388bdd3af4f77c341cfccf1b5a001df34f1d21c",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/Mistral-7B-v0.2-hf-GGUF/resolve/main/Mistral-7B-v0.2-hf.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-v0.2-hf.Q6_K.gguf",
+            "size": "5942064864",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "ca08848663e7f4cb797fdaeb192407a9ff6174bf2c925cd192ec9f4f7721c6f3",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/Mistral-7B-v0.2-hf-GGUF/resolve/main/Mistral-7B-v0.2-hf.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-v0.2-hf.Q8_0.gguf",
+            "size": "7695857376",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "44b3c777505b66f31f62f635266393a7ec6ff3401f57dcee4dffaa11646687dc",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/Mistral-7B-v0.2-hf-GGUF/resolve/main/Mistral-7B-v0.2-hf.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

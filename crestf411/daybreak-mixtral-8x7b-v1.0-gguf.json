@@ -1,0 +1,53 @@
+{
+    "id": "crestf411/daybreak-mixtral-8x7b-v1.0-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "crestf411",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-12T10:16:05Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "daybreak-mixtral-8x7b-q3_k_m.gguf",
+            "size": "22544394048",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e2301b60428909ca9ab776c959983d0adb15fcc41a6cd1ef39ba0f4cdaa56291",
+            "download": {
+                "default": "https://huggingface.co/crestf411/daybreak-mixtral-8x7b-v1.0-gguf/resolve/main/daybreak-mixtral-8x7b-q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "daybreak-mixtral-8x7b-q4_k_m.gguf",
+            "size": "28446410560",
+            "quantization": "",
+            "tags": [],
+            "sha256": "47dc5ff7ae386bb96abc997e63e66c4457e64efdfcb1092d8a053c50388589e6",
+            "download": {
+                "default": "https://huggingface.co/crestf411/daybreak-mixtral-8x7b-v1.0-gguf/resolve/main/daybreak-mixtral-8x7b-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "daybreak-mixtral-8x7b-q6_k.gguf",
+            "size": "38378760000",
+            "quantization": "",
+            "tags": [],
+            "sha256": "43a76b73fffa21f4c104d8d073c87609ed8d5809d5b90b2c46fa38c3ddc5a9b9",
+            "download": {
+                "default": "https://huggingface.co/crestf411/daybreak-mixtral-8x7b-v1.0-gguf/resolve/main/daybreak-mixtral-8x7b-q6_k.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

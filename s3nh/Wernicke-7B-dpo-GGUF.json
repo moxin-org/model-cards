@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/Wernicke-7B-dpo-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-01T09:29:04Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "wernicke-7b-dpo.Q3_K_S.gguf",
+            "size": "3164567296",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "2923d677a99a030472c015e6fa393e4bc53c512a4a15ebec89d115953bb787ed",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Wernicke-7B-dpo-GGUF/resolve/main/wernicke-7b-dpo.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "wernicke-7b-dpo.Q4_K_M.gguf",
+            "size": "4368439040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a26fb61d86af07150ed0ba40a13a5036d0cb2603776a05810e26e8633d33818e",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Wernicke-7B-dpo-GGUF/resolve/main/wernicke-7b-dpo.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "wernicke-7b-dpo.Q5_K_M.gguf",
+            "size": "5131409152",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5bd3737ce17f8b0491b1bf3da034ff17da664ff9e4c8219b3fec97581858170e",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Wernicke-7B-dpo-GGUF/resolve/main/wernicke-7b-dpo.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "wernicke-7b-dpo.Q6_K.gguf",
+            "size": "5942064896",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b8053340e3df5eca016e4a9bc940387962b223d91e9466b83897a4f3bce1b8ca",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Wernicke-7B-dpo-GGUF/resolve/main/wernicke-7b-dpo.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "wernicke-7b-dpo.Q8_0.gguf",
+            "size": "7695857408",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "41fe8688acb919c0cce819d3a42980de4b7957bd51dd5b0fca1cc81c6388aa8e",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Wernicke-7B-dpo-GGUF/resolve/main/wernicke-7b-dpo.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

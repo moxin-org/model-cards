@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/docsgpt-7B-mistral-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-29T14:41:30Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "docsgpt-7b-mistral.Q2_K.gguf",
+            "size": "3084034624",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "88b6e1bb167226d058384e2ad5bc4730256307173086d1937c3df3bdd3850a7b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/docsgpt-7B-mistral-GGUF/resolve/main/docsgpt-7b-mistral.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "docsgpt-7b-mistral.Q3_K_L.gguf",
+            "size": "3822961216",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "2920082dee3cc4cc3f4ea11075aaabf3390e4cfed1f6a37994d40898036e8940",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/docsgpt-7B-mistral-GGUF/resolve/main/docsgpt-7b-mistral.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "docsgpt-7b-mistral.Q3_K_M.gguf",
+            "size": "3519922752",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "fce1b9025464415239df394e44c23a5d064486e07b76288c4af9e2328d3a5b1e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/docsgpt-7B-mistral-GGUF/resolve/main/docsgpt-7b-mistral.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "docsgpt-7b-mistral.Q3_K_S.gguf",
+            "size": "3165504064",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "e7aacf68f2e37e47fade55772f13aae6e1fd798fdb74436336441bcd271bbe70",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/docsgpt-7B-mistral-GGUF/resolve/main/docsgpt-7b-mistral.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "docsgpt-7b-mistral.Q4_0.gguf",
+            "size": "4109853248",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "f021872457105152d3511b6aebba614cdccf2c786a882dee9806ac454aa63613",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/docsgpt-7B-mistral-GGUF/resolve/main/docsgpt-7b-mistral.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "docsgpt-7b-mistral.Q4_K_M.gguf",
+            "size": "4369375808",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "9aa516f6a25e73dd978314e96cbc1b174632e899fa890a800ac143111ead0796",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/docsgpt-7B-mistral-GGUF/resolve/main/docsgpt-7b-mistral.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "docsgpt-7b-mistral.Q4_K_S.gguf",
+            "size": "4141310528",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "e7f693b608b5af5176b4020c2a5f388b1c191775174e70b8cb5fb064196a5ea0",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/docsgpt-7B-mistral-GGUF/resolve/main/docsgpt-7b-mistral.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "docsgpt-7b-mistral.Q5_0.gguf",
+            "size": "4998652480",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "720d8d271f216c6883922b8c3d1141dcd08b23948d37fa2dce1ae67af466c99a",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/docsgpt-7B-mistral-GGUF/resolve/main/docsgpt-7b-mistral.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "docsgpt-7b-mistral.Q5_K_M.gguf",
+            "size": "5132345920",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "dda2a1a4babfe227f723a73a935e1d910c9bdc5be29f52612fa63718981686ca",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/docsgpt-7B-mistral-GGUF/resolve/main/docsgpt-7b-mistral.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "docsgpt-7b-mistral.Q5_K_S.gguf",
+            "size": "4998652480",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "88ab4a012fc4da67affa01bb3ac601068d3b3748a17508e7432a53766b314b4c",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/docsgpt-7B-mistral-GGUF/resolve/main/docsgpt-7b-mistral.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "docsgpt-7b-mistral.Q6_K.gguf",
+            "size": "5943001664",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "004e66b90c8fed30af628deb4a6009a612978a0746e0c8bfbca2a68a96994ccf",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/docsgpt-7B-mistral-GGUF/resolve/main/docsgpt-7b-mistral.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "docsgpt-7b-mistral.Q8_0.gguf",
+            "size": "7696794176",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "8fd1ccdd97cae07913e4846c121fb316443a284ba084ca1c97b4df38f0a7e187",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/docsgpt-7B-mistral-GGUF/resolve/main/docsgpt-7b-mistral.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

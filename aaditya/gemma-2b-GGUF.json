@@ -1,0 +1,43 @@
+{
+    "id": "aaditya/gemma-2b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "aaditya",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-01T00:07:49Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "gemma-2b.Q4_K_M.gguf",
+            "size": "1630263040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5e819d2d6d2a63c788f52f2498cde9e50d604d1c39cd1988b4eae1d3e739316e",
+            "download": {
+                "default": "https://huggingface.co/aaditya/gemma-2b-GGUF/resolve/main/gemma-2b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b.Q5_K_M.gguf",
+            "size": "1839650560",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "c139720ea26d198effbf78dc6d512eadd5a2f7cc533568ad6dbd6afad8eda88c",
+            "download": {
+                "default": "https://huggingface.co/aaditya/gemma-2b-GGUF/resolve/main/gemma-2b.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 2048,
+    "vector_size": 0,
+    "metrics": null
+}

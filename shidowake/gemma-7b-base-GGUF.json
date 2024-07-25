@@ -1,0 +1,43 @@
+{
+    "id": "shidowake/gemma-7b-base-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "shidowake",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-24T02:07:45Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "gemma-7b-base-q6_K.gguf",
+            "size": "7010167136",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2aee2f0b6c470f255be0c2cb317f04006892dcbd58ce4e2d73c34ab37b9271ff",
+            "download": {
+                "default": "https://huggingface.co/shidowake/gemma-7b-base-GGUF/resolve/main/gemma-7b-base-q6_K.gguf"
+            }
+        },
+        {
+            "name": "gemma-7b-base-q8_0.gguf",
+            "size": "9077844320",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d439cdf0c09cc80c3bd9d4aea3e639512a1b8c52184f91c91088be45bef0632d",
+            "download": {
+                "default": "https://huggingface.co/shidowake/gemma-7b-base-GGUF/resolve/main/gemma-7b-base-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

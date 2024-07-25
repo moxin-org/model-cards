@@ -1,0 +1,63 @@
+{
+    "id": "Undi95/PetrolLM-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Undi95",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-28T02:52:07Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "PetrolLM-7B.q4_k_s.gguf",
+            "size": "4140373632",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1c0322fe873e708dc3def51005963bd7114794986f9cb51367a14c81fa82633a",
+            "download": {
+                "default": "https://huggingface.co/Undi95/PetrolLM-7B-GGUF/resolve/main/PetrolLM-7B.q4_k_s.gguf"
+            }
+        },
+        {
+            "name": "PetrolLM-7B.q5_k_m.gguf",
+            "size": "5131409024",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ed44c17511f35d1e45810faef103f3dc1fe42cebc6efad18b9465c25becf3f11",
+            "download": {
+                "default": "https://huggingface.co/Undi95/PetrolLM-7B-GGUF/resolve/main/PetrolLM-7B.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "PetrolLM-7B.q6_k.gguf",
+            "size": "5942064768",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7859e2becda664e38949de60b3382a81fe1cf8f182650a4745a0873c175b023c",
+            "download": {
+                "default": "https://huggingface.co/Undi95/PetrolLM-7B-GGUF/resolve/main/PetrolLM-7B.q6_k.gguf"
+            }
+        },
+        {
+            "name": "PetrolLM-7B.q8_0.gguf",
+            "size": "7695857280",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8dbe478c5a0a627419093410512f5e0dd614dd75cda717a62db01ef8b656cfb8",
+            "download": {
+                "default": "https://huggingface.co/Undi95/PetrolLM-7B-GGUF/resolve/main/PetrolLM-7B.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

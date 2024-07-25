@@ -1,0 +1,163 @@
+{
+    "id": "tsunemoto/GEITje-7B-chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "tsunemoto",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-18T17:25:02Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "geitje-7b-chat.Q2_K.gguf",
+            "size": "3083098304",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "fe90ec05011fc07987527211c93cf9dfcc96c86b2f1a812f45f99c9bb6f8b1de",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/GEITje-7B-chat-GGUF/resolve/main/geitje-7b-chat.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "geitje-7b-chat.Q3_K_L.gguf",
+            "size": "3822024896",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "0e449b2fa29ad6aaa45c7a5e6a61220bd2a9ba412b4639477dea46f87d2ae933",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/GEITje-7B-chat-GGUF/resolve/main/geitje-7b-chat.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "geitje-7b-chat.Q3_K_M.gguf",
+            "size": "3518986432",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "2b85ea6b4f030548f58fbf27adbb6fa5cc751dd4b005cff8de1adac20d112bc1",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/GEITje-7B-chat-GGUF/resolve/main/geitje-7b-chat.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "geitje-7b-chat.Q3_K_S.gguf",
+            "size": "3164567744",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "efd3e05a26a32e9ccf161db110ab901d907224f9b6600ad3823e879b133bf128",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/GEITje-7B-chat-GGUF/resolve/main/geitje-7b-chat.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "geitje-7b-chat.Q4_0.gguf",
+            "size": "4108916928",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "33cfb3364255d44745e6e926fd307fe6d4bb0b64af525c0770b577461b82d62c",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/GEITje-7B-chat-GGUF/resolve/main/geitje-7b-chat.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "geitje-7b-chat.Q4_1.gguf",
+            "size": "4553316544",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "d44bc1f6f9d4bc0f07ac13ae224a15e133b44e5977ab2d2440a7f8b434328931",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/GEITje-7B-chat-GGUF/resolve/main/geitje-7b-chat.Q4_1.gguf"
+            }
+        },
+        {
+            "name": "geitje-7b-chat.Q4_K_M.gguf",
+            "size": "4368439488",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "3d24234875c45f33f37d03dc8da8b4621a5e8ecadb3a8852741711ef8676a62e",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/GEITje-7B-chat-GGUF/resolve/main/geitje-7b-chat.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "geitje-7b-chat.Q4_K_S.gguf",
+            "size": "4140374208",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "b22e30659fd235af8b253a2c114974fa8de3473953a59ded245a8207ff617c0a",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/GEITje-7B-chat-GGUF/resolve/main/geitje-7b-chat.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "geitje-7b-chat.Q5_0.gguf",
+            "size": "4997716160",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "b86f8eb5b9cc2d1eff2ebe19c4e3e64ddb3011d7ecd2fcb952865e7d871819bc",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/GEITje-7B-chat-GGUF/resolve/main/geitje-7b-chat.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "geitje-7b-chat.Q5_1.gguf",
+            "size": "5442115776",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "48c79b07e3fb0841d6af0979667b3168a35034bcecfa670e859cef4aaeceb8c5",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/GEITje-7B-chat-GGUF/resolve/main/geitje-7b-chat.Q5_1.gguf"
+            }
+        },
+        {
+            "name": "geitje-7b-chat.Q5_K_M.gguf",
+            "size": "5131409600",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "4ddab502a1dfc3c8f5ac92f4fbcb73238091ea533c56cc6e3abb34a50d6963e8",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/GEITje-7B-chat-GGUF/resolve/main/geitje-7b-chat.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "geitje-7b-chat.Q5_K_S.gguf",
+            "size": "4997716160",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "876794e255ccd9e935998e5df4aa33b260712bdf96411bfedf6359bcbbcc28fd",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/GEITje-7B-chat-GGUF/resolve/main/geitje-7b-chat.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "geitje-7b-chat.Q6_K.gguf",
+            "size": "5942065344",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "6c0a971b611ad747d795ff94928d9c9dc97aa782211c0853be0c16152159fe3c",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/GEITje-7B-chat-GGUF/resolve/main/geitje-7b-chat.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "geitje-7b-chat.Q8_0.gguf",
+            "size": "7695857856",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "136723ef1abe4193df91508448f7268405a96fb9d4b343372ac30dff22ec49c7",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/GEITje-7B-chat-GGUF/resolve/main/geitje-7b-chat.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

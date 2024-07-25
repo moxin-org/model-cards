@@ -1,0 +1,63 @@
+{
+    "id": "Eric111/UltraCatunaMayo-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Eric111",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-23T14:37:35Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ultracatunamayo.Q2_K.gguf",
+            "size": "2719242016",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "f8d5849981f52db7ecbdbb1bac315744217eb805d485292a87bf1d761b15d988",
+            "download": {
+                "default": "https://huggingface.co/Eric111/UltraCatunaMayo-GGUF/resolve/main/ultracatunamayo.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "ultracatunamayo.Q4_K_M.gguf",
+            "size": "4368439072",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e36c1413b2921e9f0cdeb7f9cae138c729d10797e7080725258814d90a8493bc",
+            "download": {
+                "default": "https://huggingface.co/Eric111/UltraCatunaMayo-GGUF/resolve/main/ultracatunamayo.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "ultracatunamayo.Q5_K_M.gguf",
+            "size": "5131409184",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "a6b6bfc64d9dee313cb76a55c9532f771f08fd8de57efe85352b8cbb734fec03",
+            "download": {
+                "default": "https://huggingface.co/Eric111/UltraCatunaMayo-GGUF/resolve/main/ultracatunamayo.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "ultracatunamayo.Q8_0.gguf",
+            "size": "7695857440",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "df9db532b0646ba023cefa1d149cdb85383dc3c03fcbfcb366a2d1129069cb9b",
+            "download": {
+                "default": "https://huggingface.co/Eric111/UltraCatunaMayo-GGUF/resolve/main/ultracatunamayo.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

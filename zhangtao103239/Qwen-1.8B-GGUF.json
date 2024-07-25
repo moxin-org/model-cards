@@ -1,0 +1,43 @@
+{
+    "id": "zhangtao103239/Qwen-1.8B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "zhangtao103239",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-20T01:45:24Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "qwen-1.8b-f16.gguf",
+            "size": "3680092608",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d40938e5157248a903b3d98f564ee6c99ab651d46dcc9d12e2c971cdd6501693",
+            "download": {
+                "default": "https://huggingface.co/zhangtao103239/Qwen-1.8B-GGUF/resolve/main/qwen-1.8b-f16.gguf"
+            }
+        },
+        {
+            "name": "qwen-1.8b-q5_k_m.gguf",
+            "size": "1410193920",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a721c5929a05ebe3287ea04f2f19784051b8795b57d42b22adfe379f88743f8f",
+            "download": {
+                "default": "https://huggingface.co/zhangtao103239/Qwen-1.8B-GGUF/resolve/main/qwen-1.8b-q5_k_m.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

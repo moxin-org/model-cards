@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/Neural-4-ARC-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-30T05:36:07Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Neural-4-ARC-7b.IQ3_M.gguf",
+            "size": "3439515328",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "3ef6d32cc0fd71b5640a04961612073d9e7637cc1b4fc079a923477ac5e19e32",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Neural-4-ARC-7b-GGUF/resolve/main/Neural-4-ARC-7b.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Neural-4-ARC-7b.IQ3_S.gguf",
+            "size": "3337017024",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "1d5a343f8ef8f37391b1418ac4e24feea9b4b87f16a247052790ab81f2c83733",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Neural-4-ARC-7b-GGUF/resolve/main/Neural-4-ARC-7b.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Neural-4-ARC-7b.IQ3_XS.gguf",
+            "size": "3173439168",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "d93e8b6a3eac972b06314986959f75e07d11368269c40e02f285b27c8ba72b86",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Neural-4-ARC-7b-GGUF/resolve/main/Neural-4-ARC-7b.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Neural-4-ARC-7b.IQ4_NL.gguf",
+            "size": "4309677760",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "9de7229b4c36f7b4750a693c51c7a92a07344cb5d6d32874bd47411e11cfae74",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Neural-4-ARC-7b-GGUF/resolve/main/Neural-4-ARC-7b.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Neural-4-ARC-7b.IQ4_XS.gguf",
+            "size": "4099012288",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "775f894e326da9d18d635bb86cd382c24914ae180747d9ded09099180f6c2eb6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Neural-4-ARC-7b-GGUF/resolve/main/Neural-4-ARC-7b.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Neural-4-ARC-7b.Q2_K.gguf",
+            "size": "2873865920",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "fa16c3c78170792aa5436c37bf835e0be85aeb074feb55ac0123d3ff4583126c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Neural-4-ARC-7b-GGUF/resolve/main/Neural-4-ARC-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Neural-4-ARC-7b.Q3_K_L.gguf",
+            "size": "3976648384",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "96c8e408f17f9651a61474a3abd442bf1b04a34bf0af90122218fb1d23f8a0d4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Neural-4-ARC-7b-GGUF/resolve/main/Neural-4-ARC-7b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Neural-4-ARC-7b.Q3_K_M.gguf",
+            "size": "3673609920",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "5f9163361e48d8871711aebe539987bd47fc2668f4c107b028c76f29d4467f2b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Neural-4-ARC-7b-GGUF/resolve/main/Neural-4-ARC-7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Neural-4-ARC-7b.Q3_K_S.gguf",
+            "size": "3319191232",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "b48fc5d721c8c24fed5e278c6e4bebf452116fbcf226304a3430a07e19398470",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Neural-4-ARC-7b-GGUF/resolve/main/Neural-4-ARC-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Neural-4-ARC-7b.Q4_0.gguf",
+            "size": "4263540416",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "c76e02cf0449aec5ef7fc001ffd681ba42de9acfd70878807a7f86436363a6a8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Neural-4-ARC-7b-GGUF/resolve/main/Neural-4-ARC-7b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Neural-4-ARC-7b.Q4_K_M.gguf",
+            "size": "4523062976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "642dc431cea88199f16cc058801aaea241dcbb048fa127322e537adb830c6c1c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Neural-4-ARC-7b-GGUF/resolve/main/Neural-4-ARC-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Neural-4-ARC-7b.Q4_K_S.gguf",
+            "size": "4294997696",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "0fd602c2e3d24538ef8ec802fd76e65391461c3dc4a19f6dd1e199b3346c091d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Neural-4-ARC-7b-GGUF/resolve/main/Neural-4-ARC-7b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Neural-4-ARC-7b.Q5_K_M.gguf",
+            "size": "5286033088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "d3d6770271d88f244eff081b3c831d08981b7500d6112b5cad135924202aac0a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Neural-4-ARC-7b-GGUF/resolve/main/Neural-4-ARC-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Neural-4-ARC-7b.Q5_K_S.gguf",
+            "size": "5152339648",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "402aea036e3f5dc49eab5cacc5e3fa3fdb0942a57cd0954fe891a365bec14f38",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Neural-4-ARC-7b-GGUF/resolve/main/Neural-4-ARC-7b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Neural-4-ARC-7b.Q6_K.gguf",
+            "size": "6096688832",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "6245e8532a1ee574ccce84469081bd6db456238fe900c1e44663ba9fa9914d03",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Neural-4-ARC-7b-GGUF/resolve/main/Neural-4-ARC-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Neural-4-ARC-7b.Q8_0.gguf",
+            "size": "7818737344",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "cf132eee51c757b69337cab59ebececc135af807c4a21226ef1979320343b359",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Neural-4-ARC-7b-GGUF/resolve/main/Neural-4-ARC-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

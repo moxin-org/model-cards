@@ -1,0 +1,113 @@
+{
+    "id": "LoneStriker/WestLake-7B-v2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LoneStriker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-24T18:27:49Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "WestLake-7B-v2-Q3_K_L.gguf",
+            "size": "3822024448",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "3aa440f2a6cb4c50e1bf2d9f74be90906b75807777ccb9e88d95d275db72c4fb",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/WestLake-7B-v2-GGUF/resolve/main/WestLake-7B-v2-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "WestLake-7B-v2-Q3_K_M.gguf",
+            "size": "3518985984",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "5d5a1dd0e5f8a58e96d30554991052a8da14cd25959d5e34ca8ee8be50a99bf6",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/WestLake-7B-v2-GGUF/resolve/main/WestLake-7B-v2-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "WestLake-7B-v2-Q3_K_S.gguf",
+            "size": "3164567296",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "5538385104e718cceb9d73ddb0b6a53339a5c0e570e2129ea853b711b0760d9f",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/WestLake-7B-v2-GGUF/resolve/main/WestLake-7B-v2-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "WestLake-7B-v2-Q4_K_M.gguf",
+            "size": "4368439040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "bc7ecf6e391efd8613d382070ca374dbfeb9848296138768c65979714ced6324",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/WestLake-7B-v2-GGUF/resolve/main/WestLake-7B-v2-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "WestLake-7B-v2-Q4_K_S.gguf",
+            "size": "4140373760",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "9967f675f58d942b6ae4803ad578b21492ef7c8b4808c1dba8570b36d3cacd55",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/WestLake-7B-v2-GGUF/resolve/main/WestLake-7B-v2-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "WestLake-7B-v2-Q5_K_M.gguf",
+            "size": "5131409152",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "3c333f7eb7043904e8eb5411b35f818f89c0a33d7c70f43bef5c87e312cd2a2e",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/WestLake-7B-v2-GGUF/resolve/main/WestLake-7B-v2-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "WestLake-7B-v2-Q5_K_S.gguf",
+            "size": "4997715712",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "8848d5ec42c875292452ba431374e71c3f96b06049ddf65cdf7f3be2d3a553f8",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/WestLake-7B-v2-GGUF/resolve/main/WestLake-7B-v2-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "WestLake-7B-v2-Q6_K.gguf",
+            "size": "5942064896",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "dd30d91a6c712245715cf0b41ff485df782bc24ce771068a73936c2dad32186a",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/WestLake-7B-v2-GGUF/resolve/main/WestLake-7B-v2-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "WestLake-7B-v2-Q8_0.gguf",
+            "size": "7695857408",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "bad7ba636f77b4c1e3e591848fa201b01403aa164d4c8a785211cdd72cc107e1",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/WestLake-7B-v2-GGUF/resolve/main/WestLake-7B-v2-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,83 @@
+{
+    "id": "guinmoon/MobileVLM-3B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "guinmoon",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-16T13:42:31Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "MobileVLM-3B-f16.gguf",
+            "size": "5404194560",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f6ad543613bdfe69289b83a24085e950db4385bac2924cdda1c6702fb9f47923",
+            "download": {
+                "default": "https://huggingface.co/guinmoon/MobileVLM-3B-GGUF/resolve/main/MobileVLM-3B-f16.gguf"
+            }
+        },
+        {
+            "name": "MobileVLM-3B-mmproj-f16.gguf",
+            "size": "640351872",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c8dda06f00ae031c5428591603a4c3a27dbbf4414a1e269ede4d1c450ca31d51",
+            "download": {
+                "default": "https://huggingface.co/guinmoon/MobileVLM-3B-GGUF/resolve/main/MobileVLM-3B-mmproj-f16.gguf"
+            }
+        },
+        {
+            "name": "MobileVLM-3B-q3_K_S.gguf",
+            "size": "1194161952",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d8f0575c998fc911710504a04fba6e217411bd18eb613b70746ea45ae6a4ab74",
+            "download": {
+                "default": "https://huggingface.co/guinmoon/MobileVLM-3B-GGUF/resolve/main/MobileVLM-3B-q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "MobileVLM-3B-Q4_K_M.gguf",
+            "size": "1642085152",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "22ae82a42706020e8980178f2cf7b0e1c62476c03ef15886fc7a8585ab088665",
+            "download": {
+                "default": "https://huggingface.co/guinmoon/MobileVLM-3B-GGUF/resolve/main/MobileVLM-3B-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "MobileVLM-3B-Q5_K_M.gguf",
+            "size": "1921022752",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "d1273019ce3d6e3b57f828bff50e9928f6fc0e692e86142cd1647fe217b89b40",
+            "download": {
+                "default": "https://huggingface.co/guinmoon/MobileVLM-3B-GGUF/resolve/main/MobileVLM-3B-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "MobileVLM-3B-q5_K_S.gguf",
+            "size": "1869495072",
+            "quantization": "",
+            "tags": [],
+            "sha256": "51dfaffc5c2e11b88eb43e0d2208c4678468c34c7035e17c292c2d22520f4ed5",
+            "download": {
+                "default": "https://huggingface.co/guinmoon/MobileVLM-3B-GGUF/resolve/main/MobileVLM-3B-q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

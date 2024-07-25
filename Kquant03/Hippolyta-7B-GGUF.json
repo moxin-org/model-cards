@@ -1,0 +1,103 @@
+{
+    "id": "Kquant03/Hippolyta-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Kquant03",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-11T21:16:09Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-q2_k.gguf",
+            "size": "2701416160",
+            "quantization": "",
+            "tags": [],
+            "sha256": "168b360dda03a2535cf754fdf976ec237158597eb65ca730c64f3a010c17cdb6",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/Hippolyta-7B-GGUF/resolve/main/ggml-model-q2_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q3_k_m.gguf",
+            "size": "3518985952",
+            "quantization": "",
+            "tags": [],
+            "sha256": "06795d09b96adf5f334bc6fc9d860062f60616b711e21181d6a8ee70db5f1af1",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/Hippolyta-7B-GGUF/resolve/main/ggml-model-q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_0.gguf",
+            "size": "4108916448",
+            "quantization": "",
+            "tags": [],
+            "sha256": "060a048b8f59567884178da84e3eda35ed739c8dd563efc02c1fd82b9d5fbfac",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/Hippolyta-7B-GGUF/resolve/main/ggml-model-q4_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_k_m.gguf",
+            "size": "4368439008",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9891764a227202e837c4e138240877c768e387bcf121e95809a592e1d19be797",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/Hippolyta-7B-GGUF/resolve/main/ggml-model-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_0.gguf",
+            "size": "4997715680",
+            "quantization": "",
+            "tags": [],
+            "sha256": "60e2482f21cf2e2cfba25a6ed7506ef5efd11b9a231ae8f4fcf3c8b92a33c745",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/Hippolyta-7B-GGUF/resolve/main/ggml-model-q5_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_k_m.gguf",
+            "size": "5131409120",
+            "quantization": "",
+            "tags": [],
+            "sha256": "43aab81f6ad2625ffa183a1efa3e0d92b53b684766051180896b5f1f48748746",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/Hippolyta-7B-GGUF/resolve/main/ggml-model-q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q6_k.gguf",
+            "size": "5942064864",
+            "quantization": "",
+            "tags": [],
+            "sha256": "332415ce57726c9488ab577180bd37d365270f507b5b5f8b29114a456fb0701c",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/Hippolyta-7B-GGUF/resolve/main/ggml-model-q6_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q8_0.gguf",
+            "size": "7695857376",
+            "quantization": "",
+            "tags": [],
+            "sha256": "48fb24292dcc5466c70cd99d63d739c1d00e27d9ee678f764ada899e95cd2bc0",
+            "download": {
+                "default": "https://huggingface.co/Kquant03/Hippolyta-7B-GGUF/resolve/main/ggml-model-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

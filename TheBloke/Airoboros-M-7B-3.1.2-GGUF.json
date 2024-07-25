@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/Airoboros-M-7B-3.1.2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-19T16:41:52Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "airoboros-m-7b-3.1.2.Q2_K.gguf",
+            "size": "3083097728",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "7c8f362e51ceec4654e26279aaa4de25da099c58db3945b4115d6d824e242abb",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Airoboros-M-7B-3.1.2-GGUF/resolve/main/airoboros-m-7b-3.1.2.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "airoboros-m-7b-3.1.2.Q3_K_L.gguf",
+            "size": "3822024320",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "64ee4d96b647ab1f66cd775f513664470db02dfb4e733163bf6a1b27134ba062",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Airoboros-M-7B-3.1.2-GGUF/resolve/main/airoboros-m-7b-3.1.2.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "airoboros-m-7b-3.1.2.Q3_K_M.gguf",
+            "size": "3518985856",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e46446792748d86ceb40cc3688fb280611d64bb6efa8054f043e5b292fdd187d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Airoboros-M-7B-3.1.2-GGUF/resolve/main/airoboros-m-7b-3.1.2.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "airoboros-m-7b-3.1.2.Q3_K_S.gguf",
+            "size": "3164567168",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "703496c330df5759a50a2dd1ddc9fde1b238af9e18f239a300940a1dfd15820d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Airoboros-M-7B-3.1.2-GGUF/resolve/main/airoboros-m-7b-3.1.2.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "airoboros-m-7b-3.1.2.Q4_0.gguf",
+            "size": "4108916352",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "8e577aa1f8d3608ca4e57740f722e03b6cc9beae625643766a86afd354e63676",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Airoboros-M-7B-3.1.2-GGUF/resolve/main/airoboros-m-7b-3.1.2.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "airoboros-m-7b-3.1.2.Q4_K_M.gguf",
+            "size": "4368438912",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "66a1c93529667b73930a867ebbfb485f4ff7e6d9ddbafcd6f464aa8b1e9b59fb",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Airoboros-M-7B-3.1.2-GGUF/resolve/main/airoboros-m-7b-3.1.2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "airoboros-m-7b-3.1.2.Q4_K_S.gguf",
+            "size": "4140373632",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "19af662e427a8dde1f7f24df7fc7d1fcec2560371001019a5fcc23f289875cb9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Airoboros-M-7B-3.1.2-GGUF/resolve/main/airoboros-m-7b-3.1.2.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "airoboros-m-7b-3.1.2.Q5_0.gguf",
+            "size": "4997715584",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "15c3f58aefffca99d55f2f9d6f9bf2c5b9e765e3e76ef0196d2c1c2f540e5301",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Airoboros-M-7B-3.1.2-GGUF/resolve/main/airoboros-m-7b-3.1.2.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "airoboros-m-7b-3.1.2.Q5_K_M.gguf",
+            "size": "5131409024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "a1a3f8844271fbc2859471b926f6728172c9d2f3d096daf13e5f009a3ddd5076",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Airoboros-M-7B-3.1.2-GGUF/resolve/main/airoboros-m-7b-3.1.2.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "airoboros-m-7b-3.1.2.Q5_K_S.gguf",
+            "size": "4997715584",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "b7acbe304a650a88c915490bbd1518d773ed1984cacca673843cb9f9340fb3fd",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Airoboros-M-7B-3.1.2-GGUF/resolve/main/airoboros-m-7b-3.1.2.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "airoboros-m-7b-3.1.2.Q6_K.gguf",
+            "size": "5942064768",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "d169f8fbb03e2ecceabcb396e16eaf2341c8c4de4f2ff4b175bdbb60aba7105d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Airoboros-M-7B-3.1.2-GGUF/resolve/main/airoboros-m-7b-3.1.2.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "airoboros-m-7b-3.1.2.Q8_0.gguf",
+            "size": "7695857280",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "13c85f90181e132c7cecf545642874ec88fb6a000903d35e2bfa3cdf4d016d4b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Airoboros-M-7B-3.1.2-GGUF/resolve/main/airoboros-m-7b-3.1.2.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

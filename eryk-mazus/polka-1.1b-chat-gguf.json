@@ -1,0 +1,73 @@
+{
+    "id": "eryk-mazus/polka-1.1b-chat-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "eryk-mazus",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-09T12:56:37Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "polka-1.1b-chat-F16.gguf",
+            "size": "2192720000",
+            "quantization": "",
+            "tags": [],
+            "sha256": "64c569f0bd1d01f1dc329bc0e29439c37ec75d291d4c02a8d27b4c12cd5b768f",
+            "download": {
+                "default": "https://huggingface.co/eryk-mazus/polka-1.1b-chat-gguf/resolve/main/polka-1.1b-chat-F16.gguf"
+            }
+        },
+        {
+            "name": "polka-1.1b-chat-Q4_K_M.gguf",
+            "size": "701784192",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "d8f2c486da0613fa5fd2942b64ebe0a43665fab4ea04d7a60691604d5f46f31a",
+            "download": {
+                "default": "https://huggingface.co/eryk-mazus/polka-1.1b-chat-gguf/resolve/main/polka-1.1b-chat-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "polka-1.1b-chat-Q5_K_M.gguf",
+            "size": "819060864",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "6208edbc44c5ec731e8d4385d22614508299d8893613d9fe77e6045e9289adaa",
+            "download": {
+                "default": "https://huggingface.co/eryk-mazus/polka-1.1b-chat-gguf/resolve/main/polka-1.1b-chat-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "polka-1.1b-chat-Q5_K_S.gguf",
+            "size": "803045504",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "4c4da487cfba2cb8ada970dcbcf3c4fca888cdbb63ecbb1e9ee5c88834d52474",
+            "download": {
+                "default": "https://huggingface.co/eryk-mazus/polka-1.1b-chat-gguf/resolve/main/polka-1.1b-chat-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "polka-1.1b-chat-Q8_0.gguf",
+            "size": "1221871744",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "79041229836cbf451bb91aec75de0191a405e1d269cfd956d3d72cc9d921ff7b",
+            "download": {
+                "default": "https://huggingface.co/eryk-mazus/polka-1.1b-chat-gguf/resolve/main/polka-1.1b-chat-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

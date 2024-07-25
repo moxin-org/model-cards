@@ -1,0 +1,93 @@
+{
+    "id": "tsunemoto/Senku-70B-Full-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "tsunemoto",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-07T01:19:40Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "senku-70b-full.Q2_K.gguf",
+            "size": "29279254016",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "e1216806d4d104994d8c1033887b6a66d5374ac6f29a8d245128bf23b6b4fcaf",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/Senku-70B-Full-GGUF/resolve/main/senku-70b-full.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "senku-70b-full.Q3_K_L.gguf",
+            "size": "36147836416",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "f9777e72999931c81be5533af1b40576dd7000de37021fe5f0adcc0274f60032",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/Senku-70B-Full-GGUF/resolve/main/senku-70b-full.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "senku-70b-full.Q3_K_S.gguf",
+            "size": "29919294976",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "4821c202106d161f247b4e6bdf5146068652d04eb4ad31d8915004e7fc7e725e",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/Senku-70B-Full-GGUF/resolve/main/senku-70b-full.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "senku-70b-full.Q4_K_M.gguf",
+            "size": "41422910976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "33f53722e17d3419ed68dfbbc82e694b29bddbc86245157a38ae41e506553b68",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/Senku-70B-Full-GGUF/resolve/main/senku-70b-full.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "senku-70b-full.Q4_K_S.gguf",
+            "size": "39073576448",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "e0fd53dbcab19e89d212795e286a3bc1ca2d6d102b30b1b49c140c8da06ec0c2",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/Senku-70B-Full-GGUF/resolve/main/senku-70b-full.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "senku-70b-full.Q5_K_M.gguf",
+            "size": "48753767936",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "fd6e8619b51987a435cac384ed8a40f7511e57c6b996f4bf95907239a3241f35",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/Senku-70B-Full-GGUF/resolve/main/senku-70b-full.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "senku-70b-full.Q5_K_S.gguf",
+            "size": "47461398016",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "f99a8a657cf9a033fb283801b81dfa09c49f3c56bbabd3a1e34fa3fc6ee155e9",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/Senku-70B-Full-GGUF/resolve/main/senku-70b-full.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

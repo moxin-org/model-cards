@@ -1,0 +1,123 @@
+{
+    "id": "dagbs/Qwen1.5-Wukong-0.5B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "dagbs",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-26T02:47:42Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Qwen1.5-Wukong-0.5B.Q2_K.gguf",
+            "size": "247360064",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a867b3a52c23cf0f342a02dbe1655e85d559691e7e87195ed1f43538a1ed212a",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Qwen1.5-Wukong-0.5B-GGUF/resolve/main/Qwen1.5-Wukong-0.5B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-Wukong-0.5B.Q3_K_L.gguf",
+            "size": "297347648",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "b80d3616e7d23a0408b1fcb91f7806c4e08a0382904d2dd696bd934856f492c7",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Qwen1.5-Wukong-0.5B-GGUF/resolve/main/Qwen1.5-Wukong-0.5B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-Wukong-0.5B.Q3_K_M.gguf",
+            "size": "283028032",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "56ad637656b26777dcf45f882b440580064cd92a35c136b50e97b9d9b728c621",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Qwen1.5-Wukong-0.5B-GGUF/resolve/main/Qwen1.5-Wukong-0.5B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-Wukong-0.5B.Q3_K_S.gguf",
+            "size": "266529344",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "3372b182d62fe5045263df6b142964850d9cf29eb80c6f430d3bdcc5959924b1",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Qwen1.5-Wukong-0.5B-GGUF/resolve/main/Qwen1.5-Wukong-0.5B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-Wukong-0.5B.Q4_K_M.gguf",
+            "size": "319638080",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e931fa62049d3b2b72f223e0429143c55f184e8b94db52663f76bdb291514a76",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Qwen1.5-Wukong-0.5B-GGUF/resolve/main/Qwen1.5-Wukong-0.5B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-Wukong-0.5B.Q4_K_S.gguf",
+            "size": "309078592",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "155876d6899aea615884f117cd50fb7c01fbd770a692be06a11b1df44886a761",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Qwen1.5-Wukong-0.5B-GGUF/resolve/main/Qwen1.5-Wukong-0.5B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-Wukong-0.5B.Q5_K_M.gguf",
+            "size": "352275008",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5f353793da4dca3821075a25b4d9abf77b7eee4cb0f41e8c48ff204229afb8d8",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Qwen1.5-Wukong-0.5B-GGUF/resolve/main/Qwen1.5-Wukong-0.5B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-Wukong-0.5B.Q5_K_S.gguf",
+            "size": "346008128",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "7442fcfb70959c4dc152ff7d8251b992769791dcb22fdb984d8bb8755dd01511",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Qwen1.5-Wukong-0.5B-GGUF/resolve/main/Qwen1.5-Wukong-0.5B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-Wukong-0.5B.Q6_K.gguf",
+            "size": "386951744",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "688ad3df1f0b565fd57330784d8257e612c2acff4bb8c8248248ced43741fe4f",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Qwen1.5-Wukong-0.5B-GGUF/resolve/main/Qwen1.5-Wukong-0.5B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-Wukong-0.5B.Q8_0.gguf",
+            "size": "499293760",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "4b1a261118bf550a1bc337d6745659ff55ca3730114f66446cc7052519ef48bc",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Qwen1.5-Wukong-0.5B-GGUF/resolve/main/Qwen1.5-Wukong-0.5B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

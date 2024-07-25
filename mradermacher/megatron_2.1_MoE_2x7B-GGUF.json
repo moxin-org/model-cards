@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/megatron_2.1_MoE_2x7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-04T12:13:09Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "megatron_2.1_MoE_2x7B.IQ3_M.gguf",
+            "size": "5893453792",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "a76a97a88ab6903edeedaee8dd8165250628a48447b753a695f6ed522c1f77bb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/megatron_2.1_MoE_2x7B-GGUF/resolve/main/megatron_2.1_MoE_2x7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "megatron_2.1_MoE_2x7B.IQ3_S.gguf",
+            "size": "5759760352",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "1b0744897c9dac039627b5666359f2a0b84b964d6d9dce208d89659034663513",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/megatron_2.1_MoE_2x7B-GGUF/resolve/main/megatron_2.1_MoE_2x7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "megatron_2.1_MoE_2x7B.IQ3_XS.gguf",
+            "size": "5453051872",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "992d48fe2a7b3a80e52ac0c874b8ba6eeea0d7ecfc6e9bcf86081a0a228dab69",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/megatron_2.1_MoE_2x7B-GGUF/resolve/main/megatron_2.1_MoE_2x7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "megatron_2.1_MoE_2x7B.IQ4_XS.gguf",
+            "size": "7130978272",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "e940d9f2b6b758aad5be813aa00d060bbae6546bbab3ba40ed7b556a8d778ced",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/megatron_2.1_MoE_2x7B-GGUF/resolve/main/megatron_2.1_MoE_2x7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "megatron_2.1_MoE_2x7B.Q2_K.gguf",
+            "size": "4914927584",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "383f6c6ea40eec738bb90ce5ad2f79ac1ac9d1485834ad0afa0b19c4c97b2065",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/megatron_2.1_MoE_2x7B-GGUF/resolve/main/megatron_2.1_MoE_2x7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "megatron_2.1_MoE_2x7B.Q3_K_L.gguf",
+            "size": "6883833824",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "afeabdeaa3f12182557023720b3a8ef836158a2ab06778399ddaaba33f5c3d8e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/megatron_2.1_MoE_2x7B-GGUF/resolve/main/megatron_2.1_MoE_2x7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "megatron_2.1_MoE_2x7B.Q3_K_M.gguf",
+            "size": "6360594400",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "682924eeb4a93b65ab41816e2a32da959ce77a1cc233051af84cde4c4103e363",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/megatron_2.1_MoE_2x7B-GGUF/resolve/main/megatron_2.1_MoE_2x7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "megatron_2.1_MoE_2x7B.Q3_K_S.gguf",
+            "size": "5741934560",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "4826233dc915409960e90645b86e50c2ec4c2a82bbb3bc32d2fb437fa496e724",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/megatron_2.1_MoE_2x7B-GGUF/resolve/main/megatron_2.1_MoE_2x7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "megatron_2.1_MoE_2x7B.Q4_K_M.gguf",
+            "size": "7936710624",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "b6c4df73810758e8f4272e57b031a78dd1fb60d22f3838cd9d99e510f1ea5d79",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/megatron_2.1_MoE_2x7B-GGUF/resolve/main/megatron_2.1_MoE_2x7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "megatron_2.1_MoE_2x7B.Q4_K_S.gguf",
+            "size": "7495784416",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "0cf8899fa409b20254276864e00b29e0b965fe0e9559771176010a1c1abdb787",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/megatron_2.1_MoE_2x7B-GGUF/resolve/main/megatron_2.1_MoE_2x7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "megatron_2.1_MoE_2x7B.Q5_K_M.gguf",
+            "size": "9286883296",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "b752440d7808a12be2c9a3d01c0b35e4b9f25b89186ac1d3c300f66d76b6973a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/megatron_2.1_MoE_2x7B-GGUF/resolve/main/megatron_2.1_MoE_2x7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "megatron_2.1_MoE_2x7B.Q5_K_S.gguf",
+            "size": "9028409312",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "62619284fb015ab65423f2e7d932f3517c5128a151058ac401515235842126ff",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/megatron_2.1_MoE_2x7B-GGUF/resolve/main/megatron_2.1_MoE_2x7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "megatron_2.1_MoE_2x7B.Q6_K.gguf",
+            "size": "10721441760",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "6b4c552fa7624062102cb9381d0331e07b8d987cd77a67177f56b78f7f66f588",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/megatron_2.1_MoE_2x7B-GGUF/resolve/main/megatron_2.1_MoE_2x7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "megatron_2.1_MoE_2x7B.Q8_0.gguf",
+            "size": "13808736224",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "a9238576ea4220b294d5ac184f45ec50913d9d02b7b1b9302eb527df1e67a3fc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/megatron_2.1_MoE_2x7B-GGUF/resolve/main/megatron_2.1_MoE_2x7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

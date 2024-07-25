@@ -1,0 +1,43 @@
+{
+    "id": "hassanraha/OFA-Sys-InsTagger-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "hassanraha",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-13T20:48:51Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "OFA-Sys_InsTagger.q4_K_S.gguf",
+            "size": "3856740096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b82c5b84c9fac2a656c68371bb245d42fba4190bf8f32b5f59306f7429596a0d",
+            "download": {
+                "default": "https://huggingface.co/hassanraha/OFA-Sys-InsTagger-GGUF/resolve/main/OFA-Sys_InsTagger.q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "OFA-Sys_InsTagger.q5_K_M.gguf",
+            "size": "4783156992",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c35272655437a19a8d147092495d22b409156383576fdc1e992613b6598e6dc8",
+            "download": {
+                "default": "https://huggingface.co/hassanraha/OFA-Sys-InsTagger-GGUF/resolve/main/OFA-Sys_InsTagger.q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,63 @@
+{
+    "id": "Undi95/ReMM-v2-L2-13B-VARIANT-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Undi95",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-09T20:28:54Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ReMM-v2-L2-13B-VARIANT.q4_K_S.gguf",
+            "size": "7414331328",
+            "quantization": "",
+            "tags": [],
+            "sha256": "cbb005103d2156f13cc3b0804cdba1957c890e3e3573140867fd0c37bd2c9908",
+            "download": {
+                "default": "https://huggingface.co/Undi95/ReMM-v2-L2-13B-VARIANT-GGUF/resolve/main/ReMM-v2-L2-13B-VARIANT.q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "ReMM-v2-L2-13B-VARIANT.q5_K_M.gguf",
+            "size": "9229924288",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3376560eb3c06778bc3a5d74d64e80337979483a25b6ea2ef48da5db2b8e7600",
+            "download": {
+                "default": "https://huggingface.co/Undi95/ReMM-v2-L2-13B-VARIANT-GGUF/resolve/main/ReMM-v2-L2-13B-VARIANT.q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "ReMM-v2-L2-13B-VARIANT.q6_K.gguf",
+            "size": "10679140288",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2e27e4dc7b2d212c325d0c32210b2934ac884bc19c503553aa6e41dccb1399f1",
+            "download": {
+                "default": "https://huggingface.co/Undi95/ReMM-v2-L2-13B-VARIANT-GGUF/resolve/main/ReMM-v2-L2-13B-VARIANT.q6_K.gguf"
+            }
+        },
+        {
+            "name": "ReMM-v2-L2-13B-VARIANT.q8_0.gguf",
+            "size": "13831319488",
+            "quantization": "",
+            "tags": [],
+            "sha256": "54991bb62d861a72bf21ff2a40c383ca593db2769a03bdbd14502fe3dae3b5d9",
+            "download": {
+                "default": "https://huggingface.co/Undi95/ReMM-v2-L2-13B-VARIANT-GGUF/resolve/main/ReMM-v2-L2-13B-VARIANT.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,43 @@
+{
+    "id": "dnovak232/Mistral7B-Instruct-v0.2-mssql-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "dnovak232",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-13T13:01:13Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Mistral7B-Instruct-v0.2-mssql_q8_0.gguf",
+            "size": "7695857824",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4a42d10a89a5435bc233fa6bea3d8cff9fea990f0c9150130ad0d022d050aefa",
+            "download": {
+                "default": "https://huggingface.co/dnovak232/Mistral7B-Instruct-v0.2-mssql-gguf/resolve/main/Mistral7B-Instruct-v0.2-mssql_q8_0.gguf"
+            }
+        },
+        {
+            "name": "Mistral7B-Instruct-v0.2-mssql.gguf",
+            "size": "14484732064",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8072a1da4f21ff67b45425bb63ad71ccc0d2341cce34040e9afeac838250d456",
+            "download": {
+                "default": "https://huggingface.co/dnovak232/Mistral7B-Instruct-v0.2-mssql-gguf/resolve/main/Mistral7B-Instruct-v0.2-mssql.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

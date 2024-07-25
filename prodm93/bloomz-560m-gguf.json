@@ -1,0 +1,43 @@
+{
+    "id": "prodm93/bloomz-560m-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "prodm93",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-16T00:51:29Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "BLOOMZ-560M.q4_K_S.gguf",
+            "size": "541128768",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1d09e6122d3487aaab0727eee7c0cdb3c6b84b5e7229fa36dd7243a09d923238",
+            "download": {
+                "default": "https://huggingface.co/prodm93/bloomz-560m-gguf/resolve/main/BLOOMZ-560M.q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "BLOOMZ-560M.q5_K_M.gguf",
+            "size": "625604672",
+            "quantization": "",
+            "tags": [],
+            "sha256": "203a0b4266ccffcadb10c9182cea0fcbe4d42ce9d697792a37aada3a8e865e20",
+            "download": {
+                "default": "https://huggingface.co/prodm93/bloomz-560m-gguf/resolve/main/BLOOMZ-560M.q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

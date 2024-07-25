@@ -1,0 +1,143 @@
+{
+    "id": "mradermacher/FashionGPT-70B-V1.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-09T22:22:20Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "FashionGPT-70B-V1.1.IQ3_M.gguf",
+            "size": "30944277472",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "1b5c11481582d8550f0b5727c5dd0fdc0f6740da9d500c325af26375785637a7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/FashionGPT-70B-V1.1-GGUF/resolve/main/FashionGPT-70B-V1.1.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "FashionGPT-70B-V1.1.IQ3_S.gguf",
+            "size": "29919294432",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "a35b9164bf00d26ae0d96bb9b094f50b7f1db8959c8a358366c457aa488482ed",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/FashionGPT-70B-V1.1-GGUF/resolve/main/FashionGPT-70B-V1.1.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "FashionGPT-70B-V1.1.IQ3_XS.gguf",
+            "size": "28314973152",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "e87c3bc1581f0da3bb0403e461060682ccfaef3cb9577aadbb27c26a136d84c3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/FashionGPT-70B-V1.1-GGUF/resolve/main/FashionGPT-70B-V1.1.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "FashionGPT-70B-V1.1.IQ4_XS.gguf",
+            "size": "37196821472",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "a956fe1ba7f2a728746edcebce2621639f6aabd903b723e8b3332a92a2e4ea83",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/FashionGPT-70B-V1.1-GGUF/resolve/main/FashionGPT-70B-V1.1.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "FashionGPT-70B-V1.1.Q2_K.gguf",
+            "size": "25462436832",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "cc8cb516014edb1f613226c6a3442c219e35d8dbc6ec20a3e45c17822c248968",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/FashionGPT-70B-V1.1-GGUF/resolve/main/FashionGPT-70B-V1.1.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "FashionGPT-70B-V1.1.Q3_K_L.gguf",
+            "size": "36147835872",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "c23a67b9a602ac99d5bf6b0cfbfdf00b5877bc3d7d57620afba7dc3e78215db2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/FashionGPT-70B-V1.1-GGUF/resolve/main/FashionGPT-70B-V1.1.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "FashionGPT-70B-V1.1.Q3_K_M.gguf",
+            "size": "33274737632",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "a3ab5935e9069b467ee3af56b1cd4b95e3d29f4838bf647d12395dbac38f3bdc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/FashionGPT-70B-V1.1-GGUF/resolve/main/FashionGPT-70B-V1.1.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "FashionGPT-70B-V1.1.Q3_K_S.gguf",
+            "size": "29919294432",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "28bf4a7a61c719a6d978673660cd8a5851766bb15a31b5f14f0c520a9669dce8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/FashionGPT-70B-V1.1-GGUF/resolve/main/FashionGPT-70B-V1.1.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "FashionGPT-70B-V1.1.Q4_K_M.gguf",
+            "size": "41422910432",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "531fda601089e8ae7b58e2dd66a15fa5793364b764146d8f9b0668ea20b8ad99",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/FashionGPT-70B-V1.1-GGUF/resolve/main/FashionGPT-70B-V1.1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "FashionGPT-70B-V1.1.Q4_K_S.gguf",
+            "size": "39249736672",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "108d41fe9c819cbedbae2a0a3595de12ff5b93f9089365038050470c48467b69",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/FashionGPT-70B-V1.1-GGUF/resolve/main/FashionGPT-70B-V1.1.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "FashionGPT-70B-V1.1.Q5_K_M.gguf",
+            "size": "48753767392",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "08d5e0679729aa7fcb4958a2b7bbba8f50387bf7aa075df375a07864318c3a3b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/FashionGPT-70B-V1.1-GGUF/resolve/main/FashionGPT-70B-V1.1.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "FashionGPT-70B-V1.1.Q5_K_S.gguf",
+            "size": "47461397472",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "f7a9eb09124d184e342d92e5349d47544cbef5135b2921986318d2a692498f06",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/FashionGPT-70B-V1.1-GGUF/resolve/main/FashionGPT-70B-V1.1.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

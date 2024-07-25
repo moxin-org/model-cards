@@ -1,0 +1,43 @@
+{
+    "id": "taoki/deepseek-coder-7B-instruct-ja-stackoverflow-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "taoki",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-27T01:53:20Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "deepseek-coder-6.7B-instruct-ja-stackoverflow_Q4_K_M.gguf",
+            "size": "4081685152",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "bfbe50b5028fc962c32209ab323cafe4f767446caa63350ec196216b1bd9aece",
+            "download": {
+                "default": "https://huggingface.co/taoki/deepseek-coder-7B-instruct-ja-stackoverflow-GGUF/resolve/main/deepseek-coder-6.7B-instruct-ja-stackoverflow_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-7B-instruct-v1.5-ja-stackoverflow_Q4_K_M.gguf",
+            "size": "4210201248",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "2303730f19f002f0591b56b32f019d48ae1612ba4917dfda765d80f5ec11aca9",
+            "download": {
+                "default": "https://huggingface.co/taoki/deepseek-coder-7B-instruct-ja-stackoverflow-GGUF/resolve/main/deepseek-coder-7B-instruct-v1.5-ja-stackoverflow_Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

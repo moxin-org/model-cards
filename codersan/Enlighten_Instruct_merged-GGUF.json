@@ -1,0 +1,43 @@
+{
+    "id": "codersan/Enlighten_Instruct_merged-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "codersan",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-06T13:16:39Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Enlighten_Instruct_merged.q4_K_S.gguf",
+            "size": "4140374272",
+            "quantization": "",
+            "tags": [],
+            "sha256": "11be0aec73090d4664289bc216b76e9abd1c1ff793c22e1478b5a37b4d574b1e",
+            "download": {
+                "default": "https://huggingface.co/codersan/Enlighten_Instruct_merged-GGUF/resolve/main/Enlighten_Instruct_merged.q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Enlighten_Instruct_merged.q5_K_M.gguf",
+            "size": "5131409664",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ed6b90bc10b423d06960fa87af7410c96e8d9a5cad68a362054ed727c2ee5bde",
+            "download": {
+                "default": "https://huggingface.co/codersan/Enlighten_Instruct_merged-GGUF/resolve/main/Enlighten_Instruct_merged.q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

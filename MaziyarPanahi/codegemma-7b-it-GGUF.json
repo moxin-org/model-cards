@@ -1,0 +1,153 @@
+{
+    "id": "MaziyarPanahi/codegemma-7b-it-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "MaziyarPanahi",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-09T14:31:44Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "codegemma-7b-it.fp16.gguf",
+            "size": "17081756640",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dd152ef54fecc4e06406f4a314ca8ee392f60ca55e092cc6f8cddb59eff2bcaf",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it.fp16.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it.IQ3_XS.gguf",
+            "size": "3800738816",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "8147fdaf39b68b92cf4d81b4c880602023f6dafe29adf133007eed1a48b82288",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it.IQ4_XS.gguf",
+            "size": "4805012480",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "6904910fd2b592565f366be6d9e0963e3b7a6a755f98b83d27bd96e885340882",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it.Q2_K.gguf",
+            "size": "3481447424",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "cd958c2df1fdb3c601c5a501d12930228ba0f2ad240f11564debd16b881cff0b",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it.Q3_K_L.gguf",
+            "size": "4709067776",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "85dbbac7c4975e8c57c27bd3c18a26e9ba2b67c3e28ad3d00818ac7a235668e7",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it.Q3_K_M.gguf",
+            "size": "4369329152",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "4870cd80448f393ff0252b917c74c6e0c09d49e16540a41751e4a25cb0137f53",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it.Q3_K_S.gguf",
+            "size": "3982404608",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "7614612f32b8af2d7465b515534c384852aa67eab05c5f5920d9681c4076ab11",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it.Q4_K_M.gguf",
+            "size": "5329759232",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "daedeecfbd277b98884672b17812936010ed3dd3053e138916ce5bdc70834b08",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it.Q4_K_S.gguf",
+            "size": "5046447104",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "0ec6cdbc2af11492012e701d741253de6b51b5ebb21d104d702647ae37a7f2e1",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it.Q5_K_M.gguf",
+            "size": "6144502784",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "2bd3d88ca870d62d5b7205e4e650cae4f18a75aed9729980912b545b504dec1c",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it.Q5_K_S.gguf",
+            "size": "5980728320",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "494180ea986c9bc4f6270f7218052a8d9c0ecd2df6361b71713062af6d52c467",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it.Q6_K.gguf",
+            "size": "7010167808",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "4f2b97f7433f0d4b75ae6c6f7f5cf4a8727b24dbaaccf4be624405743bfce72e",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "codegemma-7b-it.Q8_0.gguf",
+            "size": "9077844992",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "2a0aacffb3628a43b145ff88e666055d4e4f934216c150e314073bb0b19b5ae0",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

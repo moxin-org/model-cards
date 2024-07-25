@@ -1,0 +1,63 @@
+{
+    "id": "janhq/medicine-llm-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "janhq",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-05T04:45:42Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "medicine-llm.Q3_K_M.gguf",
+            "size": "3298009792",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "72a3be4aabd2eb06ea2cd0f62d4a98f2132872d367ccc58584fc84f9ac429762",
+            "download": {
+                "default": "https://huggingface.co/janhq/medicine-llm-GGUF/resolve/main/medicine-llm.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "medicine-llm.Q4_K_M.gguf",
+            "size": "4081009888",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "9523e62c16c4efffe63cecf6048c7ae2bcd8e7e34a63e46f63872da88ba2936e",
+            "download": {
+                "default": "https://huggingface.co/janhq/medicine-llm-GGUF/resolve/main/medicine-llm.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "medicine-llm.Q5_K_M.gguf",
+            "size": "4783163104",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "6890b38404ad404b403b92ebf64e54b090c0c1909482f1b2ed899647497478cb",
+            "download": {
+                "default": "https://huggingface.co/janhq/medicine-llm-GGUF/resolve/main/medicine-llm.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "medicine-llm.Q8_0.gguf",
+            "size": "7161098432",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "371945b024325aa361e7a014560a31a310d446d216b3138df66d6f838d4a67e6",
+            "download": {
+                "default": "https://huggingface.co/janhq/medicine-llm-GGUF/resolve/main/medicine-llm.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

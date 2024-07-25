@@ -1,0 +1,73 @@
+{
+    "id": "yuiseki/tinyllama-un-langs-base-v0.1-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "yuiseki",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-29T00:58:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tinyllama-ar-wikipedia-1.5T-v0.1-Q4_K_M.gguf",
+            "size": "667814528",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "f8e05b1bea4ef29542e31bcbb59636e952f6ee313a53247f2d65ccfb6fbebc41",
+            "download": {
+                "default": "https://huggingface.co/yuiseki/tinyllama-un-langs-base-v0.1-gguf/resolve/main/tinyllama-ar-wikipedia-1.5T-v0.1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-es-wikipedia-1.5T-v0.1-Q4_K_M.gguf",
+            "size": "667814528",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "757d7128b7d2a393aff7e9741fcccf7d43e7f54a496b13c82b6e7457a9770a2e",
+            "download": {
+                "default": "https://huggingface.co/yuiseki/tinyllama-un-langs-base-v0.1-gguf/resolve/main/tinyllama-es-wikipedia-1.5T-v0.1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-fr-wikipedia-1.5T-v0.1-Q4_K_M.gguf",
+            "size": "667814528",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "20ebdfe9ad0f2e20f2f9d230e67ecba9f76bac64fc71e2343198e66fde8d0ac1",
+            "download": {
+                "default": "https://huggingface.co/yuiseki/tinyllama-un-langs-base-v0.1-gguf/resolve/main/tinyllama-fr-wikipedia-1.5T-v0.1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-ru-wikipedia-1.5T-v0.1-Q4_K_M.gguf",
+            "size": "667814528",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "1d355917f26c1d0043d232599082834fa6b08202ed8cbd2512e526217dbd0b58",
+            "download": {
+                "default": "https://huggingface.co/yuiseki/tinyllama-un-langs-base-v0.1-gguf/resolve/main/tinyllama-ru-wikipedia-1.5T-v0.1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-zh-wikipedia-1.5T-v0.1-Q4_K_M.gguf",
+            "size": "667814528",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "8c9ce886f1521da0a4f3fdf4bb992b4cbe65371d3d7e4e547f5fc10f75b83c92",
+            "download": {
+                "default": "https://huggingface.co/yuiseki/tinyllama-un-langs-base-v0.1-gguf/resolve/main/tinyllama-zh-wikipedia-1.5T-v0.1-Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

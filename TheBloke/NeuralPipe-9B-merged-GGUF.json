@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/NeuralPipe-9B-merged-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-29T16:59:44Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "neuralpipe-9b-merged.Q2_K.gguf",
+            "size": "3817000000",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "737b7836a3662f5693037d13b75d8e9884083d4cd7fc89207569647d14ecea4d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralPipe-9B-merged-GGUF/resolve/main/neuralpipe-9b-merged.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "neuralpipe-9b-merged.Q3_K_L.gguf",
+            "size": "4737330240",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "850883d1d79726c85d3f78f35a85c4f78af6adfda08b0837f165723e64ceff71",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralPipe-9B-merged-GGUF/resolve/main/neuralpipe-9b-merged.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "neuralpipe-9b-merged.Q3_K_M.gguf",
+            "size": "4354600000",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "5b540336fcfeda258945db129232b01c24f122b254a98973db8f560931a2fb61",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralPipe-9B-merged-GGUF/resolve/main/neuralpipe-9b-merged.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "neuralpipe-9b-merged.Q3_K_S.gguf",
+            "size": "3915508800",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "4248cfac4ad671bbd3763d6207f8438cd90bd8169e83b29d3bc480a73bbc3dee",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralPipe-9B-merged-GGUF/resolve/main/neuralpipe-9b-merged.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "neuralpipe-9b-merged.Q4_0.gguf",
+            "size": "5091593280",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "2ed2c6a283b222850d231d6e93e5899a375436deca6fb931ad9e3dca7dbc5d52",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralPipe-9B-merged-GGUF/resolve/main/neuralpipe-9b-merged.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "neuralpipe-9b-merged.Q4_K_M.gguf",
+            "size": "5415996480",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "f8ec45a28f84238461f96808f546cf13fb80211a941f8a0cc44366ee541ad0b6",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralPipe-9B-merged-GGUF/resolve/main/neuralpipe-9b-merged.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "neuralpipe-9b-merged.Q4_K_S.gguf",
+            "size": "5123050560",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "e8de94da0b104ffe47454ed30be2a420714546f814e4ada49494d57c8e795b52",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralPipe-9B-merged-GGUF/resolve/main/neuralpipe-9b-merged.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "neuralpipe-9b-merged.Q5_0.gguf",
+            "size": "6198496320",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "7f77723bfc6d27351e898ddff0439154bb76ce5e97cc8cfa8e01dcb78b725fd7",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralPipe-9B-merged-GGUF/resolve/main/neuralpipe-9b-merged.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "neuralpipe-9b-merged.Q5_K_M.gguf",
+            "size": "6365613120",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "cc7372a0ae2b93d68e03d8e3bd33c1c59e9eed09bfaf62b2f4bd8a058c89d734",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralPipe-9B-merged-GGUF/resolve/main/neuralpipe-9b-merged.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "neuralpipe-9b-merged.Q5_K_S.gguf",
+            "size": "6198496320",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "a2b806ec0562331f33b75bf5cd39b5aeb273323382b6990e55e4c0d911b400f4",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralPipe-9B-merged-GGUF/resolve/main/neuralpipe-9b-merged.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "neuralpipe-9b-merged.Q6_K.gguf",
+            "size": "7374580800",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "926c200433724cf9c7e0ac76ac4ed1356bff3ab3a8ddf21b914948755f252929",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralPipe-9B-merged-GGUF/resolve/main/neuralpipe-9b-merged.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "neuralpipe-9b-merged.Q8_0.gguf",
+            "size": "9550951424",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "2ccbc0fa0dad75c24215b04d87943961f2defddd3724d3365066d48791e899ab",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralPipe-9B-merged-GGUF/resolve/main/neuralpipe-9b-merged.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

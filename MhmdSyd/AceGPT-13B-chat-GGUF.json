@@ -1,0 +1,43 @@
+{
+    "id": "MhmdSyd/AceGPT-13B-chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "MhmdSyd",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-15T05:16:44Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "AceGPT-13B-Chat.Q4_K_S.gguf",
+            "size": "7423178720",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "40a7d8034cc8f74aedebea005207219f5237ebd98f12211911cc4e517a1eb9a0",
+            "download": {
+                "default": "https://huggingface.co/MhmdSyd/AceGPT-13B-chat-GGUF/resolve/main/AceGPT-13B-Chat.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "AceGPT-13B-Chat.Q5_K_M.gguf",
+            "size": "9229924320",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ca27eca3913ec6662ffdea3f80ad881911d38a5b82bc2f3d068ef07d3e55b286",
+            "download": {
+                "default": "https://huggingface.co/MhmdSyd/AceGPT-13B-chat-GGUF/resolve/main/AceGPT-13B-Chat.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

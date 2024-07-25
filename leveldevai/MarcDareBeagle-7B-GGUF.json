@@ -1,0 +1,43 @@
+{
+    "id": "leveldevai/MarcDareBeagle-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "leveldevai",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-20T17:23:38Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "marcdarebeagle-7b.Q4_K_M.gguf",
+            "size": "4368438912",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "f3846df11d1106d485af94d3481ba3dbc59ebf4dc55e9286955cec448abc889e",
+            "download": {
+                "default": "https://huggingface.co/leveldevai/MarcDareBeagle-7B-GGUF/resolve/main/marcdarebeagle-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "marcdarebeagle-7b.Q5_K_M.gguf",
+            "size": "5131409024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "3742accc8a3ec22e54759aa9d19977e0ed4483c23f477da061b5e6bc764cb621",
+            "download": {
+                "default": "https://huggingface.co/leveldevai/MarcDareBeagle-7B-GGUF/resolve/main/marcdarebeagle-7b.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

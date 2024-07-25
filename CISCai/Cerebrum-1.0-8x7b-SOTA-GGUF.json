@@ -1,0 +1,113 @@
+{
+    "id": "CISCai/Cerebrum-1.0-8x7b-SOTA-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "CISCai",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-20T15:54:27Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Cerebrum-1.0-8x7b.IQ2_M.gguf",
+            "size": "15493138912",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "4aac8a3169ec16d344cd8804908c38f6b20bb2b7a6569d6216baa1a7a4f9eda2",
+            "download": {
+                "default": "https://huggingface.co/CISCai/Cerebrum-1.0-8x7b-SOTA-GGUF/resolve/main/Cerebrum-1.0-8x7b.IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "Cerebrum-1.0-8x7b.IQ2_S.gguf",
+            "size": "14125795808",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "d6e6350f896f6c07e9949ea62122f3de04cf93976bf54aa9f1768a1703bcf990",
+            "download": {
+                "default": "https://huggingface.co/CISCai/Cerebrum-1.0-8x7b-SOTA-GGUF/resolve/main/Cerebrum-1.0-8x7b.IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "Cerebrum-1.0-8x7b.IQ2_XS.gguf",
+            "size": "13921642976",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "2dba42cfbdc457c0fc0efc244771c669c984585c5f6fa16ce5d937f6c3a2ea4b",
+            "download": {
+                "default": "https://huggingface.co/CISCai/Cerebrum-1.0-8x7b-SOTA-GGUF/resolve/main/Cerebrum-1.0-8x7b.IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Cerebrum-1.0-8x7b.IQ2_XXS.gguf",
+            "size": "12554299872",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "3efa39bfda79d6b53ebf3dc4dc8152b2a49c7a03f909d753a88d92f09436c544",
+            "download": {
+                "default": "https://huggingface.co/CISCai/Cerebrum-1.0-8x7b-SOTA-GGUF/resolve/main/Cerebrum-1.0-8x7b.IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "Cerebrum-1.0-8x7b.IQ3_M.gguf",
+            "size": "21428709856",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "9c4eb7499628edf65d5d02c9cb6f2bc96d2e8edc6132cf14c5bbf7b4f0f06f5e",
+            "download": {
+                "default": "https://huggingface.co/CISCai/Cerebrum-1.0-8x7b-SOTA-GGUF/resolve/main/Cerebrum-1.0-8x7b.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Cerebrum-1.0-8x7b.IQ3_S.gguf",
+            "size": "20430465504",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "1dd9acd5a992486020ee4eb9dc2cedc1ed40d14176fc630fe5934a630d5b9ae2",
+            "download": {
+                "default": "https://huggingface.co/CISCai/Cerebrum-1.0-8x7b-SOTA-GGUF/resolve/main/Cerebrum-1.0-8x7b.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Cerebrum-1.0-8x7b.IQ3_XS.gguf",
+            "size": "19282274784",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "0515de23dcc1e1d52a562afacb7a6511d3bd329beb748432884b0b98b9f6f92d",
+            "download": {
+                "default": "https://huggingface.co/CISCai/Cerebrum-1.0-8x7b-SOTA-GGUF/resolve/main/Cerebrum-1.0-8x7b.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Cerebrum-1.0-8x7b.IQ3_XXS.gguf",
+            "size": "18240408032",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "48e6a1900bef0e83c69f8d93d2e18411a527fe8d2b3ea54eb959ba5e33a491b2",
+            "download": {
+                "default": "https://huggingface.co/CISCai/Cerebrum-1.0-8x7b-SOTA-GGUF/resolve/main/Cerebrum-1.0-8x7b.IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "Cerebrum-1.0-8x7b.IQ4_XS.gguf",
+            "size": "25078483424",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "0c2e2751a4d20361d2547210b5549c8d131f77714cc7dc59718dad5d7e18a567",
+            "download": {
+                "default": "https://huggingface.co/CISCai/Cerebrum-1.0-8x7b-SOTA-GGUF/resolve/main/Cerebrum-1.0-8x7b.IQ4_XS.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

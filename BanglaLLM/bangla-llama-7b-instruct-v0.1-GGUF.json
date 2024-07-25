@@ -1,0 +1,153 @@
+{
+    "id": "BanglaLLM/bangla-llama-7b-instruct-v0.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "BanglaLLM",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-07T20:41:00Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "bangla-llama-7b-instruct-v0.1-fp16-ft.gguf",
+            "size": "13780740224",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1bd05a1b88b753526db2c3973530dcd3ddd0a6591cb032481c35c28f21c0afd2",
+            "download": {
+                "default": "https://huggingface.co/BanglaLLM/bangla-llama-7b-instruct-v0.1-GGUF/resolve/main/bangla-llama-7b-instruct-v0.1-fp16-ft.gguf"
+            }
+        },
+        {
+            "name": "bangla-llama-7b-instruct-v0.1-ft-Q2_K.gguf",
+            "size": "2620155040",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "66e9727e8465c7cb79a7083955d60b4d49be0148777122d77ea6955e5d18adc8",
+            "download": {
+                "default": "https://huggingface.co/BanglaLLM/bangla-llama-7b-instruct-v0.1-GGUF/resolve/main/bangla-llama-7b-instruct-v0.1-ft-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "bangla-llama-7b-instruct-v0.1-ft-Q3_K_L.gguf",
+            "size": "3692072128",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "b8c9a78dd28b5d89f6f1f6241b97a0c580b6f3ad6ab18103435150624ce1634f",
+            "download": {
+                "default": "https://huggingface.co/BanglaLLM/bangla-llama-7b-instruct-v0.1-GGUF/resolve/main/bangla-llama-7b-instruct-v0.1-ft-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "bangla-llama-7b-instruct-v0.1-ft-Q3_K_M.gguf",
+            "size": "3392965824",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "b03bd5eb3cd4af8e03d0ccfa2e24c248bade7889574ea58b7e74b08690169631",
+            "download": {
+                "default": "https://huggingface.co/BanglaLLM/bangla-llama-7b-instruct-v0.1-GGUF/resolve/main/bangla-llama-7b-instruct-v0.1-ft-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "bangla-llama-7b-instruct-v0.1-ft-Q3_K_S.gguf",
+            "size": "3043265728",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "3998243198d936809dba31adfde2beac95508c53fd05ab4357a16318b4eeb7b2",
+            "download": {
+                "default": "https://huggingface.co/BanglaLLM/bangla-llama-7b-instruct-v0.1-GGUF/resolve/main/bangla-llama-7b-instruct-v0.1-ft-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "bangla-llama-7b-instruct-v0.1-ft-Q4_0.gguf",
+            "size": "3930797920",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "45e39d3eb18621749010ef64f87e4829994595ecf84efa5f3b62750457f0b110",
+            "download": {
+                "default": "https://huggingface.co/BanglaLLM/bangla-llama-7b-instruct-v0.1-GGUF/resolve/main/bangla-llama-7b-instruct-v0.1-ft-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "bangla-llama-7b-instruct-v0.1-ft-Q4_K_M.gguf",
+            "size": "4185995104",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a2bfaaf5c1e2a3aaa77b8c764df03faf3faa5422ea21e6394ad2eaa691b23e37",
+            "download": {
+                "default": "https://huggingface.co/BanglaLLM/bangla-llama-7b-instruct-v0.1-GGUF/resolve/main/bangla-llama-7b-instruct-v0.1-ft-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "bangla-llama-7b-instruct-v0.1-ft-Q4_K_S.gguf",
+            "size": "3961730912",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "8534151cf773a8ccf024b25bed7d6cb25251bef47b387d3f2d1c954944f5ba5a",
+            "download": {
+                "default": "https://huggingface.co/BanglaLLM/bangla-llama-7b-instruct-v0.1-GGUF/resolve/main/bangla-llama-7b-instruct-v0.1-ft-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "bangla-llama-7b-instruct-v0.1-ft-Q5_0.gguf",
+            "size": "4766122336",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "83da92701b66e6b99fbed4d8fc835789308af89d90558c51e7623127b183c48c",
+            "download": {
+                "default": "https://huggingface.co/BanglaLLM/bangla-llama-7b-instruct-v0.1-GGUF/resolve/main/bangla-llama-7b-instruct-v0.1-ft-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "bangla-llama-7b-instruct-v0.1-ft-Q5_K_M.gguf",
+            "size": "4897587552",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "dc817b83ce7de66c07543f09c28b20b6858d256fda1da85f57591a53c93197b4",
+            "download": {
+                "default": "https://huggingface.co/BanglaLLM/bangla-llama-7b-instruct-v0.1-GGUF/resolve/main/bangla-llama-7b-instruct-v0.1-ft-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "bangla-llama-7b-instruct-v0.1-ft-Q5_K_S.gguf",
+            "size": "4766122336",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "db8499a19e62d83c92d4b9c22d579e83975b24fe21b5117b594f4a9c40ff9b69",
+            "download": {
+                "default": "https://huggingface.co/BanglaLLM/bangla-llama-7b-instruct-v0.1-GGUF/resolve/main/bangla-llama-7b-instruct-v0.1-ft-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "bangla-llama-7b-instruct-v0.1-ft-Q6_K.gguf",
+            "size": "5653654528",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "bb96a001c581d136af6ba8f8871e01f719eeaa697254ce31085509b5facf8723",
+            "download": {
+                "default": "https://huggingface.co/BanglaLLM/bangla-llama-7b-instruct-v0.1-GGUF/resolve/main/bangla-llama-7b-instruct-v0.1-ft-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "bangla-llama-7b-instruct-v0.1-ft-Q8_0.gguf",
+            "size": "7322129088",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "788a4489cd09a8257caecd02c4b48bd8e5816284bfe5023f06461259151ef02e",
+            "download": {
+                "default": "https://huggingface.co/BanglaLLM/bangla-llama-7b-instruct-v0.1-GGUF/resolve/main/bangla-llama-7b-instruct-v0.1-ft-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

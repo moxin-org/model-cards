@@ -1,0 +1,33 @@
+{
+    "id": "namtran/LLaMA-7b-AWQ-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "namtran",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-22T10:41:22Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-q2_k-awq.gguf",
+            "size": "2825940832",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6a17f82e2b9a640b24585f944cea21db8eb32c6a20140c6556543dfafa255386",
+            "download": {
+                "default": "https://huggingface.co/namtran/LLaMA-7b-AWQ-GGUF/resolve/main/ggml-model-q2_k-awq.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

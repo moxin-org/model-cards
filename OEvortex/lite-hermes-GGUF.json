@@ -1,0 +1,143 @@
+{
+    "id": "OEvortex/lite-hermes-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "OEvortex",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-30T11:43:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "lite-hermes.Q2_K.gguf",
+            "size": "432130912",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "7d336bb532e199cfea79a6affae2e4b44f30ab3ab9307661faf3f3c5aa7fe90e",
+            "download": {
+                "default": "https://huggingface.co/OEvortex/lite-hermes-GGUF/resolve/main/lite-hermes.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "lite-hermes.Q3_K_M.gguf",
+            "size": "548404064",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "b1dfc2b107bd25fd3c916e49ee1cae72d21665371f3985fd3d340c33f0b35e1e",
+            "download": {
+                "default": "https://huggingface.co/OEvortex/lite-hermes-GGUF/resolve/main/lite-hermes.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "lite-hermes.Q4_0.gguf",
+            "size": "636726112",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "b1acca28358ffc0af9f1eb611c63ae8ca2397c61fd85a7008e989f9c7cb07e3e",
+            "download": {
+                "default": "https://huggingface.co/OEvortex/lite-hermes-GGUF/resolve/main/lite-hermes.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "lite-hermes.Q4_1.gguf",
+            "size": "701377376",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "0b74806a7d780e31db10af449ad6d55bb69d3f8ecce3d08606bec2fe4fe1cf14",
+            "download": {
+                "default": "https://huggingface.co/OEvortex/lite-hermes-GGUF/resolve/main/lite-hermes.Q4_1.gguf"
+            }
+        },
+        {
+            "name": "lite-hermes.Q4_K_M.gguf",
+            "size": "667814752",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "883684a815948d7386ac2b7ecd3f62991b24180ed0e2155cb5eef749e269a2ad",
+            "download": {
+                "default": "https://huggingface.co/OEvortex/lite-hermes-GGUF/resolve/main/lite-hermes.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "lite-hermes.Q4_K_S.gguf",
+            "size": "639871840",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "abe1f615bbc32bf59771488a1534ee9bf79d2450000431b32f922edeee9359ec",
+            "download": {
+                "default": "https://huggingface.co/OEvortex/lite-hermes-GGUF/resolve/main/lite-hermes.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "lite-hermes.Q5_0.gguf",
+            "size": "766028640",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "174118a32c59fdd1a82ffc850a031be86cb19cfc3ca7d331dee10f6448db8ce8",
+            "download": {
+                "default": "https://huggingface.co/OEvortex/lite-hermes-GGUF/resolve/main/lite-hermes.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "lite-hermes.Q5_1.gguf",
+            "size": "830679904",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "3c527c178455f2eb3ce5b3aecdfacdb5019c387e74c1ea4bb2f9ccc04d81cf84",
+            "download": {
+                "default": "https://huggingface.co/OEvortex/lite-hermes-GGUF/resolve/main/lite-hermes.Q5_1.gguf"
+            }
+        },
+        {
+            "name": "lite-hermes.Q5_K_M.gguf",
+            "size": "782044000",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "b7e1e132471e8729f7d26e406fd0d953ec69f9c9fc231a0a3d43b8097aefaa3d",
+            "download": {
+                "default": "https://huggingface.co/OEvortex/lite-hermes-GGUF/resolve/main/lite-hermes.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "lite-hermes.Q5_K_S.gguf",
+            "size": "766028640",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "b1fda3d0591f418bc41a3e980080400fcd14c6ee90cf907cb15b1352acd7a8d7",
+            "download": {
+                "default": "https://huggingface.co/OEvortex/lite-hermes-GGUF/resolve/main/lite-hermes.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "lite-hermes.Q6_K.gguf",
+            "size": "903412576",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "66530fac5785cb9782f49da3790ac58960fd73da5343464bff757f07361bb3c4",
+            "download": {
+                "default": "https://huggingface.co/OEvortex/lite-hermes-GGUF/resolve/main/lite-hermes.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "lite-hermes.Q8_0.gguf",
+            "size": "1169808224",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "0a43add107ea3cbac0549352fc078e4e9997d7ada6481120ddd42bd1dc946f7d",
+            "download": {
+                "default": "https://huggingface.co/OEvortex/lite-hermes-GGUF/resolve/main/lite-hermes.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

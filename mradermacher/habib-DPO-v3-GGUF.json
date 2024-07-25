@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/habib-DPO-v3-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-09T15:56:20Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "habib-DPO-v3.IQ3_M.gguf",
+            "size": "3284891840",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "d49be5e4f34e7b144b35164e972a6bb30aa5be7ba9abd128d39d7aea021759f3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/habib-DPO-v3-GGUF/resolve/main/habib-DPO-v3.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "habib-DPO-v3.IQ3_S.gguf",
+            "size": "3182393536",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "02441680f23227e8bbe3c9777369766680ab7d2cf4d5be404c543912f482ffc0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/habib-DPO-v3-GGUF/resolve/main/habib-DPO-v3.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "habib-DPO-v3.IQ3_XS.gguf",
+            "size": "3018815680",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "6e0ad13179739621382de8e5e18208e533f5037d37d3bc8d2dd66c193caa5e50",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/habib-DPO-v3-GGUF/resolve/main/habib-DPO-v3.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "habib-DPO-v3.IQ4_XS.gguf",
+            "size": "3944388800",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "7be35cfdfc9b7c0920b1af28f06d3ae8be64ae5a954a95f21412cc8b9872ff12",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/habib-DPO-v3-GGUF/resolve/main/habib-DPO-v3.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "habib-DPO-v3.Q2_K.gguf",
+            "size": "2719242432",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "6888464eebf2cd0b6b08606195086d6a02cdb0453ab8a38dd780f5b4d016d612",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/habib-DPO-v3-GGUF/resolve/main/habib-DPO-v3.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "habib-DPO-v3.Q3_K_L.gguf",
+            "size": "3822024896",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "f0567614471e38892f44b076e2026f99a9bc2164ebc3ce0a92e87c4fa17e243b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/habib-DPO-v3-GGUF/resolve/main/habib-DPO-v3.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "habib-DPO-v3.Q3_K_M.gguf",
+            "size": "3518986432",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "9dd15d197ca17778ddc2499ca24feaf92e7ba47c50857240457d161833b41632",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/habib-DPO-v3-GGUF/resolve/main/habib-DPO-v3.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "habib-DPO-v3.Q3_K_S.gguf",
+            "size": "3164567744",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "7d7f4981184bcacb95222f936f6899e9feda854a545ad180b9b04e00cc751635",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/habib-DPO-v3-GGUF/resolve/main/habib-DPO-v3.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "habib-DPO-v3.Q4_K_M.gguf",
+            "size": "4368439488",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a9f1a02cda2c70e0cce640910e402aa15207cd21346949a44c9e608fe732d071",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/habib-DPO-v3-GGUF/resolve/main/habib-DPO-v3.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "habib-DPO-v3.Q4_K_S.gguf",
+            "size": "4140374208",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "cd4464c279095b429d3ed38d1b1b19957b8e374fdfb40347328e21a421ae8101",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/habib-DPO-v3-GGUF/resolve/main/habib-DPO-v3.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "habib-DPO-v3.Q5_K_M.gguf",
+            "size": "5131409600",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "1739ef2068782a1c7055057575417b04a74f34a35cd9cbca749d616df8f00dab",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/habib-DPO-v3-GGUF/resolve/main/habib-DPO-v3.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "habib-DPO-v3.Q5_K_S.gguf",
+            "size": "4997716160",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "7b5a0aad5849953e4cc9d5ffa94659150f0e7edfdffdba9add19ee0802f1868a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/habib-DPO-v3-GGUF/resolve/main/habib-DPO-v3.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "habib-DPO-v3.Q6_K.gguf",
+            "size": "5942065344",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "3c882a8e285db90760bfdf8d7bf06db58e6c45205efc66917f5752d4e4630da0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/habib-DPO-v3-GGUF/resolve/main/habib-DPO-v3.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "habib-DPO-v3.Q8_0.gguf",
+            "size": "7695857856",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "afae85e262c50523700db9cfd47c616aef2b129813f665aa802b30bbb842e9ab",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/habib-DPO-v3-GGUF/resolve/main/habib-DPO-v3.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

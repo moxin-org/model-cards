@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/Mistral-7B-KNUT-ref-ALL-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-24T00:34:42Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Mistral-7B-KNUT-ref-ALL.IQ3_M.gguf",
+            "size": "3439515904",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "b0de4bdb39546aac7f69eb6971986cb53286fba3d9d220c74aacdea262625f0a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-7B-KNUT-ref-ALL-GGUF/resolve/main/Mistral-7B-KNUT-ref-ALL.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-KNUT-ref-ALL.IQ3_S.gguf",
+            "size": "3337017600",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "215a03e43a8e7c620714029b17ff48856216497b3ebc2aa1f3a029f2b4580f57",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-7B-KNUT-ref-ALL-GGUF/resolve/main/Mistral-7B-KNUT-ref-ALL.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-KNUT-ref-ALL.IQ3_XS.gguf",
+            "size": "3155613952",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "158a9d8239b2624c23611b26a7d96839c33af6dbb9e3c425e9c8738854406ccc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-7B-KNUT-ref-ALL-GGUF/resolve/main/Mistral-7B-KNUT-ref-ALL.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-KNUT-ref-ALL.IQ4_NL.gguf",
+            "size": "4309678336",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "8af9945aae34d3fc4ae1bd14cb2d559f8aca0aa1777d6de8b8abaf723f44461b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-7B-KNUT-ref-ALL-GGUF/resolve/main/Mistral-7B-KNUT-ref-ALL.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-KNUT-ref-ALL.IQ4_XS.gguf",
+            "size": "4099012864",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "e6357254504fcacda34bfca413ae9c401af206ff93f0a53eb326e0c89c259d58",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-7B-KNUT-ref-ALL-GGUF/resolve/main/Mistral-7B-KNUT-ref-ALL.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-KNUT-ref-ALL.Q2_K.gguf",
+            "size": "2873866496",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "43d60ae6162ff8434c73bba9c4bea4bbdc7457b9365ed40d04a1958ce6f08f48",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-7B-KNUT-ref-ALL-GGUF/resolve/main/Mistral-7B-KNUT-ref-ALL.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-KNUT-ref-ALL.Q3_K_L.gguf",
+            "size": "3976648960",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "d09f22bdeeb729158dc2d03159ad0f531d6925e6c57e407e8cade38681522cdf",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-7B-KNUT-ref-ALL-GGUF/resolve/main/Mistral-7B-KNUT-ref-ALL.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-KNUT-ref-ALL.Q3_K_M.gguf",
+            "size": "3673610496",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "c94fdc6812a2b34b4a88d36711fc1a3206cdd4da0dff5d6b9390698808a7d7b9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-7B-KNUT-ref-ALL-GGUF/resolve/main/Mistral-7B-KNUT-ref-ALL.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-KNUT-ref-ALL.Q3_K_S.gguf",
+            "size": "3319191808",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "f1893b6e9ad7ea8dac905e2340f51c16aa67eca499eef602f62ead3a2ffef81d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-7B-KNUT-ref-ALL-GGUF/resolve/main/Mistral-7B-KNUT-ref-ALL.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-KNUT-ref-ALL.Q4_0.gguf",
+            "size": "4263540992",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "ee44bf867a2921db538b4651f341bcbb0771c56ce0a75df3ac2b9f65ada4bdc9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-7B-KNUT-ref-ALL-GGUF/resolve/main/Mistral-7B-KNUT-ref-ALL.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-KNUT-ref-ALL.Q4_K_M.gguf",
+            "size": "4523063552",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "387d749975ddb2e2375d499216d364b96922ec078ff86605513e7b3331be98dd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-7B-KNUT-ref-ALL-GGUF/resolve/main/Mistral-7B-KNUT-ref-ALL.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-KNUT-ref-ALL.Q4_K_S.gguf",
+            "size": "4294998272",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "c22ea28cfe0b6ed45a17434d7a68747f0ee62c14b7e912760bffd784203efaaa",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-7B-KNUT-ref-ALL-GGUF/resolve/main/Mistral-7B-KNUT-ref-ALL.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-KNUT-ref-ALL.Q5_K_M.gguf",
+            "size": "5286033664",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "313def302d99465ae316529c0a6664b1bedbfc0a2a80dbf295d24497aef8e5a8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-7B-KNUT-ref-ALL-GGUF/resolve/main/Mistral-7B-KNUT-ref-ALL.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-KNUT-ref-ALL.Q5_K_S.gguf",
+            "size": "5152340224",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "f6a21f7e5404beb0657e033f22ba5f545b2530266946905a2bba8ec8585bf28a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-7B-KNUT-ref-ALL-GGUF/resolve/main/Mistral-7B-KNUT-ref-ALL.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-KNUT-ref-ALL.Q6_K.gguf",
+            "size": "6096689408",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "8506d6a36a27ff32bf7b85e07d911627fbeb6821c3d0f5c3a4397836d4e65e2a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-7B-KNUT-ref-ALL-GGUF/resolve/main/Mistral-7B-KNUT-ref-ALL.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Mistral-7B-KNUT-ref-ALL.Q8_0.gguf",
+            "size": "7818737920",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "c7de0b2c6972c538cbe5d4105fa736f57fe1cbb3a4c40c1e786fb0cc0a6f70eb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mistral-7B-KNUT-ref-ALL-GGUF/resolve/main/Mistral-7B-KNUT-ref-ALL.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

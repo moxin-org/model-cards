@@ -1,0 +1,243 @@
+{
+    "id": "RichardErkhov/Llama-2-7b-chat-hf-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "RichardErkhov",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-27T15:10:10Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Llama-2-7b-chat-hf.Q4_0.gguf",
+            "size": "3825808000",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "9fc9bea3a96d651e6325f6758f744db96d7c72abaff2a1aea00a6264b20eb8c1",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Llama-2-7b-chat-hf-gguf/resolve/main/Llama-2-7b-chat-hf.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.Q6_K.gguf",
+            "size": "5529195136",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "0af46fb27196d046ec62e5ed3b9b19e3be60651e15faf32a6fa8b08a94905e0c",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Llama-2-7b-chat-hf-gguf/resolve/main/Llama-2-7b-chat-hf.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.Q5_K.gguf",
+            "size": "4783157888",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "4bddb19dfa209479db36593a663d2b4635e1cbe8b0d3bf7ccaeea55aca7f75e6",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Llama-2-7b-chat-hf-gguf/resolve/main/Llama-2-7b-chat-hf.Q5_K.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.Q5_K_S.gguf",
+            "size": "4651692672",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "3f6e9414c9e97b794d04d5bba1020a2f3f724244afb4a794ca6653bd8570536c",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Llama-2-7b-chat-hf-gguf/resolve/main/Llama-2-7b-chat-hf.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.Q5_K_M.gguf",
+            "size": "4783157888",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "4bddb19dfa209479db36593a663d2b4635e1cbe8b0d3bf7ccaeea55aca7f75e6",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Llama-2-7b-chat-hf-gguf/resolve/main/Llama-2-7b-chat-hf.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.Q5_1.gguf",
+            "size": "5064635008",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "f9ec34138bc7c58491c319718627f69a4c7830d7d650438995796ce6d4197762",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Llama-2-7b-chat-hf-gguf/resolve/main/Llama-2-7b-chat-hf.Q5_1.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.Q5_0.gguf",
+            "size": "4651692672",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "850b9cfccce34f2083a062e48ebeede15e236b698dcb9e03df78f7601983d860",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Llama-2-7b-chat-hf-gguf/resolve/main/Llama-2-7b-chat-hf.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.Q4_K.gguf",
+            "size": "4081005184",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "c4ce5b1613e6875035095b2ae91062be3bb6586bd41e713f874599dd5fba278d",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Llama-2-7b-chat-hf-gguf/resolve/main/Llama-2-7b-chat-hf.Q4_K.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.Q4_K_S.gguf",
+            "size": "3856740992",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "9b1d1e1bb0ea5f353d48ff78d34b28d514b03abcb7645c79dfd58bd2ffe416e5",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Llama-2-7b-chat-hf-gguf/resolve/main/Llama-2-7b-chat-hf.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.Q4_K_M.gguf",
+            "size": "4081005184",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c4ce5b1613e6875035095b2ae91062be3bb6586bd41e713f874599dd5fba278d",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Llama-2-7b-chat-hf-gguf/resolve/main/Llama-2-7b-chat-hf.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.Q4_1.gguf",
+            "size": "4238750336",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "126123b0d1184356ae1ec9192767abdd23c15c5d109b8359e8b082ce84adf161",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Llama-2-7b-chat-hf-gguf/resolve/main/Llama-2-7b-chat-hf.Q4_1.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.fp16.gguf",
+            "size": "13478105696",
+            "quantization": "",
+            "tags": [],
+            "sha256": "23007e0c21faf4845ef8a04610c4f798d0314f9d3765fe36b1710e0294309af2",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Llama-2-7b-chat-hf-gguf/resolve/main/Llama-2-7b-chat-hf.fp16.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.Q3_K.gguf",
+            "size": "3298005632",
+            "quantization": "Q3_K",
+            "tags": [],
+            "sha256": "702d4a49251cc1ccc4754bfe7f0100eab972ac76cdcddc256c68034269e3b722",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Llama-2-7b-chat-hf-gguf/resolve/main/Llama-2-7b-chat-hf.Q3_K.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.Q3_K_S.gguf",
+            "size": "2948305536",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "ed85eaaf91d937b1a1ae11beee19c56b13ed97e2d5b3f5fd32cb9c21a6b0bd23",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Llama-2-7b-chat-hf-gguf/resolve/main/Llama-2-7b-chat-hf.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.Q3_K_M.gguf",
+            "size": "3298005632",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "702d4a49251cc1ccc4754bfe7f0100eab972ac76cdcddc256c68034269e3b722",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Llama-2-7b-chat-hf-gguf/resolve/main/Llama-2-7b-chat-hf.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.Q3_K_L.gguf",
+            "size": "3597111936",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "05caea59cf549aaac1401d1d17614a1d39011a2e6928094c651896c7fad81b01",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Llama-2-7b-chat-hf-gguf/resolve/main/Llama-2-7b-chat-hf.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.Q2_K.gguf",
+            "size": "2532864640",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "40ce655fcb22434e88eedf42deca57e7c00adc999368c9fe845db18ee47d74db",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Llama-2-7b-chat-hf-gguf/resolve/main/Llama-2-7b-chat-hf.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.IQ4_XS.gguf",
+            "size": "3647517312",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "49dc1b718741f7358359f748188a31ff565fd4d01bbf2188078ab8821495d4d6",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Llama-2-7b-chat-hf-gguf/resolve/main/Llama-2-7b-chat-hf.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.IQ4_NL.gguf",
+            "size": "3848352384",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "e3717bcf1093c75baa6a9964b6ec844c7f28aced4ed1794bdc60529897ab83ba",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Llama-2-7b-chat-hf-gguf/resolve/main/Llama-2-7b-chat-hf.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.IQ3_XS.gguf",
+            "size": "2796524160",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "6f9291d5d657d439dbf5603674bb7b1647cbe643e0ebca071068e1c6c80a99bf",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Llama-2-7b-chat-hf-gguf/resolve/main/Llama-2-7b-chat-hf.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.IQ3_S.gguf",
+            "size": "2948305536",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "387803662edd943c0d6e6f184bf078d7efaacc7ef90c6886b1ca2e0ffd1bb3a0",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Llama-2-7b-chat-hf-gguf/resolve/main/Llama-2-7b-chat-hf.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Llama-2-7b-chat-hf.IQ3_M.gguf",
+            "size": "3114865280",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "10b908cd626dac529f7e2336fdc9a54df40057621e6e28a5050c024451317a18",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Llama-2-7b-chat-hf-gguf/resolve/main/Llama-2-7b-chat-hf.IQ3_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

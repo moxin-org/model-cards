@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/Dolphin-Llama-13B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-19T22:55:17Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "dolphin-llama-13b.Q2_K.gguf",
+            "size": "5429348256",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a2fc0403c4979660ad604dc28887d20df1657a96ca7ace416a003dab843d4eaa",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGUF/resolve/main/dolphin-llama-13b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "dolphin-llama-13b.Q3_K_L.gguf",
+            "size": "6929559456",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "a21022f32eca742e9471218f0a910cd9989eba202005f2cd2d270cef8bdf580b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGUF/resolve/main/dolphin-llama-13b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "dolphin-llama-13b.Q3_K_M.gguf",
+            "size": "6337769376",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "a95a38aab2ddcc7f04c49d3a03fc8a373d6c9b07775ed3ec863f0231c7b85a88",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGUF/resolve/main/dolphin-llama-13b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "dolphin-llama-13b.Q3_K_S.gguf",
+            "size": "5658980256",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "241d1364cced7a16c75b1ed29bc0cbe7005d21a467d37963855eb6c8740f0ef6",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGUF/resolve/main/dolphin-llama-13b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "dolphin-llama-13b.Q4_0.gguf",
+            "size": "7365834656",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "0d91eff1ef544f08289555582515da0ade418fb6afc0a0635ce0970a98a2d262",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGUF/resolve/main/dolphin-llama-13b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "dolphin-llama-13b.Q4_K_M.gguf",
+            "size": "7865956256",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a2ae3033d4188bc75406b23c80c8830630e76fa74dd5d874e50e52cc74c4a8e4",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGUF/resolve/main/dolphin-llama-13b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "dolphin-llama-13b.Q4_K_S.gguf",
+            "size": "7414331296",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "e44cd4e1083b8ba031edbf428f67ddada971d4ddbdadda0d18091c5feabf2a2c",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGUF/resolve/main/dolphin-llama-13b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "dolphin-llama-13b.Q5_0.gguf",
+            "size": "8972285856",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "7eb0b9b68cbee65cca7bf0ea2ef1650fbf6f6aa3f286e444f097a657153ab8f5",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGUF/resolve/main/dolphin-llama-13b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "dolphin-llama-13b.Q5_K_M.gguf",
+            "size": "9229924256",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "9ffcf2d065dfb165b3a110134b1acf838eaa434be65f080bfe23ff1a263b64ea",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGUF/resolve/main/dolphin-llama-13b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "dolphin-llama-13b.Q5_K_S.gguf",
+            "size": "8972285856",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "8445adf2eed1378e7233f60c9b562bd8070ac3f0f5d02f891993d476fdd8a4eb",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGUF/resolve/main/dolphin-llama-13b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "dolphin-llama-13b.Q6_K.gguf",
+            "size": "10679140256",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "ea8b7f8c688afd49c5bf0d14f0298c207db2f829229f4fa5a506270edeeada5a",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGUF/resolve/main/dolphin-llama-13b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "dolphin-llama-13b.Q8_0.gguf",
+            "size": "13831319456",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "47d867de2f5ebad9222f50ea482c4a5e8501432b3cfd3a8fd6f16154ad24f54b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGUF/resolve/main/dolphin-llama-13b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

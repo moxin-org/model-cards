@@ -1,0 +1,43 @@
+{
+    "id": "mizy/oppo-7b-q4_0-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mizy",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-21T11:12:45Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "oppo-7b-ggml-model-q4_0.gguf",
+            "size": "4358638944",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d40df8a0fda72137c6f2af2a1827ddad08c08537a910a1e44337cee17a40a0e3",
+            "download": {
+                "default": "https://huggingface.co/mizy/oppo-7b-q4_0-gguf/resolve/main/oppo-7b-ggml-model-q4_0.gguf"
+            }
+        },
+        {
+            "name": "oppo-7b-q4_k_m.gguf",
+            "size": "4613836192",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ea7dbce97f4ab92e1fccce149dc025aaac1273f31050b3d7f811755014d8e103",
+            "download": {
+                "default": "https://huggingface.co/mizy/oppo-7b-q4_0-gguf/resolve/main/oppo-7b-q4_k_m.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

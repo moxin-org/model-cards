@@ -1,0 +1,63 @@
+{
+    "id": "janhq/stealth-finance-v3-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "janhq",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-17T05:39:51Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "stealth-finance-v3.Q3_K_M.gguf",
+            "size": "3519922464",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "d1238947fbfa12c7f033157dd319dc23b77999e4adc1de682ccacde89d35b33a",
+            "download": {
+                "default": "https://huggingface.co/janhq/stealth-finance-v3-GGUF/resolve/main/stealth-finance-v3.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "stealth-finance-v3.Q4_K_M.gguf",
+            "size": "4369375520",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "9c48bb9848a4fc1fa362b69570189d73f5c498cec1d5973894fb9f387fed5411",
+            "download": {
+                "default": "https://huggingface.co/janhq/stealth-finance-v3-GGUF/resolve/main/stealth-finance-v3.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "stealth-finance-v3.Q5_K_M.gguf",
+            "size": "5132345632",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "bdb1f64855bf1f6d29a895137b5b8cd21032b5f32886e0045fb03009b763632b",
+            "download": {
+                "default": "https://huggingface.co/janhq/stealth-finance-v3-GGUF/resolve/main/stealth-finance-v3.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "stealth-finance-v3.Q8_0.gguf",
+            "size": "7696793888",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "429ebbd97a015df950c77ee74dff53a21187a347cb7ca62b56d30c79948bf6ec",
+            "download": {
+                "default": "https://huggingface.co/janhq/stealth-finance-v3-GGUF/resolve/main/stealth-finance-v3.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,213 @@
+{
+    "id": "mradermacher/Etheria-55b-v0.1-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-22T11:22:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Etheria-55b-v0.1.i1-IQ4_XS.gguf",
+            "size": "30323496416",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "f5aa9cff59ca6431a8c2887c04fab70d756b0dbcfdd4b6b3759a7d13018beb53",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Etheria-55b-v0.1-i1-GGUF/resolve/main/Etheria-55b-v0.1.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Etheria-55b-v0.1.i1-Q6_K.gguf",
+            "size": "46146344480",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "c356d355c5701222cbd4b2d9c1fd855cd9923053571f9d48ca054f6fb508a906",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Etheria-55b-v0.1-i1-GGUF/resolve/main/Etheria-55b-v0.1.i1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Etheria-55b-v0.1.i1-Q5_K_S.gguf",
+            "size": "38824746656",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "6d2d0cc4ad7d1d6f3e2e0d96498b0f4f4d7db380c97f92c4535fc8de8e672548",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Etheria-55b-v0.1-i1-GGUF/resolve/main/Etheria-55b-v0.1.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Etheria-55b-v0.1.i1-Q5_K_M.gguf",
+            "size": "39827865248",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "529913d6015e76f9a0c311bd6b3c986c32614799bdc7805ccc0fc331a4d621a2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Etheria-55b-v0.1-i1-GGUF/resolve/main/Etheria-55b-v0.1.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Etheria-55b-v0.1.i1-Q4_K_S.gguf",
+            "size": "32157702048",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "6b3e59bf2c9606a143b45c37f31fbef17981a53f151c4458f82172cdf43731fa",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Etheria-55b-v0.1-i1-GGUF/resolve/main/Etheria-55b-v0.1.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Etheria-55b-v0.1.i1-Q4_K_M.gguf",
+            "size": "33881061280",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "ca5fc78434d7b487496317d0ca261c3f05c1bcf3040017675edf40f48184ebaf",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Etheria-55b-v0.1-i1-GGUF/resolve/main/Etheria-55b-v0.1.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Etheria-55b-v0.1.i1-Q3_K_S.gguf",
+            "size": "24612233280",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "90ff96e04916b4a184e2cbffcffee51cab03788f06943dd6897832ced132512d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Etheria-55b-v0.1-i1-GGUF/resolve/main/Etheria-55b-v0.1.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Etheria-55b-v0.1.i1-Q3_K_M.gguf",
+            "size": "27399151680",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "b5fd163afd445e7190bfd89cd6a626a5a204c64cf03074905184ff38d1946e13",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Etheria-55b-v0.1-i1-GGUF/resolve/main/Etheria-55b-v0.1.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Etheria-55b-v0.1.i1-Q3_K_L.gguf",
+            "size": "29804847168",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "beb2787182a2669f204edb5d8baaec62a724033b2327cf360edccd66834f3717",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Etheria-55b-v0.1-i1-GGUF/resolve/main/Etheria-55b-v0.1.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Etheria-55b-v0.1.i1-Q2_K.gguf",
+            "size": "21154474624",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "2995b53a9ebf7ff814bfd35c56604b404c5910b7005ff69c0df093811963d3b4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Etheria-55b-v0.1-i1-GGUF/resolve/main/Etheria-55b-v0.1.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Etheria-55b-v0.1.i1-IQ1_S.gguf",
+            "size": "12565490304",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "aca9535b8cbf654adbda3f4d3475af46be279214d1c9abe82cd62d55eeb513b7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Etheria-55b-v0.1-i1-GGUF/resolve/main/Etheria-55b-v0.1.i1-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "Etheria-55b-v0.1.i1-IQ3_XXS.gguf",
+            "size": "22055264320",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "8c1524abf35ef8a712ed09aa86047ad0bb9148f02be258fc2e088b54721283f1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Etheria-55b-v0.1-i1-GGUF/resolve/main/Etheria-55b-v0.1.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "Etheria-55b-v0.1.i1-IQ3_XS.gguf",
+            "size": "23337820224",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "93f94ef052c068a35300ff255535c945fb22654e50b94133d2ce926d9b1b3e47",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Etheria-55b-v0.1-i1-GGUF/resolve/main/Etheria-55b-v0.1.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Etheria-55b-v0.1.i1-IQ3_S.gguf",
+            "size": "24707768384",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "ee48e1fbfa6da09296e1a3b1a75217f62e4553baeeeb01c28a311e9b3585a9db",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Etheria-55b-v0.1-i1-GGUF/resolve/main/Etheria-55b-v0.1.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Etheria-55b-v0.1.i1-IQ3_M.gguf",
+            "size": "25610477632",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "5277105b0efd0fe24a2f29e2a7fe42f156e2b232b6017aaa5ce58f2d83e3b0d4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Etheria-55b-v0.1-i1-GGUF/resolve/main/Etheria-55b-v0.1.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Etheria-55b-v0.1.i1-IQ2_XXS.gguf",
+            "size": "15512513152",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "67ce1fc2daac9b14e571aeeb05d0936284a66051124156046dc3c86bc0688f11",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Etheria-55b-v0.1-i1-GGUF/resolve/main/Etheria-55b-v0.1.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "Etheria-55b-v0.1.i1-IQ2_XS.gguf",
+            "size": "17143376512",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "894e083d4697b5eda511910da0942a7b1babf92d61cea28700459e6f3071d776",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Etheria-55b-v0.1-i1-GGUF/resolve/main/Etheria-55b-v0.1.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Etheria-55b-v0.1.i1-IQ2_S.gguf",
+            "size": "18076966976",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "b6b123e0552f502c61cb2e134d098d3043187419afc9fde8ce94044d4f1f1e58",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Etheria-55b-v0.1-i1-GGUF/resolve/main/Etheria-55b-v0.1.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "Etheria-55b-v0.1.i1-IQ2_M.gguf",
+            "size": "19550478400",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "3237eb9456ee44f19646ccf36e69e90cf07f9f70b0bae615d87878b87fd7cf0b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Etheria-55b-v0.1-i1-GGUF/resolve/main/Etheria-55b-v0.1.i1-IQ2_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

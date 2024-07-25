@@ -1,0 +1,93 @@
+{
+    "id": "s3nh/TencentARC-LLaMA-Pro-8B-Instruct-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-07T09:33:52Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "TencentARC-LLaMA-Pro-8B-Instruct.Q2_K.gguf",
+            "size": "3494608768",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "9d8e7770c6fde0ec4e10cc16476072755eb1d7a6aad473cdd2e24d2b4feded6d",
+            "download": {
+                "default": "https://huggingface.co/s3nh/TencentARC-LLaMA-Pro-8B-Instruct-GGUF/resolve/main/TencentARC-LLaMA-Pro-8B-Instruct.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "TencentARC-LLaMA-Pro-8B-Instruct.Q3_K_S.gguf",
+            "size": "3644235648",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "6aa788f23cf831acfc5128b87e7e4d68bf369ce0d56ef3900955cfc430be154e",
+            "download": {
+                "default": "https://huggingface.co/s3nh/TencentARC-LLaMA-Pro-8B-Instruct-GGUF/resolve/main/TencentARC-LLaMA-Pro-8B-Instruct.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "TencentARC-LLaMA-Pro-8B-Instruct.Q4_K_M.gguf",
+            "size": "5055758208",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e8b8cdc38382cb2f8f7c3a9b329688f0d7a2cc6f77374f3a801ef545e4ba1a8f",
+            "download": {
+                "default": "https://huggingface.co/s3nh/TencentARC-LLaMA-Pro-8B-Instruct-GGUF/resolve/main/TencentARC-LLaMA-Pro-8B-Instruct.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "TencentARC-LLaMA-Pro-8B-Instruct.Q4_K_S.gguf",
+            "size": "4767694720",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "cef34a89c5b8da4c895289e0be151d758b5535c3af9c94e4064926607493e750",
+            "download": {
+                "default": "https://huggingface.co/s3nh/TencentARC-LLaMA-Pro-8B-Instruct-GGUF/resolve/main/TencentARC-LLaMA-Pro-8B-Instruct.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "TencentARC-LLaMA-Pro-8B-Instruct.Q5_K_S.gguf",
+            "size": "5765021568",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "df03bc8b7daae55b3ffc837dc0d04921b7d12dc7aae0ddf39b4453275906c7d1",
+            "download": {
+                "default": "https://huggingface.co/s3nh/TencentARC-LLaMA-Pro-8B-Instruct-GGUF/resolve/main/TencentARC-LLaMA-Pro-8B-Instruct.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "TencentARC-LLaMA-Pro-8B-Instruct.Q6_K.gguf",
+            "size": "6857547648",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "56d9e89b9ff0308789903a02192369c0cf7d7778afc47eb341038e7986d1a384",
+            "download": {
+                "default": "https://huggingface.co/s3nh/TencentARC-LLaMA-Pro-8B-Instruct-GGUF/resolve/main/TencentARC-LLaMA-Pro-8B-Instruct.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "TencentARC-LLaMA-Pro-8B-Instruct.Q8_0.gguf",
+            "size": "8881545088",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "c91fc6ce7c92d67fae1b7a0b2e78e1a11e07824c48e480dc873f6b16b94541f0",
+            "download": {
+                "default": "https://huggingface.co/s3nh/TencentARC-LLaMA-Pro-8B-Instruct-GGUF/resolve/main/TencentARC-LLaMA-Pro-8B-Instruct.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

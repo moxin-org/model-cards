@@ -1,0 +1,153 @@
+{
+    "id": "second-state/Phi-3-medium-128k-instruct-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-05-22T09:13:56Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Phi-3-medium-128k-instruct-f16.gguf",
+            "size": "27922046720",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9d44b5302a369a2c7da61f6bc1850be70f7777d70a3446afde0fd91ffc8c7a02",
+            "download": {
+                "default": "https://huggingface.co/second-state/Phi-3-medium-128k-instruct-GGUF/resolve/main/Phi-3-medium-128k-instruct-f16.gguf"
+            }
+        },
+        {
+            "name": "Phi-3-medium-128k-instruct-Q2_K.gguf",
+            "size": "5143000320",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "b51e7274a0b922775d9cbee037cbbe0032d225da94142d324aa3aae83aea155b",
+            "download": {
+                "default": "https://huggingface.co/second-state/Phi-3-medium-128k-instruct-GGUF/resolve/main/Phi-3-medium-128k-instruct-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Phi-3-medium-128k-instruct-Q3_K_L.gguf",
+            "size": "7490297600",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "3282a2ffd627a7b76183e5e9058fd16c4b451b815ed1b10ad4b3111b10ae4ab4",
+            "download": {
+                "default": "https://huggingface.co/second-state/Phi-3-medium-128k-instruct-GGUF/resolve/main/Phi-3-medium-128k-instruct-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Phi-3-medium-128k-instruct-Q3_K_M.gguf",
+            "size": "6923411200",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ed9b1fc55548057891bd6343a523aee62e90d05855ffdfc0959ae1f88e26bc63",
+            "download": {
+                "default": "https://huggingface.co/second-state/Phi-3-medium-128k-instruct-GGUF/resolve/main/Phi-3-medium-128k-instruct-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Phi-3-medium-128k-instruct-Q3_K_S.gguf",
+            "size": "6064889600",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "b670e9c7b2cdb893fd1a241c22dfe351e183e9d05cabb4baa52688848df48639",
+            "download": {
+                "default": "https://huggingface.co/second-state/Phi-3-medium-128k-instruct-GGUF/resolve/main/Phi-3-medium-128k-instruct-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Phi-3-medium-128k-instruct-Q4_0.gguf",
+            "size": "7897125120",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "581133b1d53e26763c6bffbef55d6de306a29a2d08508f3fe8a33a5304be73dc",
+            "download": {
+                "default": "https://huggingface.co/second-state/Phi-3-medium-128k-instruct-GGUF/resolve/main/Phi-3-medium-128k-instruct-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Phi-3-medium-128k-instruct-Q4_K_M.gguf",
+            "size": "8566821120",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "cd56c7f580f8fde9b826a2f9a9866d1b1ecdefd71d54fe85dab0ac1d48a44b60",
+            "download": {
+                "default": "https://huggingface.co/second-state/Phi-3-medium-128k-instruct-GGUF/resolve/main/Phi-3-medium-128k-instruct-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Phi-3-medium-128k-instruct-Q4_K_S.gguf",
+            "size": "7954469120",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "f9e204259e27234919e333f9071b085e68dfdef842c9a5ac1efd43b59ac931ce",
+            "download": {
+                "default": "https://huggingface.co/second-state/Phi-3-medium-128k-instruct-GGUF/resolve/main/Phi-3-medium-128k-instruct-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Phi-3-medium-128k-instruct-Q5_0.gguf",
+            "size": "9621582080",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "13b113b088aa62089f34e18b3c62a0ce0e92026b703a7621cf876feb5d91b458",
+            "download": {
+                "default": "https://huggingface.co/second-state/Phi-3-medium-128k-instruct-GGUF/resolve/main/Phi-3-medium-128k-instruct-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Phi-3-medium-128k-instruct-Q5_K_M.gguf",
+            "size": "10074190080",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "4e79f0520a502c3431dd15dce3a326878701b6621e66e9d372043dea68fb7cb3",
+            "download": {
+                "default": "https://huggingface.co/second-state/Phi-3-medium-128k-instruct-GGUF/resolve/main/Phi-3-medium-128k-instruct-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Phi-3-medium-128k-instruct-Q5_K_S.gguf",
+            "size": "9621582080",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "d1b116035a7fdbaf2be6fe4ab03aeda8ae2778e859cda8ca2f879319a40af86f",
+            "download": {
+                "default": "https://huggingface.co/second-state/Phi-3-medium-128k-instruct-GGUF/resolve/main/Phi-3-medium-128k-instruct-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Phi-3-medium-128k-instruct-Q6_K.gguf",
+            "size": "11453817600",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "d587a58269a310773ff8a100457e5a80adb89e4f315b581c791af42294237aad",
+            "download": {
+                "default": "https://huggingface.co/second-state/Phi-3-medium-128k-instruct-GGUF/resolve/main/Phi-3-medium-128k-instruct-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Phi-3-medium-128k-instruct-Q8_0.gguf",
+            "size": "14834712320",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "5ede258bb159e62b26e0cec7cfc82055a3503caddff8a31eca623433c71bbd01",
+            "download": {
+                "default": "https://huggingface.co/second-state/Phi-3-medium-128k-instruct-GGUF/resolve/main/Phi-3-medium-128k-instruct-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 5120,
+    "vector_size": 0,
+    "metrics": null
+}

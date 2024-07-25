@@ -1,0 +1,233 @@
+{
+    "id": "mradermacher/GPT4-x-AlpacaDente-30b-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-08T18:50:14Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "GPT4-x-AlpacaDente-30b.i1-IQ4_XS.gguf",
+            "size": "17346263456",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "d946f9cb042265391e8269cc0a60f2a99d19568a310aa6cf7b7988232bf06bbf",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-x-AlpacaDente-30b-i1-GGUF/resolve/main/GPT4-x-AlpacaDente-30b.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "GPT4-x-AlpacaDente-30b.i1-Q6_K.gguf",
+            "size": "26687391200",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "c96f8071e2dbb85946c2e6b5b4a69562abf11adcbefd4dd061b8e62d9071f6f5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-x-AlpacaDente-30b-i1-GGUF/resolve/main/GPT4-x-AlpacaDente-30b.i1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "GPT4-x-AlpacaDente-30b.i1-Q5_K_S.gguf",
+            "size": "22395521696",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "d3bfd1dfdb8495f331544ea98ef47b039a6e84b625e3ff7bfc22d798f1bb6f46",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-x-AlpacaDente-30b-i1-GGUF/resolve/main/GPT4-x-AlpacaDente-30b.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "GPT4-x-AlpacaDente-30b.i1-Q5_K_M.gguf",
+            "size": "23047277216",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "87e8c0e77c46655575d8aea7ff0f8b783283bf9f02542c54dd6377f89cc7c48a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-x-AlpacaDente-30b-i1-GGUF/resolve/main/GPT4-x-AlpacaDente-30b.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "GPT4-x-AlpacaDente-30b.i1-Q4_K_S.gguf",
+            "size": "18482632352",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "f6735f8739fcf22a80bc2da13fe99e37255d8ee12c93a28dd700acc4f840ebfc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-x-AlpacaDente-30b-i1-GGUF/resolve/main/GPT4-x-AlpacaDente-30b.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "GPT4-x-AlpacaDente-30b.i1-Q4_K_M.gguf",
+            "size": "19621287584",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a9de621d4ce3ecc53b1a06f908a27926e6e9b67defa9df13a1cd5f7c24305bbe",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-x-AlpacaDente-30b-i1-GGUF/resolve/main/GPT4-x-AlpacaDente-30b.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "GPT4-x-AlpacaDente-30b.i1-Q4_0.gguf",
+            "size": "18408298144",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "ccba7f26dd46ec5687deaa34b20640f0cf700fa95551f590d1f419e4991b6870",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-x-AlpacaDente-30b-i1-GGUF/resolve/main/GPT4-x-AlpacaDente-30b.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "GPT4-x-AlpacaDente-30b.i1-Q3_K_S.gguf",
+            "size": "14064245600",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "b3c5d48224a81a886d693648ad978f062c19c64e3eae3b2ddef91c336edd8a9f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-x-AlpacaDente-30b-i1-GGUF/resolve/main/GPT4-x-AlpacaDente-30b.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "GPT4-x-AlpacaDente-30b.i1-Q3_K_M.gguf",
+            "size": "15776594784",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "0945d8b48f75d5b04481bfacb284a74f8e95aee21d0817671264f04547b651c2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-x-AlpacaDente-30b-i1-GGUF/resolve/main/GPT4-x-AlpacaDente-30b.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "GPT4-x-AlpacaDente-30b.i1-Q3_K_L.gguf",
+            "size": "17279892320",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "07c4e624c12fc884f7b41469dfe3ae30ca02088b30214eed6ab5fec99bc46f3d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-x-AlpacaDente-30b-i1-GGUF/resolve/main/GPT4-x-AlpacaDente-30b.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "GPT4-x-AlpacaDente-30b.i1-Q2_K.gguf",
+            "size": "12048997664",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "efca6e2537955b95d53d98d75fefe46b3a3dee997cff94b97b74fd48c4084779",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-x-AlpacaDente-30b-i1-GGUF/resolve/main/GPT4-x-AlpacaDente-30b.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "GPT4-x-AlpacaDente-30b.i1-IQ1_M.gguf",
+            "size": "7728640480",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "842e8dcff2b32ba386d9c07a9965f5f7e6170b7b0a62298a87b0da5d2a2d9511",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-x-AlpacaDente-30b-i1-GGUF/resolve/main/GPT4-x-AlpacaDente-30b.i1-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "GPT4-x-AlpacaDente-30b.i1-IQ3_XXS.gguf",
+            "size": "12323487776",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "78eb6af2becb3034ea2b5fadc20bd2ba90babe9549e9607ae60676b4316a1d13",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-x-AlpacaDente-30b-i1-GGUF/resolve/main/GPT4-x-AlpacaDente-30b.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "GPT4-x-AlpacaDente-30b.i1-IQ3_XS.gguf",
+            "size": "13311851360",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "b4a4c437025bc295d5d18797d31f3f53769a8c2e745031f00dd559827c12f21f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-x-AlpacaDente-30b-i1-GGUF/resolve/main/GPT4-x-AlpacaDente-30b.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "GPT4-x-AlpacaDente-30b.i1-IQ3_S.gguf",
+            "size": "14064245600",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "89873813216aaf35a282e007c24f5af9ad187d2bbe7e2034521e1a42a5174e85",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-x-AlpacaDente-30b-i1-GGUF/resolve/main/GPT4-x-AlpacaDente-30b.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "GPT4-x-AlpacaDente-30b.i1-IQ3_M.gguf",
+            "size": "14881203040",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "8a59e48c23975704368f2ccfe40b28f3d849f4e04f57fd525261b21b2cd2e5db",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-x-AlpacaDente-30b-i1-GGUF/resolve/main/GPT4-x-AlpacaDente-30b.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "GPT4-x-AlpacaDente-30b.i1-IQ2_XXS.gguf",
+            "size": "8742349280",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "806873d1d57f267a2c0fa05644ed9baee23a54f9bd7858367a9a686d48a98251",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-x-AlpacaDente-30b-i1-GGUF/resolve/main/GPT4-x-AlpacaDente-30b.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "GPT4-x-AlpacaDente-30b.i1-IQ2_XS.gguf",
+            "size": "9636383200",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "6986fde9836a053403e3590750937fc4566f8affcf1902e726e2a382abf44cb9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-x-AlpacaDente-30b-i1-GGUF/resolve/main/GPT4-x-AlpacaDente-30b.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "GPT4-x-AlpacaDente-30b.i1-IQ2_S.gguf",
+            "size": "10386591776",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "b814cda0406c3152bce22356fe872db0b0f5c0d565168b7948da38f54310d490",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-x-AlpacaDente-30b-i1-GGUF/resolve/main/GPT4-x-AlpacaDente-30b.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "GPT4-x-AlpacaDente-30b.i1-IQ2_M.gguf",
+            "size": "11197558816",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "e0d5d81abec0cf91b09316c8287593de8936f44a43f5d765ef14351835afd4de",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-x-AlpacaDente-30b-i1-GGUF/resolve/main/GPT4-x-AlpacaDente-30b.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "GPT4-x-AlpacaDente-30b.i1-IQ1_S.gguf",
+            "size": "7120415200",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "3d6a72c22f6a0992f37cf2aa6cdd85731321a9da46e58651aed2d1af8752869f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/GPT4-x-AlpacaDente-30b-i1-GGUF/resolve/main/GPT4-x-AlpacaDente-30b.i1-IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

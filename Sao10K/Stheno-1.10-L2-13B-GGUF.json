@@ -1,0 +1,73 @@
+{
+    "id": "Sao10K/Stheno-1.10-L2-13B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Sao10K",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-21T15:46:36Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Stheno-1.10-L2-13B.q3_K_M.gguf",
+            "size": "6337769408",
+            "quantization": "",
+            "tags": [],
+            "sha256": "37aaefd8304d694d13e744d552c9d4349e5bb2660c7c93e6f97274eceb699b8a",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Stheno-1.10-L2-13B-GGUF/resolve/main/Stheno-1.10-L2-13B.q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Stheno-1.10-L2-13B.q4_K_S.gguf",
+            "size": "7414331328",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a5b66c373d220322b7c6a6e7a059906b5bc394bee745f525f50a039f1a980baa",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Stheno-1.10-L2-13B-GGUF/resolve/main/Stheno-1.10-L2-13B.q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Stheno-1.10-L2-13B.q5_K_M.gguf",
+            "size": "9229924288",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2ee3978e23e8a2fe3f33d17dd09e36450071981929e43ccc155d483494196a11",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Stheno-1.10-L2-13B-GGUF/resolve/main/Stheno-1.10-L2-13B.q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Stheno-1.10-L2-13B.q6_K.gguf",
+            "size": "10679140288",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b684fad4b6ef1276048b53c827aa4a0ed8c13b29d6b62159423291c6a0d14c70",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Stheno-1.10-L2-13B-GGUF/resolve/main/Stheno-1.10-L2-13B.q6_K.gguf"
+            }
+        },
+        {
+            "name": "Stheno-1.10-L2-13B.q8_0.gguf",
+            "size": "13831319488",
+            "quantization": "",
+            "tags": [],
+            "sha256": "91459df3a6f31edb37905c141fb5c0653bc78e08ad393131ae0c6a6cadfaec38",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Stheno-1.10-L2-13B-GGUF/resolve/main/Stheno-1.10-L2-13B.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

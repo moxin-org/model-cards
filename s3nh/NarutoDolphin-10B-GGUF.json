@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/NarutoDolphin-10B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-14T18:52:55Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "narutodolphin-10b.Q3_K_S.gguf",
+            "size": "4664563744",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "95d9d3e5583600b6d21d0002ae036296ecefda4f1d2b2ea9bde60c223318506a",
+            "download": {
+                "default": "https://huggingface.co/s3nh/NarutoDolphin-10B-GGUF/resolve/main/narutodolphin-10b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "narutodolphin-10b.Q4_K_M.gguf",
+            "size": "6461667360",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5a33a679560ee193e369e4993dad1ae73f0c8c934549147174fda59a1fe96dfa",
+            "download": {
+                "default": "https://huggingface.co/s3nh/NarutoDolphin-10B-GGUF/resolve/main/narutodolphin-10b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "narutodolphin-10b.Q5_K_M.gguf",
+            "size": "7597930528",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "94c506e396cfcd00773fcf52d2b3e96cedf617422d7ee718112bdd5331906eae",
+            "download": {
+                "default": "https://huggingface.co/s3nh/NarutoDolphin-10B-GGUF/resolve/main/narutodolphin-10b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "narutodolphin-10b.Q6_K.gguf",
+            "size": "8805210144",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "07103e690d1c3d9d667207da49e1eeb9a3f2c59fd880c531aab79ab998717b89",
+            "download": {
+                "default": "https://huggingface.co/s3nh/NarutoDolphin-10B-GGUF/resolve/main/narutodolphin-10b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "narutodolphin-10b.Q8_0.gguf",
+            "size": "11404154912",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "e7ee7a8ddc3a6a1f349e1dc235c79848c34cb3c9cff5dd7c6ac3a0bed3b9eded",
+            "download": {
+                "default": "https://huggingface.co/s3nh/NarutoDolphin-10B-GGUF/resolve/main/narutodolphin-10b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

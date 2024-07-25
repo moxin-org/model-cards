@@ -1,0 +1,153 @@
+{
+    "id": "bartowski/ChatHercules-2.5-Mistral-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bartowski",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-05T15:27:46Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ChatHercules-2.5-Mistral-7B-fp16.gguf",
+            "size": "14484731584",
+            "quantization": "",
+            "tags": [],
+            "sha256": "bf1b181e67ec950aa81d5dc1fa0306088373b1e8ea4f87d0d60875bfd5586444",
+            "download": {
+                "default": "https://huggingface.co/bartowski/ChatHercules-2.5-Mistral-7B-GGUF/resolve/main/ChatHercules-2.5-Mistral-7B-fp16.gguf"
+            }
+        },
+        {
+            "name": "ChatHercules-2.5-Mistral-7B-Q2_K.gguf",
+            "size": "2719241984",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "3a8fd80721d24f5c6eeb28c89761af46622a604617e7bfc3ec13140c44201013",
+            "download": {
+                "default": "https://huggingface.co/bartowski/ChatHercules-2.5-Mistral-7B-GGUF/resolve/main/ChatHercules-2.5-Mistral-7B-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "ChatHercules-2.5-Mistral-7B-Q3_K_L.gguf",
+            "size": "3822024448",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "0f60938d79bfab5cc197e8e9734cfd118c9e889bc0c2790d7fb591df5352f375",
+            "download": {
+                "default": "https://huggingface.co/bartowski/ChatHercules-2.5-Mistral-7B-GGUF/resolve/main/ChatHercules-2.5-Mistral-7B-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "ChatHercules-2.5-Mistral-7B-Q3_K_M.gguf",
+            "size": "3518985984",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "8172d393483a074f9f09ff09fc0aacd7fa2ff8f0ea68946a6d8a24b3ba71807f",
+            "download": {
+                "default": "https://huggingface.co/bartowski/ChatHercules-2.5-Mistral-7B-GGUF/resolve/main/ChatHercules-2.5-Mistral-7B-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "ChatHercules-2.5-Mistral-7B-Q3_K_S.gguf",
+            "size": "3164567296",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "1a2b412a816fd0a061f7b5aa5ba12bc83aff727debb7693e6162605e9bf1be9e",
+            "download": {
+                "default": "https://huggingface.co/bartowski/ChatHercules-2.5-Mistral-7B-GGUF/resolve/main/ChatHercules-2.5-Mistral-7B-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "ChatHercules-2.5-Mistral-7B-Q4_0.gguf",
+            "size": "4108916480",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "4e892a7c4fb7de767a08683c3d91197b716731e15ff4a800ec324074a68c00bd",
+            "download": {
+                "default": "https://huggingface.co/bartowski/ChatHercules-2.5-Mistral-7B-GGUF/resolve/main/ChatHercules-2.5-Mistral-7B-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "ChatHercules-2.5-Mistral-7B-Q4_K_M.gguf",
+            "size": "4368439040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4854548523dcea22461b61fbca2c35408621f960b32d1b7cff945d557b0138a2",
+            "download": {
+                "default": "https://huggingface.co/bartowski/ChatHercules-2.5-Mistral-7B-GGUF/resolve/main/ChatHercules-2.5-Mistral-7B-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "ChatHercules-2.5-Mistral-7B-Q4_K_S.gguf",
+            "size": "4140373760",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "3ca0a10b031c7e9935ad0c97d8230bc31e8c7942b90401cc93b4ed92a50c6faf",
+            "download": {
+                "default": "https://huggingface.co/bartowski/ChatHercules-2.5-Mistral-7B-GGUF/resolve/main/ChatHercules-2.5-Mistral-7B-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "ChatHercules-2.5-Mistral-7B-Q5_0.gguf",
+            "size": "4997715712",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "446d2eb3535793d69a9dd890a8a445cb06c67c8523cf99fefa7df6222693ae04",
+            "download": {
+                "default": "https://huggingface.co/bartowski/ChatHercules-2.5-Mistral-7B-GGUF/resolve/main/ChatHercules-2.5-Mistral-7B-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "ChatHercules-2.5-Mistral-7B-Q5_K_M.gguf",
+            "size": "5131409152",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "0c08f879ab41c336a6b84c23e4e2bf4093932e3ff7ee577e91c4c5e5d0426099",
+            "download": {
+                "default": "https://huggingface.co/bartowski/ChatHercules-2.5-Mistral-7B-GGUF/resolve/main/ChatHercules-2.5-Mistral-7B-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "ChatHercules-2.5-Mistral-7B-Q5_K_S.gguf",
+            "size": "4997715712",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "5e854f137947974dcbf1612d7e81e12f6d62fbe51b26b44a44131d598e2eb464",
+            "download": {
+                "default": "https://huggingface.co/bartowski/ChatHercules-2.5-Mistral-7B-GGUF/resolve/main/ChatHercules-2.5-Mistral-7B-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "ChatHercules-2.5-Mistral-7B-Q6_K.gguf",
+            "size": "5942064896",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "fdd9a5e297c8c97d65259e0ae9cf46c0a94330d6f6ceeec21f411fb0eaddd107",
+            "download": {
+                "default": "https://huggingface.co/bartowski/ChatHercules-2.5-Mistral-7B-GGUF/resolve/main/ChatHercules-2.5-Mistral-7B-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "ChatHercules-2.5-Mistral-7B-Q8_0.gguf",
+            "size": "7695857408",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "a8178bca03a99fe478a655889ae7b26d6566a3766842582157432452489532bc",
+            "download": {
+                "default": "https://huggingface.co/bartowski/ChatHercules-2.5-Mistral-7B-GGUF/resolve/main/ChatHercules-2.5-Mistral-7B-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

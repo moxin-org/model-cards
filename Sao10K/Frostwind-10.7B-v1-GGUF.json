@@ -1,0 +1,63 @@
+{
+    "id": "Sao10K/Frostwind-10.7B-v1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Sao10K",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-19T04:47:32Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Frostwind-10.7B-v1.q4_K_S.gguf",
+            "size": "6104777248",
+            "quantization": "",
+            "tags": [],
+            "sha256": "71ca556558231b5c5976ef89d55f75bd3784a3a2ea97cb6c6ab23a3369b87fef",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Frostwind-10.7B-v1-GGUF/resolve/main/Frostwind-10.7B-v1.q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Frostwind-10.7B-v1.q5_K_M.gguf",
+            "size": "7598866976",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dae57001cf653c90b164a897488397a8ec379ec00b6b4aefdc4ab3032f364277",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Frostwind-10.7B-v1-GGUF/resolve/main/Frostwind-10.7B-v1.q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Frostwind-10.7B-v1.q6_K.gguf",
+            "size": "8806146592",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a53c6d2a67ec324e5deba6c2af93838a75823b1157745e85b1a66f8bb27a0ff8",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Frostwind-10.7B-v1-GGUF/resolve/main/Frostwind-10.7B-v1.q6_K.gguf"
+            }
+        },
+        {
+            "name": "Frostwind-10.7B-v1.q8_0.gguf",
+            "size": "11405091360",
+            "quantization": "",
+            "tags": [],
+            "sha256": "15541d59886a6fea29f8de85ed551e6572c39fe5c5e80ab2a15376d950b9500f",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Frostwind-10.7B-v1-GGUF/resolve/main/Frostwind-10.7B-v1.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

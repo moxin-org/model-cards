@@ -1,0 +1,93 @@
+{
+    "id": "afrideva/TinyLlama-1.1B-Chat-v0.4-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-16T08:22:58Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tinyllama-1.1b-chat-v0.4.fp16.gguf",
+            "size": "2201041408",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8dd9c1d6b5e6fa5cae8e17828f4ad73778d1740409ea7ba0b7e75d222bfe5be8",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-Chat-v0.4-GGUF/resolve/main/tinyllama-1.1b-chat-v0.4.fp16.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v0.4.q2_k.gguf",
+            "size": "482149824",
+            "quantization": "",
+            "tags": [],
+            "sha256": "cbb7243d029121e18b735ab951fa81221fcd575914728e49f55e2444d377a9e5",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-Chat-v0.4-GGUF/resolve/main/tinyllama-1.1b-chat-v0.4.q2_k.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v0.4.q3_k_m.gguf",
+            "size": "549853248",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a5bc7f9ce3c18834e64a3d0f66cf0aa326e1e9af7bec9b31e10e48e29554a126",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-Chat-v0.4-GGUF/resolve/main/tinyllama-1.1b-chat-v0.4.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v0.4.q4_k_m.gguf",
+            "size": "667822944",
+            "quantization": "",
+            "tags": [],
+            "sha256": "63f57a0c9bb89ff43ef79543108f08e8200e267bd8d76348631527f67652a507",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-Chat-v0.4-GGUF/resolve/main/tinyllama-1.1b-chat-v0.4.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v0.4.q5_k_m.gguf",
+            "size": "782052960",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6c1c349e9c9bd2e141f44adddce83b67d64b92eca587f726ed9e4b7d62fa49bf",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-Chat-v0.4-GGUF/resolve/main/tinyllama-1.1b-chat-v0.4.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v0.4.q6_k.gguf",
+            "size": "903422368",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e05edacf4f3b4b06e5910ffb2fdbb914c4e53b9618dd5b1eaa87a915e88e5fd3",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-Chat-v0.4-GGUF/resolve/main/tinyllama-1.1b-chat-v0.4.q6_k.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v0.4.q8_0.gguf",
+            "size": "1169820960",
+            "quantization": "",
+            "tags": [],
+            "sha256": "48ee771a6ee54898a7bb10f67bdb8c11b1837d85ed747397fb0379cace5a0ea3",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-Chat-v0.4-GGUF/resolve/main/tinyllama-1.1b-chat-v0.4.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,153 @@
+{
+    "id": "mradermacher/neural-chat-v3-3-8x7b-MoE-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-16T14:59:20Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "neural-chat-v3-3-8x7b-MoE.IQ3_M.gguf",
+            "size": "21583332768",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "8fb3b5a4f348936e6a5a032222b26b378ed49bb5912f0919e3ac68dcad4cc5b5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/neural-chat-v3-3-8x7b-MoE-GGUF/resolve/main/neural-chat-v3-3-8x7b-MoE.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "neural-chat-v3-3-8x7b-MoE.IQ3_S.gguf",
+            "size": "20585088416",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "8ea1c8bb36257e1075fd0104dc211a765db4ecc833241c3bc39a08d6bb25b49e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/neural-chat-v3-3-8x7b-MoE-GGUF/resolve/main/neural-chat-v3-3-8x7b-MoE.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "neural-chat-v3-3-8x7b-MoE.IQ3_XS.gguf",
+            "size": "19436897696",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "e134930325feb7165a67968ef0189b7094d4896698549cf96e9eae6f57f24084",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/neural-chat-v3-3-8x7b-MoE-GGUF/resolve/main/neural-chat-v3-3-8x7b-MoE.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "neural-chat-v3-3-8x7b-MoE.IQ4_XS.gguf",
+            "size": "25526707616",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "b9742525b5db5a6c1f68e907677ae5fa7dfe94b51dcffcd870da4df98ac2821c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/neural-chat-v3-3-8x7b-MoE-GGUF/resolve/main/neural-chat-v3-3-8x7b-MoE.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "neural-chat-v3-3-8x7b-MoE.Q2_K.gguf",
+            "size": "17463797152",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "65d56b3019c0b43e0776bc99c5b3b7e219c5c56b969f19115d637c55df4968f2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/neural-chat-v3-3-8x7b-MoE-GGUF/resolve/main/neural-chat-v3-3-8x7b-MoE.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "neural-chat-v3-3-8x7b-MoE.Q3_K_L.gguf",
+            "size": "24322213280",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "6cf1611c5244b1e4c28a8bc4a5a5678dbf1eb7a2218600fe3d87fdc64f350575",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/neural-chat-v3-3-8x7b-MoE-GGUF/resolve/main/neural-chat-v3-3-8x7b-MoE.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "neural-chat-v3-3-8x7b-MoE.Q3_K_M.gguf",
+            "size": "22699017632",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "a2ea037bb13dea73ffb0e647f2c543d25172b3303df7504ee4ea78e0bf3ed0c1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/neural-chat-v3-3-8x7b-MoE-GGUF/resolve/main/neural-chat-v3-3-8x7b-MoE.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "neural-chat-v3-3-8x7b-MoE.Q3_K_S.gguf",
+            "size": "20585088416",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "f3ab37f10e7878c216388fefea0710b88167b194ca1d0c0d2824c05571f997c8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/neural-chat-v3-3-8x7b-MoE-GGUF/resolve/main/neural-chat-v3-3-8x7b-MoE.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "neural-chat-v3-3-8x7b-MoE.Q4_K_M.gguf",
+            "size": "28601034144",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "68593a92a785580e40d6ea13f1443bcd0d0a1742c3ca24db0079d63874ae28bf",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/neural-chat-v3-3-8x7b-MoE-GGUF/resolve/main/neural-chat-v3-3-8x7b-MoE.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "neural-chat-v3-3-8x7b-MoE.Q4_K_S.gguf",
+            "size": "26898146720",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "126e525b28f86f7a8339f792e7c41f742bdfb04c881544e57186747368ee7d62",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/neural-chat-v3-3-8x7b-MoE-GGUF/resolve/main/neural-chat-v3-3-8x7b-MoE.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "neural-chat-v3-3-8x7b-MoE.Q5_K_M.gguf",
+            "size": "33382147488",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "9a974214f1afd0824abbf2aa0508173c89be1c7f94284c425d64eeabcd156bc3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/neural-chat-v3-3-8x7b-MoE-GGUF/resolve/main/neural-chat-v3-3-8x7b-MoE.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "neural-chat-v3-3-8x7b-MoE.Q5_K_S.gguf",
+            "size": "32383903136",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "165ff962031f2bc05f2204667b56e1dfbcb332e58de7e330f1a638b911e29cda",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/neural-chat-v3-3-8x7b-MoE-GGUF/resolve/main/neural-chat-v3-3-8x7b-MoE.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "neural-chat-v3-3-8x7b-MoE.Q6_K.gguf",
+            "size": "38533383584",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "8a78cab13da09985d8fdcad7253eaa8a2ea88e349dde1182ec40ca35f7ce8247",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/neural-chat-v3-3-8x7b-MoE-GGUF/resolve/main/neural-chat-v3-3-8x7b-MoE.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

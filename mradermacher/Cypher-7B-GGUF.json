@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Cypher-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-05T01:45:10Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Cypher-7B.IQ3_M.gguf",
+            "size": "3284901920",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "321a8fcd82a511b093fdca0b0644086915ef335095e1ff9c37471eb87145206e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Cypher-7B-GGUF/resolve/main/Cypher-7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Cypher-7B.IQ3_S.gguf",
+            "size": "3182403616",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "a6cae97d0bdb9ab0c01b974f59d3d8de2b858979f6fec3264fda84e18919bbca",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Cypher-7B-GGUF/resolve/main/Cypher-7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Cypher-7B.IQ3_XS.gguf",
+            "size": "3018825760",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "5db4e6ac86f1cd089a67605b06736a69d8d7cab8bdbc3c5ee221ab25cf8bacaa",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Cypher-7B-GGUF/resolve/main/Cypher-7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Cypher-7B.IQ4_XS.gguf",
+            "size": "3944399712",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "28780e4cb297022dee622636c4d42745e23257090d43b74bff9f529b6c625df8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Cypher-7B-GGUF/resolve/main/Cypher-7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Cypher-7B.Q2_K.gguf",
+            "size": "2719251680",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "b630e820169661a5671716134ea4f906fc27833c1a0686461c6c082fa0acacae",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Cypher-7B-GGUF/resolve/main/Cypher-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Cypher-7B.Q3_K_L.gguf",
+            "size": "3822034976",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "2389da7c6513baa494c8d92b969e20d91c78e83b85e265c361e416ed1742d2bc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Cypher-7B-GGUF/resolve/main/Cypher-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Cypher-7B.Q3_K_M.gguf",
+            "size": "3518996512",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "14ef77a52264ac4b853ea3a50803aea6486a94ada25a921cfd35fd31634bb14b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Cypher-7B-GGUF/resolve/main/Cypher-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Cypher-7B.Q3_K_S.gguf",
+            "size": "3164577824",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "09edee4bd3d8767a61755529d62a1ada68212593a11f39ebf992e302e653c63a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Cypher-7B-GGUF/resolve/main/Cypher-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Cypher-7B.Q4_K_M.gguf",
+            "size": "4368450656",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "6160e5be2cad0be2959740a2c8471e2770c3c96204e2394b6e472b82dd2443e1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Cypher-7B-GGUF/resolve/main/Cypher-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Cypher-7B.Q4_K_S.gguf",
+            "size": "4140385376",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "19e95f53e4bc16ec87d0f3aec5400cd74af07f951218a822ab94563948d0ee6f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Cypher-7B-GGUF/resolve/main/Cypher-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Cypher-7B.Q5_K_M.gguf",
+            "size": "5131421792",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f52789384c6eb07ccd8ea923bec6ecd507bdcde912abfc2d0ae6f67c8e12e7b4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Cypher-7B-GGUF/resolve/main/Cypher-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Cypher-7B.Q5_K_S.gguf",
+            "size": "4997728352",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "59f7fd2011359c17d730c00ab873cce3c4ac7ffd5a21d4b62ff7c77f91dd2938",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Cypher-7B-GGUF/resolve/main/Cypher-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Cypher-7B.Q6_K.gguf",
+            "size": "5942078624",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "802c0444452318d61b2e6bbd3ea4b1c5bd3a44976ebcdc4cdc411958dfee765c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Cypher-7B-GGUF/resolve/main/Cypher-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Cypher-7B.Q8_0.gguf",
+            "size": "7695875104",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "9e468d5faeae17a4accde95653dd3059f1d61626d8e0de5d586ae76ce43c37dd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Cypher-7B-GGUF/resolve/main/Cypher-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

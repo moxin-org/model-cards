@@ -1,0 +1,53 @@
+{
+    "id": "Blombert/Obsidian-3B-V0.5-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Blombert",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-05T17:07:13Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-f16.gguf",
+            "size": "5592736032",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c9ebf44706aa51af8e74436e69dbf0dd9234efc9b9e90ec2af96bb6090b033e8",
+            "download": {
+                "default": "https://huggingface.co/Blombert/Obsidian-3B-V0.5-GGUF/resolve/main/ggml-model-f16.gguf"
+            }
+        },
+        {
+            "name": "mmproj-obsidian-f16.gguf",
+            "size": "600829088",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2b62df2eef4461a92c9edb9f312584f872611ffcc0ce213eb6d59792629b6cab",
+            "download": {
+                "default": "https://huggingface.co/Blombert/Obsidian-3B-V0.5-GGUF/resolve/main/mmproj-obsidian-f16.gguf"
+            }
+        },
+        {
+            "name": "obsidian-3b-Q3_K_S.gguf",
+            "size": "1254448640",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "d5aa129f2a3048cf193ea0cf531172ce1c38f351f9080304402df53da6f2ef8b",
+            "download": {
+                "default": "https://huggingface.co/Blombert/Obsidian-3B-V0.5-GGUF/resolve/main/obsidian-3b-Q3_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

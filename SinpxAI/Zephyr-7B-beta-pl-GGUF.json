@@ -1,0 +1,143 @@
+{
+    "id": "SinpxAI/Zephyr-7B-beta-pl-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "SinpxAI",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-07T12:45:38Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "zephyr-7b-beta-pl.Q2_K.gguf",
+            "size": "2719242368",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "4d7bb1b21537c0f2cb5a45b41486cc7600af779277a8304231b0bcaab32219f5",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Zephyr-7B-beta-pl-GGUF/resolve/main/zephyr-7b-beta-pl.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-beta-pl.Q3_K_L.gguf",
+            "size": "3822024832",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "2f087d92e62b86ebc07699a45f18316d9c1be8b259827d6dd5b9e8754bcec928",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Zephyr-7B-beta-pl-GGUF/resolve/main/zephyr-7b-beta-pl.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-beta-pl.Q3_K_M.gguf",
+            "size": "3518986368",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ff881489348f7e41261b975c039d0c3e4e2ac902b9bd80457be8e1a79e94ca76",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Zephyr-7B-beta-pl-GGUF/resolve/main/zephyr-7b-beta-pl.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-beta-pl.Q3_K_S.gguf",
+            "size": "3164567680",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "92a955e6448adf008f6653b2aa41c31d07fff57b9ddfeeefbdb7380ce5c78ec6",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Zephyr-7B-beta-pl-GGUF/resolve/main/zephyr-7b-beta-pl.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-beta-pl.Q4_0.gguf",
+            "size": "4108916864",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "8d5ea4eea95ccd80cac6096c3c66e17bb9667da692fca413a2331bc0cd93c9b1",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Zephyr-7B-beta-pl-GGUF/resolve/main/zephyr-7b-beta-pl.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-beta-pl.Q4_K_M.gguf",
+            "size": "4368439424",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "362b3eec9c0f73e45650255a68496dfb32fc6b34c04d00fc564bd3d6ffc9cc03",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Zephyr-7B-beta-pl-GGUF/resolve/main/zephyr-7b-beta-pl.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-beta-pl.Q4_K_S.gguf",
+            "size": "4140374144",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "65e9ba0b7edfde440c4a62d63045722c30d3d8f171065da7e0b4f993d368c769",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Zephyr-7B-beta-pl-GGUF/resolve/main/zephyr-7b-beta-pl.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-beta-pl.Q5_0.gguf",
+            "size": "4997716096",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "e611d0c6f5207848c4bea1b0b268e72c76e2d9b1315fafc5709f79c488a270b4",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Zephyr-7B-beta-pl-GGUF/resolve/main/zephyr-7b-beta-pl.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-beta-pl.Q5_K_M.gguf",
+            "size": "5131409536",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ddddddb1018b44c3a1e5cd2fa6d70ac12ea350255d2fbf86a9cdb96c276ade3c",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Zephyr-7B-beta-pl-GGUF/resolve/main/zephyr-7b-beta-pl.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-beta-pl.Q5_K_S.gguf",
+            "size": "4997716096",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "5c5b7b773edd220b0d7c01cc629299b200f31ff48a84e18ed65f069da0404b0e",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Zephyr-7B-beta-pl-GGUF/resolve/main/zephyr-7b-beta-pl.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-beta-pl.Q6_K.gguf",
+            "size": "5942065280",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "350c96aee333c882db468801dfe3b68d55bdc17fc83e3e4ef553b3bb4da7e0ce",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Zephyr-7B-beta-pl-GGUF/resolve/main/zephyr-7b-beta-pl.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-beta-pl.Q8_0.gguf",
+            "size": "7695857792",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "284a3a45f1984741aa7546400178aac639bd019b81d4651679ab76c22a47200d",
+            "download": {
+                "default": "https://huggingface.co/SinpxAI/Zephyr-7B-beta-pl-GGUF/resolve/main/zephyr-7b-beta-pl.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

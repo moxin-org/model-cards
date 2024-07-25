@@ -1,0 +1,83 @@
+{
+    "id": "perlthoughts/Starling-LM-11B-alpha-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "perlthoughts",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-10T23:19:14Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "starling-11b-q2_k.gguf",
+            "size": "4549025312",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e69a79e646e7f9b1f7462d622ceeaf4e1d7760596ce389a507c5872133528b39",
+            "download": {
+                "default": "https://huggingface.co/perlthoughts/Starling-LM-11B-alpha-GGUF/resolve/main/starling-11b-q2_k.gguf"
+            }
+        },
+        {
+            "name": "starling-11b-q3_k_m.gguf",
+            "size": "5188338016",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f24083666602daaf57cc1fb5d9ab877f8da8b46b224867e6bbcc465fd9b630aa",
+            "download": {
+                "default": "https://huggingface.co/perlthoughts/Starling-LM-11B-alpha-GGUF/resolve/main/starling-11b-q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "starling-11b-q4_0.gguf",
+            "size": "6072395168",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ba36b3c713431f859f3ef816954cc42dbda4a3c7453e6724b5ab6aaea4e17aa6",
+            "download": {
+                "default": "https://huggingface.co/perlthoughts/Starling-LM-11B-alpha-GGUF/resolve/main/starling-11b-q4_0.gguf"
+            }
+        },
+        {
+            "name": "starling-11b-q4_k_m.gguf",
+            "size": "6461679008",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f189bb1adfd7b8c89617f026c8dcefa978a70d62c59dff800a971d34d44bc9db",
+            "download": {
+                "default": "https://huggingface.co/perlthoughts/Starling-LM-11B-alpha-GGUF/resolve/main/starling-11b-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "starling-11b-q4_k.gguf",
+            "size": "6461679008",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f189bb1adfd7b8c89617f026c8dcefa978a70d62c59dff800a971d34d44bc9db",
+            "download": {
+                "default": "https://huggingface.co/perlthoughts/Starling-LM-11B-alpha-GGUF/resolve/main/starling-11b-q4_k.gguf"
+            }
+        },
+        {
+            "name": "starling-11b-q8_0.gguf",
+            "size": "11404172640",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b99feee8d348bb5c3138862907bc85f7c00d23e671991e94e551b68387910b54",
+            "download": {
+                "default": "https://huggingface.co/perlthoughts/Starling-LM-11B-alpha-GGUF/resolve/main/starling-11b-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

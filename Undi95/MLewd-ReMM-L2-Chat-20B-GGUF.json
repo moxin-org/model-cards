@@ -1,0 +1,63 @@
+{
+    "id": "Undi95/MLewd-ReMM-L2-Chat-20B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Undi95",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-18T00:19:13Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "MLewd-ReMM-L2-Chat-20B.q4_K_S.gguf",
+            "size": "11340522976",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2cfaf2cb1421f03a1b2c50adb0af5ff0e9fc55527fe57befa9c991c4e7049681",
+            "download": {
+                "default": "https://huggingface.co/Undi95/MLewd-ReMM-L2-Chat-20B-GGUF/resolve/main/MLewd-ReMM-L2-Chat-20B.q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "MLewd-ReMM-L2-Chat-20B.q5_K_M.gguf",
+            "size": "14157219296",
+            "quantization": "",
+            "tags": [],
+            "sha256": "591933f2094cecbbd84ee3a9d0779046750f619e20abf31c42bd6bd96d2a54b0",
+            "download": {
+                "default": "https://huggingface.co/Undi95/MLewd-ReMM-L2-Chat-20B-GGUF/resolve/main/MLewd-ReMM-L2-Chat-20B.q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "MLewd-ReMM-L2-Chat-20B.q6_K.gguf",
+            "size": "16404418016",
+            "quantization": "",
+            "tags": [],
+            "sha256": "60df65a4bd852fbfe6cf42047c9eb00c5caa009a8f71441a9028ea7720b6829e",
+            "download": {
+                "default": "https://huggingface.co/Undi95/MLewd-ReMM-L2-Chat-20B-GGUF/resolve/main/MLewd-ReMM-L2-Chat-20B.q6_K.gguf"
+            }
+        },
+        {
+            "name": "MLewd-ReMM-L2-Chat-20B.q8_0.gguf",
+            "size": "21246647776",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3ef66b5601d865863f200fcdae47eae299f3f8bb5269140ce9f4a61bb1da2308",
+            "download": {
+                "default": "https://huggingface.co/Undi95/MLewd-ReMM-L2-Chat-20B-GGUF/resolve/main/MLewd-ReMM-L2-Chat-20B.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

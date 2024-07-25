@@ -1,0 +1,163 @@
+{
+    "id": "mlabonne/gemma-2b-it-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mlabonne",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-21T13:50:10Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "gemma-2b-it.Q2_K.gguf",
+            "size": "899876576",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "8559d92e1def94182d5534e7e561c3708a559969f4a6086ebea525ad83f1baee",
+            "download": {
+                "default": "https://huggingface.co/mlabonne/gemma-2b-it-GGUF/resolve/main/gemma-2b-it.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-it.Q3_K_L.gguf",
+            "size": "1260791520",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "326e7c02da187a2edf6cbb065b30231870e048330c88ad4c6391c942a28b9e72",
+            "download": {
+                "default": "https://huggingface.co/mlabonne/gemma-2b-it-GGUF/resolve/main/gemma-2b-it.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-it.Q3_K_M.gguf",
+            "size": "1179002592",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "3ad58e9a713c2ee1267baf58c8763c7117f9bf08b36eb7996b4fb9f7c6d3dc4b",
+            "download": {
+                "default": "https://huggingface.co/mlabonne/gemma-2b-it-GGUF/resolve/main/gemma-2b-it.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-it.Q3_K_S.gguf",
+            "size": "1083180768",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "67462d7a006dfde388421c7594f5132cf0ef953d0b57115a364321684c0fd747",
+            "download": {
+                "default": "https://huggingface.co/mlabonne/gemma-2b-it-GGUF/resolve/main/gemma-2b-it.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-it.Q4_0.gguf",
+            "size": "1416021728",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "1047c37fc64926600e08db71f49c86bbdbfb6d4a6af9ab05a2c3d651bf453ea5",
+            "download": {
+                "default": "https://huggingface.co/mlabonne/gemma-2b-it-GGUF/resolve/main/gemma-2b-it.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-it.Q4_1.gguf",
+            "size": "1572652768",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "642b2ae522e3661f6b88d2706ddfa81ec0dff3fcdd6e7a94c31d8bfffc5c921f",
+            "download": {
+                "default": "https://huggingface.co/mlabonne/gemma-2b-it-GGUF/resolve/main/gemma-2b-it.Q4_1.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-it.Q4_K_M.gguf",
+            "size": "1495095008",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "11f99945ab88ae228a0419fd237dda9c7f8edc25225eb4cb63f96b4e6d9b8284",
+            "download": {
+                "default": "https://huggingface.co/mlabonne/gemma-2b-it-GGUF/resolve/main/gemma-2b-it.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-it.Q4_K_S.gguf",
+            "size": "1424672480",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "fe4f255c5eec96c54e6ea03ed872a041912a7ec5e26603f676b8635818d4d6b5",
+            "download": {
+                "default": "https://huggingface.co/mlabonne/gemma-2b-it-GGUF/resolve/main/gemma-2b-it.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-it.Q5_0.gguf",
+            "size": "1729283808",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "79910d4ee3e349247bec7ab54e60f7afc4c33f72649c7ce7fb99b45cb9441e00",
+            "download": {
+                "default": "https://huggingface.co/mlabonne/gemma-2b-it-GGUF/resolve/main/gemma-2b-it.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-it.Q5_1.gguf",
+            "size": "1885914848",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "452a3a366200cfecf1936706dfd2c6604e402775756e3bf3f1c041117f095dfe",
+            "download": {
+                "default": "https://huggingface.co/mlabonne/gemma-2b-it-GGUF/resolve/main/gemma-2b-it.Q5_1.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-it.Q5_K_M.gguf",
+            "size": "1770018528",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "4c6bb75fccb94a029d02420be70765370d995b2ef1e1c1428b516b326fd18258",
+            "download": {
+                "default": "https://huggingface.co/mlabonne/gemma-2b-it-GGUF/resolve/main/gemma-2b-it.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-it.Q5_K_S.gguf",
+            "size": "1729283808",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "8b8ca415f3180e179a9d6e56f1432fb0b3c5ac950aa2b31baac9aa710d21d8d8",
+            "download": {
+                "default": "https://huggingface.co/mlabonne/gemma-2b-it-GGUF/resolve/main/gemma-2b-it.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-it.Q6_K.gguf",
+            "size": "2062124768",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "7d16f1b690dbbfd64656b3f09ede615ec07b11da34b2024c411c95ddc88cc6f7",
+            "download": {
+                "default": "https://huggingface.co/mlabonne/gemma-2b-it-GGUF/resolve/main/gemma-2b-it.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "gemma-2b-it.Q8_0.gguf",
+            "size": "2669070048",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "8370b4461720de0f70407fcd2a55163de462ce0d4a1d3dffa75bba75ab761ee0",
+            "download": {
+                "default": "https://huggingface.co/mlabonne/gemma-2b-it-GGUF/resolve/main/gemma-2b-it.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

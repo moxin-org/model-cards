@@ -1,0 +1,143 @@
+{
+    "id": "mradermacher/daybreak-miqu-1-70b-v1.0-hf-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-04T00:12:51Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "daybreak-miqu-1-70b-v1.0-hf.IQ3_M.gguf",
+            "size": "31253526176",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "d2da61fa18f6dc7291e29edcd4f17759e18af8b90dde587c775084c77ebe2a55",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/daybreak-miqu-1-70b-v1.0-hf-GGUF/resolve/main/daybreak-miqu-1-70b-v1.0-hf.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "daybreak-miqu-1-70b-v1.0-hf.IQ3_S.gguf",
+            "size": "30228543136",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "eadff2aed78562cccebfdb9bb3698db76c26fef1434291b06b316665ddb5d5e5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/daybreak-miqu-1-70b-v1.0-hf-GGUF/resolve/main/daybreak-miqu-1-70b-v1.0-hf.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "daybreak-miqu-1-70b-v1.0-hf.IQ3_XS.gguf",
+            "size": "28451206816",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "f32905fe7ecb0cbd6e6bbde655cb7784d7f677d08229c927d33d54749bd06b96",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/daybreak-miqu-1-70b-v1.0-hf-GGUF/resolve/main/daybreak-miqu-1-70b-v1.0-hf.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "daybreak-miqu-1-70b-v1.0-hf.IQ4_XS.gguf",
+            "size": "37506070176",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "afbfbfad5e9480b3c6bae268b6d12e710343dd7462b19a190fae22ea46634e01",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/daybreak-miqu-1-70b-v1.0-hf-GGUF/resolve/main/daybreak-miqu-1-70b-v1.0-hf.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "daybreak-miqu-1-70b-v1.0-hf.Q2_K.gguf",
+            "size": "25771685536",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "1a2d7f4539d58488d32faf99441a9cbb3a06fb73b093dc7207d065c50d6a04b7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/daybreak-miqu-1-70b-v1.0-hf-GGUF/resolve/main/daybreak-miqu-1-70b-v1.0-hf.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "daybreak-miqu-1-70b-v1.0-hf.Q3_K_L.gguf",
+            "size": "36457084576",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "ee470495474b4a6a12e0ba8b302f2f5c8693a7360bbda45fb48a8cfbce47e607",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/daybreak-miqu-1-70b-v1.0-hf-GGUF/resolve/main/daybreak-miqu-1-70b-v1.0-hf.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "daybreak-miqu-1-70b-v1.0-hf.Q3_K_M.gguf",
+            "size": "33583986336",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "2a56dd020460a66961779e28ed93e04dfeb98fff2517e9355ae81e3aeaf14b2f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/daybreak-miqu-1-70b-v1.0-hf-GGUF/resolve/main/daybreak-miqu-1-70b-v1.0-hf.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "daybreak-miqu-1-70b-v1.0-hf.Q3_K_S.gguf",
+            "size": "30228543136",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "e7609157c1f7981d6bc2211bdf18e738e91460dd2ec04b067b976dbd9d97eb16",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/daybreak-miqu-1-70b-v1.0-hf-GGUF/resolve/main/daybreak-miqu-1-70b-v1.0-hf.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "daybreak-miqu-1-70b-v1.0-hf.Q4_K_M.gguf",
+            "size": "41732159136",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c24dd90ade00cc09bd5749d15530d49319bcc42d51b31baf7b425772f990d445",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/daybreak-miqu-1-70b-v1.0-hf-GGUF/resolve/main/daybreak-miqu-1-70b-v1.0-hf.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "daybreak-miqu-1-70b-v1.0-hf.Q4_K_S.gguf",
+            "size": "39558985376",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "fc8866013b43597a65e622fefaebb4db4894e116857bee14fa5f3fc6c7759953",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/daybreak-miqu-1-70b-v1.0-hf-GGUF/resolve/main/daybreak-miqu-1-70b-v1.0-hf.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "daybreak-miqu-1-70b-v1.0-hf.Q5_K_M.gguf",
+            "size": "49063016096",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f4950cade71464dc82717c163af2eb4d7076e547d4608991285ea7df5762d823",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/daybreak-miqu-1-70b-v1.0-hf-GGUF/resolve/main/daybreak-miqu-1-70b-v1.0-hf.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "daybreak-miqu-1-70b-v1.0-hf.Q5_K_S.gguf",
+            "size": "47770646176",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "08970c0bc8feecbdbae73bd309db421d028d00b7a598c1382a0f6919508a535f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/daybreak-miqu-1-70b-v1.0-hf-GGUF/resolve/main/daybreak-miqu-1-70b-v1.0-hf.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

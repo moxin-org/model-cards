@@ -1,0 +1,43 @@
+{
+    "id": "hiieu/bloomz-7b1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "hiieu",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-09T11:44:34Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "bloomz-7b1-q4_0.gguf",
+            "size": "4838422432",
+            "quantization": "",
+            "tags": [],
+            "sha256": "220c051aa1ba795173782b3d094cbfe03f60bab976a41dd7d8350533c93fe705",
+            "download": {
+                "default": "https://huggingface.co/hiieu/bloomz-7b1-GGUF/resolve/main/bloomz-7b1-q4_0.gguf"
+            }
+        },
+        {
+            "name": "bloomz-7b1.gguf",
+            "size": "16210065280",
+            "quantization": "",
+            "tags": [],
+            "sha256": "44fb3540644ffb7751bc8a6dbcec530d98792bc287d30f5f1d062b8a86824ede",
+            "download": {
+                "default": "https://huggingface.co/hiieu/bloomz-7b1-GGUF/resolve/main/bloomz-7b1.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

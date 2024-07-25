@@ -1,0 +1,153 @@
+{
+    "id": "second-state/DeepSeek-Coder-V2-Lite-Instruct-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-06-25T05:14:46Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "DeepSeek-Coder-V2-Lite-Instruct-f16.gguf",
+            "size": "31424033248",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2de57aa898372715c457b7c06362bb9826f3e47ba2a83679f162fcb7b40e763b",
+            "download": {
+                "default": "https://huggingface.co/second-state/DeepSeek-Coder-V2-Lite-Instruct-GGUF/resolve/main/DeepSeek-Coder-V2-Lite-Instruct-f16.gguf"
+            }
+        },
+        {
+            "name": "DeepSeek-Coder-V2-Lite-Instruct-Q2_K.gguf",
+            "size": "6430464480",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "d4eb2f3365ac103d4231352b331577135be67931cecedad474c38e4cecb9182d",
+            "download": {
+                "default": "https://huggingface.co/second-state/DeepSeek-Coder-V2-Lite-Instruct-GGUF/resolve/main/DeepSeek-Coder-V2-Lite-Instruct-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "DeepSeek-Coder-V2-Lite-Instruct-Q3_K_L.gguf",
+            "size": "8459398624",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "9d9b1b46859bb2208acf2174192547e53389575fb2af820a988c91ecb94c2613",
+            "download": {
+                "default": "https://huggingface.co/second-state/DeepSeek-Coder-V2-Lite-Instruct-GGUF/resolve/main/DeepSeek-Coder-V2-Lite-Instruct-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "DeepSeek-Coder-V2-Lite-Instruct-Q3_K_M.gguf",
+            "size": "8126606816",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "3918c980cc193aa63733db160fdd26ef3a668fecd5219d0e1aa62d12c86cc91f",
+            "download": {
+                "default": "https://huggingface.co/second-state/DeepSeek-Coder-V2-Lite-Instruct-GGUF/resolve/main/DeepSeek-Coder-V2-Lite-Instruct-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "DeepSeek-Coder-V2-Lite-Instruct-Q3_K_S.gguf",
+            "size": "7487663584",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "15476c1c838f3a8205d0d7725a1f2b377da0ba1c287149680dbffc8d755904d2",
+            "download": {
+                "default": "https://huggingface.co/second-state/DeepSeek-Coder-V2-Lite-Instruct-GGUF/resolve/main/DeepSeek-Coder-V2-Lite-Instruct-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "DeepSeek-Coder-V2-Lite-Instruct-Q4_0.gguf",
+            "size": "8905109984",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "7d932d742f5e09b66cf017bb0e27bf5acf1d0a12d0e65bcc4561528020c4b56c",
+            "download": {
+                "default": "https://huggingface.co/second-state/DeepSeek-Coder-V2-Lite-Instruct-GGUF/resolve/main/DeepSeek-Coder-V2-Lite-Instruct-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "DeepSeek-Coder-V2-Lite-Instruct-Q4_K_M.gguf",
+            "size": "10364416480",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "38bc76f3326b49b4d81d1027d092bf7ce5b4ed2de4136d1d2e7e6347c3ec8376",
+            "download": {
+                "default": "https://huggingface.co/second-state/DeepSeek-Coder-V2-Lite-Instruct-GGUF/resolve/main/DeepSeek-Coder-V2-Lite-Instruct-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "DeepSeek-Coder-V2-Lite-Instruct-Q4_K_S.gguf",
+            "size": "9533608416",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "48a9e203ee6f5ed208c4d8859b7c2c2914bd1af8621d90f366dd7b0bd9112d5c",
+            "download": {
+                "default": "https://huggingface.co/second-state/DeepSeek-Coder-V2-Lite-Instruct-GGUF/resolve/main/DeepSeek-Coder-V2-Lite-Instruct-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "DeepSeek-Coder-V2-Lite-Instruct-Q5_0.gguf",
+            "size": "10841764320",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "fbd09a611559c2f97767a41e555dd05d0c6a61425bf14d2d1e2cf0ea817690dd",
+            "download": {
+                "default": "https://huggingface.co/second-state/DeepSeek-Coder-V2-Lite-Instruct-GGUF/resolve/main/DeepSeek-Coder-V2-Lite-Instruct-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "DeepSeek-Coder-V2-Lite-Instruct-Q5_K_M.gguf",
+            "size": "11851313632",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "08b4ff12b045ec0001a690249931d91acbcbe007694352d6ac5bf86e16f6fc6b",
+            "download": {
+                "default": "https://huggingface.co/second-state/DeepSeek-Coder-V2-Lite-Instruct-GGUF/resolve/main/DeepSeek-Coder-V2-Lite-Instruct-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "DeepSeek-Coder-V2-Lite-Instruct-Q5_K_S.gguf",
+            "size": "11143057888",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "03f2eacb23d597e7793a57bcaabcc3ebceec1515b04a0fe49996817ff169922d",
+            "download": {
+                "default": "https://huggingface.co/second-state/DeepSeek-Coder-V2-Lite-Instruct-GGUF/resolve/main/DeepSeek-Coder-V2-Lite-Instruct-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "DeepSeek-Coder-V2-Lite-Instruct-Q6_K.gguf",
+            "size": "14066972128",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "0cfe5211943fffec745261aba45023b07d1a9004356a4efdfbf855bf47ca6782",
+            "download": {
+                "default": "https://huggingface.co/second-state/DeepSeek-Coder-V2-Lite-Instruct-GGUF/resolve/main/DeepSeek-Coder-V2-Lite-Instruct-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "DeepSeek-Coder-V2-Lite-Instruct-Q8_0.gguf",
+            "size": "16702517728",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "373dcfc92e01372709b6164fc836f677a6280e25e9eac5c434c64223207bfc4f",
+            "download": {
+                "default": "https://huggingface.co/second-state/DeepSeek-Coder-V2-Lite-Instruct-GGUF/resolve/main/DeepSeek-Coder-V2-Lite-Instruct-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 2048,
+    "vector_size": 0,
+    "metrics": null
+}

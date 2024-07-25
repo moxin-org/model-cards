@@ -1,0 +1,83 @@
+{
+    "id": "gguf/Smaug-34B-v0.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "gguf",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-25T10:39:49Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "smaug-34b-v0.1.Q2_K.gguf",
+            "size": "12825233984",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "2f180a4c844165089becbb63011cf9848cf0b7e407711c7d3c217ee9253d58a7",
+            "download": {
+                "default": "https://huggingface.co/gguf/Smaug-34B-v0.1-GGUF/resolve/main/smaug-34b-v0.1.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "smaug-34b-v0.1.Q3_K_M.gguf",
+            "size": "16654924352",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "4e17fc4305ade4b163e127523e355f3d59e6c7c6e6c7af1d410262848dca9474",
+            "download": {
+                "default": "https://huggingface.co/gguf/Smaug-34B-v0.1-GGUF/resolve/main/smaug-34b-v0.1.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "smaug-34b-v0.1.Q4_K_M.gguf",
+            "size": "20658711104",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4f78204b1a6e8e278d363ca454bfd3639abcc9746f9eb88accb83c5a2feb4a61",
+            "download": {
+                "default": "https://huggingface.co/gguf/Smaug-34B-v0.1-GGUF/resolve/main/smaug-34b-v0.1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "smaug-34b-v0.1.Q5_K_M.gguf",
+            "size": "24321845824",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "1ecb5c8ab0364a84c01bf898f3c65c55db091036d7a39b8f1e4506d0840d75a9",
+            "download": {
+                "default": "https://huggingface.co/gguf/Smaug-34B-v0.1-GGUF/resolve/main/smaug-34b-v0.1.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "smaug-34b-v0.1.Q6_K.gguf",
+            "size": "28213926464",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "54f6b599b29b9e7868d45fb641936d35147ab651db79ab2064316d140c7b3b8e",
+            "download": {
+                "default": "https://huggingface.co/gguf/Smaug-34B-v0.1-GGUF/resolve/main/smaug-34b-v0.1.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "smaug-34b-v0.1.Q8_0.gguf",
+            "size": "36542282304",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "7130cb316dccc614bb94fe465a682609d855db9462536926c0e2c07ac191f268",
+            "download": {
+                "default": "https://huggingface.co/gguf/Smaug-34B-v0.1-GGUF/resolve/main/smaug-34b-v0.1.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

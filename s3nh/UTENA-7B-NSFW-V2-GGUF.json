@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/UTENA-7B-NSFW-V2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-14T18:51:37Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "utena-7b-nsfw-v2.Q3_K_S.gguf",
+            "size": "3164567296",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "ad81cfd7c0ca1573d92bcf66bb5c201058e0d44f748c6b59d064846956e9a87b",
+            "download": {
+                "default": "https://huggingface.co/s3nh/UTENA-7B-NSFW-V2-GGUF/resolve/main/utena-7b-nsfw-v2.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "utena-7b-nsfw-v2.Q4_K_M.gguf",
+            "size": "4368439040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "414fd5bdf18f5db31cb45e1b2824aa52f8675cfcec2580cd7fab80e95f02e1ed",
+            "download": {
+                "default": "https://huggingface.co/s3nh/UTENA-7B-NSFW-V2-GGUF/resolve/main/utena-7b-nsfw-v2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "utena-7b-nsfw-v2.Q5_K_M.gguf",
+            "size": "5131409152",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ae6688ae099c1e0bf405c08944dddbff2d04f0b89b67ef6c75bbf040a559e928",
+            "download": {
+                "default": "https://huggingface.co/s3nh/UTENA-7B-NSFW-V2-GGUF/resolve/main/utena-7b-nsfw-v2.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "utena-7b-nsfw-v2.Q6_K.gguf",
+            "size": "5942064896",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "ee58dc77f4106cce7a14844b8c639ed5c81008e73de029c7916febe65cc5556b",
+            "download": {
+                "default": "https://huggingface.co/s3nh/UTENA-7B-NSFW-V2-GGUF/resolve/main/utena-7b-nsfw-v2.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "utena-7b-nsfw-v2.Q8_0.gguf",
+            "size": "7695857408",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "1e6e1540c934ee44b83b311176ba83a8c36a98a97c5f7cc345d1a882fedc234b",
+            "download": {
+                "default": "https://huggingface.co/s3nh/UTENA-7B-NSFW-V2-GGUF/resolve/main/utena-7b-nsfw-v2.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

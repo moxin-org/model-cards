@@ -1,0 +1,93 @@
+{
+    "id": "s3nh/MarkrAI-MarK2-10.7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-11T09:30:38Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "MarkrAI-MarK2-10.7B.Q2_K.gguf",
+            "size": "4549015584",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a0f1ca70b873fc8dc296e8a5b2ef18e71d09c6d3eb9403512ffa35f9dae9c7c5",
+            "download": {
+                "default": "https://huggingface.co/s3nh/MarkrAI-MarK2-10.7B-GGUF/resolve/main/MarkrAI-MarK2-10.7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "MarkrAI-MarK2-10.7B.Q3_K_S.gguf",
+            "size": "4664563744",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "0510760ac9b2dca9aefab2e4524c0bb10dccfc45ff8d8608404f24cf9ca01ee5",
+            "download": {
+                "default": "https://huggingface.co/s3nh/MarkrAI-MarK2-10.7B-GGUF/resolve/main/MarkrAI-MarK2-10.7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "MarkrAI-MarK2-10.7B.Q4_K_M.gguf",
+            "size": "6461667360",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "cbdf1905db25fba6cd82e4b59017576bc36fe9cd20c0f918d989f863c02c42a3",
+            "download": {
+                "default": "https://huggingface.co/s3nh/MarkrAI-MarK2-10.7B-GGUF/resolve/main/MarkrAI-MarK2-10.7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "MarkrAI-MarK2-10.7B.Q4_K_S.gguf",
+            "size": "6103840800",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "a59c895a1080cb08f6ee96f947d64e3d96c9f497f90bf4cc2ecaad112cd542ea",
+            "download": {
+                "default": "https://huggingface.co/s3nh/MarkrAI-MarK2-10.7B-GGUF/resolve/main/MarkrAI-MarK2-10.7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "MarkrAI-MarK2-10.7B.Q5_K_S.gguf",
+            "size": "7397390368",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "9d1cac469d6162a5a02222509a3d65205c4138c893c732b450533f973331d21a",
+            "download": {
+                "default": "https://huggingface.co/s3nh/MarkrAI-MarK2-10.7B-GGUF/resolve/main/MarkrAI-MarK2-10.7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "MarkrAI-MarK2-10.7B.Q6_K.gguf",
+            "size": "8805210144",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "9fcb5ad4bd2f99a89de1d7ded6b723035c129046bd6313859093b8a3c48229d1",
+            "download": {
+                "default": "https://huggingface.co/s3nh/MarkrAI-MarK2-10.7B-GGUF/resolve/main/MarkrAI-MarK2-10.7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "MarkrAI-MarK2-10.7B.Q8_0.gguf",
+            "size": "11404154912",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "9a268d3f953cd451a164d1d8516c6330b0a0eb163eb199f72a70e0cf3e4371bf",
+            "download": {
+                "default": "https://huggingface.co/s3nh/MarkrAI-MarK2-10.7B-GGUF/resolve/main/MarkrAI-MarK2-10.7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

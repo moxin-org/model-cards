@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Swallow-MS-7b-v0.1-ChatMathSkill-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-06T11:24:30Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Swallow-MS-7b-v0.1-ChatMathSkill.IQ3_M.gguf",
+            "size": "3340435136",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "ce5af6a1f55e4664fef1047d71fc22a08c9aa8a091987f639bf32a48a9ae7d88",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Swallow-MS-7b-v0.1-ChatMathSkill-GGUF/resolve/main/Swallow-MS-7b-v0.1-ChatMathSkill.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Swallow-MS-7b-v0.1-ChatMathSkill.IQ3_S.gguf",
+            "size": "3237936832",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "9e64b377deafa5673e748aa8fd598cc74f90fc84d2e510ec5e0051499798771a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Swallow-MS-7b-v0.1-ChatMathSkill-GGUF/resolve/main/Swallow-MS-7b-v0.1-ChatMathSkill.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Swallow-MS-7b-v0.1-ChatMathSkill.IQ3_XS.gguf",
+            "size": "3074358976",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "2ec1fa568fca6c151ad601fbdab0e23f390043467fb6145e6f244da360889345",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Swallow-MS-7b-v0.1-ChatMathSkill-GGUF/resolve/main/Swallow-MS-7b-v0.1-ChatMathSkill.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Swallow-MS-7b-v0.1-ChatMathSkill.IQ4_XS.gguf",
+            "size": "4004424896",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "fe997471f36b0b61995c1a38b163ecd3c8ca4350c002a1695b148e58ec5c4eb7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Swallow-MS-7b-v0.1-ChatMathSkill-GGUF/resolve/main/Swallow-MS-7b-v0.1-ChatMathSkill.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Swallow-MS-7b-v0.1-ChatMathSkill.Q2_K.gguf",
+            "size": "2770292928",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "809a9563a9799da4609663778015223591c0cc150459beeb3245536a61fb00b9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Swallow-MS-7b-v0.1-ChatMathSkill-GGUF/resolve/main/Swallow-MS-7b-v0.1-ChatMathSkill.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Swallow-MS-7b-v0.1-ChatMathSkill.Q3_K_L.gguf",
+            "size": "3877568192",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "e026068685df9469c9fff5848e1d66b01212e02292b06ac6d4b58213812a5c02",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Swallow-MS-7b-v0.1-ChatMathSkill-GGUF/resolve/main/Swallow-MS-7b-v0.1-ChatMathSkill.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Swallow-MS-7b-v0.1-ChatMathSkill.Q3_K_M.gguf",
+            "size": "3574529728",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "13f8df8126ca53bdc6e2f6a9d924d4f1072e33efb953fe1fe1c6a4c0f44bf509",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Swallow-MS-7b-v0.1-ChatMathSkill-GGUF/resolve/main/Swallow-MS-7b-v0.1-ChatMathSkill.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Swallow-MS-7b-v0.1-ChatMathSkill.Q3_K_S.gguf",
+            "size": "3220111040",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "249b8375def1e78cda899bb1566911b8597e7789a5d8ddafa0956828638dbb8e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Swallow-MS-7b-v0.1-ChatMathSkill-GGUF/resolve/main/Swallow-MS-7b-v0.1-ChatMathSkill.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Swallow-MS-7b-v0.1-ChatMathSkill.Q4_K_M.gguf",
+            "size": "4429857984",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "d0fdc696b6d81a914f51a89c85a3e581e024aa00fdca53fde62910292575c6f8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Swallow-MS-7b-v0.1-ChatMathSkill-GGUF/resolve/main/Swallow-MS-7b-v0.1-ChatMathSkill.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Swallow-MS-7b-v0.1-ChatMathSkill.Q4_K_S.gguf",
+            "size": "4201792704",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "b8797a207442919525c746cd050192801c759b9e69a854533cba8db7be40009f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Swallow-MS-7b-v0.1-ChatMathSkill-GGUF/resolve/main/Swallow-MS-7b-v0.1-ChatMathSkill.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Swallow-MS-7b-v0.1-ChatMathSkill.Q5_K_M.gguf",
+            "size": "5198357696",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5bf837817ba577c58919d288e98510a23f6a5c59cd9cc3a299d6fa2feb55b7cb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Swallow-MS-7b-v0.1-ChatMathSkill-GGUF/resolve/main/Swallow-MS-7b-v0.1-ChatMathSkill.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Swallow-MS-7b-v0.1-ChatMathSkill.Q5_K_S.gguf",
+            "size": "5064664256",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "450d177cf3563d820525aa3a6dcb744c0bda8ea9efd18aca885d498f8492a535",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Swallow-MS-7b-v0.1-ChatMathSkill-GGUF/resolve/main/Swallow-MS-7b-v0.1-ChatMathSkill.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Swallow-MS-7b-v0.1-ChatMathSkill.Q6_K.gguf",
+            "size": "6014888640",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "63b50c0ef28a5755ab796a1a76b2a1291bdc692930cb33a25b85d9b830fb7a09",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Swallow-MS-7b-v0.1-ChatMathSkill-GGUF/resolve/main/Swallow-MS-7b-v0.1-ChatMathSkill.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Swallow-MS-7b-v0.1-ChatMathSkill.Q8_0.gguf",
+            "size": "7790108352",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "c4b84c26a9e637841d500865bef1720ddd79c038740a50cb136dc519a789b18a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Swallow-MS-7b-v0.1-ChatMathSkill-GGUF/resolve/main/Swallow-MS-7b-v0.1-ChatMathSkill.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

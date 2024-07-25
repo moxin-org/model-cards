@@ -1,0 +1,93 @@
+{
+    "id": "s3nh/migtissera-Synthia-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-24T07:34:28Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "migtissera-Synthia-7B.Q2_K.gguf",
+            "size": "2825940672",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "1ad7c93706a0ce1ff8dd748c2e9303acf14eed3cf4241f1ad95ab42070296e68",
+            "download": {
+                "default": "https://huggingface.co/s3nh/migtissera-Synthia-7B-GGUF/resolve/main/migtissera-Synthia-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "migtissera-Synthia-7B.Q3_K_S.gguf",
+            "size": "2948304576",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "e8b9e6f4c536ffc97469f11f581cd428b7eddb490283b3469034026375b2a218",
+            "download": {
+                "default": "https://huggingface.co/s3nh/migtissera-Synthia-7B-GGUF/resolve/main/migtissera-Synthia-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "migtissera-Synthia-7B.Q4_K_M.gguf",
+            "size": "4081004224",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "42b0ebde4077cdc7117160d72bf498a487b399fc0a6339de21dad926d0af9a67",
+            "download": {
+                "default": "https://huggingface.co/s3nh/migtissera-Synthia-7B-GGUF/resolve/main/migtissera-Synthia-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "migtissera-Synthia-7B.Q4_K_S.gguf",
+            "size": "3856740032",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "d40656660c481ab6bfc24d00b84b24600c53c8dd13ec7e30ee7712b533c32685",
+            "download": {
+                "default": "https://huggingface.co/s3nh/migtissera-Synthia-7B-GGUF/resolve/main/migtissera-Synthia-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "migtissera-Synthia-7B.Q5_K_S.gguf",
+            "size": "4651691712",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "d712cde7748635b85ed91d4febe6b4dfdc22a9065010480e9522ddc8d6197147",
+            "download": {
+                "default": "https://huggingface.co/s3nh/migtissera-Synthia-7B-GGUF/resolve/main/migtissera-Synthia-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "migtissera-Synthia-7B.Q6_K.gguf",
+            "size": "5529194176",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "bd9b8b41bc460b0a5a23f49f9f5b6cd0314169798c156a4ea07724dccbc6f852",
+            "download": {
+                "default": "https://huggingface.co/s3nh/migtissera-Synthia-7B-GGUF/resolve/main/migtissera-Synthia-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "migtissera-Synthia-7B.Q8_0.gguf",
+            "size": "7161089728",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "2a2118f576b66ee85201922a09a8b52ae0e560b9b86c5db6f17bdd7524aecd2e",
+            "download": {
+                "default": "https://huggingface.co/s3nh/migtissera-Synthia-7B-GGUF/resolve/main/migtissera-Synthia-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

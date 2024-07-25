@@ -1,0 +1,113 @@
+{
+    "id": "LoneStriker/Pantheon-10.7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LoneStriker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-31T15:47:12Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Pantheon-10.7b-Q3_K_L.gguf",
+            "size": "5650760128",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "cd1c4ffd7265a0a52d93a086707b3200f62134eef3d471e8747740425796aac6",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Pantheon-10.7b-GGUF/resolve/main/Pantheon-10.7b-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Pantheon-10.7b-Q3_K_M.gguf",
+            "size": "5195678144",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "c997a9fb8a38dacf8f052be624c9624861812ad45061a82ae0213d77c25f9e82",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Pantheon-10.7b-GGUF/resolve/main/Pantheon-10.7b-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Pantheon-10.7b-Q3_K_S.gguf",
+            "size": "4664574400",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "a55fc8d27481eca98eacec9acc4a185ce8e519f135c9255f821e11b1492b571d",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Pantheon-10.7b-GGUF/resolve/main/Pantheon-10.7b-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Pantheon-10.7b-Q4_K_M.gguf",
+            "size": "6461679104",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "cd8771d476dde1688d2c84f3cadf67ff4249a2e30dacf03d07d7dc1048c414a3",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Pantheon-10.7b-GGUF/resolve/main/Pantheon-10.7b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Pantheon-10.7b-Q4_K_S.gguf",
+            "size": "6118532608",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "09b34cfcd712db696e4645c4e757850c2a1694047176390afad8fe78d0a6e544",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Pantheon-10.7b-GGUF/resolve/main/Pantheon-10.7b-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Pantheon-10.7b-Q5_K_M.gguf",
+            "size": "7597943296",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "bdeb4babe81e448514667a29f9661afa9fb5ab00527553373d87edc804b6085b",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Pantheon-10.7b-GGUF/resolve/main/Pantheon-10.7b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Pantheon-10.7b-Q5_K_S.gguf",
+            "size": "7397403136",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "2f82fa85932a73a2828d30cb248a1bc2d128f7963167aa69fbcb106084235995",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Pantheon-10.7b-GGUF/resolve/main/Pantheon-10.7b-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Pantheon-10.7b-Q6_K.gguf",
+            "size": "8805224000",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "15591e207cf1b56edfb72209ea580075edd5286be57d9155de12da46421b2415",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Pantheon-10.7b-GGUF/resolve/main/Pantheon-10.7b-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Pantheon-10.7b-Q8_0.gguf",
+            "size": "11404172736",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "24c11bfab2751cf2bf58052974a5d1352c1cb351fc791321778ddeabb975acc2",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Pantheon-10.7b-GGUF/resolve/main/Pantheon-10.7b-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

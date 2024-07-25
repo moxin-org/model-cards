@@ -1,0 +1,93 @@
+{
+    "id": "afrideva/tinyllama-python-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-20T00:03:29Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tinyllama-python.fp16.gguf",
+            "size": "2201016960",
+            "quantization": "",
+            "tags": [],
+            "sha256": "59031cf304bd8b82256fff480983a0ffc44c2c367a96ae13d017581d373ee2cb",
+            "download": {
+                "default": "https://huggingface.co/afrideva/tinyllama-python-GGUF/resolve/main/tinyllama-python.fp16.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-python.q2_k.gguf",
+            "size": "432130752",
+            "quantization": "",
+            "tags": [],
+            "sha256": "65d810c7469a9324c2d6ddc8e1d0b8e9497bcdea3df83b58bd07b1bf88dd5003",
+            "download": {
+                "default": "https://huggingface.co/afrideva/tinyllama-python-GGUF/resolve/main/tinyllama-python.q2_k.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-python.q3_k_m.gguf",
+            "size": "548403904",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4d473c33e0fc4b54878c2475bfbc7bdcabc97620471dc2c9816d148b72516ded",
+            "download": {
+                "default": "https://huggingface.co/afrideva/tinyllama-python-GGUF/resolve/main/tinyllama-python.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-python.q4_k_m.gguf",
+            "size": "667814592",
+            "quantization": "",
+            "tags": [],
+            "sha256": "df1579ec2ec9a256066829f66a9a1d7e145f897bbec365e1e08415d4487c2d02",
+            "download": {
+                "default": "https://huggingface.co/afrideva/tinyllama-python-GGUF/resolve/main/tinyllama-python.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-python.q5_k_m.gguf",
+            "size": "782043840",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9d7c0bc0fc288c415496d12eae940303b9873dbc248b94856de4faa2a5449472",
+            "download": {
+                "default": "https://huggingface.co/afrideva/tinyllama-python-GGUF/resolve/main/tinyllama-python.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-python.q6_k.gguf",
+            "size": "903412416",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0b6ff1010f07839796e5b11ae54c4b741805795b0164ea2e763dc9542d9daea8",
+            "download": {
+                "default": "https://huggingface.co/afrideva/tinyllama-python-GGUF/resolve/main/tinyllama-python.q6_k.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-python.q8_0.gguf",
+            "size": "1169808064",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4737b66ca1c06c0f5c88412205aa4bc9fcc959b5f9870c446064aef143714588",
+            "download": {
+                "default": "https://huggingface.co/afrideva/tinyllama-python-GGUF/resolve/main/tinyllama-python.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

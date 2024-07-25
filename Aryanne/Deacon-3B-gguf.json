@@ -1,0 +1,53 @@
+{
+    "id": "Aryanne/Deacon-3B-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Aryanne",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-30T15:26:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "q4_0-deacon-3b.gguf",
+            "size": "1979946784",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5db9b32d7eb4fa1ba806c9f45fc4a7a54effd0c7d082294e62ab293ffccb81d5",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/Deacon-3B-gguf/resolve/main/q4_0-deacon-3b.gguf"
+            }
+        },
+        {
+            "name": "q4_1-deacon-3b.gguf",
+            "size": "2187690784",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f73ea1abfdbdd5650b127003f278b3a4ccde15baa4e23c47c95fc89cb47b9f39",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/Deacon-3B-gguf/resolve/main/q4_1-deacon-3b.gguf"
+            }
+        },
+        {
+            "name": "q5_0-deacon-3b.gguf",
+            "size": "2395434784",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c85a25ce0e9a427c33f3b7f417e89629a6dfe3501f0c27c5f03098781856ab6b",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/Deacon-3B-gguf/resolve/main/q5_0-deacon-3b.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

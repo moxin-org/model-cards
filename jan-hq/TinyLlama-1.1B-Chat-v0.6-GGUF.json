@@ -1,0 +1,73 @@
+{
+    "id": "jan-hq/TinyLlama-1.1B-Chat-v0.6-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "jan-hq",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-07T10:28:59Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-q4_0.gguf",
+            "size": "636725760",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ec21b060225c96d9a985886566c2d01d0c63498405f4e0448dfee0491d73219f",
+            "download": {
+                "default": "https://huggingface.co/jan-hq/TinyLlama-1.1B-Chat-v0.6-GGUF/resolve/main/ggml-model-q4_0.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v0.6.Q3_K_M.gguf",
+            "size": "549845952",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "f94bcaa942e986730eed9fb2a6d214851b0046d338a3fe4afda8ece840169658",
+            "download": {
+                "default": "https://huggingface.co/jan-hq/TinyLlama-1.1B-Chat-v0.6-GGUF/resolve/main/tinyllama-1.1b-chat-v0.6.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v0.6.Q4_K_M.gguf",
+            "size": "667814848",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "cb09381bd7b307e13e3740504f54bad46396a96d22a5091c448df22cc8cb4fe0",
+            "download": {
+                "default": "https://huggingface.co/jan-hq/TinyLlama-1.1B-Chat-v0.6-GGUF/resolve/main/tinyllama-1.1b-chat-v0.6.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v0.6.Q5_K_M.gguf",
+            "size": "782044096",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "1fbbeadd47b429d9508897cfe952d42daea13a7acf8d898c5ba22d9f313efa39",
+            "download": {
+                "default": "https://huggingface.co/jan-hq/TinyLlama-1.1B-Chat-v0.6-GGUF/resolve/main/tinyllama-1.1b-chat-v0.6.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v0.6.Q8_0.gguf",
+            "size": "1169808320",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "01e1b47b8c3bce98c128ed15642ac594d64291118d2647758085c5f55a96b0f3",
+            "download": {
+                "default": "https://huggingface.co/jan-hq/TinyLlama-1.1B-Chat-v0.6-GGUF/resolve/main/tinyllama-1.1b-chat-v0.6.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,173 @@
+{
+    "id": "mradermacher/bagel-dpo-20b-v04-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-02T06:31:44Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "bagel-dpo-20b-v04.IQ3_M.gguf",
+            "size": "9792204416",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "1655968e943543857c03c920678803d78036a441b3c60d0d325a2be85e70665d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/bagel-dpo-20b-v04-GGUF/resolve/main/bagel-dpo-20b-v04.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "bagel-dpo-20b-v04.IQ3_S.gguf",
+            "size": "9471340160",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "a6433dd8876d31aa2cc68a43328af5351bf485a872de35363db82b92beb49873",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/bagel-dpo-20b-v04-GGUF/resolve/main/bagel-dpo-20b-v04.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "bagel-dpo-20b-v04.IQ3_XS.gguf",
+            "size": "9032511104",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "5bd11aa18fc75b98add4282b14c0e3214e840ec76bf37d303c2b29a4e944515b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/bagel-dpo-20b-v04-GGUF/resolve/main/bagel-dpo-20b-v04.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "bagel-dpo-20b-v04.IQ4_XS.gguf",
+            "size": "11532129920",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "507c5411029470e8ae5d934f3536ad3802acfc2e4702a65d6fd3257bcbed2046",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/bagel-dpo-20b-v04-GGUF/resolve/main/bagel-dpo-20b-v04.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "bagel-dpo-20b-v04.Q2_K.gguf",
+            "size": "8217429632",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "17f1a82a383edca12561e2e1e9b6b993bfa22e2ed5df348daac77df5a8bc86a9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/bagel-dpo-20b-v04-GGUF/resolve/main/bagel-dpo-20b-v04.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "bagel-dpo-20b-v04.Q3_K_L.gguf",
+            "size": "11221937792",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "0e6d79287d27b18d2ae19d86a76eeff1aab9d55548769f0907984b925d6053c9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/bagel-dpo-20b-v04-GGUF/resolve/main/bagel-dpo-20b-v04.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "bagel-dpo-20b-v04.Q3_K_M.gguf",
+            "size": "10393038464",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "255b1677294c76ef8c682e6972f8eb90c8aa948354f42071bb772de175a5922c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/bagel-dpo-20b-v04-GGUF/resolve/main/bagel-dpo-20b-v04.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "bagel-dpo-20b-v04.Q3_K_S.gguf",
+            "size": "9431232128",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "f93f0b3e26d83bab788cde596b704237fb6700f9207ac74a208b9f25e15a3d55",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/bagel-dpo-20b-v04-GGUF/resolve/main/bagel-dpo-20b-v04.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "bagel-dpo-20b-v04.Q4_K_M.gguf",
+            "size": "12655228544",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "6c12648f12f744d69ff9dc0614341e80168f0912ab046a7eb1a754fac69e21df",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/bagel-dpo-20b-v04-GGUF/resolve/main/bagel-dpo-20b-v04.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "bagel-dpo-20b-v04.Q4_K_S.gguf",
+            "size": "12072089216",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "22f78771c442747c6eb790ce6c265a448a10355702d8e9301d6a2045f126d787",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/bagel-dpo-20b-v04-GGUF/resolve/main/bagel-dpo-20b-v04.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "bagel-dpo-20b-v04.Q5_K_M.gguf",
+            "size": "14745859712",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "996c767b4814708d6e45c11ff9545dffac60a5916d1f093df6b31bfd4477f309",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/bagel-dpo-20b-v04-GGUF/resolve/main/bagel-dpo-20b-v04.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "bagel-dpo-20b-v04.Q5_K_S.gguf",
+            "size": "14404941440",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "d05b1cea6f20043067edfaf44ba0a995da0f94a1f63552d8c86de93d5e09c044",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/bagel-dpo-20b-v04-GGUF/resolve/main/bagel-dpo-20b-v04.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "bagel-dpo-20b-v04.Q6_K.gguf",
+            "size": "16967155328",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "2c7d2f31ff00f908475c4bf1d1fd4398ad282a073087708994d17809007d4740",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/bagel-dpo-20b-v04-GGUF/resolve/main/bagel-dpo-20b-v04.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "bagel-dpo-20b-v04.Q8_0.gguf",
+            "size": "21639427712",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "15ef4a21b38d3acaa780c2d81ecc752b3fd9c78766e863ee3496786eb6ec7b16",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/bagel-dpo-20b-v04-GGUF/resolve/main/bagel-dpo-20b-v04.Q8_0.gguf"
+            }
+        },
+        {
+            "name": "bagel-dpo-20b-v04.SOURCE.gguf",
+            "size": "39725643328",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9f3e3c020682ce47939496bd48bf48e111e5a4159b66663a1d86bc86b3e60b3e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/bagel-dpo-20b-v04-GGUF/resolve/main/bagel-dpo-20b-v04.SOURCE.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

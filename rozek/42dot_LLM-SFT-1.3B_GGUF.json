@@ -1,0 +1,73 @@
+{
+    "id": "rozek/42dot_LLM-SFT-1.3B_GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "rozek",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-20T14:38:56Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "42dot_LLM-SFT-1.3B_Q4_K_M.gguf",
+            "size": "887282816",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "b016376250a89227c2d65150b5d9e9631a1befa7cf7462c6eb856c1d4e10a388",
+            "download": {
+                "default": "https://huggingface.co/rozek/42dot_LLM-SFT-1.3B_GGUF/resolve/main/42dot_LLM-SFT-1.3B_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "42dot_LLM-SFT-1.3B_Q5_K_M.gguf",
+            "size": "1030708352",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "304ea03009cee7b28ca046f237652a20b34045c96ba81b8049c56f426a4891b2",
+            "download": {
+                "default": "https://huggingface.co/rozek/42dot_LLM-SFT-1.3B_GGUF/resolve/main/42dot_LLM-SFT-1.3B_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "42dot_LLM-SFT-1.3B_Q6_K.gguf",
+            "size": "1183097984",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b5142622d7172384de21a3e593e6c04fc342185a321afe7c0500905d41f03c99",
+            "download": {
+                "default": "https://huggingface.co/rozek/42dot_LLM-SFT-1.3B_GGUF/resolve/main/42dot_LLM-SFT-1.3B_Q6_K.gguf"
+            }
+        },
+        {
+            "name": "42dot_LLM-SFT-1.3B_Q8_0.gguf",
+            "size": "1531647104",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "e21bb38167e201f49430a794bee509312dbcc6a2e12327e22b978164b380a5ba",
+            "download": {
+                "default": "https://huggingface.co/rozek/42dot_LLM-SFT-1.3B_GGUF/resolve/main/42dot_LLM-SFT-1.3B_Q8_0.gguf"
+            }
+        },
+        {
+            "name": "42dot_LLM-SFT-1.3B.gguf",
+            "size": "5759210592",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ac7a54e797c18efcd49f77a501fccc9dff73681da54401e199e9e659f67ce5be",
+            "download": {
+                "default": "https://huggingface.co/rozek/42dot_LLM-SFT-1.3B_GGUF/resolve/main/42dot_LLM-SFT-1.3B.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

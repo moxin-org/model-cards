@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/MiniCPM-2B-dpo-fp32-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-02T10:47:50Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "minicpm-2b-dpo-fp32.Q3_K_S.gguf",
+            "size": "1278050208",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "3bcb04b55abb63ba673c8b693883e7e5c84dda15e612058f1045403e917bd4ea",
+            "download": {
+                "default": "https://huggingface.co/s3nh/MiniCPM-2B-dpo-fp32-GGUF/resolve/main/minicpm-2b-dpo-fp32.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "minicpm-2b-dpo-fp32.Q4_K_M.gguf",
+            "size": "1729503200",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c1cad0dc46a05b1608048dfd5fc01187e3a550880ff9c7e8d1c5931e4e7457b9",
+            "download": {
+                "default": "https://huggingface.co/s3nh/MiniCPM-2B-dpo-fp32-GGUF/resolve/main/minicpm-2b-dpo-fp32.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "minicpm-2b-dpo-fp32.Q5_K_M.gguf",
+            "size": "2007052544",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5dc64ccb1ec57654512ec80d0c14743682a8055c84a93a000a264e690c297ab9",
+            "download": {
+                "default": "https://huggingface.co/s3nh/MiniCPM-2B-dpo-fp32-GGUF/resolve/main/minicpm-2b-dpo-fp32.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "minicpm-2b-dpo-fp32.Q6_K.gguf",
+            "size": "2367267136",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "a9fd247152ee30c494d8c9a88964adb8f13ef96001e64763c1714e69585b6ef8",
+            "download": {
+                "default": "https://huggingface.co/s3nh/MiniCPM-2B-dpo-fp32-GGUF/resolve/main/minicpm-2b-dpo-fp32.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "minicpm-2b-dpo-fp32.Q8_0.gguf",
+            "size": "2898590816",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "469385c6f2c05ddd708ea0815b5f143ae200a4571fd1ee0469b2d883d83f52b9",
+            "download": {
+                "default": "https://huggingface.co/s3nh/MiniCPM-2B-dpo-fp32-GGUF/resolve/main/minicpm-2b-dpo-fp32.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

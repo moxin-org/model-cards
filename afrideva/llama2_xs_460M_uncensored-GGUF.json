@@ -1,0 +1,93 @@
+{
+    "id": "afrideva/llama2_xs_460M_uncensored-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-21T04:09:16Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llama2_xs_460m_uncensored.fp16.gguf",
+            "size": "925454304",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4481be4762f8d1ee18bb8532d8477cb8a9c983f6a2d981e94efd51f08a0aaf5b",
+            "download": {
+                "default": "https://huggingface.co/afrideva/llama2_xs_460M_uncensored-GGUF/resolve/main/llama2_xs_460m_uncensored.fp16.gguf"
+            }
+        },
+        {
+            "name": "llama2_xs_460m_uncensored.q2_k.gguf",
+            "size": "212556800",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e003df0d9ac0bb070e55e3223d11a1845b56d79e5e2283e7654babfb3a9cca17",
+            "download": {
+                "default": "https://huggingface.co/afrideva/llama2_xs_460M_uncensored-GGUF/resolve/main/llama2_xs_460m_uncensored.q2_k.gguf"
+            }
+        },
+        {
+            "name": "llama2_xs_460m_uncensored.q3_k_m.gguf",
+            "size": "238874624",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ad6a2853f45ad08c829e8e37b1d8cb01bd856bcaf6ff131e1f8b9a40e33be39d",
+            "download": {
+                "default": "https://huggingface.co/afrideva/llama2_xs_460M_uncensored-GGUF/resolve/main/llama2_xs_460m_uncensored.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "llama2_xs_460m_uncensored.q4_k_m.gguf",
+            "size": "288515072",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f866b951cf7e56e27905809136840571cab01a84f1aabdf9f19c1bdaf1919b92",
+            "download": {
+                "default": "https://huggingface.co/afrideva/llama2_xs_460M_uncensored-GGUF/resolve/main/llama2_xs_460m_uncensored.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "llama2_xs_460m_uncensored.q5_k_m.gguf",
+            "size": "333292544",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a742c430d05a9aff097d4c208028b6af6487be86c3ed2f9e1411d0ded143a3a1",
+            "download": {
+                "default": "https://huggingface.co/afrideva/llama2_xs_460M_uncensored-GGUF/resolve/main/llama2_xs_460m_uncensored.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "llama2_xs_460m_uncensored.q6_k.gguf",
+            "size": "380868608",
+            "quantization": "",
+            "tags": [],
+            "sha256": "bafeb790275cefd4f1621b9459e18dce249be530513361ce7fa6ae5cef0ce84c",
+            "download": {
+                "default": "https://huggingface.co/afrideva/llama2_xs_460M_uncensored-GGUF/resolve/main/llama2_xs_460m_uncensored.q6_k.gguf"
+            }
+        },
+        {
+            "name": "llama2_xs_460m_uncensored.q8_0.gguf",
+            "size": "492670976",
+            "quantization": "",
+            "tags": [],
+            "sha256": "82466e72f1691af155f09c9a7101c7b91978fcb85c58e14f0b0ac7f7c7ce6154",
+            "download": {
+                "default": "https://huggingface.co/afrideva/llama2_xs_460M_uncensored-GGUF/resolve/main/llama2_xs_460m_uncensored.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,143 @@
+{
+    "id": "second-state/C4AI-Command-R-v01-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-18T08:40:37Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "c4ai-command-r-v01-Q2_K.gguf",
+            "size": "13817386816",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "7a9a832c18eec01b0440bf46e7b5bd18299f89add9ed6b925531c7200267145d",
+            "download": {
+                "default": "https://huggingface.co/second-state/C4AI-Command-R-v01-GGUF/resolve/main/c4ai-command-r-v01-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "c4ai-command-r-v01-Q3_K_L.gguf",
+            "size": "19149395776",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "38adabcf5a1e9d51234f60f66f866bc13471c60382da8849997023fb2624b9b9",
+            "download": {
+                "default": "https://huggingface.co/second-state/C4AI-Command-R-v01-GGUF/resolve/main/c4ai-command-r-v01-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "c4ai-command-r-v01-Q3_K_M.gguf",
+            "size": "17618474816",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "9584c42535c2d38f3ed71f1bcc19d3f649dfafca6f626950b4394ce4bdb85b96",
+            "download": {
+                "default": "https://huggingface.co/second-state/C4AI-Command-R-v01-GGUF/resolve/main/c4ai-command-r-v01-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "c4ai-command-r-v01-Q3_K_S.gguf",
+            "size": "15862110016",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "a2af44e788c17401a483e91082c7c0adbe5231df015d8f5726d07a5beb3a527e",
+            "download": {
+                "default": "https://huggingface.co/second-state/C4AI-Command-R-v01-GGUF/resolve/main/c4ai-command-r-v01-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "c4ai-command-r-v01-Q4_0.gguf",
+            "size": "20229429056",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "43245ec1cb49dd9f6f2241bc03b01f2f57faade025b1b54792b0e476ea2b8322",
+            "download": {
+                "default": "https://huggingface.co/second-state/C4AI-Command-R-v01-GGUF/resolve/main/c4ai-command-r-v01-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "c4ai-command-r-v01-Q4_K_M.gguf",
+            "size": "21527041856",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a9f5e2f9bfc65eee6af2191e9ec9a3aec748afde5417d331d4c8eb771c89798c",
+            "download": {
+                "default": "https://huggingface.co/second-state/C4AI-Command-R-v01-GGUF/resolve/main/c4ai-command-r-v01-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "c4ai-command-r-v01-Q4_K_S.gguf",
+            "size": "20378326848",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "5c9da883c00eb482b46379118a51a59a502509ca4a1be99e7c644fc403c6175e",
+            "download": {
+                "default": "https://huggingface.co/second-state/C4AI-Command-R-v01-GGUF/resolve/main/c4ai-command-r-v01-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "c4ai-command-r-v01-Q5_0.gguf",
+            "size": "24339846976",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "545ab221b92b3ba0152a378f03b620119fb0cbf1f8be2f80f180bae1f55e3f87",
+            "download": {
+                "default": "https://huggingface.co/second-state/C4AI-Command-R-v01-GGUF/resolve/main/c4ai-command-r-v01-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "c4ai-command-r-v01-Q5_K_M.gguf",
+            "size": "25008314176",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "cb5ab4e6b51077c27120144401c43173fadea4c7c691d4322b53121599db592b",
+            "download": {
+                "default": "https://huggingface.co/second-state/C4AI-Command-R-v01-GGUF/resolve/main/c4ai-command-r-v01-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "c4ai-command-r-v01-Q5_K_S.gguf",
+            "size": "24339846976",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "648a22f52c06b74473e4381d4d0d47078f6985bada46e4b168bfe09ac3f85f71",
+            "download": {
+                "default": "https://huggingface.co/second-state/C4AI-Command-R-v01-GGUF/resolve/main/c4ai-command-r-v01-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "c4ai-command-r-v01-Q6_K.gguf",
+            "size": "28707166016",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "eb0e82f7742f8bfafa5a01407aaa811d0d42fc6227969f9b137632b2d288ad9d",
+            "download": {
+                "default": "https://huggingface.co/second-state/C4AI-Command-R-v01-GGUF/resolve/main/c4ai-command-r-v01-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "c4ai-command-r-v01-Q8_0.gguf",
+            "size": "37179004736",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "bc49062c243a188ddb957e8d777800501e7ea95254334e196836c4284bddc299",
+            "download": {
+                "default": "https://huggingface.co/second-state/C4AI-Command-R-v01-GGUF/resolve/main/c4ai-command-r-v01-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 8192,
+    "vector_size": 0,
+    "metrics": {}
+}

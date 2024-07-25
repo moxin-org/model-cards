@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/OrcaMaidXL-17B-32k-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-17T17:46:06Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "OrcaMaidXL-17B-32k.IQ3_M.gguf",
+            "size": "8193377888",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "c580a34e4c6b377f3af5858f1e21cb682e156bc5bda2b747c8702cb7c4b674ba",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaidXL-17B-32k-GGUF/resolve/main/OrcaMaidXL-17B-32k.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "OrcaMaidXL-17B-32k.IQ3_S.gguf",
+            "size": "7760963168",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "0138df6b37b077edb003bdbd7de57b9886e3d93dbc31062708ca5efa3149704b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaidXL-17B-32k-GGUF/resolve/main/OrcaMaidXL-17B-32k.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "OrcaMaidXL-17B-32k.IQ3_XS.gguf",
+            "size": "7356196448",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "e02e2a0dd4aa112d667815ed21024e043c976236c56ee1fc2778e039e8f58bce",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaidXL-17B-32k-GGUF/resolve/main/OrcaMaidXL-17B-32k.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "OrcaMaidXL-17B-32k.IQ4_XS.gguf",
+            "size": "9583570528",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "0f547ec284702993338918aeecd9ccfbac2d75fb42719bbf49d97bddff94d67b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaidXL-17B-32k-GGUF/resolve/main/OrcaMaidXL-17B-32k.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "OrcaMaidXL-17B-32k.Q2_K.gguf",
+            "size": "6680428128",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "b80fa9b2ade6c3fe956e419d9931ce0cdd6586dc44b1f20c2475b8d78d0bcbf6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaidXL-17B-32k-GGUF/resolve/main/OrcaMaidXL-17B-32k.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "OrcaMaidXL-17B-32k.Q3_K_L.gguf",
+            "size": "9476245088",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "f5c8221749750fbb2b489ceb1a6f827f72de19ddb35a33c89ee0dbb80ac8c785",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaidXL-17B-32k-GGUF/resolve/main/OrcaMaidXL-17B-32k.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "OrcaMaidXL-17B-32k.Q3_K_M.gguf",
+            "size": "8677688928",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "924589b47a6471a8341e85ab40b83a9593726005bb039adced39b31cc852885a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaidXL-17B-32k-GGUF/resolve/main/OrcaMaidXL-17B-32k.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "OrcaMaidXL-17B-32k.Q3_K_S.gguf",
+            "size": "7760963168",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "2e2dcf4794add8a3f7abc13cc966154e52dcfc331ff2ad8b3658eff49cfb88a2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaidXL-17B-32k-GGUF/resolve/main/OrcaMaidXL-17B-32k.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "OrcaMaidXL-17B-32k.Q4_K_M.gguf",
+            "size": "10707758688",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "7f0bda98e591591b74bad4eabf383c6c7f2da3ecfda3b110fdb6efb1188093ef",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaidXL-17B-32k-GGUF/resolve/main/OrcaMaidXL-17B-32k.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "OrcaMaidXL-17B-32k.Q4_K_S.gguf",
+            "size": "10123791968",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "4850c5967b5d0d0877c2c58bfd5d1a188e15472ef49a8d5abc2d435d1c7ed685",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaidXL-17B-32k-GGUF/resolve/main/OrcaMaidXL-17B-32k.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "OrcaMaidXL-17B-32k.Q5_K_M.gguf",
+            "size": "12554071648",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "7503aa7e8fbf335ef6d825e2ac7c28e74431867ee4bda6a6d94ccfdcbff0218e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaidXL-17B-32k-GGUF/resolve/main/OrcaMaidXL-17B-32k.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "OrcaMaidXL-17B-32k.Q5_K_S.gguf",
+            "size": "12219141728",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "9024b83ccb3ac7f6ca46af2c02d881ce4431e4b8711c26286b4d47083e2c3c7d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaidXL-17B-32k-GGUF/resolve/main/OrcaMaidXL-17B-32k.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "OrcaMaidXL-17B-32k.Q6_K.gguf",
+            "size": "14515779168",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "4af24eeb1a83d9865c9db5b11c41fe44f565e391418ca67698ca28dcf672a3eb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaidXL-17B-32k-GGUF/resolve/main/OrcaMaidXL-17B-32k.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "OrcaMaidXL-17B-32k.Q8_0.gguf",
+            "size": "18703765088",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "c5b7ade1f7274e39d2ce8a7b69f41f3a2505df72a990d40f454bfc0ea5480cd1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaidXL-17B-32k-GGUF/resolve/main/OrcaMaidXL-17B-32k.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

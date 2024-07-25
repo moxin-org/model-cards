@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/meditron-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-30T22:11:31Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "meditron-7b.Q2_K.gguf",
+            "size": "2825940800",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "3c7d29c948a9ed6562654a183f486619a65629497f933bc4e8eda21ce0674a3f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/meditron-7B-GGUF/resolve/main/meditron-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "meditron-7b.Q3_K_L.gguf",
+            "size": "3597111104",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "b2d746226f38d878ef5f62a59ec66489504b90592883d373e97eacba3dc1b941",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/meditron-7B-GGUF/resolve/main/meditron-7b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "meditron-7b.Q3_K_M.gguf",
+            "size": "3298004800",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "a7711bd2a3a38ba719f646b2d568bce28c0ec8c5f8922ccd4ae95ec44d8f3e13",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/meditron-7B-GGUF/resolve/main/meditron-7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "meditron-7b.Q3_K_S.gguf",
+            "size": "2948304704",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "1983cbd712eabf331d482e503451d0366a1b7706341dfae2f804f2a800e4efcd",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/meditron-7B-GGUF/resolve/main/meditron-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "meditron-7b.Q4_0.gguf",
+            "size": "3825807168",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "4b51ef2491cef2baac3156dcb1226408edb03a85eff69b2b5255e20de150d3ab",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/meditron-7B-GGUF/resolve/main/meditron-7b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "meditron-7b.Q4_K_M.gguf",
+            "size": "4081004352",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "057d248c4d1d95ca4fd867f740bd7c00406c6e844944709c2fedebc246a1a511",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/meditron-7B-GGUF/resolve/main/meditron-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "meditron-7b.Q4_K_S.gguf",
+            "size": "3856740160",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "9fc104a0f8d66eaaf7243cbfaca2c9f8e9f924f3e68bbc0a45c42d4180f77ef5",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/meditron-7B-GGUF/resolve/main/meditron-7b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "meditron-7b.Q5_0.gguf",
+            "size": "4651691840",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "0e2c702cccc5713da38c393f48f44719bbfd53a14a7e0735e6b7b2feddd2eba4",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/meditron-7B-GGUF/resolve/main/meditron-7b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "meditron-7b.Q5_K_M.gguf",
+            "size": "4783157056",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "6557cdd525c4b73370b2c229283ba8ca67cdd574e33b1e121c558ee2fb2dfb77",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/meditron-7B-GGUF/resolve/main/meditron-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "meditron-7b.Q5_K_S.gguf",
+            "size": "4651691840",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "9164ef8ce7d1755a9a5c4d809c2e2e2d02c963f221cae4a5ce9308cdeac212d9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/meditron-7B-GGUF/resolve/main/meditron-7b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "meditron-7b.Q6_K.gguf",
+            "size": "5529194304",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "ed593751bdd3d35defe922d0587da0e0aeb3e292d4eba35ed418ebecc95b2bd7",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/meditron-7B-GGUF/resolve/main/meditron-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "meditron-7b.Q8_0.gguf",
+            "size": "7161089856",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "f5be684027526bb0c081f3aaf2ffc9e25b6a775ecb9387c1293ed194173f867b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/meditron-7B-GGUF/resolve/main/meditron-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

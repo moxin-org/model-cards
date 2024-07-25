@@ -1,0 +1,113 @@
+{
+    "id": "ycros/llmTechChat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "ycros",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-27T03:31:59Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llmTechChat.Q3_K_L.gguf",
+            "size": "3822025024",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "8064a1d83354b5c7bdb342b9661094e006fa4ecf2d59b2fa96f08082e1d07c1d",
+            "download": {
+                "default": "https://huggingface.co/ycros/llmTechChat-GGUF/resolve/main/llmTechChat.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "llmTechChat.Q3_K_M.gguf",
+            "size": "3518986560",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "7be214c3ee346138a00ea1d8dc3c3a62d004e96ef652bab48382143af0280c10",
+            "download": {
+                "default": "https://huggingface.co/ycros/llmTechChat-GGUF/resolve/main/llmTechChat.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "llmTechChat.Q3_K_S.gguf",
+            "size": "3164567872",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "f7a68da26ab39d8477e4236ebdc968f5ad0d7fd7446dca91c6ceb4deaa892e39",
+            "download": {
+                "default": "https://huggingface.co/ycros/llmTechChat-GGUF/resolve/main/llmTechChat.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "llmTechChat.Q4_K_M.gguf",
+            "size": "4368439616",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "2f9b4a8e57b3772e4ad80cdddc7eca56f4105270b1af640475907495180f0597",
+            "download": {
+                "default": "https://huggingface.co/ycros/llmTechChat-GGUF/resolve/main/llmTechChat.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "llmTechChat.Q4_K_S.gguf",
+            "size": "4140374336",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "78084533473de15e5fc7f53d1d5077dd8e75cbfdb105b68697a653f90afa8e32",
+            "download": {
+                "default": "https://huggingface.co/ycros/llmTechChat-GGUF/resolve/main/llmTechChat.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "llmTechChat.Q5_K_M.gguf",
+            "size": "5131409728",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5db5399cfdbd5b74491850bb96016073a24b7bb93cfaee2b7ca169a34d893fa2",
+            "download": {
+                "default": "https://huggingface.co/ycros/llmTechChat-GGUF/resolve/main/llmTechChat.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "llmTechChat.Q5_K_S.gguf",
+            "size": "4997716288",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "3227015a0f35a6ac2b849eae383b085b4436deb2fc64d536a1cb059b92e838a4",
+            "download": {
+                "default": "https://huggingface.co/ycros/llmTechChat-GGUF/resolve/main/llmTechChat.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "llmTechChat.Q6_K.gguf",
+            "size": "5942065472",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "1681a0e23f117a4195073b2f2b6c8a0bdaaf169d885122ffa8e3ba100af216dc",
+            "download": {
+                "default": "https://huggingface.co/ycros/llmTechChat-GGUF/resolve/main/llmTechChat.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "llmTechChat.Q8_0.gguf",
+            "size": "7695857984",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "9bb34a49a11b956074ab30897492cde65f1e623a72238ad4cfbeffee1b0a672c",
+            "download": {
+                "default": "https://huggingface.co/ycros/llmTechChat-GGUF/resolve/main/llmTechChat.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

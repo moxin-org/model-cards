@@ -1,0 +1,53 @@
+{
+    "id": "TheBloke/Venus-103b-v1.2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-15T19:21:30Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "venus-103b-v1.2.Q2_K.gguf",
+            "size": "43509424736",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "12e902adbae3dae050468fb260dcac50ea7e4d6ee861d65ec3ee9884bac8afdf",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Venus-103b-v1.2-GGUF/resolve/main/venus-103b-v1.2.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "venus-103b-v1.2.Q3_K_M.gguf",
+            "size": "49463648864",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "40a792cfe41c75905bd2ddd6163521bc821467fc4f2826a2833c4f9d38769619",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Venus-103b-v1.2-GGUF/resolve/main/venus-103b-v1.2.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "venus-103b-v1.2.Q3_K_S.gguf",
+            "size": "44456174176",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "f3bf584c4bd88f6f400f204a6898c524d2a8f39e4f5d95f1f8ae00816f17cabf",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Venus-103b-v1.2-GGUF/resolve/main/venus-103b-v1.2.Q3_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

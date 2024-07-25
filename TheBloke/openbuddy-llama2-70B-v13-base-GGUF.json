@@ -1,0 +1,123 @@
+{
+    "id": "TheBloke/openbuddy-llama2-70B-v13-base-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-16T10:09:49Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "openbuddy-llama2-70b-v13-base.Q2_K.gguf",
+            "size": "29332347232",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "821d97624ece1bdd0933136f11f462ba0752308208796d8b6fdb64f4d3d9c536",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/openbuddy-llama2-70B-v13-base-GGUF/resolve/main/openbuddy-llama2-70b-v13-base.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-llama2-70b-v13-base.Q3_K_L.gguf",
+            "size": "36205615456",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "6cd1a3affac1ee8463bda0cb5e73222dfd54e4fe2d0cf6813a65d498f1cd1522",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/openbuddy-llama2-70B-v13-base-GGUF/resolve/main/openbuddy-llama2-70b-v13-base.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-llama2-70b-v13-base.Q3_K_M.gguf",
+            "size": "33244436832",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "1bc1d7ffebc95f278fad161328439b85237f6e2bcf6428b384777932b2d787d5",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/openbuddy-llama2-70B-v13-base-GGUF/resolve/main/openbuddy-llama2-70b-v13-base.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-llama2-70b-v13-base.Q3_K_S.gguf",
+            "size": "29977074016",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "6e183dab7042e4d9c57a4a542eead46cddf36ea77918e1807ecbf2b2ead534ef",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/openbuddy-llama2-70B-v13-base-GGUF/resolve/main/openbuddy-llama2-70b-v13-base.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-llama2-70b-v13-base.Q4_0.gguf",
+            "size": "38936156512",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "1b4ebf39a99bddc36c7b6b70540cbd02ef3bcf492dede33a1056ff4ff975824a",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/openbuddy-llama2-70B-v13-base-GGUF/resolve/main/openbuddy-llama2-70b-v13-base.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-llama2-70b-v13-base.Q4_K_M.gguf",
+            "size": "41486817632",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "9ecf952ec0c50b1d8c1bcd037c019a0854c0379b709cc712d95149ad40b61eb5",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/openbuddy-llama2-70B-v13-base-GGUF/resolve/main/openbuddy-llama2-70b-v13-base.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-llama2-70b-v13-base.Q4_K_S.gguf",
+            "size": "39137483104",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "5367bd62aaa836372a9bc8d1d42417247a90b6be4ab3d195f9b378aead22d119",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/openbuddy-llama2-70B-v13-base-GGUF/resolve/main/openbuddy-llama2-70b-v13-base.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-llama2-70b-v13-base.Q5_0.gguf",
+            "size": "47531071840",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "61972e64c8dc9a414e952fd9e2e6abef775696f697d25922892b131701a5936f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/openbuddy-llama2-70B-v13-base-GGUF/resolve/main/openbuddy-llama2-70b-v13-base.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-llama2-70b-v13-base.Q5_K_M.gguf",
+            "size": "48823441760",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "872327ac3d8c6ec1097a550feeab181c87ccbb45acf4ee530f637760763da35a",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/openbuddy-llama2-70B-v13-base-GGUF/resolve/main/openbuddy-llama2-70b-v13-base.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-llama2-70b-v13-base.Q5_K_S.gguf",
+            "size": "47531071840",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "9be070f14eaab45502594e7a70718df988914c9298c03de6be30ba1a5847c243",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/openbuddy-llama2-70B-v13-base-GGUF/resolve/main/openbuddy-llama2-70b-v13-base.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

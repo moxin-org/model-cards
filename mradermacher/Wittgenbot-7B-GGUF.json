@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Wittgenbot-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-06T10:54:34Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Wittgenbot-7B.IQ3_M.gguf",
+            "size": "3284891904",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "b7102fb3ba0fcbcd8c0f03a8ef140f525529fa6e82c041e54dbd52d1cf07f7b3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Wittgenbot-7B-GGUF/resolve/main/Wittgenbot-7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Wittgenbot-7B.IQ3_S.gguf",
+            "size": "3182393600",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "01f29e9e879abe461cfbda88e9a24ed092c79976df4e7a94a559e589bfd19b86",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Wittgenbot-7B-GGUF/resolve/main/Wittgenbot-7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Wittgenbot-7B.IQ3_XS.gguf",
+            "size": "3018815744",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "8411e0932b5c572b5bc90ebf7a349542b50df61e0d87df3f69e7fa0039c095b7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Wittgenbot-7B-GGUF/resolve/main/Wittgenbot-7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Wittgenbot-7B.IQ4_XS.gguf",
+            "size": "3944388864",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "fdc9de2c7c8738e92d510fbc7d28493bf16d0a4a991977fa694f399927ee965f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Wittgenbot-7B-GGUF/resolve/main/Wittgenbot-7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Wittgenbot-7B.Q2_K.gguf",
+            "size": "2719242496",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "0ac7ca1e2b18976cce9cb32096815a4cc0fef8db97664c8bacfad16746a29eb6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Wittgenbot-7B-GGUF/resolve/main/Wittgenbot-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Wittgenbot-7B.Q3_K_L.gguf",
+            "size": "3822024960",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "53f0a508b241398c4487cbbfe24bbd92bb32b658139471ccc922d48878975d26",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Wittgenbot-7B-GGUF/resolve/main/Wittgenbot-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Wittgenbot-7B.Q3_K_M.gguf",
+            "size": "3518986496",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "8ad3443faf3fa92108c2d32d2171d783e1faa84070b22da380cccc4c3ab8a068",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Wittgenbot-7B-GGUF/resolve/main/Wittgenbot-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Wittgenbot-7B.Q3_K_S.gguf",
+            "size": "3164567808",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "89cdf8cdc2ae7647ec624de8c5b53366fca189045bd44a869babe4f78b11b36e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Wittgenbot-7B-GGUF/resolve/main/Wittgenbot-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Wittgenbot-7B.Q4_K_M.gguf",
+            "size": "4368439552",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e8055db6e3aa0ce14eb1f1a78af4b6d163f3078903b95b1fbb293443cdeab9a9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Wittgenbot-7B-GGUF/resolve/main/Wittgenbot-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Wittgenbot-7B.Q4_K_S.gguf",
+            "size": "4140374272",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "f209bc20dcdab841798ac772b67b8a982bebca1df983d1a3557d92e1cb55a0bf",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Wittgenbot-7B-GGUF/resolve/main/Wittgenbot-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Wittgenbot-7B.Q5_K_M.gguf",
+            "size": "5131409664",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "525df603a21fc01d483ee4e4698862f3ea6a8d351dd720328c059621d37d998e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Wittgenbot-7B-GGUF/resolve/main/Wittgenbot-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Wittgenbot-7B.Q5_K_S.gguf",
+            "size": "4997716224",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "a062baa3b1fb5532ca27c70c71fa949732e6e989fe8c5c678b5ad9340fb0b36d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Wittgenbot-7B-GGUF/resolve/main/Wittgenbot-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Wittgenbot-7B.Q6_K.gguf",
+            "size": "5942065408",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "d6b9e9950f843c94f6892654147ace00cc76db8494e6b4e1ad8c1868bd8e593b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Wittgenbot-7B-GGUF/resolve/main/Wittgenbot-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Wittgenbot-7B.Q8_0.gguf",
+            "size": "7695857920",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "2d322da4444f49153cb937414ea321114a865afde7f5bf09a4b2b56e54b22aa2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Wittgenbot-7B-GGUF/resolve/main/Wittgenbot-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

@@ -1,0 +1,83 @@
+{
+    "id": "NurtureAI/neural-chat-7b-v3-16k-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "NurtureAI",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-15T04:09:36Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "neural-chat-7b-v3-16k-f16.gguf",
+            "size": "14484731456",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c33b5c8a5cdf0b89cc1cc89581740aef51f7f68b0b30ee6411fb07b79cd42285",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/neural-chat-7b-v3-16k-GGUF/resolve/main/neural-chat-7b-v3-16k-f16.gguf"
+            }
+        },
+        {
+            "name": "neural-chat-7b-v3-16k-q2_k.gguf",
+            "size": "3083097728",
+            "quantization": "",
+            "tags": [],
+            "sha256": "50be788420a6e9121c374753eb0d78fc9252869f65e68140dcef22b4ea8c8335",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/neural-chat-7b-v3-16k-GGUF/resolve/main/neural-chat-7b-v3-16k-q2_k.gguf"
+            }
+        },
+        {
+            "name": "neural-chat-7b-v3-16k-q4_k_m.gguf",
+            "size": "4368438912",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dcbeb034aa46864e5fb9ac6e0ff9add39e2b262072332986476cff43ee738051",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/neural-chat-7b-v3-16k-GGUF/resolve/main/neural-chat-7b-v3-16k-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "neural-chat-7b-v3-16k-q5_k_m.gguf",
+            "size": "5131409024",
+            "quantization": "",
+            "tags": [],
+            "sha256": "da1a8ef59d48ab039b05280357f136a86a7cb4d0dc76d8521d5760fe88a3c48e",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/neural-chat-7b-v3-16k-GGUF/resolve/main/neural-chat-7b-v3-16k-q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "neural-chat-7b-v3-16k-q5_k.gguf",
+            "size": "5131409024",
+            "quantization": "",
+            "tags": [],
+            "sha256": "da1a8ef59d48ab039b05280357f136a86a7cb4d0dc76d8521d5760fe88a3c48e",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/neural-chat-7b-v3-16k-GGUF/resolve/main/neural-chat-7b-v3-16k-q5_k.gguf"
+            }
+        },
+        {
+            "name": "neural-chat-7b-v3-16k-q8_0.gguf",
+            "size": "7695857280",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a179cd4cf8a66c6f2665e566bab29b4be8d51327525d10aa7a258f5d2b8903a1",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/neural-chat-7b-v3-16k-GGUF/resolve/main/neural-chat-7b-v3-16k-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

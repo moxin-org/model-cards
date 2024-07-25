@@ -1,0 +1,93 @@
+{
+    "id": "jeiku/RPGodzilla_3.43B_GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "jeiku",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-25T20:33:59Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "RPGodzilla-f16.gguf",
+            "size": "6862451456",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3b4b80a6fb5af2d5ea162a20f392bf19b9fc0a3107271d97ab460490f896bf9e",
+            "download": {
+                "default": "https://huggingface.co/jeiku/RPGodzilla_3.43B_GGUF/resolve/main/RPGodzilla-f16.gguf"
+            }
+        },
+        {
+            "name": "RPGodzilla-Q2_K.gguf",
+            "size": "1317273952",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "01014e7d7bed85efbeb1c1777b144ad6020a82fc920e3278890e8abd76db1c77",
+            "download": {
+                "default": "https://huggingface.co/jeiku/RPGodzilla_3.43B_GGUF/resolve/main/RPGodzilla-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "RPGodzilla-Q3_K.gguf",
+            "size": "1697067872",
+            "quantization": "Q3_K",
+            "tags": [],
+            "sha256": "309b26155af2a1d609cacf2bee7b8d92e9118e4da70074d80c15fa2571d28b43",
+            "download": {
+                "default": "https://huggingface.co/jeiku/RPGodzilla_3.43B_GGUF/resolve/main/RPGodzilla-Q3_K.gguf"
+            }
+        },
+        {
+            "name": "RPGodzilla-Q4_K_S.gguf",
+            "size": "1980083552",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "26d35ce422a788f09cc2b28a0b1820b41f19d724ca4878c28f768c1b15fa847b",
+            "download": {
+                "default": "https://huggingface.co/jeiku/RPGodzilla_3.43B_GGUF/resolve/main/RPGodzilla-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "RPGodzilla-Q4_K.gguf",
+            "size": "2090777952",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "e28a56fe7136f56de375573822fdda3bb449bb630513b16a8478dd53b06ced2b",
+            "download": {
+                "default": "https://huggingface.co/jeiku/RPGodzilla_3.43B_GGUF/resolve/main/RPGodzilla-Q4_K.gguf"
+            }
+        },
+        {
+            "name": "RPGodzilla-Q5_K.gguf",
+            "size": "2442747232",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "bc5e591d86cf64866fb11bfad3b0bf4f76549817ca83b29a9b3e622ad326dea5",
+            "download": {
+                "default": "https://huggingface.co/jeiku/RPGodzilla_3.43B_GGUF/resolve/main/RPGodzilla-Q5_K.gguf"
+            }
+        },
+        {
+            "name": "RPGodzilla-Q6_K.gguf",
+            "size": "2816714592",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "413cdc4164ffd3333bb825b80038e6ab29ecf45deb37855ae600f01a9bdebc51",
+            "download": {
+                "default": "https://huggingface.co/jeiku/RPGodzilla_3.43B_GGUF/resolve/main/RPGodzilla-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,43 @@
+{
+    "id": "hbacard/NeuralBeagle14-French-Aplaca-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "hbacard",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-19T17:53:20Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "NeuralBeagle14-French-Aplaca.Q4_0.gguf",
+            "size": "4108916736",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "1d55d3193d60d5aa65c531cc9fb12a4861538f20208142dbf80d6334105d9580",
+            "download": {
+                "default": "https://huggingface.co/hbacard/NeuralBeagle14-French-Aplaca-GGUF/resolve/main/NeuralBeagle14-French-Aplaca.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "NeuralBeagle14-French-Aplaca.Q5_K_M.gguf",
+            "size": "5131409408",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "3db646deb7c02dffcf73cdf14c4b2139cd7baa76e18a4288a7a4cd7a3bdddb36",
+            "download": {
+                "default": "https://huggingface.co/hbacard/NeuralBeagle14-French-Aplaca-GGUF/resolve/main/NeuralBeagle14-French-Aplaca.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

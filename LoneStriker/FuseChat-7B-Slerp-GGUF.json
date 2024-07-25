@@ -1,0 +1,73 @@
+{
+    "id": "LoneStriker/FuseChat-7B-Slerp-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LoneStriker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-28T14:47:48Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "FuseChat-7B-Slerp-Q3_K_L.gguf",
+            "size": "3822034944",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "e107e56bf746442f608cb23627594cca7f737c5dde84f1e916a570c7b8fc324f",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/FuseChat-7B-Slerp-GGUF/resolve/main/FuseChat-7B-Slerp-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "FuseChat-7B-Slerp-Q4_K_M.gguf",
+            "size": "4368450624",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "ef3d2c2f9a1cb0c474422534c3d9f847ef3688bf0e98b0dc23aa76387410efd8",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/FuseChat-7B-Slerp-GGUF/resolve/main/FuseChat-7B-Slerp-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "FuseChat-7B-Slerp-Q5_K_M.gguf",
+            "size": "5131421760",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "1b70a8979a88fb9f9d45a4b8067c73d513b59abe484f394ea12843da4daa723f",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/FuseChat-7B-Slerp-GGUF/resolve/main/FuseChat-7B-Slerp-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "FuseChat-7B-Slerp-Q6_K.gguf",
+            "size": "5942078592",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b3eeb62aeb461097d3e5a90c798afc8a9207947b194120696ed3f14514f72236",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/FuseChat-7B-Slerp-GGUF/resolve/main/FuseChat-7B-Slerp-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "FuseChat-7B-Slerp-Q8_0.gguf",
+            "size": "7695875072",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "081d978ce8ce2a063210d082cabd40f1f6bd056ace9857e8f6dfc3fc1c73bf6d",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/FuseChat-7B-Slerp-GGUF/resolve/main/FuseChat-7B-Slerp-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,43 @@
+{
+    "id": "Nishant2609/llama-2-7b-miniplatypus-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Nishant2609",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-24T08:16:58Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llama-2-7b-miniplatypus.Q5_K_M.gguf",
+            "size": "4784002240",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "77a732684e154260d35505aff4a7af796bd3828fd29f40e9108da9fa84ead731",
+            "download": {
+                "default": "https://huggingface.co/Nishant2609/llama-2-7b-miniplatypus-GGUF/resolve/main/llama-2-7b-miniplatypus.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "mini.gguf",
+            "size": "13478950016",
+            "quantization": "",
+            "tags": [],
+            "sha256": "96941c8c8802c5c93e8f872da11f7180b6c405b5d474a61ff82e0aae5e0c5aab",
+            "download": {
+                "default": "https://huggingface.co/Nishant2609/llama-2-7b-miniplatypus-GGUF/resolve/main/mini.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

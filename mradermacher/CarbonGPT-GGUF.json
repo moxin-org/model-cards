@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/CarbonGPT-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-08T06:05:26Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "CarbonGPT.IQ3_M.gguf",
+            "size": "3114865280",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "d88f4672192f392756af9506d02050945581600f2712a6270a2a1eb9287fdf32",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CarbonGPT-GGUF/resolve/main/CarbonGPT.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "CarbonGPT.IQ3_S.gguf",
+            "size": "2948305536",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "9ae74d78fe36560709d7b48a9a99a7945e3790c03d7a55523ffb13f068fcc149",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CarbonGPT-GGUF/resolve/main/CarbonGPT.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "CarbonGPT.IQ3_XS.gguf",
+            "size": "2796524160",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "8c6e552b1ccc9bb08075c34eeacf582fcbce219d2b1f4b1cd1b83ea76f672117",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CarbonGPT-GGUF/resolve/main/CarbonGPT.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "CarbonGPT.IQ4_XS.gguf",
+            "size": "3647517312",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "fa0f9f4398a8cc6a43a85495d2d0c333f46c4a9151b09d19f372b8d35dacf5bc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CarbonGPT-GGUF/resolve/main/CarbonGPT.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "CarbonGPT.Q2_K.gguf",
+            "size": "2532864640",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "1946ac251805a5b25f8615f93a4388f69f4ddc7ed5e1cd7bbaf5d2482daba7ce",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CarbonGPT-GGUF/resolve/main/CarbonGPT.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "CarbonGPT.Q3_K_L.gguf",
+            "size": "3597111936",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "2a01bf1d56941132b9250cc89fd6c789c214215cb9b170d9e19f5cc642967bc6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CarbonGPT-GGUF/resolve/main/CarbonGPT.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "CarbonGPT.Q3_K_M.gguf",
+            "size": "3298005632",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "247d3d1bdf4bb997b7bfcb56b2e3a1af0254f446187333ebc9b773f8863dc215",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CarbonGPT-GGUF/resolve/main/CarbonGPT.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "CarbonGPT.Q3_K_S.gguf",
+            "size": "2948305536",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "e2f424455a1f6c35fc2a3b2eebe92e4edf0224ebde53141d08a663b4501b7866",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CarbonGPT-GGUF/resolve/main/CarbonGPT.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "CarbonGPT.Q4_K_M.gguf",
+            "size": "4081005184",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e0fad569d933588368689175493131cb3c476f77f7f5ad907d9ac58cd02ef966",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CarbonGPT-GGUF/resolve/main/CarbonGPT.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "CarbonGPT.Q4_K_S.gguf",
+            "size": "3856740992",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "5d186212715fc195fffe9bd49c8397a7efb058497320424dbacdc35b89532413",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CarbonGPT-GGUF/resolve/main/CarbonGPT.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "CarbonGPT.Q5_K_M.gguf",
+            "size": "4783157888",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "9f360919d55548344db330fea1be4fd37d63aaacbd179f1a36ea8efa91d3e390",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CarbonGPT-GGUF/resolve/main/CarbonGPT.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "CarbonGPT.Q5_K_S.gguf",
+            "size": "4651692672",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "2b28e6f3284c91f4b807561040a986e9a28c1a64ff508a0c10f6789720ac7db5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CarbonGPT-GGUF/resolve/main/CarbonGPT.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "CarbonGPT.Q6_K.gguf",
+            "size": "5529195136",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "da9f92292328c8db7d79437b0b0895c34f6624ce3bb753a69463fbb3a7453405",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CarbonGPT-GGUF/resolve/main/CarbonGPT.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "CarbonGPT.Q8_0.gguf",
+            "size": "7161090688",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "0a41d5088f5f6b34ca5bf031381f1260ecf245d10bfb2c66ba726935973fa8df",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CarbonGPT-GGUF/resolve/main/CarbonGPT.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

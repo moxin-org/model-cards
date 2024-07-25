@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/NeuralHermes-2.5-Mistral-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-29T22:30:14Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "neuralhermes-2.5-mistral-7b.Q2_K.gguf",
+            "size": "3083107584",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "8bb7af11074f2b127777e9316701ad18e389c90f5d21e1312b0eaeb2fcc4f060",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralHermes-2.5-Mistral-7B-GGUF/resolve/main/neuralhermes-2.5-mistral-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "neuralhermes-2.5-mistral-7b.Q3_K_L.gguf",
+            "size": "3822035008",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "ba92a08598d41a87e3b295498fd55d0854a6a21caf22fea863c77eee7ba4268f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralHermes-2.5-Mistral-7B-GGUF/resolve/main/neuralhermes-2.5-mistral-7b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "neuralhermes-2.5-mistral-7b.Q3_K_M.gguf",
+            "size": "3518996544",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ad0f83a051b19407f2f452b539fefb55d8e6a6e16bd9a00facb107af33a0782b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralHermes-2.5-Mistral-7B-GGUF/resolve/main/neuralhermes-2.5-mistral-7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "neuralhermes-2.5-mistral-7b.Q3_K_S.gguf",
+            "size": "3164577856",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "41e91a9c1c8cabe5117d89cf7b5bd1b07f138337c2c3d6092aa360b2f9c2d692",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralHermes-2.5-Mistral-7B-GGUF/resolve/main/neuralhermes-2.5-mistral-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "neuralhermes-2.5-mistral-7b.Q4_0.gguf",
+            "size": "4108928128",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "56784883abd31d58d215e4294954447345fe7931d77c234fa654e3f5deb7e824",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralHermes-2.5-Mistral-7B-GGUF/resolve/main/neuralhermes-2.5-mistral-7b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "neuralhermes-2.5-mistral-7b.Q4_K_M.gguf",
+            "size": "4368450688",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "fe42898e848a6610dc33c05b58e5b6bf802ed2d7301aeb8a7f7567154ac46603",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralHermes-2.5-Mistral-7B-GGUF/resolve/main/neuralhermes-2.5-mistral-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "neuralhermes-2.5-mistral-7b.Q4_K_S.gguf",
+            "size": "4140385408",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "c59b63ee0107e755031eb038bbe1060d5a0c03b22a3da455b5da20482c21a5ef",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralHermes-2.5-Mistral-7B-GGUF/resolve/main/neuralhermes-2.5-mistral-7b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "neuralhermes-2.5-mistral-7b.Q5_0.gguf",
+            "size": "4997728384",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "fa7b23f38479afa49d9778a6bf57c8a987ff1b0cda7912c16a8b5b3e76f427c1",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralHermes-2.5-Mistral-7B-GGUF/resolve/main/neuralhermes-2.5-mistral-7b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "neuralhermes-2.5-mistral-7b.Q5_K_M.gguf",
+            "size": "5131421824",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "88c61b96652685991f954523c7bb634629724232f2ec95fd939fc414c3fa78a5",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralHermes-2.5-Mistral-7B-GGUF/resolve/main/neuralhermes-2.5-mistral-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "neuralhermes-2.5-mistral-7b.Q5_K_S.gguf",
+            "size": "4997728384",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "6de9b83843e3ecbbfb1a8de7b664ffc34040bfab0d403fd9f2e4c0cea44f0995",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralHermes-2.5-Mistral-7B-GGUF/resolve/main/neuralhermes-2.5-mistral-7b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "neuralhermes-2.5-mistral-7b.Q6_K.gguf",
+            "size": "5942078656",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "0567c2e16da171b9c5241521acc7e9c3f74ccb9fb8903fdf01bc4498bb5893ab",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralHermes-2.5-Mistral-7B-GGUF/resolve/main/neuralhermes-2.5-mistral-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "neuralhermes-2.5-mistral-7b.Q8_0.gguf",
+            "size": "7695875136",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "1cf3b8f3371797b7a4f25249befb053be8e45ff8fe6f503618f1795d2d925a9b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/NeuralHermes-2.5-Mistral-7B-GGUF/resolve/main/neuralhermes-2.5-mistral-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

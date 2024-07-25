@@ -1,0 +1,43 @@
+{
+    "id": "core-3/kuno-royale-v3-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "core-3",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-06T17:18:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "kuno-royale-v3-7b.Q4_K_M.gguf",
+            "size": "4368438976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "034cc4fe343f6c4a6a2f8f8b3bd1a7fa572780aab0ed62a1b83ce338815f28f2",
+            "download": {
+                "default": "https://huggingface.co/core-3/kuno-royale-v3-7b-GGUF/resolve/main/kuno-royale-v3-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "kuno-royale-v3-7b.Q5_K_M.gguf",
+            "size": "5131409088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ab5227f96919c352243df9b0772cc5a40df34cbcb24ee9747fc965ca49b816a8",
+            "download": {
+                "default": "https://huggingface.co/core-3/kuno-royale-v3-7b-GGUF/resolve/main/kuno-royale-v3-7b.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,33 @@
+{
+    "id": "PowerInfer/ReluLLaMA-70B-PowerInfer-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "PowerInfer",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-16T02:51:46Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llama-70b-relu.q4.powerinfer.gguf",
+            "size": "42180827232",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3bf8fdd9bf0070763849bb4ea0dd69d1ebecdc40f97105e215adad0282453bde",
+            "download": {
+                "default": "https://huggingface.co/PowerInfer/ReluLLaMA-70B-PowerInfer-GGUF/resolve/main/llama-70b-relu.q4.powerinfer.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,53 @@
+{
+    "id": "second-state/Meta-Llama-3.1-70B-Instruct-GGUF",
+    "status": "published",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-07-24T01:11:15Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Meta-Llama-3.1-70B-Instruct-Q3_K_S.gguf",
+            "size": "30912051072",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "aa301ccfb2d5dd8c17fafa0ffc3a70a0ad4aff90bd80292eebc766311cf31335",
+            "download": {
+                "default": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Meta-Llama-3.1-70B-Instruct-Q4_0.gguf",
+            "size": "39969732480",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "ba14342cb57a0e883e70aa60f949a10a1571f26cb83afd588a66a8cbd1c54221",
+            "download": {
+                "default": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Meta-Llama-3.1-70B-Instruct-Q4_K_M.gguf",
+            "size": "42520393600",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "84a1ab5096ee3c72db938e00995f96e1126f43b7f60a56718ddff41214e9bb72",
+            "download": {
+                "default": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 8192,
+    "vector_size": 0,
+    "metrics": null
+}

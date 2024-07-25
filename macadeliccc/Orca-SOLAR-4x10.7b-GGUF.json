@@ -1,0 +1,53 @@
+{
+    "id": "macadeliccc/Orca-SOLAR-4x10.7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "macadeliccc",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-18T03:19:58Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Orca-SOLAR-4x10.7b_q8_0.gguf",
+            "size": "38357619328",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5377a4aee1cdaba56e74e4fc55f65af4d96f0b3e6ec04e12bf93cbd44102783a",
+            "download": {
+                "default": "https://huggingface.co/macadeliccc/Orca-SOLAR-4x10.7b-GGUF/resolve/main/Orca-SOLAR-4x10.7b_q8_0.gguf"
+            }
+        },
+        {
+            "name": "Orca-SOLAR-4x10.7b.q4_k_m.gguf",
+            "size": "21822288544",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9968fd2c945d59ba9108d196077dd8086d726a05ad3b5a8d63b1655a51eb4f1e",
+            "download": {
+                "default": "https://huggingface.co/macadeliccc/Orca-SOLAR-4x10.7b-GGUF/resolve/main/Orca-SOLAR-4x10.7b.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "Orca-SOLAR-4x10.7b.q5_k_m.gguf",
+            "size": "25600963232",
+            "quantization": "",
+            "tags": [],
+            "sha256": "384e969c436382b3c22b3ee609c194a716918496b0ae3e588cb0d28b8b2bd375",
+            "download": {
+                "default": "https://huggingface.co/macadeliccc/Orca-SOLAR-4x10.7b-GGUF/resolve/main/Orca-SOLAR-4x10.7b.q5_k_m.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

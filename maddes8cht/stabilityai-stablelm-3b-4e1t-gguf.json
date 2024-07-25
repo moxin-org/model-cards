@@ -1,0 +1,163 @@
+{
+    "id": "maddes8cht/stabilityai-stablelm-3b-4e1t-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "maddes8cht",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-15T12:52:59Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "stabilityai-stablelm-3b-4e1t-Q2_K.gguf",
+            "size": "1198771168",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "ea7ed1c96e6e82b763f4bdb5943102fbeead913bc3bee662f7744b7302759da0",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/stabilityai-stablelm-3b-4e1t-gguf/resolve/main/stabilityai-stablelm-3b-4e1t-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "stabilityai-stablelm-3b-4e1t-Q3_K_L.gguf",
+            "size": "1508564448",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "aa639c59f13f2be1e468f79a16e27d5ff6da5f3082cece7405a0b4898acc414a",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/stabilityai-stablelm-3b-4e1t-gguf/resolve/main/stabilityai-stablelm-3b-4e1t-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "stabilityai-stablelm-3b-4e1t-Q3_K_M.gguf",
+            "size": "1391418848",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "31d0a04cd6dcb5b6afc055e9bc3880e47afa70e0be6b3ccf348bd6aa4412762e",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/stabilityai-stablelm-3b-4e1t-gguf/resolve/main/stabilityai-stablelm-3b-4e1t-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "stabilityai-stablelm-3b-4e1t-Q3_K_S.gguf",
+            "size": "1254448608",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "2b5bc34ad785855d6846a4831e6799fdbb00e2f343b02c55f18f7d7bd49c16b3",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/stabilityai-stablelm-3b-4e1t-gguf/resolve/main/stabilityai-stablelm-3b-4e1t-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "stabilityai-stablelm-3b-4e1t-Q4_0.gguf",
+            "size": "1608570848",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "a3507d7cef2eaf9e2fb609f3e248c9e085a47ee8f93bc36293457fc455d858be",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/stabilityai-stablelm-3b-4e1t-gguf/resolve/main/stabilityai-stablelm-3b-4e1t-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "stabilityai-stablelm-3b-4e1t-Q4_1.gguf",
+            "size": "1775216608",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "61f7c85465b84bfeb644ceb1ece2004337799c30192f47859ccadc698b6f47da",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/stabilityai-stablelm-3b-4e1t-gguf/resolve/main/stabilityai-stablelm-3b-4e1t-Q4_1.gguf"
+            }
+        },
+        {
+            "name": "stabilityai-stablelm-3b-4e1t-Q4_K_M.gguf",
+            "size": "1708595168",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "95b0adb29fa2652cef7332bffefe030058c6628262874ec0472de4defef9867e",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/stabilityai-stablelm-3b-4e1t-gguf/resolve/main/stabilityai-stablelm-3b-4e1t-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "stabilityai-stablelm-3b-4e1t-Q4_K_S.gguf",
+            "size": "1620695008",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "21bebb90b1d25ce9ed91185ddf335528f43362363c90ea06afd8660aa42cfb0c",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/stabilityai-stablelm-3b-4e1t-gguf/resolve/main/stabilityai-stablelm-3b-4e1t-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "stabilityai-stablelm-3b-4e1t-Q5_0.gguf",
+            "size": "1941862368",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "1efb9d52200d85571caafd0f32e52f2923f9b2f7ba7d430565c8410f87b78c20",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/stabilityai-stablelm-3b-4e1t-gguf/resolve/main/stabilityai-stablelm-3b-4e1t-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "stabilityai-stablelm-3b-4e1t-Q5_1.gguf",
+            "size": "2108508128",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "62ff9d21af916a212a7e1c15da08eec99a7af7dfd55ccde7ca6c300eaba0ea66",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/stabilityai-stablelm-3b-4e1t-gguf/resolve/main/stabilityai-stablelm-3b-4e1t-Q5_1.gguf"
+            }
+        },
+        {
+            "name": "stabilityai-stablelm-3b-4e1t-Q5_K_M.gguf",
+            "size": "1993390048",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "bfad8eea59e09347bad1d4e7214f61c9a90dec90bee497d3f782a26cce0acb2c",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/stabilityai-stablelm-3b-4e1t-gguf/resolve/main/stabilityai-stablelm-3b-4e1t-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "stabilityai-stablelm-3b-4e1t-Q5_K_S.gguf",
+            "size": "1941862368",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "4268a4ba60541d4698a5a22adee9d9e2a7ced771d766bfe9fa33659b5a163d32",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/stabilityai-stablelm-3b-4e1t-gguf/resolve/main/stabilityai-stablelm-3b-4e1t-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "stabilityai-stablelm-3b-4e1t-Q6_K.gguf",
+            "size": "2295984608",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "33485d818d36ca97fe39a7697eb2b5654fca280becf368dd79863ccf392322f8",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/stabilityai-stablelm-3b-4e1t-gguf/resolve/main/stabilityai-stablelm-3b-4e1t-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "stabilityai-stablelm-3b-4e1t-Q8_0.gguf",
+            "size": "2972925408",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "aa11e4848196e38b1c69d39b7b73ae0391e031d21c10569d69adfeb843629076",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/stabilityai-stablelm-3b-4e1t-gguf/resolve/main/stabilityai-stablelm-3b-4e1t-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

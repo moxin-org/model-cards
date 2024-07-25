@@ -1,0 +1,153 @@
+{
+    "id": "second-state/Qwen2-1.5B-Instruct-GGUF",
+    "status": "published",
+    "model_type": "instruct",
+    "name": "Qwen2-1.5B-Instruct",
+    "summary": "Qwen2-1.5B-Instruct",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "1.5b",
+    "requires": "",
+    "released_at": "2024-06-07T04:44:37Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Qwen2-1.5B-Instruct-f16.gguf",
+            "size": "3093666400",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2a79e0e0407877562e18e681c07ba5742ca5010a59e8dd067f2db7ea1aec406f",
+            "download": {
+                "default": "https://huggingface.co/second-state/Qwen2-1.5B-Instruct-GGUF/resolve/main/Qwen2-1.5B-Instruct-f16.gguf"
+            }
+        },
+        {
+            "name": "Qwen2-1.5B-Instruct-Q2_K.gguf",
+            "size": "676301920",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "88847ac80f954dd4cc2ff4011b1cfe1a47e5f67d6df7366b7988f356bd55867d",
+            "download": {
+                "default": "https://huggingface.co/second-state/Qwen2-1.5B-Instruct-GGUF/resolve/main/Qwen2-1.5B-Instruct-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Qwen2-1.5B-Instruct-Q3_K_L.gguf",
+            "size": "880159840",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "6144ec975a1c744c9e335987a18cdd0906bcb6aca77bcd27bb994aa938ffc18e",
+            "download": {
+                "default": "https://huggingface.co/second-state/Qwen2-1.5B-Instruct-GGUF/resolve/main/Qwen2-1.5B-Instruct-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Qwen2-1.5B-Instruct-Q3_K_M.gguf",
+            "size": "824175712",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "8b15dbf9eac4d525d208e28798b23867f7794a908686505d536601bc67151cd7",
+            "download": {
+                "default": "https://huggingface.co/second-state/Qwen2-1.5B-Instruct-GGUF/resolve/main/Qwen2-1.5B-Instruct-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Qwen2-1.5B-Instruct-Q3_K_S.gguf",
+            "size": "760941664",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "3f6195792c2a60198a7709594be682d3fbf2f949abb4c502ca32436d55003752",
+            "download": {
+                "default": "https://huggingface.co/second-state/Qwen2-1.5B-Instruct-GGUF/resolve/main/Qwen2-1.5B-Instruct-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Qwen2-1.5B-Instruct-Q4_0.gguf",
+            "size": "934952032",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "0f9ff67ff4f9b870c3da39355326d6bcf2c2a0dc45eb4f4d322f97537ede6cf2",
+            "download": {
+                "default": "https://huggingface.co/second-state/Qwen2-1.5B-Instruct-GGUF/resolve/main/Qwen2-1.5B-Instruct-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Qwen2-1.5B-Instruct-Q4_K_M.gguf",
+            "size": "986045536",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5c7a0a246cb52da4cdd289966fd6db7d193361c6e990af20a67de759d30bf48b",
+            "download": {
+                "default": "https://huggingface.co/second-state/Qwen2-1.5B-Instruct-GGUF/resolve/main/Qwen2-1.5B-Instruct-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Qwen2-1.5B-Instruct-Q4_K_S.gguf",
+            "size": "940309600",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "9f2f74e84e55b4780c5fd8fe26df72afd31a343b7af2735cd07a8719b2f117d3",
+            "download": {
+                "default": "https://huggingface.co/second-state/Qwen2-1.5B-Instruct-GGUF/resolve/main/Qwen2-1.5B-Instruct-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Qwen2-1.5B-Instruct-Q5_0.gguf",
+            "size": "1098726496",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "816f93be1e8551137d0d9705d49a1cf331e06e23169b7a83b4eebd047e365650",
+            "download": {
+                "default": "https://huggingface.co/second-state/Qwen2-1.5B-Instruct-GGUF/resolve/main/Qwen2-1.5B-Instruct-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Qwen2-1.5B-Instruct-Q5_K_M.gguf",
+            "size": "1125047392",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "3a44ea39745a64b6f789425cfb38c0ddc8dc9cb81823533b14b9ae8c1bd30527",
+            "download": {
+                "default": "https://huggingface.co/second-state/Qwen2-1.5B-Instruct-GGUF/resolve/main/Qwen2-1.5B-Instruct-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Qwen2-1.5B-Instruct-Q5_K_S.gguf",
+            "size": "1098726496",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "94e374ffb77e1d5c48622f783d89266393a528b65620b90541af903e4e9e92a7",
+            "download": {
+                "default": "https://huggingface.co/second-state/Qwen2-1.5B-Instruct-GGUF/resolve/main/Qwen2-1.5B-Instruct-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Qwen2-1.5B-Instruct-Q6_K.gguf",
+            "size": "1272736864",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "95ac778aae8560788916c37055f2fa8d550e5655081ba28fcfd1339ddba3106e",
+            "download": {
+                "default": "https://huggingface.co/second-state/Qwen2-1.5B-Instruct-GGUF/resolve/main/Qwen2-1.5B-Instruct-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Qwen2-1.5B-Instruct-Q8_0.gguf",
+            "size": "1646570080",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "b4b8cc447dcb63faa971b3098ad286e946858dde23cf5bee8984752093dbf712",
+            "download": {
+                "default": "https://huggingface.co/second-state/Qwen2-1.5B-Instruct-GGUF/resolve/main/Qwen2-1.5B-Instruct-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "chatml",
+    "reverse_prompt": "",
+    "context_size": 131072,
+    "vector_size": 0,
+    "metrics": {}
+}

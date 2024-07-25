@@ -1,0 +1,43 @@
+{
+    "id": "hbacard/llemma_7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "hbacard",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-21T00:14:35Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llemma_7b.Q4_0.gguf",
+            "size": "3825898272",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "b88ebb89262b67109385be58c0501ad2e299c95165e024dd61a981677af13da7",
+            "download": {
+                "default": "https://huggingface.co/hbacard/llemma_7b-GGUF/resolve/main/llemma_7b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "llemma_7b.Q5_K_M.gguf",
+            "size": "4783256352",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "1edf85663289a89b15b634a8428815544c986d61e647b9c7b632108cd9f1be74",
+            "download": {
+                "default": "https://huggingface.co/hbacard/llemma_7b-GGUF/resolve/main/llemma_7b.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

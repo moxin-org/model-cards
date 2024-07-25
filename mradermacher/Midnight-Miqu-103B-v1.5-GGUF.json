@@ -1,0 +1,73 @@
+{
+    "id": "mradermacher/Midnight-Miqu-103B-v1.5-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-21T03:21:50Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Midnight-Miqu-103B-v1.5.IQ3_M.gguf",
+            "size": "46435617440",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "c29916e2645c373f250b592082b6e64fac7ecced41a3884453fd531278df1e29",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Midnight-Miqu-103B-v1.5-GGUF/resolve/main/Midnight-Miqu-103B-v1.5.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Midnight-Miqu-103B-v1.5.IQ3_S.gguf",
+            "size": "44898142880",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "a456547dd5bf3c77f9a6f7fe9cf89813a5e9a08bf434979481ff6c26e7d18781",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Midnight-Miqu-103B-v1.5-GGUF/resolve/main/Midnight-Miqu-103B-v1.5.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Midnight-Miqu-103B-v1.5.IQ3_XS.gguf",
+            "size": "42357967520",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "176ef3262b962fe139f7e22b2a00b8b40060e98a525dec9e8cd0e8b58b9e7d08",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Midnight-Miqu-103B-v1.5-GGUF/resolve/main/Midnight-Miqu-103B-v1.5.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Midnight-Miqu-103B-v1.5.Q2_K.gguf",
+            "size": "38226168480",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "57dbcdb06db7fb4da68342f7e58dad234e25d121f7eedbe0edd9529c65cbebde",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Midnight-Miqu-103B-v1.5-GGUF/resolve/main/Midnight-Miqu-103B-v1.5.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Midnight-Miqu-103B-v1.5.Q3_K_S.gguf",
+            "size": "44764449440",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "4c8c2ac4a722958a3235d7fdfc9673ba308e9778371bd5c146c0f1c51b628405",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Midnight-Miqu-103B-v1.5-GGUF/resolve/main/Midnight-Miqu-103B-v1.5.Q3_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

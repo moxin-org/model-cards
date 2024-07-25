@@ -1,0 +1,93 @@
+{
+    "id": "SakuraLLM/Sakura-13B-LNovel-v0.9b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "SakuraLLM",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-13T13:54:26Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "sakura-13b-lnovel-v0.9b-fp16.gguf",
+            "size": "28342590432",
+            "quantization": "",
+            "tags": [],
+            "sha256": "78fa92844c2e451a3a76fb26c93a847593706e0c6ce99af82cd498254494ce3f",
+            "download": {
+                "default": "https://huggingface.co/SakuraLLM/Sakura-13B-LNovel-v0.9b-GGUF/resolve/main/sakura-13b-lnovel-v0.9b-fp16.gguf"
+            }
+        },
+        {
+            "name": "sakura-13b-lnovel-v0.9b-Q2_K.gguf",
+            "size": "5742808128",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "d15e8b6954f6f5f9b9320916e15660fab5a86bed5403d07377a8ef83c2d4d350",
+            "download": {
+                "default": "https://huggingface.co/SakuraLLM/Sakura-13B-LNovel-v0.9b-GGUF/resolve/main/sakura-13b-lnovel-v0.9b-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "sakura-13b-lnovel-v0.9b-Q3_K_M.gguf",
+            "size": "7690230848",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "57c53d8c5317c7cace8a21a90c18ab8c88699365c60c0ebd45c5d4b005c5ed28",
+            "download": {
+                "default": "https://huggingface.co/SakuraLLM/Sakura-13B-LNovel-v0.9b-GGUF/resolve/main/sakura-13b-lnovel-v0.9b-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "sakura-13b-lnovel-v0.9b-Q4_K_M.gguf",
+            "size": "9449073728",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "70492eb77d7ad90613a56b0b214cdec7957f7af6d64fb93851b004c48a1151b7",
+            "download": {
+                "default": "https://huggingface.co/SakuraLLM/Sakura-13B-LNovel-v0.9b-GGUF/resolve/main/sakura-13b-lnovel-v0.9b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "sakura-13b-lnovel-v0.9b-Q5_K_M.gguf",
+            "size": "10884148288",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ab7defef3d88ba25ce7177b0604eaad86872a32ba97c2ff7ebce27e018e3f44a",
+            "download": {
+                "default": "https://huggingface.co/SakuraLLM/Sakura-13B-LNovel-v0.9b-GGUF/resolve/main/sakura-13b-lnovel-v0.9b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "sakura-13b-lnovel-v0.9b-Q6_K.gguf",
+            "size": "12310150208",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "a08883fcdce09a1ede0856703712609ceddff38cf3be93e694eb4246b1ffac08",
+            "download": {
+                "default": "https://huggingface.co/SakuraLLM/Sakura-13B-LNovel-v0.9b-GGUF/resolve/main/sakura-13b-lnovel-v0.9b-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "sakura-13b-lnovel-v0.9b-Q8_0.gguf",
+            "size": "15061720128",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "427d0b7a18cb9f38c16382250fc76b7b450f9a2052bd3944cc69a1a3582857ee",
+            "download": {
+                "default": "https://huggingface.co/SakuraLLM/Sakura-13B-LNovel-v0.9b-GGUF/resolve/main/sakura-13b-lnovel-v0.9b-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

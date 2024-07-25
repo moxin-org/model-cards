@@ -1,0 +1,153 @@
+{
+    "id": "second-state/Baichuan2-7B-Chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-24T04:02:19Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Baichuan2-7B-Chat-ggml-model-q4_0.gguf",
+            "size": "4358639040",
+            "quantization": "",
+            "tags": [],
+            "sha256": "82deec2b1ed20fa996b45898abfcff699a92e8a6dc8e53e4fd487328ec9181a9",
+            "download": {
+                "default": "https://huggingface.co/second-state/Baichuan2-7B-Chat-GGUF/resolve/main/Baichuan2-7B-Chat-ggml-model-q4_0.gguf"
+            }
+        },
+        {
+            "name": "Baichuan2-7B-Chat-Q2_K.gguf",
+            "size": "3268824608",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "c92fb1fe647d34a43e189f874b18f12c51b7a47164df6fdd5c251beb0388d06a",
+            "download": {
+                "default": "https://huggingface.co/second-state/Baichuan2-7B-Chat-GGUF/resolve/main/Baichuan2-7B-Chat-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Baichuan2-7B-Chat-Q3_K_L.gguf",
+            "size": "4078972448",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "83f6988c9259788d3a57e9023c46f69057a6f5c4f84e125ad8ee15c8aabc64c4",
+            "download": {
+                "default": "https://huggingface.co/second-state/Baichuan2-7B-Chat-GGUF/resolve/main/Baichuan2-7B-Chat-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Baichuan2-7B-Chat-Q3_K_M.gguf",
+            "size": "3779866144",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ee0fdfc492fa3b8c7416fc4866975f434584bb4d221b97d617af7589af8d506b",
+            "download": {
+                "default": "https://huggingface.co/second-state/Baichuan2-7B-Chat-GGUF/resolve/main/Baichuan2-7B-Chat-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Baichuan2-7B-Chat-Q3_K_S.gguf",
+            "size": "3430166048",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "bc03e4160009139daa9a238c41880062ee400c57dcc2a44ef18cae8e9c8f6f3c",
+            "download": {
+                "default": "https://huggingface.co/second-state/Baichuan2-7B-Chat-GGUF/resolve/main/Baichuan2-7B-Chat-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Baichuan2-7B-Chat-Q4_0.gguf",
+            "size": "4358639136",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "4b9f374d47fcb357dbb105c3ede2878736dc01a3844040493675ccfdffeef33a",
+            "download": {
+                "default": "https://huggingface.co/second-state/Baichuan2-7B-Chat-GGUF/resolve/main/Baichuan2-7B-Chat-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Baichuan2-7B-Chat-Q4_K_M.gguf",
+            "size": "4613836320",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5943dca13c486852e9a794f6ecb31adc032ebca9ad49770fd74e5e338df45e73",
+            "download": {
+                "default": "https://huggingface.co/second-state/Baichuan2-7B-Chat-GGUF/resolve/main/Baichuan2-7B-Chat-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Baichuan2-7B-Chat-Q4_K_S.gguf",
+            "size": "4389572128",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "277eea791cd42419348c882b4da61f1066cd2dab5f8864a65562c49380de7964",
+            "download": {
+                "default": "https://huggingface.co/second-state/Baichuan2-7B-Chat-GGUF/resolve/main/Baichuan2-7B-Chat-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Baichuan2-7B-Chat-Q5_0.gguf",
+            "size": "5232496160",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "c2d3c9caa7eb3374e541823a21730d8b3c5fa9a3d33ce93da6bd0be2a504e57e",
+            "download": {
+                "default": "https://huggingface.co/second-state/Baichuan2-7B-Chat-GGUF/resolve/main/Baichuan2-7B-Chat-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Baichuan2-7B-Chat-Q5_K_M.gguf",
+            "size": "5363961376",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ed065827a411420c073abfe0adb160c472e263935c8a3d889691f8d602dd4991",
+            "download": {
+                "default": "https://huggingface.co/second-state/Baichuan2-7B-Chat-GGUF/resolve/main/Baichuan2-7B-Chat-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Baichuan2-7B-Chat-Q5_K_S.gguf",
+            "size": "5232496160",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "7158bf235e9b89837d958573d74c2034070e2942d69104a9ce3248696db2b65a",
+            "download": {
+                "default": "https://huggingface.co/second-state/Baichuan2-7B-Chat-GGUF/resolve/main/Baichuan2-7B-Chat-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Baichuan2-7B-Chat-Q6_K.gguf",
+            "size": "6160969248",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "c68c933350b37a2314f3b77705d7d7381662d36bbdc72f7e40bf1719b42136c5",
+            "download": {
+                "default": "https://huggingface.co/second-state/Baichuan2-7B-Chat-GGUF/resolve/main/Baichuan2-7B-Chat-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Baichuan2-7B-Chat-Q8_0.gguf",
+            "size": "7978757664",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "d0541e505e0d16641efa7202e5428de7d652f9d80f85243ce2fe21cce6a54253",
+            "download": {
+                "default": "https://huggingface.co/second-state/Baichuan2-7B-Chat-GGUF/resolve/main/Baichuan2-7B-Chat-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 4096,
+    "vector_size": 0,
+    "metrics": {}
+}

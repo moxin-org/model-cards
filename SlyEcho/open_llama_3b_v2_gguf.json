@@ -1,0 +1,83 @@
+{
+    "id": "SlyEcho/open_llama_3b_v2_gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "SlyEcho",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-08-31T16:40:15Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "open-llama-3b-v2-f16.gguf",
+            "size": "6854036032",
+            "quantization": "",
+            "tags": [],
+            "sha256": "46978f4b19536f0d443ae75d2627fc4c15a8e1e85285f87b67710f8449633d63",
+            "download": {
+                "default": "https://huggingface.co/SlyEcho/open_llama_3b_v2_gguf/resolve/main/open-llama-3b-v2-f16.gguf"
+            }
+        },
+        {
+            "name": "open-llama-3b-v2-q4_0.gguf",
+            "size": "1928724096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5d49a8182262ba3174b3882a65f60bc6472845b420a92f58445dbbaee573dd31",
+            "download": {
+                "default": "https://huggingface.co/SlyEcho/open_llama_3b_v2_gguf/resolve/main/open-llama-3b-v2-q4_0.gguf"
+            }
+        },
+        {
+            "name": "open-llama-3b-v2-q4_1.gguf",
+            "size": "2142868096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9f11a025e5dc73442e8e943af7a4d4f0137216119235090f6c4c4c3f5c933697",
+            "download": {
+                "default": "https://huggingface.co/SlyEcho/open_llama_3b_v2_gguf/resolve/main/open-llama-3b-v2-q4_1.gguf"
+            }
+        },
+        {
+            "name": "open-llama-3b-v2-q5_0.gguf",
+            "size": "2357012096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "93bc066868b8efe0da4c8f5925834a6b30afaf7d48125f4025f288bf6b2e39d2",
+            "download": {
+                "default": "https://huggingface.co/SlyEcho/open_llama_3b_v2_gguf/resolve/main/open-llama-3b-v2-q5_0.gguf"
+            }
+        },
+        {
+            "name": "open-llama-3b-v2-q5_1.gguf",
+            "size": "2571156096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5e12b1164ede981451d584943954f51362f60be429aa80d6488a523a4d13afa9",
+            "download": {
+                "default": "https://huggingface.co/SlyEcho/open_llama_3b_v2_gguf/resolve/main/open-llama-3b-v2-q5_1.gguf"
+            }
+        },
+        {
+            "name": "open-llama-3b-v2-q8_0.gguf",
+            "size": "3641876096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e85176fb15435c0222bf6edcfe740100996948a06a8ee27919de5500b1379865",
+            "download": {
+                "default": "https://huggingface.co/SlyEcho/open_llama_3b_v2_gguf/resolve/main/open-llama-3b-v2-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

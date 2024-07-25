@@ -1,0 +1,223 @@
+{
+    "id": "mradermacher/airoboros-l2-70b-2.2-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-04T04:00:39Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "airoboros-l2-70b-2.2.i1-IQ4_XS.gguf",
+            "size": "37139067840",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "8bb3a033cb8c08ea1cb568ac6cd5c7a6855827bc8f5277ed9771eed4c3080096",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/airoboros-l2-70b-2.2-i1-GGUF/resolve/main/airoboros-l2-70b-2.2.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "airoboros-l2-70b-2.2.i1-Q5_K_S.gguf",
+            "size": "47770645440",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "b4217fda161a75dc0b6d2e255ee3f9b0ca492843ecb4e6d37ac16682a078c693",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/airoboros-l2-70b-2.2-i1-GGUF/resolve/main/airoboros-l2-70b-2.2.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "airoboros-l2-70b-2.2.i1-Q5_K_M.gguf",
+            "size": "49063015360",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e326d84365a6dc31b08616b563b750a606b994bee6802d8f24dd30911d3c0c78",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/airoboros-l2-70b-2.2-i1-GGUF/resolve/main/airoboros-l2-70b-2.2.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "airoboros-l2-70b-2.2.i1-Q4_K_S.gguf",
+            "size": "39558984640",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "8916c3fae52c3cc0962077574a1dbc395f44699414f6b3b9439318d60c939b98",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/airoboros-l2-70b-2.2-i1-GGUF/resolve/main/airoboros-l2-70b-2.2.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "airoboros-l2-70b-2.2.i1-Q4_K_M.gguf",
+            "size": "41732158400",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "32636d4acac62fa4f7fc624e776ad349fff14886315931e72b3523a83358aaa8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/airoboros-l2-70b-2.2-i1-GGUF/resolve/main/airoboros-l2-70b-2.2.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "airoboros-l2-70b-2.2.i1-Q4_0.gguf",
+            "size": "39328297920",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "bfa86ded78c0dd60c8d62b1f8de266994fc4472bb8a2a1a23eb2c34c014f9f78",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/airoboros-l2-70b-2.2-i1-GGUF/resolve/main/airoboros-l2-70b-2.2.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "airoboros-l2-70b-2.2.i1-Q3_K_S.gguf",
+            "size": "30228542400",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "afb81a42ddafcc5db3a7e30f0a10bae772fc1bd8465adf3fab03fa3d764810d1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/airoboros-l2-70b-2.2-i1-GGUF/resolve/main/airoboros-l2-70b-2.2.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "airoboros-l2-70b-2.2.i1-Q3_K_M.gguf",
+            "size": "33583985600",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "92abfc66088ed29afea089380229c11cf3ee71452645f32922d64f5e165607ca",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/airoboros-l2-70b-2.2-i1-GGUF/resolve/main/airoboros-l2-70b-2.2.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "airoboros-l2-70b-2.2.i1-Q3_K_L.gguf",
+            "size": "36457083840",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "702c6cb0a7454446379110f60c31fad504e1ffdacd24299975d131420a093a14",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/airoboros-l2-70b-2.2-i1-GGUF/resolve/main/airoboros-l2-70b-2.2.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "airoboros-l2-70b-2.2.i1-Q2_K.gguf",
+            "size": "25771684800",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "14c6e1d52e7310f72a3ba03e7550121ff52b55249e1af95c17eff6a7b2c090cf",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/airoboros-l2-70b-2.2-i1-GGUF/resolve/main/airoboros-l2-70b-2.2.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "airoboros-l2-70b-2.2.i1-IQ1_M.gguf",
+            "size": "16287314880",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "d36a9b54665c9c2620f330ba5d6e980d595832e213abcbd8426927f0e931a24b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/airoboros-l2-70b-2.2-i1-GGUF/resolve/main/airoboros-l2-70b-2.2.i1-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "airoboros-l2-70b-2.2.i1-IQ3_XXS.gguf",
+            "size": "26925528000",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "0c0b088dc3fe499e1fe3131000144f3407d68ca62934f22a866cb444e5bdd221",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/airoboros-l2-70b-2.2-i1-GGUF/resolve/main/airoboros-l2-70b-2.2.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "airoboros-l2-70b-2.2.i1-IQ3_XS.gguf",
+            "size": "28624221120",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "a0135874cceb79543d50ed318ef9bbc0ea804e30468d0662be105f13d2170829",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/airoboros-l2-70b-2.2-i1-GGUF/resolve/main/airoboros-l2-70b-2.2.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "airoboros-l2-70b-2.2.i1-IQ3_S.gguf",
+            "size": "30228542400",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "76deb5740806aa683a2c3891dbdf5b5c851d99d878bfce63d7b2ccdd3ce8ea3e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/airoboros-l2-70b-2.2-i1-GGUF/resolve/main/airoboros-l2-70b-2.2.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "airoboros-l2-70b-2.2.i1-IQ3_M.gguf",
+            "size": "31253525440",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "9b82141385809c527f7fd519270e36359e913bb258ccedc90f3eb9cd2c250373",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/airoboros-l2-70b-2.2-i1-GGUF/resolve/main/airoboros-l2-70b-2.2.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "airoboros-l2-70b-2.2.i1-IQ2_XXS.gguf",
+            "size": "18633503680",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "443563a071b0c03549659efe3f0e5e037fbdcf2302a9d02118f4ec3312ca17aa",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/airoboros-l2-70b-2.2-i1-GGUF/resolve/main/airoboros-l2-70b-2.2.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "airoboros-l2-70b-2.2.i1-IQ2_XS.gguf",
+            "size": "20678226880",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "25e8a8adfbb77fa998434c718023013a946c5a35ebf1cac3dc52ed3bbd7fbc75",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/airoboros-l2-70b-2.2-i1-GGUF/resolve/main/airoboros-l2-70b-2.2.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "airoboros-l2-70b-2.2.i1-IQ2_S.gguf",
+            "size": "21698376640",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "3cb0f1055b8a125760a08593c3326bad01d290b6ff6078c9318a3d33eb99ba5f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/airoboros-l2-70b-2.2-i1-GGUF/resolve/main/airoboros-l2-70b-2.2.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "airoboros-l2-70b-2.2.i1-IQ2_M.gguf",
+            "size": "23575327680",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "78287ab2a25c9b4f084861b1cc250c689db03b4956cb29844540825b3b2c276d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/airoboros-l2-70b-2.2-i1-GGUF/resolve/main/airoboros-l2-70b-2.2.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "airoboros-l2-70b-2.2.i1-IQ1_S.gguf",
+            "size": "14879601600",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "4d6e4618fad719d87f6650709ab2069eff189214b3a8a1fb1f1618944bbb4f85",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/airoboros-l2-70b-2.2-i1-GGUF/resolve/main/airoboros-l2-70b-2.2.i1-IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

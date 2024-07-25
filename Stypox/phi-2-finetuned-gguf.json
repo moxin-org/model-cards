@@ -1,0 +1,33 @@
+{
+    "id": "Stypox/phi-2-finetuned-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Stypox",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-28T18:04:32Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-Q4_0.gguf",
+            "size": "1602468384",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "0eebe0ac6d3918e363c23abb23b190b53fbdbb0c778b7690538f900b0be8a878",
+            "download": {
+                "default": "https://huggingface.co/Stypox/phi-2-finetuned-gguf/resolve/main/ggml-model-Q4_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

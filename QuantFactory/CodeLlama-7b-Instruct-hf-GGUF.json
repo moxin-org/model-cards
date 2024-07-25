@@ -1,0 +1,143 @@
+{
+    "id": "QuantFactory/CodeLlama-7b-Instruct-hf-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "QuantFactory",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-07T04:48:42Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "CodeLlama-7b-Instruct-hf.Q2_K.gguf",
+            "size": "2532940384",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "2a498bf0a9e532c6a395143bdefca5ccaa0dea8fa2011afdfdc3f55944d13a0b",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/CodeLlama-7b-Instruct-hf-GGUF/resolve/main/CodeLlama-7b-Instruct-hf.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-7b-Instruct-hf.Q3_K_L.gguf",
+            "size": "3597194336",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "7f50d8ac798906ed1d2b46ecdfdec4bba66a03e84e25abd261cc27f91bdcfa6a",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/CodeLlama-7b-Instruct-hf-GGUF/resolve/main/CodeLlama-7b-Instruct-hf.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-7b-Instruct-hf.Q3_K_M.gguf",
+            "size": "3298088032",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e7cc56302152cc0d50ceaff1adf472f1edc22853708c879b9ee0b2c928ff3b49",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/CodeLlama-7b-Instruct-hf-GGUF/resolve/main/CodeLlama-7b-Instruct-hf.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-7b-Instruct-hf.Q3_K_S.gguf",
+            "size": "2948387936",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "a705b68b316f1f890ae6bc0522832265a653ccc4bc2884d2fb193c8476562d65",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/CodeLlama-7b-Instruct-hf-GGUF/resolve/main/CodeLlama-7b-Instruct-hf.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-7b-Instruct-hf.Q4_0.gguf",
+            "size": "3825899104",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "a85c6a3d6bd98dac63e7f0049ae74de773c6549d33015012c9093da3d733799a",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/CodeLlama-7b-Instruct-hf-GGUF/resolve/main/CodeLlama-7b-Instruct-hf.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-7b-Instruct-hf.Q4_K_M.gguf",
+            "size": "4081096288",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "24ceee698e690a283ce5e6c424009c15deb5b97bd12bcd852036eb2eb0bf93d3",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/CodeLlama-7b-Instruct-hf-GGUF/resolve/main/CodeLlama-7b-Instruct-hf.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-7b-Instruct-hf.Q4_K_S.gguf",
+            "size": "3856832096",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "dd84da07d370cb2afdf8ccf5b325246ef6c223b3e8df48a21d4b1759dd8c6605",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/CodeLlama-7b-Instruct-hf-GGUF/resolve/main/CodeLlama-7b-Instruct-hf.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-7b-Instruct-hf.Q5_0.gguf",
+            "size": "4651791968",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "076031772208700afdf76b651250ffd256f19e872a55ae042e18af0cdee9f506",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/CodeLlama-7b-Instruct-hf-GGUF/resolve/main/CodeLlama-7b-Instruct-hf.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-7b-Instruct-hf.Q5_K_M.gguf",
+            "size": "4783257184",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "1a3191f8a7c13dc71e97417941d74bba92d646e065e6ca6af33981e6735bf353",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/CodeLlama-7b-Instruct-hf-GGUF/resolve/main/CodeLlama-7b-Instruct-hf.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-7b-Instruct-hf.Q5_K_S.gguf",
+            "size": "4651791968",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "318da5b5c7e5671c9647e9b97e0d7fe4f8deac93fb5e532709abd626a0a3ff6c",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/CodeLlama-7b-Instruct-hf-GGUF/resolve/main/CodeLlama-7b-Instruct-hf.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-7b-Instruct-hf.Q6_K.gguf",
+            "size": "5529303136",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b720f1e840443df9f31ed838da581a47095ad3a6f8d6af3caf9f4eb9214588cc",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/CodeLlama-7b-Instruct-hf-GGUF/resolve/main/CodeLlama-7b-Instruct-hf.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-7b-Instruct-hf.Q8_0.gguf",
+            "size": "7161230432",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "ee087c9b28774b81511a66ccdb0706140572e6882c17265f25ea945f0e0d44f5",
+            "download": {
+                "default": "https://huggingface.co/QuantFactory/CodeLlama-7b-Instruct-hf-GGUF/resolve/main/CodeLlama-7b-Instruct-hf.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

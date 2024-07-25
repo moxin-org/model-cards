@@ -1,0 +1,53 @@
+{
+    "id": "Tensoic/Kan-Llama-SFT-v0.5-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Tensoic",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-18T14:30:40Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "kan-llama-sft-v0.5.Q4_K_M.gguf",
+            "size": "4180282208",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4359fc2349a9fed5c8866f8a42bb35a374a455139305f75c1a582b82e3eb2535",
+            "download": {
+                "default": "https://huggingface.co/Tensoic/Kan-Llama-SFT-v0.5-GGUF/resolve/main/kan-llama-sft-v0.5.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "kan-llama-sft-v0.5.Q5_K_M.gguf",
+            "size": "4891353952",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "44b7158a48a49cc811f72f43c2919b5b58ac24160f0aca1d56c7b8120a69bd81",
+            "download": {
+                "default": "https://huggingface.co/Tensoic/Kan-Llama-SFT-v0.5-GGUF/resolve/main/kan-llama-sft-v0.5.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "kan-llama-sft-v0.5.Q6_K.gguf",
+            "size": "5646867680",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "cfa5a707ffceeefe5826d6ed9b54044480337559fb6b8cefd511abd60562e6cb",
+            "download": {
+                "default": "https://huggingface.co/Tensoic/Kan-Llama-SFT-v0.5-GGUF/resolve/main/kan-llama-sft-v0.5.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

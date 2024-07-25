@@ -1,0 +1,103 @@
+{
+    "id": "viethang/vince62s-phi-2-psy-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "viethang",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-19T10:32:05Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "vince62s-phi-2-psy_f16.gguf",
+            "size": "5563095616",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fa9cf110f62d2a1d62758d98bd6235fbc5655800c377eccfcb3434a470350f2d",
+            "download": {
+                "default": "https://huggingface.co/viethang/vince62s-phi-2-psy-GGUF/resolve/main/vince62s-phi-2-psy_f16.gguf"
+            }
+        },
+        {
+            "name": "vince62s-phi-2-psy_Q4_0.gguf",
+            "size": "1602468448",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "18c520ac3e0ea2f461cbf8d453d2bfe1d3095fb11a52e19320853520ebc1b8d7",
+            "download": {
+                "default": "https://huggingface.co/viethang/vince62s-phi-2-psy-GGUF/resolve/main/vince62s-phi-2-psy_Q4_0.gguf"
+            }
+        },
+        {
+            "name": "vince62s-phi-2-psy_Q4_K_M.gguf",
+            "size": "1737636448",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "991a20b34c6e4fc7f039bf1a1f6413b299c58619c5a49c76f6ed933346eae1b9",
+            "download": {
+                "default": "https://huggingface.co/viethang/vince62s-phi-2-psy-GGUF/resolve/main/vince62s-phi-2-psy_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "vince62s-phi-2-psy_Q4_K_S.gguf",
+            "size": "1631959648",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "933da8c32f94f8db8d01cc2dca5844bc9fc8567eca35394f61dcbf8103fe81c4",
+            "download": {
+                "default": "https://huggingface.co/viethang/vince62s-phi-2-psy-GGUF/resolve/main/vince62s-phi-2-psy_Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "vince62s-phi-2-psy_Q5_K_M.gguf",
+            "size": "2003057248",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "6fb2f4e32ec05d8f551a26e8c380d77d586173e01abee65e1f2e587ba256e7f8",
+            "download": {
+                "default": "https://huggingface.co/viethang/vince62s-phi-2-psy-GGUF/resolve/main/vince62s-phi-2-psy_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "vince62s-phi-2-psy_Q5_K_S.gguf",
+            "size": "1933425248",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "4d00f16a7a031e878aaecdaedd92c241500557a8d3f5a909f84c9115651be6b8",
+            "download": {
+                "default": "https://huggingface.co/viethang/vince62s-phi-2-psy-GGUF/resolve/main/vince62s-phi-2-psy_Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "vince62s-phi-2-psy_Q6_K.gguf",
+            "size": "2285066848",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "07fa299888d78942231b88e1ddbb3aec069cab1e074e7e9f2c2d723e7ac3cb26",
+            "download": {
+                "default": "https://huggingface.co/viethang/vince62s-phi-2-psy-GGUF/resolve/main/vince62s-phi-2-psy_Q6_K.gguf"
+            }
+        },
+        {
+            "name": "vince62s-phi-2-psy_Q8_0.gguf",
+            "size": "2958039648",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "d7215bfdc5bbc6e55f40d567ab0224325a88e03c67e940b31ceb227ddaafc622",
+            "download": {
+                "default": "https://huggingface.co/viethang/vince62s-phi-2-psy-GGUF/resolve/main/vince62s-phi-2-psy_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

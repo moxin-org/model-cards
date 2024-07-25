@@ -1,0 +1,233 @@
+{
+    "id": "mradermacher/HarmonyRP-8x7B-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-08T15:41:57Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "HarmonyRP-8x7B.i1-IQ4_XS.gguf",
+            "size": "25078482304",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "c8fc761d826b54bf7a9e63a5c290ba7c3d90cce44d74ae8cf9b92a949dee0e30",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HarmonyRP-8x7B-i1-GGUF/resolve/main/HarmonyRP-8x7B.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "HarmonyRP-8x7B.i1-Q6_K.gguf",
+            "size": "38378759552",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "9baf24c387113033193eac3473487afb292f3c06778654fafe26a6a489a478d3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HarmonyRP-8x7B-i1-GGUF/resolve/main/HarmonyRP-8x7B.i1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "HarmonyRP-8x7B.i1-Q5_K_S.gguf",
+            "size": "32229279104",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "e0d5905875e0aeb22a1f33138bf5cb64401a2bee7c1775af44606ba3813d41d3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HarmonyRP-8x7B-i1-GGUF/resolve/main/HarmonyRP-8x7B.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "HarmonyRP-8x7B.i1-Q5_K_M.gguf",
+            "size": "33227523456",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "c1d54298dffb6df1019467399f8c99a3190242b316a22971f0b70a4a93025ceb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HarmonyRP-8x7B-i1-GGUF/resolve/main/HarmonyRP-8x7B.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "HarmonyRP-8x7B.i1-Q4_K_S.gguf",
+            "size": "26743522688",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "5d8f3d0e7a570561189ad07c9caebd3db2ce76e6c7fbfb32af2cca8f661faca1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HarmonyRP-8x7B-i1-GGUF/resolve/main/HarmonyRP-8x7B.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "HarmonyRP-8x7B.i1-Q4_K_M.gguf",
+            "size": "28446410112",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4518d4318ad907a01af477e909fcb3b707d9305d2703bd030bf5ff5e57e131bc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HarmonyRP-8x7B-i1-GGUF/resolve/main/HarmonyRP-8x7B.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "HarmonyRP-8x7B.i1-Q4_0.gguf",
+            "size": "26558973312",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "622136424a68665f39903ed809aa74b871d2d50fe271bd9c2a4b75336762b575",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HarmonyRP-8x7B-i1-GGUF/resolve/main/HarmonyRP-8x7B.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "HarmonyRP-8x7B.i1-Q3_K_S.gguf",
+            "size": "20430464384",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "b8936b1783beb1452d08f860e278f784202ed5efcb5dbe25d5239c16dfabbce1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HarmonyRP-8x7B-i1-GGUF/resolve/main/HarmonyRP-8x7B.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "HarmonyRP-8x7B.i1-Q3_K_M.gguf",
+            "size": "22544393600",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "5ef6719274a173891432ff4580d151c09a08c7d644e79a52865d5538ded2da92",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HarmonyRP-8x7B-i1-GGUF/resolve/main/HarmonyRP-8x7B.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "HarmonyRP-8x7B.i1-Q3_K_L.gguf",
+            "size": "24167589248",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "96e5af2b45289246fcb0e7381c278781bad36f983d439608ac9ad45072fa5a9d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HarmonyRP-8x7B-i1-GGUF/resolve/main/HarmonyRP-8x7B.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "HarmonyRP-8x7B.i1-Q2_K.gguf",
+            "size": "17309173120",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "0dd90e5fc9057e055d517f56d5b6f7e6c2c857f7e45bd7e90f0ae2399f8aaa1f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HarmonyRP-8x7B-i1-GGUF/resolve/main/HarmonyRP-8x7B.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "HarmonyRP-8x7B.i1-IQ1_M.gguf",
+            "size": "10665289088",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "d56baa904a862fb9393e5e2c0b3df834a29dcfb5fd3f4bbba3b4f0666cd4c5ed",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HarmonyRP-8x7B-i1-GGUF/resolve/main/HarmonyRP-8x7B.i1-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "HarmonyRP-8x7B.i1-IQ3_XXS.gguf",
+            "size": "18240406912",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "3dc8cb48085c28b688d4c2a15a9c812015bf8a6a230a73efe3d85ac9bee9c61d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HarmonyRP-8x7B-i1-GGUF/resolve/main/HarmonyRP-8x7B.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "HarmonyRP-8x7B.i1-IQ3_XS.gguf",
+            "size": "19348333952",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "6c0aa50d2c4897e8daf39ccc731a7019b1a0159e698e18d8deebae7f0eb92852",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HarmonyRP-8x7B-i1-GGUF/resolve/main/HarmonyRP-8x7B.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "HarmonyRP-8x7B.i1-IQ3_S.gguf",
+            "size": "20430464384",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "2b03830d18c0728c18dace3db1f6aed8a5717a58c791f2192395eac28fcf9422",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HarmonyRP-8x7B-i1-GGUF/resolve/main/HarmonyRP-8x7B.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "HarmonyRP-8x7B.i1-IQ3_M.gguf",
+            "size": "21428708736",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "d88fa79acfc40f9fd4c129c325386fbb09edee4ce4dc09988fadba420ffede8f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HarmonyRP-8x7B-i1-GGUF/resolve/main/HarmonyRP-8x7B.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "HarmonyRP-8x7B.i1-IQ2_XXS.gguf",
+            "size": "12438693248",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "6794522000ca198d06fd04fe3442420c321ba0c25037e254a59649122db6f5f9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HarmonyRP-8x7B-i1-GGUF/resolve/main/HarmonyRP-8x7B.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "HarmonyRP-8x7B.i1-IQ2_XS.gguf",
+            "size": "13857416576",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "d82ed547d4c2bb14b906853f76487fe2c8b5db20b0f88c12cad3dba21a5613d3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HarmonyRP-8x7B-i1-GGUF/resolve/main/HarmonyRP-8x7B.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "HarmonyRP-8x7B.i1-IQ2_S.gguf",
+            "size": "13894583680",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "d387e095d650c7dc6ffe2b8dd2f03cb74dadba92a9c24b61d21ee56937a9524e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HarmonyRP-8x7B-i1-GGUF/resolve/main/HarmonyRP-8x7B.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "HarmonyRP-8x7B.i1-IQ2_M.gguf",
+            "size": "15313307008",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "2553636fac382f99af154d4c8f856d9848d2e65109fa9ac3effac55611dd05c8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HarmonyRP-8x7B-i1-GGUF/resolve/main/HarmonyRP-8x7B.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "HarmonyRP-8x7B.i1-IQ1_S.gguf",
+            "size": "9601246592",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "90b4b321faff799415e2a9edb967ad49521b4776215dfebf4f560759028e8a56",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/HarmonyRP-8x7B-i1-GGUF/resolve/main/HarmonyRP-8x7B.i1-IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

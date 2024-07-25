@@ -1,0 +1,83 @@
+{
+    "id": "uonlp/Vistral-7B-Chat-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "uonlp",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-23T20:35:13Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-vistral-7B-chat-f16.gguf",
+            "size": "14589230144",
+            "quantization": "",
+            "tags": [],
+            "sha256": "957d0977888bbc5f57c65f2f8b64aafe89ff1be3e48c74036919f8270f8a65d1",
+            "download": {
+                "default": "https://huggingface.co/uonlp/Vistral-7B-Chat-gguf/resolve/main/ggml-vistral-7B-chat-f16.gguf"
+            }
+        },
+        {
+            "name": "ggml-vistral-7B-chat-q4_0.gguf",
+            "size": "4145139360",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d7a2da04a18ef169248da63ffd4de4218338257ba6741e19dcbfaf1e42d3382a",
+            "download": {
+                "default": "https://huggingface.co/uonlp/Vistral-7B-Chat-gguf/resolve/main/ggml-vistral-7B-chat-q4_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-vistral-7B-chat-q4_1.gguf",
+            "size": "4591169440",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c0872cb68fa0bcde1e739228d67510b58b5ad8f81d9b27dd4db51205fbb1e69a",
+            "download": {
+                "default": "https://huggingface.co/uonlp/Vistral-7B-Chat-gguf/resolve/main/ggml-vistral-7B-chat-q4_1.gguf"
+            }
+        },
+        {
+            "name": "ggml-vistral-7B-chat-q5_0.gguf",
+            "size": "5037199520",
+            "quantization": "",
+            "tags": [],
+            "sha256": "05864a7651a0f3b578e71173b61105b8bb99ef20686776ad637bd8074ac2862e",
+            "download": {
+                "default": "https://huggingface.co/uonlp/Vistral-7B-Chat-gguf/resolve/main/ggml-vistral-7B-chat-q5_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-vistral-7B-chat-q5_1.gguf",
+            "size": "5483229600",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1fea69e9a40e28322a739326d56650d31003fb13ab70db149941dc64cd9f27fe",
+            "download": {
+                "default": "https://huggingface.co/uonlp/Vistral-7B-Chat-gguf/resolve/main/ggml-vistral-7B-chat-q5_1.gguf"
+            }
+        },
+        {
+            "name": "ggml-vistral-7B-chat-q8.gguf",
+            "size": "7751441984",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b20319edfcb09f144d1aa684ff49f035085b0151810028384528d3330f04e162",
+            "download": {
+                "default": "https://huggingface.co/uonlp/Vistral-7B-Chat-gguf/resolve/main/ggml-vistral-7B-chat-q8.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

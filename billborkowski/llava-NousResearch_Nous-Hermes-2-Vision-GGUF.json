@@ -1,0 +1,43 @@
+{
+    "id": "billborkowski/llava-NousResearch_Nous-Hermes-2-Vision-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "billborkowski",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-09T04:58:30Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mmproj-model-f16.gguf",
+            "size": "839316352",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5c2a602b13c155db542d26fa5884e98e1ca4f2bb947e18957fc32c8f87492182",
+            "download": {
+                "default": "https://huggingface.co/billborkowski/llava-NousResearch_Nous-Hermes-2-Vision-GGUF/resolve/main/mmproj-model-f16.gguf"
+            }
+        },
+        {
+            "name": "NousResearch_Nous-Hermes-2-Vision-GGUF_Q4_0.gguf",
+            "size": "4108928000",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "b3fa9f25cb31da1746288f8bf2e88ab110d28d6510e662efd9f4100c2ea83ba4",
+            "download": {
+                "default": "https://huggingface.co/billborkowski/llava-NousResearch_Nous-Hermes-2-Vision-GGUF/resolve/main/NousResearch_Nous-Hermes-2-Vision-GGUF_Q4_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

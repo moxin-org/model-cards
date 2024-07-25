@@ -1,0 +1,63 @@
+{
+    "id": "klosax/tinyllamas-stories-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "klosax",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-08-21T23:13:44Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tinyllamas-stories-110m-f32.gguf",
+            "size": "537024384",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ef45e1e6f6debc07e7ebe90669e9c1c7700454cb3824674cc0c2d1bed5b3a957",
+            "download": {
+                "default": "https://huggingface.co/klosax/tinyllamas-stories-gguf/resolve/main/tinyllamas-stories-110m-f32.gguf"
+            }
+        },
+        {
+            "name": "tinyllamas-stories-15m-f32.gguf",
+            "size": "98229216",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3ce62e66d43739788b9f543214fb4333f52974131539efe8e4049ae5cb45144e",
+            "download": {
+                "default": "https://huggingface.co/klosax/tinyllamas-stories-gguf/resolve/main/tinyllamas-stories-15m-f32.gguf"
+            }
+        },
+        {
+            "name": "tinyllamas-stories-260k-f32.gguf",
+            "size": "1182656",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c14806920629b6c217445c69d7ac61bd0e4047289f8ab824c3f0b4f827a5d1cb",
+            "download": {
+                "default": "https://huggingface.co/klosax/tinyllamas-stories-gguf/resolve/main/tinyllamas-stories-260k-f32.gguf"
+            }
+        },
+        {
+            "name": "tinyllamas-stories-42m-f32.gguf",
+            "size": "232893632",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c820e30d06fa8300499f4a11b7b0c8c1040242aede585d7ab1589a00bd981c94",
+            "download": {
+                "default": "https://huggingface.co/klosax/tinyllamas-stories-gguf/resolve/main/tinyllamas-stories-42m-f32.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

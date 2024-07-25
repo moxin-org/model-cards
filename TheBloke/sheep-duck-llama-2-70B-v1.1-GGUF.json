@@ -1,0 +1,123 @@
+{
+    "id": "TheBloke/sheep-duck-llama-2-70B-v1.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-01T09:32:31Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "sheep-duck-llama-2-70b-v1.1.Q2_K.gguf",
+            "size": "29279253440",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "842d81ec6f2646e71c5a46c797f32880503392b4469ff3e26ff32aaae71d1043",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/sheep-duck-llama-2-70B-v1.1-GGUF/resolve/main/sheep-duck-llama-2-70b-v1.1.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "sheep-duck-llama-2-70b-v1.1.Q3_K_L.gguf",
+            "size": "36147835840",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "2e40d93c9d838c59991e189ac46925d95b69a2d648ac448ae5f7392b0fa050eb",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/sheep-duck-llama-2-70B-v1.1-GGUF/resolve/main/sheep-duck-llama-2-70b-v1.1.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "sheep-duck-llama-2-70b-v1.1.Q3_K_M.gguf",
+            "size": "33186657216",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "2b2b0759cb0db2d5b16dd25d1e6e51d006d2c99739607eab79068a7531c65cca",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/sheep-duck-llama-2-70B-v1.1-GGUF/resolve/main/sheep-duck-llama-2-70b-v1.1.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "sheep-duck-llama-2-70b-v1.1.Q3_K_S.gguf",
+            "size": "29919294400",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "fb49b9c3a3f8bd967991b8118a236aab893aad4908abfb0277039282c68a9658",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/sheep-duck-llama-2-70B-v1.1-GGUF/resolve/main/sheep-duck-llama-2-70b-v1.1.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "sheep-duck-llama-2-70b-v1.1.Q4_0.gguf",
+            "size": "38872249280",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "2a6b8a9fc6176935b02fa6bb1b4ab9a1e5d10d1c58a570452f54a80c30ae2f63",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/sheep-duck-llama-2-70B-v1.1-GGUF/resolve/main/sheep-duck-llama-2-70b-v1.1.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "sheep-duck-llama-2-70b-v1.1.Q4_K_M.gguf",
+            "size": "41422910400",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "161f5810c6cf1760c4f0a70809be1870727801120be9041c77e78aedb6ff479c",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/sheep-duck-llama-2-70B-v1.1-GGUF/resolve/main/sheep-duck-llama-2-70b-v1.1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "sheep-duck-llama-2-70b-v1.1.Q4_K_S.gguf",
+            "size": "39073575872",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "573c5cb40456cb4d65d1f6ffff42354722dfefcffdc170e6f5c634d06bfd3732",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/sheep-duck-llama-2-70B-v1.1-GGUF/resolve/main/sheep-duck-llama-2-70b-v1.1.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "sheep-duck-llama-2-70b-v1.1.Q5_0.gguf",
+            "size": "47461397440",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "d8113a3e5bcd806b840f54b49f0a7d2441486994d4fe541979821768a8bbd68b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/sheep-duck-llama-2-70B-v1.1-GGUF/resolve/main/sheep-duck-llama-2-70b-v1.1.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "sheep-duck-llama-2-70b-v1.1.Q5_K_M.gguf",
+            "size": "48753767360",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "7540795b7c125205c815bbf8f0de9dbb7105d0689ae631f08409d5b520616e5e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/sheep-duck-llama-2-70B-v1.1-GGUF/resolve/main/sheep-duck-llama-2-70b-v1.1.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "sheep-duck-llama-2-70b-v1.1.Q5_K_S.gguf",
+            "size": "47461397440",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "fa44dd4eabe379e7878eef1f2425c81ceb804b89fe4ccdd070817d0e7e2f97de",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/sheep-duck-llama-2-70B-v1.1-GGUF/resolve/main/sheep-duck-llama-2-70b-v1.1.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

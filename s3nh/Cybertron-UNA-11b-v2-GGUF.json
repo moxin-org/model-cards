@@ -1,0 +1,43 @@
+{
+    "id": "s3nh/Cybertron-UNA-11b-v2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-14T12:49:55Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "cybertron-una-11b-v2.Q4_K_M.gguf",
+            "size": "6846037696",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e21ae95fcdd93279f1b6f541329f98a981e33d562f2d1bce796951522629972d",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Cybertron-UNA-11b-v2-GGUF/resolve/main/cybertron-una-11b-v2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "cybertron-una-11b-v2.Q5_K_M.gguf",
+            "size": "8056225472",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "8c45663f60539be63a123ab275b5c69ac4ea1313c732df0737fa496c0063e784",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Cybertron-UNA-11b-v2-GGUF/resolve/main/cybertron-una-11b-v2.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

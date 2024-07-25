@@ -1,0 +1,113 @@
+{
+    "id": "venketh/Mistral-7B-Instruct-v0.2-GGUF-imatrix",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "venketh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-07T16:57:16Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistral-7b-instruct-v0.2.IQ3_M.gguf",
+            "size": "3284891840",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "853da015d147c00a95b657ab1cbbcdbf5f300e77392bc6a7f038336b770066b1",
+            "download": {
+                "default": "https://huggingface.co/venketh/Mistral-7B-Instruct-v0.2-GGUF-imatrix/resolve/main/mistral-7b-instruct-v0.2.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-instruct-v0.2.IQ3_S.gguf",
+            "size": "3182393536",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "ccefafe3bd387fac4a393c24b4e5974071d67cb43df4d7d166bc81cdf5eb711f",
+            "download": {
+                "default": "https://huggingface.co/venketh/Mistral-7B-Instruct-v0.2-GGUF-imatrix/resolve/main/mistral-7b-instruct-v0.2.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-instruct-v0.2.IQ3_XXS.gguf",
+            "size": "2904103104",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "86966cd5e6c366d64e9d66934273689804a88e1a67580dddeaee388bcba66a2f",
+            "download": {
+                "default": "https://huggingface.co/venketh/Mistral-7B-Instruct-v0.2-GGUF-imatrix/resolve/main/mistral-7b-instruct-v0.2.IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-instruct-v0.2.IQ4_XS.gguf",
+            "size": "3907688640",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "e79ebf20f7b30ad96f15b04ef54478c88548ef356701cafd780e15acc9b0e98f",
+            "download": {
+                "default": "https://huggingface.co/venketh/Mistral-7B-Instruct-v0.2-GGUF-imatrix/resolve/main/mistral-7b-instruct-v0.2.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-instruct-v0.2.Q3_K_L.gguf",
+            "size": "3822024896",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "ddecdb1a7667061b05693c632664e874de4e679efb5c851f6424d277611a88f4",
+            "download": {
+                "default": "https://huggingface.co/venketh/Mistral-7B-Instruct-v0.2-GGUF-imatrix/resolve/main/mistral-7b-instruct-v0.2.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-instruct-v0.2.Q4_K_M.gguf",
+            "size": "4368439488",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "af01d1f56027104f23725282f5f23d16343e2514c9eb6905c00dbb2a9b339d1b",
+            "download": {
+                "default": "https://huggingface.co/venketh/Mistral-7B-Instruct-v0.2-GGUF-imatrix/resolve/main/mistral-7b-instruct-v0.2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-instruct-v0.2.Q4_K_S.gguf",
+            "size": "4140374208",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "0a83dbb218cfac4448641b7c98e2d52e772e30389a657e3d449adbcd00886974",
+            "download": {
+                "default": "https://huggingface.co/venketh/Mistral-7B-Instruct-v0.2-GGUF-imatrix/resolve/main/mistral-7b-instruct-v0.2.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-instruct-v0.2.Q5_K_M.gguf",
+            "size": "5131409600",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "b374e2ff0184ab5604c94b97d42ca6125588c6c3e91b6ff7ced15ce5e64db4c6",
+            "download": {
+                "default": "https://huggingface.co/venketh/Mistral-7B-Instruct-v0.2-GGUF-imatrix/resolve/main/mistral-7b-instruct-v0.2.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-instruct-v0.2.Q8_0.gguf",
+            "size": "7695857856",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "846218c4850d5d727de2d86006d840689148704e9a474851f82d18c02d497970",
+            "download": {
+                "default": "https://huggingface.co/venketh/Mistral-7B-Instruct-v0.2-GGUF-imatrix/resolve/main/mistral-7b-instruct-v0.2.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,63 @@
+{
+    "id": "dranger003/CausalLM-34b-beta-iMat.GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "dranger003",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-15T00:02:43Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-causallm-34b-beta-iq2_xs.gguf",
+            "size": "10306541888",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dc412db430b7453c35807745c9b1b07c6213156c0a74eeadf22d61b6c61ee732",
+            "download": {
+                "default": "https://huggingface.co/dranger003/CausalLM-34b-beta-iMat.GGUF/resolve/main/ggml-causallm-34b-beta-iq2_xs.gguf"
+            }
+        },
+        {
+            "name": "ggml-causallm-34b-beta-iq2_xxs.gguf",
+            "size": "9306462528",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4062d2fe22183498bd03cee430111dc63feeac2b0a2fe3c1ef2156a25790e87b",
+            "download": {
+                "default": "https://huggingface.co/dranger003/CausalLM-34b-beta-iMat.GGUF/resolve/main/ggml-causallm-34b-beta-iq2_xxs.gguf"
+            }
+        },
+        {
+            "name": "ggml-causallm-34b-beta-iq3_xxs.gguf",
+            "size": "13675931968",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7f4365569ebd600856626ddc0d8ca2d4dd9ad59ca4cf1e5c4fb6e71cb3eb060a",
+            "download": {
+                "default": "https://huggingface.co/dranger003/CausalLM-34b-beta-iMat.GGUF/resolve/main/ggml-causallm-34b-beta-iq3_xxs.gguf"
+            }
+        },
+        {
+            "name": "ggml-causallm-34b-beta-q4_k_m.gguf",
+            "size": "20658710848",
+            "quantization": "",
+            "tags": [],
+            "sha256": "93407734ac2e261dd3de371711bfe047668067bc360705b472d746339af0e937",
+            "download": {
+                "default": "https://huggingface.co/dranger003/CausalLM-34b-beta-iMat.GGUF/resolve/main/ggml-causallm-34b-beta-q4_k_m.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

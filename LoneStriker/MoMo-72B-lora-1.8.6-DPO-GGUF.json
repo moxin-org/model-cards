@@ -1,0 +1,93 @@
+{
+    "id": "LoneStriker/MoMo-72B-lora-1.8.6-DPO-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LoneStriker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-28T23:52:13Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "MoMo-72B-lora-1.8.6-DPO-Q2_K.gguf",
+            "size": "27077445024",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "bfe8dea5fe9924e4bd786c4a92f309fe3ca99acd4dfcb1c6547b7db1c4810c95",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/MoMo-72B-lora-1.8.6-DPO-GGUF/resolve/main/MoMo-72B-lora-1.8.6-DPO-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "MoMo-72B-lora-1.8.6-DPO-Q3_K_L.gguf",
+            "size": "38486640032",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "970e66f6c6fb73e54ab73d4429571f96fddecfb88ae4517c362117e192cd81ec",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/MoMo-72B-lora-1.8.6-DPO-GGUF/resolve/main/MoMo-72B-lora-1.8.6-DPO-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "MoMo-72B-lora-1.8.6-DPO-Q3_K_M.gguf",
+            "size": "35273803168",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "d921c443f2e7251be2ca3cb024f59ab5e4bcb6a650c2391eb0c0f192388741d8",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/MoMo-72B-lora-1.8.6-DPO-GGUF/resolve/main/MoMo-72B-lora-1.8.6-DPO-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "MoMo-72B-lora-1.8.6-DPO-Q3_K_S.gguf",
+            "size": "31566038432",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "780973c32eda322678f212b0c64222dd63b1eacb7809d0790ce234ccc221ac5a",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/MoMo-72B-lora-1.8.6-DPO-GGUF/resolve/main/MoMo-72B-lora-1.8.6-DPO-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "MoMo-72B-lora-1.8.6-DPO-Q4_K_M.gguf",
+            "size": "43769136544",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "f211bb3c6da21bb86db7e5d57c27fd81c9323612bf04edf2822ede6c08c5a29d",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/MoMo-72B-lora-1.8.6-DPO-GGUF/resolve/main/MoMo-72B-lora-1.8.6-DPO-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "MoMo-72B-lora-1.8.6-DPO-Q4_K_S.gguf",
+            "size": "41286108576",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "8a5dd60c12313268e4beddb1bd3966d8e6606473c7b71a758421d28b330157a4",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/MoMo-72B-lora-1.8.6-DPO-GGUF/resolve/main/MoMo-72B-lora-1.8.6-DPO-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "MoMo-72B-lora-1.8.6-DPO-Q5_K_S.gguf",
+            "size": "49880761760",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "0bc74c6c21bdbf5c3d79220b9c155667655d2acd9737299b738910a5ceb7486e",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/MoMo-72B-lora-1.8.6-DPO-GGUF/resolve/main/MoMo-72B-lora-1.8.6-DPO-Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

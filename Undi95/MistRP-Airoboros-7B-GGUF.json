@@ -1,0 +1,73 @@
+{
+    "id": "Undi95/MistRP-Airoboros-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Undi95",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-03T23:10:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "MistRP-Airoboros-7B.q3_k_m.gguf",
+            "size": "3518985856",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fe7fd1118ac2acc5419ad6c917871140dca792b9b951094fadbdac01fa8d3134",
+            "download": {
+                "default": "https://huggingface.co/Undi95/MistRP-Airoboros-7B-GGUF/resolve/main/MistRP-Airoboros-7B.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "MistRP-Airoboros-7B.q4_k_s.gguf",
+            "size": "4140373632",
+            "quantization": "",
+            "tags": [],
+            "sha256": "83094d2665e06c5dc2c952cd223d1990174455d569a42e3c31db37fec6c3d658",
+            "download": {
+                "default": "https://huggingface.co/Undi95/MistRP-Airoboros-7B-GGUF/resolve/main/MistRP-Airoboros-7B.q4_k_s.gguf"
+            }
+        },
+        {
+            "name": "MistRP-Airoboros-7B.q5_k_m.gguf",
+            "size": "5131409024",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5deb9e80fafac376f33d226d7695f665393c259d8df530a06065a077fbe86996",
+            "download": {
+                "default": "https://huggingface.co/Undi95/MistRP-Airoboros-7B-GGUF/resolve/main/MistRP-Airoboros-7B.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "MistRP-Airoboros-7B.q6_k.gguf",
+            "size": "5942064768",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3b9cdc9fdc36278aca4ccb7dfef0db6ee244098638564bf047a4291812328eb8",
+            "download": {
+                "default": "https://huggingface.co/Undi95/MistRP-Airoboros-7B-GGUF/resolve/main/MistRP-Airoboros-7B.q6_k.gguf"
+            }
+        },
+        {
+            "name": "MistRP-Airoboros-7B.q8_0.gguf",
+            "size": "7695857280",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4aefb524cd661b8bcbc457a5138205ab11328fb3f81904f2024fabfbffee92c1",
+            "download": {
+                "default": "https://huggingface.co/Undi95/MistRP-Airoboros-7B-GGUF/resolve/main/MistRP-Airoboros-7B.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

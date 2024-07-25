@@ -1,0 +1,173 @@
+{
+    "id": "shaowenchen/vicuna-7b-v1.5-16k-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "shaowenchen",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-19T01:28:28Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "vicuna-7b-v1.5-16k.gguf",
+            "size": "13478104768",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b3bfe54b24d4014acaabfa58c3b443a0c265a78a3bffeb49a829b2f04b4a718f",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/vicuna-7b-v1.5-16k-gguf/resolve/main/vicuna-7b-v1.5-16k.gguf"
+            }
+        },
+        {
+            "name": "vicuna-7b-v1.5-16k.Q2_K.gguf",
+            "size": "2825940704",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "8b13c04f8095c6c9fe945ac1ec3e4a4f605b0c98bcd7c9dc0e997036b2cd6073",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/vicuna-7b-v1.5-16k-gguf/resolve/main/vicuna-7b-v1.5-16k.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "vicuna-7b-v1.5-16k.Q3_K_L.gguf",
+            "size": "3597111008",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "0dc20551372ee90f42442a0604cb766799bd3af5b3199adfb5080b7496db4947",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/vicuna-7b-v1.5-16k-gguf/resolve/main/vicuna-7b-v1.5-16k.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "vicuna-7b-v1.5-16k.Q3_K_S.gguf",
+            "size": "2948304608",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "bc4a5f3f8277fd7933b41140cd4519cdc4b7248fcaeccef0cfb0e1c6373b327c",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/vicuna-7b-v1.5-16k-gguf/resolve/main/vicuna-7b-v1.5-16k.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "vicuna-7b-v1.5-16k.Q3_K.gguf",
+            "size": "3298004704",
+            "quantization": "Q3_K",
+            "tags": [],
+            "sha256": "f2bdb2e06aaf2635c1f7a0457f2f99aede734d6ddcd2506df6e9fc15f78dfff4",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/vicuna-7b-v1.5-16k-gguf/resolve/main/vicuna-7b-v1.5-16k.Q3_K.gguf"
+            }
+        },
+        {
+            "name": "vicuna-7b-v1.5-16k.Q4_0.gguf",
+            "size": "3825807072",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "337720869e48526ec8118313e9aceb6e7fa23f629455c189c1268a4945cbf69b",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/vicuna-7b-v1.5-16k-gguf/resolve/main/vicuna-7b-v1.5-16k.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "vicuna-7b-v1.5-16k.Q4_1.gguf",
+            "size": "4238749408",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "789e4d522ed33e7a0139ff2e6baaedf03c8203be9fa3631c27bb044fa35a58e5",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/vicuna-7b-v1.5-16k-gguf/resolve/main/vicuna-7b-v1.5-16k.Q4_1.gguf"
+            }
+        },
+        {
+            "name": "vicuna-7b-v1.5-16k.Q4_K_S.gguf",
+            "size": "3856740064",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "01599b4a39884e1c567c799333c13c659d4f413f3644f1c6273704b30c7647fa",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/vicuna-7b-v1.5-16k-gguf/resolve/main/vicuna-7b-v1.5-16k.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "vicuna-7b-v1.5-16k.Q4_K.gguf",
+            "size": "4081004256",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "706312090f71d94c2a04f2d7d2a238f2b3562618283090e26208bd20645ced84",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/vicuna-7b-v1.5-16k-gguf/resolve/main/vicuna-7b-v1.5-16k.Q4_K.gguf"
+            }
+        },
+        {
+            "name": "vicuna-7b-v1.5-16k.Q5_0.gguf",
+            "size": "4651691744",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "f89de37f851ccbf526acb0d38208ffe4a224b13f9d8619af7930fdbc88617594",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/vicuna-7b-v1.5-16k-gguf/resolve/main/vicuna-7b-v1.5-16k.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "vicuna-7b-v1.5-16k.Q5_1.gguf",
+            "size": "5064634080",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "5e514d3cc341f2d7e61be7ede104124be28fbd8ec73dd9d6f67c1e58fc296713",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/vicuna-7b-v1.5-16k-gguf/resolve/main/vicuna-7b-v1.5-16k.Q5_1.gguf"
+            }
+        },
+        {
+            "name": "vicuna-7b-v1.5-16k.Q5_K_S.gguf",
+            "size": "4651691744",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "8dcff54f03bd16281eab102d2f61574ada8c3b2571dd5d55790f611e8277ae21",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/vicuna-7b-v1.5-16k-gguf/resolve/main/vicuna-7b-v1.5-16k.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "vicuna-7b-v1.5-16k.Q5_K.gguf",
+            "size": "4783156960",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "13a887af2dc34a7c5d202259a34e331d2b1940153d90730d70f7f42fcf5d2e13",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/vicuna-7b-v1.5-16k-gguf/resolve/main/vicuna-7b-v1.5-16k.Q5_K.gguf"
+            }
+        },
+        {
+            "name": "vicuna-7b-v1.5-16k.Q6_K.gguf",
+            "size": "5529194208",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "7aca36b256139106610406ce10ef19f89a1fc9cfc8130a2913f07417ce81a7db",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/vicuna-7b-v1.5-16k-gguf/resolve/main/vicuna-7b-v1.5-16k.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "vicuna-7b-v1.5-16k.Q8_0.gguf",
+            "size": "7161089760",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "36d9c3a5b69f66e62c3352e76da7c05b54dbed6201736183f1042e51d103fa02",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/vicuna-7b-v1.5-16k-gguf/resolve/main/vicuna-7b-v1.5-16k.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

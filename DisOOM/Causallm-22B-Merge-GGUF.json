@@ -1,0 +1,53 @@
+{
+    "id": "DisOOM/Causallm-22B-Merge-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "DisOOM",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-07T13:02:56Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-Q5_0.gguf",
+            "size": "15269031872",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "a9de03ca672f09835451abe7ad605de88df2b9c66877ad72c61b3c6cd5e01b7b",
+            "download": {
+                "default": "https://huggingface.co/DisOOM/Causallm-22B-Merge-GGUF/resolve/main/ggml-model-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q6_K.gguf",
+            "size": "19197638592",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "7e10ce5990193cb5cc425091289c7154c8c1f15e70ff8721276b94fb981b6097",
+            "download": {
+                "default": "https://huggingface.co/DisOOM/Causallm-22B-Merge-GGUF/resolve/main/ggml-model-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q8_0.gguf",
+            "size": "23433240512",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "a5f2ae31eb46562ada3bb14a87bacd83e765477322372eda98dafc094b323603",
+            "download": {
+                "default": "https://huggingface.co/DisOOM/Causallm-22B-Merge-GGUF/resolve/main/ggml-model-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

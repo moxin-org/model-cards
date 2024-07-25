@@ -1,0 +1,43 @@
+{
+    "id": "saksornr/WangchanLion7B-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "saksornr",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-07T09:17:04Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "WangchanLion7B_Q4_K_M.gguf",
+            "size": "1671462848",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "202de7c9d0f1765df409c53ce212a3b2363ca1e41b0dd6e5415fb80f10f0acf9",
+            "download": {
+                "default": "https://huggingface.co/saksornr/WangchanLion7B-gguf/resolve/main/WangchanLion7B_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "WangchanLion7B_Q4_K_S.gguf",
+            "size": "4549705664",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "058bfb757c044ec0f9aac8cc2469e6c7e18886c6a2cb1091714248c2c04d9ff4",
+            "download": {
+                "default": "https://huggingface.co/saksornr/WangchanLion7B-gguf/resolve/main/WangchanLion7B_Q4_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

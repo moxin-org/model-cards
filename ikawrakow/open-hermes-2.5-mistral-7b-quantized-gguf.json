@@ -1,0 +1,123 @@
+{
+    "id": "ikawrakow/open-hermes-2.5-mistral-7b-quantized-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "ikawrakow",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-08T14:50:14Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "oh-2.5-m7b-q3k-medium.gguf",
+            "size": "3518996416",
+            "quantization": "",
+            "tags": [],
+            "sha256": "31d40fdd8c0c07c8e6f0c70652d72a1fb9386871d924fc14146ef71de7aaa782",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/open-hermes-2.5-mistral-7b-quantized-gguf/resolve/main/oh-2.5-m7b-q3k-medium.gguf"
+            }
+        },
+        {
+            "name": "oh-2.5-m7b-q3k-small.gguf",
+            "size": "3164577728",
+            "quantization": "",
+            "tags": [],
+            "sha256": "62f548b0ce8d03610e3c7352cae181a4e37a32d5834894c1c44ab5707cff96b7",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/open-hermes-2.5-mistral-7b-quantized-gguf/resolve/main/oh-2.5-m7b-q3k-small.gguf"
+            }
+        },
+        {
+            "name": "oh-2.5-m7b-q40.gguf",
+            "size": "4108928000",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b4db992088bd6c9170a02131bceb153185b5c65fbdccb210314e66130f4efdcd",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/open-hermes-2.5-mistral-7b-quantized-gguf/resolve/main/oh-2.5-m7b-q40.gguf"
+            }
+        },
+        {
+            "name": "oh-2.5-m7b-q41.gguf",
+            "size": "4553328128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "86de40959cdb619169ba489b4ec1304190b81d63eb18f6438dbfce5564e821a6",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/open-hermes-2.5-mistral-7b-quantized-gguf/resolve/main/oh-2.5-m7b-q41.gguf"
+            }
+        },
+        {
+            "name": "oh-2.5-m7b-q4k-medium.gguf",
+            "size": "4454958080",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c491615c40ef14ec4d3125bd0dceea09b31e83137f406d1e352328a122626237",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/open-hermes-2.5-mistral-7b-quantized-gguf/resolve/main/oh-2.5-m7b-q4k-medium.gguf"
+            }
+        },
+        {
+            "name": "oh-2.5-m7b-q4k-small.gguf",
+            "size": "4155065344",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c38055c6628c7e6efb80e3e525ecd9287efc89f1b4af23c2a7e9755b77fb4542",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/open-hermes-2.5-mistral-7b-quantized-gguf/resolve/main/oh-2.5-m7b-q4k-small.gguf"
+            }
+        },
+        {
+            "name": "oh-2.5-m7b-q50.gguf",
+            "size": "4997728256",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2d95664827a9d5abdfc3ef7ab8694192e3d44ce281774861611bcdbce790164e",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/open-hermes-2.5-mistral-7b-quantized-gguf/resolve/main/oh-2.5-m7b-q50.gguf"
+            }
+        },
+        {
+            "name": "oh-2.5-m7b-q51.gguf",
+            "size": "5442128384",
+            "quantization": "",
+            "tags": [],
+            "sha256": "aa14c22f399dd9a6b5d4d24957e70b05057533d775ec3f713bd34852b1c0b22f",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/open-hermes-2.5-mistral-7b-quantized-gguf/resolve/main/oh-2.5-m7b-q51.gguf"
+            }
+        },
+        {
+            "name": "oh-2.5-m7b-q5k-medium.gguf",
+            "size": "5140334592",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4fcdb87f2871f163def28a9c5a38346d67c854eb7f582b5d427388be349eaf9b",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/open-hermes-2.5-mistral-7b-quantized-gguf/resolve/main/oh-2.5-m7b-q5k-medium.gguf"
+            }
+        },
+        {
+            "name": "oh-2.5-m7b-q5k-small.gguf",
+            "size": "4997728256",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1acb40db6faaa1b8fe03849fcb858f394f8b22660cbb117b86e6674e08556c07",
+            "download": {
+                "default": "https://huggingface.co/ikawrakow/open-hermes-2.5-mistral-7b-quantized-gguf/resolve/main/oh-2.5-m7b-q5k-small.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

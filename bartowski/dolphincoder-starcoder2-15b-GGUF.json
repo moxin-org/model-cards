@@ -1,0 +1,153 @@
+{
+    "id": "bartowski/dolphincoder-starcoder2-15b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bartowski",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-07T04:29:28Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "dolphincoder-starcoder2-15b-fp16.gguf",
+            "size": "31923096128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3e7a093df4393f8092bbeb559ed5a921f25993f831939c85b319d00560bcc4a6",
+            "download": {
+                "default": "https://huggingface.co/bartowski/dolphincoder-starcoder2-15b-GGUF/resolve/main/dolphincoder-starcoder2-15b-fp16.gguf"
+            }
+        },
+        {
+            "name": "dolphincoder-starcoder2-15b-Q2_K.gguf",
+            "size": "6192972192",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "bb0c3cae9b68d66b24d467583c4cb719b94c35a0ce29aea4e7b707828a4355b6",
+            "download": {
+                "default": "https://huggingface.co/bartowski/dolphincoder-starcoder2-15b-GGUF/resolve/main/dolphincoder-starcoder2-15b-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "dolphincoder-starcoder2-15b-Q3_K_L.gguf",
+            "size": "8965342848",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "27c53f0e815174c4e92802ea817acb648858a554610e336cc58fb700df7eff56",
+            "download": {
+                "default": "https://huggingface.co/bartowski/dolphincoder-starcoder2-15b-GGUF/resolve/main/dolphincoder-starcoder2-15b-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "dolphincoder-starcoder2-15b-Q3_K_M.gguf",
+            "size": "8101054080",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "884329c713e57cab5a87d563012b727eec26f6c5279c8a5da569476d9be51122",
+            "download": {
+                "default": "https://huggingface.co/bartowski/dolphincoder-starcoder2-15b-GGUF/resolve/main/dolphincoder-starcoder2-15b-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "dolphincoder-starcoder2-15b-Q3_K_S.gguf",
+            "size": "6986483328",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "2286aafc2448c1c607d091c33bf8164ffac2c85f21d98782d6ed9601c3d6bb7a",
+            "download": {
+                "default": "https://huggingface.co/bartowski/dolphincoder-starcoder2-15b-GGUF/resolve/main/dolphincoder-starcoder2-15b-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "dolphincoder-starcoder2-15b-Q4_0.gguf",
+            "size": "9065417952",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "dc0e42955f814920cb21d0f3f7666f11ac1c1609732c2e2f89dc76c4fcbfa2f7",
+            "download": {
+                "default": "https://huggingface.co/bartowski/dolphincoder-starcoder2-15b-GGUF/resolve/main/dolphincoder-starcoder2-15b-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "dolphincoder-starcoder2-15b-Q4_K_M.gguf",
+            "size": "9860205792",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "ba99d4ceb09f7481015c4bab2262f792fb50c3a776433398e9708e0673221156",
+            "download": {
+                "default": "https://huggingface.co/bartowski/dolphincoder-starcoder2-15b-GGUF/resolve/main/dolphincoder-starcoder2-15b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "dolphincoder-starcoder2-15b-Q4_K_S.gguf",
+            "size": "9255734496",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "2b8c1580851d8281cadcd53480e2036a93e200803bfc7221ae6870d6974d128e",
+            "download": {
+                "default": "https://huggingface.co/bartowski/dolphincoder-starcoder2-15b-GGUF/resolve/main/dolphincoder-starcoder2-15b-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "dolphincoder-starcoder2-15b-Q5_0.gguf",
+            "size": "11022062304",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "1997795765a0820a48bf28de763007068c77e72a45bdeca0f5c43ae9a1c1f26f",
+            "download": {
+                "default": "https://huggingface.co/bartowski/dolphincoder-starcoder2-15b-GGUF/resolve/main/dolphincoder-starcoder2-15b-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "dolphincoder-starcoder2-15b-Q5_K_M.gguf",
+            "size": "11431498464",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "fae7d72b6e053b1269a4f03ee42a6c2da6a50fb9d087ece4ee0dd5ece745bbf8",
+            "download": {
+                "default": "https://huggingface.co/bartowski/dolphincoder-starcoder2-15b-GGUF/resolve/main/dolphincoder-starcoder2-15b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "dolphincoder-starcoder2-15b-Q5_K_S.gguf",
+            "size": "11022062304",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "55fd59cda5b1d322d7ae57a8cd6922095c05cd090d853356bcb3f425f4fc7a22",
+            "download": {
+                "default": "https://huggingface.co/bartowski/dolphincoder-starcoder2-15b-GGUF/resolve/main/dolphincoder-starcoder2-15b-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "dolphincoder-starcoder2-15b-Q6_K.gguf",
+            "size": "13100996928",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "cd6188181ffc08bc431eaebae107b4e5426d647aab69c38595002e1714e7a646",
+            "download": {
+                "default": "https://huggingface.co/bartowski/dolphincoder-starcoder2-15b-GGUF/resolve/main/dolphincoder-starcoder2-15b-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "dolphincoder-starcoder2-15b-Q8_0.gguf",
+            "size": "16965136512",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "5ca23d5b02c7b055f4cd13ee86da34f188c12fef7631e477c84cb3a18319b332",
+            "download": {
+                "default": "https://huggingface.co/bartowski/dolphincoder-starcoder2-15b-GGUF/resolve/main/dolphincoder-starcoder2-15b-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

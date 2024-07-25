@@ -1,0 +1,133 @@
+{
+    "id": "MaziyarPanahi/StructLM-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "MaziyarPanahi",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-28T08:47:08Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "StructLM-7B.fp16.gguf",
+            "size": "13478383808",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ff90407eb4a709f92281e454cf24094de7f9a6b20a4a092f88bb71f3d8d6f83e",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/StructLM-7B-GGUF/resolve/main/StructLM-7B.fp16.gguf"
+            }
+        },
+        {
+            "name": "StructLM-7B.Q2_K.gguf",
+            "size": "2532944192",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "0d3ee3c58729a0ab2b72e44cb1e16b5ee1c5cf7edc7cc49f3b17948832a4c141",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/StructLM-7B-GGUF/resolve/main/StructLM-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "StructLM-7B.Q3_K_L.gguf",
+            "size": "3597198560",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "102468a9cb8b41186cf184d9a4c499a0935641b1c39060fcb41d778ac1ac0947",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/StructLM-7B-GGUF/resolve/main/StructLM-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "StructLM-7B.Q3_K_M.gguf",
+            "size": "3298092256",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "b8725ee7513b2d030592c8b08993a702679eb962f84643f3a7ba8d3a32ac11b1",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/StructLM-7B-GGUF/resolve/main/StructLM-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "StructLM-7B.Q3_K_S.gguf",
+            "size": "2948392160",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "7430b99d5f42b7bb51dc295e9b91492a2bdc9163c630f8d2b0cc70d821db94e3",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/StructLM-7B-GGUF/resolve/main/StructLM-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "StructLM-7B.Q4_K_M.gguf",
+            "size": "4081101056",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "0acfd7d669816cd4e5a1bb100362a01a93b7abf6ddec5224e0f48ac800f524df",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/StructLM-7B-GGUF/resolve/main/StructLM-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "StructLM-7B.Q4_K_S.gguf",
+            "size": "3856836864",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "b972a2c9572cb99871ba136ef369398b80e6d8470897e0c6646af278d737e99c",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/StructLM-7B-GGUF/resolve/main/StructLM-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "StructLM-7B.Q5_K_M.gguf",
+            "size": "4783262464",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "4de8c3cef2ef83657c00491de475814cf17e4b45377fb146fef2f2d5b29bd360",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/StructLM-7B-GGUF/resolve/main/StructLM-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "StructLM-7B.Q5_K_S.gguf",
+            "size": "4651797248",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "c138b89c066484598edd56db5dc4425edf9b2ed104053a68853a4a2816cd58a5",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/StructLM-7B-GGUF/resolve/main/StructLM-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "StructLM-7B.Q6_K.gguf",
+            "size": "5529308960",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "1e4aa2ce98ca3a27d6bad958974d78988d59d508cf599537c4b823d95c3ee9ab",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/StructLM-7B-GGUF/resolve/main/StructLM-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "StructLM-7B.Q8_0.gguf",
+            "size": "7161238240",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "122aab9379c6b625d76a78e1227db0d576b4dc7bcefc7eb8f36f572863c0eddb",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/StructLM-7B-GGUF/resolve/main/StructLM-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

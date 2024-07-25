@@ -1,0 +1,93 @@
+{
+    "id": "afrideva/tinycodellama-1.3b-3k-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-27T19:15:58Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tinycodellama-1.3b-3k.fp16.gguf",
+            "size": "2577126816",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3cd392c102fff64f4456c176856500ffe91d0aeca5d4092dbd8cd17c7aa210e9",
+            "download": {
+                "default": "https://huggingface.co/afrideva/tinycodellama-1.3b-3k-GGUF/resolve/main/tinycodellama-1.3b-3k.fp16.gguf"
+            }
+        },
+        {
+            "name": "tinycodellama-1.3b-3k.q2_k.gguf",
+            "size": "565809344",
+            "quantization": "",
+            "tags": [],
+            "sha256": "53a8e1f4d0ccf10cbb473a571f0414b4f24c08201e80db243685f307633f5e6f",
+            "download": {
+                "default": "https://huggingface.co/afrideva/tinycodellama-1.3b-3k-GGUF/resolve/main/tinycodellama-1.3b-3k.q2_k.gguf"
+            }
+        },
+        {
+            "name": "tinycodellama-1.3b-3k.q3_k_m.gguf",
+            "size": "644083936",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0951c066fab97d860cfc0aec61ba6449543ae26557775a8fd48ae3a10fd0d427",
+            "download": {
+                "default": "https://huggingface.co/afrideva/tinycodellama-1.3b-3k-GGUF/resolve/main/tinycodellama-1.3b-3k.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "tinycodellama-1.3b-3k.q4_k_m.gguf",
+            "size": "792148672",
+            "quantization": "",
+            "tags": [],
+            "sha256": "087a026e9f7e0e9624e2d17ffa9ebeacbcca55a2a058d53d3632ddd29e366d3a",
+            "download": {
+                "default": "https://huggingface.co/afrideva/tinycodellama-1.3b-3k-GGUF/resolve/main/tinycodellama-1.3b-3k.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "tinycodellama-1.3b-3k.q5_k_m.gguf",
+            "size": "921002560",
+            "quantization": "",
+            "tags": [],
+            "sha256": "800b5623d81524ed318558b9160979281a4c50d27a386764374ee24025e64d4c",
+            "download": {
+                "default": "https://huggingface.co/afrideva/tinycodellama-1.3b-3k-GGUF/resolve/main/tinycodellama-1.3b-3k.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "tinycodellama-1.3b-3k.q6_k.gguf",
+            "size": "1057909824",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f8080e3a4154e65249364fb7c6724f1b7812cd017487aa12039717b336ef4532",
+            "download": {
+                "default": "https://huggingface.co/afrideva/tinycodellama-1.3b-3k-GGUF/resolve/main/tinycodellama-1.3b-3k.q6_k.gguf"
+            }
+        },
+        {
+            "name": "tinycodellama-1.3b-3k.q8_0.gguf",
+            "size": "1369802048",
+            "quantization": "",
+            "tags": [],
+            "sha256": "296f61fe7da1db380997e171b265d3134080c04ab81592687fe70d01b3fcc651",
+            "download": {
+                "default": "https://huggingface.co/afrideva/tinycodellama-1.3b-3k-GGUF/resolve/main/tinycodellama-1.3b-3k.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

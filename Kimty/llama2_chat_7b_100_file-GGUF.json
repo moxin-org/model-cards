@@ -1,0 +1,43 @@
+{
+    "id": "Kimty/llama2_chat_7b_100_file-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Kimty",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-14T13:56:11Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llama2_chat_7b_100_file.Q3_K_M.gguf",
+            "size": "3298005696",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "13afd91d59fa3caf3880b74e581d091e1e7628782d7056aba74726c8f6217a36",
+            "download": {
+                "default": "https://huggingface.co/Kimty/llama2_chat_7b_100_file-GGUF/resolve/main/llama2_chat_7b_100_file.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama2_chat_7b_100_file.Q4_K_M.gguf",
+            "size": "4081005248",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "1e57d97cddfab949750f446cbbee263803e94ebfe025ed80d60ccb72935d06ad",
+            "download": {
+                "default": "https://huggingface.co/Kimty/llama2_chat_7b_100_file-GGUF/resolve/main/llama2_chat_7b_100_file.Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

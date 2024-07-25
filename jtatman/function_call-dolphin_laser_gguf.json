@@ -1,0 +1,53 @@
+{
+    "id": "jtatman/function_call-dolphin_laser_gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "jtatman",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-18T07:49:35Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "dolphin-2.6-mistral-7b-dpo-laser-function-calling-Q2_K.gguf",
+            "size": "2719246688",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "d6b5d25d944a4539030b6f83aaa59138e3a272ed715c5f810d8a5f92f58da15b",
+            "download": {
+                "default": "https://huggingface.co/jtatman/function_call-dolphin_laser_gguf/resolve/main/dolphin-2.6-mistral-7b-dpo-laser-function-calling-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.6-mistral-7b-dpo-laser-function-calling-Q4_0.gguf",
+            "size": "4108922144",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "b7827119056a683df9ed949be1881aaa1a3344d14f77d0c9cc828024b1b8d699",
+            "download": {
+                "default": "https://huggingface.co/jtatman/function_call-dolphin_laser_gguf/resolve/main/dolphin-2.6-mistral-7b-dpo-laser-function-calling-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.6-mistral-7b-dpo-laser-function-calling-Q4_K_M.gguf",
+            "size": "4368444704",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "83c07a577c8bd46126a164efb7737cb82c2d52cfcb6f4be9c857e39c7c87a233",
+            "download": {
+                "default": "https://huggingface.co/jtatman/function_call-dolphin_laser_gguf/resolve/main/dolphin-2.6-mistral-7b-dpo-laser-function-calling-Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

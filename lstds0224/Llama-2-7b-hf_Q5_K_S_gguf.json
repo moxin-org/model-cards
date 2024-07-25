@@ -1,0 +1,43 @@
+{
+    "id": "lstds0224/Llama-2-7b-hf_Q5_K_S_gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "lstds0224",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-22T22:04:19Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "FP16.gguf",
+            "size": "13478104608",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9f484de8e7728abf192c336909d6b286d3fd5f35bbc5bc521a6a16da29fdc8f1",
+            "download": {
+                "default": "https://huggingface.co/lstds0224/Llama-2-7b-hf_Q5_K_S_gguf/resolve/main/FP16.gguf"
+            }
+        },
+        {
+            "name": "Q5_K_S.gguf",
+            "size": "4651691616",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "7356a46669d2227e475fbe4d28f5c65fc6106348e8573bc19ee94b74c2fcd7d7",
+            "download": {
+                "default": "https://huggingface.co/lstds0224/Llama-2-7b-hf_Q5_K_S_gguf/resolve/main/Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

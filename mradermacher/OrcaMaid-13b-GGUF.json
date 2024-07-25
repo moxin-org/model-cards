@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/OrcaMaid-13b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-11T21:03:36Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "OrcaMaid-13b.IQ3_M.gguf",
+            "size": "5984516416",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "abf6e365ba51b38771372eccfd29fda554ee5c13d69fafef832ba954f3c6ba3a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaid-13b-GGUF/resolve/main/OrcaMaid-13b.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "OrcaMaid-13b.IQ3_S.gguf",
+            "size": "5658986816",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "78577bb0a4916b0f276a1746a39ef0668daf8dfa9c3783211e5428a0d28ef404",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaid-13b-GGUF/resolve/main/OrcaMaid-13b.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "OrcaMaid-13b.IQ3_XS.gguf",
+            "size": "5361617216",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "12f862538d5aef6adb5f550384f82e59dca314ef70914e6cea02f06c7dab3b74",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaid-13b-GGUF/resolve/main/OrcaMaid-13b.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "OrcaMaid-13b.IQ4_XS.gguf",
+            "size": "7019524928",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "01e0aac0e3384dd8948697b7bb8a3effb90c70c53c2d9a538b6484bade6e4b2e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaid-13b-GGUF/resolve/main/OrcaMaid-13b.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "OrcaMaid-13b.Q2_K.gguf",
+            "size": "4854275904",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "ad80490553273fae578ff83a485021f1f2a912b00f661e8d19fdc2b66738d0d2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaid-13b-GGUF/resolve/main/OrcaMaid-13b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "OrcaMaid-13b.Q3_K_L.gguf",
+            "size": "6929566016",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "4fd24037086f87b3b4e4a7596a065e084de81aa5f217da3160a5e4db3e8668ab",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaid-13b-GGUF/resolve/main/OrcaMaid-13b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "OrcaMaid-13b.Q3_K_M.gguf",
+            "size": "6337775936",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "b9cda8e8959be80d0b1e95b47563ea8fe01ca6a4d416b3c1a488c94efe3f566e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaid-13b-GGUF/resolve/main/OrcaMaid-13b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "OrcaMaid-13b.Q3_K_S.gguf",
+            "size": "5658986816",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "280fa55f7f3bddd30fd38d7bdc91561d86a2903f95ec009ec7b4483643312668",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaid-13b-GGUF/resolve/main/OrcaMaid-13b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "OrcaMaid-13b.Q4_K_M.gguf",
+            "size": "7865963488",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "44774e098f656cfc39a269f12f38f2bd07f9fd5cf8a14ea4917aed22a5d1f914",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaid-13b-GGUF/resolve/main/OrcaMaid-13b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "OrcaMaid-13b.Q4_K_S.gguf",
+            "size": "7423185888",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "85070b7da6415f57488761b14725b98892647e1b5b6f41a9b3ef1f41cdfe5104",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaid-13b-GGUF/resolve/main/OrcaMaid-13b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "OrcaMaid-13b.Q5_K_M.gguf",
+            "size": "9229932128",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5a9401536b7eece8f28e613275214abcf351fe904be3ff4f7f7ad940bf746c76",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaid-13b-GGUF/resolve/main/OrcaMaid-13b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "OrcaMaid-13b.Q5_K_S.gguf",
+            "size": "8972293728",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "7520cbe4cba67f8f8f71b262a77665ad22a5a41f19de2223a5b2b0cb66d3ad8c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaid-13b-GGUF/resolve/main/OrcaMaid-13b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "OrcaMaid-13b.Q6_K.gguf",
+            "size": "10679148832",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "36ac99208333c30cefda9d34e5f011552a8980bc77005f2f97526a4ee5c86837",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaid-13b-GGUF/resolve/main/OrcaMaid-13b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "OrcaMaid-13b.Q8_0.gguf",
+            "size": "13831330464",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "4bc864053cb73e07a6c3939b64393e375b46ec0359fe81c9e692c71d20f8079a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OrcaMaid-13b-GGUF/resolve/main/OrcaMaid-13b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

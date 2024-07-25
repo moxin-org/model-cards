@@ -1,0 +1,113 @@
+{
+    "id": "ontocord/Felix-8B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "ontocord",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-26T06:58:02Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Felix-8B_fp16.gguf",
+            "size": "17974692256",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4e2fea7a9a07ba654008027f9715bd9de316ad4eee34bae94c89931984df667d",
+            "download": {
+                "default": "https://huggingface.co/ontocord/Felix-8B-GGUF/resolve/main/Felix-8B_fp16.gguf"
+            }
+        },
+        {
+            "name": "Felix-8B_Q2_K.gguf",
+            "size": "3361246848",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "052a1fa6e755600cab485e28400d55cfd9b0bcebe54693b737ab0b1f6a27b1f5",
+            "download": {
+                "default": "https://huggingface.co/ontocord/Felix-8B-GGUF/resolve/main/Felix-8B_Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Felix-8B_Q3_K_M.gguf",
+            "size": "4353667520",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "3002b963d1bf62b4dda6f00996b66444aa95ba36f1a31f37098efc0f4ae75a09",
+            "download": {
+                "default": "https://huggingface.co/ontocord/Felix-8B-GGUF/resolve/main/Felix-8B_Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Felix-8B_Q4_0.gguf",
+            "size": "5090661888",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "bd8c3c35134cb15108c094be941388c010848a8c9851baca8034602dd8d0ea03",
+            "download": {
+                "default": "https://huggingface.co/ontocord/Felix-8B-GGUF/resolve/main/Felix-8B_Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Felix-8B_Q4_K_M.gguf",
+            "size": "5415065088",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "fb31d26f85064a3d56cb36a8a6e4962a0fa9e9e6523bde2e9a47aa7a85be3b84",
+            "download": {
+                "default": "https://huggingface.co/ontocord/Felix-8B-GGUF/resolve/main/Felix-8B_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Felix-8B_Q5_0.gguf",
+            "size": "6197565952",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "ee2257be35c379e53585d54134ccc4291a422ed0bfd5a8a5e33b16f5635cccde",
+            "download": {
+                "default": "https://huggingface.co/ontocord/Felix-8B-GGUF/resolve/main/Felix-8B_Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Felix-8B_Q5_K_M.gguf",
+            "size": "6364682752",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "8de912f30456bf1efd1371b83fee5aaff41e9130b5b3a0530cb31d7fb7836338",
+            "download": {
+                "default": "https://huggingface.co/ontocord/Felix-8B-GGUF/resolve/main/Felix-8B_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Felix-8B_Q6_K.gguf",
+            "size": "7373651520",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "e93f2507cff93c6704a495e952702b6b89b9c5caebe4660e1363a080efdc7298",
+            "download": {
+                "default": "https://huggingface.co/ontocord/Felix-8B-GGUF/resolve/main/Felix-8B_Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Felix-8B_Q8_0.gguf",
+            "size": "9550024128",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "7eef45d82bb127bf720a2cf886c009e5e1d26b3ff150b490ab0aa84cdde8bc47",
+            "download": {
+                "default": "https://huggingface.co/ontocord/Felix-8B-GGUF/resolve/main/Felix-8B_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,93 @@
+{
+    "id": "seyf1elislam/FrankenMonarch-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "seyf1elislam",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-20T13:29:15Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "frankenmonarch-7b.Q2_K.gguf",
+            "size": "4003232160",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "248e486e4664e37ee0b7e62f219d135e36f8922bbe31c3ed45c2373cc03bd987",
+            "download": {
+                "default": "https://huggingface.co/seyf1elislam/FrankenMonarch-7B-GGUF/resolve/main/frankenmonarch-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "frankenmonarch-7b.Q3_K_M.gguf",
+            "size": "5195667872",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "c5af83cbaeee52730f79aa72153634e88a5e979d6bdff9484d8d4c8bb0f36990",
+            "download": {
+                "default": "https://huggingface.co/seyf1elislam/FrankenMonarch-7B-GGUF/resolve/main/frankenmonarch-7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "frankenmonarch-7b.Q4_K_M.gguf",
+            "size": "6461667744",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "337fc56ef9791ee88fa35e5ed9804a334c6aae0914f509a66a5908e6874590a5",
+            "download": {
+                "default": "https://huggingface.co/seyf1elislam/FrankenMonarch-7B-GGUF/resolve/main/frankenmonarch-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "frankenmonarch-7b.Q4_K_S.gguf",
+            "size": "6118521248",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "03f6131f462885ca214f8fab6aca91548e7eca8d9c8e5e09f2ad165f03d5e0c0",
+            "download": {
+                "default": "https://huggingface.co/seyf1elislam/FrankenMonarch-7B-GGUF/resolve/main/frankenmonarch-7b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "frankenmonarch-7b.Q5_K_M.gguf",
+            "size": "7597930912",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "6c3ea9ba396833564cc344a254843ef011e745eeafe4a5d22da587f751293517",
+            "download": {
+                "default": "https://huggingface.co/seyf1elislam/FrankenMonarch-7B-GGUF/resolve/main/frankenmonarch-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "frankenmonarch-7b.Q6_K.gguf",
+            "size": "8805210528",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "f4e657a812df85d6073eff881d31c1ed94f321e1c6cc4d49aebb121600dd2342",
+            "download": {
+                "default": "https://huggingface.co/seyf1elislam/FrankenMonarch-7B-GGUF/resolve/main/frankenmonarch-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "frankenmonarch-7b.Q8_0.gguf",
+            "size": "11404155296",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "8d3146cb51c7e7793c0899c19357ec585b831a58b8b99ae7a5c3d06141def953",
+            "download": {
+                "default": "https://huggingface.co/seyf1elislam/FrankenMonarch-7B-GGUF/resolve/main/frankenmonarch-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

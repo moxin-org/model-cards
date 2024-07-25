@@ -1,0 +1,73 @@
+{
+    "id": "nold/openbuddy-gemma-7b-v19.1-4k-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "nold",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-01T20:33:57Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "openbuddy-gemma-7b-v19.1-4k_Q3_K_M.gguf",
+            "size": "4369328480",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "47448339231fe90674483a8ba435bba27621a3dfc0b47fd554f4f67a66d30d6d",
+            "download": {
+                "default": "https://huggingface.co/nold/openbuddy-gemma-7b-v19.1-4k-GGUF/resolve/main/openbuddy-gemma-7b-v19.1-4k_Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-gemma-7b-v19.1-4k_Q4_K_M.gguf",
+            "size": "5329758560",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "33ad59f5bc9031446487828f1e09156786617758e3ded3b054fd4077f08e5f67",
+            "download": {
+                "default": "https://huggingface.co/nold/openbuddy-gemma-7b-v19.1-4k-GGUF/resolve/main/openbuddy-gemma-7b-v19.1-4k_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-gemma-7b-v19.1-4k_Q5_K_M.gguf",
+            "size": "6144502112",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "eb44d37dab897a35ba92ba1314503462389be8154ee2773f49fab1223f932d4e",
+            "download": {
+                "default": "https://huggingface.co/nold/openbuddy-gemma-7b-v19.1-4k-GGUF/resolve/main/openbuddy-gemma-7b-v19.1-4k_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-gemma-7b-v19.1-4k_Q6_K.gguf",
+            "size": "7010167136",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "c85d636536362ede45bb6612c3287a1f86cd1fecf8d4f5c7008be10742b9a51b",
+            "download": {
+                "default": "https://huggingface.co/nold/openbuddy-gemma-7b-v19.1-4k-GGUF/resolve/main/openbuddy-gemma-7b-v19.1-4k_Q6_K.gguf"
+            }
+        },
+        {
+            "name": "openbuddy-gemma-7b-v19.1-4k_Q8_0.gguf",
+            "size": "9077844320",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "00f305368e7f8bd4b20d5abd11ffb7b13bde3bdf4444d6dfbfd149807c63a7a5",
+            "download": {
+                "default": "https://huggingface.co/nold/openbuddy-gemma-7b-v19.1-4k-GGUF/resolve/main/openbuddy-gemma-7b-v19.1-4k_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,93 @@
+{
+    "id": "TheDrummer/Moistral-11B-v2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheDrummer",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-29T15:05:50Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Moistral-11B-v2-f16.gguf",
+            "size": "21464586336",
+            "quantization": "",
+            "tags": [],
+            "sha256": "550512fd68a6acbb698b7a8f4c6a0d8418e48974ada832e7ebb693a394895560",
+            "download": {
+                "default": "https://huggingface.co/TheDrummer/Moistral-11B-v2-GGUF/resolve/main/Moistral-11B-v2-f16.gguf"
+            }
+        },
+        {
+            "name": "Moistral-11B-v2-Q2_K.gguf",
+            "size": "4003231840",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "2c120d7e987d441812feacb1335810e01c8b4866790ab45769dec10b57126d52",
+            "download": {
+                "default": "https://huggingface.co/TheDrummer/Moistral-11B-v2-GGUF/resolve/main/Moistral-11B-v2-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Moistral-11B-v2-Q3_K_M.gguf",
+            "size": "5195667552",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "f9e0ba164fd5af0e2a469e59c5736771270d5715ad9d0c99cf1b939f6ac8b5f9",
+            "download": {
+                "default": "https://huggingface.co/TheDrummer/Moistral-11B-v2-GGUF/resolve/main/Moistral-11B-v2-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Moistral-11B-v2-Q4_K_M.gguf",
+            "size": "6461667424",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "b5ab7a22220d0ae7758fa96d9cf3d9725a59ee7f01c979282a6f1d17598278a0",
+            "download": {
+                "default": "https://huggingface.co/TheDrummer/Moistral-11B-v2-GGUF/resolve/main/Moistral-11B-v2-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Moistral-11B-v2-Q5_K_M.gguf",
+            "size": "7597930592",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f23cae668071e6eec94ce356a7f564d1b33691c3141aa69fde965a8d31c182c7",
+            "download": {
+                "default": "https://huggingface.co/TheDrummer/Moistral-11B-v2-GGUF/resolve/main/Moistral-11B-v2-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Moistral-11B-v2-Q6_K.gguf",
+            "size": "8805210208",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "261db2a34e1a0c9c92f0489dd6e4757b41daa655487682a36df332109c541c07",
+            "download": {
+                "default": "https://huggingface.co/TheDrummer/Moistral-11B-v2-GGUF/resolve/main/Moistral-11B-v2-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Moistral-11B-v2-Q8_0.gguf",
+            "size": "11404154976",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "0011d5a93ac89b3e4d81966e81ed12ae98cc1acf655695372777d4fed1f36310",
+            "download": {
+                "default": "https://huggingface.co/TheDrummer/Moistral-11B-v2-GGUF/resolve/main/Moistral-11B-v2-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

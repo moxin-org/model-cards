@@ -1,0 +1,53 @@
+{
+    "id": "invalid-coder/test-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "invalid-coder",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-14T21:36:42Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-vocab-llama.gguf",
+            "size": "",
+            "quantization": "",
+            "tags": [],
+            "sha256": "",
+            "download": {
+                "default": "https://huggingface.co/invalid-coder/test-GGUF/resolve/main/ggml-vocab-llama.gguf"
+            }
+        },
+        {
+            "name": "test.Q2_K.gguf",
+            "size": "4003232352",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "fab5349f0a00320597be98c28ac6a314ae1caeb879a0dbf805ad6d3b7bbcc678",
+            "download": {
+                "default": "https://huggingface.co/invalid-coder/test-GGUF/resolve/main/test.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "test.Q4_K.gguf",
+            "size": "6461667936",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "50751b040d7549f78cbe8a40ce536f9db1431b7d22e98f7db6f6c3d495934ac8",
+            "download": {
+                "default": "https://huggingface.co/invalid-coder/test-GGUF/resolve/main/test.Q4_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

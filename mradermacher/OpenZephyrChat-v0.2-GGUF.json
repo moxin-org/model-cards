@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/OpenZephyrChat-v0.2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-08T16:30:57Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "OpenZephyrChat-v0.2.IQ3_M.gguf",
+            "size": "3284891328",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "30809e7a30f2b9da58e287ef94ff399e423c473aad8bb9378150a4ba3df05fc1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenZephyrChat-v0.2-GGUF/resolve/main/OpenZephyrChat-v0.2.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "OpenZephyrChat-v0.2.IQ3_S.gguf",
+            "size": "3182393024",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "0526c765a49bb5efa252b5043308a58de9af67ca1cb1616c29ae585d7520017b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenZephyrChat-v0.2-GGUF/resolve/main/OpenZephyrChat-v0.2.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "OpenZephyrChat-v0.2.IQ3_XS.gguf",
+            "size": "3018815168",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "c2df5360c7073f2650bbaea45f777d0aa2ee0ac52c04d03025f50c8fbed364cb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenZephyrChat-v0.2-GGUF/resolve/main/OpenZephyrChat-v0.2.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "OpenZephyrChat-v0.2.IQ4_XS.gguf",
+            "size": "3944388288",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "1885d7aa5780dc5c3df97012bd07444254bd4eed36ab0b5007917a3bcf6d2062",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenZephyrChat-v0.2-GGUF/resolve/main/OpenZephyrChat-v0.2.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "OpenZephyrChat-v0.2.Q2_K.gguf",
+            "size": "2719241920",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "777a77a24cb815c54fa4f4c6a33b009d01ac7e0ec86e1d96b778446a70de7a2f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenZephyrChat-v0.2-GGUF/resolve/main/OpenZephyrChat-v0.2.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "OpenZephyrChat-v0.2.Q3_K_L.gguf",
+            "size": "3822024384",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "b7ad3331c4c53385f4ec4855daa9d2a023d6cdf106b9bc212aa9f5baaa57047c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenZephyrChat-v0.2-GGUF/resolve/main/OpenZephyrChat-v0.2.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "OpenZephyrChat-v0.2.Q3_K_M.gguf",
+            "size": "3518985920",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "08ea928cebeac128c5bccfadf86b19574ee7608ca00cde80571b486269992931",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenZephyrChat-v0.2-GGUF/resolve/main/OpenZephyrChat-v0.2.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "OpenZephyrChat-v0.2.Q3_K_S.gguf",
+            "size": "3164567232",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "d443170121802ae4eb08bb36d694408337b606d4c965eebd0919a71e789b4484",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenZephyrChat-v0.2-GGUF/resolve/main/OpenZephyrChat-v0.2.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "OpenZephyrChat-v0.2.Q4_K_M.gguf",
+            "size": "4368438976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "d1603b81a5ce7b9c3ea581e78cf5a77687143ca3651b82d39ebd0160ee3e38bb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenZephyrChat-v0.2-GGUF/resolve/main/OpenZephyrChat-v0.2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "OpenZephyrChat-v0.2.Q4_K_S.gguf",
+            "size": "4140373696",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "986323b6943ae05d14a0e1e674ccdea2377d87a9541152823392a09b2d0c7e1b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenZephyrChat-v0.2-GGUF/resolve/main/OpenZephyrChat-v0.2.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "OpenZephyrChat-v0.2.Q5_K_M.gguf",
+            "size": "5131409088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "a8a7f1435dcad6a6b5556c8791f10f26141b47869287f32eaa600aaaff616679",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenZephyrChat-v0.2-GGUF/resolve/main/OpenZephyrChat-v0.2.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "OpenZephyrChat-v0.2.Q5_K_S.gguf",
+            "size": "4997715648",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "ba36106d15680f3730cad8115eebe9c8a9eec770c9d0da3987374d81fadce5ec",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenZephyrChat-v0.2-GGUF/resolve/main/OpenZephyrChat-v0.2.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "OpenZephyrChat-v0.2.Q6_K.gguf",
+            "size": "5942064832",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "3e18cbf352fbc0e68f591c10c67498d8dd858f70128708517335df6f41178822",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenZephyrChat-v0.2-GGUF/resolve/main/OpenZephyrChat-v0.2.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "OpenZephyrChat-v0.2.Q8_0.gguf",
+            "size": "7695857344",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "2b7d250475645128ae0ca3ec8d25db669eec05f9f07da2093e2e345613adaae2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OpenZephyrChat-v0.2-GGUF/resolve/main/OpenZephyrChat-v0.2.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

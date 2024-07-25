@@ -1,0 +1,163 @@
+{
+    "id": "tsunemoto/TinyLlama-1.1B-Chat-v0.6-x8-MoE-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "tsunemoto",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-29T17:50:16Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tinyllama-1.1b-chat-v0.6-x8-moe.Q2_K.gguf",
+            "size": "2154482592",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "2f7c1a6cef7fb9a911e9f127c2750458a168e31001baeb5c757ccc92b92538df",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/TinyLlama-1.1B-Chat-v0.6-x8-MoE-GGUF/resolve/main/tinyllama-1.1b-chat-v0.6-x8-moe.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v0.6-x8-moe.Q3_K_L.gguf",
+            "size": "2817010336",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "8f444d60c9fdded94d8d5fcec44fe5b046aec1d78c7f5bbeb913a8fb91b10267",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/TinyLlama-1.1B-Chat-v0.6-x8-MoE-GGUF/resolve/main/tinyllama-1.1b-chat-v0.6-x8-moe.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v0.6-x8-moe.Q3_K_M.gguf",
+            "size": "2804165280",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "f7acc2b7abf84d65b3aecb54ec2d123a044745a1d8d0f1e908ff92469d1278aa",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/TinyLlama-1.1B-Chat-v0.6-x8-MoE-GGUF/resolve/main/tinyllama-1.1b-chat-v0.6-x8-moe.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v0.6-x8-moe.Q3_K_S.gguf",
+            "size": "2790247072",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "b0af74556367bc8952918fc4323568bcb851b9851c2a3631a66f13cbb19540c1",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/TinyLlama-1.1B-Chat-v0.6-x8-MoE-GGUF/resolve/main/tinyllama-1.1b-chat-v0.6-x8-moe.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v0.6-x8-moe.Q4_0.gguf",
+            "size": "3635418528",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "4c031b0caec9e89f6c9722b5bb3990b9db8f9fb400ca690a497ab470eae0aee1",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/TinyLlama-1.1B-Chat-v0.6-x8-MoE-GGUF/resolve/main/tinyllama-1.1b-chat-v0.6-x8-moe.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v0.6-x8-moe.Q4_1.gguf",
+            "size": "4033146272",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "5ee988d509e9ac191bcbf1d3c524aff60d7bc5940c6a965537dc722ea21a404d",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/TinyLlama-1.1B-Chat-v0.6-x8-MoE-GGUF/resolve/main/tinyllama-1.1b-chat-v0.6-x8-moe.Q4_1.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v0.6-x8-moe.Q4_K_M.gguf",
+            "size": "3636770208",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "cfa46c2f04b2551f19c21bf53696281fd02b24b4ded1b038de2729e4174d86c0",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/TinyLlama-1.1B-Chat-v0.6-x8-MoE-GGUF/resolve/main/tinyllama-1.1b-chat-v0.6-x8-moe.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v0.6-x8-moe.Q4_K_S.gguf",
+            "size": "3635680672",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "4df7a1262115dd387585b6ab019d8c2a87c7ad5494aa69366d4a2ad4c6faa0d5",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/TinyLlama-1.1B-Chat-v0.6-x8-MoE-GGUF/resolve/main/tinyllama-1.1b-chat-v0.6-x8-moe.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v0.6-x8-moe.Q5_0.gguf",
+            "size": "4430874016",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "cfdc03010e15371e427bce169d4b772979eb8991a385c7017f98de4a095127ac",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/TinyLlama-1.1B-Chat-v0.6-x8-MoE-GGUF/resolve/main/tinyllama-1.1b-chat-v0.6-x8-moe.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v0.6-x8-moe.Q5_1.gguf",
+            "size": "4828601760",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "8aa9625bcd5d0b0dd57ecc952c537f42eb5e235f366715e585184c0051fb0894",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/TinyLlama-1.1B-Chat-v0.6-x8-MoE-GGUF/resolve/main/tinyllama-1.1b-chat-v0.6-x8-moe.Q5_1.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v0.6-x8-moe.Q5_K_M.gguf",
+            "size": "4431570336",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5ca8a1593f4dad7e665e73303e8f2d7c3b609d35024a69071baf64584004db7e",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/TinyLlama-1.1B-Chat-v0.6-x8-MoE-GGUF/resolve/main/tinyllama-1.1b-chat-v0.6-x8-moe.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v0.6-x8-moe.Q5_K_S.gguf",
+            "size": "4430874016",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "5075b306bc26a7a4d1586d206b866b2bc6a17fc7aff0b90abe28fcd898d5eb17",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/TinyLlama-1.1B-Chat-v0.6-x8-MoE-GGUF/resolve/main/tinyllama-1.1b-chat-v0.6-x8-moe.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v0.6-x8-moe.Q6_K.gguf",
+            "size": "5276045472",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "9f08644f9d1ee042274b155cb0bf53d742b1348767722a65ca4ce2c5452ded71",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/TinyLlama-1.1B-Chat-v0.6-x8-MoE-GGUF/resolve/main/tinyllama-1.1b-chat-v0.6-x8-moe.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-chat-v0.6-x8-moe.Q8_0.gguf",
+            "size": "6833112480",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "2cb2e209b0f862126841a74fa993ed190601cf096a08f5cb7caa2b3caffe86a1",
+            "download": {
+                "default": "https://huggingface.co/tsunemoto/TinyLlama-1.1B-Chat-v0.6-x8-MoE-GGUF/resolve/main/tinyllama-1.1b-chat-v0.6-x8-moe.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

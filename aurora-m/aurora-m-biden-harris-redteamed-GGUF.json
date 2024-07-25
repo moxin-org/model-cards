@@ -1,0 +1,43 @@
+{
+    "id": "aurora-m/aurora-m-biden-harris-redteamed-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "aurora-m",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-27T04:17:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "aurora-m-biden-harris-redteamed_fp16.gguf",
+            "size": "30966613376",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3663a1d2ff16ffc359723887fcfdba19549511d292ac1a53ae888a2e9fac552c",
+            "download": {
+                "default": "https://huggingface.co/aurora-m/aurora-m-biden-harris-redteamed-GGUF/resolve/main/aurora-m-biden-harris-redteamed_fp16.gguf"
+            }
+        },
+        {
+            "name": "aurora-m-biden-harris-redteamed_Q5_K_S.gguf",
+            "size": "10709697984",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "0db7ce49b77b969d0fd4ca8668a5a0f5a612eb6cb004cda82f3e29f9d30a4725",
+            "download": {
+                "default": "https://huggingface.co/aurora-m/aurora-m-biden-harris-redteamed-GGUF/resolve/main/aurora-m-biden-harris-redteamed_Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

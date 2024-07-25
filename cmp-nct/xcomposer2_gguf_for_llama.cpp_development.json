@@ -1,0 +1,63 @@
+{
+    "id": "cmp-nct/xcomposer2_gguf_for_llama.cpp_development",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "cmp-nct",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-31T03:05:21Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-q3ks.gguf",
+            "size": "3735504672",
+            "quantization": "",
+            "tags": [],
+            "sha256": "481a2b1086ec02233ec57062e278875522e3fdde0027f5ca3dd019be2f641158",
+            "download": {
+                "default": "https://huggingface.co/cmp-nct/xcomposer2_gguf_for_llama.cpp_development/resolve/main/ggml-model-q3ks.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4k.gguf",
+            "size": "4947638048",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4bb04e1793645d92579032aea59921a54a3dece3a33aa7730e4f3726332dd24c",
+            "download": {
+                "default": "https://huggingface.co/cmp-nct/xcomposer2_gguf_for_llama.cpp_development/resolve/main/ggml-model-q4k.gguf"
+            }
+        },
+        {
+            "name": "mmproj-model-f16-q5_k.gguf",
+            "size": "217214848",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7ac536bdb4f02e36b147d0810dc9ace4adaf97dd946c291021fee0d56e2b297c",
+            "download": {
+                "default": "https://huggingface.co/cmp-nct/xcomposer2_gguf_for_llama.cpp_development/resolve/main/mmproj-model-f16-q5_k.gguf"
+            }
+        },
+        {
+            "name": "mmproj-model-f16.gguf",
+            "size": "625763520",
+            "quantization": "",
+            "tags": [],
+            "sha256": "500b0364cc5410a0764e456b22d1554167cb963cadec0b47a41600336b9f20bd",
+            "download": {
+                "default": "https://huggingface.co/cmp-nct/xcomposer2_gguf_for_llama.cpp_development/resolve/main/mmproj-model-f16.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,33 @@
+{
+    "id": "Nextcloud-AI/llm_gpt4all_falcon_7b_q4_gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Nextcloud-AI",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-15T08:46:16Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "gpt4all-falcon-newbpe-q4_0.gguf",
+            "size": "4210994112",
+            "quantization": "",
+            "tags": [],
+            "sha256": "29f1f510535762a94009332f754dff77fc6014a0a0d2c93a34f0457f3cb66c73",
+            "download": {
+                "default": "https://huggingface.co/Nextcloud-AI/llm_gpt4all_falcon_7b_q4_gguf/resolve/main/gpt4all-falcon-newbpe-q4_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

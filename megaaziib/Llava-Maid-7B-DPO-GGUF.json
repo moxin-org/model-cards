@@ -1,0 +1,53 @@
+{
+    "id": "megaaziib/Llava-Maid-7B-DPO-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "megaaziib",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-02T08:44:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llava-maid-7b-dpo.Q4_K_M.gguf",
+            "size": "4368439552",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "d4e2562e33f6b0efd398b5a537f401ec3edbc8beda4f2b31337f9b6029838998",
+            "download": {
+                "default": "https://huggingface.co/megaaziib/Llava-Maid-7B-DPO-GGUF/resolve/main/llava-maid-7b-dpo.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "llava-maid-7b-dpo.Q5_K_M.gguf",
+            "size": "5131409664",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "007e99fbe0232d1d8d0966b38e2467e261a8752179475c675ef3465b1ba71ff9",
+            "download": {
+                "default": "https://huggingface.co/megaaziib/Llava-Maid-7B-DPO-GGUF/resolve/main/llava-maid-7b-dpo.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "mmproj-mistral7b-f16.gguf",
+            "size": "624451168",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b569399e8b652c0f1cd3e629faef3c608328f4e6af612f9574b9c52a573c3f7d",
+            "download": {
+                "default": "https://huggingface.co/megaaziib/Llava-Maid-7B-DPO-GGUF/resolve/main/mmproj-mistral7b-f16.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

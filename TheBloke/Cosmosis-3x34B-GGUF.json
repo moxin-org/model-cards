@@ -1,0 +1,53 @@
+{
+    "id": "TheBloke/Cosmosis-3x34B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-13T08:58:55Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "cosmosis-3x34b.Q2_K.gguf",
+            "size": "31899309152",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "7931bc4293a00a8b6cb1177fcfcb1b19eed02ca44933f2a7cae3bd55739ac133",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Cosmosis-3x34B-GGUF/resolve/main/cosmosis-3x34b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "cosmosis-3x34b.Q3_K_M.gguf",
+            "size": "41852191840",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "f99bb05c61ee8b27d7a2dc2fdf71022cc8adb896b8ad8504aac5e7eb9ee9e2ea",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Cosmosis-3x34B-GGUF/resolve/main/cosmosis-3x34b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "cosmosis-3x34b.Q4_0.gguf",
+            "size": "49196266592",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "947971cc8301059f1ab9a92a24357ce3cb082fb84ca2689672a0ccb6bd42f006",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Cosmosis-3x34B-GGUF/resolve/main/cosmosis-3x34b.Q4_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

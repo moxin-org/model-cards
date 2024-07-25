@@ -1,0 +1,53 @@
+{
+    "id": "aladar/TinyLLama-v0-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "aladar",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-06T23:09:05Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "TinyLLama-v0.f16.gguf",
+            "size": "10007552",
+            "quantization": "",
+            "tags": [],
+            "sha256": "640872dea781b5a5abefa77df3bdf274e2128cf9b5f844c8e903f49e9f129e38",
+            "download": {
+                "default": "https://huggingface.co/aladar/TinyLLama-v0-GGUF/resolve/main/TinyLLama-v0.f16.gguf"
+            }
+        },
+        {
+            "name": "TinyLLama-v0.f32.gguf",
+            "size": "19248128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d6558ad79cf13263b483764ccaac6b1bc8c839a666939c08b05d1d47d75348ce",
+            "download": {
+                "default": "https://huggingface.co/aladar/TinyLLama-v0-GGUF/resolve/main/TinyLLama-v0.f32.gguf"
+            }
+        },
+        {
+            "name": "TinyLLama-v0.Q8_0.gguf",
+            "size": "5676032",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "3682bcf66f4ca1bb217c640490ef0b63265e459bca7dac8799bb671939652421",
+            "download": {
+                "default": "https://huggingface.co/aladar/TinyLLama-v0-GGUF/resolve/main/TinyLLama-v0.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

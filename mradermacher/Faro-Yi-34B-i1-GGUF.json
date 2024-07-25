@@ -1,0 +1,233 @@
+{
+    "id": "mradermacher/Faro-Yi-34B-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-11T12:53:33Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Faro-Yi-34B.i1-IQ4_XS.gguf",
+            "size": "18475051360",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "95f463104a94276a9b79b200f84ed0c35b70df88c3c90d7cc9b03a1be5b17344",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Faro-Yi-34B-i1-GGUF/resolve/main/Faro-Yi-34B.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Faro-Yi-34B.i1-Q6_K.gguf",
+            "size": "28213926240",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "021a04d9d88ddc0c54da46fa521db212b8e5512bf3592f0a5c0aead5267bd095",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Faro-Yi-34B-i1-GGUF/resolve/main/Faro-Yi-34B.i1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Faro-Yi-34B.i1-Q5_K_S.gguf",
+            "size": "23707691360",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "6b5128e5cd846451a1c7649ae7537a87da629d47f629c1e9affed127d1f5a733",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Faro-Yi-34B-i1-GGUF/resolve/main/Faro-Yi-34B.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Faro-Yi-34B.i1-Q5_K_M.gguf",
+            "size": "24321845600",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "533949257cc9566597990e44c033c30b7b13fffe8019d9fc4b569962ccc99612",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Faro-Yi-34B-i1-GGUF/resolve/main/Faro-Yi-34B.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Faro-Yi-34B.i1-Q4_K_S.gguf",
+            "size": "19598649696",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "17c307e123332e9f81f1346bff87ffb1ed5addaeeb6b490f8745a254055301df",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Faro-Yi-34B-i1-GGUF/resolve/main/Faro-Yi-34B.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Faro-Yi-34B.i1-Q4_K_M.gguf",
+            "size": "20658710880",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "feb013fa27ee6c060466c9c0e6503c631a66ad235a013a6b604b9228896b1d49",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Faro-Yi-34B-i1-GGUF/resolve/main/Faro-Yi-34B.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Faro-Yi-34B.i1-Q4_0.gguf",
+            "size": "19530754400",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "ae65a2459f76860337f458b0f3cfee7901bc7bee5b364d6a35967d3d6366c596",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Faro-Yi-34B-i1-GGUF/resolve/main/Faro-Yi-34B.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Faro-Yi-34B.i1-Q3_K_S.gguf",
+            "size": "14960294240",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "449c8428fd7756027804f8bacd80f94c0200aefa8473919e2357692acffcfa52",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Faro-Yi-34B-i1-GGUF/resolve/main/Faro-Yi-34B.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Faro-Yi-34B.i1-Q3_K_M.gguf",
+            "size": "16654924128",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "04dcfd563b951086a0ebf722eec445f8db191923a1ce599049d4a2a396628323",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Faro-Yi-34B-i1-GGUF/resolve/main/Faro-Yi-34B.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Faro-Yi-34B.i1-Q3_K_L.gguf",
+            "size": "18139445600",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "445ef65993f74ae083d30b9eaa0ed458d92cf4a317095597ebf3566baa803eb5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Faro-Yi-34B-i1-GGUF/resolve/main/Faro-Yi-34B.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Faro-Yi-34B.i1-Q2_K.gguf",
+            "size": "12825233760",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "ffdf9ca3fd568dec6cd8542d78e4b88cfc5c287da676ce960a4eeb8b2296e9b6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Faro-Yi-34B-i1-GGUF/resolve/main/Faro-Yi-34B.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Faro-Yi-34B.i1-IQ1_M.gguf",
+            "size": "8176785760",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "52ca69ec8dd20fca57364dcdca282f8731fe0e4583d08221a9fe7c83ab1b3216",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Faro-Yi-34B-i1-GGUF/resolve/main/Faro-Yi-34B.i1-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "Faro-Yi-34B.i1-IQ3_XXS.gguf",
+            "size": "13333875040",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "3f99832dc9efad9c9bee0bc8a5289e5f46f94020a45433c8ccf0c1966e2fc055",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Faro-Yi-34B-i1-GGUF/resolve/main/Faro-Yi-34B.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "Faro-Yi-34B.i1-IQ3_XS.gguf",
+            "size": "14234319200",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "602336932e8528f67199cd420a52535a8f53a30082fcfec45121a7687a8041c4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Faro-Yi-34B-i1-GGUF/resolve/main/Faro-Yi-34B.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Faro-Yi-34B.i1-IQ3_S.gguf",
+            "size": "15018785120",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "e5ca952584bd06addd18185ff3c8b6310eb562d97ea892aa8071bef38f390655",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Faro-Yi-34B-i1-GGUF/resolve/main/Faro-Yi-34B.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Faro-Yi-34B.i1-IQ3_M.gguf",
+            "size": "15564700000",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "235e0e702a8c95357cde2b1000411a824f31b9da8a8360a7097c30dfd34ecfc5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Faro-Yi-34B-i1-GGUF/resolve/main/Faro-Yi-34B.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Faro-Yi-34B.i1-IQ2_XXS.gguf",
+            "size": "9306462560",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "2e55ad27bcc627644c244fb6e5e8a4ce643e81aa79d817d64155b047c6ded7a8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Faro-Yi-34B-i1-GGUF/resolve/main/Faro-Yi-34B.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "Faro-Yi-34B.i1-IQ2_XS.gguf",
+            "size": "10306541920",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "aca4c6a05685cc0051facac4e2f45628defcc12bab47258e2bfe686c6726813c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Faro-Yi-34B-i1-GGUF/resolve/main/Faro-Yi-34B.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Faro-Yi-34B.i1-IQ2_S.gguf",
+            "size": "10891020640",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "244ee38381e6920e6dc4f75078a2ad4a16cf4be41a3297de75229d82a6120969",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Faro-Yi-34B-i1-GGUF/resolve/main/Faro-Yi-34B.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "Faro-Yi-34B.i1-IQ2_M.gguf",
+            "size": "11794762080",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "01ac48e89fc29359f4bee577acf97180c920338f0abaab608d5372a9b94ca82f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Faro-Yi-34B-i1-GGUF/resolve/main/Faro-Yi-34B.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "Faro-Yi-34B.i1-IQ1_S.gguf",
+            "size": "7498979680",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "05b0aa0975cc08765d6ae701c8a2fb75cadaa9b3c0038f8fedca4b4c7a1a8eee",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Faro-Yi-34B-i1-GGUF/resolve/main/Faro-Yi-34B.i1-IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

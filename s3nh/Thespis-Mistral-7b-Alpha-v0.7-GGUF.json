@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/Thespis-Mistral-7b-Alpha-v0.7-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-19T12:17:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "thespis-mistral-7b-alpha-v0.7.Q3_K_S.gguf",
+            "size": "3164567168",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "c3b156f256c457641b8f197c1ba48835590f9a8b273d683c48ab652b0221c186",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Thespis-Mistral-7b-Alpha-v0.7-GGUF/resolve/main/thespis-mistral-7b-alpha-v0.7.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "thespis-mistral-7b-alpha-v0.7.Q4_K_M.gguf",
+            "size": "4368438912",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c87eca380ca9510429ac42aefaa57d20ea186ec2ec5870c5f8bf98e5feb02d0c",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Thespis-Mistral-7b-Alpha-v0.7-GGUF/resolve/main/thespis-mistral-7b-alpha-v0.7.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "thespis-mistral-7b-alpha-v0.7.Q5_K_M.gguf",
+            "size": "5131409024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "b2786082dd7f6197f331272e05989b70dae202e37a303860845963d276f8333f",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Thespis-Mistral-7b-Alpha-v0.7-GGUF/resolve/main/thespis-mistral-7b-alpha-v0.7.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "thespis-mistral-7b-alpha-v0.7.Q6_K.gguf",
+            "size": "5942064768",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "dc076cc14f596cc8bee90396ef843acb4499edce05a7db5d8278177df8f8990f",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Thespis-Mistral-7b-Alpha-v0.7-GGUF/resolve/main/thespis-mistral-7b-alpha-v0.7.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "thespis-mistral-7b-alpha-v0.7.Q8_0.gguf",
+            "size": "7695857280",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "ba0099a29be78cb88e0132880f334176e27fe7079f5f550a26e7281d3b7a3053",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Thespis-Mistral-7b-Alpha-v0.7-GGUF/resolve/main/thespis-mistral-7b-alpha-v0.7.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

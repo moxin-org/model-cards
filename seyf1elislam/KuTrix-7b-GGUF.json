@@ -1,0 +1,83 @@
+{
+    "id": "seyf1elislam/KuTrix-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "seyf1elislam",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-14T02:18:44Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "kutrix-7b.Q2_K.gguf",
+            "size": "2719241856",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "231dbd325ec34300fb389ad94919c9b620096e3213e3863f227f1f8662cf2365",
+            "download": {
+                "default": "https://huggingface.co/seyf1elislam/KuTrix-7b-GGUF/resolve/main/kutrix-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "kutrix-7b.Q3_K_M.gguf",
+            "size": "3518985856",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "532cdb4f5dfa3c55603881c5fb09b09874bed353bc7872e79054a0fa7ce1331c",
+            "download": {
+                "default": "https://huggingface.co/seyf1elislam/KuTrix-7b-GGUF/resolve/main/kutrix-7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "kutrix-7b.Q4_K_M.gguf",
+            "size": "4368438912",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "cd3847a6258ffad04ab32ac65724ef14105c47aefbefe4b7cf40d74a073c24d5",
+            "download": {
+                "default": "https://huggingface.co/seyf1elislam/KuTrix-7b-GGUF/resolve/main/kutrix-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "kutrix-7b.Q5_K_M.gguf",
+            "size": "5131409024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "8b26ba7696f10bb44d7016a7ffb61a9bb083978383323011960de7709b5db7e9",
+            "download": {
+                "default": "https://huggingface.co/seyf1elislam/KuTrix-7b-GGUF/resolve/main/kutrix-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "kutrix-7b.Q6_K.gguf",
+            "size": "5942064768",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "fe159bb15e4ba4611d03cb1512308215c46f9285e6aa7918a29e322ce9dbc7ea",
+            "download": {
+                "default": "https://huggingface.co/seyf1elislam/KuTrix-7b-GGUF/resolve/main/kutrix-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "kutrix-7b.Q8_0.gguf",
+            "size": "7695857280",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "5221c9abd733f73269b65749764fea2898192daa83136f35b01fe62c45e5d882",
+            "download": {
+                "default": "https://huggingface.co/seyf1elislam/KuTrix-7b-GGUF/resolve/main/kutrix-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

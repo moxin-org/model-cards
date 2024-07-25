@@ -1,0 +1,63 @@
+{
+    "id": "PowerInfer/Bamboo-base-v0.1-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "PowerInfer",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-26T06:53:02Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "bamboo-7b-v0.1.gguf",
+            "size": "14484731456",
+            "quantization": "",
+            "tags": [],
+            "sha256": "060139770ff004d1f5aba8ce24c52aaf3af91b0e35fc1faecd81a9d4ea92a049",
+            "download": {
+                "default": "https://huggingface.co/PowerInfer/Bamboo-base-v0.1-gguf/resolve/main/bamboo-7b-v0.1.gguf"
+            }
+        },
+        {
+            "name": "bamboo-7b-v0.1.powerinfer.gguf",
+            "size": "15961654432",
+            "quantization": "",
+            "tags": [],
+            "sha256": "cae7c9db1d4de8c1fca6213a0eef3d9bf995a0df8386cc87c85415f980983886",
+            "download": {
+                "default": "https://huggingface.co/PowerInfer/Bamboo-base-v0.1-gguf/resolve/main/bamboo-7b-v0.1.powerinfer.gguf"
+            }
+        },
+        {
+            "name": "bamboo-7b-v0.1.Q4_0.gguf",
+            "size": "4263540320",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "bff33114404a7ced249c9449b1ad7316c1f206178661e90e81dd77e6944e8943",
+            "download": {
+                "default": "https://huggingface.co/PowerInfer/Bamboo-base-v0.1-gguf/resolve/main/bamboo-7b-v0.1.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "bamboo-7b-v0.1.Q4_0.powerinfer.gguf",
+            "size": "4678927552",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f953d081426c95be32da0e606abe4457ae982e5126fb34fafed71e6971b190df",
+            "download": {
+                "default": "https://huggingface.co/PowerInfer/Bamboo-base-v0.1-gguf/resolve/main/bamboo-7b-v0.1.Q4_0.powerinfer.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,53 @@
+{
+    "id": "NousResearch/Obsidian-3B-V0.5-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "NousResearch",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-12T18:46:56Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mmproj-obsidian-f16.gguf",
+            "size": "600829088",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2b62df2eef4461a92c9edb9f312584f872611ffcc0ce213eb6d59792629b6cab",
+            "download": {
+                "default": "https://huggingface.co/NousResearch/Obsidian-3B-V0.5-GGUF/resolve/main/mmproj-obsidian-f16.gguf"
+            }
+        },
+        {
+            "name": "obsidian-f16.gguf",
+            "size": "5593341376",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0164a554de38f2bcd51c5d04e95ecd36e7dfc8e04847504418536e8e00446fea",
+            "download": {
+                "default": "https://huggingface.co/NousResearch/Obsidian-3B-V0.5-GGUF/resolve/main/obsidian-f16.gguf"
+            }
+        },
+        {
+            "name": "obsidian-q6.gguf",
+            "size": "2295984640",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0c5332551d2592ff44be81f4d5a70ef5bca6b1c2dbe4319c6af2f569b3a945d3",
+            "download": {
+                "default": "https://huggingface.co/NousResearch/Obsidian-3B-V0.5-GGUF/resolve/main/obsidian-q6.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

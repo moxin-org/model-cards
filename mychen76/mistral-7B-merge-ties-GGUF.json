@@ -1,0 +1,43 @@
+{
+    "id": "mychen76/mistral-7B-merge-ties-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mychen76",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-10T07:43:15Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "merge_ties.Q4_K_M.gguf",
+            "size": "4368438976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "1e8c104e21db5a71e26f45508c15daa8f7877309a9826d47474d9e746bba7fde",
+            "download": {
+                "default": "https://huggingface.co/mychen76/mistral-7B-merge-ties-GGUF/resolve/main/merge_ties.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "merge_ties.Q5_K_M.gguf",
+            "size": "5131409088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "02629e549ffb47d6f90c34a791d57ba2744c0ad88f438ff4b8839b86a37efef6",
+            "download": {
+                "default": "https://huggingface.co/mychen76/mistral-7B-merge-ties-GGUF/resolve/main/merge_ties.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

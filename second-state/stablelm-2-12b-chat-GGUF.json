@@ -1,0 +1,153 @@
+{
+    "id": "second-state/stablelm-2-12b-chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-07-09T03:46:21Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "stablelm-2-12b-chat-f16.gguf",
+            "size": "24291290976",
+            "quantization": "",
+            "tags": [],
+            "sha256": "efa9bbd7277e220ab88168703662d6724403f511aadfc0f954c30243738e509e",
+            "download": {
+                "default": "https://huggingface.co/second-state/stablelm-2-12b-chat-GGUF/resolve/main/stablelm-2-12b-chat-f16.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-12b-chat-Q2_K.gguf",
+            "size": "4698894176",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "9ac113ae5d7d9a6c6888b015a541479f337fcf6d21fa4231ddbd91523eff7022",
+            "download": {
+                "default": "https://huggingface.co/second-state/stablelm-2-12b-chat-GGUF/resolve/main/stablelm-2-12b-chat-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-12b-chat-Q3_K_L.gguf",
+            "size": "6492286816",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "784ca855b81f9a04dff60a3fd06f586b4cabaf899dff557ccb7f427c8c1e0f2c",
+            "download": {
+                "default": "https://huggingface.co/second-state/stablelm-2-12b-chat-GGUF/resolve/main/stablelm-2-12b-chat-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-12b-chat-Q3_K_M.gguf",
+            "size": "5993885536",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "415344077a811dc684a0f78cf779044c35e7f10071e7f033cf4be81a08ec014c",
+            "download": {
+                "default": "https://huggingface.co/second-state/stablelm-2-12b-chat-GGUF/resolve/main/stablelm-2-12b-chat-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-12b-chat-Q3_K_S.gguf",
+            "size": "5424459616",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "f90273163e00f0e6b3af25242dd33b97d18b4829475475998dbae0f4d27553f4",
+            "download": {
+                "default": "https://huggingface.co/second-state/stablelm-2-12b-chat-GGUF/resolve/main/stablelm-2-12b-chat-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-12b-chat-Q4_0.gguf",
+            "size": "6968897376",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "d7d4a8b8c5095b8eff5c3ff340297c008ada3c9254cab45b5af88e8ad4b13e82",
+            "download": {
+                "default": "https://huggingface.co/second-state/stablelm-2-12b-chat-GGUF/resolve/main/stablelm-2-12b-chat-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-12b-chat-Q4_K_M.gguf",
+            "size": "7367642976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "d4fa0708c46786066db4aae8a21fbe5af71a9fdb6d8046a54446864b35972065",
+            "download": {
+                "default": "https://huggingface.co/second-state/stablelm-2-12b-chat-GGUF/resolve/main/stablelm-2-12b-chat-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-12b-chat-Q4_K_S.gguf",
+            "size": "7016410976",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "db2e92d69601c6cccbef82a5e47d4346a32042bad6cc19400e7b42cdd7e25af1",
+            "download": {
+                "default": "https://huggingface.co/second-state/stablelm-2-12b-chat-GGUF/resolve/main/stablelm-2-12b-chat-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-12b-chat-Q5_0.gguf",
+            "size": "8422485856",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "059f59dc8e8a502f3ff173438ab43e74ed06339714a9084a37a47916aefababb",
+            "download": {
+                "default": "https://huggingface.co/second-state/stablelm-2-12b-chat-GGUF/resolve/main/stablelm-2-12b-chat-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-12b-chat-Q5_K_M.gguf",
+            "size": "8627900256",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "b749d21a6cb4cf5c079d0172e6da1550c275d7300971cfd4c26122225a819c99",
+            "download": {
+                "default": "https://huggingface.co/second-state/stablelm-2-12b-chat-GGUF/resolve/main/stablelm-2-12b-chat-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-12b-chat-Q5_K_S.gguf",
+            "size": "8422485856",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "02d333d61b79cd4a163b56f02a74e236672787a6d246a1bd3083de49010ca82e",
+            "download": {
+                "default": "https://huggingface.co/second-state/stablelm-2-12b-chat-GGUF/resolve/main/stablelm-2-12b-chat-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-12b-chat-Q6_K.gguf",
+            "size": "9966923616",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "42eb3db7606380df974e75866210bf568d84d14a2268f8f2a8ce8496606b8099",
+            "download": {
+                "default": "https://huggingface.co/second-state/stablelm-2-12b-chat-GGUF/resolve/main/stablelm-2-12b-chat-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-12b-chat-Q8_0.gguf",
+            "size": "12907687776",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "b26dd1f874b1ec76d57ed1a89d43ded6fc01704f4301ee7b88e4d226f469ea9d",
+            "download": {
+                "default": "https://huggingface.co/second-state/stablelm-2-12b-chat-GGUF/resolve/main/stablelm-2-12b-chat-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 5120,
+    "vector_size": 0,
+    "metrics": null
+}

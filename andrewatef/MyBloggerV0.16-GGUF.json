@@ -1,0 +1,53 @@
+{
+    "id": "andrewatef/MyBloggerV0.16-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "andrewatef",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-21T20:51:06Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "MyBloggerV0.16-GGUF-unsloth.F16.gguf",
+            "size": "2201016960",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0358c2a391292655f493c48652d55137426efdc3b5bb54a28f14283933742bb7",
+            "download": {
+                "default": "https://huggingface.co/andrewatef/MyBloggerV0.16-GGUF/resolve/main/MyBloggerV0.16-GGUF-unsloth.F16.gguf"
+            }
+        },
+        {
+            "name": "MyBloggerV0.16-GGUF-unsloth.Q4_K_M.gguf",
+            "size": "667814592",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "426ff0c6a0a350719f49984458e7e464e8fc08ad7af9597aa90718a90e08df8b",
+            "download": {
+                "default": "https://huggingface.co/andrewatef/MyBloggerV0.16-GGUF/resolve/main/MyBloggerV0.16-GGUF-unsloth.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "MyBloggerV0.16-GGUF-unsloth.Q8_0.gguf",
+            "size": "1169808000",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "b9eb44b055410bb0a332a36bf6639e115badcf0f686f6913f27f9f64f31f3ced",
+            "download": {
+                "default": "https://huggingface.co/andrewatef/MyBloggerV0.16-GGUF/resolve/main/MyBloggerV0.16-GGUF-unsloth.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,93 @@
+{
+    "id": "s3nh/GeneZC-MiniChat-2-3B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-04T08:52:32Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "GeneZC-MiniChat-2-3B.Q2_K.gguf",
+            "size": "1297187840",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "dd8afdfd3fc53caa58f386daa48e4f0ae02c9e4e8f15f8a90a25f3696adaa510",
+            "download": {
+                "default": "https://huggingface.co/s3nh/GeneZC-MiniChat-2-3B-GGUF/resolve/main/GeneZC-MiniChat-2-3B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "GeneZC-MiniChat-2-3B.Q3_K_S.gguf",
+            "size": "1358549504",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "90cfe4e72cffdfb02105f8fff8a0bf5293fcaca202719b75b7a215b815586b39",
+            "download": {
+                "default": "https://huggingface.co/s3nh/GeneZC-MiniChat-2-3B-GGUF/resolve/main/GeneZC-MiniChat-2-3B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "GeneZC-MiniChat-2-3B.Q4_K_M.gguf",
+            "size": "1846654976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "6bd31d98a23f85a3cd835d3d386408575d000f836398939ccf152301c66019c5",
+            "download": {
+                "default": "https://huggingface.co/s3nh/GeneZC-MiniChat-2-3B-GGUF/resolve/main/GeneZC-MiniChat-2-3B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "GeneZC-MiniChat-2-3B.Q4_K_S.gguf",
+            "size": "1756903424",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "b8e9fad7ae0595d0f81eb66cf24e34530db067087a79c08a0db09aa9906cb0e1",
+            "download": {
+                "default": "https://huggingface.co/s3nh/GeneZC-MiniChat-2-3B-GGUF/resolve/main/GeneZC-MiniChat-2-3B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "GeneZC-MiniChat-2-3B.Q5_K_S.gguf",
+            "size": "2098239488",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "d990769edad7d914d2d65e5d04d665c843584082144b72fe3693cf9ab0eaa600",
+            "download": {
+                "default": "https://huggingface.co/s3nh/GeneZC-MiniChat-2-3B-GGUF/resolve/main/GeneZC-MiniChat-2-3B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "GeneZC-MiniChat-2-3B.Q6_K.gguf",
+            "size": "2479291904",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "ff6621aaef082c097dd2ee5186d83568bf94b88b3811577c03aaab2d35b4c071",
+            "download": {
+                "default": "https://huggingface.co/s3nh/GeneZC-MiniChat-2-3B-GGUF/resolve/main/GeneZC-MiniChat-2-3B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "GeneZC-MiniChat-2-3B.Q8_0.gguf",
+            "size": "3210768896",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "a38ae8a85bc7b87f7bf4d11afaca96d0c7c67d065fc33ec9ea09b6888cdd9aa4",
+            "download": {
+                "default": "https://huggingface.co/s3nh/GeneZC-MiniChat-2-3B-GGUF/resolve/main/GeneZC-MiniChat-2-3B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

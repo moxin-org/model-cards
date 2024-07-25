@@ -1,0 +1,43 @@
+{
+    "id": "guinmoon/bloomz-1b7-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "guinmoon",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-18T12:27:50Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "bloomz-1b7-f16.gguf",
+            "size": "4487342144",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4f3b45c90fa2158d4277155bfac7ba4ac37cfee3e71d03abb114e7bd069974ef",
+            "download": {
+                "default": "https://huggingface.co/guinmoon/bloomz-1b7-gguf/resolve/main/bloomz-1b7-f16.gguf"
+            }
+        },
+        {
+            "name": "bloomz-1b7-Q6_K.gguf",
+            "size": "1850075264",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "16d89ce386880e38beb708f90e261761305e6940d3d48d1280bdae7f225480b4",
+            "download": {
+                "default": "https://huggingface.co/guinmoon/bloomz-1b7-gguf/resolve/main/bloomz-1b7-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

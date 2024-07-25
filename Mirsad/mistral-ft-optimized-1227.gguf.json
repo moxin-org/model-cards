@@ -1,0 +1,53 @@
+{
+    "id": "Mirsad/mistral-ft-optimized-1227.gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Mirsad",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-30T03:25:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistral-ft-optimized-1227_Q3_K_M.gguf",
+            "size": "3519922240",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "2d33af4c1a8b715674beb5480f9223642b7dabc82a89a8b8e729b08604e4d5e2",
+            "download": {
+                "default": "https://huggingface.co/Mirsad/mistral-ft-optimized-1227.gguf/resolve/main/mistral-ft-optimized-1227_Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral-ft-optimized-1227_Q4_K_M.gguf",
+            "size": "4369375296",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e34f1671ce243159ec76ecb35252c05fb6ce35f4f365982f863e8620cc1ca8d3",
+            "download": {
+                "default": "https://huggingface.co/Mirsad/mistral-ft-optimized-1227.gguf/resolve/main/mistral-ft-optimized-1227_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral-ft-optimized-1227_Q5_K_M.gguf",
+            "size": "5132345408",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "4ec7671a08c333097a9acfabf04f7c828ba8fdff90856ade75419cd6c11ef4b2",
+            "download": {
+                "default": "https://huggingface.co/Mirsad/mistral-ft-optimized-1227.gguf/resolve/main/mistral-ft-optimized-1227_Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

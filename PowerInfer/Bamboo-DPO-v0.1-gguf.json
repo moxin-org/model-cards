@@ -1,0 +1,63 @@
+{
+    "id": "PowerInfer/Bamboo-DPO-v0.1-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "PowerInfer",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-26T07:23:15Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "bamboo-7b-dpo-v0.1.gguf",
+            "size": "14484731424",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f99787b70233af842fd195f4f36b14c5f73c00ca3c88a25ffdc5941ecff5a62e",
+            "download": {
+                "default": "https://huggingface.co/PowerInfer/Bamboo-DPO-v0.1-gguf/resolve/main/bamboo-7b-dpo-v0.1.gguf"
+            }
+        },
+        {
+            "name": "bamboo-7b-dpo-v0.1.powerinfer.gguf",
+            "size": "15971091616",
+            "quantization": "",
+            "tags": [],
+            "sha256": "145efd0294e71d1dbb6915e75cde7231bae9f481422df6df64c287c87b4f5a80",
+            "download": {
+                "default": "https://huggingface.co/PowerInfer/Bamboo-DPO-v0.1-gguf/resolve/main/bamboo-7b-dpo-v0.1.powerinfer.gguf"
+            }
+        },
+        {
+            "name": "bamboo-7b-dpo-v0.1.Q4_0.gguf",
+            "size": "4263540320",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "6e57c5b2071dac4f53fd0490a571a9a2270b67c7c8e05437db39eb8cdb946d60",
+            "download": {
+                "default": "https://huggingface.co/PowerInfer/Bamboo-DPO-v0.1-gguf/resolve/main/bamboo-7b-dpo-v0.1.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "bamboo-7b-dpo-v0.1.Q4_0.powerinfer.gguf",
+            "size": "4681581760",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9661890635b4f986ebe523eba10404cbb5481be57266cb6d5a894fb63cac527c",
+            "download": {
+                "default": "https://huggingface.co/PowerInfer/Bamboo-DPO-v0.1-gguf/resolve/main/bamboo-7b-dpo-v0.1.Q4_0.powerinfer.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

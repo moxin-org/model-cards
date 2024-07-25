@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/NexoNimbus-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-30T00:42:12Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "NexoNimbus-7B.IQ3_M.gguf",
+            "size": "3439515264",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "129e00f9312b520e4fe6f80c1c2630730787c47ddbd25428eff41b825d439367",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexoNimbus-7B-GGUF/resolve/main/NexoNimbus-7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "NexoNimbus-7B.IQ3_S.gguf",
+            "size": "3337016960",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "53afc41a4dcdc4b26ec91809f258243235b0afa429b07a570611a322601ddbe7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexoNimbus-7B-GGUF/resolve/main/NexoNimbus-7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "NexoNimbus-7B.IQ3_XS.gguf",
+            "size": "3173439104",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "31da5c8e04cd39462663d25aa888b1bab4c461e59c406672b5c2324bd1f7b9a6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexoNimbus-7B-GGUF/resolve/main/NexoNimbus-7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "NexoNimbus-7B.IQ4_NL.gguf",
+            "size": "4309677696",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "9ea9e335e5b1962974e0ff4100c48104e62d22484a835e3958a6877e8c6d917f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexoNimbus-7B-GGUF/resolve/main/NexoNimbus-7B.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "NexoNimbus-7B.IQ4_XS.gguf",
+            "size": "4099012224",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "3a0c3b86b02420a9b30a7bb0debe4cfe397c62125ee96a324d3df59010753344",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexoNimbus-7B-GGUF/resolve/main/NexoNimbus-7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "NexoNimbus-7B.Q2_K.gguf",
+            "size": "2873865856",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "45fd330e2208e624eb7cd5ebc187b665ce655a063d2bc6f6fbd9cf7ff157b0c9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexoNimbus-7B-GGUF/resolve/main/NexoNimbus-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "NexoNimbus-7B.Q3_K_L.gguf",
+            "size": "3976648320",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "a63ce2e1572b9cb770187f97bba8db51469e69021dfe6888034e206a442affba",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexoNimbus-7B-GGUF/resolve/main/NexoNimbus-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "NexoNimbus-7B.Q3_K_M.gguf",
+            "size": "3673609856",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ebe4e800eb40ded52fc97887743993d398a5ce262da64f6d24bf2051041f420c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexoNimbus-7B-GGUF/resolve/main/NexoNimbus-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "NexoNimbus-7B.Q3_K_S.gguf",
+            "size": "3319191168",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "4cc4abaf3a0b50c661b6383d0794e38ab97b68ad7057423fd0fabaa6556d0293",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexoNimbus-7B-GGUF/resolve/main/NexoNimbus-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "NexoNimbus-7B.Q4_0.gguf",
+            "size": "4263540352",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "340899b777d8af51ab2b6ded0562f65511d3f755cd9f57538fc91ac8a56cbf76",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexoNimbus-7B-GGUF/resolve/main/NexoNimbus-7B.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "NexoNimbus-7B.Q4_K_M.gguf",
+            "size": "4523062912",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a738f7c00816a1887e113a2d45947745f7ec5578de870044019a5447084ec524",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexoNimbus-7B-GGUF/resolve/main/NexoNimbus-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "NexoNimbus-7B.Q4_K_S.gguf",
+            "size": "4294997632",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "9fcefa1f8588dadab5868f128c0568f18e3a4c7d5f866471dd5a13f04433b93e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexoNimbus-7B-GGUF/resolve/main/NexoNimbus-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "NexoNimbus-7B.Q5_K_M.gguf",
+            "size": "5286033024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "81d770915e6e850d60204b9c8d492a8da40cbf68b94256dbe5ba12f9ecbf29da",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexoNimbus-7B-GGUF/resolve/main/NexoNimbus-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "NexoNimbus-7B.Q5_K_S.gguf",
+            "size": "5152339584",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "d19ce487c440049fb58b1a2172e6aedfcd50547c60f8ee4a9ed296d327983d8f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexoNimbus-7B-GGUF/resolve/main/NexoNimbus-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "NexoNimbus-7B.Q6_K.gguf",
+            "size": "6096688768",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "9dfcddb5483e30c1d943677119f440fd724f29ee2f88430978eae14c2832f8fe",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexoNimbus-7B-GGUF/resolve/main/NexoNimbus-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "NexoNimbus-7B.Q8_0.gguf",
+            "size": "7818737280",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "909ea6dc7f49259d1e9d9b5910e57b84fd45cce1b0f193380e84be2f2480f39f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/NexoNimbus-7B-GGUF/resolve/main/NexoNimbus-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

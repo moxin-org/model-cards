@@ -1,0 +1,143 @@
+{
+    "id": "second-state/Samantha-1.11-CodeLlama-34B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-16T09:51:21Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Samantha-1.11-CodeLlama-34b-Q2_K.gguf",
+            "size": "12505690240",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "c3b95cbf8edc05437bdca3d1da152a0eaee579e3c61db93bbeb0bb5e336c5539",
+            "download": {
+                "default": "https://huggingface.co/second-state/Samantha-1.11-CodeLlama-34B-GGUF/resolve/main/Samantha-1.11-CodeLlama-34b-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Samantha-1.11-CodeLlama-34b-Q3_K_L.gguf",
+            "size": "17771524224",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "4e89edb49e931fee60031ccdeeff4f7a5f44da03037bc3766bdaacaa98c4a684",
+            "download": {
+                "default": "https://huggingface.co/second-state/Samantha-1.11-CodeLlama-34B-GGUF/resolve/main/Samantha-1.11-CodeLlama-34b-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Samantha-1.11-CodeLlama-34b-Q3_K_M.gguf",
+            "size": "16306139264",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "5b6a55ef9b788eec67aebf23e426f25236c62c3ed67d56c379a03bb071dda763",
+            "download": {
+                "default": "https://huggingface.co/second-state/Samantha-1.11-CodeLlama-34B-GGUF/resolve/main/Samantha-1.11-CodeLlama-34b-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Samantha-1.11-CodeLlama-34b-Q3_K_S.gguf",
+            "size": "14605348992",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "76663aa9b425d13e8bd68d552c12bda86022f8638264b1067014dd7c534f0a8b",
+            "download": {
+                "default": "https://huggingface.co/second-state/Samantha-1.11-CodeLlama-34B-GGUF/resolve/main/Samantha-1.11-CodeLlama-34b-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Samantha-1.11-CodeLlama-34b-Q4_0.gguf",
+            "size": "19052048512",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "53173268ec8298ac3b091d95d15dc67524747d564e34a746b5ece2ea7ea7ec9b",
+            "download": {
+                "default": "https://huggingface.co/second-state/Samantha-1.11-CodeLlama-34B-GGUF/resolve/main/Samantha-1.11-CodeLlama-34b-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Samantha-1.11-CodeLlama-34b-Q4_K_M.gguf",
+            "size": "20219900032",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "61be1a0cc7da0a08116ef399c89831519f5eaa46698cbafaabf03aa76f8d3ad8",
+            "download": {
+                "default": "https://huggingface.co/second-state/Samantha-1.11-CodeLlama-34B-GGUF/resolve/main/Samantha-1.11-CodeLlama-34b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Samantha-1.11-CodeLlama-34b-Q4_K_S.gguf",
+            "size": "19191509120",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "1d55bc4711453c0891a8a098ea3d6503daea7fb474bbbda4f5a4a74224a25f5f",
+            "download": {
+                "default": "https://huggingface.co/second-state/Samantha-1.11-CodeLlama-34B-GGUF/resolve/main/Samantha-1.11-CodeLlama-34b-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Samantha-1.11-CodeLlama-34b-Q5_0.gguf",
+            "size": "23237177472",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "a113d11a04b0ca1186dc263fdb91749329885091379db0ae6c2ddfa3ca866d55",
+            "download": {
+                "default": "https://huggingface.co/second-state/Samantha-1.11-CodeLlama-34B-GGUF/resolve/main/Samantha-1.11-CodeLlama-34b-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Samantha-1.11-CodeLlama-34b-Q5_K_M.gguf",
+            "size": "23838797952",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "325a14a42c657845aed815b7699dc876df2b830c01f78d0c3fada8a67b4c56e0",
+            "download": {
+                "default": "https://huggingface.co/second-state/Samantha-1.11-CodeLlama-34B-GGUF/resolve/main/Samantha-1.11-CodeLlama-34b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Samantha-1.11-CodeLlama-34b-Q5_K_S.gguf",
+            "size": "23237177472",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "db44e6d6f2c7742598c480980f43e9836a1edd7a367099e4d4cb641f4f6d3f2c",
+            "download": {
+                "default": "https://huggingface.co/second-state/Samantha-1.11-CodeLlama-34B-GGUF/resolve/main/Samantha-1.11-CodeLlama-34b-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Samantha-1.11-CodeLlama-34b-Q6_K.gguf",
+            "size": "27683876992",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "aaa1f40b80587afa31633c22333634e7584ff404e72bc9eb5e33eff52eb03d05",
+            "download": {
+                "default": "https://huggingface.co/second-state/Samantha-1.11-CodeLlama-34B-GGUF/resolve/main/Samantha-1.11-CodeLlama-34b-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Samantha-1.11-CodeLlama-34b-Q8_0.gguf",
+            "size": "35856052352",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "b35c5b12c6810197e90da82ce4e43df3e758d2ea51d9e5e5f63e595beeac6e2d",
+            "download": {
+                "default": "https://huggingface.co/second-state/Samantha-1.11-CodeLlama-34B-GGUF/resolve/main/Samantha-1.11-CodeLlama-34b-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 8192,
+    "vector_size": 0,
+    "metrics": {}
+}

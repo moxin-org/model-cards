@@ -1,0 +1,73 @@
+{
+    "id": "InferenceIllusionist/Hyperion-1.5-Mistral-7B-iMat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "InferenceIllusionist",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-03T11:01:23Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Hyperion-1.5-Mistral-7B-iMat-IQ2_XS.gguf",
+            "size": "2310919936",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "a11d22159250fea646df551f09338b9935edeb5fc7c2bd8321ec84da1b13aa59",
+            "download": {
+                "default": "https://huggingface.co/InferenceIllusionist/Hyperion-1.5-Mistral-7B-iMat-GGUF/resolve/main/Hyperion-1.5-Mistral-7B-iMat-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-1.5-Mistral-7B-iMat-IQ3_M.gguf",
+            "size": "3284891392",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "197a2318bd6bc8333f54646098fb75a4284b0c586680fb2fc18bb95b7e1cfd05",
+            "download": {
+                "default": "https://huggingface.co/InferenceIllusionist/Hyperion-1.5-Mistral-7B-iMat-GGUF/resolve/main/Hyperion-1.5-Mistral-7B-iMat-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-1.5-Mistral-7B-iMat-IQ3_S.gguf",
+            "size": "3182393088",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "455d90932ba9f649b77cb73ac83717dcdb57857d55336d0dc66deb37b54337c0",
+            "download": {
+                "default": "https://huggingface.co/InferenceIllusionist/Hyperion-1.5-Mistral-7B-iMat-GGUF/resolve/main/Hyperion-1.5-Mistral-7B-iMat-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-1.5-Mistral-7B-iMat-IQ3_XXS.gguf",
+            "size": "2827343616",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "598ca72e67e9b0a3e36e281399cf28373d51a61d64d76801d4bcf9134a9d2b49",
+            "download": {
+                "default": "https://huggingface.co/InferenceIllusionist/Hyperion-1.5-Mistral-7B-iMat-GGUF/resolve/main/Hyperion-1.5-Mistral-7B-iMat-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-1.5-Mistral-7B-iMat-IQ4_NL.gguf",
+            "size": "4125693696",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "c697405066094cd30fb058174dc602b5fae4c555affe8966b5d2b01a0f8a0601",
+            "download": {
+                "default": "https://huggingface.co/InferenceIllusionist/Hyperion-1.5-Mistral-7B-iMat-GGUF/resolve/main/Hyperion-1.5-Mistral-7B-iMat-IQ4_NL.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

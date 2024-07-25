@@ -1,0 +1,143 @@
+{
+    "id": "second-state/StarCoder2-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-02T07:35:41Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "starcoder2-7b-Q2_K.gguf",
+            "size": "2724543296",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "f067909d93620ce61834426f7a31416a07cf8b5ebc39f19a4fd1e10bff09392e",
+            "download": {
+                "default": "https://huggingface.co/second-state/StarCoder2-7B-GGUF/resolve/main/starcoder2-7b-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "starcoder2-7b-Q3_K_L.gguf",
+            "size": "3985587008",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "3b7e3c8c09b64f447ec27973a1c77fa03be5ae7661286347e071bcc7f7755ba4",
+            "download": {
+                "default": "https://huggingface.co/second-state/StarCoder2-7B-GGUF/resolve/main/starcoder2-7b-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "starcoder2-7b-Q3_K_M.gguf",
+            "size": "3594533696",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ad1b55bff88200c0e6541eca5a5c8dc3b9cc9cadee7a33628acaf4549aac5bae",
+            "download": {
+                "default": "https://huggingface.co/second-state/StarCoder2-7B-GGUF/resolve/main/starcoder2-7b-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "starcoder2-7b-Q3_K_S.gguf",
+            "size": "3090234176",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "01905a299e979234f7d39ec8e15b5f2aad9d1afa99983ad10b9415e487ec2272",
+            "download": {
+                "default": "https://huggingface.co/second-state/StarCoder2-7B-GGUF/resolve/main/starcoder2-7b-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "starcoder2-7b-Q4_0.gguf",
+            "size": "4042799936",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "afc57cb47969f8ff40484a87f4a64bcac76ddb73ca1112dedaf201abe607ec05",
+            "download": {
+                "default": "https://huggingface.co/second-state/StarCoder2-7B-GGUF/resolve/main/starcoder2-7b-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "starcoder2-7b-Q4_K_M.gguf",
+            "size": "4402887488",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "d6d6e50fa0c240bb5ea13bae6c06e7d3dbb689b0edc55b3610c867c44d9baa7b",
+            "download": {
+                "default": "https://huggingface.co/second-state/StarCoder2-7B-GGUF/resolve/main/starcoder2-7b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "starcoder2-7b-Q4_K_S.gguf",
+            "size": "4128914240",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "beb8724aa4a6d8ab100819001f4fe192967b7461ab5a14161e5cc5a770935a9f",
+            "download": {
+                "default": "https://huggingface.co/second-state/StarCoder2-7B-GGUF/resolve/main/starcoder2-7b-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "starcoder2-7b-Q5_0.gguf",
+            "size": "4939332416",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "8e5d12f32630a2a2e872e026d3361daee2efb540b9bae79144fd38e4c19ad7f7",
+            "download": {
+                "default": "https://huggingface.co/second-state/StarCoder2-7B-GGUF/resolve/main/starcoder2-7b-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "starcoder2-7b-Q5_K_M.gguf",
+            "size": "5124832064",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "d385b900e824be5d24b7fda98b898c2bcac07e008f3cb8ac49a0d0883ae3a747",
+            "download": {
+                "default": "https://huggingface.co/second-state/StarCoder2-7B-GGUF/resolve/main/starcoder2-7b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "starcoder2-7b-Q5_K_S.gguf",
+            "size": "4939332416",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "2d8bb772877092498ac7f56d5dd3459659e8f600dafc5255d99144f6ad6d1b2c",
+            "download": {
+                "default": "https://huggingface.co/second-state/StarCoder2-7B-GGUF/resolve/main/starcoder2-7b-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "starcoder2-7b-Q6_K.gguf",
+            "size": "5891898176",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "73836e765b166d41038c1535174425c1be288310d9ad27fd8180f0f94b846e44",
+            "download": {
+                "default": "https://huggingface.co/second-state/StarCoder2-7B-GGUF/resolve/main/starcoder2-7b-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "starcoder2-7b-Q8_0.gguf",
+            "size": "7628929856",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "48b4842e14dc891e2abd7165ad36297cb45b702db0f98325f83fb0a94fd68dd8",
+            "download": {
+                "default": "https://huggingface.co/second-state/StarCoder2-7B-GGUF/resolve/main/starcoder2-7b-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 4608,
+    "vector_size": 0,
+    "metrics": {}
+}

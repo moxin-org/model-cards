@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/WestLake-7B-v2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-31T13:51:52Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "westlake-7b-v2.Q3_K_S.gguf",
+            "size": "3164567296",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "0367a29d35fa41f2f83231f3c24ee33b4a2811b306485cbe7e410d8e29893258",
+            "download": {
+                "default": "https://huggingface.co/s3nh/WestLake-7B-v2-GGUF/resolve/main/westlake-7b-v2.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "westlake-7b-v2.Q4_K_M.gguf",
+            "size": "4368439040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "2d06215f15ebd780bab667cd187e0458a48ceab93861f74b18adbaf8fb5d6dc1",
+            "download": {
+                "default": "https://huggingface.co/s3nh/WestLake-7B-v2-GGUF/resolve/main/westlake-7b-v2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "westlake-7b-v2.Q5_K_M.gguf",
+            "size": "5131409152",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ab2d43c8fa6a2c32b807b7dfb4b3cf480fbb1f5e8160cb06f6a824fdbcccc084",
+            "download": {
+                "default": "https://huggingface.co/s3nh/WestLake-7B-v2-GGUF/resolve/main/westlake-7b-v2.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "westlake-7b-v2.Q6_K.gguf",
+            "size": "5942064896",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "aef76795ed4fe8045a4697c309554988abf8dc2ab71ff6834de3b8e75693b1cc",
+            "download": {
+                "default": "https://huggingface.co/s3nh/WestLake-7B-v2-GGUF/resolve/main/westlake-7b-v2.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "westlake-7b-v2.Q8_0.gguf",
+            "size": "7695857408",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "54d84b38ffe0a4f92923e704231daa530de4a2df312be452540bfd4eafccd598",
+            "download": {
+                "default": "https://huggingface.co/s3nh/WestLake-7B-v2-GGUF/resolve/main/westlake-7b-v2.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

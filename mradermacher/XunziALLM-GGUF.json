@@ -1,0 +1,173 @@
+{
+    "id": "mradermacher/XunziALLM-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-07T01:10:14Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "XunziALLM.IQ3_M.gguf",
+            "size": "3878318592",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "de215bf6f90a800cba987dbff2d61f1592ae8629aa74faf2d1083934f50c71f8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/XunziALLM-GGUF/resolve/main/XunziALLM.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "XunziALLM.IQ3_S.gguf",
+            "size": "3569152512",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "27a6b071d49127905c393842101dd1b4cbfe702a52cd72c5f446c891277e06cc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/XunziALLM-GGUF/resolve/main/XunziALLM.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "XunziALLM.IQ3_XS.gguf",
+            "size": "3467702784",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "574279cd7f42f0fd85df781138079e7cdef5f5ebe6637c03eafcdc078bc6fdf6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/XunziALLM-GGUF/resolve/main/XunziALLM.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "XunziALLM.IQ4_XS.gguf",
+            "size": "4318257664",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "d1a87a10f17bdc7b5324aaadc12ade031817eb52889619b46118575fd3d5e574",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/XunziALLM-GGUF/resolve/main/XunziALLM.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "XunziALLM.Q2_K.gguf",
+            "size": "3049292288",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "63dcf5f45a01316bb29f7725c1864e2121064eae96a7d6591d5cb8a5fea06e94",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/XunziALLM-GGUF/resolve/main/XunziALLM.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "XunziALLM.Q3_K_L.gguf",
+            "size": "4293456384",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "322a88fe32e073245f494bd02aa6db7c031e4a43a39906b880c82d361cdd0d66",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/XunziALLM-GGUF/resolve/main/XunziALLM.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "XunziALLM.Q3_K_M.gguf",
+            "size": "4057264640",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "b2391f9e89f9af228930c7786d4c7c531b268bc627b4677ed63633ae2085d84a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/XunziALLM-GGUF/resolve/main/XunziALLM.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "XunziALLM.Q3_K_S.gguf",
+            "size": "3569152512",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "3b7d943c6cd743b0fb8bdc5d2add63154f8c0b21fa0119bea4c98aced4e26229",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/XunziALLM-GGUF/resolve/main/XunziALLM.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "XunziALLM.Q4_K_M.gguf",
+            "size": "4899217920",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "b3e893d0c005e12b35a8b77bc78ebce251d3fdc13b80266c91705f2a43587c7d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/XunziALLM-GGUF/resolve/main/XunziALLM.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "XunziALLM.Q4_K_S.gguf",
+            "size": "4534444544",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "5e2be7c3ca41af12a575793112d24f7124a6b5938c25bf810458fbcf711253be",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/XunziALLM-GGUF/resolve/main/XunziALLM.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "XunziALLM.Q5_K_M.gguf",
+            "size": "5708915200",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "a0cbd86948c906b334c60366e96f970a4ac6d7f6bd6c02aa38c40aebf828e698",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/XunziALLM-GGUF/resolve/main/XunziALLM.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "XunziALLM.Q5_K_S.gguf",
+            "size": "5399192064",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "f3780a0be3f1a50022246fe8eec0a41c348e6989c51890e323bd89bcbf1807b2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/XunziALLM-GGUF/resolve/main/XunziALLM.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "XunziALLM.Q6_K.gguf",
+            "size": "6341939712",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "8e0928ccdc4f4553979e20b360cae3a33b8bd7e51c9005682407f67e2539bad3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/XunziALLM-GGUF/resolve/main/XunziALLM.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "XunziALLM.Q8_0.gguf",
+            "size": "8211788288",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "c2408c2272a9d1b59664fcb1d406dc61890a98cca3602aee7b703d02981e9df9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/XunziALLM-GGUF/resolve/main/XunziALLM.Q8_0.gguf"
+            }
+        },
+        {
+            "name": "XunziALLM.SOURCE.gguf",
+            "size": "15449911712",
+            "quantization": "",
+            "tags": [],
+            "sha256": "140448712d7f2ca2da436ac1267b4c35f16778fe7d04af456c64ab4df8b701d5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/XunziALLM-GGUF/resolve/main/XunziALLM.SOURCE.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

@@ -1,0 +1,113 @@
+{
+    "id": "LoneStriker/Trinity-33B-v1.0-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LoneStriker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-09T05:43:55Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Trinity-33B-v1.0-Q3_K_L.gguf",
+            "size": "17560367200",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "9d2f0490c966e47d039766c0ed118c664d5722fec6468ab4871278b461767721",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Trinity-33B-v1.0-GGUF/resolve/main/Trinity-33B-v1.0-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Trinity-33B-v1.0-Q3_K_M.gguf",
+            "size": "16092131424",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ccd9f102c1aa5644bc207c9f50346713cfa740c766aaa660ad8bc0be86511b5c",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Trinity-33B-v1.0-GGUF/resolve/main/Trinity-33B-v1.0-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Trinity-33B-v1.0-Q3_K_S.gguf",
+            "size": "14421901408",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "8ddf814b10ec3fa3d1a6946db26cc3c3b26def4fb74e1644a1c12a8e0bfb2b56",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Trinity-33B-v1.0-GGUF/resolve/main/Trinity-33B-v1.0-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Trinity-33B-v1.0-Q4_K_M.gguf",
+            "size": "19940659296",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "f5a845dd7758cd688763c8b4b3e1eaea820ae21fa17ae365ecf73880395ecfcc",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Trinity-33B-v1.0-GGUF/resolve/main/Trinity-33B-v1.0-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Trinity-33B-v1.0-Q4_K_S.gguf",
+            "size": "18943533152",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "aa07e1a7de48d490705fd9054773bf1e246d861ec7ee98634188b9bd3c002708",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Trinity-33B-v1.0-GGUF/resolve/main/Trinity-33B-v1.0-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Trinity-33B-v1.0-Q5_K_M.gguf",
+            "size": "23535898720",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "b14300209a2bcab0c11edace7b5f23ca45b86e6fbd8147521096c49d889cfdb1",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Trinity-33B-v1.0-GGUF/resolve/main/Trinity-33B-v1.0-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Trinity-33B-v1.0-Q5_K_S.gguf",
+            "size": "22958301280",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "e838c00565dafb2e599b7de364d585febba414dc5bb655b46061a3283ab5f4c1",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Trinity-33B-v1.0-GGUF/resolve/main/Trinity-33B-v1.0-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Trinity-33B-v1.0-Q6_K.gguf",
+            "size": "27355840608",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b482b3eb942043a41e02d508cf21bb4ee0b94405cab10ae0a4dfe59d17ecd839",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Trinity-33B-v1.0-GGUF/resolve/main/Trinity-33B-v1.0-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Trinity-33B-v1.0-Q8_0.gguf",
+            "size": "35430879328",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "2e5ceef98882dfdb83f5a447f767e75ffbbc6511e8c0e635a1bd14c3aeaab80a",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/Trinity-33B-v1.0-GGUF/resolve/main/Trinity-33B-v1.0-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

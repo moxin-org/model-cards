@@ -1,0 +1,163 @@
+{
+    "id": "hfl/chinese-alpaca-2-7b-rlhf-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "hfl",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-25T07:20:00Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-f16.gguf",
+            "size": "13860294272",
+            "quantization": "",
+            "tags": [],
+            "sha256": "38611c95f91b2a40d695094c065f6e75a9fba5c53fed60744d44998599a92666",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-alpaca-2-7b-rlhf-gguf/resolve/main/ggml-model-f16.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q2_k-im.gguf",
+            "size": "2642955936",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7e98b5ca33463c2f09422500c5b238040e8e24f82b608138e457590c58a45893",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-alpaca-2-7b-rlhf-gguf/resolve/main/ggml-model-q2_k-im.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q2_k.gguf",
+            "size": "2936032928",
+            "quantization": "",
+            "tags": [],
+            "sha256": "35068ddefd4f977a1ae7b014c26ec7e978d44eb5bed541679686a407baef43c2",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-alpaca-2-7b-rlhf-gguf/resolve/main/ggml-model-q2_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q3_k-im.gguf",
+            "size": "3417788064",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9c3aad42dd1d04398f89e951d5ab78013363d20e8d93c00e02df1a84964f2e1c",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-alpaca-2-7b-rlhf-gguf/resolve/main/ggml-model-q3_k-im.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q3_k.gguf",
+            "size": "3417788064",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a101d1019a27e1356a92d928ed36ad055b80d21de9fb5a3b7f42300281598f23",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-alpaca-2-7b-rlhf-gguf/resolve/main/ggml-model-q3_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_0.gguf",
+            "size": "3958263456",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f589d5857f47c18797730a607a7895cea10932bfd68b427586153da0379f6659",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-alpaca-2-7b-rlhf-gguf/resolve/main/ggml-model-q4_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_k-im.gguf",
+            "size": "4213460640",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4f70910268b7c6a009f3616c406c7b96101e154d32a3e23f10198bb12a1c0b9c",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-alpaca-2-7b-rlhf-gguf/resolve/main/ggml-model-q4_k-im.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_k.gguf",
+            "size": "4213460640",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b308358d055f4b9779bc31f54d855fea247072674e8735d75c21f05c4d30ab69",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-alpaca-2-7b-rlhf-gguf/resolve/main/ggml-model-q4_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_0.gguf",
+            "size": "4796075680",
+            "quantization": "",
+            "tags": [],
+            "sha256": "63faf3db0d8a5188e1723919e48f58d0171c2dcdd9d7b2c6e30e57b5b06e3928",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-alpaca-2-7b-rlhf-gguf/resolve/main/ggml-model-q5_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_k-im.gguf",
+            "size": "4927540896",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3baaf4e6b2df471a82ddc04e3789821d428e77a07a42cbcbc2290a927864c439",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-alpaca-2-7b-rlhf-gguf/resolve/main/ggml-model-q5_k-im.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_k.gguf",
+            "size": "4927540896",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a62b5d1e3059c668beee1d32ffa1d9cb24fd74d43e30c839e84174218cbfb5ae",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-alpaca-2-7b-rlhf-gguf/resolve/main/ggml-model-q5_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q6_k-im.gguf",
+            "size": "5686251168",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7fc578d1c95977436df412c6b1f556a5d51e2ba2a85156df248de5f10a137a88",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-alpaca-2-7b-rlhf-gguf/resolve/main/ggml-model-q6_k-im.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q6_k.gguf",
+            "size": "5686251168",
+            "quantization": "",
+            "tags": [],
+            "sha256": "92a3a5185890255a9b7c596a230b136c51db265f4c334e0b50b443311bf3679c",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-alpaca-2-7b-rlhf-gguf/resolve/main/ggml-model-q6_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q8_0.gguf",
+            "size": "7364365984",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3c15f86ef51cb40762d8783751cc56ad3c70ca127245fd6e38ed148295a85ea3",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-alpaca-2-7b-rlhf-gguf/resolve/main/ggml-model-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

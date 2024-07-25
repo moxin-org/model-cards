@@ -1,0 +1,83 @@
+{
+    "id": "cmp-nct/Yi-VL-34B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "cmp-nct",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-24T19:59:30Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-Q2_K.gguf",
+            "size": "12825233696",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "f46680b04c162edc33bd2bd04653581922463220618a20e4e1e0bd3b75e6be33",
+            "download": {
+                "default": "https://huggingface.co/cmp-nct/Yi-VL-34B-GGUF/resolve/main/ggml-model-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q3_K.gguf",
+            "size": "16654924064",
+            "quantization": "Q3_K",
+            "tags": [],
+            "sha256": "b9d6d20b41bc03028aa4b7bc8cabd1810dc12f1c691c6d21530a63ebf7281901",
+            "download": {
+                "default": "https://huggingface.co/cmp-nct/Yi-VL-34B-GGUF/resolve/main/ggml-model-Q3_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q4_K.gguf",
+            "size": "20658710816",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "5796faf2a0f6b283491bd8b6473df969a0ac1b1544373d1cbd9b0922b5ef4647",
+            "download": {
+                "default": "https://huggingface.co/cmp-nct/Yi-VL-34B-GGUF/resolve/main/ggml-model-Q4_K.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q5_K.gguf",
+            "size": "24321845536",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "d0825377d66cfe21081aaa0f7b27c8b67d1529e901e84c0092becda8868d9e09",
+            "download": {
+                "default": "https://huggingface.co/cmp-nct/Yi-VL-34B-GGUF/resolve/main/ggml-model-Q5_K.gguf"
+            }
+        },
+        {
+            "name": "mmproj-model-f16-q6_k.gguf",
+            "size": "554821344",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dbcea22db080faa98ffb37198558c22b4588daae9275255949f955f8b53cd803",
+            "download": {
+                "default": "https://huggingface.co/cmp-nct/Yi-VL-34B-GGUF/resolve/main/mmproj-model-f16-q6_k.gguf"
+            }
+        },
+        {
+            "name": "mmproj-model-f16.gguf",
+            "size": "1346489184",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a0e3d4c90dd7de26fa17b6786b2afc43676afb6985177fd5fb6d0f2ffc72fc04",
+            "download": {
+                "default": "https://huggingface.co/cmp-nct/Yi-VL-34B-GGUF/resolve/main/mmproj-model-f16.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

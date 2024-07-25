@@ -1,0 +1,33 @@
+{
+    "id": "lbl/fr.brain.experimental-7b-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "lbl",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-20T22:09:22Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "fr.brain.experimental-7b-Q4_K_M.gguf",
+            "size": "4368450752",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "d57028e84f29595eceb5f83a5245d56b8c9eb8e53954c461a8f1a6d14a380c5b",
+            "download": {
+                "default": "https://huggingface.co/lbl/fr.brain.experimental-7b-gguf/resolve/main/fr.brain.experimental-7b-Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

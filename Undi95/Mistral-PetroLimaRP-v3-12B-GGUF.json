@@ -1,0 +1,63 @@
+{
+    "id": "Undi95/Mistral-PetroLimaRP-v3-12B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Undi95",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-28T04:19:36Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Mistral-PetroLimaRP-v3-12B.q4_k_s.gguf",
+            "size": "6349274176",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5943f52f961f7a14698e0f913fef7192e78b77202bb612d554f74787cdb6789c",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-PetroLimaRP-v3-12B-GGUF/resolve/main/Mistral-PetroLimaRP-v3-12B.q4_k_s.gguf"
+            }
+        },
+        {
+            "name": "Mistral-PetroLimaRP-v3-12B.q5_k_m.gguf",
+            "size": "7906245696",
+            "quantization": "",
+            "tags": [],
+            "sha256": "316f134735d42287450c6729ad1bd9d82413486366e82b7610ab643fcef05a37",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-PetroLimaRP-v3-12B-GGUF/resolve/main/Mistral-PetroLimaRP-v3-12B.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "Mistral-PetroLimaRP-v3-12B.q6_k.gguf",
+            "size": "9163103296",
+            "quantization": "",
+            "tags": [],
+            "sha256": "aec769b154a937db98d980c42fa692adb8be4095991f42d18cee5e452ae6666f",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-PetroLimaRP-v3-12B-GGUF/resolve/main/Mistral-PetroLimaRP-v3-12B.q6_k.gguf"
+            }
+        },
+        {
+            "name": "Mistral-PetroLimaRP-v3-12B.q8_0.gguf",
+            "size": "11867692096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "09b1bfc93f26083a816f3b676fb3caa6073f5d0f8cfe142578085e94576aed44",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-PetroLimaRP-v3-12B-GGUF/resolve/main/Mistral-PetroLimaRP-v3-12B.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

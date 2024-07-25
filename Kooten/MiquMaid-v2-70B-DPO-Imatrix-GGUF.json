@@ -1,0 +1,53 @@
+{
+    "id": "Kooten/MiquMaid-v2-70B-DPO-Imatrix-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Kooten",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-07T15:57:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "MiquMaid-v2-70B-DPO-IQ2_XS.gguf",
+            "size": "20334163488",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "d43dcaf9e303f00894e04bfc861ef549a44392283ecd97d16f52a4e3228a99ac",
+            "download": {
+                "default": "https://huggingface.co/Kooten/MiquMaid-v2-70B-DPO-Imatrix-GGUF/resolve/main/MiquMaid-v2-70B-DPO-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "MiquMaid-v2-70B-DPO-IQ2_XXS.gguf",
+            "size": "18289440288",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "44bcd15d724353ba3004e989d463ee6f0875c0f6f32846a5a16977abc5ebb9a7",
+            "download": {
+                "default": "https://huggingface.co/Kooten/MiquMaid-v2-70B-DPO-Imatrix-GGUF/resolve/main/MiquMaid-v2-70B-DPO-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "MiquMaid-v2-70B-DPO-IQ3_XXS.gguf",
+            "size": "27028583968",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "11db20fa1736e2aa2093df61097dbe7e670af4c0be308b7fcb99574a1ddb1cd8",
+            "download": {
+                "default": "https://huggingface.co/Kooten/MiquMaid-v2-70B-DPO-Imatrix-GGUF/resolve/main/MiquMaid-v2-70B-DPO-IQ3_XXS.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

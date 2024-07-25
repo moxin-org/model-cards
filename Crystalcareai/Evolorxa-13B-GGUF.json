@@ -1,0 +1,43 @@
+{
+    "id": "Crystalcareai/Evolorxa-13B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Crystalcareai",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-22T03:42:39Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "evolorxa-13b.Q4_K_M.gguf",
+            "size": "7782098336",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "64319393240bbd7f431a55c3fa5eeedd95a3a30d120b118f31d9940b3bc82b3d",
+            "download": {
+                "default": "https://huggingface.co/Crystalcareai/Evolorxa-13B-GGUF/resolve/main/evolorxa-13b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "evolorxa-13b.Q5_K_M.gguf",
+            "size": "9132272032",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "41d8962527db4c59079bb53f1065549f3b42ee778a103a8e393ba1913adfd84e",
+            "download": {
+                "default": "https://huggingface.co/Crystalcareai/Evolorxa-13B-GGUF/resolve/main/evolorxa-13b.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

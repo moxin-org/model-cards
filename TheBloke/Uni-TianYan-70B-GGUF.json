@@ -1,0 +1,123 @@
+{
+    "id": "TheBloke/Uni-TianYan-70B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-09T15:31:37Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "uni-tianyan-70b.Q2_K.gguf",
+            "size": "29279253408",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "ee7c1e41d7e9acbd19d83ddf23a2089fdf876a0c1062193dde7ea419e0c49c74",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Uni-TianYan-70B-GGUF/resolve/main/uni-tianyan-70b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "uni-tianyan-70b.Q3_K_L.gguf",
+            "size": "36147835808",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "45f759cb3ca76b588ee561913579810f2f90079fe309a50a25db52b696737f55",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Uni-TianYan-70B-GGUF/resolve/main/uni-tianyan-70b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "uni-tianyan-70b.Q3_K_M.gguf",
+            "size": "33186657184",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "8395a4deca400051a4c89b2d81c54d70adba9f92503e7d62a476954b1d484b46",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Uni-TianYan-70B-GGUF/resolve/main/uni-tianyan-70b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "uni-tianyan-70b.Q3_K_S.gguf",
+            "size": "29919294368",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "fb25f2248fd92583da5d0cfd27419e0a7be58e74359c1204069b6458bdcee0f9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Uni-TianYan-70B-GGUF/resolve/main/uni-tianyan-70b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "uni-tianyan-70b.Q4_0.gguf",
+            "size": "38872249248",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "31de687fd41529cb0016717dec6e041a0da6599a85aec061927da6a58e8da119",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Uni-TianYan-70B-GGUF/resolve/main/uni-tianyan-70b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "uni-tianyan-70b.Q4_K_M.gguf",
+            "size": "41422910368",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a2abde5aeb397600e48643cd41412672f1f09a280c1c3afe07897842c920f4c6",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Uni-TianYan-70B-GGUF/resolve/main/uni-tianyan-70b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "uni-tianyan-70b.Q4_K_S.gguf",
+            "size": "39073575840",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "76268213761173e351537046e2a82ccb622abd28a93cdd7caa841bb448b3fb65",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Uni-TianYan-70B-GGUF/resolve/main/uni-tianyan-70b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "uni-tianyan-70b.Q5_0.gguf",
+            "size": "47461397408",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "de6b54ef441d9b82b5496e48e2b967d9e02a22fd6d8fb4dbd6b172a2f0dea4b6",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Uni-TianYan-70B-GGUF/resolve/main/uni-tianyan-70b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "uni-tianyan-70b.Q5_K_M.gguf",
+            "size": "48753767328",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e6f74920b3fab25f1fb9189edd0f59b6415088500803287c43bc54f95ab6ec45",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Uni-TianYan-70B-GGUF/resolve/main/uni-tianyan-70b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "uni-tianyan-70b.Q5_K_S.gguf",
+            "size": "47461397408",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "3390a3d902ac015a75543c66bdbf349bf27f471e0ba653a348aa821bc1f5702e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Uni-TianYan-70B-GGUF/resolve/main/uni-tianyan-70b.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

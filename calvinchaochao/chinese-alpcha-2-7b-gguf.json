@@ -1,0 +1,53 @@
+{
+    "id": "calvinchaochao/chinese-alpcha-2-7b-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "calvinchaochao",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-21T13:29:02Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "chinese-alpaca-2-13b-Q2-K.gguf",
+            "size": "5566836416",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9ac5ff07e64e66c036384a77e0f2f53a2e48cab8171774af6e0d291fa34f36b9",
+            "download": {
+                "default": "https://huggingface.co/calvinchaochao/chinese-alpcha-2-7b-gguf/resolve/main/chinese-alpaca-2-13b-Q2-K.gguf"
+            }
+        },
+        {
+            "name": "chinese-alpcha-2-7b-Q2_K.gguf",
+            "size": "2936032800",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "6b73dcae53e1c6e82c33fe4b39917f3ee75376158e933a850ff1fffa3ab64130",
+            "download": {
+                "default": "https://huggingface.co/calvinchaochao/chinese-alpcha-2-7b-gguf/resolve/main/chinese-alpcha-2-7b-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "chinese-alpcha-2-7b-Q5_1.gguf",
+            "size": "5214981664",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "89eb2ad32aed48d854653e67faaad6d7aa9b9f51a4f9983d104e000cd8c552a9",
+            "download": {
+                "default": "https://huggingface.co/calvinchaochao/chinese-alpcha-2-7b-gguf/resolve/main/chinese-alpcha-2-7b-Q5_1.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,43 @@
+{
+    "id": "Undi95/UndiMix-v2-13b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Undi95",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-01T01:33:08Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "UndiMix-v2-13b.q4_K_S.gguf",
+            "size": "7414331264",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ac295932da0f3149b1d5676953498d44c7c4b1cc4346f5dbb44d24a9619392f3",
+            "download": {
+                "default": "https://huggingface.co/Undi95/UndiMix-v2-13b-GGUF/resolve/main/UndiMix-v2-13b.q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "UndiMix-v2-13b.q5_K_M.gguf",
+            "size": "9229924224",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ca563fc1ea329b503b9976621814a20edadbee4ae99b783c736de466175a4f42",
+            "download": {
+                "default": "https://huggingface.co/Undi95/UndiMix-v2-13b-GGUF/resolve/main/UndiMix-v2-13b.q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

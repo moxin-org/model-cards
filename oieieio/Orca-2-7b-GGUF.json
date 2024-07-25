@@ -1,0 +1,63 @@
+{
+    "id": "oieieio/Orca-2-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "oieieio",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-25T19:10:41Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "orca-2-7b.gguf",
+            "size": "7161115936",
+            "quantization": "",
+            "tags": [],
+            "sha256": "39bb029102f4b36583619ee7451c9b8a7c23d8abfd53ac29f83c22ca84495219",
+            "download": {
+                "default": "https://huggingface.co/oieieio/Orca-2-7b-GGUF/resolve/main/orca-2-7b.gguf"
+            }
+        },
+        {
+            "name": "orca-2-7b.q2_k.gguf",
+            "size": "2532877952",
+            "quantization": "",
+            "tags": [],
+            "sha256": "06982f6fa23678f67030ad920f9df2cca1c2821b928a2167871d0aa9af4455e8",
+            "download": {
+                "default": "https://huggingface.co/oieieio/Orca-2-7b-GGUF/resolve/main/orca-2-7b.q2_k.gguf"
+            }
+        },
+        {
+            "name": "orca-2-7b.q3_k_m.gguf",
+            "size": "3298020192",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c66a432b305ee5edacae92801697f1977e78b45dce16f31a4362f43b50c73f30",
+            "download": {
+                "default": "https://huggingface.co/oieieio/Orca-2-7b-GGUF/resolve/main/orca-2-7b.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "orca-2-7b.q4_k_m.gguf",
+            "size": "4081021376",
+            "quantization": "",
+            "tags": [],
+            "sha256": "eab8e78882fe5fc9d8336ecd3e12b280b26e89d05ea97eaf1d75e5d2a1f618e4",
+            "download": {
+                "default": "https://huggingface.co/oieieio/Orca-2-7b-GGUF/resolve/main/orca-2-7b.q4_k_m.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

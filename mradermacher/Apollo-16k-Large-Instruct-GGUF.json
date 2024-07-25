@@ -1,0 +1,133 @@
+{
+    "id": "mradermacher/Apollo-16k-Large-Instruct-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-23T00:15:16Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Apollo-16k-Large-Instruct.IQ3_M.gguf",
+            "size": "31777814016",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "57ca88282fd16b94eaa5c8da906d4e883c6af38ec53b67fa35987059bb84ecae",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Apollo-16k-Large-Instruct-GGUF/resolve/main/Apollo-16k-Large-Instruct.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Apollo-16k-Large-Instruct.IQ3_S.gguf",
+            "size": "30752830976",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "f7c748102ae848f1fd3051a491c37827ee418c34ecea50612e45e93a6f8d28fc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Apollo-16k-Large-Instruct-GGUF/resolve/main/Apollo-16k-Large-Instruct.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Apollo-16k-Large-Instruct.IQ3_XS.gguf",
+            "size": "28975494656",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "0dfda932abc5e6819f2d16fa2b41b92a7e26ecc097ba32c1146e377cecc34855",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Apollo-16k-Large-Instruct-GGUF/resolve/main/Apollo-16k-Large-Instruct.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Apollo-16k-Large-Instruct.IQ4_XS.gguf",
+            "size": "38030358016",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "576f7a20b312ba5f01a1e68d2f82505ea2cc916870553d504a9625ceda4a10ff",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Apollo-16k-Large-Instruct-GGUF/resolve/main/Apollo-16k-Large-Instruct.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Apollo-16k-Large-Instruct.Q2_K.gguf",
+            "size": "26295973376",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "41ed3705b2bd4d14fdf759f0e8add85c295158d212fa14b826d9ce32c4a7a9a4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Apollo-16k-Large-Instruct-GGUF/resolve/main/Apollo-16k-Large-Instruct.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Apollo-16k-Large-Instruct.Q3_K_L.gguf",
+            "size": "36981372416",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "ff2fe56312ae0da88c165024b7f1e134dfd397a7de62bef3e878c65eb9a74114",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Apollo-16k-Large-Instruct-GGUF/resolve/main/Apollo-16k-Large-Instruct.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Apollo-16k-Large-Instruct.Q3_K_M.gguf",
+            "size": "34108274176",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "303921cc229458097ea9647a306d2e5cd2c5c5dc5acdd5e8bdb998a683a3066d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Apollo-16k-Large-Instruct-GGUF/resolve/main/Apollo-16k-Large-Instruct.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Apollo-16k-Large-Instruct.Q3_K_S.gguf",
+            "size": "30752830976",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "88df1efa15d40da70ee0d3a4f9a9a65ee8c1013941ff7f078c330bced9730030",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Apollo-16k-Large-Instruct-GGUF/resolve/main/Apollo-16k-Large-Instruct.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Apollo-16k-Large-Instruct.Q4_K_M.gguf",
+            "size": "42256446976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "337a811b869ebcde5676e8cf69987c690fdfc7e3330b7dfea9e803eedb63f4c8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Apollo-16k-Large-Instruct-GGUF/resolve/main/Apollo-16k-Large-Instruct.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Apollo-16k-Large-Instruct.Q4_K_S.gguf",
+            "size": "40083273216",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "4db07ed3581088ed99ab6afb51d1d51dcdbb1c5a431471a722385a4ba92945a7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Apollo-16k-Large-Instruct-GGUF/resolve/main/Apollo-16k-Large-Instruct.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Apollo-16k-Large-Instruct.Q5_K_S.gguf",
+            "size": "48294934016",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "3585cb705a28c6636a9d70478cdde5ad19ca3883170578122b8c824c224d4c6c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Apollo-16k-Large-Instruct-GGUF/resolve/main/Apollo-16k-Large-Instruct.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/Nanbeige-16B-Base-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-19T00:10:45Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "nanbeige-16b-base.Q2_K.gguf",
+            "size": "6637542048",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a7f9168fcfd774829801131cb1ea5df87b4159099fdc25a03a577c4a0a8d208d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Nanbeige-16B-Base-GGUF/resolve/main/nanbeige-16b-base.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "nanbeige-16b-base.Q3_K_L.gguf",
+            "size": "8448578208",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "1afcc93a7be752ac1e2e4bdd3ad4dd39e3e5598e59974d9906511a6750faa416",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Nanbeige-16B-Base-GGUF/resolve/main/nanbeige-16b-base.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "nanbeige-16b-base.Q3_K_M.gguf",
+            "size": "7733580448",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "3cd80dd1b2fee45cbe5816d64b55befdeed787dde5311e94fba03e401af33d4a",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Nanbeige-16B-Base-GGUF/resolve/main/nanbeige-16b-base.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "nanbeige-16b-base.Q3_K_S.gguf",
+            "size": "6923883168",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "6a5cfc1f3573bd97ecc09d12b04144efc35ed1af6e0c21c13c65e8f79640c67a",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Nanbeige-16B-Base-GGUF/resolve/main/nanbeige-16b-base.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "nanbeige-16b-base.Q4_0.gguf",
+            "size": "8986208928",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "ad08d935332e6a2337e73249e25bfdb6f9c222191371224de969cb8b30a046b7",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Nanbeige-16B-Base-GGUF/resolve/main/nanbeige-16b-base.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "nanbeige-16b-base.Q4_K_M.gguf",
+            "size": "9586354848",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "7a4e60e835df641a71e349567078cdadcfb13da622d9be1b5e26184d0b8cf8a9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Nanbeige-16B-Base-GGUF/resolve/main/nanbeige-16b-base.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "nanbeige-16b-base.Q4_K_S.gguf",
+            "size": "9034705568",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "34b0165d474f47b3d01c7037aed3c895b7cf56f651e58a2a33799aabe49b4df4",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Nanbeige-16B-Base-GGUF/resolve/main/nanbeige-16b-base.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "nanbeige-16b-base.Q5_0.gguf",
+            "size": "10927221408",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "c1caa6ad625d7bc374ee09d503cb5589ed6adf2ee62c4ed4d087bf20ad30217d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Nanbeige-16B-Base-GGUF/resolve/main/nanbeige-16b-base.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "nanbeige-16b-base.Q5_K_M.gguf",
+            "size": "11236387488",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "2f4a697d53edf50eb08f38a0b30caae721ac26c9fb32c16d66e7d451d7e6b636",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Nanbeige-16B-Base-GGUF/resolve/main/nanbeige-16b-base.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "nanbeige-16b-base.Q5_K_S.gguf",
+            "size": "10927221408",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "e4e9ae5dc733b65805b3556a63ee79199a3aedd8b1b45863f7f7d564636dd8cb",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Nanbeige-16B-Base-GGUF/resolve/main/nanbeige-16b-base.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "nanbeige-16b-base.Q6_K.gguf",
+            "size": "12989547168",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "0639b98098ad99fb3e00bff91502a51036d1e3af9812171c8911971be557f105",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Nanbeige-16B-Base-GGUF/resolve/main/nanbeige-16b-base.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "nanbeige-16b-base.Q8_0.gguf",
+            "size": "16823587488",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "5619b1db1e013ee84ad59ae1df3e5a64df1165998ff17b0a3f20fac7fb560083",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Nanbeige-16B-Base-GGUF/resolve/main/nanbeige-16b-base.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

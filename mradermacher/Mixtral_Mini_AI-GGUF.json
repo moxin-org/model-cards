@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Mixtral_Mini_AI-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-09T02:17:54Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Mixtral_Mini_AI.IQ3_M.gguf",
+            "size": "1724733280",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "4f6bad9d030c1b586a59e4ac6f50939b858b668df1f5fc1ecb047974ffc29aff",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral_Mini_AI-GGUF/resolve/main/Mixtral_Mini_AI.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Mixtral_Mini_AI.IQ3_S.gguf",
+            "size": "1673484128",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "901422b9f092cc325a9a8f1b7eb67f0e6e49cc244564ee5b9bbd07fa34763b20",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral_Mini_AI-GGUF/resolve/main/Mixtral_Mini_AI.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Mixtral_Mini_AI.IQ3_XS.gguf",
+            "size": "1591695200",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "c471515116707ac0126bb5b5e4f2adda89fcb9314ebbc48f78c0303ecb2ce12b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral_Mini_AI-GGUF/resolve/main/Mixtral_Mini_AI.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Mixtral_Mini_AI.IQ4_XS.gguf",
+            "size": "2061137760",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "048cbb80f2922dd0aad4ca1ee735597f89e8b3f78966831013c15bcc337d8bd7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral_Mini_AI-GGUF/resolve/main/Mixtral_Mini_AI.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Mixtral_Mini_AI.Q2_K.gguf",
+            "size": "1435252576",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "90c5504fd4a285b77f14cebcff265ca614882b68ca9cceb6e12ed5f4f1e83c47",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral_Mini_AI-GGUF/resolve/main/Mixtral_Mini_AI.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Mixtral_Mini_AI.Q3_K_L.gguf",
+            "size": "1993299808",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "56fc24c39bf3c234c4c91717c75a5978305930d8c2ec5d6e5a4c8f3ca7d45481",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral_Mini_AI-GGUF/resolve/main/Mixtral_Mini_AI.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Mixtral_Mini_AI.Q3_K_M.gguf",
+            "size": "1842304864",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "2878ba9e8e637ad50a24c93ec6dc7326c5e0fcc2a6ed72166614c20070035e00",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral_Mini_AI-GGUF/resolve/main/Mixtral_Mini_AI.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mixtral_Mini_AI.Q3_K_S.gguf",
+            "size": "1664571232",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "a89044f3daaaf0d0ca526514f262a49e32138306ebd13f1d68d000264c7bd849",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral_Mini_AI-GGUF/resolve/main/Mixtral_Mini_AI.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mixtral_Mini_AI.Q4_K_M.gguf",
+            "size": "2275211104",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "22a4ffe3a2bbf52a8e04ca80c3e20493008bb560b79c50b4c1c0d1c57b5116bd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral_Mini_AI-GGUF/resolve/main/Mixtral_Mini_AI.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mixtral_Mini_AI.Q4_K_S.gguf",
+            "size": "2162227040",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "53c21014020c72b85cc80d8629c5b73cebb233c021f7ae7a3d8c63d5a34deaa8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral_Mini_AI-GGUF/resolve/main/Mixtral_Mini_AI.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mixtral_Mini_AI.Q5_K_M.gguf",
+            "size": "2664888160",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "9018b767c3634efb349dff0f79312ca27587508f1551ef9d0c348799223d18b0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral_Mini_AI-GGUF/resolve/main/Mixtral_Mini_AI.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mixtral_Mini_AI.Q5_K_S.gguf",
+            "size": "2598041440",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "e6eb0ca64c46f2789659e9fd74fd154bb23fac42be840028cc2302ecafa531eb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral_Mini_AI-GGUF/resolve/main/Mixtral_Mini_AI.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mixtral_Mini_AI.Q6_K.gguf",
+            "size": "3078920032",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "5d9be860311b6b91beeeba276461e90a260fa52f1c95785040c6e3debcdf53b3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral_Mini_AI-GGUF/resolve/main/Mixtral_Mini_AI.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Mixtral_Mini_AI.Q8_0.gguf",
+            "size": "3987560288",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "469d09b7e0c61e8ce841785b3149f918973908f664f816e4d7d0e769d666e01b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Mixtral_Mini_AI-GGUF/resolve/main/Mixtral_Mini_AI.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

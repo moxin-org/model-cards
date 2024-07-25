@@ -1,0 +1,43 @@
+{
+    "id": "Migtito/mistral-7b-instruct-v0.2-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Migtito",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-05T21:53:45Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistral-7b-instruct-v0.2.f32.gguf",
+            "size": "28967663808",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1ed8e2eead0b71f3f3b8ae1b8a3ecb30d9058c49f63c15c41cd587cedb9a81dd",
+            "download": {
+                "default": "https://huggingface.co/Migtito/mistral-7b-instruct-v0.2-gguf/resolve/main/mistral-7b-instruct-v0.2.f32.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-instruct-v0.2.Q8_0.gguf",
+            "size": "7695857856",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "e7315bb97bf4aaba1e2b1552f3c9d67ecd45ca19d891db156a144860b48e54b4",
+            "download": {
+                "default": "https://huggingface.co/Migtito/mistral-7b-instruct-v0.2-gguf/resolve/main/mistral-7b-instruct-v0.2.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

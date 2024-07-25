@@ -1,0 +1,33 @@
+{
+    "id": "alpindale/goliath-120b-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "alpindale",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-06T17:12:50Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "goliath-120b.Q2_K.gguf",
+            "size": "49629392096",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "24b0fd1bc571b349cf0e0a76ac91cce785d939af6177d698e630aff788d2370a",
+            "download": {
+                "default": "https://huggingface.co/alpindale/goliath-120b-gguf/resolve/main/goliath-120b.Q2_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

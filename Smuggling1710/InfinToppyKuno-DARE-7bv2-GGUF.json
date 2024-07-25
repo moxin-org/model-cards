@@ -1,0 +1,53 @@
+{
+    "id": "Smuggling1710/InfinToppyKuno-DARE-7bv2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Smuggling1710",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-27T01:30:09Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "infintoppykuno-dare-7bv2.fp16.gguf",
+            "size": "14484731584",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ed7345ab7a23fc822acb8ec2329618b8d244ede5c0db1a02dd46e7511203a7cb",
+            "download": {
+                "default": "https://huggingface.co/Smuggling1710/InfinToppyKuno-DARE-7bv2-GGUF/resolve/main/infintoppykuno-dare-7bv2.fp16.gguf"
+            }
+        },
+        {
+            "name": "infintoppykuno-dare-7bv2.IQ4_NL.gguf",
+            "size": "4125693664",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "07086e6ccc1b3b5e114b3575fd4b476d6e2ebd09a7dcadfc4ffa2a7b02db3a23",
+            "download": {
+                "default": "https://huggingface.co/Smuggling1710/InfinToppyKuno-DARE-7bv2-GGUF/resolve/main/infintoppykuno-dare-7bv2.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "infintoppykuno-dare-7bv2.Q8_0.gguf",
+            "size": "7695857376",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "50e72b86a4db52e0c0d4a64d408db62370937fd2fcc2c8e4c9545f7321e8977a",
+            "download": {
+                "default": "https://huggingface.co/Smuggling1710/InfinToppyKuno-DARE-7bv2-GGUF/resolve/main/infintoppykuno-dare-7bv2.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

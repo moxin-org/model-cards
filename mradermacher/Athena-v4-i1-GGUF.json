@@ -1,0 +1,233 @@
+{
+    "id": "mradermacher/Athena-v4-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-04T01:14:19Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Athena-v4.i1-IQ4_XS.gguf",
+            "size": "7157501920",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "ee56c92613129e6765b747d785bc637f1d6124916a80b1aa162baf0458e32fb2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Athena-v4-i1-GGUF/resolve/main/Athena-v4.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Athena-v4.i1-Q6_K.gguf",
+            "size": "10872420320",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "d26ed3eaaf1e916f01d820ee4f65af5a70583b333de0c6720a0c689d2a77a00b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Athena-v4-i1-GGUF/resolve/main/Athena-v4.i1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Athena-v4.i1-Q5_K_S.gguf",
+            "size": "9165565920",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "7e27c7d6e0b52c7aea836e27f232dc07ea23691b3993f5511976b11a9fffe38c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Athena-v4-i1-GGUF/resolve/main/Athena-v4.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Athena-v4.i1-Q5_K_M.gguf",
+            "size": "9423204320",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ba2ce6dc05fd20c35b7d78441134267507407c59a3799ff2344a90dbb3501e4b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Athena-v4-i1-GGUF/resolve/main/Athena-v4.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Athena-v4.i1-Q4_K_S.gguf",
+            "size": "7616458720",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "46e938ac91562f75743bbc5a7d694b8afd80c745e120fa343f30799f3832208f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Athena-v4-i1-GGUF/resolve/main/Athena-v4.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Athena-v4.i1-Q4_K_M.gguf",
+            "size": "8059236320",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "ffdbbee6ff418e002487049449811713a01cbdd1e8a82660e783f77348afd414",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Athena-v4-i1-GGUF/resolve/main/Athena-v4.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Athena-v4.i1-Q4_0.gguf",
+            "size": "7581233120",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "e881bb6f8065f9875f905b8fbfb131c3dfcf56c2ae724e8fe3f22175005552a5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Athena-v4-i1-GGUF/resolve/main/Athena-v4.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Athena-v4.i1-Q3_K_S.gguf",
+            "size": "5852260320",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "45b7896b4d129f81842612689b9a1d1fc631ac95e591045b46eab192b2172b53",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Athena-v4-i1-GGUF/resolve/main/Athena-v4.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Athena-v4.i1-Q3_K_M.gguf",
+            "size": "6531049440",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "00f019483784b72a6bb4b1f1a38f459966b916c73fddf78b62588d229fe02d9b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Athena-v4-i1-GGUF/resolve/main/Athena-v4.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Athena-v4.i1-Q3_K_L.gguf",
+            "size": "7122839520",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "d641872a1485add151b1eca754fd6db6d08ef37a73dbad35b834e3d577744888",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Athena-v4-i1-GGUF/resolve/main/Athena-v4.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Athena-v4.i1-Q2_K.gguf",
+            "size": "5047549920",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a8acc82387582cf56abb027249e227ecbf82e5cd2b1f0e321ec94ad8140ae99e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Athena-v4-i1-GGUF/resolve/main/Athena-v4.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Athena-v4.i1-IQ1_M.gguf",
+            "size": "3353649120",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "d8a3c25775942de2605c65a3137774b497d4f8e2eb7061a8cc27f2641a8b138f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Athena-v4-i1-GGUF/resolve/main/Athena-v4.i1-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "Athena-v4.i1-IQ3_XXS.gguf",
+            "size": "5175601120",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "a09730486f05d2524d38ced375811954ceb3912c6bfe4f8b8d9cd9f04e1c569e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Athena-v4-i1-GGUF/resolve/main/Athena-v4.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "Athena-v4.i1-IQ3_XS.gguf",
+            "size": "5554890720",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "0f3ad8fd129bccb0ac7ae379963caafa0b462fde5de32a43621e1acfde15b715",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Athena-v4-i1-GGUF/resolve/main/Athena-v4.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Athena-v4.i1-IQ3_S.gguf",
+            "size": "5852260320",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "9f88a57322e2442b6baf74a4d2c8d8ba2a86db7c5a7bb88c9cb48230ada89e5b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Athena-v4-i1-GGUF/resolve/main/Athena-v4.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Athena-v4.i1-IQ3_M.gguf",
+            "size": "6177789920",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "2c75c28ce37633263365f1c5fd801a8f0d858c7bac7c5b991f6b42fba44456c2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Athena-v4-i1-GGUF/resolve/main/Athena-v4.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Athena-v4.i1-IQ2_XXS.gguf",
+            "size": "3753521120",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "a7cfff7dcb370452a4f3878f66c73844c57c0411a9604b9099331560cb003456",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Athena-v4-i1-GGUF/resolve/main/Athena-v4.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "Athena-v4.i1-IQ2_XS.gguf",
+            "size": "4106186720",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "84863f65cf741f433a9d2368da172fddfb76c0f70bcc236c72a2fa221b67997d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Athena-v4-i1-GGUF/resolve/main/Athena-v4.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Athena-v4.i1-IQ2_S.gguf",
+            "size": "4412721120",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "961bdeb6c7e80174ef2079592a2b9460743bd7a98be3b19286ff2e8822022312",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Athena-v4-i1-GGUF/resolve/main/Athena-v4.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "Athena-v4.i1-IQ2_M.gguf",
+            "size": "4732618720",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "56ee9316924a0f2b8a203e05657da88847fca5fef2e26c1abe194c8b1347c04a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Athena-v4-i1-GGUF/resolve/main/Athena-v4.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "Athena-v4.i1-IQ1_S.gguf",
+            "size": "3113725920",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "5250e7ddaa52df5da66e0fd11e31c0999ea77ed06ac779947f09680fa95b9b93",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Athena-v4-i1-GGUF/resolve/main/Athena-v4.i1-IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

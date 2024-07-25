@@ -1,0 +1,163 @@
+{
+    "id": "leliuga/all-MiniLM-L6-v2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "leliuga",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-15T12:02:17Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "all-MiniLM-L6-v2.F16.gguf",
+            "size": "45949216",
+            "quantization": "",
+            "tags": [],
+            "sha256": "797b70c4edf85907fe0a49eb85811256f65fa0f7bf52166b147fd16be2be4662",
+            "download": {
+                "default": "https://huggingface.co/leliuga/all-MiniLM-L6-v2-GGUF/resolve/main/all-MiniLM-L6-v2.F16.gguf"
+            }
+        },
+        {
+            "name": "all-MiniLM-L6-v2.F32.gguf",
+            "size": "91016992",
+            "quantization": "",
+            "tags": [],
+            "sha256": "39fb2ca15a53acd9e7b56fb8fb294b7695e5f4ce4413a94a270b2eceba143529",
+            "download": {
+                "default": "https://huggingface.co/leliuga/all-MiniLM-L6-v2-GGUF/resolve/main/all-MiniLM-L6-v2.F32.gguf"
+            }
+        },
+        {
+            "name": "all-MiniLM-L6-v2.Q2_K.gguf",
+            "size": "19229632",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "28d18bb3abc39c1f12275b04a0b59509ba4b56fb90b57f80e6e7efb9fea1b561",
+            "download": {
+                "default": "https://huggingface.co/leliuga/all-MiniLM-L6-v2-GGUF/resolve/main/all-MiniLM-L6-v2.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "all-MiniLM-L6-v2.Q3_K_L.gguf",
+            "size": "20473792",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "9de5ac4071e59cf094638cb231c520839ca93bcc75a3c01f5af79b78f551a157",
+            "download": {
+                "default": "https://huggingface.co/leliuga/all-MiniLM-L6-v2-GGUF/resolve/main/all-MiniLM-L6-v2.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "all-MiniLM-L6-v2.Q3_K_M.gguf",
+            "size": "19939264",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "5b9a8558a40cfd73644942a03bdbc931371ea2248aaf337c7995b43934612160",
+            "download": {
+                "default": "https://huggingface.co/leliuga/all-MiniLM-L6-v2-GGUF/resolve/main/all-MiniLM-L6-v2.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "all-MiniLM-L6-v2.Q3_K_S.gguf",
+            "size": "19229632",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "510b562c825a6762bdf3e4d00f6f534cc7a41d963b4c0a693d273c7bf8e0e900",
+            "download": {
+                "default": "https://huggingface.co/leliuga/all-MiniLM-L6-v2-GGUF/resolve/main/all-MiniLM-L6-v2.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "all-MiniLM-L6-v2.Q4_0.gguf",
+            "size": "19699648",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "427c7e251a17bdaeb4f736924388f5e08d07b0cd51648a2661b8693629d35b36",
+            "download": {
+                "default": "https://huggingface.co/leliuga/all-MiniLM-L6-v2-GGUF/resolve/main/all-MiniLM-L6-v2.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "all-MiniLM-L6-v2.Q4_K_M.gguf",
+            "size": "20999104",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "53533e550397f2ba4e627bd5833d2c791097372d861a52022a8586282c2178cc",
+            "download": {
+                "default": "https://huggingface.co/leliuga/all-MiniLM-L6-v2-GGUF/resolve/main/all-MiniLM-L6-v2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "all-MiniLM-L6-v2.Q4_K_S.gguf",
+            "size": "20694976",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "dbbd108ae6a8096088c809ca83fe59804f25c0a7bb5dbcf8f7e4671487f790a9",
+            "download": {
+                "default": "https://huggingface.co/leliuga/all-MiniLM-L6-v2-GGUF/resolve/main/all-MiniLM-L6-v2.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "all-MiniLM-L6-v2.Q5_0.gguf",
+            "size": "21026752",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "6bd7047c38bc8f7566de5dc4dbfdd2beec7ae4306fa0207c4ad0fceeb3c487d7",
+            "download": {
+                "default": "https://huggingface.co/leliuga/all-MiniLM-L6-v2-GGUF/resolve/main/all-MiniLM-L6-v2.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "all-MiniLM-L6-v2.Q5_K_M.gguf",
+            "size": "21717952",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "908c82ac3849f9ca23158117cec614bd8ec404040d8794c35b4c81242bf315e3",
+            "download": {
+                "default": "https://huggingface.co/leliuga/all-MiniLM-L6-v2-GGUF/resolve/main/all-MiniLM-L6-v2.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "all-MiniLM-L6-v2.Q5_K_S.gguf",
+            "size": "21469120",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "ce3c5917a6bfdf54ca54053e0eac01827d45b4918e76688b272751f6650ac774",
+            "download": {
+                "default": "https://huggingface.co/leliuga/all-MiniLM-L6-v2-GGUF/resolve/main/all-MiniLM-L6-v2.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "all-MiniLM-L6-v2.Q6_K.gguf",
+            "size": "24150976",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "db5e1e444d7753f7c433965ebe8e3f2d71e7d2dc1f93026df00b2c80f0e7d9b6",
+            "download": {
+                "default": "https://huggingface.co/leliuga/all-MiniLM-L6-v2-GGUF/resolve/main/all-MiniLM-L6-v2.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "all-MiniLM-L6-v2.Q8_0.gguf",
+            "size": "25008064",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "e5ec722e8c82dc4ffaf965175ca472f5da3f97b695590b5b0780bdbfa29bcaf3",
+            "download": {
+                "default": "https://huggingface.co/leliuga/all-MiniLM-L6-v2-GGUF/resolve/main/all-MiniLM-L6-v2.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,43 @@
+{
+    "id": "GaJoPrograma/llama-2-7b-victoria-unad-generico-preguntas-diferentes-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "GaJoPrograma",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-25T16:54:58Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llama-2-7b-victoria-unad-generico-preguntas-diferentes.Q5_1.gguf",
+            "size": "5064634080",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "a1506ee2558ce055908d9b54e5660ab753c6063f79728535362d5ba744588029",
+            "download": {
+                "default": "https://huggingface.co/GaJoPrograma/llama-2-7b-victoria-unad-generico-preguntas-diferentes-GGUF/resolve/main/llama-2-7b-victoria-unad-generico-preguntas-diferentes.Q5_1.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-victoria-unad-generico-preguntas-diferentes.Q5_K_S.gguf",
+            "size": "4651691744",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "b35553e968b3a39bb78260e9bdb515025c4008e9285e48c17947adf2004c1620",
+            "download": {
+                "default": "https://huggingface.co/GaJoPrograma/llama-2-7b-victoria-unad-generico-preguntas-diferentes-GGUF/resolve/main/llama-2-7b-victoria-unad-generico-preguntas-diferentes.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

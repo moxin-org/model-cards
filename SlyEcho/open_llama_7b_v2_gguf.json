@@ -1,0 +1,173 @@
+{
+    "id": "SlyEcho/open_llama_7b_v2_gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "SlyEcho",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-08-31T16:41:07Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "open-llama-7b-v2-f16.gguf",
+            "size": "13478116576",
+            "quantization": "",
+            "tags": [],
+            "sha256": "79262501cdc3a688ae9f641e37f431d1844934ad28735eff1c6041e7bddc0d8d",
+            "download": {
+                "default": "https://huggingface.co/SlyEcho/open_llama_7b_v2_gguf/resolve/main/open-llama-7b-v2-f16.gguf"
+            }
+        },
+        {
+            "name": "open-llama-7b-v2-q2_K.gguf",
+            "size": "2825952544",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2c22e744d4aac99b85f9607363f4df58e77a89d372053367f900626d8ccfb99b",
+            "download": {
+                "default": "https://huggingface.co/SlyEcho/open_llama_7b_v2_gguf/resolve/main/open-llama-7b-v2-q2_K.gguf"
+            }
+        },
+        {
+            "name": "open-llama-7b-v2-q3_K_L.gguf",
+            "size": "3597122848",
+            "quantization": "",
+            "tags": [],
+            "sha256": "da48217a3997587deffeadeb0a0c573669850bb4ea5b5a147a720b726a9bee5d",
+            "download": {
+                "default": "https://huggingface.co/SlyEcho/open_llama_7b_v2_gguf/resolve/main/open-llama-7b-v2-q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "open-llama-7b-v2-q3_K_M.gguf",
+            "size": "3298016544",
+            "quantization": "",
+            "tags": [],
+            "sha256": "679b90fb5a54af0e08711279fc4c31d23c06d1b99ee408f03487379fa7901b1f",
+            "download": {
+                "default": "https://huggingface.co/SlyEcho/open_llama_7b_v2_gguf/resolve/main/open-llama-7b-v2-q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "open-llama-7b-v2-q3_K_S.gguf",
+            "size": "2948316448",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4d4b76064a6b6a7cc87eb2c335f4e5fe4489411a6e88558dbecf072b0331b56b",
+            "download": {
+                "default": "https://huggingface.co/SlyEcho/open_llama_7b_v2_gguf/resolve/main/open-llama-7b-v2-q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "open-llama-7b-v2-q4_0.gguf",
+            "size": "3825818912",
+            "quantization": "",
+            "tags": [],
+            "sha256": "87616025fcf417f857f631db89f0b15238e8d03a621cfc665ab632e8d5e4c789",
+            "download": {
+                "default": "https://huggingface.co/SlyEcho/open_llama_7b_v2_gguf/resolve/main/open-llama-7b-v2-q4_0.gguf"
+            }
+        },
+        {
+            "name": "open-llama-7b-v2-q4_1.gguf",
+            "size": "4238761248",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5a202ba97532d7da0a980b806c1d08b9721325e120842ebb10f2dfff5cf4cb85",
+            "download": {
+                "default": "https://huggingface.co/SlyEcho/open_llama_7b_v2_gguf/resolve/main/open-llama-7b-v2-q4_1.gguf"
+            }
+        },
+        {
+            "name": "open-llama-7b-v2-q4_K_M.gguf",
+            "size": "4081016096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5fe444cd2338b3c257ca6ca98c6385e9573989bb75042c5a09de4bf366340d0b",
+            "download": {
+                "default": "https://huggingface.co/SlyEcho/open_llama_7b_v2_gguf/resolve/main/open-llama-7b-v2-q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "open-llama-7b-v2-q4_K_S.gguf",
+            "size": "3856751904",
+            "quantization": "",
+            "tags": [],
+            "sha256": "cf15b3f86bd39ddb20e313129f699e7a6f5b7af90878cd573d5cabff66ca384b",
+            "download": {
+                "default": "https://huggingface.co/SlyEcho/open_llama_7b_v2_gguf/resolve/main/open-llama-7b-v2-q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "open-llama-7b-v2-q5_0.gguf",
+            "size": "4651703584",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9e67e3ca4c34dfe342fe064e600908435b79a163fe17239709943b8b95cb2d07",
+            "download": {
+                "default": "https://huggingface.co/SlyEcho/open_llama_7b_v2_gguf/resolve/main/open-llama-7b-v2-q5_0.gguf"
+            }
+        },
+        {
+            "name": "open-llama-7b-v2-q5_1.gguf",
+            "size": "5064645920",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a2b336edbc93e788a644c79f06565c932637839eb6f078db1726b982c8927962",
+            "download": {
+                "default": "https://huggingface.co/SlyEcho/open_llama_7b_v2_gguf/resolve/main/open-llama-7b-v2-q5_1.gguf"
+            }
+        },
+        {
+            "name": "open-llama-7b-v2-q5_K_M.gguf",
+            "size": "4783168800",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9ca9d74646a1082ee042cd0d05bc12029b8e661fc12a8a651cbadc6fa342b601",
+            "download": {
+                "default": "https://huggingface.co/SlyEcho/open_llama_7b_v2_gguf/resolve/main/open-llama-7b-v2-q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "open-llama-7b-v2-q5_K_S.gguf",
+            "size": "4651703584",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4385a7f4f60ab151a808fbba1da1e59963648fa2bc0e38ce1e635ea34c22c881",
+            "download": {
+                "default": "https://huggingface.co/SlyEcho/open_llama_7b_v2_gguf/resolve/main/open-llama-7b-v2-q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "open-llama-7b-v2-q6_K.gguf",
+            "size": "5529206048",
+            "quantization": "",
+            "tags": [],
+            "sha256": "121553be75551e618757928dc45446efa8d8ea7048a0fff87143c6a1ebbc160e",
+            "download": {
+                "default": "https://huggingface.co/SlyEcho/open_llama_7b_v2_gguf/resolve/main/open-llama-7b-v2-q6_K.gguf"
+            }
+        },
+        {
+            "name": "open-llama-7b-v2-q8_0.gguf",
+            "size": "7161101600",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2aff8fcdff69e26595059ae9252f4cbcfde1e7a7dd246a16c22f1d93b5d65e10",
+            "download": {
+                "default": "https://huggingface.co/SlyEcho/open_llama_7b_v2_gguf/resolve/main/open-llama-7b-v2-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

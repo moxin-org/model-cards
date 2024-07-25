@@ -1,0 +1,233 @@
+{
+    "id": "mradermacher/Merged-RP-Stew-V2-34B-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-05T03:54:04Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Merged-RP-Stew-V2-34B.i1-IQ4_XS.gguf",
+            "size": "18475051040",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "c877b7df7fb16b4cc482d4371187fcf52e4a0d459ccd016c6c0d0aa6fd90bf70",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-RP-Stew-V2-34B-i1-GGUF/resolve/main/Merged-RP-Stew-V2-34B.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Merged-RP-Stew-V2-34B.i1-Q6_K.gguf",
+            "size": "28213925920",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "6e8605d8fc7ae1fd1eab1ad9b9c2d8a74f8f635fcaf42afc301c27016c604046",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-RP-Stew-V2-34B-i1-GGUF/resolve/main/Merged-RP-Stew-V2-34B.i1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Merged-RP-Stew-V2-34B.i1-Q5_K_S.gguf",
+            "size": "23707691040",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "3d7648b732c7da3aa4a66afb7f771c0f668889600935cbbe0a4674a68e0f88d0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-RP-Stew-V2-34B-i1-GGUF/resolve/main/Merged-RP-Stew-V2-34B.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Merged-RP-Stew-V2-34B.i1-Q5_K_M.gguf",
+            "size": "24321845280",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "b775ddc36831c43681124c9349968c4b71fe45f8b29c29ea910edef082245f44",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-RP-Stew-V2-34B-i1-GGUF/resolve/main/Merged-RP-Stew-V2-34B.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Merged-RP-Stew-V2-34B.i1-Q4_K_S.gguf",
+            "size": "19598649376",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "dca626edee0ad311ed40690bc064bcf5104b2fef2863f49e959a63d988f042c9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-RP-Stew-V2-34B-i1-GGUF/resolve/main/Merged-RP-Stew-V2-34B.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Merged-RP-Stew-V2-34B.i1-Q4_K_M.gguf",
+            "size": "20658710560",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "eb5cad9733e7f2fd64f396e21cde41731e26c203980ca77e5e772fc12d4c8abb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-RP-Stew-V2-34B-i1-GGUF/resolve/main/Merged-RP-Stew-V2-34B.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Merged-RP-Stew-V2-34B.i1-Q4_0.gguf",
+            "size": "19530754080",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "40ab61f9f393c0976b49909ef91aa2be08def7b8cb2e9ec0d4440134c63c5917",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-RP-Stew-V2-34B-i1-GGUF/resolve/main/Merged-RP-Stew-V2-34B.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Merged-RP-Stew-V2-34B.i1-Q3_K_S.gguf",
+            "size": "14960293920",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "168be557e7f44da3a1729e0b86e2781723e9344a51736382768981ea4b679baf",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-RP-Stew-V2-34B-i1-GGUF/resolve/main/Merged-RP-Stew-V2-34B.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Merged-RP-Stew-V2-34B.i1-Q3_K_M.gguf",
+            "size": "16654923808",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "af74b5f9922fc61d2df488c3b1a823fe8ff4736e45525707a07a7285f3083b8f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-RP-Stew-V2-34B-i1-GGUF/resolve/main/Merged-RP-Stew-V2-34B.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Merged-RP-Stew-V2-34B.i1-Q3_K_L.gguf",
+            "size": "18139445280",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "631e0b545dea8e55115fcbde72ccf8ff543dce36e4388f11c9af918c3d03f056",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-RP-Stew-V2-34B-i1-GGUF/resolve/main/Merged-RP-Stew-V2-34B.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Merged-RP-Stew-V2-34B.i1-Q2_K.gguf",
+            "size": "12825233440",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "46a1e0f8a2002c8adbbc83ade350df2d21c92875f8a9d21142774a1935292d0c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-RP-Stew-V2-34B-i1-GGUF/resolve/main/Merged-RP-Stew-V2-34B.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Merged-RP-Stew-V2-34B.i1-IQ1_M.gguf",
+            "size": "8176785440",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "9f850e26d4ea8871f6e6fe624ebeb403e435ce99332f0e48ecf4721a2531a060",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-RP-Stew-V2-34B-i1-GGUF/resolve/main/Merged-RP-Stew-V2-34B.i1-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "Merged-RP-Stew-V2-34B.i1-IQ3_XXS.gguf",
+            "size": "13333874720",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "0992180ad6c1ab934fd2e8df67a0f212b803db868a95ff7b6551c3f772e4b2f3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-RP-Stew-V2-34B-i1-GGUF/resolve/main/Merged-RP-Stew-V2-34B.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "Merged-RP-Stew-V2-34B.i1-IQ3_XS.gguf",
+            "size": "14234318880",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "9ca7769ed1a23d4eaeae1cb23d0e0809bbfb35b9d764c71f3e384b838d033aa1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-RP-Stew-V2-34B-i1-GGUF/resolve/main/Merged-RP-Stew-V2-34B.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Merged-RP-Stew-V2-34B.i1-IQ3_S.gguf",
+            "size": "15018784800",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "1a7afadbeff55eb2871f182160a7b7de33554df4e386057173d8342c26c00cce",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-RP-Stew-V2-34B-i1-GGUF/resolve/main/Merged-RP-Stew-V2-34B.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Merged-RP-Stew-V2-34B.i1-IQ3_M.gguf",
+            "size": "15564699680",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "bd5d73395abbcff7e5ec47f50d9596569bf35f6a52331a288e41559778455b76",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-RP-Stew-V2-34B-i1-GGUF/resolve/main/Merged-RP-Stew-V2-34B.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Merged-RP-Stew-V2-34B.i1-IQ2_XXS.gguf",
+            "size": "9306462240",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "0ece89ee6ea3b4532977ea71a29ff5d2c5f7e13c3f4dd81c77c978ac3f50687b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-RP-Stew-V2-34B-i1-GGUF/resolve/main/Merged-RP-Stew-V2-34B.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "Merged-RP-Stew-V2-34B.i1-IQ2_XS.gguf",
+            "size": "10306541600",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "9985b20f590084bdfbce4a3a18c4222b22f68429f8299bdbca623899f1eb3a77",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-RP-Stew-V2-34B-i1-GGUF/resolve/main/Merged-RP-Stew-V2-34B.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Merged-RP-Stew-V2-34B.i1-IQ2_S.gguf",
+            "size": "10891020320",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "edca1e37bde5e81cf9406f4e0c422ad7472e1169731fdb0c74bbd452341e5589",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-RP-Stew-V2-34B-i1-GGUF/resolve/main/Merged-RP-Stew-V2-34B.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "Merged-RP-Stew-V2-34B.i1-IQ2_M.gguf",
+            "size": "11794761760",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "6ab6e3dbf1f604d462567cd41cfd0ab9ae91c6f3445455bb2a3bcd6e47a0ccf8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-RP-Stew-V2-34B-i1-GGUF/resolve/main/Merged-RP-Stew-V2-34B.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "Merged-RP-Stew-V2-34B.i1-IQ1_S.gguf",
+            "size": "7498979360",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "3ac746b52ba4c066963d9364e70dc70a5d9447f54d5b93800a16d9c20ebc071b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Merged-RP-Stew-V2-34B-i1-GGUF/resolve/main/Merged-RP-Stew-V2-34B.i1-IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

@@ -1,0 +1,93 @@
+{
+    "id": "afrideva/Astrohermes-3B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-03T22:14:38Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "astrohermes-3b.fp16.gguf",
+            "size": "5593341312",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f47a0e2e908d07afe497b2c6504afc8c6d36cbc88416876889b2b8c67f85d4d9",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Astrohermes-3B-GGUF/resolve/main/astrohermes-3b.fp16.gguf"
+            }
+        },
+        {
+            "name": "astrohermes-3b.q2_k.gguf",
+            "size": "1198771168",
+            "quantization": "",
+            "tags": [],
+            "sha256": "208424d3c9bdb47cd238e74f2a24a819bf5f718b3021b99fb2f65946042e9cc8",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Astrohermes-3B-GGUF/resolve/main/astrohermes-3b.q2_k.gguf"
+            }
+        },
+        {
+            "name": "astrohermes-3b.q3_k_m.gguf",
+            "size": "1391418848",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4374b43db717955027b19bfc7f7b8eb39f6755c13ff9aaf803dc69621d0bf8fc",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Astrohermes-3B-GGUF/resolve/main/astrohermes-3b.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "astrohermes-3b.q4_k_m.gguf",
+            "size": "1708595168",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3531cb04c3a040bc8bd3e1e79ef205d03233954d069f7379f391c307acbd6ba8",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Astrohermes-3B-GGUF/resolve/main/astrohermes-3b.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "astrohermes-3b.q5_k_m.gguf",
+            "size": "1993390048",
+            "quantization": "",
+            "tags": [],
+            "sha256": "201524952136457944d81f321d60bf52af12334d2512cceab11250cbca74e26c",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Astrohermes-3B-GGUF/resolve/main/astrohermes-3b.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "astrohermes-3b.q6_k.gguf",
+            "size": "2295984608",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5765b2f939089fa5d35530b8c66aa1051956855beecee57430345df7e769cde0",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Astrohermes-3B-GGUF/resolve/main/astrohermes-3b.q6_k.gguf"
+            }
+        },
+        {
+            "name": "astrohermes-3b.q8_0.gguf",
+            "size": "2972925408",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6bd572e104d0d83a9ff9647d73663699a8e69a91791dfa6fd07c1889ba74a13f",
+            "download": {
+                "default": "https://huggingface.co/afrideva/Astrohermes-3B-GGUF/resolve/main/astrohermes-3b.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,43 @@
+{
+    "id": "Venkman42/Phiter-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Venkman42",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-26T21:28:27Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-f16.gguf",
+            "size": "5563088672",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ab4d47b80aaeaa98e5bc2014b85d13ddf12ca7aee9f4219a98f6064b8a66007e",
+            "download": {
+                "default": "https://huggingface.co/Venkman42/Phiter-GGUF/resolve/main/ggml-model-f16.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-Q5_K.gguf",
+            "size": "2072682336",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "1f065d6131ba759eb02f69dc5e3e84b8ee156a8cc4d3d103fc8f572b0f04c351",
+            "download": {
+                "default": "https://huggingface.co/Venkman42/Phiter-GGUF/resolve/main/ggml-model-Q5_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

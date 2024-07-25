@@ -1,0 +1,93 @@
+{
+    "id": "afrideva/TinyLlama-1.1B-intermediate-step-955k-token-2T-guanaco-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-19T21:49:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tinyllama-1.1b-intermediate-step-955k-token-2t-guanaco.fp16.gguf",
+            "size": "2201016800",
+            "quantization": "",
+            "tags": [],
+            "sha256": "577d5883306b5d4e01561cca7719cb3668b361856a3d4d1ca1a91a218813fbc2",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-intermediate-step-955k-token-2T-guanaco-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-955k-token-2t-guanaco.fp16.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-955k-token-2t-guanaco.q2_k.gguf",
+            "size": "482142720",
+            "quantization": "",
+            "tags": [],
+            "sha256": "034f45b448573a19a192e47880c8b823e6957d448feb276b728e63b96213f7a2",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-intermediate-step-955k-token-2T-guanaco-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-955k-token-2t-guanaco.q2_k.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-955k-token-2t-guanaco.q3_k_m.gguf",
+            "size": "549845504",
+            "quantization": "",
+            "tags": [],
+            "sha256": "aa2b82c5fe83564dc94535580707cc470358d379be86e4fc9df4a88ed9df8dac",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-intermediate-step-955k-token-2T-guanaco-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-955k-token-2t-guanaco.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-955k-token-2t-guanaco.q4_k_m.gguf",
+            "size": "667814400",
+            "quantization": "",
+            "tags": [],
+            "sha256": "045887df46167a7a882532eed3b87abfe792aeb08112310efb837ed912649f0c",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-intermediate-step-955k-token-2T-guanaco-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-955k-token-2t-guanaco.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-955k-token-2t-guanaco.q5_k_m.gguf",
+            "size": "782043648",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6a63f52f0755a0c5d8a38fe1c2bb39e3fdd0d9b8d6299fd2c714206d3a356c40",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-intermediate-step-955k-token-2T-guanaco-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-955k-token-2t-guanaco.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-955k-token-2t-guanaco.q6_k.gguf",
+            "size": "903412224",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c4fcbb0199c3326cea4748179e3a99e799e30cca56ae0aafebed692503370fc6",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-intermediate-step-955k-token-2T-guanaco-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-955k-token-2t-guanaco.q6_k.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-intermediate-step-955k-token-2t-guanaco.q8_0.gguf",
+            "size": "1169807872",
+            "quantization": "",
+            "tags": [],
+            "sha256": "48e5fa7d9fc3b354bb48c5787b6bb63db6117b7676c9284035ae70b9fc143ec5",
+            "download": {
+                "default": "https://huggingface.co/afrideva/TinyLlama-1.1B-intermediate-step-955k-token-2T-guanaco-GGUF/resolve/main/tinyllama-1.1b-intermediate-step-955k-token-2t-guanaco.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,2273 @@
+{
+    "id": "Arki05/Grok-1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Arki05",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-21T14:01:21Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "grok-1-IQ3_XS-split-00001-of-00009.gguf",
+            "size": "17531846528",
+            "quantization": "",
+            "tags": [],
+            "sha256": "114f9c9b22429648f694e1993d7b5121a869acb56ce2fce37133064cbfa71f2f",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-IQ3_XS-split-00001-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-IQ3_XS-split-00002-of-00009.gguf",
+            "size": "15301623488",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ac8b3768f544ff9049c99956aa556eaf77b717eca1dd79c3e8631e74c32090fb",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-IQ3_XS-split-00002-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-IQ3_XS-split-00003-of-00009.gguf",
+            "size": "15188377344",
+            "quantization": "",
+            "tags": [],
+            "sha256": "85d6a7faed876f832a567267b8746ab701e6dfd403e170f9d6ffb82ce2fc1b3d",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-IQ3_XS-split-00003-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-IQ3_XS-split-00004-of-00009.gguf",
+            "size": "15625215744",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f1406dcfbdd5caec6591a9d0ee4cabc0707b0bec04a47e0631e0b22e1cd77dcd",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-IQ3_XS-split-00004-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-IQ3_XS-split-00005-of-00009.gguf",
+            "size": "15428951840",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a6beb801fe4c592c831d675f27be58d40d54a996205e768b2c4efa02a18613f7",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-IQ3_XS-split-00005-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-IQ3_XS-split-00006-of-00009.gguf",
+            "size": "15197814528",
+            "quantization": "",
+            "tags": [],
+            "sha256": "906ebb35eb00b148bb172982535773768e444b955e89da8dbc682b3782040c9d",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-IQ3_XS-split-00006-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-IQ3_XS-split-00007-of-00009.gguf",
+            "size": "15188377344",
+            "quantization": "",
+            "tags": [],
+            "sha256": "66164f3bda7ed7d70bb7adb98183e178b804235595a5568a86e660a2b842a902",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-IQ3_XS-split-00007-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-IQ3_XS-split-00008-of-00009.gguf",
+            "size": "15991717632",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e3680cb383ae25525f58e01d1ef2309628d46593c2bc1a0e02470a1a9834597c",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-IQ3_XS-split-00008-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-IQ3_XS-split-00009-of-00009.gguf",
+            "size": "4184830144",
+            "quantization": "",
+            "tags": [],
+            "sha256": "598e36389478d0f5ac56799cfff1846612220ab121cc32676b1bc5698003a9ae",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-IQ3_XS-split-00009-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q2_K-split-00001-of-00009.gguf",
+            "size": "14898085760",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1db56d899df9ed37cb1cc015aef0d5275020d6e940f8c5ed99db8c2fb34bb7c0",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q2_K-split-00001-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q2_K-split-00002-of-00009.gguf",
+            "size": "13817626304",
+            "quantization": "",
+            "tags": [],
+            "sha256": "257be550ea42cb6878d2e041c95062e8866dc19292fac86c039147ff66db1be6",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q2_K-split-00002-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q2_K-split-00003-of-00009.gguf",
+            "size": "13817626368",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3e9001fdf252128c247989ca870c301ec586ce2d26e85757365d8d1416d13c18",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q2_K-split-00003-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q2_K-split-00004-of-00009.gguf",
+            "size": "14223499008",
+            "quantization": "",
+            "tags": [],
+            "sha256": "957d6174af4ae2618ada7bd594626deaed9b6622a926e2dd21e6efe47a3d337e",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q2_K-split-00004-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q2_K-split-00005-of-00009.gguf",
+            "size": "14036180768",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3c60377303e347a08c8876d33a055757ce54345e82bacd850deafd87705d0024",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q2_K-split-00005-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q2_K-split-00006-of-00009.gguf",
+            "size": "13838073600",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8640abdd4d61201db7d19851f7b71b6c8541d1fd1b6280abd9718aed8f0d73e1",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q2_K-split-00006-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q2_K-split-00007-of-00009.gguf",
+            "size": "13817626368",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b248ad03b13dc8224753125411c3fa2c019bed0eb22c9756ba2ab8535e9b797c",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q2_K-split-00007-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q2_K-split-00008-of-00009.gguf",
+            "size": "14137016064",
+            "quantization": "",
+            "tags": [],
+            "sha256": "48bef2547453453da432ad52fef9a053c134714f8678e57f6819c36ff1039493",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q2_K-split-00008-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q2_K-split-00009-of-00009.gguf",
+            "size": "3601887424",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fb0bd4b2a0acbcbd6818b6e13aeb693d8d811c286008a9ad73d57aa43df1109c",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q2_K-split-00009-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q4_K-split-00001-of-00009.gguf",
+            "size": "25884540800",
+            "quantization": "",
+            "tags": [],
+            "sha256": "05591ca6e9aa15bdfa5d71e2b9c3fcf31b7e3ec3ce6748acc8797775658cc6e8",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q4_K-split-00001-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q4_K-split-00002-of-00009.gguf",
+            "size": "22257614528",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f8b46337340e91abc8a4833bc818a0524f23ad14ed7b1cad7770d0e6e95a290f",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q4_K-split-00002-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q4_K-split-00003-of-00009.gguf",
+            "size": "22569041664",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8532459a9ef14c18a33620effa3d644bc2a1a88e9bf6e892ca13dfe0bb040caf",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q4_K-split-00003-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q4_K-split-00004-of-00009.gguf",
+            "size": "22772604672",
+            "quantization": "",
+            "tags": [],
+            "sha256": "eefba049016ff3f864e13577b859263acdbf23531d951cd74e1744a73eebc4dc",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q4_K-split-00004-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q4_K-split-00005-of-00009.gguf",
+            "size": "22908706592",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7e9376dc134a62debf53c0d26dd21afd51ceb8a2ea54d0a1208914de1c148778",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q4_K-split-00005-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q4_K-split-00006-of-00009.gguf",
+            "size": "22361423616",
+            "quantization": "",
+            "tags": [],
+            "sha256": "21582b96b5a761c5d1c638c3d3c628a8c008c6d0527d67e4de0fe17261dbc989",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q4_K-split-00006-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q4_K-split-00007-of-00009.gguf",
+            "size": "22361423616",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8bf9486a73329a1fbb235e6180069ce1704bf58ec77db322df0950d828ae43d9",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q4_K-split-00007-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q4_K-split-00008-of-00009.gguf",
+            "size": "24735563520",
+            "quantization": "",
+            "tags": [],
+            "sha256": "cedc991f6fd5545ba7fdfae5abeea3ff5ee1ac8a735db2785e31d94af9e5baac",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q4_K-split-00008-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q4_K-split-00009-of-00009.gguf",
+            "size": "6387822784",
+            "quantization": "",
+            "tags": [],
+            "sha256": "527099fadeb4c0f02d358e930143a6caa27e606e0bd195f15175411e5e23ded5",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q4_K-split-00009-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q6_K-split-00001-of-00009.gguf",
+            "size": "32646283136",
+            "quantization": "",
+            "tags": [],
+            "sha256": "13682363db46dd7b20bc204159dc9ec3075dde283d0013b84e4cdd10cebde1b9",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q6_K-split-00001-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q6_K-split-00002-of-00009.gguf",
+            "size": "30991728320",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8bff7c66e005e9e4bb22baf1d00fab781a770b8cc8d2486d4276ead064419aa2",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q6_K-split-00002-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q6_K-split-00003-of-00009.gguf",
+            "size": "30991728384",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0f743d1690ba18569ac75dcc024b3686bf48a2a953acbd084550060918971a90",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q6_K-split-00003-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q6_K-split-00004-of-00009.gguf",
+            "size": "31907208960",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fe7e91f478a255140c6296b502d7902d7a458f83c691a8cbfbd63c3109aec6ce",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q6_K-split-00004-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q6_K-split-00005-of-00009.gguf",
+            "size": "31487106848",
+            "quantization": "",
+            "tags": [],
+            "sha256": "591d740d66c11bff4b6baaccb2265d56abcf9c45cb974c9b75105cc7a49e397c",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q6_K-split-00005-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q6_K-split-00006-of-00009.gguf",
+            "size": "30991728384",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9163a02a4cee09267d2d2a7e0933bae1a5a38bc5a78a3f7acea38326a00adb1c",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q6_K-split-00006-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q6_K-split-00007-of-00009.gguf",
+            "size": "30991728384",
+            "quantization": "",
+            "tags": [],
+            "sha256": "64e0099aa765373b24c22b54b90353b1ca114853890d8cab870cfbf1b3268e9d",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q6_K-split-00007-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q6_K-split-00008-of-00009.gguf",
+            "size": "31742082816",
+            "quantization": "",
+            "tags": [],
+            "sha256": "36d1baa10030bc888c431904daea8ca414ab0c279ff3369105ddbc502f619805",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q6_K-split-00008-of-00009.gguf"
+            }
+        },
+        {
+            "name": "grok-1-Q6_K-split-00009-of-00009.gguf",
+            "size": "8078258368",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5b032d39b218946b935ab163d9fc6214826ace128c6edb0e1df00ef3579c74e8",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/grok-1-Q6_K-split-00009-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ1_M/grok-1-IQ1_M-00001-of-00009.gguf",
+            "size": "10668875424",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5ceb0f4a0a7db05344e61ea889fa29f83f93ce9fc712b165ab2deae25da98cad",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ1_M/grok-1-IQ1_M-00001-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ1_M/grok-1-IQ1_M-00002-of-00009.gguf",
+            "size": "8436072128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c66dd25dddccb90e7126cfd7b2a7f6b0a7fe3c088aaaa35238276e669180f66b",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ1_M/grok-1-IQ1_M-00002-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ1_M/grok-1-IQ1_M-00003-of-00009.gguf",
+            "size": "8436072192",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1f02a7bddc0d268ecbd0292e40b68ceb7f26e6f37157fb44b031a368e74b16cd",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ1_M/grok-1-IQ1_M-00003-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ1_M/grok-1-IQ1_M-00004-of-00009.gguf",
+            "size": "8479915776",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e53a77dfb9d8404af4cd38aa62e7051e53fa753c01abbcf3e5828202c6640aef",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ1_M/grok-1-IQ1_M-00004-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ1_M/grok-1-IQ1_M-00005-of-00009.gguf",
+            "size": "8747007776",
+            "quantization": "",
+            "tags": [],
+            "sha256": "71fcf4707428af47361e3ea6becbcf8605b34247fb4752bb512dd3fb567f0811",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ1_M/grok-1-IQ1_M-00005-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ1_M/grok-1-IQ1_M-00006-of-00009.gguf",
+            "size": "8436072224",
+            "quantization": "",
+            "tags": [],
+            "sha256": "75e13be1e74cfdf8becb29c9a24c4794cc5bbd92aa4cfee0b649710b559b3bcf",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ1_M/grok-1-IQ1_M-00006-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ1_M/grok-1-IQ1_M-00007-of-00009.gguf",
+            "size": "8436072192",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dcdca88f2960c6009883d9a2ff63c70b2979e6b16f9d7f7118f40ad7f8091a88",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ1_M/grok-1-IQ1_M-00007-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ1_M/grok-1-IQ1_M-00008-of-00009.gguf",
+            "size": "8436072192",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6eda66541468dd6ec34768d7f87e849212b9cb37ddf31b74c918d9483f720c44",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ1_M/grok-1-IQ1_M-00008-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ1_M/grok-1-IQ1_M-00009-of-00009.gguf",
+            "size": "2197098656",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8c425f5d487c03486f7bc77abc8fb832dcb67581c0eac868b1db63f8ed0fa3ed",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ1_M/grok-1-IQ1_M-00009-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ1_S/grok-1-IQ1_S-00001-of-00009.gguf",
+            "size": "9220364992",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d8d84613c142a1e7475376b3c0f6ad15861a71743220e60a632201ad219a8d3a",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ1_S/grok-1-IQ1_S-00001-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ1_S/grok-1-IQ1_S-00002-of-00009.gguf",
+            "size": "7458732864",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c2e9d5724ef4b90f409f78a95f7544e470266800e6ae3280845522a2c8cc1e39",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ1_S/grok-1-IQ1_S-00002-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ1_S/grok-1-IQ1_S-00003-of-00009.gguf",
+            "size": "7209040800",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0a02a0446ea05a07c3dcedbeeb5b91ce3e705e7ba357a60de00388e45a254dfc",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ1_S/grok-1-IQ1_S-00003-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ1_S/grok-1-IQ1_S-00004-of-00009.gguf",
+            "size": "6967409536",
+            "quantization": "",
+            "tags": [],
+            "sha256": "bca3c3d5274eece1e4c3f82452d0cc15f7bcc2bbfd43346e682910316e2e7b98",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ1_S/grok-1-IQ1_S-00004-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ1_S/grok-1-IQ1_S-00005-of-00009.gguf",
+            "size": "7244823456",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f436d69ad34630e61bae0337998864ec8d9f9b6d265464a0e6dce5d62d2f8268",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ1_S/grok-1-IQ1_S-00005-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ1_S/grok-1-IQ1_S-00006-of-00009.gguf",
+            "size": "7244823456",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4b26099ab92d24dddbd265e4f4ae4b28b0a68608d433abb8926b6cdfd8985e1b",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ1_S/grok-1-IQ1_S-00006-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ1_S/grok-1-IQ1_S-00007-of-00009.gguf",
+            "size": "7127940000",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7839f4c7eda5d9b994fb443198defbd3e40a344013812c482312fcb2a23d4766",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ1_S/grok-1-IQ1_S-00007-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ1_S/grok-1-IQ1_S-00008-of-00009.gguf",
+            "size": "7048510368",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0884ab8766712caedd345b8b731bda9e22aa18745893d5fe3ab2557ed7ba0312",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ1_S/grok-1-IQ1_S-00008-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ1_S/grok-1-IQ1_S-00009-of-00009.gguf",
+            "size": "5749223520",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fa13f9fb8939bd19c974e11208d67502469a5d587432cc3c5a3c4485403ab2d2",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ1_S/grok-1-IQ1_S-00009-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_M/grok-1-IQ2_M-00001-of-00009.gguf",
+            "size": "13393173184",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5ed5530ee699619a4652851b4e0c44e523793547b0615d0c606334509d5f5598",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_M/grok-1-IQ2_M-00001-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_M/grok-1-IQ2_M-00002-of-00009.gguf",
+            "size": "11908365120",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dc2c42af4d93756295f362df2a5c726bb48c22217f7cb47617df88a97be0a883",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_M/grok-1-IQ2_M-00002-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_M/grok-1-IQ2_M-00003-of-00009.gguf",
+            "size": "11671255968",
+            "quantization": "",
+            "tags": [],
+            "sha256": "047c84409d8539b462f0b27d3b70a16ac35bc934b50461bf0d760de4cb1226b2",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_M/grok-1-IQ2_M-00003-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_M/grok-1-IQ2_M-00004-of-00009.gguf",
+            "size": "11258182528",
+            "quantization": "",
+            "tags": [],
+            "sha256": "059c029c3efd4ea4bcf1d3e9f13df708294762c1651b999d5c6878d10a87a66d",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_M/grok-1-IQ2_M-00004-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_M/grok-1-IQ2_M-00005-of-00009.gguf",
+            "size": "11732204448",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f07d85226d88641e43497ce637418e09e355d37c254c7127b64ed8be1bf6ed11",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_M/grok-1-IQ2_M-00005-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_M/grok-1-IQ2_M-00006-of-00009.gguf",
+            "size": "11732204448",
+            "quantization": "",
+            "tags": [],
+            "sha256": "53bf0764b6a3a639389fb869f24daad5bfc445d3184acf59082ccd3678974db6",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_M/grok-1-IQ2_M-00006-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_M/grok-1-IQ2_M-00007-of-00009.gguf",
+            "size": "11519376288",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1246aa2059cbc99500ae81d7d0612f1da1d75dae858f8c48088e56f8b99eb017",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_M/grok-1-IQ2_M-00007-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_M/grok-1-IQ2_M-00008-of-00009.gguf",
+            "size": "11410062240",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b21d9e5647ca00f722da76b2110948bb984c1f67a63850888b4864124f1e8ddb",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_M/grok-1-IQ2_M-00008-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_M/grok-1-IQ2_M-00009-of-00009.gguf",
+            "size": "9300750432",
+            "quantization": "",
+            "tags": [],
+            "sha256": "11dd4a5e1151179e45907576351190f223533ca2c7b0498b19663a61a9d5c0e9",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_M/grok-1-IQ2_M-00009-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_S/grok-1-IQ2_S-00001-of-00009.gguf",
+            "size": "12636232384",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d98b481e53afbec888d695805a6dfcfee9f3a5034b1dcb879c4c26e6db169113",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_S/grok-1-IQ2_S-00001-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_S/grok-1-IQ2_S-00002-of-00009.gguf",
+            "size": "10836851520",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6ee030b5405def4e036655bc4087770fd8fbf0167d4fd1d9d930908d72b3fc2e",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_S/grok-1-IQ2_S-00002-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_S/grok-1-IQ2_S-00003-of-00009.gguf",
+            "size": "10555702176",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0812bc8dde74e4e1e4b7db545b4289865697a915551eb02c7495fb571af4d40b",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_S/grok-1-IQ2_S-00003-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_S/grok-1-IQ2_S-00004-of-00009.gguf",
+            "size": "10185489280",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5afac535c4deec46e7ae8e153bb4232f5b2e8860e28f7a3b777d96577fde3cb2",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_S/grok-1-IQ2_S-00004-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_S/grok-1-IQ2_S-00005-of-00009.gguf",
+            "size": "10610359200",
+            "quantization": "",
+            "tags": [],
+            "sha256": "cfd0cf919407bbaf8c63e4f149e1522a49fbd668bbe89ca9b670a4b22ea9eaba",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_S/grok-1-IQ2_S-00005-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_S/grok-1-IQ2_S-00006-of-00009.gguf",
+            "size": "10610359200",
+            "quantization": "",
+            "tags": [],
+            "sha256": "93abaf9b883c9049602fdb1b366ac23086e5d960076dda051bd367967480f0bb",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_S/grok-1-IQ2_S-00006-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_S/grok-1-IQ2_S-00007-of-00009.gguf",
+            "size": "10421517216",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8fb4ab2abad153b551cd5f0051dbda56ed5d0f23ab580d2fc9120cd5ff341ed3",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_S/grok-1-IQ2_S-00007-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_S/grok-1-IQ2_S-00008-of-00009.gguf",
+            "size": "10319674272",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dd8d1c4d2e794366bbe13df1cbf711c1cb6a3a15b116d8b958934508d94bdc46",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_S/grok-1-IQ2_S-00008-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_S/grok-1-IQ2_S-00009-of-00009.gguf",
+            "size": "8412868704",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ce78aab20e14e09e98d69bb285442b4a6663d87287462fc42c7016b3adfd2658",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_S/grok-1-IQ2_S-00009-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_XS/grok-1-IQ2_XS-00001-of-00009.gguf",
+            "size": "11491187392",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fbc279a1c07c30d7ea393e7150709a5e69f313b805b8ebc915e88db96f416a77",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_XS/grok-1-IQ2_XS-00001-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_XS/grok-1-IQ2_XS-00002-of-00009.gguf",
+            "size": "10673273664",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d8561582ecafd1ecf0e1414f37c4f4e7d59ab34b483ae55d7ab0d25e50d42b0a",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_XS/grok-1-IQ2_XS-00002-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_XS/grok-1-IQ2_XS-00003-of-00009.gguf",
+            "size": "10555702176",
+            "quantization": "",
+            "tags": [],
+            "sha256": "603e78863b45744a92fd579196f7014b65c58b45cc948ceeccb666f0bc8ad7bc",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_XS/grok-1-IQ2_XS-00003-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_XS/grok-1-IQ2_XS-00004-of-00009.gguf",
+            "size": "10185489280",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7890510821823272d820212e86286f1c67eb833a32505dc85899070e34325b20",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_XS/grok-1-IQ2_XS-00004-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_XS/grok-1-IQ2_XS-00005-of-00009.gguf",
+            "size": "10610359200",
+            "quantization": "",
+            "tags": [],
+            "sha256": "cc730583c8111f7ba1f1da4f1c1e55fe1998b3e346eafcdaa0419e338fe192bf",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_XS/grok-1-IQ2_XS-00005-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_XS/grok-1-IQ2_XS-00006-of-00009.gguf",
+            "size": "10610359200",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2c1a05ac65459cd1762455e408c4b821f16580b96b428f99c1c204201d31405e",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_XS/grok-1-IQ2_XS-00006-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_XS/grok-1-IQ2_XS-00007-of-00009.gguf",
+            "size": "10421517216",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9e742640a98be27add89dc489e1ed2c3fbb4a841b8670ec5ed1f6353acadf5a0",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_XS/grok-1-IQ2_XS-00007-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_XS/grok-1-IQ2_XS-00008-of-00009.gguf",
+            "size": "10319674272",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3f2b81272aa524bf35956786dc4fd265bb1f3fde4835cff37a44d1e2d5c98497",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_XS/grok-1-IQ2_XS-00008-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_XS/grok-1-IQ2_XS-00009-of-00009.gguf",
+            "size": "8412868704",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0da8e347b33192a3c892bb1730f1af9d7b1375d98ce31442b2c77f212a438cd6",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_XS/grok-1-IQ2_XS-00009-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_XXS/grok-1-IQ2_XXS-00001-of-00009.gguf",
+            "size": "10734246592",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a56a0d653f7d03f597f81f6e6db7d7a7f07f6d5ac35bb663e4d217cc688e8cdb",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_XXS/grok-1-IQ2_XXS-00001-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_XXS/grok-1-IQ2_XXS-00002-of-00009.gguf",
+            "size": "9601760064",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7d2fe30c41fab881f40afec20dbb6d9038e9636e512c8ed7e6234f62817724fa",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_XXS/grok-1-IQ2_XXS-00002-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_XXS/grok-1-IQ2_XXS-00003-of-00009.gguf",
+            "size": "9440148384",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5f4d111f19359b791e7b632ee49ef957d7ee20ffaffb1a45b93047a8135ab25b",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_XXS/grok-1-IQ2_XXS-00003-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_XXS/grok-1-IQ2_XXS-00004-of-00009.gguf",
+            "size": "9112796032",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8c45e332298b2d062ed402375c98d5e2791dda06979fb122e0812e83fd3344b7",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_XXS/grok-1-IQ2_XXS-00004-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_XXS/grok-1-IQ2_XXS-00005-of-00009.gguf",
+            "size": "9488513952",
+            "quantization": "",
+            "tags": [],
+            "sha256": "acec7a7cc03ef496814aba2a3a7e533beae3f165f5bdc5d204b67bfe5f0c1d93",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_XXS/grok-1-IQ2_XXS-00005-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_XXS/grok-1-IQ2_XXS-00006-of-00009.gguf",
+            "size": "9488513952",
+            "quantization": "",
+            "tags": [],
+            "sha256": "93a081a8683a366e5c9243c59063c1496d312c41dafd1adb38be7826e67f8485",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_XXS/grok-1-IQ2_XXS-00006-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_XXS/grok-1-IQ2_XXS-00007-of-00009.gguf",
+            "size": "9323658144",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6a3f228e263a43ebcaf012bb70fba805a4ee15c75bfc1ce67a8fae04be057eb7",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_XXS/grok-1-IQ2_XXS-00007-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_XXS/grok-1-IQ2_XXS-00008-of-00009.gguf",
+            "size": "9229286304",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7823d78086715ecd3f08990d251b455dd478bd3bfbd510dd9a3b16f4013ecb10",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_XXS/grok-1-IQ2_XXS-00008-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ2_XXS/grok-1-IQ2_XXS-00009-of-00009.gguf",
+            "size": "7524986976",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a4dd3b28646e5385619c8119b7ab0195a331c1b8692635721a4089f365bcf085",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ2_XXS/grok-1-IQ2_XXS-00009-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_M/grok-1-IQ3_M-00001-of-00009.gguf",
+            "size": "17690827456",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0f7dd5926268d93ac10b8d9bb0c82be68c9865596e377ff0e77a6880226c0a96",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_M/grok-1-IQ3_M-00001-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_M/grok-1-IQ3_M-00002-of-00009.gguf",
+            "size": "16344431424",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9895d2d7fe7b8d37c43e21a50b13d15f376c6c3806b86ea8b99ccaba356a977c",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_M/grok-1-IQ3_M-00002-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_M/grok-1-IQ3_M-00003-of-00009.gguf",
+            "size": "16050699168",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7c1ab89fe90243199a064d72c46022cae4c64c7f2a1c789aab238a3c5a0b26a9",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_M/grok-1-IQ3_M-00003-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_M/grok-1-IQ3_M-00004-of-00009.gguf",
+            "size": "15701523328",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b60d8ba998c15a9cb75cd179998b293d2c0572932ae2ef63367e6d967acb1009",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_M/grok-1-IQ3_M-00004-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_M/grok-1-IQ3_M-00005-of-00009.gguf",
+            "size": "16130522016",
+            "quantization": "",
+            "tags": [],
+            "sha256": "63037d67a6a940668dcf245429336482dd8c02f398afdc08a88eb41c9e6fe3dd",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_M/grok-1-IQ3_M-00005-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_M/grok-1-IQ3_M-00006-of-00009.gguf",
+            "size": "16344431520",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4c91bb5400059075394e1e2d38260336998d4ed20ed549ce1422aad54a02b057",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_M/grok-1-IQ3_M-00006-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_M/grok-1-IQ3_M-00007-of-00009.gguf",
+            "size": "15840033696",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4e4d0a88107799ecb3b314ca550a21cbe84c4e171b706f7ad8129694e41bd8a4",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_M/grok-1-IQ3_M-00007-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_M/grok-1-IQ3_M-00008-of-00009.gguf",
+            "size": "16126098336",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6b686c57609457da7083374585a0a1ce49ef18444209988dd395f2ad5c5240f4",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_M/grok-1-IQ3_M-00008-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_M/grok-1-IQ3_M-00009-of-00009.gguf",
+            "size": "13729542240",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ccce38d6e6e7662becb6b6c1b930a7652e9023bef0328b08ce020ebdcdcc5e0e",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_M/grok-1-IQ3_M-00009-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_S/grok-1-IQ3_S-split-00001-of-00009.gguf",
+            "size": "16193460928",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1b95a3e9a17291a4012b820a34e4114c37bd7917d1cad7d7339b37cc00d3c358",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_S/grok-1-IQ3_S-split-00001-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_S/grok-1-IQ3_S-split-00002-of-00009.gguf",
+            "size": "15702702912",
+            "quantization": "",
+            "tags": [],
+            "sha256": "784f11edd9c802cda971ab126ab2cdb7c79fd3a3c3fd464a0bae63ca79ba0b23",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_S/grok-1-IQ3_S-split-00002-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_S/grok-1-IQ3_S-split-00003-of-00009.gguf",
+            "size": "15622880160",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0d343b34912b502c17ab25f91658eef2663f2f33780910dbabc59edc567b0328",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_S/grok-1-IQ3_S-split-00003-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_S/grok-1-IQ3_S-split-00004-of-00009.gguf",
+            "size": "15059794816",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9d4ee86e13a5e372426ff4c4520bbcfa2e4ba6f82db376a77fddb5b2bea564de",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_S/grok-1-IQ3_S-split-00004-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_S/grok-1-IQ3_S-split-00005-of-00009.gguf",
+            "size": "15702703008",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8deddd759db7e138cf02073830349fbad7e67667359dbf9ba400439e2023b82d",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_S/grok-1-IQ3_S-split-00005-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_S/grok-1-IQ3_S-split-00006-of-00009.gguf",
+            "size": "15702703008",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ac2b45b262f7f2273373828bd6eaa2a0c72ce71916a0ec655b8c90e8e6d2dd00",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_S/grok-1-IQ3_S-split-00006-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_S/grok-1-IQ3_S-split-00007-of-00009.gguf",
+            "size": "15412214688",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e8b23262e61f11ca5316e55facc1d0ce591e7356e8110105cb961bc39c087cd3",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_S/grok-1-IQ3_S-split-00007-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_S/grok-1-IQ3_S-split-00008-of-00009.gguf",
+            "size": "15270460320",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0c19542ed481946593f0aee2de3d6201c71d0ad44713cffc9e2db1f663b4dee2",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_S/grok-1-IQ3_S-split-00008-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_S/grok-1-IQ3_S-split-00009-of-00009.gguf",
+            "size": "12446085216",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f0dce23684127dae7206d14f011b2449e1f7c59a5997502d7a281e295e55d40e",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_S/grok-1-IQ3_S-split-00009-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_XS/grok-1-IQ3_XS-00001-of-00009.gguf",
+            "size": "16181074624",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d68527b207a47f3a15f148e75922150211c5b28b7c42eb7c276698fe8a292a2f",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_XS/grok-1-IQ3_XS-00001-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_XS/grok-1-IQ3_XS-00002-of-00009.gguf",
+            "size": "14708849472",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3486c7cbb0246307067de5fab30d82a1962142e4bbb4a26010aa2da76affb74f",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_XS/grok-1-IQ3_XS-00002-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_XS/grok-1-IQ3_XS-00003-of-00009.gguf",
+            "size": "14478031776",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1372bb044258b3784e06b4400194e240a7074921fb7b44433e56c7dc3ff0393a",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_XS/grok-1-IQ3_XS-00003-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_XS/grok-1-IQ3_XS-00004-of-00009.gguf",
+            "size": "13979237248",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1808643bc00cd8c6369ee60085ac018e3c53a322f263a06e145752e20f89a12f",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_XS/grok-1-IQ3_XS-00004-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_XS/grok-1-IQ3_XS-00005-of-00009.gguf",
+            "size": "14567291808",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b3e3aebc26545fbab9c92880dd100a51673bf93227cd7e836d88e2a0d4155f59",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_XS/grok-1-IQ3_XS-00005-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_XS/grok-1-IQ3_XS-00006-of-00009.gguf",
+            "size": "14605040544",
+            "quantization": "",
+            "tags": [],
+            "sha256": "59d4088d462b83ccf009ab1639c679a99001458938b5af26d26e939bda17063b",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_XS/grok-1-IQ3_XS-00006-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_XS/grok-1-IQ3_XS-00007-of-00009.gguf",
+            "size": "14293908384",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6978f8a5657700e4824c55c7dc35ad0e7ff7c454b9ed517c9a04b7c608bc9d51",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_XS/grok-1-IQ3_XS-00007-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_XS/grok-1-IQ3_XS-00008-of-00009.gguf",
+            "size": "14503099296",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b17bc0c5cf3db16a6aae0ae325fcb7ac4b0ea98ef3cd22dd46cee2d6d3f0ee23",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_XS/grok-1-IQ3_XS-00008-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_XS/grok-1-IQ3_XS-00009-of-00009.gguf",
+            "size": "12435468384",
+            "quantization": "",
+            "tags": [],
+            "sha256": "81aff177d845a4317e3f636ef2452d52334bb411524da7dce0e30f2545616494",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_XS/grok-1-IQ3_XS-00009-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_XXS/grok-1-IQ3_XXS-00001-of-00009.gguf",
+            "size": "14406097600",
+            "quantization": "",
+            "tags": [],
+            "sha256": "bb56d5b3097173496bf5fd9b15082a52c419b23baba3422eea1e5508f7c85991",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_XXS/grok-1-IQ3_XXS-00001-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_XXS/grok-1-IQ3_XXS-00002-of-00009.gguf",
+            "size": "14003419968",
+            "quantization": "",
+            "tags": [],
+            "sha256": "197d49cbf306b8f47287489b03ad43ae7469558c97151c5eb6469cf930ea68b2",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_XXS/grok-1-IQ3_XXS-00002-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_XXS/grok-1-IQ3_XXS-00003-of-00009.gguf",
+            "size": "13933034400",
+            "quantization": "",
+            "tags": [],
+            "sha256": "20788523dccd9f7b54ce80e680789004ef4988bc1409bbdf2013c4fac1211ff9",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_XXS/grok-1-IQ3_XXS-00003-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_XXS/grok-1-IQ3_XXS-00004-of-00009.gguf",
+            "size": "13431880576",
+            "quantization": "",
+            "tags": [],
+            "sha256": "335c150e6e793df00c67b771de0c0d08e62adc6d312d8905f48cbf73886b662b",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_XXS/grok-1-IQ3_XXS-00004-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_XXS/grok-1-IQ3_XXS-00005-of-00009.gguf",
+            "size": "14003420064",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fc5f501f26ac4fd15fba2f911f97fe6a5ec364c39f8ae17ec0ab53daccf09206",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_XXS/grok-1-IQ3_XXS-00005-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_XXS/grok-1-IQ3_XXS-00006-of-00009.gguf",
+            "size": "14003420064",
+            "quantization": "",
+            "tags": [],
+            "sha256": "969a091ba0610b104a72e6b274eb53e7b32d15cbd9282f6f83afd1085c8b9034",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_XXS/grok-1-IQ3_XXS-00006-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_XXS/grok-1-IQ3_XXS-00007-of-00009.gguf",
+            "size": "13746551712",
+            "quantization": "",
+            "tags": [],
+            "sha256": "10a7da65729b7ce1b0f66f93e8256ec59a1c4e3eab71caf287abfb425490d072",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_XXS/grok-1-IQ3_XXS-00007-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_XXS/grok-1-IQ3_XXS-00008-of-00009.gguf",
+            "size": "13618363296",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4d4f76bdb4ace6a224a1ee0bd835ed4a7d366087ff2eacc8c155c967718c4322",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_XXS/grok-1-IQ3_XXS-00008-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ3_XXS/grok-1-IQ3_XXS-00009-of-00009.gguf",
+            "size": "11100106848",
+            "quantization": "",
+            "tags": [],
+            "sha256": "bb7be5f49fa71e0d16945fa093e6a085982e144b34e0576aebaf602fcaf58ffb",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ3_XXS/grok-1-IQ3_XXS-00009-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ4_NL/grok-1-IQ4_NL-00001-of-00009.gguf",
+            "size": "20907825856",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5082c8a3216eb84084a0ff96d98693e8dda25d13bd264e5f2663074058663331",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ4_NL/grok-1-IQ4_NL-00001-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ4_NL/grok-1-IQ4_NL-00002-of-00009.gguf",
+            "size": "20470545216",
+            "quantization": "",
+            "tags": [],
+            "sha256": "69b8427ce0f574a8804269a62989dff2e140c034cfb7fe55e739a06117ba2594",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ4_NL/grok-1-IQ4_NL-00002-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ4_NL/grok-1-IQ4_NL-00003-of-00009.gguf",
+            "size": "20363983776",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0b3fb825f2a07abaff03e94876f712bfd2d525fe3d3ce9fd9fe535931422fd62",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ4_NL/grok-1-IQ4_NL-00003-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ4_NL/grok-1-IQ4_NL-00004-of-00009.gguf",
+            "size": "19618741120",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f2fa442165a38176287000dd546baca276d499bdf2cc15f97d141673cd24271b",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ4_NL/grok-1-IQ4_NL-00004-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ4_NL/grok-1-IQ4_NL-00005-of-00009.gguf",
+            "size": "20470545312",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a67fadb7db6602e0a0501e3cd228ab8e088077fc5459e950390d4615d0b703d8",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ4_NL/grok-1-IQ4_NL-00005-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ4_NL/grok-1-IQ4_NL-00006-of-00009.gguf",
+            "size": "20470545312",
+            "quantization": "",
+            "tags": [],
+            "sha256": "bc984e8a3a0326dcc588492765276cb19fbf6fb53a7e610e65fb866abe134e9a",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ4_NL/grok-1-IQ4_NL-00006-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ4_NL/grok-1-IQ4_NL-00007-of-00009.gguf",
+            "size": "20078115744",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3f80bfd54257560b603bc15f6148ddc1b8290f39d96e74b670949e0c39d55414",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ4_NL/grok-1-IQ4_NL-00007-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ4_NL/grok-1-IQ4_NL-00008-of-00009.gguf",
+            "size": "19904609184",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4b578fa23ed9dc05727b7927077de42302385d27019d8d6ecc3c4d6b7a5985be",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ4_NL/grok-1-IQ4_NL-00008-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ4_NL/grok-1-IQ4_NL-00009-of-00009.gguf",
+            "size": "16219582560",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d93c34d20b238232792adaab5a02056d2d2d54ce2e6bc8e2b71666953020eeb9",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ4_NL/grok-1-IQ4_NL-00009-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ4_XS/grok-1-IQ4_XS-00001-of-00009.gguf",
+            "size": "19798563520",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4ed16eefb9fb73ecc8d39deaa42df6dd5a7bbadb75bc3a4a16dc922ab946453d",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ4_XS/grok-1-IQ4_XS-00001-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ4_XS/grok-1-IQ4_XS-00002-of-00009.gguf",
+            "size": "19348699968",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0d2fe160c845ec21156f7e294e4f3e96685e6016f85b6af14790bf612d72cc6b",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ4_XS/grok-1-IQ4_XS-00002-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ4_XS/grok-1-IQ4_XS-00003-of-00009.gguf",
+            "size": "19248429984",
+            "quantization": "",
+            "tags": [],
+            "sha256": "bfe48a6b962ff33e591fe4a8a3c18b21c36f94e64479ae380103e2b4188142e4",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ4_XS/grok-1-IQ4_XS-00003-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ4_XS/grok-1-IQ4_XS-00004-of-00009.gguf",
+            "size": "18546047872",
+            "quantization": "",
+            "tags": [],
+            "sha256": "09797f789a4d54ad6b4ebde14dc3fd148e1b8bf80c32aba1ad63e3f14720ddbe",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ4_XS/grok-1-IQ4_XS-00004-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ4_XS/grok-1-IQ4_XS-00005-of-00009.gguf",
+            "size": "19348700064",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7d5efacf10a9b33b2981f67919eacdf08fa23985bd75cee16cab5e0571f9a831",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ4_XS/grok-1-IQ4_XS-00005-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ4_XS/grok-1-IQ4_XS-00006-of-00009.gguf",
+            "size": "19348700064",
+            "quantization": "",
+            "tags": [],
+            "sha256": "38a2d7184efc6147ef1b7067a16ca4dd29e6173610d5ff07dee5f164ed0c911d",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ4_XS/grok-1-IQ4_XS-00006-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ4_XS/grok-1-IQ4_XS-00007-of-00009.gguf",
+            "size": "18980256672",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5e7a64847d652b2854c1238aa53bbe201b0b78e3f895f97ca50845e6873fb062",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ4_XS/grok-1-IQ4_XS-00007-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ4_XS/grok-1-IQ4_XS-00008-of-00009.gguf",
+            "size": "18814221216",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1a16615d896e540a2dddb14a82f32db68e2665da05344608144be43e1a07e850",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ4_XS/grok-1-IQ4_XS-00008-of-00009.gguf"
+            }
+        },
+        {
+            "name": "IQ4_XS/grok-1-IQ4_XS-00009-of-00009.gguf",
+            "size": "15331700832",
+            "quantization": "",
+            "tags": [],
+            "sha256": "54fb965f56d74734a44d2c7aa877018b0a651c2eec6358bf4679058fbd17ebe2",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/IQ4_XS/grok-1-IQ4_XS-00009-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q2_K_S/grok-1-Q2_K_S-00001-of-00009.gguf",
+            "size": "15135808192",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a725cc66a5ce9ed74f4742d5a174160d1b1e25551506f2434ae36aa39dd0c460",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q2_K_S/grok-1-Q2_K_S-00001-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q2_K_S/grok-1-Q2_K_S-00002-of-00009.gguf",
+            "size": "12339231552",
+            "quantization": "",
+            "tags": [],
+            "sha256": "71bcb1016494dbd53058fb8775ae3e65fe9d6fb033e95940828c0a18c8776473",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q2_K_S/grok-1-Q2_K_S-00002-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q2_K_S/grok-1-Q2_K_S-00003-of-00009.gguf",
+            "size": "11902368672",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5fa863d08d4f21c634a65d8effe2c882f21df58fdadcd9866ccaea7b95ec4cb5",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q2_K_S/grok-1-Q2_K_S-00003-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q2_K_S/grok-1-Q2_K_S-00004-of-00009.gguf",
+            "size": "11465014144",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d51323ce566ea4406ded898018b774d27d17caac57cf9fe8d35df4e273314b5e",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q2_K_S/grok-1-Q2_K_S-00004-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q2_K_S/grok-1-Q2_K_S-00005-of-00009.gguf",
+            "size": "11961744288",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6bb3440aa1ddbe9a2b55cebb63e9ffcffa2647d16f7de3a5ac76aefe39216ebb",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q2_K_S/grok-1-Q2_K_S-00005-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q2_K_S/grok-1-Q2_K_S-00006-of-00009.gguf",
+            "size": "11961744288",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0f531c808506549ac4bf4edc0f438bdae3103eb657af237cd8f66f2eea13341e",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q2_K_S/grok-1-Q2_K_S-00006-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q2_K_S/grok-1-Q2_K_S-00007-of-00009.gguf",
+            "size": "11735645088",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8cd4ff7a289a7a3603670306d18cf33bf94e8d90e3e09b844bc9b1d185bafac0",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q2_K_S/grok-1-Q2_K_S-00007-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q2_K_S/grok-1-Q2_K_S-00008-of-00009.gguf",
+            "size": "11631737760",
+            "quantization": "",
+            "tags": [],
+            "sha256": "87917c21296dd998204e40b321215f55ca33f41a3fa889504d546060e5d0ddf3",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q2_K_S/grok-1-Q2_K_S-00008-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q2_K_S/grok-1-Q2_K_S-00009-of-00009.gguf",
+            "size": "9479073888",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7226620e0160fd2849963ea8c8958521c360a9590568bd386cd83a5d55d4f112",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q2_K_S/grok-1-Q2_K_S-00009-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q2_K/grok-1-Q2_K-00001-of-00009.gguf",
+            "size": "13733403328",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f656ce3a696b4973ecfef7cfc1684adf4f0faab9461e84676d8ba19eb502d521",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q2_K/grok-1-Q2_K-00001-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q2_K/grok-1-Q2_K-00002-of-00009.gguf",
+            "size": "13365328704",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a40d55b24676a14b534ab4f4e4bc4685e0b83194248848dfaec2a5f55486542c",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q2_K/grok-1-Q2_K-00002-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q2_K/grok-1-Q2_K-00003-of-00009.gguf",
+            "size": "13142375328",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a1f96305ef29ec31e5250fa77e94a5bc79e28dacd44e764bfde32a439433c973",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q2_K/grok-1-Q2_K-00003-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q2_K/grok-1-Q2_K-00004-of-00009.gguf",
+            "size": "12718586752",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c39a9f911898d47a54b5fe14f8f715e347a8eb2368246fb2ab17abf998217e48",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q2_K/grok-1-Q2_K-00004-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q2_K/grok-1-Q2_K-00005-of-00009.gguf",
+            "size": "13242645408",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0a8e369e8b03aefb012ca7813dd5ae861d09bba380cea4bf562dbf12c2b6ff42",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q2_K/grok-1-Q2_K-00005-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q2_K/grok-1-Q2_K-00006-of-00009.gguf",
+            "size": "13324434336",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f093a8df51e56c7c2a94be3ba4a5407a23362e98e11c06b37e9f52f3ae22b3b6",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q2_K/grok-1-Q2_K-00006-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q2_K/grok-1-Q2_K-00007-of-00009.gguf",
+            "size": "12989217696",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b6243ef6e4a8780dbb01b6ecffc731876750ed1734620697f1519e6c38e6987f",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q2_K/grok-1-Q2_K-00007-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q2_K/grok-1-Q2_K-00008-of-00009.gguf",
+            "size": "12871744416",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f9aad5f6ab8cebcfcaf475985084cd9d619a9239d1762e3e46cfca54e631725d",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q2_K/grok-1-Q2_K-00008-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q2_K/grok-1-Q2_K-00009-of-00009.gguf",
+            "size": "10541936736",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4760b15dad65edf909e93e662220ed03d8065f237cd57bc65e1802cc64114227",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q2_K/grok-1-Q2_K-00009-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_L/grok-1-Q3_K_L-00001-of-00009.gguf",
+            "size": "19031988928",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2b710380fd788b0603e214ee08562bf7e6823ccf0e86d9b46e166567ec7ff954",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_L/grok-1-Q3_K_L-00001-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_L/grok-1-Q3_K_L-00002-of-00009.gguf",
+            "size": "18956467008",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ff7a580ebecc3e613b53cef73861875b0079fcb9555c503b38eb299c1a9f18b1",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_L/grok-1-Q3_K_L-00002-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_L/grok-1-Q3_K_L-00003-of-00009.gguf",
+            "size": "18461408160",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8b65b3bf0aa224483fec99fd9a8ed13d8a6e8bf6e257bf3f6360f2cb2b64b3ef",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_L/grok-1-Q3_K_L-00003-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_L/grok-1-Q3_K_L-00004-of-00009.gguf",
+            "size": "17888590720",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4a62f223d4deb79998b2f23e2babe3a456d7c3fedc98786ebbe6cf3c265f4e43",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_L/grok-1-Q3_K_L-00004-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_L/grok-1-Q3_K_L-00005-of-00009.gguf",
+            "size": "18645040032",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8fd46ddb2ed84d3c367250c56a475acf6aa6593d2d977a9bc4480478343ae6e9",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_L/grok-1-Q3_K_L-00005-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_L/grok-1-Q3_K_L-00006-of-00009.gguf",
+            "size": "18852658080",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c8ceeaaeef788e2fdbf89c757239a784d76441a0d834351f4bb1c405b43195e5",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_L/grok-1-Q3_K_L-00006-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_L/grok-1-Q3_K_L-00007-of-00009.gguf",
+            "size": "18241010592",
+            "quantization": "",
+            "tags": [],
+            "sha256": "51bd39f0efe0fc2d9a4bffb8f8f6c9f8495b45f55d3c2fc9d9573a82a78cdab0",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_L/grok-1-Q3_K_L-00007-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_L/grok-1-Q3_K_L-00008-of-00009.gguf",
+            "size": "18108988320",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9a22510c87af62e33b9e8e46e21301ebc0268961881bdb7633edc6c91b764243",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_L/grok-1-Q3_K_L-00008-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_L/grok-1-Q3_K_L-00009-of-00009.gguf",
+            "size": "14879109216",
+            "quantization": "",
+            "tags": [],
+            "sha256": "458cdffa914ed243759340b7858c14ac1c14de50aadc1fce98cd20bef035d3a5",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_L/grok-1-Q3_K_L-00009-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_M/grok-1-Q3_K_M-00001-of-00009.gguf",
+            "size": "18496133824",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b70c631792f9cd8331e97aa4847c4e03ef5ad2bcd4c826d0c270390f5d2062b4",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_M/grok-1-Q3_K_M-00001-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_M/grok-1-Q3_K_M-00002-of-00009.gguf",
+            "size": "17413978944",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a5c6b7cb8c65255dde54fad9dd0ef0982a1a303dd1c1afba6d6286af124f45a9",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_M/grok-1-Q3_K_M-00002-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_M/grok-1-Q3_K_M-00003-of-00009.gguf",
+            "size": "17120246688",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9ba4dfdc73409fcce9625f528f18122d6278ed0d0f82fbbeb9d47ed0d6c64757",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_M/grok-1-Q3_K_M-00003-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_M/grok-1-Q3_K_M-00004-of-00009.gguf",
+            "size": "16557161344",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6c8006b7348a9366bf7b5b133eafee5f1fad062d207f7993f12053eeffab7364",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_M/grok-1-Q3_K_M-00004-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_M/grok-1-Q3_K_M-00005-of-00009.gguf",
+            "size": "17253546912",
+            "quantization": "",
+            "tags": [],
+            "sha256": "abb7902c8c5d77dc0da3d5fc5ab1b9e0812ff12c3505551034c19c36dbd77fd9",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_M/grok-1-Q3_K_M-00005-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_M/grok-1-Q3_K_M-00006-of-00009.gguf",
+            "size": "17360501664",
+            "quantization": "",
+            "tags": [],
+            "sha256": "54449f74b266ca39d1ce4be16cab8bf887c7a6e3cef36690570fc3fd15d07877",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_M/grok-1-Q3_K_M-00006-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_M/grok-1-Q3_K_M-00007-of-00009.gguf",
+            "size": "16909581216",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b5cbbccedb2bc77d43474eefb79eb1b0a40bf7a2369121b6001f120ddf463b42",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_M/grok-1-Q3_K_M-00007-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_M/grok-1-Q3_K_M-00008-of-00009.gguf",
+            "size": "16767826848",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7edc46e53fe230a4b4cce3b2e81ce7f2432c6b8accc74b47068f1da7f6e3f077",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_M/grok-1-Q3_K_M-00008-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_M/grok-1-Q3_K_M-00009-of-00009.gguf",
+            "size": "13729542240",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c9652f7b3d0f9cd52de8321d74fbc66fe8fac8029c50d2fc575031c9d062e3a3",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_M/grok-1-Q3_K_M-00009-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_S/grok-1-Q3_K_S-00001-of-00009.gguf",
+            "size": "16193460928",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1305eca5f16d9d3656996c1dba3ef6ecb929d45b01c37d3c8a93ca6ae667566d",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_S/grok-1-Q3_K_S-00001-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_S/grok-1-Q3_K_S-00002-of-00009.gguf",
+            "size": "15702702912",
+            "quantization": "",
+            "tags": [],
+            "sha256": "569942ef885d0be97a527d09cba2042f59d708ecb7968e1f107e36a751e06cb7",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_S/grok-1-Q3_K_S-00002-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_S/grok-1-Q3_K_S-00003-of-00009.gguf",
+            "size": "15622880160",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5d70d265b291e500a32171ba6155148ac9a46c056f69b67543f7351707661f5f",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_S/grok-1-Q3_K_S-00003-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_S/grok-1-Q3_K_S-00004-of-00009.gguf",
+            "size": "15059794816",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8db853ca380025327e63a355dbe27d32403f45f69ea375c460997250538311e5",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_S/grok-1-Q3_K_S-00004-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_S/grok-1-Q3_K_S-00005-of-00009.gguf",
+            "size": "15702703008",
+            "quantization": "",
+            "tags": [],
+            "sha256": "13db061f6295f6e59e1e296c88f7abe95bd9a1ee7d516b76898dd29a2a825e73",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_S/grok-1-Q3_K_S-00005-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_S/grok-1-Q3_K_S-00006-of-00009.gguf",
+            "size": "15702703008",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dbc5306025c89284b5c3576ed57c3f9de1106421330944e6b72e043a8c944be1",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_S/grok-1-Q3_K_S-00006-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_S/grok-1-Q3_K_S-00007-of-00009.gguf",
+            "size": "15412214688",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8539251f0392cf2d515841a38bbd8926d724f4b7040c2300a5e5b10c97e017a4",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_S/grok-1-Q3_K_S-00007-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_S/grok-1-Q3_K_S-00008-of-00009.gguf",
+            "size": "15270460320",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fac41ea8513fede0d694d177c8238a944ea6b9795110112d0f40d5769a20b125",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_S/grok-1-Q3_K_S-00008-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q3_K_S/grok-1-Q3_K_S-00009-of-00009.gguf",
+            "size": "12446085216",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a8c6f92c6cf3a1851d46b9ffa7f899c34b5f5ac8d8bfd12b8fd34c5f4d7ac553",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q3_K_S/grok-1-Q3_K_S-00009-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q4_K/grok-1-Q4_K-00001-of-00009.gguf",
+            "size": "23814478528",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0db518fa9fe47023ceef2c2952fea379d5dbaa110003bb1493c426a0f2ded211",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q4_K/grok-1-Q4_K-00001-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q4_K/grok-1-Q4_K-00002-of-00009.gguf",
+            "size": "21716253504",
+            "quantization": "",
+            "tags": [],
+            "sha256": "399556cd60a7d21200785c4f85fbdef3a74be1c4d31d9d48d255b7e1720f2364",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q4_K/grok-1-Q4_K-00002-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q4_K/grok-1-Q4_K-00003-of-00009.gguf",
+            "size": "21194455968",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d24c77297adf7ee6aab9b990957dc23a4067ffbff8db0252b1e9e3787c26f7ec",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q4_K/grok-1-Q4_K-00003-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q4_K/grok-1-Q4_K-00004-of-00009.gguf",
+            "size": "20864449408",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f9bb170f0a123ff166b325be9d3e6aa633bdb50f181bfcbb4ba3cbf3d948556f",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q4_K/grok-1-Q4_K-00004-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q4_K/grok-1-Q4_K-00005-of-00009.gguf",
+            "size": "21301017504",
+            "quantization": "",
+            "tags": [],
+            "sha256": "43efbf5678d80304cb8691b97f901af074af473e5c35f998c44b620f1c1cefff",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q4_K/grok-1-Q4_K-00005-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q4_K/grok-1-Q4_K-00006-of-00009.gguf",
+            "size": "21716253600",
+            "quantization": "",
+            "tags": [],
+            "sha256": "49db742fb145b952ca3aeffb161b2bae79fd88f1ecc21b52093201cc7f715072",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q4_K/grok-1-Q4_K-00006-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q4_K/grok-1-Q4_K-00007-of-00009.gguf",
+            "size": "20908587936",
+            "quantization": "",
+            "tags": [],
+            "sha256": "190bc24624afe70341fb43ae6f90d76d744747cac35cdb0d1960aac0717e232d",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q4_K/grok-1-Q4_K-00007-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q4_K/grok-1-Q4_K-00008-of-00009.gguf",
+            "size": "21565553568",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0b3c40279f09c5654025f8e81a9cfa1caaa45e07aac4b38cb65aadc5a4f1d66c",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q4_K/grok-1-Q4_K-00008-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q4_K/grok-1-Q4_K-00009-of-00009.gguf",
+            "size": "18710999136",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2fa5b66af4383cf3cc3f05d378a0eee525995683ba26d87dc575a82aeee34f31",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q4_K/grok-1-Q4_K-00009-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q5_K/grok-1-Q5_K-00001-of-00009.gguf",
+            "size": "26842241728",
+            "quantization": "",
+            "tags": [],
+            "sha256": "46032dafccfe29706daaed76a51e94c47b0fc9364b544d0b736b83b3d8d67237",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q5_K/grok-1-Q5_K-00001-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q5_K/grok-1-Q5_K-00002-of-00009.gguf",
+            "size": "25599654720",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1ac105a508cac7e15c2a97be996676ddf808c7e79e0483e8725f5eae4b454e7f",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q5_K/grok-1-Q5_K-00002-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q5_K/grok-1-Q5_K-00003-of-00009.gguf",
+            "size": "25254017952",
+            "quantization": "",
+            "tags": [],
+            "sha256": "70b4b8a9ac7ca105663134186c54c7f63381b1e49cd5c13a63e60760644f1e96",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q5_K/grok-1-Q5_K-00003-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q5_K/grok-1-Q5_K-00004-of-00009.gguf",
+            "size": "24551242624",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b6ce97cc90c77ebea208397cfd7dd2bd4e175aba30e35fa66176c38ad0820581",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q5_K/grok-1-Q5_K-00004-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q5_K/grok-1-Q5_K-00005-of-00009.gguf",
+            "size": "25385745312",
+            "quantization": "",
+            "tags": [],
+            "sha256": "060e074922ae41d2532280cd1da9563b750b688aaa5f2af68509a2d651b996a0",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q5_K/grok-1-Q5_K-00005-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q5_K/grok-1-Q5_K-00006-of-00009.gguf",
+            "size": "25599654816",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8f535d03a538bbc81172f519b56ba3e0548b52e6a0fabe581a18580c059095f3",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q5_K/grok-1-Q5_K-00006-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q5_K/grok-1-Q5_K-00007-of-00009.gguf",
+            "size": "24897371040",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f867142e87697cffbe9a8692c5f281f40d1bdc51b059e89228612c341980cea4",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q5_K/grok-1-Q5_K-00007-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q5_K/grok-1-Q5_K-00008-of-00009.gguf",
+            "size": "25121799072",
+            "quantization": "",
+            "tags": [],
+            "sha256": "98e69805daf4c37496dac87330e9a5aafe68a78e5021a5e43323c1bd30877dd6",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q5_K/grok-1-Q5_K-00008-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q5_K/grok-1-Q5_K-00009-of-00009.gguf",
+            "size": "21054566496",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4dcec99c15df9de9d35c2366a8bbde8d0d155a6324a4dbaf83d9a21cb8545266",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q5_K/grok-1-Q5_K-00009-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q6_K/grok-1-Q6_K-00001-of-00009.gguf",
+            "size": "30094334656",
+            "quantization": "",
+            "tags": [],
+            "sha256": "06c571f477801ee454859b47e376cfcbc2505e1329aa0c92731a2ca9405a418b",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q6_K/grok-1-Q6_K-00001-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q6_K/grok-1-Q6_K-00002-of-00009.gguf",
+            "size": "29760863040",
+            "quantization": "",
+            "tags": [],
+            "sha256": "52782baa79681d07149157968ffdc282d5cbc5620feb6787af9bfc13b95976c0",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q6_K/grok-1-Q6_K-00002-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q6_K/grok-1-Q6_K-00003-of-00009.gguf",
+            "size": "29602397088",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0cd9d2114c88f3e7b3ed638810338bed08a87316da78a2ffd76e7cd27c49f78b",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q6_K/grok-1-Q6_K-00003-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q6_K/grok-1-Q6_K-00004-of-00009.gguf",
+            "size": "28508568448",
+            "quantization": "",
+            "tags": [],
+            "sha256": "95c8fa56380459437f2d03ad7de45d396d630e3463414c7f77abbea5f67beadd",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q6_K/grok-1-Q6_K-00004-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q6_K/grok-1-Q6_K-00005-of-00009.gguf",
+            "size": "29760863136",
+            "quantization": "",
+            "tags": [],
+            "sha256": "070236b33744501c6a5a4139a653741747733e7f85977a8fa532364a132bf8bc",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q6_K/grok-1-Q6_K-00005-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q6_K/grok-1-Q6_K-00006-of-00009.gguf",
+            "size": "29760863136",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1fd9f44949ab65fa798649f191ba4fb0ccd811706d316c5fd09c7a3a47fda22c",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q6_K/grok-1-Q6_K-00006-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q6_K/grok-1-Q6_K-00007-of-00009.gguf",
+            "size": "29175561120",
+            "quantization": "",
+            "tags": [],
+            "sha256": "09dd56c1e30ab3526b2aa728722ddeab2adf783cb0607e754278c04f58b8f407",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q6_K/grok-1-Q6_K-00007-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q6_K/grok-1-Q6_K-00008-of-00009.gguf",
+            "size": "28935404448",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e7facef2740602872ab3c9092d4096f401ff5e16b986cd18fae7f862d05415e7",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q6_K/grok-1-Q6_K-00008-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q6_K/grok-1-Q6_K-00009-of-00009.gguf",
+            "size": "23574687840",
+            "quantization": "",
+            "tags": [],
+            "sha256": "49b513cbf1caa03b1fdbad06dbf813a455a2a37d206eb06bb32707d16ee7644b",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q6_K/grok-1-Q6_K-00009-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q8_0/grok-1-Q8_0-00001-of-00009.gguf",
+            "size": "38950148800",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0a19013e212c995b12e0081981be2d74aa35994f68dd5cbff71e88bd5b57637c",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q8_0/grok-1-Q8_0-00001-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q8_0/grok-1-Q8_0-00002-of-00009.gguf",
+            "size": "38519159616",
+            "quantization": "",
+            "tags": [],
+            "sha256": "69e68afc072164558e28a144bf0c8e7c2355e3ac497850986160ccc8683e1e60",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q8_0/grok-1-Q8_0-00002-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q8_0/grok-1-Q8_0-00003-of-00009.gguf",
+            "size": "38311934880",
+            "quantization": "",
+            "tags": [],
+            "sha256": "547f882f2f42acba1c732d398b46f62b8a6095e78119989fabb4a6134a317344",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q8_0/grok-1-Q8_0-00003-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q8_0/grok-1-Q8_0-00004-of-00009.gguf",
+            "size": "36895079296",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c454221b00ad196e1fdd434921d34dd460e6377e4982245b9020ce69f8681159",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q8_0/grok-1-Q8_0-00004-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q8_0/grok-1-Q8_0-00005-of-00009.gguf",
+            "size": "38519159712",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f265434cf16d067afccf07ac335a5ad381131166ade1d44d7ece4049e4611b38",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q8_0/grok-1-Q8_0-00005-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q8_0/grok-1-Q8_0-00006-of-00009.gguf",
+            "size": "38519159712",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0e7d1f6b05ac1a59d1924e612638810157bc3c0b4ecef476236d18521040cd21",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q8_0/grok-1-Q8_0-00006-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q8_0/grok-1-Q8_0-00007-of-00009.gguf",
+            "size": "37757107104",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ee0816d8fdf92901d4913ea8e1a8e0130670e1749995dc713325e761efb786c7",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q8_0/grok-1-Q8_0-00007-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q8_0/grok-1-Q8_0-00008-of-00009.gguf",
+            "size": "37449907104",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fdee3969b8a5f82a8b0cf4b6989659da215b95e3240ab0c3e0bf63ac3b8f80b2",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q8_0/grok-1-Q8_0-00008-of-00009.gguf"
+            }
+        },
+        {
+            "name": "Q8_0/grok-1-Q8_0-00009-of-00009.gguf",
+            "size": "30510624864",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0f62071ae102f165afaf082d6349d71165a622b1ea20dfbaed05c4d7141e19df",
+            "download": {
+                "default": "https://huggingface.co/Arki05/Grok-1-GGUF/resolve/main/Q8_0/grok-1-Q8_0-00009-of-00009.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

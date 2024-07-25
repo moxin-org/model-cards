@@ -1,0 +1,63 @@
+{
+    "id": "BoB-KR/Solar_10.7b_GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "BoB-KR",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-28T00:44:58Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "solar10.7b_8q_0.gguf",
+            "size": "11404155392",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8b9b46a9f33b43cdd02d0f0c5a06f212211fa26efb45caf1b8f2bf537902d9bd",
+            "download": {
+                "default": "https://huggingface.co/BoB-KR/Solar_10.7b_GGUF/resolve/main/solar10.7b_8q_0.gguf"
+            }
+        },
+        {
+            "name": "solar10.7b_f16.gguf",
+            "size": "21464586752",
+            "quantization": "",
+            "tags": [],
+            "sha256": "515b6001990973b164def435dfc670ae6764c2e02c13b0c6a6471c11de59aa83",
+            "download": {
+                "default": "https://huggingface.co/BoB-KR/Solar_10.7b_GGUF/resolve/main/solar10.7b_f16.gguf"
+            }
+        },
+        {
+            "name": "solar10.7b-dpo-240102_f16.gguf",
+            "size": "21728063040",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6176913ab7c6249059f45c604b224bf216bb8b968695d0369037d8c86746ede4",
+            "download": {
+                "default": "https://huggingface.co/BoB-KR/Solar_10.7b_GGUF/resolve/main/solar10.7b-dpo-240102_f16.gguf"
+            }
+        },
+        {
+            "name": "solar10.7b-dpo-240102_q8_0.gguf",
+            "size": "11544751680",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6f532a57dcb88ba118f46e810c6fdb9eb2be62c0a0b06ab235f9339395dda6a8",
+            "download": {
+                "default": "https://huggingface.co/BoB-KR/Solar_10.7b_GGUF/resolve/main/solar10.7b-dpo-240102_q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

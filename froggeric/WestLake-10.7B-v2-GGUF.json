@@ -1,0 +1,63 @@
+{
+    "id": "froggeric/WestLake-10.7B-v2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "froggeric",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-11T20:10:52Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "WestLake-10.7b-v2-Q4_KS.gguf",
+            "size": "6118520992",
+            "quantization": "Q4_KS",
+            "tags": [],
+            "sha256": "8e0caa6816675390522a40eefb181044dbb409d05242f55a34bb68fa05e5dcc2",
+            "download": {
+                "default": "https://huggingface.co/froggeric/WestLake-10.7B-v2-GGUF/resolve/main/WestLake-10.7b-v2-Q4_KS.gguf"
+            }
+        },
+        {
+            "name": "WestLake-10.7b-v2-Q5_KS.gguf",
+            "size": "7397390496",
+            "quantization": "Q5_KS",
+            "tags": [],
+            "sha256": "8d64bb3633773a6f3c8539723444ad1935302330d8f6bf6b9ab871802a034ec8",
+            "download": {
+                "default": "https://huggingface.co/froggeric/WestLake-10.7B-v2-GGUF/resolve/main/WestLake-10.7b-v2-Q5_KS.gguf"
+            }
+        },
+        {
+            "name": "WestLake-10.7b-v2-Q6_K.gguf",
+            "size": "8805210272",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "e91d44c762b3e3c09df2227463419e676bca1adde35627f561c00328949d1c82",
+            "download": {
+                "default": "https://huggingface.co/froggeric/WestLake-10.7B-v2-GGUF/resolve/main/WestLake-10.7b-v2-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "WestLake-10.7b-v2-Q8_0.gguf",
+            "size": "11404155040",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "9e0cd56181e7ffb050ef587095fa8fbd48c0b9fb86080807ea2f1523f457bd17",
+            "download": {
+                "default": "https://huggingface.co/froggeric/WestLake-10.7B-v2-GGUF/resolve/main/WestLake-10.7b-v2-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

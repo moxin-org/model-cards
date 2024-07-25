@@ -1,0 +1,93 @@
+{
+    "id": "s3nh/vickt-LLama-chinese-med-chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-31T13:29:11Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "vickt-LLama-chinese-med-chat.Q2_K.gguf",
+            "size": "2825945440",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "ba51232cf6766aa1996377ac8fd0eea0177568ae4f55ce89367fc5276ca362c0",
+            "download": {
+                "default": "https://huggingface.co/s3nh/vickt-LLama-chinese-med-chat-GGUF/resolve/main/vickt-LLama-chinese-med-chat.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "vickt-LLama-chinese-med-chat.Q3_K_S.gguf",
+            "size": "2948309760",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "7293c64a329589cb436b71abf1f42bae8fbceac9390d2db7c42a6df33ce3f7ac",
+            "download": {
+                "default": "https://huggingface.co/s3nh/vickt-LLama-chinese-med-chat-GGUF/resolve/main/vickt-LLama-chinese-med-chat.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "vickt-LLama-chinese-med-chat.Q4_K_M.gguf",
+            "size": "4081009952",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c91df1a7b840f500c13ee297699f6650781477a85b4424386c53108c54d03370",
+            "download": {
+                "default": "https://huggingface.co/s3nh/vickt-LLama-chinese-med-chat-GGUF/resolve/main/vickt-LLama-chinese-med-chat.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "vickt-LLama-chinese-med-chat.Q4_K_S.gguf",
+            "size": "3856745760",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "1bcfc505b3a0d74a412b49533b2d1af6cb939cff0f5609b6f89f50db62bd5f3c",
+            "download": {
+                "default": "https://huggingface.co/s3nh/vickt-LLama-chinese-med-chat-GGUF/resolve/main/vickt-LLama-chinese-med-chat.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "vickt-LLama-chinese-med-chat.Q5_K_S.gguf",
+            "size": "4651697952",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "330374c5a5f3f66b6e12a678264d5dbd4113e4671a940c84009b04fc86a8f59f",
+            "download": {
+                "default": "https://huggingface.co/s3nh/vickt-LLama-chinese-med-chat-GGUF/resolve/main/vickt-LLama-chinese-med-chat.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "vickt-LLama-chinese-med-chat.Q6_K.gguf",
+            "size": "5529200960",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "449a39df0e3bde7ddf2a469b49cd76da360aa0bf7e961ada8ec73fdc8f92b48a",
+            "download": {
+                "default": "https://huggingface.co/s3nh/vickt-LLama-chinese-med-chat-GGUF/resolve/main/vickt-LLama-chinese-med-chat.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "vickt-LLama-chinese-med-chat.Q8_0.gguf",
+            "size": "7161098496",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "222c31e6f55c5504922d59591bd560599ff89bf27e99cc3d558dd7cbd62970f3",
+            "download": {
+                "default": "https://huggingface.co/s3nh/vickt-LLama-chinese-med-chat-GGUF/resolve/main/vickt-LLama-chinese-med-chat.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

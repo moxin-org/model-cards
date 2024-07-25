@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/Patronum-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-05T07:35:27Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "patronum-7b.Q3_K_S.gguf",
+            "size": "3164567200",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "dc19da272505e6eb9e55e8458f17c30bc2e4d001e4c75b8e2ec38470ccd7f084",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Patronum-7B-GGUF/resolve/main/patronum-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "patronum-7b.Q4_K_M.gguf",
+            "size": "4368438944",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "6b5f68e49baf5eb832865d33dec4a06df46dc0daf96965650929ded587c5db86",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Patronum-7B-GGUF/resolve/main/patronum-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "patronum-7b.Q5_K_M.gguf",
+            "size": "5131409056",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ca0c45d73a6c4afbe21bdaaff49c8c744bca3a419e28d1af565d9afdb5d861e1",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Patronum-7B-GGUF/resolve/main/patronum-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "patronum-7b.Q6_K.gguf",
+            "size": "5942064800",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "404c7252954acdb486438d179b00703d89a17e2cc1740211aadc8b4583c56c59",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Patronum-7B-GGUF/resolve/main/patronum-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "patronum-7b.Q8_0.gguf",
+            "size": "7695857312",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "dcf6a91bbec67cabc23009d29a31a969fa49730f5291528e0900ff2a70abbdbb",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Patronum-7B-GGUF/resolve/main/patronum-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

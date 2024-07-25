@@ -1,0 +1,53 @@
+{
+    "id": "gobean/Mixtral-8x7B-Instruct-v0.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "gobean",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-03T20:19:21Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-q3-k-m.gguf",
+            "size": "22544394144",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a5166cff188e084f0347251f81b57ba8a6f27a7873c559ee55b3d9bcbddd83b3",
+            "download": {
+                "default": "https://huggingface.co/gobean/Mixtral-8x7B-Instruct-v0.1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-q3-k-m.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-q4-k-m.gguf",
+            "size": "28446410656",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4a5b5e477ec345cbac78c9e12dfd02c57cc8ac36be78d480b97c85f2b6a27463",
+            "download": {
+                "default": "https://huggingface.co/gobean/Mixtral-8x7B-Instruct-v0.1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-q4-k-m.gguf"
+            }
+        },
+        {
+            "name": "Mixtral-8x7B-Instruct-v0.1-q5-k-m.gguf",
+            "size": "33227524000",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c637baafa25d7c5615aac0b96e0716d6ca0269b2f8247cf4207df63a1a9ef70c",
+            "download": {
+                "default": "https://huggingface.co/gobean/Mixtral-8x7B-Instruct-v0.1-GGUF/resolve/main/Mixtral-8x7B-Instruct-v0.1-q5-k-m.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

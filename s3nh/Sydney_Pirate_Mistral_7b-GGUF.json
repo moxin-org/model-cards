@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/Sydney_Pirate_Mistral_7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-19T09:00:38Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "sydney_pirate_mistral_7b.Q3_K_S.gguf",
+            "size": "3164577760",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "fb9c2fae9861e756954d66fabee307585bb10380492b59dc7dae5a47224541e7",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Sydney_Pirate_Mistral_7b-GGUF/resolve/main/sydney_pirate_mistral_7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "sydney_pirate_mistral_7b.Q4_K_M.gguf",
+            "size": "4368450592",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5f0ee104e1aa8243071877f9da5790261c995301fab9d413be3369b55fe87e3b",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Sydney_Pirate_Mistral_7b-GGUF/resolve/main/sydney_pirate_mistral_7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "sydney_pirate_mistral_7b.Q5_K_M.gguf",
+            "size": "5131421728",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "8ea09b5bc30e767972cffaee57fb020bce3f8c19629b9f4a7bfe33fd7f833064",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Sydney_Pirate_Mistral_7b-GGUF/resolve/main/sydney_pirate_mistral_7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "sydney_pirate_mistral_7b.Q6_K.gguf",
+            "size": "5942078560",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "68ae5e00294771ed66f61a2a9fa5fd58cb7888594339c440efd29903fdee07fb",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Sydney_Pirate_Mistral_7b-GGUF/resolve/main/sydney_pirate_mistral_7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "sydney_pirate_mistral_7b.Q8_0.gguf",
+            "size": "7695875040",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "1b67e5f505dc0c871e25e15cd6cb95f7967daacf2f09ffbbbbafeed13eb67b95",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Sydney_Pirate_Mistral_7b-GGUF/resolve/main/sydney_pirate_mistral_7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

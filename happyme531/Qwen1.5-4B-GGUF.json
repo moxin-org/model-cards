@@ -1,0 +1,63 @@
+{
+    "id": "happyme531/Qwen1.5-4B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "happyme531",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-11T15:49:48Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "qwen1.Q4_K_M.gguf",
+            "size": "2455115808",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "0d7a2835d257d20ced673734bc8c96564933b39d4f88a9ab60717eb595a63f7b",
+            "download": {
+                "default": "https://huggingface.co/happyme531/Qwen1.5-4B-GGUF/resolve/main/qwen1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "qwen1.Q5_K_M.gguf",
+            "size": "2839607328",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "883dc120e260bef3fd10fcab2905ea5bf59221cf539a2fe5c31d57057ea11cd4",
+            "download": {
+                "default": "https://huggingface.co/happyme531/Qwen1.5-4B-GGUF/resolve/main/qwen1.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "qwen1.Q6_K.gguf",
+            "size": "3248129568",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "78103b1bfa6be61d00df62b3514914a759c463b1ff5affc034c5ba7cc73a4ce4",
+            "download": {
+                "default": "https://huggingface.co/happyme531/Qwen1.5-4B-GGUF/resolve/main/qwen1.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "qwen1.Q8_0.gguf",
+            "size": "4204735008",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "0f3d01321a94e999ff9821f266943b50f5d3f573120d924729405a5088d4a052",
+            "download": {
+                "default": "https://huggingface.co/happyme531/Qwen1.5-4B-GGUF/resolve/main/qwen1.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

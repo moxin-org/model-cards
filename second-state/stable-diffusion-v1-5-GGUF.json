@@ -1,0 +1,93 @@
+{
+    "id": "second-state/stable-diffusion-v1-5-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-07-09T14:30:10Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "stable-diffusion-v1-5-pruned-emaonly-f16.gguf",
+            "size": "2132586944",
+            "quantization": "",
+            "tags": [],
+            "sha256": "da017009aa86a3f46468857d95833435fe55e4a2856afab76ba7722ef8ee4d8b",
+            "download": {
+                "default": "https://huggingface.co/second-state/stable-diffusion-v1-5-GGUF/resolve/main/stable-diffusion-v1-5-pruned-emaonly-f16.gguf"
+            }
+        },
+        {
+            "name": "stable-diffusion-v1-5-pruned-emaonly-f32.gguf",
+            "size": "4265059488",
+            "quantization": "",
+            "tags": [],
+            "sha256": "52c7ca39d8d48d6f44fa4ff2c44569f3c924d92311108cb38492958350d48ff8",
+            "download": {
+                "default": "https://huggingface.co/second-state/stable-diffusion-v1-5-GGUF/resolve/main/stable-diffusion-v1-5-pruned-emaonly-f32.gguf"
+            }
+        },
+        {
+            "name": "stable-diffusion-v1-5-pruned-emaonly-Q4_0.gguf",
+            "size": "1566768416",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "b8944e9fe0b69b36ae1b5bb0185b3a7b8ef14347fe0fa9af6c64c4829022261f",
+            "download": {
+                "default": "https://huggingface.co/second-state/stable-diffusion-v1-5-GGUF/resolve/main/stable-diffusion-v1-5-pruned-emaonly-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "stable-diffusion-v1-5-pruned-emaonly-Q4_1.gguf",
+            "size": "1591364896",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "2c2dae3edccb8b03e3b9afa00b2e1b30fde5273abfc0f1d950449ea34a23b61a",
+            "download": {
+                "default": "https://huggingface.co/second-state/stable-diffusion-v1-5-GGUF/resolve/main/stable-diffusion-v1-5-pruned-emaonly-Q4_1.gguf"
+            }
+        },
+        {
+            "name": "stable-diffusion-v1-5-pruned-emaonly-Q5_0.gguf",
+            "size": "1615967904",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "5d0dce31ee69e5c2e8f0e63f42e6da2ab932ce3b7c8799e3dd85c86c7337dff1",
+            "download": {
+                "default": "https://huggingface.co/second-state/stable-diffusion-v1-5-GGUF/resolve/main/stable-diffusion-v1-5-pruned-emaonly-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "stable-diffusion-v1-5-pruned-emaonly-Q5_1.gguf",
+            "size": "1640564256",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "b1342857c5d5ba796b7f4e8b23ed45981afe71e3ce440f226b51e7df5d9c1dd9",
+            "download": {
+                "default": "https://huggingface.co/second-state/stable-diffusion-v1-5-GGUF/resolve/main/stable-diffusion-v1-5-pruned-emaonly-Q5_1.gguf"
+            }
+        },
+        {
+            "name": "stable-diffusion-v1-5-pruned-emaonly-Q8_0.gguf",
+            "size": "1763578176",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "d0555243938c62faeefb4ac93f6c7a053ad373a4290c5256bce229aeb193bf94",
+            "download": {
+                "default": "https://huggingface.co/second-state/stable-diffusion-v1-5-GGUF/resolve/main/stable-diffusion-v1-5-pruned-emaonly-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

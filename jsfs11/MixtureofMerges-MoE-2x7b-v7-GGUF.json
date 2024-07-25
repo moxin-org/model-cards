@@ -1,0 +1,43 @@
+{
+    "id": "jsfs11/MixtureofMerges-MoE-2x7b-v7-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "jsfs11",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-31T07:14:03Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mixtureofmerges-moe-2x7b-v7.Q5_K_M-static.gguf",
+            "size": "9132259328",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7a30e30bf1b28a910fc0ee614d0dd9eb9caf0223114bd056b7da1420e06a08ed",
+            "download": {
+                "default": "https://huggingface.co/jsfs11/MixtureofMerges-MoE-2x7b-v7-GGUF/resolve/main/mixtureofmerges-moe-2x7b-v7.Q5_K_M-static.gguf"
+            }
+        },
+        {
+            "name": "mixtureofmerges-moe-2x7b-v7.Q5km-imatrix.gguf",
+            "size": "9132259360",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dc4cfac0d34b10912363330948cdc81808ad3465098eed9021fa024be2f14e12",
+            "download": {
+                "default": "https://huggingface.co/jsfs11/MixtureofMerges-MoE-2x7b-v7-GGUF/resolve/main/mixtureofmerges-moe-2x7b-v7.Q5km-imatrix.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

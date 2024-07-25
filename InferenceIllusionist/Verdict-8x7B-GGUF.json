@@ -1,0 +1,73 @@
+{
+    "id": "InferenceIllusionist/Verdict-8x7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "InferenceIllusionist",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-22T05:05:19Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Verdict-8x7B-IQ2_XS.gguf",
+            "size": "13669238144",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "03803bf1e98d9f7a2306989f3a74912152ddbfe216a560bad2d5953872d8cf87",
+            "download": {
+                "default": "https://huggingface.co/InferenceIllusionist/Verdict-8x7B-GGUF/resolve/main/Verdict-8x7B-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Verdict-8x7B-IQ2_XXS.gguf",
+            "size": "12280890752",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "039aab901929035bd1253f12e2cec1d725e1104b028ee4fb9aeaa80080c5c730",
+            "download": {
+                "default": "https://huggingface.co/InferenceIllusionist/Verdict-8x7B-GGUF/resolve/main/Verdict-8x7B-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "Verdict-8x7B-IQ3_XXS.gguf",
+            "size": "18307081600",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "160467c5b2e95cd857aa19428ce5e3e4d451bf1129ecaa740730819dd4ef4075",
+            "download": {
+                "default": "https://huggingface.co/InferenceIllusionist/Verdict-8x7B-GGUF/resolve/main/Verdict-8x7B-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "Verdict-8x7B-Q5_K_M.gguf",
+            "size": "33226147200",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "013ffa815ecc17fdb4664b80139efe50e30951302c35c514d938e260773dd6e9",
+            "download": {
+                "default": "https://huggingface.co/InferenceIllusionist/Verdict-8x7B-GGUF/resolve/main/Verdict-8x7B-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Verdict-8x7B-Q8_0.gguf",
+            "size": "49623278976",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "4949564217efd8e93a36446ee7bf370128409704b3e0adb7b75ef1cd5a18144e",
+            "download": {
+                "default": "https://huggingface.co/InferenceIllusionist/Verdict-8x7B-GGUF/resolve/main/Verdict-8x7B-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

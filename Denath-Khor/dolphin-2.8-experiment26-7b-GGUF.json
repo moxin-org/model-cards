@@ -1,0 +1,43 @@
+{
+    "id": "Denath-Khor/dolphin-2.8-experiment26-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Denath-Khor",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-19T19:07:34Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "dolphin-2.8-experiment26-7b.Q4_K_M.gguf",
+            "size": "4368451008",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "6bd142edc06be9cd80472fb91a325fd4e6cd630332cf7cfe20014c0bc21f670b",
+            "download": {
+                "default": "https://huggingface.co/Denath-Khor/dolphin-2.8-experiment26-7b-GGUF/resolve/main/dolphin-2.8-experiment26-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.8-experiment26-7b.Q8_0.gguf",
+            "size": "7695875456",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "3b32b2b2adb50a21fea515657897324fa2876ad60a774bbede52ea77c27297ad",
+            "download": {
+                "default": "https://huggingface.co/Denath-Khor/dolphin-2.8-experiment26-7b-GGUF/resolve/main/dolphin-2.8-experiment26-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

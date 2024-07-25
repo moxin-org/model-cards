@@ -1,0 +1,43 @@
+{
+    "id": "TriadParty/deepsex-34b-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TriadParty",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-06T06:02:38Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-q4_0.gguf",
+            "size": "19466528768",
+            "quantization": "",
+            "tags": [],
+            "sha256": "39898396b7232470260615e0c787804aa6781ec1aa3d97203cd30db8feb22c6f",
+            "download": {
+                "default": "https://huggingface.co/TriadParty/deepsex-34b-gguf/resolve/main/ggml-model-q4_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q8_0.gguf",
+            "size": "36542281728",
+            "quantization": "",
+            "tags": [],
+            "sha256": "84aa170c16ada0cfc5656e571f8d7890df3b8d778d37b82b32ffc2a9b20865b7",
+            "download": {
+                "default": "https://huggingface.co/TriadParty/deepsex-34b-gguf/resolve/main/ggml-model-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

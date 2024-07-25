@@ -1,0 +1,153 @@
+{
+    "id": "mzwing/phixtral-4x2_8odd-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mzwing",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-25T09:35:15Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "phixtral-4x2_8odd.F16.gguf",
+            "size": "8920508160",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ccc8282c2d85aa50b9ae43ead282bf125a0f17028071b25b2ec5d76be3fbb022",
+            "download": {
+                "default": "https://huggingface.co/mzwing/phixtral-4x2_8odd-GGUF/resolve/main/phixtral-4x2_8odd.F16.gguf"
+            }
+        },
+        {
+            "name": "phixtral-4x2_8odd.Q2_K.gguf",
+            "size": "1726088992",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "3c021cd4f78f63b80509767b4ecb923877758d6ba165a3e6968e878e330afdb9",
+            "download": {
+                "default": "https://huggingface.co/mzwing/phixtral-4x2_8odd-GGUF/resolve/main/phixtral-4x2_8odd.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "phixtral-4x2_8odd.Q3_K_L.gguf",
+            "size": "2543855392",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "16bcdc70f59439d1985587365a9e7124591334e1f8110f11f0241aa806461ed8",
+            "download": {
+                "default": "https://huggingface.co/mzwing/phixtral-4x2_8odd-GGUF/resolve/main/phixtral-4x2_8odd.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "phixtral-4x2_8odd.Q3_K_M.gguf",
+            "size": "2334140192",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ab9da647c1e4fef627a9aa85704e8b2be37ff078e434d74d89203e8fd9b7ba84",
+            "download": {
+                "default": "https://huggingface.co/mzwing/phixtral-4x2_8odd-GGUF/resolve/main/phixtral-4x2_8odd.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "phixtral-4x2_8odd.Q3_K_S.gguf",
+            "size": "1973692192",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "c6ca5bdcb4bb60dfe42fa2a6f48b6ef6e995541cf2d6e4a63f7ba12251d6f72a",
+            "download": {
+                "default": "https://huggingface.co/mzwing/phixtral-4x2_8odd-GGUF/resolve/main/phixtral-4x2_8odd.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "phixtral-4x2_8odd.Q4_0.gguf",
+            "size": "2548156192",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "9f919c3f04fa29693139469c801aaa4e202276319e401d77577741daa11db391",
+            "download": {
+                "default": "https://huggingface.co/mzwing/phixtral-4x2_8odd-GGUF/resolve/main/phixtral-4x2_8odd.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "phixtral-4x2_8odd.Q4_K_M.gguf",
+            "size": "2843068192",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "dee453daaf8ddcf85892689bfa68ee990a0d948a5b6289133225bfa56fdd066f",
+            "download": {
+                "default": "https://huggingface.co/mzwing/phixtral-4x2_8odd-GGUF/resolve/main/phixtral-4x2_8odd.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "phixtral-4x2_8odd.Q4_K_S.gguf",
+            "size": "2600584992",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "095fa4586cd8418e10d0664b6acc7fef648126df5668d60d39849bc4e4edd4f1",
+            "download": {
+                "default": "https://huggingface.co/mzwing/phixtral-4x2_8odd-GGUF/resolve/main/phixtral-4x2_8odd.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "phixtral-4x2_8odd.Q5_0.gguf",
+            "size": "3088828192",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "7ab703df858d9c4ddfb4b24fd0ee1f647051e1d3c362e056f027bbae3b170ca1",
+            "download": {
+                "default": "https://huggingface.co/mzwing/phixtral-4x2_8odd-GGUF/resolve/main/phixtral-4x2_8odd.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "phixtral-4x2_8odd.Q5_K_M.gguf",
+            "size": "3283797792",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "a9dc6c1d8e0531848e34cb9a5d1bc76ce79577d29f727c5f941294b1990ad827",
+            "download": {
+                "default": "https://huggingface.co/mzwing/phixtral-4x2_8odd-GGUF/resolve/main/phixtral-4x2_8odd.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "phixtral-4x2_8odd.Q5_K_S.gguf",
+            "size": "3088828192",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "a5c5a51f09ea3cc95c650cbd913819e2159f6b6a00904b0e5912d4ba1ca5a9f1",
+            "download": {
+                "default": "https://huggingface.co/mzwing/phixtral-4x2_8odd-GGUF/resolve/main/phixtral-4x2_8odd.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "phixtral-4x2_8odd.Q6_K.gguf",
+            "size": "3663292192",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "52146294a6b37f62523ef068b2011af32b9b0f34b3d6059708e951140234af42",
+            "download": {
+                "default": "https://huggingface.co/mzwing/phixtral-4x2_8odd-GGUF/resolve/main/phixtral-4x2_8odd.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "phixtral-4x2_8odd.Q8_0.gguf",
+            "size": "4742588192",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "1c9fa5329370bb14cb8cc534b6525950b9059f6c7f06b8fb5d8fe6af74d125fd",
+            "download": {
+                "default": "https://huggingface.co/mzwing/phixtral-4x2_8odd-GGUF/resolve/main/phixtral-4x2_8odd.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,63 @@
+{
+    "id": "janhq/tulpar-7b-v2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "janhq",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-09T07:37:42Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tulpar-7b-v2.Q3_K_M.gguf",
+            "size": "3518985856",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "5ab9212bbee3799672d3324e2e800300be3bb46ed2df0b8c0f2e8d6f8785d2a9",
+            "download": {
+                "default": "https://huggingface.co/janhq/tulpar-7b-v2-GGUF/resolve/main/tulpar-7b-v2.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "tulpar-7b-v2.Q4_K_M.gguf",
+            "size": "4368438912",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "b5d0a5416484543a6b495a38571a165152d0f06e8c882e40484135b8679b9663",
+            "download": {
+                "default": "https://huggingface.co/janhq/tulpar-7b-v2-GGUF/resolve/main/tulpar-7b-v2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "tulpar-7b-v2.Q5_K_M.gguf",
+            "size": "5131409024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "6452368b60a99d6af44a56aeb2b671757e7fa5c5b9d949878e3a2b0556a5ca99",
+            "download": {
+                "default": "https://huggingface.co/janhq/tulpar-7b-v2-GGUF/resolve/main/tulpar-7b-v2.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "tulpar-7b-v2.Q8_0.gguf",
+            "size": "7695857280",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "40375c61769e51f4fbe7ce17bbb105d8a53821d6e45275c76cf2bda5201eac80",
+            "download": {
+                "default": "https://huggingface.co/janhq/tulpar-7b-v2-GGUF/resolve/main/tulpar-7b-v2.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

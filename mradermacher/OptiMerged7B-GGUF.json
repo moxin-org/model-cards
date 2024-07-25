@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/OptiMerged7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-21T10:13:11Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "OptiMerged7B.IQ3_M.gguf",
+            "size": "3439515328",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "49a4e467dd06c64f9ea4b7b011af757df960ff76d8becc25d6a7dc206987273b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OptiMerged7B-GGUF/resolve/main/OptiMerged7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "OptiMerged7B.IQ3_S.gguf",
+            "size": "3337017024",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "a732ab0ec7d48f96c5dfce834da544fb23a7f46a5cbc66e3c364e8939967e0c4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OptiMerged7B-GGUF/resolve/main/OptiMerged7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "OptiMerged7B.IQ3_XS.gguf",
+            "size": "3155613376",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "0c00f3036aa5d3831a2de57edceee7f8d01b0047e7bc988a4c202fb364f4c90c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OptiMerged7B-GGUF/resolve/main/OptiMerged7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "OptiMerged7B.IQ4_XS.gguf",
+            "size": "4099012288",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "19b278cc890704240a1582104b143f03726d952ad23903b70350a985c2be7ea4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OptiMerged7B-GGUF/resolve/main/OptiMerged7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "OptiMerged7B.Q2_K.gguf",
+            "size": "2873865920",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "da511a9b107986164af198bfab56be777e797fa041faaa0fcba5e325aeea5dc8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OptiMerged7B-GGUF/resolve/main/OptiMerged7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "OptiMerged7B.Q3_K_L.gguf",
+            "size": "3976648384",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "8ffbcaea4b729b1ea1f072fe5ff7d2f390408f1e82e4048ebf31e317f8c2745e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OptiMerged7B-GGUF/resolve/main/OptiMerged7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "OptiMerged7B.Q3_K_M.gguf",
+            "size": "3673609920",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e8e13f13974d26ec7760528f126ce3787287a737371f121ec27301d28c9d3c10",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OptiMerged7B-GGUF/resolve/main/OptiMerged7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "OptiMerged7B.Q3_K_S.gguf",
+            "size": "3319191232",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "b005157cb6e8996cc08da88324b7c3ebf476819412b8e27d90c21cf44c42bdb8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OptiMerged7B-GGUF/resolve/main/OptiMerged7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "OptiMerged7B.Q4_K_M.gguf",
+            "size": "4523062976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a0d9fd8356e0ddb51166de744b2e0848cc8974455f3dbe44cb9a25dd005e9dc3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OptiMerged7B-GGUF/resolve/main/OptiMerged7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "OptiMerged7B.Q4_K_S.gguf",
+            "size": "4294997696",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "280b32439ecb646bffa4aaac48499151b3cb1601a7cc833b909149700b8af14e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OptiMerged7B-GGUF/resolve/main/OptiMerged7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "OptiMerged7B.Q5_K_M.gguf",
+            "size": "5286033088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ac6ccb8154273e6a7d6719d7fcd135453beb2a47d7ed387fce23d5b784c8504f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OptiMerged7B-GGUF/resolve/main/OptiMerged7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "OptiMerged7B.Q5_K_S.gguf",
+            "size": "5152339648",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "2fbc693539adf83ee14c700adda973c79ac6d271c2ba7eca6468d3c6b652147e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OptiMerged7B-GGUF/resolve/main/OptiMerged7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "OptiMerged7B.Q6_K.gguf",
+            "size": "6096688832",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "83367fc78fb148423761ce19a65339e44d35e98e8f8a16f29f24b676b1282dc5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OptiMerged7B-GGUF/resolve/main/OptiMerged7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "OptiMerged7B.Q8_0.gguf",
+            "size": "7818737344",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "d3c198a2c9d3fb3c0db5bdaa17626acfe407836e53c7225233881e3b6a7c5afb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OptiMerged7B-GGUF/resolve/main/OptiMerged7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

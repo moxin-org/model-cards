@@ -1,0 +1,83 @@
+{
+    "id": "CultriX/NeuralTrixlaser-bf16-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "CultriX",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-15T09:24:14Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "neuraltrixlaser-bf16.Q4_K_M.gguf",
+            "size": "4368438912",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "434500816ff0f71f5bb4469ce0640923f7aa7e52659cb8e2840fc14f40a42463",
+            "download": {
+                "default": "https://huggingface.co/CultriX/NeuralTrixlaser-bf16-GGUF/resolve/main/neuraltrixlaser-bf16.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "neuraltrixlaser-bf16.Q4_K_S.gguf",
+            "size": "4140373632",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "b4ef42d307d0934c1561a8b54ac68ed0c94bfa4faab915feb4075a53de4f55fd",
+            "download": {
+                "default": "https://huggingface.co/CultriX/NeuralTrixlaser-bf16-GGUF/resolve/main/neuraltrixlaser-bf16.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "neuraltrixlaser-bf16.Q5_K_M.gguf",
+            "size": "5131409024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "2f0d7645cfef2c9cb7c6378e153e72493c37a500fe991f891208c61e96dade31",
+            "download": {
+                "default": "https://huggingface.co/CultriX/NeuralTrixlaser-bf16-GGUF/resolve/main/neuraltrixlaser-bf16.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "neuraltrixlaser-bf16.Q5_K_S.gguf",
+            "size": "4997715584",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "7e5c729f59aebcfe1ea02c8bd9ebceab2d631552fc67f627ceaf9a20e86f8932",
+            "download": {
+                "default": "https://huggingface.co/CultriX/NeuralTrixlaser-bf16-GGUF/resolve/main/neuraltrixlaser-bf16.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "neuraltrixlaser-bf16.Q6_K.gguf",
+            "size": "5942064768",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "5f623207b50bab8536e37a17cf64797c294e9e9bf47e8d791e7800ce91018c69",
+            "download": {
+                "default": "https://huggingface.co/CultriX/NeuralTrixlaser-bf16-GGUF/resolve/main/neuraltrixlaser-bf16.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "neuraltrixlaser-bf16.Q8_0.gguf",
+            "size": "7695857280",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "5ee7f2ee31f14a1fb54d580f57be096f3687fd7b5a43b802301c4b3267eaeff0",
+            "download": {
+                "default": "https://huggingface.co/CultriX/NeuralTrixlaser-bf16-GGUF/resolve/main/neuraltrixlaser-bf16.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

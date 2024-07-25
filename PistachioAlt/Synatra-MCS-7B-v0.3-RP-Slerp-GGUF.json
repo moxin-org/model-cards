@@ -1,0 +1,53 @@
+{
+    "id": "PistachioAlt/Synatra-MCS-7B-v0.3-RP-Slerp-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "PistachioAlt",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-14T07:09:11Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Synatra-MCS-7B-v0.3-RP-Slerp-Q4_K_S.gguf",
+            "size": "4140373696",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "11acce7c51ae6e83f7781d53e2ec98933ff6f79232d8378aa58f272b730dab94",
+            "download": {
+                "default": "https://huggingface.co/PistachioAlt/Synatra-MCS-7B-v0.3-RP-Slerp-GGUF/resolve/main/Synatra-MCS-7B-v0.3-RP-Slerp-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Synatra-MCS-7B-v0.3-RP-Slerp-Q5_K_M.gguf",
+            "size": "5131409088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ae6dbd666faf3c057f6c9959a8f92f94cb925728dd36710b55d1de5bca3f1815",
+            "download": {
+                "default": "https://huggingface.co/PistachioAlt/Synatra-MCS-7B-v0.3-RP-Slerp-GGUF/resolve/main/Synatra-MCS-7B-v0.3-RP-Slerp-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Synatra-MCS-7B-v0.3-RP-Slerp-Q8_0.gguf",
+            "size": "7695857344",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "ca132a163c7486bd6db2fc787e1e741795b3874f1dcbb9156dc22f2bfbcfd85d",
+            "download": {
+                "default": "https://huggingface.co/PistachioAlt/Synatra-MCS-7B-v0.3-RP-Slerp-GGUF/resolve/main/Synatra-MCS-7B-v0.3-RP-Slerp-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

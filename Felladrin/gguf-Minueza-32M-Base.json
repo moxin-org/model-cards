@@ -1,0 +1,43 @@
+{
+    "id": "Felladrin/gguf-Minueza-32M-Base",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Felladrin",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-26T19:21:33Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Minueza-32M-Base.F16.gguf",
+            "size": "66322016",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d5de2cdc924ca5adb28bc47ec6989f111e976b2f0cdd39d93da9eb150332f2be",
+            "download": {
+                "default": "https://huggingface.co/Felladrin/gguf-Minueza-32M-Base/resolve/main/Minueza-32M-Base.F16.gguf"
+            }
+        },
+        {
+            "name": "Minueza-32M-Base.F32.gguf",
+            "size": "131894432",
+            "quantization": "",
+            "tags": [],
+            "sha256": "351c4640a102f7e0e5d4f9988dff354ba20e1bcdb724ed6bea560e82cb0ef0b2",
+            "download": {
+                "default": "https://huggingface.co/Felladrin/gguf-Minueza-32M-Base/resolve/main/Minueza-32M-Base.F32.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

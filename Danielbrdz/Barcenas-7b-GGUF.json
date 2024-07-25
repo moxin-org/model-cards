@@ -1,0 +1,53 @@
+{
+    "id": "Danielbrdz/Barcenas-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Danielbrdz",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-08-27T19:46:32Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Barcenas-7b-f16.gguf",
+            "size": "13477973504",
+            "quantization": "",
+            "tags": [],
+            "sha256": "280dea7eddca9ca7ba77a5da8cd59a706277e29453d8956e6a143c2936bdc1a3",
+            "download": {
+                "default": "https://huggingface.co/Danielbrdz/Barcenas-7b-GGUF/resolve/main/Barcenas-7b-f16.gguf"
+            }
+        },
+        {
+            "name": "Barcenas-7b-f32.gguf",
+            "size": "26954272256",
+            "quantization": "",
+            "tags": [],
+            "sha256": "57fd9f694cbab3f7864f956b9819b17c39b905d4145a364ffd633f2552c85fe6",
+            "download": {
+                "default": "https://huggingface.co/Danielbrdz/Barcenas-7b-GGUF/resolve/main/Barcenas-7b-f32.gguf"
+            }
+        },
+        {
+            "name": "Barcenas-7b.Q5_K_S.gguf",
+            "size": "4651560352",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "02ff9ccbd82fe7f8cd760670ed8f3db2146a0e846d299527664e1058c7e8e6a9",
+            "download": {
+                "default": "https://huggingface.co/Danielbrdz/Barcenas-7b-GGUF/resolve/main/Barcenas-7b.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

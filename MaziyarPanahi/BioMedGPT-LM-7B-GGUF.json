@@ -1,0 +1,133 @@
+{
+    "id": "MaziyarPanahi/BioMedGPT-LM-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "MaziyarPanahi",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-17T13:03:46Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "BioMedGPT-LM-7B.IQ4_XS.gguf",
+            "size": "3647516512",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "68da4115b4f721e3987ecf11dcea815cbe8c4edfccf804d0338459515956d93d",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/BioMedGPT-LM-7B-GGUF/resolve/main/BioMedGPT-LM-7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "BioMedGPT-LM-7B.Q2_K.gguf",
+            "size": "2532863840",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "2ed6d2673936924c20982689fa3cab3078244d178a31a15671082315f4fcf482",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/BioMedGPT-LM-7B-GGUF/resolve/main/BioMedGPT-LM-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "BioMedGPT-LM-7B.Q3_K_L.gguf",
+            "size": "3597111136",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "5341113f9cfcbcabaeed27422b1b5085b31152e126b7ed4f90c0dc3fdf2b30f3",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/BioMedGPT-LM-7B-GGUF/resolve/main/BioMedGPT-LM-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "BioMedGPT-LM-7B.Q3_K_M.gguf",
+            "size": "3298004832",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e6d95a7c4e0c7e45b140cd9f04e5eac0d873fa4d4390e35bf135f25637df5f38",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/BioMedGPT-LM-7B-GGUF/resolve/main/BioMedGPT-LM-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "BioMedGPT-LM-7B.Q3_K_S.gguf",
+            "size": "2948304736",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "7a5de1a117f4ea9ebd755adb5488d7627e8464e8b72b979e8b358898908f1e9e",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/BioMedGPT-LM-7B-GGUF/resolve/main/BioMedGPT-LM-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "BioMedGPT-LM-7B.Q4_K_M.gguf",
+            "size": "4081004384",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4e270670b4273fd9879fe645548828c1eb3d20824ebfa95a334ee9b5870b5fd9",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/BioMedGPT-LM-7B-GGUF/resolve/main/BioMedGPT-LM-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "BioMedGPT-LM-7B.Q4_K_S.gguf",
+            "size": "3856740192",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "14b32be3bb59124851dcd9baa4e06213053f0674bce2cc4fcb60ba3b7454f9ac",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/BioMedGPT-LM-7B-GGUF/resolve/main/BioMedGPT-LM-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "BioMedGPT-LM-7B.Q5_K_M.gguf",
+            "size": "4783157088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "030a5e81a7972835bb633daea6a2fa519e55938506b5d28c52c0d36706e35103",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/BioMedGPT-LM-7B-GGUF/resolve/main/BioMedGPT-LM-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "BioMedGPT-LM-7B.Q5_K_S.gguf",
+            "size": "4651691872",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "98edd78cdfb655455812ff566078fb6f49c40025ec575972101386f2d6ff632c",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/BioMedGPT-LM-7B-GGUF/resolve/main/BioMedGPT-LM-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "BioMedGPT-LM-7B.Q6_K.gguf",
+            "size": "5529194336",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "f675b96c2ab940dbe573249f7ce509039e25c43f024d1179e20c34623ffd0767",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/BioMedGPT-LM-7B-GGUF/resolve/main/BioMedGPT-LM-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "BioMedGPT-LM-7B.Q8_0.gguf",
+            "size": "7161089888",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "be72e8a63da13082d2ebf8b7598f7a10f05015cbddd7cba2ee2482fc88b3e821",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/BioMedGPT-LM-7B-GGUF/resolve/main/BioMedGPT-LM-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

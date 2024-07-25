@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/mistral-7b-lamia-v0.1b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-22T06:58:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistral-7b-lamia-v0.1b.Q3_K_S.gguf",
+            "size": "3164578016",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "f19d85ed402aa1c6ca3e82a846e1500e426ff2d90227638ff72fee4c892cc961",
+            "download": {
+                "default": "https://huggingface.co/s3nh/mistral-7b-lamia-v0.1b-GGUF/resolve/main/mistral-7b-lamia-v0.1b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-lamia-v0.1b.Q4_K_M.gguf",
+            "size": "4368450848",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "23a0fa58066b92a435022f42f1a2d89a6f891ed5aac81171187a18a38c2d145f",
+            "download": {
+                "default": "https://huggingface.co/s3nh/mistral-7b-lamia-v0.1b-GGUF/resolve/main/mistral-7b-lamia-v0.1b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-lamia-v0.1b.Q5_K_M.gguf",
+            "size": "5131421984",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e1ba40f0fb2bec2287433b6f58fa30725061eb44444ff8e0dd054f070d0df1d0",
+            "download": {
+                "default": "https://huggingface.co/s3nh/mistral-7b-lamia-v0.1b-GGUF/resolve/main/mistral-7b-lamia-v0.1b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-lamia-v0.1b.Q6_K.gguf",
+            "size": "5942078816",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "53397d1b1ff2d41b894ca82dc05055d5d85ada35128539cd9be1a8cfb47c50a3",
+            "download": {
+                "default": "https://huggingface.co/s3nh/mistral-7b-lamia-v0.1b-GGUF/resolve/main/mistral-7b-lamia-v0.1b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "mistral-7b-lamia-v0.1b.Q8_0.gguf",
+            "size": "7695875296",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "84c58f385b4f76832b13f7b4460b6c84f51d4c160b6966b0890bc8791b52f509",
+            "download": {
+                "default": "https://huggingface.co/s3nh/mistral-7b-lamia-v0.1b-GGUF/resolve/main/mistral-7b-lamia-v0.1b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

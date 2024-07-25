@@ -1,0 +1,43 @@
+{
+    "id": "fbellame/mistral-pdf-to-quizz-7b.gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "fbellame",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-07T00:20:21Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistral-pdf-to-quizz-7b_q4_k_m.gguf",
+            "size": "4368439488",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8dd3fc5f473cf7735720713eb05a78ce6eeb810b34bb4c06ec019f942ad5c85f",
+            "download": {
+                "default": "https://huggingface.co/fbellame/mistral-pdf-to-quizz-7b.gguf/resolve/main/mistral-pdf-to-quizz-7b_q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "mistral-pdf-to-quizz-7b.qt8.gguf",
+            "size": "7695857824",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f9090cd033aea0aabf1a7b0cc8da8ca2046ff47157fa94471c921dc3e1f46d17",
+            "download": {
+                "default": "https://huggingface.co/fbellame/mistral-pdf-to-quizz-7b.gguf/resolve/main/mistral-pdf-to-quizz-7b.qt8.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

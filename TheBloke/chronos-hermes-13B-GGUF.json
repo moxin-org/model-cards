@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/chronos-hermes-13B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-20T01:25:49Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "chronos-hermes-13b.Q2_K.gguf",
+            "size": "5429354208",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "be923a1be4b6f7941ea439a61bbb806fe34516bea7f8bcd10b9d7ffe943e0003",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/chronos-hermes-13B-GGUF/resolve/main/chronos-hermes-13b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "chronos-hermes-13b.Q3_K_L.gguf",
+            "size": "6929565920",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "1b47cf685c756fd3b0774b648d2a497d8c24cb0b207554b2bbd8ce58e61ca5b9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/chronos-hermes-13B-GGUF/resolve/main/chronos-hermes-13b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "chronos-hermes-13b.Q3_K_M.gguf",
+            "size": "6337775840",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "df5844aafc15afd69403963b46374d236e9b08f494fc0f064c36b69fd7b71996",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/chronos-hermes-13B-GGUF/resolve/main/chronos-hermes-13b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "chronos-hermes-13b.Q3_K_S.gguf",
+            "size": "5658986720",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "c0e0e80f3b25fb032c05c6a1893f3b1467012e612292f53b729b504a810471ec",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/chronos-hermes-13B-GGUF/resolve/main/chronos-hermes-13b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "chronos-hermes-13b.Q4_0.gguf",
+            "size": "7365841792",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "9d1d72fec9a0de0961bbff5dc9f21ba3a904a06a78c46b21a34f3f781926acb5",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/chronos-hermes-13B-GGUF/resolve/main/chronos-hermes-13b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "chronos-hermes-13b.Q4_K_M.gguf",
+            "size": "7865963392",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4e31f6b9233384e00f3f49d09d880a0188a3f4054ee050abab7bceac67daacaa",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/chronos-hermes-13B-GGUF/resolve/main/chronos-hermes-13b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "chronos-hermes-13b.Q4_K_S.gguf",
+            "size": "7414338432",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "014e4b5f089e3f96184d5ff2e5d4205c16076fc5aa42c6216a7a680c6efe077d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/chronos-hermes-13B-GGUF/resolve/main/chronos-hermes-13b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "chronos-hermes-13b.Q5_0.gguf",
+            "size": "8972293632",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "1e413d7f767dbb40f97b157812c1a49e1e50b9fb47ef0ab7619070136ddde601",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/chronos-hermes-13B-GGUF/resolve/main/chronos-hermes-13b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "chronos-hermes-13b.Q5_K_M.gguf",
+            "size": "9229932032",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "1a2f54c3f031db22b172b61cc4da7f520d0a5bc9ed4011c404d0ef9d010fb64c",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/chronos-hermes-13B-GGUF/resolve/main/chronos-hermes-13b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "chronos-hermes-13b.Q5_K_S.gguf",
+            "size": "8972293632",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "6025a744de9498ed4e89496367c92f031a63f7b3d85372d63766de6babc1f9a5",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/chronos-hermes-13B-GGUF/resolve/main/chronos-hermes-13b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "chronos-hermes-13b.Q6_K.gguf",
+            "size": "10679148736",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "3afdd50c5ff5265e10d868040e2f785930bae2270804aa497282a44f29c81fe0",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/chronos-hermes-13B-GGUF/resolve/main/chronos-hermes-13b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "chronos-hermes-13b.Q8_0.gguf",
+            "size": "13831330368",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "cc8dd77d3a741947fa91c269c7dbb268826c6bc4379fa42adf8d5f5608f9e84b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/chronos-hermes-13B-GGUF/resolve/main/chronos-hermes-13b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

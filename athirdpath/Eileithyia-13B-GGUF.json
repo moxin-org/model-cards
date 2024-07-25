@@ -1,0 +1,53 @@
+{
+    "id": "athirdpath/Eileithyia-13B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "athirdpath",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-13T04:23:56Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Eileithyia-13B.fp16.gguf",
+            "size": "26033303424",
+            "quantization": "",
+            "tags": [],
+            "sha256": "32da4ab756f2695309e4ecdd8e0fecd58b8211be44a0aeb43b3f009382bb8fc3",
+            "download": {
+                "default": "https://huggingface.co/athirdpath/Eileithyia-13B-GGUF/resolve/main/Eileithyia-13B.fp16.gguf"
+            }
+        },
+        {
+            "name": "Eileithyia-13B.q5_k_m.gguf",
+            "size": "9229924288",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8a3e9cbb0d64f97654723165e422a29783bf861a335e74e27b0afb9dda4f80cb",
+            "download": {
+                "default": "https://huggingface.co/athirdpath/Eileithyia-13B-GGUF/resolve/main/Eileithyia-13B.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "Eileithyia-13B.q8_0.gguf",
+            "size": "13831319488",
+            "quantization": "",
+            "tags": [],
+            "sha256": "327ca70863c1e1c84e6e070b7ece91378682172516d0ab21a0891cc08de1a28d",
+            "download": {
+                "default": "https://huggingface.co/athirdpath/Eileithyia-13B-GGUF/resolve/main/Eileithyia-13B.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

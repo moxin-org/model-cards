@@ -1,0 +1,63 @@
+{
+    "id": "Undi95/Mistral-11B-OmniMix-bf16-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Undi95",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-12T17:24:22Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Mistral-11B-OmniMix-bf16.q4_k_m.gguf",
+            "size": "6461667360",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8a2b0b4ff17c6511aa9f82ce7e81978b0904e1a2cfa94381663cf6c0a998a29d",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-11B-OmniMix-bf16-GGUF/resolve/main/Mistral-11B-OmniMix-bf16.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "Mistral-11B-OmniMix-bf16.q5_k_m.gguf",
+            "size": "7597930528",
+            "quantization": "",
+            "tags": [],
+            "sha256": "df2da35b5b287eb0f4dc2d0820713712cdd900e3245cca7146b771c6fce586f1",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-11B-OmniMix-bf16-GGUF/resolve/main/Mistral-11B-OmniMix-bf16.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "Mistral-11B-OmniMix-bf16.q6_k.gguf",
+            "size": "8805210144",
+            "quantization": "",
+            "tags": [],
+            "sha256": "09c6efbec8fad64dc941067e60f9c7b3dded8d2c03eacaec6ecca030973a6a4a",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-11B-OmniMix-bf16-GGUF/resolve/main/Mistral-11B-OmniMix-bf16.q6_k.gguf"
+            }
+        },
+        {
+            "name": "Mistral-11B-OmniMix-bf16.q8_0.gguf",
+            "size": "11404154912",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2a10cd2cd2c87870c182b703fa4665b67087e1bb6f54e5afb2ac6c8a9213a7ab",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-11B-OmniMix-bf16-GGUF/resolve/main/Mistral-11B-OmniMix-bf16.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

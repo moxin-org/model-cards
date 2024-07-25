@@ -1,0 +1,233 @@
+{
+    "id": "mradermacher/Iambe-RP-DARE-20b-DENSE-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-24T20:16:58Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Iambe-RP-DARE-20b-DENSE.i1-IQ4_XS.gguf",
+            "size": "10865622560",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "ec7296e8dc296cb189cac9fc5ce4a6fe310ecb0293287d00ab11180aff59fdd1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Iambe-RP-DARE-20b-DENSE-i1-GGUF/resolve/main/Iambe-RP-DARE-20b-DENSE.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Iambe-RP-DARE-20b-DENSE.i1-Q6_K.gguf",
+            "size": "16597698080",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "900fb6f641448014567e08fd6b523b95fc3e975ed329a7d79913af7a685fa0c5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Iambe-RP-DARE-20b-DENSE-i1-GGUF/resolve/main/Iambe-RP-DARE-20b-DENSE.i1-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Iambe-RP-DARE-20b-DENSE.i1-Q5_K_S.gguf",
+            "size": "13964041760",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "2b776037d7996c7248a7655756c62e4677d301f8e310b8b9af38d99f8f0d6836",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Iambe-RP-DARE-20b-DENSE-i1-GGUF/resolve/main/Iambe-RP-DARE-20b-DENSE.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Iambe-RP-DARE-20b-DENSE.i1-Q5_K_M.gguf",
+            "size": "14350499360",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "acf1be0a46b08fd39e9c90e2291c6e66e03f27a34dbdf0f04c9765813652840c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Iambe-RP-DARE-20b-DENSE-i1-GGUF/resolve/main/Iambe-RP-DARE-20b-DENSE.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Iambe-RP-DARE-20b-DENSE.i1-Q4_K_S.gguf",
+            "size": "11560345120",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "87bc495d002f40fe0d659e7bac0de12c390567c548eb73446a82f234257c6c3c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Iambe-RP-DARE-20b-DENSE-i1-GGUF/resolve/main/Iambe-RP-DARE-20b-DENSE.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Iambe-RP-DARE-20b-DENSE.i1-Q4_K_M.gguf",
+            "size": "12235488800",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "bcced3e3404c56700636d7ab2150c0e4443ef4898b2e353fbbc6654ab6b21f18",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Iambe-RP-DARE-20b-DENSE-i1-GGUF/resolve/main/Iambe-RP-DARE-20b-DENSE.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Iambe-RP-DARE-20b-DENSE.i1-Q4_0.gguf",
+            "size": "11516272160",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "39f2b05cc3d8883d7fe234f97f21e8a1e18b42f854d8c5b3967a095adfd83c84",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Iambe-RP-DARE-20b-DENSE-i1-GGUF/resolve/main/Iambe-RP-DARE-20b-DENSE.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Iambe-RP-DARE-20b-DENSE.i1-Q3_K_S.gguf",
+            "size": "8851650080",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "7142a66eb479346b40b6815012830679d7cf8b28e9ca869b0220ac7084e32809",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Iambe-RP-DARE-20b-DENSE-i1-GGUF/resolve/main/Iambe-RP-DARE-20b-DENSE.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Iambe-RP-DARE-20b-DENSE.i1-Q3_K_M.gguf",
+            "size": "9899284000",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e563229e568578b872a88b7c3cae9982932abf58423079ad651a2ff6599f57a2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Iambe-RP-DARE-20b-DENSE-i1-GGUF/resolve/main/Iambe-RP-DARE-20b-DENSE.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Iambe-RP-DARE-20b-DENSE.i1-Q3_K_L.gguf",
+            "size": "10821047840",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "ec52cd2cf3782f1ed8f7e8cbe99ca44c8b9f50078724079f985782a31693d01c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Iambe-RP-DARE-20b-DENSE-i1-GGUF/resolve/main/Iambe-RP-DARE-20b-DENSE.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Iambe-RP-DARE-20b-DENSE.i1-Q2_K.gguf",
+            "size": "7613500960",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "9f8b6ef3dbf2ad677d20bfc684a0e43152c767fc8b0cb8c4858b5ffdbed3335a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Iambe-RP-DARE-20b-DENSE-i1-GGUF/resolve/main/Iambe-RP-DARE-20b-DENSE.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Iambe-RP-DARE-20b-DENSE.i1-IQ1_S.gguf",
+            "size": "4609023520",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "8a4c7938fea1a85f40649805be083577237bba3281732b675e73071cdc0facd2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Iambe-RP-DARE-20b-DENSE-i1-GGUF/resolve/main/Iambe-RP-DARE-20b-DENSE.i1-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "Iambe-RP-DARE-20b-DENSE.i1-IQ4_NL.gguf",
+            "size": "11485306400",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "178f4faf5182e5ce4115f0bbcedf1d9796b7ffe1326db05fdd54710b7e3973a7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Iambe-RP-DARE-20b-DENSE-i1-GGUF/resolve/main/Iambe-RP-DARE-20b-DENSE.i1-IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Iambe-RP-DARE-20b-DENSE.i1-IQ3_XXS.gguf",
+            "size": "7802828320",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "ab8b3856de74e6fea171d71f0879ffdefa899047fc345347079583d5a263476c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Iambe-RP-DARE-20b-DENSE-i1-GGUF/resolve/main/Iambe-RP-DARE-20b-DENSE.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "Iambe-RP-DARE-20b-DENSE.i1-IQ3_XS.gguf",
+            "size": "8387409440",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "03db3a2853e285267e88620de1c389e694056d5ead593d862f43407279036404",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Iambe-RP-DARE-20b-DENSE-i1-GGUF/resolve/main/Iambe-RP-DARE-20b-DENSE.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Iambe-RP-DARE-20b-DENSE.i1-IQ3_S.gguf",
+            "size": "8851650080",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "1123b00f65d2a4b8ec7e9a523def880cb71adc60cd8233f361ffedf0701e1f6c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Iambe-RP-DARE-20b-DENSE-i1-GGUF/resolve/main/Iambe-RP-DARE-20b-DENSE.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Iambe-RP-DARE-20b-DENSE.i1-IQ3_M.gguf",
+            "size": "9349170720",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "c9313560501981e65db1fa83837f48d8b74840f4f848a9d1b0db8fd15108a7a7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Iambe-RP-DARE-20b-DENSE-i1-GGUF/resolve/main/Iambe-RP-DARE-20b-DENSE.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Iambe-RP-DARE-20b-DENSE.i1-IQ2_XXS.gguf",
+            "size": "5604023840",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "817b497e8eb2e8e679e51ec208295aebd7665bf99e9a3929908ac2b6300a3f6b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Iambe-RP-DARE-20b-DENSE-i1-GGUF/resolve/main/Iambe-RP-DARE-20b-DENSE.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "Iambe-RP-DARE-20b-DENSE.i1-IQ2_XS.gguf",
+            "size": "6152314400",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "3f9e32699ad09785552bcbba8262dc2b14c46a896327f8a59b4c0630a5eaa9c7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Iambe-RP-DARE-20b-DENSE-i1-GGUF/resolve/main/Iambe-RP-DARE-20b-DENSE.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Iambe-RP-DARE-20b-DENSE.i1-IQ2_S.gguf",
+            "size": "6612899360",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "5c20996a3b3dd9d6d887405e73efa19ce9263a5fba221578ed6012eb21e472d7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Iambe-RP-DARE-20b-DENSE-i1-GGUF/resolve/main/Iambe-RP-DARE-20b-DENSE.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "Iambe-RP-DARE-20b-DENSE.i1-IQ2_M.gguf",
+            "size": "7110399520",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "3d41a18745565f706b27953a1d6dfaaea6ea5bbdb3b8ce3b578f844e33e62b2f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Iambe-RP-DARE-20b-DENSE-i1-GGUF/resolve/main/Iambe-RP-DARE-20b-DENSE.i1-IQ2_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

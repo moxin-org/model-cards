@@ -1,0 +1,53 @@
+{
+    "id": "smotoc/foxy_7b_lab-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "smotoc",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-08T21:28:35Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "foxy_7b_lab_f16.gguf",
+            "size": "14484731584",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0650b896345fd9dcd673fb9894534666067f2bfa321b9131977ecf100fc92d06",
+            "download": {
+                "default": "https://huggingface.co/smotoc/foxy_7b_lab-gguf/resolve/main/foxy_7b_lab_f16.gguf"
+            }
+        },
+        {
+            "name": "foxy_7b_lab_Q4_K_M.gguf",
+            "size": "4368439040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "9552b2cc8bcead64699cfe551518a1c78ef2d6345f754fcfc0c51ff2e7218b41",
+            "download": {
+                "default": "https://huggingface.co/smotoc/foxy_7b_lab-gguf/resolve/main/foxy_7b_lab_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "foxy_7b_lab_Q5_K_M.gguf",
+            "size": "5131409152",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "2f214c24131b6bffc046ad9d9149f1b51b0d021575e628c60ab1d4c2ab989bfd",
+            "download": {
+                "default": "https://huggingface.co/smotoc/foxy_7b_lab-gguf/resolve/main/foxy_7b_lab_Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

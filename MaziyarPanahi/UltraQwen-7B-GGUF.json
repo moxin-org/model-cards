@@ -1,0 +1,123 @@
+{
+    "id": "MaziyarPanahi/UltraQwen-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "MaziyarPanahi",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-04T16:51:48Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "UltraQwen-7B.Q2_K.gguf",
+            "size": "3102227616",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "128a6230aec6400f11af8cc356f6662171db1eb8f37cb75431626f92c269746a",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/UltraQwen-7B-GGUF/resolve/main/UltraQwen-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "UltraQwen-7B.Q3_K_L.gguf",
+            "size": "4216368288",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "210af070764bb679095cb50f5dfb403dd3fb680c27fa64e04e3a7c77e23d4bff",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/UltraQwen-7B-GGUF/resolve/main/UltraQwen-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "UltraQwen-7B.Q3_K_M.gguf",
+            "size": "3917261984",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "8e355bf401b13c596e719d2bfcde576403def6883674b45c9190f9e7181dd258",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/UltraQwen-7B-GGUF/resolve/main/UltraQwen-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "UltraQwen-7B.Q3_K_S.gguf",
+            "size": "3567561888",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "ca26f72e8705b1b0a71627962eceda61ed8612cd7a601a5601b1fe89ae359a7b",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/UltraQwen-7B-GGUF/resolve/main/UltraQwen-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "UltraQwen-7B.Q4_K_M.gguf",
+            "size": "4765506720",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "31501dbfc4639ec7d705a11a5e18d0f355383accc028f65acad8469a71dace01",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/UltraQwen-7B-GGUF/resolve/main/UltraQwen-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "UltraQwen-7B.Q4_K_S.gguf",
+            "size": "4541242528",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "4ba3b39501ecf1556d18aa3524a92b17cdb85dec2341e78dda997b48440fafa6",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/UltraQwen-7B-GGUF/resolve/main/UltraQwen-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "UltraQwen-7B.Q5_K_M.gguf",
+            "size": "5529066656",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "c7826f6c7ef06c5b6dfd54b7c26bc4be53cddee427b3b21ea4a2e17be981113c",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/UltraQwen-7B-GGUF/resolve/main/UltraQwen-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "UltraQwen-7B.Q5_K_S.gguf",
+            "size": "5397601440",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "b34498aa702b2a6363cf514fe6701b8fc85727b7cc8d2aa359d710d956028e57",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/UltraQwen-7B-GGUF/resolve/main/UltraQwen-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "UltraQwen-7B.Q6_K.gguf",
+            "size": "6340349088",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "9c64224fae7017e518d82195cef89c68be9cce73fa7b217481bfaa21cd756457",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/UltraQwen-7B-GGUF/resolve/main/UltraQwen-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "UltraQwen-7B.Q8_0.gguf",
+            "size": "8210197664",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "8ac8a93e3ed32d9d81be2dd945c67833c8cf96eebafdddce3719c32d81530463",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/UltraQwen-7B-GGUF/resolve/main/UltraQwen-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

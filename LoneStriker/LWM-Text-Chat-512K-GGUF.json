@@ -1,0 +1,113 @@
+{
+    "id": "LoneStriker/LWM-Text-Chat-512K-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "LoneStriker",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-16T19:21:19Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "LWM-Text-Chat-512K-Q3_K_L.gguf",
+            "size": "3597111104",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "e825d1aaa515e21c09ed70a57d566ffc7e33a7d0106a1737e900cccbafe843f9",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/LWM-Text-Chat-512K-GGUF/resolve/main/LWM-Text-Chat-512K-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "LWM-Text-Chat-512K-Q3_K_M.gguf",
+            "size": "3298004800",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "c12528dd3f8b1dc77f7b1df8e2d6ea6dbc74fb7a1c58525f753706b69f2794c3",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/LWM-Text-Chat-512K-GGUF/resolve/main/LWM-Text-Chat-512K-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "LWM-Text-Chat-512K-Q3_K_S.gguf",
+            "size": "2948304704",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "1080940fd967ad8dacdbcff868f6e5b7f9c234316c7c21f69c1f33b1102e8b3a",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/LWM-Text-Chat-512K-GGUF/resolve/main/LWM-Text-Chat-512K-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "LWM-Text-Chat-512K-Q4_K_M.gguf",
+            "size": "4081004352",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "2a2ff0d201dbf9bbed13002787f8b5054db01c493c8d582e10ba5e6007fe6dd7",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/LWM-Text-Chat-512K-GGUF/resolve/main/LWM-Text-Chat-512K-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "LWM-Text-Chat-512K-Q4_K_S.gguf",
+            "size": "3856740160",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "283569c04bc38c81a45e2d8f6886de3120fb33de7193de1775b2d7937a720982",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/LWM-Text-Chat-512K-GGUF/resolve/main/LWM-Text-Chat-512K-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "LWM-Text-Chat-512K-Q5_K_M.gguf",
+            "size": "4783157056",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "8af08c8a1babf055aed221525a8cdd7cabd697919df0189e8e8116d58f8af2b8",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/LWM-Text-Chat-512K-GGUF/resolve/main/LWM-Text-Chat-512K-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "LWM-Text-Chat-512K-Q5_K_S.gguf",
+            "size": "4651691840",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "6f6a5e969fd2737ac67b8dae4f0bc87ec1b3ed93992c16d096bb71ce81bb406d",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/LWM-Text-Chat-512K-GGUF/resolve/main/LWM-Text-Chat-512K-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "LWM-Text-Chat-512K-Q6_K.gguf",
+            "size": "5529194304",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "dbdf7ec02feaf45c1c9c6e1f036239fb094f560907245a41615d88ea1bef4b26",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/LWM-Text-Chat-512K-GGUF/resolve/main/LWM-Text-Chat-512K-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "LWM-Text-Chat-512K-Q8_0.gguf",
+            "size": "7161089856",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "e556363ae6feb855991379f2cd49ada432795582516e21b365f9435986afe00a",
+            "download": {
+                "default": "https://huggingface.co/LoneStriker/LWM-Text-Chat-512K-GGUF/resolve/main/LWM-Text-Chat-512K-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

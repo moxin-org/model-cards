@@ -1,0 +1,163 @@
+{
+    "id": "mayflowergmbh/occiglot-7b-de-en-instruct-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mayflowergmbh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-04T08:46:51Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "occiglot-7b-de-en-instruct.Q2_K.gguf",
+            "size": "2719252192",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "5b43f1f3c056cb2ff937fdde0b9ff7e9e59bc9238c253ee5789e33fe3e5f4cd0",
+            "download": {
+                "default": "https://huggingface.co/mayflowergmbh/occiglot-7b-de-en-instruct-GGUF/resolve/main/occiglot-7b-de-en-instruct.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "occiglot-7b-de-en-instruct.Q3_K_L.gguf",
+            "size": "3822035488",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "68e3b7d7636a27c72c68efc14c84d99e621223a1ac4c74d50e63031440b7e325",
+            "download": {
+                "default": "https://huggingface.co/mayflowergmbh/occiglot-7b-de-en-instruct-GGUF/resolve/main/occiglot-7b-de-en-instruct.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "occiglot-7b-de-en-instruct.Q3_K_M.gguf",
+            "size": "3518997024",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "0dff7ff164a60c49a5a3a75fce81822c43b623896c1909c3bf1667587261dc05",
+            "download": {
+                "default": "https://huggingface.co/mayflowergmbh/occiglot-7b-de-en-instruct-GGUF/resolve/main/occiglot-7b-de-en-instruct.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "occiglot-7b-de-en-instruct.Q3_K_S.gguf",
+            "size": "3164578336",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "209ff8db408cbc5b6fe17b5886262f2984c537142b92620738a4d364de9641f1",
+            "download": {
+                "default": "https://huggingface.co/mayflowergmbh/occiglot-7b-de-en-instruct-GGUF/resolve/main/occiglot-7b-de-en-instruct.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "occiglot-7b-de-en-instruct.Q4_0.gguf",
+            "size": "4108928608",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "4fc979fa292dbc3dca072e66f53eddd97e9e686f207e3102202f7af2da5627e2",
+            "download": {
+                "default": "https://huggingface.co/mayflowergmbh/occiglot-7b-de-en-instruct-GGUF/resolve/main/occiglot-7b-de-en-instruct.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "occiglot-7b-de-en-instruct.Q4_1.gguf",
+            "size": "4553328736",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "860050be762d0e171d28cbcad7812a985dddb76364d3a1ff17c384b4f06c3310",
+            "download": {
+                "default": "https://huggingface.co/mayflowergmbh/occiglot-7b-de-en-instruct-GGUF/resolve/main/occiglot-7b-de-en-instruct.Q4_1.gguf"
+            }
+        },
+        {
+            "name": "occiglot-7b-de-en-instruct.Q4_K_M.gguf",
+            "size": "4368451168",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "25c55b42038e9a793b48dd0e16e0f65c8fce3a3a5ac2297340acad42ce40ddd2",
+            "download": {
+                "default": "https://huggingface.co/mayflowergmbh/occiglot-7b-de-en-instruct-GGUF/resolve/main/occiglot-7b-de-en-instruct.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "occiglot-7b-de-en-instruct.Q4_K_S.gguf",
+            "size": "4140385888",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "13cc4507c7628dcdd3c7419e8efd5d2a159eed5093bdf35b87af8ac5fc424f3f",
+            "download": {
+                "default": "https://huggingface.co/mayflowergmbh/occiglot-7b-de-en-instruct-GGUF/resolve/main/occiglot-7b-de-en-instruct.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "occiglot-7b-de-en-instruct.Q5_0.gguf",
+            "size": "4997728864",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "9001ce5213dc48e55624a29e9ca2fb0e86b75ab1ac862aeca4e500697a6f8adc",
+            "download": {
+                "default": "https://huggingface.co/mayflowergmbh/occiglot-7b-de-en-instruct-GGUF/resolve/main/occiglot-7b-de-en-instruct.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "occiglot-7b-de-en-instruct.Q5_1.gguf",
+            "size": "5442128992",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "2bc242b89b222f7dc213fec26633d50021d1251e22c34eff7c378bca236b2484",
+            "download": {
+                "default": "https://huggingface.co/mayflowergmbh/occiglot-7b-de-en-instruct-GGUF/resolve/main/occiglot-7b-de-en-instruct.Q5_1.gguf"
+            }
+        },
+        {
+            "name": "occiglot-7b-de-en-instruct.Q5_K_M.gguf",
+            "size": "5131422304",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "cfd708f0488d13b28154f14a502f1f852e7fa3b07359156e575ccf16d51fcb62",
+            "download": {
+                "default": "https://huggingface.co/mayflowergmbh/occiglot-7b-de-en-instruct-GGUF/resolve/main/occiglot-7b-de-en-instruct.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "occiglot-7b-de-en-instruct.Q5_K_S.gguf",
+            "size": "4997728864",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "a962875ef6ffd1d27a8f58f82fefee6f344376e706afc94572dc2b8b01c5e40f",
+            "download": {
+                "default": "https://huggingface.co/mayflowergmbh/occiglot-7b-de-en-instruct-GGUF/resolve/main/occiglot-7b-de-en-instruct.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "occiglot-7b-de-en-instruct.Q6_K.gguf",
+            "size": "5942079136",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "81c1a3900c8b4f9080933e067de9feb21c1651006a5410dd100ef84563663c72",
+            "download": {
+                "default": "https://huggingface.co/mayflowergmbh/occiglot-7b-de-en-instruct-GGUF/resolve/main/occiglot-7b-de-en-instruct.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "occiglot-7b-de-en-instruct.Q8_0.gguf",
+            "size": "7695875616",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "1c04409d0fcdf2c6b33dae8e1c5f6378c39c319e6f642c0d2a0f6628b6f94bd1",
+            "download": {
+                "default": "https://huggingface.co/mayflowergmbh/occiglot-7b-de-en-instruct-GGUF/resolve/main/occiglot-7b-de-en-instruct.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

@@ -1,0 +1,53 @@
+{
+    "id": "localfultonextractor/Susanoo-10.7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "localfultonextractor",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-03T18:18:46Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Susanoo-10.7B.q4_K_M.gguf",
+            "size": "6461667808",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a6d49831eb1f942b0f7fcbd958748b1cf952584a7e0be684dd87ae07cb3e6b9c",
+            "download": {
+                "default": "https://huggingface.co/localfultonextractor/Susanoo-10.7B-GGUF/resolve/main/Susanoo-10.7B.q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Susanoo-10.7B.q5_K_M.gguf",
+            "size": "7597930976",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f82d98debb23bb37909341d91ec8f29a6d0f139658fc99c2c55fa8a1c5657ce7",
+            "download": {
+                "default": "https://huggingface.co/localfultonextractor/Susanoo-10.7B-GGUF/resolve/main/Susanoo-10.7B.q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Susanoo-10.7B.q8_0.gguf",
+            "size": "11404155360",
+            "quantization": "",
+            "tags": [],
+            "sha256": "27262bc4aad69eb8a88c782d554581a3d14fb61ca579e2103ce87b171c803bbe",
+            "download": {
+                "default": "https://huggingface.co/localfultonextractor/Susanoo-10.7B-GGUF/resolve/main/Susanoo-10.7B.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

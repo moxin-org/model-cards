@@ -1,0 +1,43 @@
+{
+    "id": "bcse/BigLiz-120b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "bcse",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-22T16:30:51Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "bigliz-120b.Q2_K.gguf",
+            "size": "43245727008",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "99a22f6d241ce1fb8139d780c66303f1562d07627d1f3e617fcde6ea484548e3",
+            "download": {
+                "default": "https://huggingface.co/bcse/BigLiz-120b-GGUF/resolve/main/bigliz-120b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "bigliz-120b.Q3_K_XS.gguf",
+            "size": "47875796256",
+            "quantization": "Q3_K_XS",
+            "tags": [],
+            "sha256": "f6f8c54b314bec4d00c9fbd032c79e39a9de8b2a95cdfd77c7578da25d8fc018",
+            "download": {
+                "default": "https://huggingface.co/bcse/BigLiz-120b-GGUF/resolve/main/bigliz-120b.Q3_K_XS.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

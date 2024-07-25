@@ -1,0 +1,123 @@
+{
+    "id": "TheBloke/StableBeluga2-70B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-06T00:49:31Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "stablebeluga2-70B.Q2_K.gguf",
+            "size": "29279253408",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "56c1c6a0886c55e20d08dc9bea06c452bb9a9ac036f6fc0bd61a40dd8b064469",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/StableBeluga2-70B-GGUF/resolve/main/stablebeluga2-70B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "stablebeluga2-70B.Q3_K_L.gguf",
+            "size": "36147835808",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "ed30e9a1b7ef21196f35c5efbb4ce56c8c91c2e3d9d0c977b42fcb5a9c822246",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/StableBeluga2-70B-GGUF/resolve/main/stablebeluga2-70B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "stablebeluga2-70B.Q3_K_M.gguf",
+            "size": "33186657184",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e79067a123f19b687eef08512ef139abe90572e0006a3ceb07439a50685a91b6",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/StableBeluga2-70B-GGUF/resolve/main/stablebeluga2-70B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "stablebeluga2-70B.Q3_K_S.gguf",
+            "size": "29919294368",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "40de197b22d29a3548e043f370031982ec3b6634d0361dbe5f07feb2add3df7a",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/StableBeluga2-70B-GGUF/resolve/main/stablebeluga2-70B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "stablebeluga2-70B.Q4_0.gguf",
+            "size": "38872249248",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "b3a0e4c00c1d3e5637f5566606e822befb1fb93d67eb086c319b7e07da432c3a",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/StableBeluga2-70B-GGUF/resolve/main/stablebeluga2-70B.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "stablebeluga2-70B.Q4_K_M.gguf",
+            "size": "41422910368",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e242d8a288c3b2d1b83abe6c5395e4b48538abdfcae89d975dc6c6cd3e9770d0",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/StableBeluga2-70B-GGUF/resolve/main/stablebeluga2-70B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "stablebeluga2-70B.Q4_K_S.gguf",
+            "size": "39073575840",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "ac6b549b2cbcf5bbf38bcc49f84437e35ed5207846da4e01f2e175519b3522e8",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/StableBeluga2-70B-GGUF/resolve/main/stablebeluga2-70B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "stablebeluga2-70B.Q5_0.gguf",
+            "size": "47461397408",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "0adff39650c5049d60e716ad8f447f1f934b38d42713a3f14ed608675dd88a27",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/StableBeluga2-70B-GGUF/resolve/main/stablebeluga2-70B.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "stablebeluga2-70B.Q5_K_M.gguf",
+            "size": "48753767328",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "6115bf224c1ba71e04205ca2ceae7004bd2a5858a534984c492ebc703f38aed7",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/StableBeluga2-70B-GGUF/resolve/main/stablebeluga2-70B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "stablebeluga2-70B.Q5_K_S.gguf",
+            "size": "47461397408",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "6a0ceecadeabf45cba8e4de03ecc12848deff060f15029c811b12f9f1f7495d8",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/StableBeluga2-70B-GGUF/resolve/main/stablebeluga2-70B.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

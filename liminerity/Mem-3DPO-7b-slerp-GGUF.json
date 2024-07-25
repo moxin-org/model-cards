@@ -1,0 +1,63 @@
+{
+    "id": "liminerity/Mem-3DPO-7b-slerp-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "liminerity",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-28T06:20:00Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mem-3dpo-7b-slerp.Q2_K.gguf",
+            "size": "2719242368",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "4166a6681e8fe7e1f700d718394c91ba9638b6b87c834c7827bfa3c629f5fe15",
+            "download": {
+                "default": "https://huggingface.co/liminerity/Mem-3DPO-7b-slerp-GGUF/resolve/main/mem-3dpo-7b-slerp.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "mem-3dpo-7b-slerp.Q4_K_M.gguf",
+            "size": "4368439424",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "428a59b2c00073ce0d74fc35a9208f72dca4a416b2e8092aaff4a5bce4e64d64",
+            "download": {
+                "default": "https://huggingface.co/liminerity/Mem-3DPO-7b-slerp-GGUF/resolve/main/mem-3dpo-7b-slerp.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "mem-3dpo-7b-slerp.Q5_K_M.gguf",
+            "size": "5131409536",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "db94d94bb57e9812851d10f4c62b8c5bd2131f837a5d9187a9236ef0356c2665",
+            "download": {
+                "default": "https://huggingface.co/liminerity/Mem-3DPO-7b-slerp-GGUF/resolve/main/mem-3dpo-7b-slerp.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "mem-3dpo-7b-slerp.Q8_0.gguf",
+            "size": "7695857792",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "881d26adca24a3b342c6f1b11a74b75f9920c4207cdd6b1de0421374858197af",
+            "download": {
+                "default": "https://huggingface.co/liminerity/Mem-3DPO-7b-slerp-GGUF/resolve/main/mem-3dpo-7b-slerp.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

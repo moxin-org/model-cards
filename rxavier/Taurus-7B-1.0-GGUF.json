@@ -1,0 +1,53 @@
+{
+    "id": "rxavier/Taurus-7B-1.0-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "rxavier",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-24T13:45:40Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "taurus-7b-1.0.Q4_K_M.gguf",
+            "size": "4368450976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "93a3edf6cc218d22341d87e6c06b4315d7c40af6739dd9c87d95405deb5750fe",
+            "download": {
+                "default": "https://huggingface.co/rxavier/Taurus-7B-1.0-GGUF/resolve/main/taurus-7b-1.0.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "taurus-7b-1.0.Q5_K_M.gguf",
+            "size": "5131422112",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "857b69b500db0a452f5b7efaf9b07ba5b3f980bab6bbf7efe1d02c9a7b71204b",
+            "download": {
+                "default": "https://huggingface.co/rxavier/Taurus-7B-1.0-GGUF/resolve/main/taurus-7b-1.0.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "taurus-7b-1.0.Q6_K.gguf",
+            "size": "5942078944",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "e9026739fab7ab2a6eebd5b685dfae8ac45a4517f3f0287dafe792c3cbfbc5f3",
+            "download": {
+                "default": "https://huggingface.co/rxavier/Taurus-7B-1.0-GGUF/resolve/main/taurus-7b-1.0.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

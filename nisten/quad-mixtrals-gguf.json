@@ -1,0 +1,163 @@
+{
+    "id": "nisten/quad-mixtrals-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "nisten",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-22T23:36:12Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "4mixq2.gguf",
+            "size": "8479461408",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a182a8ee938baa5dba557cc6a4e26dd102f828d00cb1653677eb9f89c99943b8",
+            "download": {
+                "default": "https://huggingface.co/nisten/quad-mixtrals-gguf/resolve/main/4mixq2.gguf"
+            }
+        },
+        {
+            "name": "4mixq3_k_l.gguf",
+            "size": "11024035872",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ff943c3a94fbb33aee78842fd720377f957632fad1bb5951b84130af66c8d69a",
+            "download": {
+                "default": "https://huggingface.co/nisten/quad-mixtrals-gguf/resolve/main/4mixq3_k_l.gguf"
+            }
+        },
+        {
+            "name": "4mixq3_k.gguf",
+            "size": "10851020832",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8b49f29b98862a4bed70934c2919f10ddf2e413cd1e8bb26297e69f4ce04269e",
+            "download": {
+                "default": "https://huggingface.co/nisten/quad-mixtrals-gguf/resolve/main/4mixq3_k.gguf"
+            }
+        },
+        {
+            "name": "4mixq4kl.gguf",
+            "size": "14352519200",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5721477b77b8abac9a32965bda9c8e712b2b8f69dd447c0b2d2bb5bd27650008",
+            "download": {
+                "default": "https://huggingface.co/nisten/quad-mixtrals-gguf/resolve/main/4mixq4kl.gguf"
+            }
+        },
+        {
+            "name": "4mixq4km.gguf",
+            "size": "13968740384",
+            "quantization": "",
+            "tags": [],
+            "sha256": "495102728804dd6f37d7a01d781917487c10fc41e963a8f8a22411351ee50880",
+            "download": {
+                "default": "https://huggingface.co/nisten/quad-mixtrals-gguf/resolve/main/4mixq4km.gguf"
+            }
+        },
+        {
+            "name": "4mixq4ks.gguf",
+            "size": "13780324384",
+            "quantization": "",
+            "tags": [],
+            "sha256": "132a30d75e3d06204a61a26d90799f806e48c5b1357a669f6695c62990da523b",
+            "download": {
+                "default": "https://huggingface.co/nisten/quad-mixtrals-gguf/resolve/main/4mixq4ks.gguf"
+            }
+        },
+        {
+            "name": "4mixq6_k.gguf",
+            "size": "20234547232",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2cb51f6054e605a64bc70860939aa582cb80be8f9b97e41be666c9be1afb2b9d",
+            "download": {
+                "default": "https://huggingface.co/nisten/quad-mixtrals-gguf/resolve/main/4mixq6_k.gguf"
+            }
+        },
+        {
+            "name": "4mixtrainq4_0.gguf",
+            "size": "14041419808",
+            "quantization": "",
+            "tags": [],
+            "sha256": "74d3605e986820b38bcddc3fa0666f29561523a6b269fe92c21567b3a8d12136",
+            "download": {
+                "default": "https://huggingface.co/nisten/quad-mixtrals-gguf/resolve/main/4mixtrainq4_0.gguf"
+            }
+        },
+        {
+            "name": "4mixtrainq8_0.gguf",
+            "size": "26052333600",
+            "quantization": "",
+            "tags": [],
+            "sha256": "30c6a4d26db361b60a83e14c800c29d5b5b74575abe1c01a241b01fe7e29a71b",
+            "download": {
+                "default": "https://huggingface.co/nisten/quad-mixtrals-gguf/resolve/main/4mixtrainq8_0.gguf"
+            }
+        },
+        {
+            "name": "4mixtralf16.gguf",
+            "size": "48309604320",
+            "quantization": "",
+            "tags": [],
+            "sha256": "89d2690b1af8fa52eb843281f03f2ece321cf94fa5c7b56492ba0d09f7685a39",
+            "download": {
+                "default": "https://huggingface.co/nisten/quad-mixtrals-gguf/resolve/main/4mixtralf16.gguf"
+            }
+        },
+        {
+            "name": "4mixtralq4_0.gguf",
+            "size": "13778227232",
+            "quantization": "",
+            "tags": [],
+            "sha256": "728193bfaa4410c86c09e6b9099ad7dae632baae985a5d6941c6bb7e6c02760c",
+            "download": {
+                "default": "https://huggingface.co/nisten/quad-mixtrals-gguf/resolve/main/4mixtralq4_0.gguf"
+            }
+        },
+        {
+            "name": "4mixtralq4_1.gguf",
+            "size": "15279591456",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3848495d5c882d2b7603cc5b513e4961a0bc59fd8c23fcc83d8eaae96f290dc8",
+            "download": {
+                "default": "https://huggingface.co/nisten/quad-mixtrals-gguf/resolve/main/4mixtralq4_1.gguf"
+            }
+        },
+        {
+            "name": "4mixtralq5_0.gguf",
+            "size": "16780955680",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6400ec89b18c0ed21d3d2a50ea263c230a5f972c070d538ae6f6931c13edbed5",
+            "download": {
+                "default": "https://huggingface.co/nisten/quad-mixtrals-gguf/resolve/main/4mixtralq5_0.gguf"
+            }
+        },
+        {
+            "name": "4mixtralq5_1.gguf",
+            "size": "18282319904",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8ed8add8578a741c4e0aa6fd3b53d4b34319bdd4f79f04707512ef17de5f6576",
+            "download": {
+                "default": "https://huggingface.co/nisten/quad-mixtrals-gguf/resolve/main/4mixtralq5_1.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

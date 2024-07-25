@@ -1,0 +1,53 @@
+{
+    "id": "SJ-Donald/SJ-SOLAR-10.7b-DPO-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "SJ-Donald",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-30T05:15:35Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "SJ-SOLAR-10.7b-DPO-q4_0.gguf",
+            "size": "6163404384",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9564e1a3e0c35609498d83192032bd6705c8921388741028c454cd06a2ec5185",
+            "download": {
+                "default": "https://huggingface.co/SJ-Donald/SJ-SOLAR-10.7b-DPO-GGUF/resolve/main/SJ-SOLAR-10.7b-DPO-q4_0.gguf"
+            }
+        },
+        {
+            "name": "SJ-SOLAR-10.7b-DPO-q8_0.gguf",
+            "size": "11543815744",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0e09e9bb99199cf549b707fd738dd48371d2e5dbafc799f5624ac8cbe5c2a378",
+            "download": {
+                "default": "https://huggingface.co/SJ-Donald/SJ-SOLAR-10.7b-DPO-GGUF/resolve/main/SJ-SOLAR-10.7b-DPO-q8_0.gguf"
+            }
+        },
+        {
+            "name": "SJ-SOLAR-10.7b-DPO.gguf",
+            "size": "21727127104",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7b20cb247b6f9de72eff41f79b4c9f8f08df6f5be27ff4163a52a8b33adb96c9",
+            "download": {
+                "default": "https://huggingface.co/SJ-Donald/SJ-SOLAR-10.7b-DPO-GGUF/resolve/main/SJ-SOLAR-10.7b-DPO.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

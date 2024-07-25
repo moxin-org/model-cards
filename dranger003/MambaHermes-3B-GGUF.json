@@ -1,0 +1,73 @@
+{
+    "id": "dranger003/MambaHermes-3B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "dranger003",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-09T00:11:51Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-mambahermes-3b-f16.gguf",
+            "size": "5784587968",
+            "quantization": "",
+            "tags": [],
+            "sha256": "22e72d6fdce91d9aae18e73039becb18c099e376f87936c90393aeda1c86d6a5",
+            "download": {
+                "default": "https://huggingface.co/dranger003/MambaHermes-3B-GGUF/resolve/main/ggml-mambahermes-3b-f16.gguf"
+            }
+        },
+        {
+            "name": "ggml-mambahermes-3b-q4_k.gguf",
+            "size": "2015155232",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ad0bdc089f6fd3314c421fabaf9d35b58765a51bc1191e6e4a79c1c929740dca",
+            "download": {
+                "default": "https://huggingface.co/dranger003/MambaHermes-3B-GGUF/resolve/main/ggml-mambahermes-3b-q4_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-mambahermes-3b-q5_k.gguf",
+            "size": "2329728032",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d7ae6105643c2e1e2dcb5a86443e889e3105b4dc90710aa310a1eca088010eae",
+            "download": {
+                "default": "https://huggingface.co/dranger003/MambaHermes-3B-GGUF/resolve/main/ggml-mambahermes-3b-q5_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-mambahermes-3b-q6_k.gguf",
+            "size": "2663961632",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0029844a791402f9f710672803604b66cb04a29e577feae2d5876a94f6320826",
+            "download": {
+                "default": "https://huggingface.co/dranger003/MambaHermes-3B-GGUF/resolve/main/ggml-mambahermes-3b-q6_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-mambahermes-3b-q8_0.gguf",
+            "size": "3304620032",
+            "quantization": "",
+            "tags": [],
+            "sha256": "50cf18c6263bb59f27ffe9aa5330c8abce5df6705552557c690d454c19ca917c",
+            "download": {
+                "default": "https://huggingface.co/dranger003/MambaHermes-3B-GGUF/resolve/main/ggml-mambahermes-3b-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,73 @@
+{
+    "id": "saishf/Kuno-Lake-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "saishf",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-03T02:33:23Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Kuno-Lake-7B-Q2_K.gguf",
+            "size": "2719241920",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "0d7120dcfd8b6767a5aaa1501581005fc22a9782697b1fbd53029a250034bfde",
+            "download": {
+                "default": "https://huggingface.co/saishf/Kuno-Lake-7B-GGUF/resolve/main/Kuno-Lake-7B-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Kuno-Lake-7B-Q3_K_M.gguf",
+            "size": "3518985920",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e9203936b5881835e1249c32b6fe61bd7b6ba2243ebfe35858de88bd7e2adc38",
+            "download": {
+                "default": "https://huggingface.co/saishf/Kuno-Lake-7B-GGUF/resolve/main/Kuno-Lake-7B-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Kuno-Lake-7B-Q4_K_M.gguf",
+            "size": "4368438976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "6729598384f0e02a001126c390d865996d415bab899ee49dd954ec3240933da6",
+            "download": {
+                "default": "https://huggingface.co/saishf/Kuno-Lake-7B-GGUF/resolve/main/Kuno-Lake-7B-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Kuno-Lake-7B-Q5_K_M.gguf",
+            "size": "5131409088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "706eea41ea49d5e1939a942bb6ee754d8ab6e3bb7ad11b7272163a251a19880b",
+            "download": {
+                "default": "https://huggingface.co/saishf/Kuno-Lake-7B-GGUF/resolve/main/Kuno-Lake-7B-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Kuno-Lake-7B-Q6_K.gguf",
+            "size": "5942064832",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "f138203b4b4cbfb783609e31c0b7c2c928fbf951cc26db3a6f5ba7108e23da39",
+            "download": {
+                "default": "https://huggingface.co/saishf/Kuno-Lake-7B-GGUF/resolve/main/Kuno-Lake-7B-Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

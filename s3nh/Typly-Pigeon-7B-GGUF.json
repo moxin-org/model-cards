@@ -1,0 +1,93 @@
+{
+    "id": "s3nh/Typly-Pigeon-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-07T13:06:11Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Typly-Pigeon-7B.Q2_K.gguf",
+            "size": "2825940672",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "14d883a9f458e7989f0ee9552234f9bb3777e1eb65471e070eb5e48376eecb5e",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Typly-Pigeon-7B-GGUF/resolve/main/Typly-Pigeon-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Typly-Pigeon-7B.Q3_K_S.gguf",
+            "size": "2948304576",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "617448c1f830518a1562007db1f5dff785fd684f8fab6b45f7ea040acce175c4",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Typly-Pigeon-7B-GGUF/resolve/main/Typly-Pigeon-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Typly-Pigeon-7B.Q4_K_M.gguf",
+            "size": "4081004224",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "f1df7ceb417c51ff3c2a1b9ad67c45a300ead8273bc8d1dcc3c99ef514c388bb",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Typly-Pigeon-7B-GGUF/resolve/main/Typly-Pigeon-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Typly-Pigeon-7B.Q4_K_S.gguf",
+            "size": "3856740032",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "66d4f6065da2e99c5cafa52f82d40a3c52bcf8c7cb9f557aba0fcca01cd6f5f3",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Typly-Pigeon-7B-GGUF/resolve/main/Typly-Pigeon-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Typly-Pigeon-7B.Q5_K_S.gguf",
+            "size": "4651691712",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "bf6fc82bc2a4270bfcfae40054a2a1a8164e31837aaabe7a81add45816c1c499",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Typly-Pigeon-7B-GGUF/resolve/main/Typly-Pigeon-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Typly-Pigeon-7B.Q6_K.gguf",
+            "size": "5529194176",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b6e51cd48d0912e96171ba106b9b286e216f172e4f6f3598b96d6a1b03355517",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Typly-Pigeon-7B-GGUF/resolve/main/Typly-Pigeon-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Typly-Pigeon-7B.Q8_0.gguf",
+            "size": "7161089728",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "a809cbec1cbc3ecccb5ef2e44f89392bac4a1a2c83ce79fc3dd678026a5e5316",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Typly-Pigeon-7B-GGUF/resolve/main/Typly-Pigeon-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

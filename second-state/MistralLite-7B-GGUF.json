@@ -1,0 +1,153 @@
+{
+    "id": "second-state/MistralLite-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-02T08:05:36Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "MistralLite-Q2_K.gguf",
+            "size": "2701430240",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "b9f46fbc58f966476d2a906005da7a42d0d2085fc217c5a670487d8a715032d5",
+            "download": {
+                "default": "https://huggingface.co/second-state/MistralLite-7B-GGUF/resolve/main/MistralLite-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "MistralLite-Q3_K_L.gguf",
+            "size": "3822039744",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "02186137e07badb7707e80a8865016c79809d750e2d22bce710ab66b3a4d4329",
+            "download": {
+                "default": "https://huggingface.co/second-state/MistralLite-7B-GGUF/resolve/main/MistralLite-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "MistralLite-Q3_K_M.gguf",
+            "size": "3519001280",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "6ead22c59a5c66ef54a875522075dac3686f34214b344bb7586a72b00a36c21c",
+            "download": {
+                "default": "https://huggingface.co/second-state/MistralLite-7B-GGUF/resolve/main/MistralLite-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "MistralLite-Q3_K_S.gguf",
+            "size": "3164582592",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "df03e3fa1924af92e55b3149c5ba3f586c9901faa063fface1488563413f4165",
+            "download": {
+                "default": "https://huggingface.co/second-state/MistralLite-7B-GGUF/resolve/main/MistralLite-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "MistralLite-Q4_0.gguf",
+            "size": "4108933408",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "259579cb037ea997b02450e37d676693849429a144ea1b1ce7e40e5ec3f58962",
+            "download": {
+                "default": "https://huggingface.co/second-state/MistralLite-7B-GGUF/resolve/main/MistralLite-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "MistralLite-Q4_K_M.gguf",
+            "size": "4368455968",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "ff0fb6c536e9807fdcd6082c0e760ca582ef93a973e0a6f1e4f9cc19c676ee43",
+            "download": {
+                "default": "https://huggingface.co/second-state/MistralLite-7B-GGUF/resolve/main/MistralLite-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "MistralLite-Q4_K_S.gguf",
+            "size": "4140390688",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "c9eb4e6603a8715deca11969523db2f1e66ee40c1f2d6305db87a3c5c7e014da",
+            "download": {
+                "default": "https://huggingface.co/second-state/MistralLite-7B-GGUF/resolve/main/MistralLite-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "MistralLite-Q5_0.gguf",
+            "size": "4997734176",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "91397b0810fd6f057807855007ec1a1f6e43c178c285f292f442d4a1d150a585",
+            "download": {
+                "default": "https://huggingface.co/second-state/MistralLite-7B-GGUF/resolve/main/MistralLite-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "MistralLite-Q5_K_M.gguf",
+            "size": "5131427616",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "c8f5d6117cc9ec8dceb2e28e1268770c0c32f39949fceceb105d1e0837e07361",
+            "download": {
+                "default": "https://huggingface.co/second-state/MistralLite-7B-GGUF/resolve/main/MistralLite-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "MistralLite-Q5_K_S.gguf",
+            "size": "4997734176",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "264516b471a342d9f3c8cbbdcc164645af43463fdd5ceafb034025ce96d452cf",
+            "download": {
+                "default": "https://huggingface.co/second-state/MistralLite-7B-GGUF/resolve/main/MistralLite-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "MistralLite-Q6_K.gguf",
+            "size": "5942084992",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "fc6cc0771f0f963c56b3b50f7edf011fe30e671ba0834de0c081e5570bbd1f59",
+            "download": {
+                "default": "https://huggingface.co/second-state/MistralLite-7B-GGUF/resolve/main/MistralLite-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "MistralLite-Q8_0.gguf",
+            "size": "7695883456",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "321944233d26681cf52905193ba5cc4104d57f3340caf1265c09c4173b54a75f",
+            "download": {
+                "default": "https://huggingface.co/second-state/MistralLite-7B-GGUF/resolve/main/MistralLite-Q8_0.gguf"
+            }
+        },
+        {
+            "name": "mistrallite.Q5_K_M.gguf",
+            "size": "5131427680",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "d06d149c24eea0446ea7aad596aca396fe7f3302441e9375d5bbd3fd9ba8ebea",
+            "download": {
+                "default": "https://huggingface.co/second-state/MistralLite-7B-GGUF/resolve/main/mistrallite.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 4096,
+    "vector_size": 0,
+    "metrics": {}
+}

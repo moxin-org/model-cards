@@ -1,0 +1,43 @@
+{
+    "id": "elliotthwangmsa/KimLan_mistral-7B_zh-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "elliotthwangmsa",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-09T14:45:02Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "KimLan_mistral-7B_zh-q4_k_m.gguf",
+            "size": "4369375360",
+            "quantization": "",
+            "tags": [],
+            "sha256": "cf51d866f3bd8fad9a249d246ed4a4cc0cbefe383545add20e6584ad9ae871c1",
+            "download": {
+                "default": "https://huggingface.co/elliotthwangmsa/KimLan_mistral-7B_zh-GGUF/resolve/main/KimLan_mistral-7B_zh-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "KimLan_mistral-7B_zh-q5_k_m.gguf",
+            "size": "5132345472",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8b5c89e8770d0e5d6d22d70dbf81b044999ac09ea3f10ea2742fd31cbc5e7a2a",
+            "download": {
+                "default": "https://huggingface.co/elliotthwangmsa/KimLan_mistral-7B_zh-GGUF/resolve/main/KimLan_mistral-7B_zh-q5_k_m.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

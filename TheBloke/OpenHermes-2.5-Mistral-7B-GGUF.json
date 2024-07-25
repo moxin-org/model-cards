@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-02T21:44:04Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "openhermes-2.5-mistral-7b.Q2_K.gguf",
+            "size": "3083107200",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "717ecde3ae404631c676b267585764eaff88a3124c31a0afc60542c6b78ca089",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/openhermes-2.5-mistral-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "openhermes-2.5-mistral-7b.Q3_K_L.gguf",
+            "size": "3822034624",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "48cc236dad52318e743356c270cbf7ee2b0a69b913b884c1ac17890a58fa36e3",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/openhermes-2.5-mistral-7b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "openhermes-2.5-mistral-7b.Q3_K_M.gguf",
+            "size": "3518996160",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "a42e61722e5a4f3dccf51f4e5ec29a5f32c2163ad7d6bd9562b1e39d46f0ceef",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/openhermes-2.5-mistral-7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "openhermes-2.5-mistral-7b.Q3_K_S.gguf",
+            "size": "3164577472",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "574d78adb1f1fc29ca5572e5a7e2f43475c212b8cca65c7f0b176fa3c268ed83",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/openhermes-2.5-mistral-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "openhermes-2.5-mistral-7b.Q4_0.gguf",
+            "size": "4108927744",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "eb7b185ae308407782ddfafd6d46fa01a5d48d3dae36f91130b112536d1da60e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/openhermes-2.5-mistral-7b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "openhermes-2.5-mistral-7b.Q4_K_M.gguf",
+            "size": "4368450304",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "cd58120326971c71c0590f6b7084a0744e287ce9c67275d8b4bf34a5947d950b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/openhermes-2.5-mistral-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "openhermes-2.5-mistral-7b.Q4_K_S.gguf",
+            "size": "4140385024",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "5ae9c3c11ce520a2360dcfca1f4e38392dc0b7a49413ce6695857a5148a71d35",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/openhermes-2.5-mistral-7b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "openhermes-2.5-mistral-7b.Q5_0.gguf",
+            "size": "4997728000",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "c0ec80c56aa90e2ba70c9a17f7efbf35443fb54a4f1cf7ec00b274e3689694cd",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/openhermes-2.5-mistral-7b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "openhermes-2.5-mistral-7b.Q5_K_M.gguf",
+            "size": "5131421440",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "61e9e801d9e60f61a4bf1cad3e29d975ab6866f027bcef51d1550f9cc7d2cca6",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/openhermes-2.5-mistral-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "openhermes-2.5-mistral-7b.Q5_K_S.gguf",
+            "size": "4997728000",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "53aa9898377449e5297e3f8b5f9b4ce72fac00236e6b5f2eab49f6c9286af6fb",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/openhermes-2.5-mistral-7b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "openhermes-2.5-mistral-7b.Q6_K.gguf",
+            "size": "5942078272",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "cd4caa42229e973636e9d4c8db50a89593353c521e0342ca615756ded2b977a2",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/openhermes-2.5-mistral-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "openhermes-2.5-mistral-7b.Q8_0.gguf",
+            "size": "7695874752",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "1edb516ae5274cf70183d15a6c108e4181fcc318303802a419fd111629b5ca3a",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/openhermes-2.5-mistral-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

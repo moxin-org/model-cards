@@ -1,0 +1,53 @@
+{
+    "id": "Aratako/LightChatAssistant-2x7B-optimized-experimental-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Aratako",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-10T16:11:07Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "LightChatAssistant-2x7B-optimized-experimental_Q4_K_M.gguf",
+            "size": "7782086656",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a564c1ee4c6c524d67e05e63ca963787c08d19d48bc62c341b899f97aeb1a23f",
+            "download": {
+                "default": "https://huggingface.co/Aratako/LightChatAssistant-2x7B-optimized-experimental-GGUF/resolve/main/LightChatAssistant-2x7B-optimized-experimental_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "LightChatAssistant-2x7B-optimized-experimental_Q5_K.gguf",
+            "size": "9132259328",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "2750e75b8fcf26f058ad8b8d465afb5a3e4a169cb2cd4834a59cffcff4bf8461",
+            "download": {
+                "default": "https://huggingface.co/Aratako/LightChatAssistant-2x7B-optimized-experimental-GGUF/resolve/main/LightChatAssistant-2x7B-optimized-experimental_Q5_K.gguf"
+            }
+        },
+        {
+            "name": "LightChatAssistant-2x7B-optimized-experimental_Q6_K.gguf",
+            "size": "10566817792",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "4251827e2462fb3ab942cf1072ec4b069540ecf5a47b1964f11d609d19348178",
+            "download": {
+                "default": "https://huggingface.co/Aratako/LightChatAssistant-2x7B-optimized-experimental-GGUF/resolve/main/LightChatAssistant-2x7B-optimized-experimental_Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

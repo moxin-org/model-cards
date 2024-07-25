@@ -1,0 +1,63 @@
+{
+    "id": "Aryanne/Sheared-LLaMA-1.3B-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Aryanne",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-10T20:15:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "f16-sheared-llama-1.3b.gguf",
+            "size": "2691784128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a3c170bedc54d44a9270921256002d7bdb10ced2e4481f7bb73164ec6073dca3",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/Sheared-LLaMA-1.3B-gguf/resolve/main/f16-sheared-llama-1.3b.gguf"
+            }
+        },
+        {
+            "name": "q4_0-sheared-llama-1.3b.gguf",
+            "size": "774778336",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fdfafccbd67994ec1404c91713fbf074376e949373a0fd39d27c3d5c232d0218",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/Sheared-LLaMA-1.3B-gguf/resolve/main/q4_0-sheared-llama-1.3b.gguf"
+            }
+        },
+        {
+            "name": "q5_1-sheared-llama-1.3b.gguf",
+            "size": "1014738400",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9653a39033a3b4544ff80a78ecd7bfbd67246c95ff6fbd6630fb3c3d906b3ad5",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/Sheared-LLaMA-1.3B-gguf/resolve/main/q5_1-sheared-llama-1.3b.gguf"
+            }
+        },
+        {
+            "name": "q8_0-sheared-llama-1.3b.gguf",
+            "size": "1430543840",
+            "quantization": "",
+            "tags": [],
+            "sha256": "565b9ff10a3e10abea4b4a632ba8468239916872d147edf98370959bd5dc4ef1",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/Sheared-LLaMA-1.3B-gguf/resolve/main/q8_0-sheared-llama-1.3b.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

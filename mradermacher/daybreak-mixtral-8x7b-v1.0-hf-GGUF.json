@@ -1,0 +1,153 @@
+{
+    "id": "mradermacher/daybreak-mixtral-8x7b-v1.0-hf-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-09T07:01:34Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "daybreak-mixtral-8x7b-v1.0-hf.IQ3_M.gguf",
+            "size": "21583333184",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "1dfa67b769f6a328fdbb12d14e3e78db5dfa69f421bea6ba6532f9fe1908d8dd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/daybreak-mixtral-8x7b-v1.0-hf-GGUF/resolve/main/daybreak-mixtral-8x7b-v1.0-hf.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "daybreak-mixtral-8x7b-v1.0-hf.IQ3_S.gguf",
+            "size": "20585088832",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "a12a53b216af957030d4ae12b234d81e1cf72b2475dc3700217a7c9badfd7ff0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/daybreak-mixtral-8x7b-v1.0-hf-GGUF/resolve/main/daybreak-mixtral-8x7b-v1.0-hf.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "daybreak-mixtral-8x7b-v1.0-hf.IQ3_XS.gguf",
+            "size": "19436898112",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "4a6dd4d073dad46f142e482e46c9f4575d22ea2206b782e5868c1490ed24515f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/daybreak-mixtral-8x7b-v1.0-hf-GGUF/resolve/main/daybreak-mixtral-8x7b-v1.0-hf.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "daybreak-mixtral-8x7b-v1.0-hf.IQ4_XS.gguf",
+            "size": "25526708032",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "506b8c6d30f7ac3c4681c08e49fd51975be476ecf18a1abeaced8b6ff53de7ea",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/daybreak-mixtral-8x7b-v1.0-hf-GGUF/resolve/main/daybreak-mixtral-8x7b-v1.0-hf.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "daybreak-mixtral-8x7b-v1.0-hf.Q2_K.gguf",
+            "size": "17463797568",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "c8a83a846ee2d3a0e90cab224b275135d8a18cd4edd566bd1a21cd8f19121c4a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/daybreak-mixtral-8x7b-v1.0-hf-GGUF/resolve/main/daybreak-mixtral-8x7b-v1.0-hf.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "daybreak-mixtral-8x7b-v1.0-hf.Q3_K_L.gguf",
+            "size": "24322213696",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "766207676e6e35e6631752aa184a2023299f148f1b4013c0f1f0bce0daf6d7c1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/daybreak-mixtral-8x7b-v1.0-hf-GGUF/resolve/main/daybreak-mixtral-8x7b-v1.0-hf.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "daybreak-mixtral-8x7b-v1.0-hf.Q3_K_M.gguf",
+            "size": "22699018048",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "d430a3b2406873139894f390f181c49bd0bee6597c334ae9f171d5bdd4be11a3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/daybreak-mixtral-8x7b-v1.0-hf-GGUF/resolve/main/daybreak-mixtral-8x7b-v1.0-hf.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "daybreak-mixtral-8x7b-v1.0-hf.Q3_K_S.gguf",
+            "size": "20585088832",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "7e55e2498eb7834e15331eb362724658dcfa59b9803e20ff24f1f5b832860083",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/daybreak-mixtral-8x7b-v1.0-hf-GGUF/resolve/main/daybreak-mixtral-8x7b-v1.0-hf.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "daybreak-mixtral-8x7b-v1.0-hf.Q4_K_M.gguf",
+            "size": "28601034560",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "434aa960fcbd15261fb315055cf3fcf009b67f44ab7ec6115805192d7032080c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/daybreak-mixtral-8x7b-v1.0-hf-GGUF/resolve/main/daybreak-mixtral-8x7b-v1.0-hf.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "daybreak-mixtral-8x7b-v1.0-hf.Q4_K_S.gguf",
+            "size": "26898147136",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "5cfdc3d637e65f9f52f928c42ebc086e86b8681a172cb626e8b874d751d02ac8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/daybreak-mixtral-8x7b-v1.0-hf-GGUF/resolve/main/daybreak-mixtral-8x7b-v1.0-hf.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "daybreak-mixtral-8x7b-v1.0-hf.Q5_K_M.gguf",
+            "size": "33382147904",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "7d0a5951c0d13cf4ad395c93db6bccc13ad8ef914c09fd66f2f1fae4e24cb884",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/daybreak-mixtral-8x7b-v1.0-hf-GGUF/resolve/main/daybreak-mixtral-8x7b-v1.0-hf.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "daybreak-mixtral-8x7b-v1.0-hf.Q5_K_S.gguf",
+            "size": "32383903552",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "2077c639ee26043290995146c5f7182b164204c565a01d1d20106e5b71409112",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/daybreak-mixtral-8x7b-v1.0-hf-GGUF/resolve/main/daybreak-mixtral-8x7b-v1.0-hf.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "daybreak-mixtral-8x7b-v1.0-hf.Q6_K.gguf",
+            "size": "38533384000",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "e58cdf2eb565a4d30ad771192a8fc79110f128fc87eb32f407055e2f1b84322a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/daybreak-mixtral-8x7b-v1.0-hf-GGUF/resolve/main/daybreak-mixtral-8x7b-v1.0-hf.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

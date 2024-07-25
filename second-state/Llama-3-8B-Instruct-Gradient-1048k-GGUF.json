@@ -1,0 +1,153 @@
+{
+    "id": "second-state/Llama-3-8B-Instruct-Gradient-1048k-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-05-01T05:09:29Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Llama-3-8B-Instruct-Gradient-1048k-f16.gguf",
+            "size": "16068890816",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f73d1fa08a670f08482d8050867af7b63ccf074f70ed8c1c95463c2c6839fe97",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-8B-Instruct-Gradient-1048k-GGUF/resolve/main/Llama-3-8B-Instruct-Gradient-1048k-f16.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-8B-Instruct-Gradient-1048k-Q2_K.gguf",
+            "size": "3179131136",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "3ef6124aa67cded967ef545c020bebfc13b7e8931f0423cae06b7491d4c4c06a",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-8B-Instruct-Gradient-1048k-GGUF/resolve/main/Llama-3-8B-Instruct-Gradient-1048k-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-8B-Instruct-Gradient-1048k-Q3_K_L.gguf",
+            "size": "4321956096",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "a808b91cde6d819a75e7e3bb07fad87a376521495d3f9335901c4997f454eef8",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-8B-Instruct-Gradient-1048k-GGUF/resolve/main/Llama-3-8B-Instruct-Gradient-1048k-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-8B-Instruct-Gradient-1048k-Q3_K_M.gguf",
+            "size": "4018917632",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "bdacad367d2d172f405328ddfa4db5ae5311320f8034bbbe4a568d919aaba4c9",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-8B-Instruct-Gradient-1048k-GGUF/resolve/main/Llama-3-8B-Instruct-Gradient-1048k-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-8B-Instruct-Gradient-1048k-Q3_K_S.gguf",
+            "size": "3664498944",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "d804260111d0408e1959d41da9b5ffeeabbca03c9a2468eee1da6940190518ed",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-8B-Instruct-Gradient-1048k-GGUF/resolve/main/Llama-3-8B-Instruct-Gradient-1048k-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-8B-Instruct-Gradient-1048k-Q4_0.gguf",
+            "size": "4661211392",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "054d5fb734a9c9040e37dae466cd485040d352eb743aea22e34129dcc14b2278",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-8B-Instruct-Gradient-1048k-GGUF/resolve/main/Llama-3-8B-Instruct-Gradient-1048k-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-8B-Instruct-Gradient-1048k-Q4_K_M.gguf",
+            "size": "4920733952",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "fb6c81ab41d9873839d444f64893ccce01606473642b7d3fef3e5850bda21264",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-8B-Instruct-Gradient-1048k-GGUF/resolve/main/Llama-3-8B-Instruct-Gradient-1048k-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-8B-Instruct-Gradient-1048k-Q4_K_S.gguf",
+            "size": "4692668672",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "f13111f10bb4ceca3fb69098444d5715a6324023d6b18bceefac2e8ceec097f4",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-8B-Instruct-Gradient-1048k-GGUF/resolve/main/Llama-3-8B-Instruct-Gradient-1048k-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-8B-Instruct-Gradient-1048k-Q5_0.gguf",
+            "size": "5599293696",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "1e29aa74d7baa6fe0e80f7ab6bd14f85ccacc5d2fd2cea5779a17e785db1eae4",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-8B-Instruct-Gradient-1048k-GGUF/resolve/main/Llama-3-8B-Instruct-Gradient-1048k-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-8B-Instruct-Gradient-1048k-Q5_K_M.gguf",
+            "size": "5732987136",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "95d7a76d6d723792e77c66c814929460f1715aaff324860696d05436b770b929",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-8B-Instruct-Gradient-1048k-GGUF/resolve/main/Llama-3-8B-Instruct-Gradient-1048k-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-8B-Instruct-Gradient-1048k-Q5_K_S.gguf",
+            "size": "5599293696",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "f39899b28396cf77b165245cc03a8bc5ea5249efe5de8a46ab611aee4b30d806",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-8B-Instruct-Gradient-1048k-GGUF/resolve/main/Llama-3-8B-Instruct-Gradient-1048k-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-8B-Instruct-Gradient-1048k-Q6_K.gguf",
+            "size": "6596006144",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "4962ed758b314da060bfc65d25aa82bc045e6223f369341b72104c2ccc4e8299",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-8B-Instruct-Gradient-1048k-GGUF/resolve/main/Llama-3-8B-Instruct-Gradient-1048k-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Llama-3-8B-Instruct-Gradient-1048k-Q8_0.gguf",
+            "size": "8540770560",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "1eb42e00debee39850aa512a0c31cd7185b1989dd2a2b16fe9ad9ebe04549cc8",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-8B-Instruct-Gradient-1048k-GGUF/resolve/main/Llama-3-8B-Instruct-Gradient-1048k-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 4096,
+    "vector_size": 0,
+    "metrics": null
+}

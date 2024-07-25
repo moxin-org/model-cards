@@ -1,0 +1,63 @@
+{
+    "id": "Aryanne/Shearedplats-2.7B-v1-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Aryanne",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-12T01:30:11Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "q2_k-shearedplats-2.7b-v1.gguf",
+            "size": "1143243328",
+            "quantization": "",
+            "tags": [],
+            "sha256": "04edc7dd57695ad93041f323d36432053d0826ff9b9eb43e3003c0ee0570b712",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/Shearedplats-2.7B-v1-gguf/resolve/main/q2_k-shearedplats-2.7b-v1.gguf"
+            }
+        },
+        {
+            "name": "q4_0-shearedplats-2.7b-v1.gguf",
+            "size": "1542060608",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a4347b23ecac6c1be56e8fbfc61afa00e946e092f2e17b00237caae6de207a35",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/Shearedplats-2.7B-v1-gguf/resolve/main/q4_0-shearedplats-2.7b-v1.gguf"
+            }
+        },
+        {
+            "name": "q4_k_m-shearedplats-2.7b-v1.gguf",
+            "size": "1642084928",
+            "quantization": "",
+            "tags": [],
+            "sha256": "16acd301a09796c28b8809008ebdbf5d775f6a937b14618d8cb367fe005bb500",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/Shearedplats-2.7B-v1-gguf/resolve/main/q4_k_m-shearedplats-2.7b-v1.gguf"
+            }
+        },
+        {
+            "name": "q5_k_m-shearedplats-2.7b-v1.gguf",
+            "size": "1921022528",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c563fa24151d2555be23e5560b1ef784ca690e8b97105ecdc1bd76fcb438202c",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/Shearedplats-2.7B-v1-gguf/resolve/main/q5_k_m-shearedplats-2.7b-v1.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

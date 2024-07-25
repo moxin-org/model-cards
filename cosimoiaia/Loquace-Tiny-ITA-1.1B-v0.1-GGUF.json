@@ -1,0 +1,43 @@
+{
+    "id": "cosimoiaia/Loquace-Tiny-ITA-1.1B-v0.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "cosimoiaia",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-10T10:09:05Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Loquace-Tiny-1.1B-fp16.gguf",
+            "size": "2201017376",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e8aa4d45d081e9d29a5db9c8fb6cc3ebd0ea438505ca87de0209379986813ecb",
+            "download": {
+                "default": "https://huggingface.co/cosimoiaia/Loquace-Tiny-ITA-1.1B-v0.1-GGUF/resolve/main/Loquace-Tiny-1.1B-fp16.gguf"
+            }
+        },
+        {
+            "name": "Loquace-Tiny-1.1B-q8_0.gguf",
+            "size": "1169808416",
+            "quantization": "",
+            "tags": [],
+            "sha256": "dd134bafe0bf451f2bef8e2306b2581b7fad2f997bd73f6fc05fc893e74585cf",
+            "download": {
+                "default": "https://huggingface.co/cosimoiaia/Loquace-Tiny-ITA-1.1B-v0.1-GGUF/resolve/main/Loquace-Tiny-1.1B-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

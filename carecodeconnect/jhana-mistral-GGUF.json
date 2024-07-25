@@ -1,0 +1,43 @@
+{
+    "id": "carecodeconnect/jhana-mistral-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "carecodeconnect",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-30T07:28:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "jhana-mistral.Q4_K_M.gguf",
+            "size": "4368439488",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "37e2a981e92f7a414daf8b58321227f181222fd575a456194e94fa16d2c15f6c",
+            "download": {
+                "default": "https://huggingface.co/carecodeconnect/jhana-mistral-GGUF/resolve/main/jhana-mistral.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "jhana-mistral.Q5_K_M.gguf",
+            "size": "5131409600",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "c57a9cbdc45b51921fd4e884e887480ff94443fd9f7337d96bfe9078ceada802",
+            "download": {
+                "default": "https://huggingface.co/carecodeconnect/jhana-mistral-GGUF/resolve/main/jhana-mistral.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

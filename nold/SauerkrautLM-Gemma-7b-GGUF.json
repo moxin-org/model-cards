@@ -1,0 +1,73 @@
+{
+    "id": "nold/SauerkrautLM-Gemma-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "nold",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-10T11:55:04Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "SauerkrautLM-Gemma-7b_Q3_K_M.gguf",
+            "size": "4369328480",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "a341dd7bb3c7c1fe99f325371bd8e88e1ca50534921a530d74fa31cc015562f8",
+            "download": {
+                "default": "https://huggingface.co/nold/SauerkrautLM-Gemma-7b-GGUF/resolve/main/SauerkrautLM-Gemma-7b_Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "SauerkrautLM-Gemma-7b_Q4_K_M.gguf",
+            "size": "5329758560",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "9af9ebd4e43931b0f60ba00be5bfe104ab148bfa47359e038ab15a6269970e59",
+            "download": {
+                "default": "https://huggingface.co/nold/SauerkrautLM-Gemma-7b-GGUF/resolve/main/SauerkrautLM-Gemma-7b_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "SauerkrautLM-Gemma-7b_Q5_K_M.gguf",
+            "size": "6144502112",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ba5c13f19f939ead10b6a638411bb352b5acc54358d9d0cd330114b7c66fcea4",
+            "download": {
+                "default": "https://huggingface.co/nold/SauerkrautLM-Gemma-7b-GGUF/resolve/main/SauerkrautLM-Gemma-7b_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "SauerkrautLM-Gemma-7b_Q6_K.gguf",
+            "size": "7010167136",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "dd9d4ba1d28697d964e11231fa18999eea4416558ea5124258e99d24b6ef11db",
+            "download": {
+                "default": "https://huggingface.co/nold/SauerkrautLM-Gemma-7b-GGUF/resolve/main/SauerkrautLM-Gemma-7b_Q6_K.gguf"
+            }
+        },
+        {
+            "name": "SauerkrautLM-Gemma-7b_Q8_0.gguf",
+            "size": "9077844320",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "98ec4d48a175794ecc6531d6e1cd3d92465cc1d9b6b76849552ac7b1afd67a44",
+            "download": {
+                "default": "https://huggingface.co/nold/SauerkrautLM-Gemma-7b-GGUF/resolve/main/SauerkrautLM-Gemma-7b_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

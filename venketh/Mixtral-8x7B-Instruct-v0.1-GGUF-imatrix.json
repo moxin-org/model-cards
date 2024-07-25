@@ -1,0 +1,73 @@
+{
+    "id": "venketh/Mixtral-8x7B-Instruct-v0.1-GGUF-imatrix",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "venketh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-29T15:34:29Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mixtral-8x7b-instruct-v0.1.IQ2_S.gguf",
+            "size": "14124001152",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "72ea95ed28563c18f18594c536ce9609461ee6bb2dea98f99cf1488fd3ee1769",
+            "download": {
+                "default": "https://huggingface.co/venketh/Mixtral-8x7B-Instruct-v0.1-GGUF-imatrix/resolve/main/mixtral-8x7b-instruct-v0.1.IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "mixtral-8x7b-instruct-v0.1.IQ3_M.gguf",
+            "size": "21427062656",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "6cbeffae4f9321678af2f2c89470a2f92a8f9c1ce4fbc1df59a49b9443c9c251",
+            "download": {
+                "default": "https://huggingface.co/venketh/Mixtral-8x7B-Instruct-v0.1-GGUF-imatrix/resolve/main/mixtral-8x7b-instruct-v0.1.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "mixtral-8x7b-instruct-v0.1.IQ3_S.gguf",
+            "size": "20428818304",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "ec6692748b4396bcd1332fcc1dca917f5d3a88bae7aedd10f5e9a3fabfcd9284",
+            "download": {
+                "default": "https://huggingface.co/venketh/Mixtral-8x7B-Instruct-v0.1-GGUF-imatrix/resolve/main/mixtral-8x7b-instruct-v0.1.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "mixtral-8x7b-instruct-v0.1.IQ4_XS.gguf",
+            "size": "25076942720",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "50070d8c2a3b3df7110d7ca711d1ffb63067103e0ea2bb08df876ca2e8783482",
+            "download": {
+                "default": "https://huggingface.co/venketh/Mixtral-8x7B-Instruct-v0.1-GGUF-imatrix/resolve/main/mixtral-8x7b-instruct-v0.1.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "mixtral-8x7b-instruct-v0.1.Q5_K_M.gguf",
+            "size": "33226147712",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "6f46f36e9c92ecfb112ee0f234f346db34ce43aaecfbda9644ee1fdd277681f1",
+            "download": {
+                "default": "https://huggingface.co/venketh/Mixtral-8x7B-Instruct-v0.1-GGUF-imatrix/resolve/main/mixtral-8x7b-instruct-v0.1.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

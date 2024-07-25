@@ -1,0 +1,63 @@
+{
+    "id": "jacobhoffmann/CodeLLaMA-2-13B-TestGen-Dart_v0.2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "jacobhoffmann",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-11T11:17:17Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "CodeLLaMA-2-13B-TestGen-Dart_v0.2_F16.gguf",
+            "size": "26033631616",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2f3d0a58a0e22d7684d9ef5aac0118a1e63733cb8743bacf554649f9a596d8ca",
+            "download": {
+                "default": "https://huggingface.co/jacobhoffmann/CodeLLaMA-2-13B-TestGen-Dart_v0.2-GGUF/resolve/main/CodeLLaMA-2-13B-TestGen-Dart_v0.2_F16.gguf"
+            }
+        },
+        {
+            "name": "CodeLLaMA-2-13B-TestGen-Dart_v0.2_Q4_0.gguf",
+            "size": "7365948448",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "4bf5e029e48cb4c5cb79cd5e795f531bd9d1eb62f827b0d05159ec61d1077780",
+            "download": {
+                "default": "https://huggingface.co/jacobhoffmann/CodeLLaMA-2-13B-TestGen-Dart_v0.2-GGUF/resolve/main/CodeLLaMA-2-13B-TestGen-Dart_v0.2_Q4_0.gguf"
+            }
+        },
+        {
+            "name": "CodeLLaMA-2-13B-TestGen-Dart_v0.2_Q5_K_M.gguf",
+            "size": "9230048288",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f373d2b02f695645c410e1b87150910498c6d7b32efbf83f51e223af0ddc1fda",
+            "download": {
+                "default": "https://huggingface.co/jacobhoffmann/CodeLLaMA-2-13B-TestGen-Dart_v0.2-GGUF/resolve/main/CodeLLaMA-2-13B-TestGen-Dart_v0.2_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "CodeLLaMA-2-13B-TestGen-Dart_v0.2_Q8_0.gguf",
+            "size": "13831494016",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "14f47214b8e5b453906dda5079a4a894d9343bb5b6a088a4823b54485d9e0076",
+            "download": {
+                "default": "https://huggingface.co/jacobhoffmann/CodeLLaMA-2-13B-TestGen-Dart_v0.2-GGUF/resolve/main/CodeLLaMA-2-13B-TestGen-Dart_v0.2_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

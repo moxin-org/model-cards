@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Calme-12B-Instruct-v0.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-07T16:32:08Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Calme-12B-Instruct-v0.1.IQ3_M.gguf",
+            "size": "5625129312",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "32f1ab3f3423629206f82d0d5a06a778a83ef64bfc930423b7efa3ebb10acf96",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Calme-12B-Instruct-v0.1-GGUF/resolve/main/Calme-12B-Instruct-v0.1.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Calme-12B-Instruct-v0.1.IQ3_S.gguf",
+            "size": "5445757280",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "e182cf3b857af1592bb80827cf620be11ef6aaba3da7064b3bcc5adbc5b86b10",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Calme-12B-Instruct-v0.1-GGUF/resolve/main/Calme-12B-Instruct-v0.1.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Calme-12B-Instruct-v0.1.IQ3_XS.gguf",
+            "size": "5159496032",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "67c7815b37cb380032fd03321660e70084e6a2c85ae29d40136b3b67325ac691",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Calme-12B-Instruct-v0.1-GGUF/resolve/main/Calme-12B-Instruct-v0.1.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Calme-12B-Instruct-v0.1.IQ4_XS.gguf",
+            "size": "6769264992",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "582fa4b187a54e3d4d4a31bca56657276c4f8b9cd72dbc210424181bc41b1056",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Calme-12B-Instruct-v0.1-GGUF/resolve/main/Calme-12B-Instruct-v0.1.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Calme-12B-Instruct-v0.1.Q2_K.gguf",
+            "size": "4645226848",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a95962a592943c91b0c6e5f98f81baedb8181359756ff5179c41d12e5bb57b86",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Calme-12B-Instruct-v0.1-GGUF/resolve/main/Calme-12B-Instruct-v0.1.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Calme-12B-Instruct-v0.1.Q3_K_L.gguf",
+            "size": "6565112160",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "fa37c369d044fff2c60e0d74fe6ba679e2ea8bf50dc5d25e5ed4a1c37bef18c6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Calme-12B-Instruct-v0.1-GGUF/resolve/main/Calme-12B-Instruct-v0.1.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Calme-12B-Instruct-v0.1.Q3_K_M.gguf",
+            "size": "6030338400",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "c038a37693ccb4710bc734fae1e17d895d4699bd37ec881cb2070d5d3abcb7af",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Calme-12B-Instruct-v0.1-GGUF/resolve/main/Calme-12B-Instruct-v0.1.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Calme-12B-Instruct-v0.1.Q3_K_S.gguf",
+            "size": "5414562144",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "4bba56a5b6623925a6273e8b3c983bad8bfd7396391cf47b584b344480079125",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Calme-12B-Instruct-v0.1-GGUF/resolve/main/Calme-12B-Instruct-v0.1.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Calme-12B-Instruct-v0.1.Q4_K_M.gguf",
+            "size": "7508281696",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "8cc49316ba314f8c80dcf268ee4206a7d358899a50fc3eac2252ff7af7a3d315",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Calme-12B-Instruct-v0.1-GGUF/resolve/main/Calme-12B-Instruct-v0.1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Calme-12B-Instruct-v0.1.Q4_K_S.gguf",
+            "size": "7107594592",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "256e40c861826ec9d7850f97a4fc333c1ad4f5f32d6072123ca0183245d064a7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Calme-12B-Instruct-v0.1-GGUF/resolve/main/Calme-12B-Instruct-v0.1.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Calme-12B-Instruct-v0.1.Q5_K_M.gguf",
+            "size": "8831191392",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ea15c39fd9adac9cbe834261054ee9ad2ddff8cf3c1a44aaf73b903bd2f64004",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Calme-12B-Instruct-v0.1-GGUF/resolve/main/Calme-12B-Instruct-v0.1.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Calme-12B-Instruct-v0.1.Q5_K_S.gguf",
+            "size": "8597227872",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "d294fe79a3b4da31f7ec458a35c67960f005a3d458f793bbaa6330033362011e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Calme-12B-Instruct-v0.1-GGUF/resolve/main/Calme-12B-Instruct-v0.1.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Calme-12B-Instruct-v0.1.Q6_K.gguf",
+            "size": "10236782944",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "f4828422ac1d8e2ca21a76176e9dcc19bfdde5eec7fcfd8f75c6833367fa45cd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Calme-12B-Instruct-v0.1-GGUF/resolve/main/Calme-12B-Instruct-v0.1.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Calme-12B-Instruct-v0.1.Q8_0.gguf",
+            "size": "13258303840",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "5f0bf261cfaacf432ac37037b12f9c2986962bc7cfaedfe9ed86dd3cdf6e251f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Calme-12B-Instruct-v0.1-GGUF/resolve/main/Calme-12B-Instruct-v0.1.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

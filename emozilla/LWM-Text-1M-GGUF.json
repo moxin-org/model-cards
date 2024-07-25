@@ -1,0 +1,143 @@
+{
+    "id": "emozilla/LWM-Text-1M-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "emozilla",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-05T17:26:11Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "LWM-Text-1M.Q2_K.gguf",
+            "size": "2532863808",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "15e6f64bc500eba1a78c8ad5a950cc3ee65e7550f634ac0df8c753463530ed33",
+            "download": {
+                "default": "https://huggingface.co/emozilla/LWM-Text-1M-GGUF/resolve/main/LWM-Text-1M.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "LWM-Text-1M.Q3_K_L.gguf",
+            "size": "3597111104",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "001d8f29e198e88bc531526f832ed1cc2d3c2115af25467f7e41bd72204abb72",
+            "download": {
+                "default": "https://huggingface.co/emozilla/LWM-Text-1M-GGUF/resolve/main/LWM-Text-1M.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "LWM-Text-1M.Q3_K_M.gguf",
+            "size": "3298004800",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "1b492077bac636764299707d629b559298add7dac074c1d729c550149c73e184",
+            "download": {
+                "default": "https://huggingface.co/emozilla/LWM-Text-1M-GGUF/resolve/main/LWM-Text-1M.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "LWM-Text-1M.Q3_K_S.gguf",
+            "size": "2948304704",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "0762ad81706435e2b21fa6762575aa3767c1b7c1624968a214a8b6e4f1761847",
+            "download": {
+                "default": "https://huggingface.co/emozilla/LWM-Text-1M-GGUF/resolve/main/LWM-Text-1M.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "LWM-Text-1M.Q4_0.gguf",
+            "size": "3825807168",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "4b854e10a92d21da95d499d370f95c6d5d492933091c24dc2da6f4bb270f6aac",
+            "download": {
+                "default": "https://huggingface.co/emozilla/LWM-Text-1M-GGUF/resolve/main/LWM-Text-1M.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "LWM-Text-1M.Q4_K_M.gguf",
+            "size": "4081004352",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "895a3940b0ba91632d6374332253bf19177d45d4eece513922567974637b6d2d",
+            "download": {
+                "default": "https://huggingface.co/emozilla/LWM-Text-1M-GGUF/resolve/main/LWM-Text-1M.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "LWM-Text-1M.Q4_K_S.gguf",
+            "size": "3856740160",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "928749273179716846e15a6a631b09c7f1b18e950027e0ca2a52457f2d7c2a4d",
+            "download": {
+                "default": "https://huggingface.co/emozilla/LWM-Text-1M-GGUF/resolve/main/LWM-Text-1M.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "LWM-Text-1M.Q5_0.gguf",
+            "size": "4651691840",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "c91050ed5883d030343efc77af7668c58e5360ef2c817fe5150d3c770bab0f6e",
+            "download": {
+                "default": "https://huggingface.co/emozilla/LWM-Text-1M-GGUF/resolve/main/LWM-Text-1M.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "LWM-Text-1M.Q5_K_M.gguf",
+            "size": "4783157056",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "c4a0d112d26e9d814b700b21818c18e0e12f7e811c98395e142799c264d21ae1",
+            "download": {
+                "default": "https://huggingface.co/emozilla/LWM-Text-1M-GGUF/resolve/main/LWM-Text-1M.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "LWM-Text-1M.Q5_K_S.gguf",
+            "size": "4651691840",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "f61685bb0a29f575f50f3cff53a01947644015e1a52620fc3272769c91068721",
+            "download": {
+                "default": "https://huggingface.co/emozilla/LWM-Text-1M-GGUF/resolve/main/LWM-Text-1M.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "LWM-Text-1M.Q6_K.gguf",
+            "size": "5529194304",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "af27ad87b923c6e15b077b7ec3cff3a416acf3ae44270590b599653e3ca83252",
+            "download": {
+                "default": "https://huggingface.co/emozilla/LWM-Text-1M-GGUF/resolve/main/LWM-Text-1M.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "LWM-Text-1M.Q8_0.gguf",
+            "size": "7161089856",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "28db73bb75494aa752b75dacbd47ea9a28c555f4843c87ca337e1173dae6e01a",
+            "download": {
+                "default": "https://huggingface.co/emozilla/LWM-Text-1M-GGUF/resolve/main/LWM-Text-1M.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

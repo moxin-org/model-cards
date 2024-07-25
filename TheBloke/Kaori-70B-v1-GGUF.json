@@ -1,0 +1,123 @@
+{
+    "id": "TheBloke/Kaori-70B-v1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-19T02:45:35Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "kaori-70b-v1.Q2_K.gguf",
+            "size": "29279253504",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "cac5652aafe49b239b442319d3faa5a5ad3a2a30b4d22ef4a567ae4096ef0dc0",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Kaori-70B-v1-GGUF/resolve/main/kaori-70b-v1.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "kaori-70b-v1.Q3_K_L.gguf",
+            "size": "36147835904",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "f832ba2048f79c565b4a2713d5cf1af0fbc9ad2587c49fc88e4ade780d71e80e",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Kaori-70B-v1-GGUF/resolve/main/kaori-70b-v1.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "kaori-70b-v1.Q3_K_M.gguf",
+            "size": "33186657280",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "47da9a7289a2eb89b294bbc27f9489270d3db87e44619c50b6ce5d88af8bfff2",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Kaori-70B-v1-GGUF/resolve/main/kaori-70b-v1.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "kaori-70b-v1.Q3_K_S.gguf",
+            "size": "29919294464",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "9be6b13250c02fb65510ae792e4d51c69424e7c68d0c3b71e1b0530bca062524",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Kaori-70B-v1-GGUF/resolve/main/kaori-70b-v1.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "kaori-70b-v1.Q4_0.gguf",
+            "size": "38872249344",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "159410b898031d2c38ad3dee6fca1e10e118d70791eb88dd068864cfa0e4cadf",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Kaori-70B-v1-GGUF/resolve/main/kaori-70b-v1.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "kaori-70b-v1.Q4_K_M.gguf",
+            "size": "41422910464",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "d1d19b51c2c3aa536cc70aae7670906bea0d661179fa5157c99fadee1a75867f",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Kaori-70B-v1-GGUF/resolve/main/kaori-70b-v1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "kaori-70b-v1.Q4_K_S.gguf",
+            "size": "39073575936",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "9ea9015fc365e2ff347a3787677caaf10383701248dc0e150fe040bc5df772fa",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Kaori-70B-v1-GGUF/resolve/main/kaori-70b-v1.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "kaori-70b-v1.Q5_0.gguf",
+            "size": "47461397504",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "6133f347188a027eb51fcca4dbf3af826b07554b45add2aba7ba060e7e9fb640",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Kaori-70B-v1-GGUF/resolve/main/kaori-70b-v1.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "kaori-70b-v1.Q5_K_M.gguf",
+            "size": "48753767424",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "b3514a25060f3ec5c512cf93c7d43c9ee0b52b27e40877b814f6293a68182fbb",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Kaori-70B-v1-GGUF/resolve/main/kaori-70b-v1.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "kaori-70b-v1.Q5_K_S.gguf",
+            "size": "47461397504",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "7747de4be07367e21b469dca5502121ad629a5045d0cc7b2d3ff83cef97f3e65",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/Kaori-70B-v1-GGUF/resolve/main/kaori-70b-v1.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,173 @@
+{
+    "id": "shaowenchen/baichuan2-7b-chat-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "shaowenchen",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-11T10:13:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "baichuan2-7b-chat.gguf",
+            "size": "15015357728",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ccdbe086fcafad05e4604badcccdb66ab398ace8f283ae8060212a41e80550df",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/baichuan2-7b-chat-gguf/resolve/main/baichuan2-7b-chat.gguf"
+            }
+        },
+        {
+            "name": "baichuan2-7b-chat.Q2_K.gguf",
+            "size": "3268824416",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "11cad1b15479b21ebf884bb7c87562fbc6c5b5d8d502bec4388d231826fc292e",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/baichuan2-7b-chat-gguf/resolve/main/baichuan2-7b-chat.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "baichuan2-7b-chat.Q3_K_L.gguf",
+            "size": "4078972256",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "0ccad9b03c5b27acb786b0442b3c04dee361bee0599ae85174f236e6369b6bd5",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/baichuan2-7b-chat-gguf/resolve/main/baichuan2-7b-chat.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "baichuan2-7b-chat.Q3_K_S.gguf",
+            "size": "3430165856",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "d277798188c0fe5cc2a3dbb0a93b30db913a3a1c2f07685c7750fb4ee5baafb2",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/baichuan2-7b-chat-gguf/resolve/main/baichuan2-7b-chat.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "baichuan2-7b-chat.Q3_K.gguf",
+            "size": "3779865952",
+            "quantization": "Q3_K",
+            "tags": [],
+            "sha256": "d895efd9245b81d5f4fc773d06b0ce6058ae2642eff8794fadffd95a4244e78e",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/baichuan2-7b-chat-gguf/resolve/main/baichuan2-7b-chat.Q3_K.gguf"
+            }
+        },
+        {
+            "name": "baichuan2-7b-chat.Q4_0.gguf",
+            "size": "4358638944",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "e93de231239719355f3e407cd9c527910ad32a01c30b71b305175cb519b243ea",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/baichuan2-7b-chat-gguf/resolve/main/baichuan2-7b-chat.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "baichuan2-7b-chat.Q4_1.gguf",
+            "size": "4795567456",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "c9ea3203f5b2217f948c1cd5d8cc5471400f093c961c6a11d14d67dfd4b1706a",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/baichuan2-7b-chat-gguf/resolve/main/baichuan2-7b-chat.Q4_1.gguf"
+            }
+        },
+        {
+            "name": "baichuan2-7b-chat.Q4_K_S.gguf",
+            "size": "4389571936",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "8d7a5a06ddebf7eae44e88246d032c7ce48a57351e4c45d504c50c0f7edadaf7",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/baichuan2-7b-chat-gguf/resolve/main/baichuan2-7b-chat.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "baichuan2-7b-chat.Q4_K.gguf",
+            "size": "4613836128",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "734ca1468ec870da74e2375b33e81293c48fc2e03c75c5e7675e83c42553cb50",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/baichuan2-7b-chat-gguf/resolve/main/baichuan2-7b-chat.Q4_K.gguf"
+            }
+        },
+        {
+            "name": "baichuan2-7b-chat.Q5_0.gguf",
+            "size": "5232495968",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "3e252eb7d4890a2d205951e4636faf0b64b853aa22bbe15479f535769bfb42bb",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/baichuan2-7b-chat-gguf/resolve/main/baichuan2-7b-chat.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "baichuan2-7b-chat.Q5_1.gguf",
+            "size": "5669424480",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "b6804cd290e540ba66f83c0d0322e67d9c45a0ffdf49359e929c6ad54c44200f",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/baichuan2-7b-chat-gguf/resolve/main/baichuan2-7b-chat.Q5_1.gguf"
+            }
+        },
+        {
+            "name": "baichuan2-7b-chat.Q5_K_S.gguf",
+            "size": "5232495968",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "5216c63e1fd191d9bee931efa1177187b15b0d99aa7dcd3cd85fc2657a24b435",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/baichuan2-7b-chat-gguf/resolve/main/baichuan2-7b-chat.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "baichuan2-7b-chat.Q5_K.gguf",
+            "size": "5363961184",
+            "quantization": "Q5_K",
+            "tags": [],
+            "sha256": "b45c918645f137b1899b7ddc03cfc05efe6b915b11973756c667ce6fb9e5926c",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/baichuan2-7b-chat-gguf/resolve/main/baichuan2-7b-chat.Q5_K.gguf"
+            }
+        },
+        {
+            "name": "baichuan2-7b-chat.Q6_K.gguf",
+            "size": "6160969056",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "762fca01a66e55e1e19bfb3f2aede4fccdec2b96849a8dae9cd9291f6a3f851c",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/baichuan2-7b-chat-gguf/resolve/main/baichuan2-7b-chat.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "baichuan2-7b-chat.Q8_0.gguf",
+            "size": "7978757472",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "7388d78f8b68209106aeb8b591e6404d07a66153cb8c134678bb833e2baf5c46",
+            "download": {
+                "default": "https://huggingface.co/shaowenchen/baichuan2-7b-chat-gguf/resolve/main/baichuan2-7b-chat.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

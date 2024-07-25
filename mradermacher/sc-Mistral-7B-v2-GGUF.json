@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/sc-Mistral-7B-v2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-03T14:34:06Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "sc-Mistral-7B-v2.IQ3_M.gguf",
+            "size": "3439535520",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "3f6e927937cd2f858b7d367c9bee70ea7b3f192e3ffb6d56565c002fc1b01d74",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/sc-Mistral-7B-v2-GGUF/resolve/main/sc-Mistral-7B-v2.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "sc-Mistral-7B-v2.IQ3_S.gguf",
+            "size": "3337037216",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "bd98dc4243f86840321e7a6447bffac6d681805c171c6ffe25891341017d6137",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/sc-Mistral-7B-v2-GGUF/resolve/main/sc-Mistral-7B-v2.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "sc-Mistral-7B-v2.IQ3_XS.gguf",
+            "size": "3173459360",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "2069e144382828363fc66ee97d917133f8360e84220969833d8fa3f2b2ff8409",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/sc-Mistral-7B-v2-GGUF/resolve/main/sc-Mistral-7B-v2.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "sc-Mistral-7B-v2.IQ4_XS.gguf",
+            "size": "4099033312",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "03cca8bac00627396b64c8b3c93900ed0d67fbc4785807151919c80ec906a1b2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/sc-Mistral-7B-v2-GGUF/resolve/main/sc-Mistral-7B-v2.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "sc-Mistral-7B-v2.Q2_K.gguf",
+            "size": "2873885280",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "aedbf49df61db1b996774157fb1479974f612503fc1c26c69ba7e5df95486236",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/sc-Mistral-7B-v2-GGUF/resolve/main/sc-Mistral-7B-v2.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "sc-Mistral-7B-v2.Q3_K_L.gguf",
+            "size": "3976668576",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "53b4da53cbd770fd08586ecebe9ce036c7d213127ed6624743fe7a10d2b285bc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/sc-Mistral-7B-v2-GGUF/resolve/main/sc-Mistral-7B-v2.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "sc-Mistral-7B-v2.Q3_K_M.gguf",
+            "size": "3673630112",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "8e6898c3ca3ca1ea14c0a8a7dedb580484e899b59c10630a06eeced971d17723",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/sc-Mistral-7B-v2-GGUF/resolve/main/sc-Mistral-7B-v2.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "sc-Mistral-7B-v2.Q3_K_S.gguf",
+            "size": "3319211424",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "49890c2d98a5450e619b0f94bbd484d79f73bdfc7eaadff6bc4893c7fdf1b772",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/sc-Mistral-7B-v2-GGUF/resolve/main/sc-Mistral-7B-v2.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "sc-Mistral-7B-v2.Q4_K_M.gguf",
+            "size": "4523084256",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e3c3939e55728daf5007d2b074e9a909b6e3aa877347212f33f2f83b2d5827c9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/sc-Mistral-7B-v2-GGUF/resolve/main/sc-Mistral-7B-v2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "sc-Mistral-7B-v2.Q4_K_S.gguf",
+            "size": "4295018976",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "f2f5ce4cf225be08e825d06f8ca230114bd1b46aaa6326425261b0260e9133dc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/sc-Mistral-7B-v2-GGUF/resolve/main/sc-Mistral-7B-v2.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "sc-Mistral-7B-v2.Q5_K_M.gguf",
+            "size": "5286055392",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "728e5cc605c60746036c34593974de2393e811430aeebd80bccd61294d8c818c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/sc-Mistral-7B-v2-GGUF/resolve/main/sc-Mistral-7B-v2.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "sc-Mistral-7B-v2.Q5_K_S.gguf",
+            "size": "5152361952",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "16791e1497b63a7fa42e9621282268846f89b9473751be5ab3aa1d45d4353614",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/sc-Mistral-7B-v2-GGUF/resolve/main/sc-Mistral-7B-v2.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "sc-Mistral-7B-v2.Q6_K.gguf",
+            "size": "6096712224",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "95a24c7e94b4e287e8402dacc05f74eed83ecc5fd121df8eabe8d56151b257c7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/sc-Mistral-7B-v2-GGUF/resolve/main/sc-Mistral-7B-v2.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "sc-Mistral-7B-v2.Q8_0.gguf",
+            "size": "7818762720",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "e76e276daa23151c9fe1202fa9e9f5af697a8a28eb7c2e689800ce09e522e9e9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/sc-Mistral-7B-v2-GGUF/resolve/main/sc-Mistral-7B-v2.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

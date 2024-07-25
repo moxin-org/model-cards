@@ -1,0 +1,143 @@
+{
+    "id": "second-state/stablelm-2-zephyr-1.6b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-21T08:53:08Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "stablelm-2-zephyr-1_6b-Q2_K.gguf",
+            "size": "694161408",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "d3fc3b72fc2873c454f76c5e3c44d9dc36110a842552088a13d0cae098b60073",
+            "download": {
+                "default": "https://huggingface.co/second-state/stablelm-2-zephyr-1.6b-GGUF/resolve/main/stablelm-2-zephyr-1_6b-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-zephyr-1_6b-Q3_K_L.gguf",
+            "size": "914984960",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "0cf61040b65650ca51b5fb2b055d9047713218f9c80c706f1fc73ddfed72437c",
+            "download": {
+                "default": "https://huggingface.co/second-state/stablelm-2-zephyr-1.6b-GGUF/resolve/main/stablelm-2-zephyr-1_6b-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-zephyr-1_6b-Q3_K_M.gguf",
+            "size": "857706496",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "7ae1c62b589509bd3365c4c68be11f3e712a90b96b6d1e5010f9f60cfc7d9ddb",
+            "download": {
+                "default": "https://huggingface.co/second-state/stablelm-2-zephyr-1.6b-GGUF/resolve/main/stablelm-2-zephyr-1_6b-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-zephyr-1_6b-Q3_K_S.gguf",
+            "size": "791711744",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "09807671c21288959fe1fb46825781d6868ad8d136970875bb5b84a53bdcb8f1",
+            "download": {
+                "default": "https://huggingface.co/second-state/stablelm-2-zephyr-1.6b-GGUF/resolve/main/stablelm-2-zephyr-1_6b-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-zephyr-1_6b-Q4_0.gguf",
+            "size": "982781952",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "6d017cc4a473ea30641f67d3d39010baf03180292e8394754c6fd66abe94e336",
+            "download": {
+                "default": "https://huggingface.co/second-state/stablelm-2-zephyr-1.6b-GGUF/resolve/main/stablelm-2-zephyr-1_6b-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-zephyr-1_6b-Q4_K_M.gguf",
+            "size": "1031442432",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4224a8a08417e34d5a224efb1291491c4f5762b46aa012021adaf0a0578848e2",
+            "download": {
+                "default": "https://huggingface.co/second-state/stablelm-2-zephyr-1.6b-GGUF/resolve/main/stablelm-2-zephyr-1_6b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-zephyr-1_6b-Q4_K_S.gguf",
+            "size": "989204480",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "93fc1293717f1b050b149240c23344bafd2eac297e9b9dc0f7f1618224de7594",
+            "download": {
+                "default": "https://huggingface.co/second-state/stablelm-2-zephyr-1.6b-GGUF/resolve/main/stablelm-2-zephyr-1_6b-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-zephyr-1_6b-Q5_0.gguf",
+            "size": "1162612736",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "1e07aa4c5afd65fc82b2cecc2bc9ed29738ce562f626477a05bb50e824c09fc4",
+            "download": {
+                "default": "https://huggingface.co/second-state/stablelm-2-zephyr-1.6b-GGUF/resolve/main/stablelm-2-zephyr-1_6b-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-zephyr-1_6b-Q5_K_M.gguf",
+            "size": "1187680256",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f788077be1d940a0a8e94dfc4b1f9139b1e5e8bcd72410a45e8089fef19fad13",
+            "download": {
+                "default": "https://huggingface.co/second-state/stablelm-2-zephyr-1.6b-GGUF/resolve/main/stablelm-2-zephyr-1_6b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-zephyr-1_6b-Q5_K_S.gguf",
+            "size": "1162612736",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "21fbcb02bdf1cc1590518570e5a0605d975abd70bde0deb73d1e3478866439b8",
+            "download": {
+                "default": "https://huggingface.co/second-state/stablelm-2-zephyr-1.6b-GGUF/resolve/main/stablelm-2-zephyr-1_6b-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-zephyr-1_6b-Q6_K.gguf",
+            "size": "1353682944",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "e22b34d6b6a9a36b0fb4b292d7b4c07e0a7423e661592950a7c50b07f11e20c5",
+            "download": {
+                "default": "https://huggingface.co/second-state/stablelm-2-zephyr-1.6b-GGUF/resolve/main/stablelm-2-zephyr-1_6b-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "stablelm-2-zephyr-1_6b-Q8_0.gguf",
+            "size": "1751879680",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "682757fc426b1332b1880bfc73226d574d9404276d8133aea16aa73845e64d44",
+            "download": {
+                "default": "https://huggingface.co/second-state/stablelm-2-zephyr-1.6b-GGUF/resolve/main/stablelm-2-zephyr-1_6b-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 2048,
+    "vector_size": 0,
+    "metrics": {}
+}

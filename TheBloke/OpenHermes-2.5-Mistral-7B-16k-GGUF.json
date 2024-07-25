@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-16T21:43:44Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "openhermes-2.5-mistral-7b-16k.Q2_K.gguf",
+            "size": "3083107328",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "cafde69902930099a306469a2ac8ed57a52a90b67183c81331f0f53fe1774c8a",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF/resolve/main/openhermes-2.5-mistral-7b-16k.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "openhermes-2.5-mistral-7b-16k.Q3_K_L.gguf",
+            "size": "3822034752",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "a4b16650da3713d26f251dacaf5d2895978f5143c2c2158f310fed777b15783d",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF/resolve/main/openhermes-2.5-mistral-7b-16k.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "openhermes-2.5-mistral-7b-16k.Q3_K_M.gguf",
+            "size": "3518996288",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "199c9018d4f1665449fdeab2724973feb1953c9aab8b6287329ac599a28dbad8",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF/resolve/main/openhermes-2.5-mistral-7b-16k.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "openhermes-2.5-mistral-7b-16k.Q3_K_S.gguf",
+            "size": "3164577600",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "ded078479ad973d5e334b0c87a13aa1f780818f8e13593a76c80aefc4001101c",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF/resolve/main/openhermes-2.5-mistral-7b-16k.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "openhermes-2.5-mistral-7b-16k.Q4_0.gguf",
+            "size": "4108927872",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "1150591e8591b498d45b6452786d4a4271bb3044de6bdd054aee9ede21d03b00",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF/resolve/main/openhermes-2.5-mistral-7b-16k.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "openhermes-2.5-mistral-7b-16k.Q4_K_M.gguf",
+            "size": "4368450432",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "336011b45dd6813436b00251d880c5240b92c5c244469c30417178cf687e3b58",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF/resolve/main/openhermes-2.5-mistral-7b-16k.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "openhermes-2.5-mistral-7b-16k.Q4_K_S.gguf",
+            "size": "4140385152",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "181dfa871e0e45d74cdb1c66a66353035af1a515fab3c6802964e070d01ce2e9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF/resolve/main/openhermes-2.5-mistral-7b-16k.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "openhermes-2.5-mistral-7b-16k.Q5_0.gguf",
+            "size": "4997728128",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "187bdd8884c6df119f2f01006c94ec63fe9a2ad179a0d6ee1b327dbe84fa9843",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF/resolve/main/openhermes-2.5-mistral-7b-16k.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "openhermes-2.5-mistral-7b-16k.Q5_K_M.gguf",
+            "size": "5131421568",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "06cf98f39da3f7b16e7b2f0113af4b983e91125a8359fdff1d21562d666eb637",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF/resolve/main/openhermes-2.5-mistral-7b-16k.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "openhermes-2.5-mistral-7b-16k.Q5_K_S.gguf",
+            "size": "4997728128",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "2825f3f416b282f659482581c350735160d1a8798ef2bc4b85314401e093ca31",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF/resolve/main/openhermes-2.5-mistral-7b-16k.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "openhermes-2.5-mistral-7b-16k.Q6_K.gguf",
+            "size": "5942078400",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "6a38c529ddb6df75248aa3e9d34834aadd17770ee0edcc42ef661a207355c723",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF/resolve/main/openhermes-2.5-mistral-7b-16k.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "openhermes-2.5-mistral-7b-16k.Q8_0.gguf",
+            "size": "7695874880",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "a6fa8502bffaf33ea62a448485adf1a14cde706efd133e8d7971241558fcf817",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF/resolve/main/openhermes-2.5-mistral-7b-16k.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

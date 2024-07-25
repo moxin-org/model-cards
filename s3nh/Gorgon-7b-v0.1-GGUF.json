@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/Gorgon-7b-v0.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-22T07:01:11Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "gorgon-7b-v0.1.Q3_K_S.gguf",
+            "size": "3164577504",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "ab79ac987c88b2a646079fb105447da500c55f1deffdd5bee1801d103913e9d0",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Gorgon-7b-v0.1-GGUF/resolve/main/gorgon-7b-v0.1.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "gorgon-7b-v0.1.Q4_K_M.gguf",
+            "size": "4368450336",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "3a77a439965689d66fb78d4e2cbd4a2eb75e05c3813dfa2bce820f54a5e01634",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Gorgon-7b-v0.1-GGUF/resolve/main/gorgon-7b-v0.1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "gorgon-7b-v0.1.Q5_K_M.gguf",
+            "size": "5131421472",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "a89bd7888f4b4a15ec4f68d4bfb6e92a098136840b250fb1964917e0b7372bdf",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Gorgon-7b-v0.1-GGUF/resolve/main/gorgon-7b-v0.1.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "gorgon-7b-v0.1.Q6_K.gguf",
+            "size": "5942078304",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "d77360f828eb5bd2eb0d939c18ac5ae931e625df81eabf599ec776e3698281b3",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Gorgon-7b-v0.1-GGUF/resolve/main/gorgon-7b-v0.1.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "gorgon-7b-v0.1.Q8_0.gguf",
+            "size": "7695874784",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "3245b044bbeb8df819003ac42efbbbf0b53fb111714784e22b575f8b0cb7a39f",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Gorgon-7b-v0.1-GGUF/resolve/main/gorgon-7b-v0.1.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

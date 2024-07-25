@@ -1,0 +1,83 @@
+{
+    "id": "dranger003/starcoder2-15b-instruct-iMat.GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "dranger003",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-07T02:25:29Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-starcoder2-15b-instruct-iq3_xs.gguf",
+            "size": "6697453472",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8179c2130df7d7c057f110e95a335023da981a894ecbfe549703d994926af64e",
+            "download": {
+                "default": "https://huggingface.co/dranger003/starcoder2-15b-instruct-iMat.GGUF/resolve/main/ggml-starcoder2-15b-instruct-iq3_xs.gguf"
+            }
+        },
+        {
+            "name": "ggml-starcoder2-15b-instruct-iq4_xs.gguf",
+            "size": "8595900320",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1a7ec2cf987b72246a3d15e310580b7e166e5d3f43d21bdc430f12eef5b5310b",
+            "download": {
+                "default": "https://huggingface.co/dranger003/starcoder2-15b-instruct-iMat.GGUF/resolve/main/ggml-starcoder2-15b-instruct-iq4_xs.gguf"
+            }
+        },
+        {
+            "name": "ggml-starcoder2-15b-instruct-q4_k.gguf",
+            "size": "9860188064",
+            "quantization": "",
+            "tags": [],
+            "sha256": "475ac630e302d1f7f186c12bff85c187756fe194613de12b1fb53816e2ba697d",
+            "download": {
+                "default": "https://huggingface.co/dranger003/starcoder2-15b-instruct-iMat.GGUF/resolve/main/ggml-starcoder2-15b-instruct-q4_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-starcoder2-15b-instruct-q5_k.gguf",
+            "size": "11431479200",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e7bc88266d62dce188c3ed8a4976d0d10a817b778439a99f1b6c4c4fa11cd14c",
+            "download": {
+                "default": "https://huggingface.co/dranger003/starcoder2-15b-instruct-iMat.GGUF/resolve/main/ggml-starcoder2-15b-instruct-q5_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-starcoder2-15b-instruct-q6_k.gguf",
+            "size": "13100976032",
+            "quantization": "",
+            "tags": [],
+            "sha256": "25869d460757068ee9eca1e4e006b1f371fe66b1aa3cf476d188b0bb7e48fbcc",
+            "download": {
+                "default": "https://huggingface.co/dranger003/starcoder2-15b-instruct-iMat.GGUF/resolve/main/ggml-starcoder2-15b-instruct-q6_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-starcoder2-15b-instruct-q8_0.gguf",
+            "size": "16965109664",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c68683e1dc340878a11057b1bcd85187ed032ce42d528cf6d0ca696b5753dad5",
+            "download": {
+                "default": "https://huggingface.co/dranger003/starcoder2-15b-instruct-iMat.GGUF/resolve/main/ggml-starcoder2-15b-instruct-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

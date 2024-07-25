@@ -1,0 +1,173 @@
+{
+    "id": "erickfmm/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "erickfmm",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-08T02:04:17Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.f16.gguf",
+            "size": "5246378304",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f222a9ac9a9107bb465c2bf777a299d14ab260390740c8acd03d6a29b6d1cd5b",
+            "download": {
+                "default": "https://huggingface.co/erickfmm/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1-GGUF/resolve/main/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.f16.gguf"
+            }
+        },
+        {
+            "name": "Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q2_K.gguf",
+            "size": "983540704",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3f50f541897f0abb36af313bc2cdd1229bc26e7c120c5a362cd145b36a8b8183",
+            "download": {
+                "default": "https://huggingface.co/erickfmm/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1-GGUF/resolve/main/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q2_K.gguf"
+            }
+        },
+        {
+            "name": "Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q3_K_S.gguf",
+            "size": "1153840512",
+            "quantization": "",
+            "tags": [],
+            "sha256": "975337bc0c01f3b3b4b1b14865356a947456d035d763247125ac016bbd84cbca",
+            "download": {
+                "default": "https://huggingface.co/erickfmm/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1-GGUF/resolve/main/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q3_K.gguf",
+            "size": "1273189760",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3fd5894b2e09dbbdc00b07d684a9e540a8949d929730f80adb7d113d857091a0",
+            "download": {
+                "default": "https://huggingface.co/erickfmm/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1-GGUF/resolve/main/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q3_K.gguf"
+            }
+        },
+        {
+            "name": "Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q4_0.gguf",
+            "size": "1493436320",
+            "quantization": "",
+            "tags": [],
+            "sha256": "65d7912c7733645acf9dfbf76d1707b6e40ce5b9bb767cccfb5cfd088743bb7f",
+            "download": {
+                "default": "https://huggingface.co/erickfmm/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1-GGUF/resolve/main/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q4_0.gguf"
+            }
+        },
+        {
+            "name": "Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q4_1.gguf",
+            "size": "1653246112",
+            "quantization": "",
+            "tags": [],
+            "sha256": "de433afdc47022c0b2461713920db89cd514fb7af1112b7e23057af7b3408a3e",
+            "download": {
+                "default": "https://huggingface.co/erickfmm/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1-GGUF/resolve/main/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q4_1.gguf"
+            }
+        },
+        {
+            "name": "Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q4_K_S.gguf",
+            "size": "1502349216",
+            "quantization": "",
+            "tags": [],
+            "sha256": "63a9c1001f04e542788f25431a1454b4f13a5c0f5c48bc35f17470b414ca219d",
+            "download": {
+                "default": "https://huggingface.co/erickfmm/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1-GGUF/resolve/main/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q4_K.gguf",
+            "size": "1583998880",
+            "quantization": "",
+            "tags": [],
+            "sha256": "425202a8aff50353f27f2b0c16372554f1aed7b36876c3a1d14e797acf09155f",
+            "download": {
+                "default": "https://huggingface.co/erickfmm/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1-GGUF/resolve/main/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q4_K.gguf"
+            }
+        },
+        {
+            "name": "Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q5_0.gguf",
+            "size": "1813055904",
+            "quantization": "",
+            "tags": [],
+            "sha256": "519818d7ce352d6f13b3ba25892fa565d73a4f3b76b88730cc1826b19cdae9b2",
+            "download": {
+                "default": "https://huggingface.co/erickfmm/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1-GGUF/resolve/main/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q5_0.gguf"
+            }
+        },
+        {
+            "name": "Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q5_1.gguf",
+            "size": "1972865696",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a20c496f8f976675d3c3a2bb71091ae77d16ed65a2b30372baaf2cc021baa419",
+            "download": {
+                "default": "https://huggingface.co/erickfmm/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1-GGUF/resolve/main/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q5_1.gguf"
+            }
+        },
+        {
+            "name": "Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q5_K_M.gguf",
+            "size": "1859709344",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b318117804aa9a276a5f350e57df25d17f455fb84fe351ea4e80dae510088608",
+            "download": {
+                "default": "https://huggingface.co/erickfmm/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1-GGUF/resolve/main/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q5_K_S.gguf",
+            "size": "1813055904",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3cadc15935a74658efb721db8a81be40dba8a62ba7e0cabf519db997264138e0",
+            "download": {
+                "default": "https://huggingface.co/erickfmm/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1-GGUF/resolve/main/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q5_K.gguf",
+            "size": "1859709344",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b318117804aa9a276a5f350e57df25d17f455fb84fe351ea4e80dae510088608",
+            "download": {
+                "default": "https://huggingface.co/erickfmm/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1-GGUF/resolve/main/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q5_K.gguf"
+            }
+        },
+        {
+            "name": "Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q6_K.gguf",
+            "size": "2152651712",
+            "quantization": "",
+            "tags": [],
+            "sha256": "251e2746830dd5b1d31a96fcf5a87b66dd19a58886c88d86e0d7e71fbf9572b3",
+            "download": {
+                "default": "https://huggingface.co/erickfmm/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1-GGUF/resolve/main/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q6_K.gguf"
+            }
+        },
+        {
+            "name": "Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q8.gguf",
+            "size": "2787660864",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b9d621303fef5a74104b554b7a9db7c7ba82e68b3d4e5a1b060269a322c9e23c",
+            "download": {
+                "default": "https://huggingface.co/erickfmm/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1-GGUF/resolve/main/Mix_TinyLlama-3x1B_oasst2_chatML_Cluster_3_2_1_V1.q8.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

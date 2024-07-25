@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/mistral_18B_v0.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-14T05:27:35Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistral_18B_v0.1.IQ3_M.gguf",
+            "size": "8161934304",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "182318cc35963de58a8780fee45047f5e8f696a78b4d100eb52af24edac42397",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral_18B_v0.1-GGUF/resolve/main/mistral_18B_v0.1.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "mistral_18B_v0.1.IQ3_S.gguf",
+            "size": "7905688544",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "d900471f3a406113f99046e7dc20019934d71d408d7ae7765df8334e2bbf9516",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral_18B_v0.1-GGUF/resolve/main/mistral_18B_v0.1.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "mistral_18B_v0.1.IQ3_XS.gguf",
+            "size": "7410236384",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "c9e3cb445992bfe4a3c97b85e97d7aa559545636b722e2307301f44dd9c8b5f7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral_18B_v0.1-GGUF/resolve/main/mistral_18B_v0.1.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "mistral_18B_v0.1.IQ4_XS.gguf",
+            "size": "9748765664",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "f0b7fba4199a8ce2306a48d7a53b3230330d77a1737224b831034325c2a644c2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral_18B_v0.1-GGUF/resolve/main/mistral_18B_v0.1.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "mistral_18B_v0.1.Q2_K.gguf",
+            "size": "6767778784",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "5ff7f5cc183d95fb9f56467b7e83dd1a9d5e0f84510e1bdec8240ae2cf5cf911",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral_18B_v0.1-GGUF/resolve/main/mistral_18B_v0.1.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "mistral_18B_v0.1.Q3_K_L.gguf",
+            "size": "9462823904",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "e2dbd3d7fc6d977602963129c949bb0e077333397cee2262e5292b7fa2a8a044",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral_18B_v0.1-GGUF/resolve/main/mistral_18B_v0.1.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "mistral_18B_v0.1.Q3_K_M.gguf",
+            "size": "8744549344",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ee18eb7dba9db4e0c9938ba2dd5d1c985cf1f610c5743aef491bcdec32b688a4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral_18B_v0.1-GGUF/resolve/main/mistral_18B_v0.1.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral_18B_v0.1.Q3_K_S.gguf",
+            "size": "7905688544",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "95ef4aa19396e5e8256cbbc205ff8c57efb0fd89594d816e7a259083e809072e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral_18B_v0.1-GGUF/resolve/main/mistral_18B_v0.1.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "mistral_18B_v0.1.Q4_K_M.gguf",
+            "size": "10823719904",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4ad19f2303564cfff767e0f372909038afedbb384aa2a8d993e3dcf1dca0ce7a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral_18B_v0.1-GGUF/resolve/main/mistral_18B_v0.1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral_18B_v0.1.Q4_K_S.gguf",
+            "size": "10269285344",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "61cb354bde63fc67523a839aa6c870e68d9189cb91e4f1c67c46dae3f78706c0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral_18B_v0.1-GGUF/resolve/main/mistral_18B_v0.1.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "mistral_18B_v0.1.Q5_K_M.gguf",
+            "size": "12685597664",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ba305c37809ce02e74a5dc50112f30a88e33198a06f1f13ca5a5af78f1173c88",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral_18B_v0.1-GGUF/resolve/main/mistral_18B_v0.1.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral_18B_v0.1.Q5_K_S.gguf",
+            "size": "12351364064",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "7052236c6ee2b669e788d10dd9c86f47a38c9bf9e0a7418df4f175358c4e3e1a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral_18B_v0.1-GGUF/resolve/main/mistral_18B_v0.1.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "mistral_18B_v0.1.Q6_K.gguf",
+            "size": "14686125024",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "14f1fcdef84e3b5c4b0c6e6af3ab9c9f6383ead47c4989accbb27f4ba4ec2dbd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral_18B_v0.1-GGUF/resolve/main/mistral_18B_v0.1.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "mistral_18B_v0.1.Q8_0.gguf",
+            "size": "18943630304",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "97a36078bdac6c9b84d31c570cf277d6327fb8421c9a521df3c721887a77df8f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/mistral_18B_v0.1-GGUF/resolve/main/mistral_18B_v0.1.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,43 @@
+{
+    "id": "babybirdprd/Experiment26-7B-passthrough-6slice-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "babybirdprd",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-02T10:31:33Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "experiment26-7b-passthrough-6slice.Q4_K_M.gguf",
+            "size": "3167292416",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "dc7fbc9b3e953e6491b961b6f35c35d763d597926e158e302e515a56b3f9d22e",
+            "download": {
+                "default": "https://huggingface.co/babybirdprd/Experiment26-7B-passthrough-6slice-GGUF/resolve/main/experiment26-7b-passthrough-6slice.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "experiment26-7b-passthrough-6slice.Q5_K_M.gguf",
+            "size": "3744664576",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "665adf01babd7e08bf9db1f7bf41ddd80d1c183a94b5eb55c85e8a77a988a704",
+            "download": {
+                "default": "https://huggingface.co/babybirdprd/Experiment26-7B-passthrough-6slice-GGUF/resolve/main/experiment26-7b-passthrough-6slice.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

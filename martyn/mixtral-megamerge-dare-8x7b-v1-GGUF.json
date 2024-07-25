@@ -1,0 +1,63 @@
+{
+    "id": "martyn/mixtral-megamerge-dare-8x7b-v1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "martyn",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-24T06:31:14Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mixtral-merge-1.Q4_K_M.gguf",
+            "size": "26441545568",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "df21c539237e6d5e1d085892430014d53cc93f72b100e8a6cf51d88e6e89eed3",
+            "download": {
+                "default": "https://huggingface.co/martyn/mixtral-megamerge-dare-8x7b-v1-GGUF/resolve/main/mixtral-merge-1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "mixtral-merge-1.Q4_K_S.gguf",
+            "size": "26441545568",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "b0f861d1ae2fa0786826d75dea356619bb827aba7232e84cdcee42dec82c3f94",
+            "download": {
+                "default": "https://huggingface.co/martyn/mixtral-megamerge-dare-8x7b-v1-GGUF/resolve/main/mixtral-merge-1.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "mixtral-merge-1.Q6_K.gguf",
+            "size": "38378774432",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "2455b524ce70b37683651492b60daf36c8632de79ced71efae60f7c8091e8fcf",
+            "download": {
+                "default": "https://huggingface.co/martyn/mixtral-megamerge-dare-8x7b-v1-GGUF/resolve/main/mixtral-merge-1.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "mixtral-merge-1.Q8_0.gguf",
+            "size": "49624280864",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "2f36c49e1487f466be0a74a453d5a1f970bec313552e66122f240e6b365cd216",
+            "download": {
+                "default": "https://huggingface.co/martyn/mixtral-megamerge-dare-8x7b-v1-GGUF/resolve/main/mixtral-merge-1.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

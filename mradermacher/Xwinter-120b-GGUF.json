@@ -1,0 +1,43 @@
+{
+    "id": "mradermacher/Xwinter-120b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-15T07:36:54Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Xwinter-120b.IQ3_XS.gguf",
+            "size": "48284855648",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "0e8a3a0877370d9b6b9ce9f75150442148ba743ac29d4bccdf121d2adfb6cfb8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Xwinter-120b-GGUF/resolve/main/Xwinter-120b.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Xwinter-120b.Q2_K.gguf",
+            "size": "43554975072",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "e133194f96f656a3188f9493a46eac38818352e980912718b0442a0f5566af70",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Xwinter-120b-GGUF/resolve/main/Xwinter-120b.Q2_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

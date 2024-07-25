@@ -1,0 +1,103 @@
+{
+    "id": "koesn/NeuralHermes-2.5-Mistral-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "koesn",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-10T02:19:04Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "neuralhermes-2.5-mistral-7b.IQ3_M.gguf",
+            "size": "3284901856",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "4f342bd53bea7bf6c1a2e364d108bcf23918b0c9e8bd7ec852c797718cfd128f",
+            "download": {
+                "default": "https://huggingface.co/koesn/NeuralHermes-2.5-Mistral-7B-GGUF/resolve/main/neuralhermes-2.5-mistral-7b.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "neuralhermes-2.5-mistral-7b.IQ3_S.gguf",
+            "size": "3182403552",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "b8c3a876119128459f35e77c974cc4bf39dec7c154a79914f25cb543e513f679",
+            "download": {
+                "default": "https://huggingface.co/koesn/NeuralHermes-2.5-Mistral-7B-GGUF/resolve/main/neuralhermes-2.5-mistral-7b.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "neuralhermes-2.5-mistral-7b.IQ4_NL.gguf",
+            "size": "4155065376",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "102ae9e68c63f38530dbf87f424aa45008405bce63d3f18aaa95bfa361131602",
+            "download": {
+                "default": "https://huggingface.co/koesn/NeuralHermes-2.5-Mistral-7B-GGUF/resolve/main/neuralhermes-2.5-mistral-7b.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "neuralhermes-2.5-mistral-7b.Q4_0.gguf",
+            "size": "4108928032",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "414e58fd29ab80a5c3d5634579a5a8cc6ba0890bfab3320cbcc9c27997b6650e",
+            "download": {
+                "default": "https://huggingface.co/koesn/NeuralHermes-2.5-Mistral-7B-GGUF/resolve/main/neuralhermes-2.5-mistral-7b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "neuralhermes-2.5-mistral-7b.Q4_K_M.gguf",
+            "size": "4368450592",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "a778666711112ce73c387a92c4b32f641a9b0cde678caaec97673176c6197bd9",
+            "download": {
+                "default": "https://huggingface.co/koesn/NeuralHermes-2.5-Mistral-7B-GGUF/resolve/main/neuralhermes-2.5-mistral-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "neuralhermes-2.5-mistral-7b.Q5_K_M.gguf",
+            "size": "5131421728",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "8367bd7fd5065d2989aaab7afa625bb2d714a49b393c2970379fa14bbd110c6c",
+            "download": {
+                "default": "https://huggingface.co/koesn/NeuralHermes-2.5-Mistral-7B-GGUF/resolve/main/neuralhermes-2.5-mistral-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "neuralhermes-2.5-mistral-7b.Q6_K.gguf",
+            "size": "5942078560",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "443e741c9d8cd6c3760eda365cb6873bbf884d861c253e6a282d89d5bfefa052",
+            "download": {
+                "default": "https://huggingface.co/koesn/NeuralHermes-2.5-Mistral-7B-GGUF/resolve/main/neuralhermes-2.5-mistral-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "neuralhermes-2.5-mistral-7b.Q8_0.gguf",
+            "size": "7695875040",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "8b71c2e784649c88d3ff7a1226ffc1096db5734be4cd7639470f656aad189915",
+            "download": {
+                "default": "https://huggingface.co/koesn/NeuralHermes-2.5-Mistral-7B-GGUF/resolve/main/neuralhermes-2.5-mistral-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

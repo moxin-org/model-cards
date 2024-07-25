@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/TableLLM-13b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-05T06:37:28Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "TableLLM-13b.IQ3_M.gguf",
+            "size": "5984612832",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "23e852cd668337e1a0a73839587105216ba6e4f705069dc6c2360f7ebadf46d8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/TableLLM-13b-GGUF/resolve/main/TableLLM-13b.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b.IQ3_S.gguf",
+            "size": "5659083232",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "0ce0902333e7738794a078cebf295dfe8657d361beb3c3b5a28e727ebf899aaa",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/TableLLM-13b-GGUF/resolve/main/TableLLM-13b.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b.IQ3_XS.gguf",
+            "size": "5361713632",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "6d0af4a1febca0fd4bc65fb8414356dc2ba1798ba8bf5307dff71c8c5c0fc33e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/TableLLM-13b-GGUF/resolve/main/TableLLM-13b.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b.IQ4_XS.gguf",
+            "size": "7019629152",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "537c52ff5a6427cab2b1ae64807c265258aac7cf024a896d6d1dfc3742d79c80",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/TableLLM-13b-GGUF/resolve/main/TableLLM-13b.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b.Q2_K.gguf",
+            "size": "4854364512",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "358ec91311480d36d3fc34f3162c0a36848d0a5b38e687bad0dd9e6594518538",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/TableLLM-13b-GGUF/resolve/main/TableLLM-13b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b.Q3_K_L.gguf",
+            "size": "6929662432",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "f1261763483027bda4c30c022517f7c20a63491223c48eaf05fe08a9afc86b01",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/TableLLM-13b-GGUF/resolve/main/TableLLM-13b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b.Q3_K_M.gguf",
+            "size": "6337872352",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "9a9ef12fe9ae3f77268734e60f6f74942785fa97a14bcdb238ade5eb67c816c2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/TableLLM-13b-GGUF/resolve/main/TableLLM-13b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b.Q3_K_S.gguf",
+            "size": "5659083232",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "1309ce10e58e826aab3aca95e1814eb470b6c769d4aa0cbaaf9513b7f251ea35",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/TableLLM-13b-GGUF/resolve/main/TableLLM-13b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b.Q4_K_M.gguf",
+            "size": "7866070112",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e0106d000a475cd791c4f1a1c2889b5c1e739ac61ba4a98d9f84462e0993e784",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/TableLLM-13b-GGUF/resolve/main/TableLLM-13b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b.Q4_K_S.gguf",
+            "size": "7423292512",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "adb47757f9652080869cded176e3eef0484dbb4b7cf514476f6fee85e6840a97",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/TableLLM-13b-GGUF/resolve/main/TableLLM-13b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b.Q5_K_M.gguf",
+            "size": "9230048352",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "793f1212df1c7af5d3957a4d00287ee611bb25de59e77a1a5346a552c7049386",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/TableLLM-13b-GGUF/resolve/main/TableLLM-13b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b.Q5_K_S.gguf",
+            "size": "8972409952",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "8293d65fdcbf15445c8fe852c510045499dcbd31df201f4e94b30c09c382bdab",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/TableLLM-13b-GGUF/resolve/main/TableLLM-13b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b.Q6_K.gguf",
+            "size": "10679275232",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "16b138b90ea4e053d4ab579283bc981bb7f89ed004bcbf27a65091fb7c86cfef",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/TableLLM-13b-GGUF/resolve/main/TableLLM-13b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "TableLLM-13b.Q8_0.gguf",
+            "size": "13831494112",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "24da5804010dfbfe4257cdc7ae764f62b8e1685f3e6dcc7e8519284eafb9c031",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/TableLLM-13b-GGUF/resolve/main/TableLLM-13b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

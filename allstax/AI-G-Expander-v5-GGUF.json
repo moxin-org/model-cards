@@ -1,0 +1,53 @@
+{
+    "id": "allstax/AI-G-Expander-v5-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "allstax",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-23T20:41:10Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ai-g-expander-v5.Q4_K_M.gguf",
+            "size": "4368450752",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "9b6978846b294367f4512ef9837c6f907fb3cb9823faee5f8ddea8820a66e478",
+            "download": {
+                "default": "https://huggingface.co/allstax/AI-G-Expander-v5-GGUF/resolve/main/ai-g-expander-v5.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "ai-g-expander-v5.Q5_K_M.gguf",
+            "size": "5131421888",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "02dcc935c0a603abfc86f7a08042986a8194db909e51e7cbedfe94ed502afbf8",
+            "download": {
+                "default": "https://huggingface.co/allstax/AI-G-Expander-v5-GGUF/resolve/main/ai-g-expander-v5.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "ai-g-expander-v5.Q6_K.gguf",
+            "size": "5942078720",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "f214f2fc90f19698b8478d28f3e31fa0f87bfd2273ab6da49c6298ea765e364c",
+            "download": {
+                "default": "https://huggingface.co/allstax/AI-G-Expander-v5-GGUF/resolve/main/ai-g-expander-v5.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

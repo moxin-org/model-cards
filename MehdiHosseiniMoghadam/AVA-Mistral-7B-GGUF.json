@@ -1,0 +1,53 @@
+{
+    "id": "MehdiHosseiniMoghadam/AVA-Mistral-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "MehdiHosseiniMoghadam",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-27T00:39:07Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ava-mistral-7b.Q4_K_M.gguf",
+            "size": "4368450592",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c54083403ab2746b07db9c25f894921d9c4dceff3b5547aab4cc272f9a993c92",
+            "download": {
+                "default": "https://huggingface.co/MehdiHosseiniMoghadam/AVA-Mistral-7B-GGUF/resolve/main/ava-mistral-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "ava-mistral-7b.Q5_K_M.gguf",
+            "size": "5131421728",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "19b215ca3898858b33de411d6830b6d46b2c89f21f02dec328de4b5b13b089b6",
+            "download": {
+                "default": "https://huggingface.co/MehdiHosseiniMoghadam/AVA-Mistral-7B-GGUF/resolve/main/ava-mistral-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "ava-mistral-7b.Q8_0.gguf",
+            "size": "7695875040",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "3b50f4abfbff0fc9d5d508a1221117e8e95936e0ba491d87c261f844e35fd36e",
+            "download": {
+                "default": "https://huggingface.co/MehdiHosseiniMoghadam/AVA-Mistral-7B-GGUF/resolve/main/ava-mistral-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

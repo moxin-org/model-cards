@@ -1,0 +1,103 @@
+{
+    "id": "ConvexAI/Roundhouse-4x7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "ConvexAI",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-03T01:30:07Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Roundhouse-4x7B-ggml-model-q2_k.gguf",
+            "size": "8841897760",
+            "quantization": "",
+            "tags": [],
+            "sha256": "66e20a8c9358d964bec6a9e27b49ecc3ba73cfdda19f7fba85dd1a7fc73e1849",
+            "download": {
+                "default": "https://huggingface.co/ConvexAI/Roundhouse-4x7B-GGUF/resolve/main/Roundhouse-4x7B-ggml-model-q2_k.gguf"
+            }
+        },
+        {
+            "name": "Roundhouse-4x7B-ggml-model-q3_k_m.gguf",
+            "size": "11579410208",
+            "quantization": "",
+            "tags": [],
+            "sha256": "776a2df5ef849b86d6b41b9a98f23e88050728e0675f52a5ba702c9d41fd04ec",
+            "download": {
+                "default": "https://huggingface.co/ConvexAI/Roundhouse-4x7B-GGUF/resolve/main/Roundhouse-4x7B-ggml-model-q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "Roundhouse-4x7B-ggml-model-q4_0.gguf",
+            "size": "13622667040",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3ae35415525243c72b69583400a312a6e742f7547e6a2cee5b0aa3ad4114f20d",
+            "download": {
+                "default": "https://huggingface.co/ConvexAI/Roundhouse-4x7B-GGUF/resolve/main/Roundhouse-4x7B-ggml-model-q4_0.gguf"
+            }
+        },
+        {
+            "name": "Roundhouse-4x7B-ggml-model-q4_k_m.gguf",
+            "size": "14608852768",
+            "quantization": "",
+            "tags": [],
+            "sha256": "48b25efaff132aa939d4ecd0b55dedcf49c794e1c4f0617a3a784cbd319039cd",
+            "download": {
+                "default": "https://huggingface.co/ConvexAI/Roundhouse-4x7B-GGUF/resolve/main/Roundhouse-4x7B-ggml-model-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "Roundhouse-4x7B-ggml-model-q5_0.gguf",
+            "size": "16625395488",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9bff347e751539a0c1f99c4d8da23f03bc90e20b37589042fa85802aff5cd134",
+            "download": {
+                "default": "https://huggingface.co/ConvexAI/Roundhouse-4x7B-GGUF/resolve/main/Roundhouse-4x7B-ggml-model-q5_0.gguf"
+            }
+        },
+        {
+            "name": "Roundhouse-4x7B-ggml-model-q5_k_m.gguf",
+            "size": "17133430560",
+            "quantization": "",
+            "tags": [],
+            "sha256": "39824c9373d52d82c18d87f52e0c5ef6a8264db5a5c398fa3b17feaf05773d9e",
+            "download": {
+                "default": "https://huggingface.co/ConvexAI/Roundhouse-4x7B-GGUF/resolve/main/Roundhouse-4x7B-ggml-model-q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "Roundhouse-4x7B-ggml-model-q6_k.gguf",
+            "size": "19815794464",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a8372e297abd7b6edd7084e7de7c974bc15426f793a8cf1f48d088c4cd89aecc",
+            "download": {
+                "default": "https://huggingface.co/ConvexAI/Roundhouse-4x7B-GGUF/resolve/main/Roundhouse-4x7B-ggml-model-q6_k.gguf"
+            }
+        },
+        {
+            "name": "Roundhouse-4x7B-ggml-model-q8_0.gguf",
+            "size": "25665324832",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5d9f1a12b1cb7eb140c728adf8f6360677116c69c3fd6e877edcedd34a11c930",
+            "download": {
+                "default": "https://huggingface.co/ConvexAI/Roundhouse-4x7B-GGUF/resolve/main/Roundhouse-4x7B-ggml-model-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,43 @@
+{
+    "id": "eren23/slerp-test-turdus-beagle-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "eren23",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-17T20:33:06Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "slerp-test-turdus-beagle.Q4_K_M.gguf",
+            "size": "4368438912",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "8692ba3b54604a932ee1371c00c668e9daa3da02f2e7e0a5255ba04a081d6454",
+            "download": {
+                "default": "https://huggingface.co/eren23/slerp-test-turdus-beagle-GGUF/resolve/main/slerp-test-turdus-beagle.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "slerp-test-turdus-beagle.Q5_K_M.gguf",
+            "size": "5131409024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "aaf2257aad0d92cfa4ecd2b16d90e871ddc5b866eab3d7808e52249a6901de4b",
+            "download": {
+                "default": "https://huggingface.co/eren23/slerp-test-turdus-beagle-GGUF/resolve/main/slerp-test-turdus-beagle.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

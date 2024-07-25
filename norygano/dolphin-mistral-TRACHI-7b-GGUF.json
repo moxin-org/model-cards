@@ -1,0 +1,43 @@
+{
+    "id": "norygano/dolphin-mistral-TRACHI-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "norygano",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-07T02:06:57Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "dolphin-mistral-trachi-7b.Q4_K_M.gguf",
+            "size": "4368450784",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "8a3b35411a1745fd36127b656b81930e9f37a984400f051573293f9a5cce287f",
+            "download": {
+                "default": "https://huggingface.co/norygano/dolphin-mistral-TRACHI-7b-GGUF/resolve/main/dolphin-mistral-trachi-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "dolphin-mistral-trachi-7b.Q5_K_M.gguf",
+            "size": "5131421920",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "b19feb45a488ab1781b1bf3683d3a844ce96bfab730be62335c6411cf0eb6fbb",
+            "download": {
+                "default": "https://huggingface.co/norygano/dolphin-mistral-TRACHI-7b-GGUF/resolve/main/dolphin-mistral-trachi-7b.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

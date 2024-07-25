@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Lambda-17b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-10T08:38:42Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Lambda-17b.IQ3_M.gguf",
+            "size": "7726052064",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "6529a86103a22dd7e2ec0b2506e2deec42296b60e8666ee1b0719e5cfb23aa4d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Lambda-17b-GGUF/resolve/main/Lambda-17b.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Lambda-17b.IQ3_S.gguf",
+            "size": "7486517984",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "e68a511942ef435e5fd1ba901712c259aad16eb0358615bf22d8b041a09630e7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Lambda-17b-GGUF/resolve/main/Lambda-17b.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Lambda-17b.IQ3_XS.gguf",
+            "size": "7055684320",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "6bbc74cccfd4fc2e8c2763cc36d31aefd404b7ddfbda41583666c0c1b56c92fe",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Lambda-17b-GGUF/resolve/main/Lambda-17b.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Lambda-17b.IQ4_XS.gguf",
+            "size": "9273365216",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "e80317f0076fa9a84c668ad74d5d82190e24c72b32ef47f213b0855a8a1a4be8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Lambda-17b-GGUF/resolve/main/Lambda-17b.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Lambda-17b.Q2_K.gguf",
+            "size": "6404838112",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "744ff6a5b9a87e7e614d6519761e15cc416708f13867713c759706cb663ab97e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Lambda-17b-GGUF/resolve/main/Lambda-17b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Lambda-17b.Q3_K_L.gguf",
+            "size": "9005642464",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "fd3aa38a1671d4a1c92078e1c87cbe04fe74bc288be14abc9572943712972279",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Lambda-17b-GGUF/resolve/main/Lambda-17b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Lambda-17b.Q3_K_M.gguf",
+            "size": "8278979296",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "8b318682e67cd8460938aad0964778c72050d72f60797adb61ebedebef7057b9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Lambda-17b-GGUF/resolve/main/Lambda-17b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Lambda-17b.Q3_K_S.gguf",
+            "size": "7444181728",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "56c6815021293d04f902f4e783c476b064eb17561e42c9cab468e59b480a3e81",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Lambda-17b-GGUF/resolve/main/Lambda-17b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Lambda-17b.Q4_K_M.gguf",
+            "size": "10279441120",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "9d0b5c6eff40fb313763f1aa70ab7d243fb196cda3d3f78eb2b47f14ec714c81",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Lambda-17b-GGUF/resolve/main/Lambda-17b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Lambda-17b.Q4_K_S.gguf",
+            "size": "9731232480",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "49a95d5b2aaa1c09d30ae98600e518de57e6882812410c6e6f7bc7462d17f894",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Lambda-17b-GGUF/resolve/main/Lambda-17b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Lambda-17b.Q5_K_M.gguf",
+            "size": "12068967136",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "bcc66f57b07ac20be20810fbd8ac3287106cd8a6d36ace7630e4517234526990",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Lambda-17b-GGUF/resolve/main/Lambda-17b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Lambda-17b.Q5_K_S.gguf",
+            "size": "11751445216",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "22643d4f7095cab62ecf67cf8abf04448fa4f6768159a1a2e287cf7aa8384628",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Lambda-17b-GGUF/resolve/main/Lambda-17b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Lambda-17b.Q6_K.gguf",
+            "size": "13970338528",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "4ab18061305e599ab63f33c7009215718ae923dc9cf9f392efce2d268e18fe78",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Lambda-17b-GGUF/resolve/main/Lambda-17b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Lambda-17b.Q8_0.gguf",
+            "size": "18016555744",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "1e8d64a5f7b592d074537bc6df886b3c3bec21476b72be95834b28dd09f995a4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Lambda-17b-GGUF/resolve/main/Lambda-17b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

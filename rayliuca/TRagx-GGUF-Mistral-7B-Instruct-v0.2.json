@@ -1,0 +1,83 @@
+{
+    "id": "rayliuca/TRagx-GGUF-Mistral-7B-Instruct-v0.2",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "rayliuca",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-02T17:26:54Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "TRagx-GGUF_F32-Mistral-7B-Instruct-v0.2.gguf",
+            "size": "28967663776",
+            "quantization": "",
+            "tags": [],
+            "sha256": "396ec2f89baf2aba418f03d222b50189402488e9a4943cd18fc8c0e0f79a78fa",
+            "download": {
+                "default": "https://huggingface.co/rayliuca/TRagx-GGUF-Mistral-7B-Instruct-v0.2/resolve/main/TRagx-GGUF_F32-Mistral-7B-Instruct-v0.2.gguf"
+            }
+        },
+        {
+            "name": "TRagx-GGUF_Q3_K_M-Mistral-7B-Instruct-v0.2.gguf",
+            "size": "3518986432",
+            "quantization": "",
+            "tags": [],
+            "sha256": "33932fb5adedb2ef3cb29eec527468c2e35162724c32108db1cac4d82d3f1661",
+            "download": {
+                "default": "https://huggingface.co/rayliuca/TRagx-GGUF-Mistral-7B-Instruct-v0.2/resolve/main/TRagx-GGUF_Q3_K_M-Mistral-7B-Instruct-v0.2.gguf"
+            }
+        },
+        {
+            "name": "TRagx-GGUF_Q4_K_M-Mistral-7B-Instruct-v0.2.gguf",
+            "size": "4368439488",
+            "quantization": "",
+            "tags": [],
+            "sha256": "cacdc12ec6dee530fe8fe68b44c513126e660e90e115faa6f2de155b0f1b24e9",
+            "download": {
+                "default": "https://huggingface.co/rayliuca/TRagx-GGUF-Mistral-7B-Instruct-v0.2/resolve/main/TRagx-GGUF_Q4_K_M-Mistral-7B-Instruct-v0.2.gguf"
+            }
+        },
+        {
+            "name": "TRagx-GGUF_Q5_K_M-Mistral-7B-Instruct-v0.2.gguf",
+            "size": "5131409600",
+            "quantization": "",
+            "tags": [],
+            "sha256": "bc048e4cb1b8ee2243da5e232db5359ab797596a574e218a69659f5a184af415",
+            "download": {
+                "default": "https://huggingface.co/rayliuca/TRagx-GGUF-Mistral-7B-Instruct-v0.2/resolve/main/TRagx-GGUF_Q5_K_M-Mistral-7B-Instruct-v0.2.gguf"
+            }
+        },
+        {
+            "name": "TRagx-GGUF_Q5_K_S-Mistral-7B-Instruct-v0.2.gguf",
+            "size": "4997716160",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5486adac8bdb53b7f9ea7a1b6a9faf91658d721e04939819061e7db92e058d10",
+            "download": {
+                "default": "https://huggingface.co/rayliuca/TRagx-GGUF-Mistral-7B-Instruct-v0.2/resolve/main/TRagx-GGUF_Q5_K_S-Mistral-7B-Instruct-v0.2.gguf"
+            }
+        },
+        {
+            "name": "TRagx-GGUF_Q6_K-Mistral-7B-Instruct-v0.2.gguf",
+            "size": "5942065344",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6670cfda3edfaeb6ff4f08ade1ce23d0e3bfb739f128721305a078ffc3fab788",
+            "download": {
+                "default": "https://huggingface.co/rayliuca/TRagx-GGUF-Mistral-7B-Instruct-v0.2/resolve/main/TRagx-GGUF_Q6_K-Mistral-7B-Instruct-v0.2.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

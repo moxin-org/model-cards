@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/TinyLlama-1.1B-32k-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-03T08:09:13Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tinyllama-1.1b-32k.Q3_K_S.gguf",
+            "size": "499341920",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "b4951f7dc30de70887109fb1d51cbde2499535582ae84755beda03b0bb46a26f",
+            "download": {
+                "default": "https://huggingface.co/s3nh/TinyLlama-1.1B-32k-GGUF/resolve/main/tinyllama-1.1b-32k.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-32k.Q4_K_M.gguf",
+            "size": "667814496",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "ec7f2bf2014375677ce96df841efddba7f2c9e6e6c3b00ff7b90546e7fca3ac1",
+            "download": {
+                "default": "https://huggingface.co/s3nh/TinyLlama-1.1B-32k-GGUF/resolve/main/tinyllama-1.1b-32k.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-32k.Q5_K_M.gguf",
+            "size": "782043744",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "0937430e88bee15e6984cb68ae905b7aec3ef20d2892ba0bc35bc56516758c19",
+            "download": {
+                "default": "https://huggingface.co/s3nh/TinyLlama-1.1B-32k-GGUF/resolve/main/tinyllama-1.1b-32k.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-32k.Q6_K.gguf",
+            "size": "903412320",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "c59e305c5705cb4a0fd8e65f9e1fbd7d625de96d99121494c75d39f364289373",
+            "download": {
+                "default": "https://huggingface.co/s3nh/TinyLlama-1.1B-32k-GGUF/resolve/main/tinyllama-1.1b-32k.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "tinyllama-1.1b-32k.Q8_0.gguf",
+            "size": "1169807968",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "193b89922125d29e8c78ee1d377c9c40f1025f01abdc4d639bbe485a08a8bb8c",
+            "download": {
+                "default": "https://huggingface.co/s3nh/TinyLlama-1.1B-32k-GGUF/resolve/main/tinyllama-1.1b-32k.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,43 @@
+{
+    "id": "Sao10K/Euryale-1.3.2-L2-70B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Sao10K",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-30T11:05:24Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Euryale-1.3.2-L2-70B.q3_K_L.gguf",
+            "size": "36147835840",
+            "quantization": "",
+            "tags": [],
+            "sha256": "589e57175ef382627791959d139e05709c386e718e2599452548e0ee18a7ea10",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Euryale-1.3.2-L2-70B-GGUF/resolve/main/Euryale-1.3.2-L2-70B.q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Euryale-1.3.2-L2-70B.q4_K_S.gguf",
+            "size": "39073575872",
+            "quantization": "",
+            "tags": [],
+            "sha256": "80682eeabc995dc397a7298d8e6e040563d8bda9614d335546089279ab65c65d",
+            "download": {
+                "default": "https://huggingface.co/Sao10K/Euryale-1.3.2-L2-70B-GGUF/resolve/main/Euryale-1.3.2-L2-70B.q4_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,93 @@
+{
+    "id": "s3nh/internlm-internlm-chat-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-04T15:14:42Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "internlm-internlm-chat-7b.Q2_K.gguf",
+            "size": "3164475584",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "4be4b83bf318f0b5a0ffb02b492f1394d69e6e678f01f6c35a8a7bc2c757194f",
+            "download": {
+                "default": "https://huggingface.co/s3nh/internlm-internlm-chat-7b-GGUF/resolve/main/internlm-internlm-chat-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "internlm-internlm-chat-7b.Q3_K_S.gguf",
+            "size": "3316445376",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "cd7b4ba0fe936e72ee6621efa2f52a3c5d850173a6e604cff2f560821f0a3855",
+            "download": {
+                "default": "https://huggingface.co/s3nh/internlm-internlm-chat-7b-GGUF/resolve/main/internlm-internlm-chat-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "internlm-internlm-chat-7b.Q4_K_M.gguf",
+            "size": "4487860416",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "cd78b5546e716e1f73e8c6328363e3667d5b4547ee933b1bbe56e6f775bb95f8",
+            "download": {
+                "default": "https://huggingface.co/s3nh/internlm-internlm-chat-7b-GGUF/resolve/main/internlm-internlm-chat-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "internlm-internlm-chat-7b.Q4_K_S.gguf",
+            "size": "4263596224",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "64c8e3b10e1fe2053c95778dbefc859a91aeec935aacaf5b9f7c480e58f33293",
+            "download": {
+                "default": "https://huggingface.co/s3nh/internlm-internlm-chat-7b-GGUF/resolve/main/internlm-internlm-chat-7b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "internlm-internlm-chat-7b.Q5_K_S.gguf",
+            "size": "5094985920",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "4612db3662bb3d52c807592d1f096d747d4cd1939a474900a14cf16224a4d479",
+            "download": {
+                "default": "https://huggingface.co/s3nh/internlm-internlm-chat-7b-GGUF/resolve/main/internlm-internlm-chat-7b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "internlm-internlm-chat-7b.Q6_K.gguf",
+            "size": "6011203776",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "196d74cc4a3c173dc9c6eb934d256e2fb6690091f7e5703b6f06f8991039b36f",
+            "download": {
+                "default": "https://huggingface.co/s3nh/internlm-internlm-chat-7b-GGUF/resolve/main/internlm-internlm-chat-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "internlm-internlm-chat-7b.Q8_0.gguf",
+            "size": "7784296640",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "49bafbf8eec92c4ecc38198b97159cdabbd6373de8e310919d520f1b03b5f4c2",
+            "download": {
+                "default": "https://huggingface.co/s3nh/internlm-internlm-chat-7b-GGUF/resolve/main/internlm-internlm-chat-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

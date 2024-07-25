@@ -1,0 +1,73 @@
+{
+    "id": "nold/Prima-Pastacles-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "nold",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-13T07:23:16Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Prima-Pastacles-7b_Q2_K.gguf",
+            "size": "2719241856",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "fd59ebbfcefbb7fe0b08d155236ac3736cbba3fd62757d28008632504e8ee071",
+            "download": {
+                "default": "https://huggingface.co/nold/Prima-Pastacles-7b-GGUF/resolve/main/Prima-Pastacles-7b_Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Prima-Pastacles-7b_Q4_K_M.gguf",
+            "size": "4368438912",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "d8667f9ef5b066083ac6afcd0bda8318ae58fb159cd89fff9a0d617075c61abb",
+            "download": {
+                "default": "https://huggingface.co/nold/Prima-Pastacles-7b-GGUF/resolve/main/Prima-Pastacles-7b_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Prima-Pastacles-7b_Q5_K_M.gguf",
+            "size": "5131409024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "56970ec1002cd838bc00e93c2d5bf9fb7de2249f653038bb1cb522d88b95c2af",
+            "download": {
+                "default": "https://huggingface.co/nold/Prima-Pastacles-7b-GGUF/resolve/main/Prima-Pastacles-7b_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Prima-Pastacles-7b_Q6_K.gguf",
+            "size": "5942064768",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "14be3b8682ab4dfd02d4df42379a8403f897705ab19b4c3296293ccb8fa9ee4c",
+            "download": {
+                "default": "https://huggingface.co/nold/Prima-Pastacles-7b-GGUF/resolve/main/Prima-Pastacles-7b_Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Prima-Pastacles-7b_Q8_0.gguf",
+            "size": "7695857280",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "c58343e679a75550cdb9a82829e1f446b743f60703fe6638c2a3f4bc523f0731",
+            "download": {
+                "default": "https://huggingface.co/nold/Prima-Pastacles-7b-GGUF/resolve/main/Prima-Pastacles-7b_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

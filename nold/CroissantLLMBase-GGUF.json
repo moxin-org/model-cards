@@ -1,0 +1,73 @@
+{
+    "id": "nold/CroissantLLMBase-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "nold",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-14T13:15:08Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "CroissantLLMBase_Q2_K.gguf",
+            "size": "575606976",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "69c57ce4b072c841733014b3163fde4b9dca62adbb82b76d334b0300b7ff072c",
+            "download": {
+                "default": "https://huggingface.co/nold/CroissantLLMBase-GGUF/resolve/main/CroissantLLMBase_Q2_K.gguf"
+            }
+        },
+        {
+            "name": "CroissantLLMBase_Q4_K_M.gguf",
+            "size": "872313024",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "99d030d512df83442af28a5c7dba922d28556061ba9c7a52271744ca18e66f83",
+            "download": {
+                "default": "https://huggingface.co/nold/CroissantLLMBase-GGUF/resolve/main/CroissantLLMBase_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "CroissantLLMBase_Q5_K_M.gguf",
+            "size": "1000632512",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "14072301ea0627dc7b8061c1c894d078d1bb8d04649dd132b09f9ecf6e4b1c91",
+            "download": {
+                "default": "https://huggingface.co/nold/CroissantLLMBase-GGUF/resolve/main/CroissantLLMBase_Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "CroissantLLMBase_Q6_K.gguf",
+            "size": "1170260160",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "18b859b11ecb3c1996788a9a7f59ee1b6c1d9c6b02f034f4e7493c17890427c8",
+            "download": {
+                "default": "https://huggingface.co/nold/CroissantLLMBase-GGUF/resolve/main/CroissantLLMBase_Q6_K.gguf"
+            }
+        },
+        {
+            "name": "CroissantLLMBase_Q8_0.gguf",
+            "size": "1430560960",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "750d35f25a7bf8e3f82eccd2c5bf32e692f3f106f243aa7c7b277e6c809c61bb",
+            "download": {
+                "default": "https://huggingface.co/nold/CroissantLLMBase-GGUF/resolve/main/CroissantLLMBase_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

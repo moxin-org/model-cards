@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/Llama-2-13b-chat-dutch-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-03T17:26:39Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llama-2-13b-chat-dutch.Q3_K_S.gguf",
+            "size": "5658981856",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "2ef642495801ccf732630d0aa3281527357c17f6dc545dd97e995ff74c04806a",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Llama-2-13b-chat-dutch-GGUF/resolve/main/llama-2-13b-chat-dutch.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "llama-2-13b-chat-dutch.Q4_K_M.gguf",
+            "size": "7865957856",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "99aca825b9f77c296f22717c71f0103ba57019ef19d1edcbdb46b94ef690557e",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Llama-2-13b-chat-dutch-GGUF/resolve/main/llama-2-13b-chat-dutch.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama-2-13b-chat-dutch.Q5_K_M.gguf",
+            "size": "9229925856",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "136552732f22f08f52ab6958a6e57bc10655f850ac0b61f8c860769b3d6165f8",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Llama-2-13b-chat-dutch-GGUF/resolve/main/llama-2-13b-chat-dutch.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama-2-13b-chat-dutch.Q6_K.gguf",
+            "size": "10679141856",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "c96dfb25fcc6ccef5e5566a0cef8d458a2f52e667b47550a1f96dadba96b0f0d",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Llama-2-13b-chat-dutch-GGUF/resolve/main/llama-2-13b-chat-dutch.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "llama-2-13b-chat-dutch.Q8_0.gguf",
+            "size": "13831321056",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "2f8c9e6275b7e4fc98a31b7db9fa16d7c6b7b9d727d457c4ae25b24d273958c0",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Llama-2-13b-chat-dutch-GGUF/resolve/main/llama-2-13b-chat-dutch.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

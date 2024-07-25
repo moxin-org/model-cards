@@ -1,0 +1,43 @@
+{
+    "id": "RichardErkhov/Qwen_-_Qwen1.5-14B-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "RichardErkhov",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-11T19:08:43Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Qwen1.5-14B.IQ3_XS.gguf",
+            "size": "6478274080",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "53dd8d74971608b67639f83a17a5a90a85588ac5b7136cb2c7a6fa9e5fcfa745",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Qwen_-_Qwen1.5-14B-gguf/resolve/main/Qwen1.5-14B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Qwen1.5-14B.Q2_K.gguf",
+            "size": "5911981600",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "d5bbdd82c82eb593e72d7ba0dbc1a532e8f038157a04dec8046a193854ec1bdd",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/Qwen_-_Qwen1.5-14B-gguf/resolve/main/Qwen1.5-14B.Q2_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/cockatrice-7b-v0.3-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-15T13:43:44Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "cockatrice-7b-v0.3.Q3_K_S.gguf",
+            "size": "3164577504",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "c2d5ce572b16d344262e13e7ca27e4c446ad6d9cc52b37eaaca399c50d6d499a",
+            "download": {
+                "default": "https://huggingface.co/s3nh/cockatrice-7b-v0.3-GGUF/resolve/main/cockatrice-7b-v0.3.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "cockatrice-7b-v0.3.Q4_K_M.gguf",
+            "size": "4368450336",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5b65bea8f8b2f768f91cd8a98d5ce8b4cc7cfcd07de7f6ab628bedec0f1729a4",
+            "download": {
+                "default": "https://huggingface.co/s3nh/cockatrice-7b-v0.3-GGUF/resolve/main/cockatrice-7b-v0.3.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "cockatrice-7b-v0.3.Q5_K_M.gguf",
+            "size": "5131421472",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e6451ba92e48b80e67149b51cc8d75b187de1dd48f42e16d97bd0e06eacdc9c6",
+            "download": {
+                "default": "https://huggingface.co/s3nh/cockatrice-7b-v0.3-GGUF/resolve/main/cockatrice-7b-v0.3.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "cockatrice-7b-v0.3.Q6_K.gguf",
+            "size": "5942078304",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "d5d800f2cf1758be60a006df527ea1af1bd25cc55ea57c6552d3fbfbd1f09df7",
+            "download": {
+                "default": "https://huggingface.co/s3nh/cockatrice-7b-v0.3-GGUF/resolve/main/cockatrice-7b-v0.3.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "cockatrice-7b-v0.3.Q8_0.gguf",
+            "size": "7695874784",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "fe904a042d9065bb8afa07a8494e30e5d8064506697b17176da9e9826efc7c75",
+            "download": {
+                "default": "https://huggingface.co/s3nh/cockatrice-7b-v0.3-GGUF/resolve/main/cockatrice-7b-v0.3.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

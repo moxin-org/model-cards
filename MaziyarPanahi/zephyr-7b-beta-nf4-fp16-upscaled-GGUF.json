@@ -1,0 +1,123 @@
+{
+    "id": "MaziyarPanahi/zephyr-7b-beta-nf4-fp16-upscaled-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "MaziyarPanahi",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-03T09:07:34Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "zephyr-7b-beta-nf4-fp16-upscaled.Q2_K.gguf",
+            "size": "2719242336",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "a81eafc5249fe0eea7e6bdc1ee3b860d823b7e61719e7958e5f2c1d0bf460f87",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/zephyr-7b-beta-nf4-fp16-upscaled-GGUF/resolve/main/zephyr-7b-beta-nf4-fp16-upscaled.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-beta-nf4-fp16-upscaled.Q3_K_L.gguf",
+            "size": "3822024800",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "a91f04d248ca2b483376f893c5b499cb41e4589a148163f97a6ddf9ce2866568",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/zephyr-7b-beta-nf4-fp16-upscaled-GGUF/resolve/main/zephyr-7b-beta-nf4-fp16-upscaled.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-beta-nf4-fp16-upscaled.Q3_K_M.gguf",
+            "size": "3518986336",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "9cfdb158f70dc4eeaed153589987620aea2abfc9dfd296e4e77807e54057347c",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/zephyr-7b-beta-nf4-fp16-upscaled-GGUF/resolve/main/zephyr-7b-beta-nf4-fp16-upscaled.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-beta-nf4-fp16-upscaled.Q3_K_S.gguf",
+            "size": "3164567648",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "74fb45ee9599c2a88517bd0cb92d2231b222392a81a2adc41dafaff5268f5ce9",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/zephyr-7b-beta-nf4-fp16-upscaled-GGUF/resolve/main/zephyr-7b-beta-nf4-fp16-upscaled.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-beta-nf4-fp16-upscaled.Q4_K_M.gguf",
+            "size": "4368439392",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "9f4656ca51b25335c100162570d5b5dac3e87b7f590c7638773361934f0c8194",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/zephyr-7b-beta-nf4-fp16-upscaled-GGUF/resolve/main/zephyr-7b-beta-nf4-fp16-upscaled.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-beta-nf4-fp16-upscaled.Q4_K_S.gguf",
+            "size": "4140374112",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "f7f9e6828439c807645c5140133675d3b5b7a670397b872bf92b10407676c837",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/zephyr-7b-beta-nf4-fp16-upscaled-GGUF/resolve/main/zephyr-7b-beta-nf4-fp16-upscaled.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-beta-nf4-fp16-upscaled.Q5_K_M.gguf",
+            "size": "5131409504",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "52cd63a21e21005e198fa9c46217c1aadcf56af09493690f9c4ba4eb3745a67c",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/zephyr-7b-beta-nf4-fp16-upscaled-GGUF/resolve/main/zephyr-7b-beta-nf4-fp16-upscaled.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-beta-nf4-fp16-upscaled.Q5_K_S.gguf",
+            "size": "4997716064",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "36d25376542d8dc9873e994d254169a2fe9189e5271cad6c76b53434b69c461d",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/zephyr-7b-beta-nf4-fp16-upscaled-GGUF/resolve/main/zephyr-7b-beta-nf4-fp16-upscaled.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-beta-nf4-fp16-upscaled.Q6_K.gguf",
+            "size": "5942065248",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "f199ab52eac8f85527ebf5036bf24973e7f97a9fdf6c6bb1c9abe2e297ceed53",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/zephyr-7b-beta-nf4-fp16-upscaled-GGUF/resolve/main/zephyr-7b-beta-nf4-fp16-upscaled.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "zephyr-7b-beta-nf4-fp16-upscaled.Q8_0.gguf",
+            "size": "7695857760",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "161cbfca9fc2457e76003a91454cebcd4959cb8a90c4046031b3890c7f37996e",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/zephyr-7b-beta-nf4-fp16-upscaled-GGUF/resolve/main/zephyr-7b-beta-nf4-fp16-upscaled.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

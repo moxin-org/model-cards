@@ -1,0 +1,93 @@
+{
+    "id": "abetlen/BakLLaVA-1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "abetlen",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-09T07:17:31Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "bakllava-1.f16.gguf",
+            "size": "14484731424",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2d1f57765503b339e1697e88c73b4103807ee302ab19a3c3502ece1ab5519973",
+            "download": {
+                "default": "https://huggingface.co/abetlen/BakLLaVA-1-GGUF/resolve/main/bakllava-1.f16.gguf"
+            }
+        },
+        {
+            "name": "bakllava-1.Q3_K_L.gguf",
+            "size": "3822024256",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "5cd4e9ca1eef8509816523f5245101e7774524b82890497da1831487e93a7cab",
+            "download": {
+                "default": "https://huggingface.co/abetlen/BakLLaVA-1-GGUF/resolve/main/bakllava-1.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "bakllava-1.Q4_0.gguf",
+            "size": "4108916288",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "f340e0c5e1f631262eef71d8a6b40d972c51d2970409e7355b7a8a2e2462406c",
+            "download": {
+                "default": "https://huggingface.co/abetlen/BakLLaVA-1-GGUF/resolve/main/bakllava-1.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "bakllava-1.Q4_K.gguf",
+            "size": "4368438848",
+            "quantization": "Q4_K",
+            "tags": [],
+            "sha256": "d6e3b5b96120700ca4bcfb4c340fc3c8c5c2b989dc820d44a8d13a02c30718de",
+            "download": {
+                "default": "https://huggingface.co/abetlen/BakLLaVA-1-GGUF/resolve/main/bakllava-1.Q4_K.gguf"
+            }
+        },
+        {
+            "name": "bakllava-1.Q6_K.gguf",
+            "size": "5942064704",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "812aa588f5b9ef878e98970ceadf5871c7f63f20abcb0ac9e77176adf7fecf19",
+            "download": {
+                "default": "https://huggingface.co/abetlen/BakLLaVA-1-GGUF/resolve/main/bakllava-1.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "bakllava-1.Q8_0.gguf",
+            "size": "7695857216",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "58c48c53ff57de98815af7541a098c7b7f6c8f9ca22c84d6eefbe57e5c8f9d99",
+            "download": {
+                "default": "https://huggingface.co/abetlen/BakLLaVA-1-GGUF/resolve/main/bakllava-1.Q8_0.gguf"
+            }
+        },
+        {
+            "name": "mmproj-model-f16.gguf",
+            "size": "624434336",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2e467eba710002839e0966d5e329942bb836eabd4e787bc713b07eff1d8ea13b",
+            "download": {
+                "default": "https://huggingface.co/abetlen/BakLLaVA-1-GGUF/resolve/main/mmproj-model-f16.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,43 @@
+{
+    "id": "akarshanbiswas/gemma-8.5B-it-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "akarshanbiswas",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-29T15:33:36Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "gemma-8.5b-chat-f16.gguf",
+            "size": "",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f7e3af8cfa2fa229492c31d1e9597029c14158376e9209b04847ad495fc697a7",
+            "download": {
+                "default": "https://huggingface.co/akarshanbiswas/gemma-8.5B-it-gguf/resolve/main/gemma-8.5b-chat-f16.gguf"
+            }
+        },
+        {
+            "name": "gemma-8.5b-chat-Q4_K_S.gguf",
+            "size": "",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1ef1e3bf62f23c96cdb07aa47c8c2d11a6e9b66e8cbaa3e01ba489108d212e0c",
+            "download": {
+                "default": "https://huggingface.co/akarshanbiswas/gemma-8.5B-it-gguf/resolve/main/gemma-8.5b-chat-Q4_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

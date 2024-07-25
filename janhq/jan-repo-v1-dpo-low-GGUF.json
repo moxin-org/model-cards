@@ -1,0 +1,63 @@
+{
+    "id": "janhq/jan-repo-v1-dpo-low-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "janhq",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-02T19:44:16Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "jan-repo-v1-dpo-low.Q3_K_M.gguf",
+            "size": "3519922464",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ec75cf341306947a53883bb347ef5ab0f7569e6a4a34f5f23823b39864e0fc0b",
+            "download": {
+                "default": "https://huggingface.co/janhq/jan-repo-v1-dpo-low-GGUF/resolve/main/jan-repo-v1-dpo-low.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "jan-repo-v1-dpo-low.Q4_K_M.gguf",
+            "size": "4369375520",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c01d8d84cd0a303293266d58d9646f8d80155136a72650477825d25344ee1b68",
+            "download": {
+                "default": "https://huggingface.co/janhq/jan-repo-v1-dpo-low-GGUF/resolve/main/jan-repo-v1-dpo-low.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "jan-repo-v1-dpo-low.Q5_K_M.gguf",
+            "size": "5132345632",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "55077454eca2d63a965dfe0e3f938fb12122a0bce700c393aa318192a383edb3",
+            "download": {
+                "default": "https://huggingface.co/janhq/jan-repo-v1-dpo-low-GGUF/resolve/main/jan-repo-v1-dpo-low.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "jan-repo-v1-dpo-low.Q8_0.gguf",
+            "size": "7696793888",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "7144785fb83578ef6a2df09db462fb0582a3afb3ee57cdb0d50ac70c742caf75",
+            "download": {
+                "default": "https://huggingface.co/janhq/jan-repo-v1-dpo-low-GGUF/resolve/main/jan-repo-v1-dpo-low.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

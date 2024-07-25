@@ -1,0 +1,73 @@
+{
+    "id": "s3nh/intfloat-e5-mistral-7b-instruct-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-11T12:36:53Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "e5-mistral.Q3_K_S.gguf",
+            "size": "3164567264",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "e7a16c2da955cf6c083d167a3838182d5c9ec219d1afae61f4d3f08c13928d82",
+            "download": {
+                "default": "https://huggingface.co/s3nh/intfloat-e5-mistral-7b-instruct-GGUF/resolve/main/e5-mistral.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "e5-mistral.Q4_K_M.gguf",
+            "size": "4368439008",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "dbe2b7f29c6e35f2f2f906d4c54a4e27e410f622fbe43e8fe2f440b1f1f134d7",
+            "download": {
+                "default": "https://huggingface.co/s3nh/intfloat-e5-mistral-7b-instruct-GGUF/resolve/main/e5-mistral.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "e5-mistral.Q5_K_M.gguf",
+            "size": "5131409120",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "460b0aee84313299637fa057d7d5514ca287d811adc935cf670870688af16e1e",
+            "download": {
+                "default": "https://huggingface.co/s3nh/intfloat-e5-mistral-7b-instruct-GGUF/resolve/main/e5-mistral.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "e5-mistral.Q6_K.gguf",
+            "size": "5942064864",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "18b2d49561085985ad6389989dc8ae98373cbf604404c28da050833c73309216",
+            "download": {
+                "default": "https://huggingface.co/s3nh/intfloat-e5-mistral-7b-instruct-GGUF/resolve/main/e5-mistral.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "e5-mistral.Q8_0.gguf",
+            "size": "7695857376",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "ca93eb78fc909ee41d16faa44d4ad6f46bec61c39ab588ceb37fae990c235030",
+            "download": {
+                "default": "https://huggingface.co/s3nh/intfloat-e5-mistral-7b-instruct-GGUF/resolve/main/e5-mistral.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

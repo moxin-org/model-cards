@@ -1,0 +1,43 @@
+{
+    "id": "nocudaexe/Neural-Dark-Waifu-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "nocudaexe",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-10T14:44:13Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Neural-Dark-Waifu-7b_f16.gguf",
+            "size": "14484732128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b92dc6b7c319b125b99ff058667d5184405f966e5187e15f858e4668b4fd83ae",
+            "download": {
+                "default": "https://huggingface.co/nocudaexe/Neural-Dark-Waifu-GGUF/resolve/main/Neural-Dark-Waifu-7b_f16.gguf"
+            }
+        },
+        {
+            "name": "Neural-Dark-Waifu-7b_Q8_0.gguf",
+            "size": "7695857888",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "dddc3d48b4282c65bf75c215370a6d64e66b8087b614e69eb6852ee96f5ce45e",
+            "download": {
+                "default": "https://huggingface.co/nocudaexe/Neural-Dark-Waifu-GGUF/resolve/main/Neural-Dark-Waifu-7b_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

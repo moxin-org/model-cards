@@ -1,0 +1,33 @@
+{
+    "id": "demonsu/orion-14b-chat-plugin-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "demonsu",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-25T12:29:11Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-Q8_0.gguf",
+            "size": "15409207360",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "4d4ca45ebf974d9d0aba3495f97019e0e12e98ef531209373d013d0bde8dcc50",
+            "download": {
+                "default": "https://huggingface.co/demonsu/orion-14b-chat-plugin-gguf/resolve/main/ggml-model-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

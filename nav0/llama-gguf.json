@@ -1,0 +1,63 @@
+{
+    "id": "nav0/llama-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "nav0",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-26T20:40:31Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-f16.gguf",
+            "size": "13478104832",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ef591462e82c31069005f36779d1dc0348bc33e46e32ea138cfe795273888991",
+            "download": {
+                "default": "https://huggingface.co/nav0/llama-gguf/resolve/main/ggml-model-f16.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-f32.gguf",
+            "size": "26954403584",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c3825bd978f0664c600244b90eb8f5a975ed9ebc78fe7ca1090f3ba4bac9d4c1",
+            "download": {
+                "default": "https://huggingface.co/nav0/llama-gguf/resolve/main/ggml-model-f32.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_0.gguf",
+            "size": "3825807040",
+            "quantization": "",
+            "tags": [],
+            "sha256": "78b8f9777dd620ad29cd2cffb6653b17fa8a5b1fddc1b8821180d60eedd24d48",
+            "download": {
+                "default": "https://huggingface.co/nav0/llama-gguf/resolve/main/ggml-model-q4_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q8_0.gguf",
+            "size": "7161089856",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f2495b1f50fd1466280a1c0cd0bff1c678a2e3e574ecb0d681d8702662635d0c",
+            "download": {
+                "default": "https://huggingface.co/nav0/llama-gguf/resolve/main/ggml-model-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,43 @@
+{
+    "id": "sam2ai/open_llama_3b_odia_q4-0_gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "sam2ai",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-11T13:55:20Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-q4_1.gguf",
+            "size": "2187690784",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d3e761cfd1bb58a5ff7e8f96258ed27516ceeeac4158bed40d61de0f40fd3017",
+            "download": {
+                "default": "https://huggingface.co/sam2ai/open_llama_3b_odia_q4-0_gguf/resolve/main/ggml-model-q4_1.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_1.gguf",
+            "size": "2603178784",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6d377afd4f4a5f5466dfeb6ccf68621121cbe8a473c3e3dd246f378fa57d0852",
+            "download": {
+                "default": "https://huggingface.co/sam2ai/open_llama_3b_odia_q4-0_gguf/resolve/main/ggml-model-q5_1.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

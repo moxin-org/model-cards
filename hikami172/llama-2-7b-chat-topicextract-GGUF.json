@@ -1,0 +1,53 @@
+{
+    "id": "hikami172/llama-2-7b-chat-topicextract-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "hikami172",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-18T17:31:28Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llama-2-7b-chat-topicextract-q3_K_M.gguf",
+            "size": "3298004672",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a63d57fa49c30bc6cf876d92d3b603c5f0c9ba0bd9026866bed878bf4666a124",
+            "download": {
+                "default": "https://huggingface.co/hikami172/llama-2-7b-chat-topicextract-GGUF/resolve/main/llama-2-7b-chat-topicextract-q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-chat-topicextract-q4_K_M.gguf",
+            "size": "4081004224",
+            "quantization": "",
+            "tags": [],
+            "sha256": "89354057fbd168368ce53603fb4a10fb6aee96750d05e60f313b8d3bf54e64d7",
+            "download": {
+                "default": "https://huggingface.co/hikami172/llama-2-7b-chat-topicextract-GGUF/resolve/main/llama-2-7b-chat-topicextract-q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama-2-7b-chat-topicextract.gguf",
+            "size": "13478104736",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1f6d97801730de722a61492390ba0034ed3e1427d520ac3fecc5a637fcd22730",
+            "download": {
+                "default": "https://huggingface.co/hikami172/llama-2-7b-chat-topicextract-GGUF/resolve/main/llama-2-7b-chat-topicextract.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

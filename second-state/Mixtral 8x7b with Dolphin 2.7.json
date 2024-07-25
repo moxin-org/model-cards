@@ -1,0 +1,143 @@
+{
+    "id": "second-state/Dolphin-2.7-mixtral-8x7b-GGUF",
+    "status": "published",
+    "model_type": "instruct",
+    "name": "Mixtral 8x7b with Dolphin 2.7",
+    "summary": "A Mixtral 8x7b MoE model finetuned with the Dolphin 2.7 dataset",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "8x7B",
+    "requires": "",
+    "released_at": "2024-01-14T13:30:19Z",
+    "architecture": "Llama2",
+    "files": [
+        {
+            "name": "dolphin-2.7-mixtral-8x7b-Q2_K.gguf",
+            "size": "15644044160",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "8da724c798aaeef7f0f0e77cdd1e61f8051de9c4f7a0cee95725168eac3828b9",
+            "download": {
+                "default": "https://huggingface.co/second-state/Dolphin-2.7-mixtral-8x7b-GGUF/resolve/main/dolphin-2.7-mixtral-8x7b-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.7-mixtral-8x7b-Q3_K_L.gguf",
+            "size": "20430474944",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "e12b24203064db0eb7c954956e5f77bde5bff11e5d585d465fae55d1269ec391",
+            "download": {
+                "default": "https://huggingface.co/second-state/Dolphin-2.7-mixtral-8x7b-GGUF/resolve/main/dolphin-2.7-mixtral-8x7b-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.7-mixtral-8x7b-Q3_K_M.gguf",
+            "size": "20363366080",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "1996816d6990e6af2816771645dfa41720d3eeed0b311e9eb05efd7a4afed36a",
+            "download": {
+                "default": "https://huggingface.co/second-state/Dolphin-2.7-mixtral-8x7b-GGUF/resolve/main/dolphin-2.7-mixtral-8x7b-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.7-mixtral-8x7b-Q3_K_S.gguf",
+            "size": "20292062912",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "2fe8dc699861831ac05e4c1f6c6b2d5fdcde3869387a0ef29320c9a023cc2628",
+            "download": {
+                "default": "https://huggingface.co/second-state/Dolphin-2.7-mixtral-8x7b-GGUF/resolve/main/dolphin-2.7-mixtral-8x7b-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.7-mixtral-8x7b-Q4_0.gguf",
+            "size": "26441544448",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "e985916fedb7301f6451cf48bbc19c5a90e11a3407d3bc467b5ee33782f2a22c",
+            "download": {
+                "default": "https://huggingface.co/second-state/Dolphin-2.7-mixtral-8x7b-GGUF/resolve/main/dolphin-2.7-mixtral-8x7b-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.7-mixtral-8x7b-Q4_K_M.gguf",
+            "size": "26441544448",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "df8ee954f2b6f82279521569e714a399720b0da1a0c540657392ab98a15e1254",
+            "download": {
+                "default": "https://huggingface.co/second-state/Dolphin-2.7-mixtral-8x7b-GGUF/resolve/main/dolphin-2.7-mixtral-8x7b-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.7-mixtral-8x7b-Q4_K_S.gguf",
+            "size": "26441544448",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "bc9f0a9c0b19e7011d9731e1a5380cd45b75c52ab526c7745a68443150612895",
+            "download": {
+                "default": "https://huggingface.co/second-state/Dolphin-2.7-mixtral-8x7b-GGUF/resolve/main/dolphin-2.7-mixtral-8x7b-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.7-mixtral-8x7b-Q5_0.gguf",
+            "size": "32229291776",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "82bc3373cbf74dfaca55099cd4882379c6bc7b9ee375134ac6ae623142e57e9d",
+            "download": {
+                "default": "https://huggingface.co/second-state/Dolphin-2.7-mixtral-8x7b-GGUF/resolve/main/dolphin-2.7-mixtral-8x7b-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.7-mixtral-8x7b-Q5_K_M.gguf",
+            "size": "32229291776",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "d508c5bd1f76ae0c88550e9254a055d7312695f655a575302409c30a62b728e2",
+            "download": {
+                "default": "https://huggingface.co/second-state/Dolphin-2.7-mixtral-8x7b-GGUF/resolve/main/dolphin-2.7-mixtral-8x7b-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.7-mixtral-8x7b-Q5_K_S.gguf",
+            "size": "32229291776",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "b597c4745e0314e048964f67461d07742a9064a2be9b6f081ab582ace99efc50",
+            "download": {
+                "default": "https://huggingface.co/second-state/Dolphin-2.7-mixtral-8x7b-GGUF/resolve/main/dolphin-2.7-mixtral-8x7b-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.7-mixtral-8x7b-Q6_K.gguf",
+            "size": "38378773312",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "4d4b8e458565a4ab100edc6b0e250f34676628ec2e864ed559a15f7ef52d5cf1",
+            "download": {
+                "default": "https://huggingface.co/second-state/Dolphin-2.7-mixtral-8x7b-GGUF/resolve/main/dolphin-2.7-mixtral-8x7b-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "dolphin-2.7-mixtral-8x7b-Q8_0.gguf",
+            "size": "49624279744",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "6416ca13fdaf2ecdbec983d6a20b5dad4bd80638733e2fb2071d67cca2d037a7",
+            "download": {
+                "default": "https://huggingface.co/second-state/Dolphin-2.7-mixtral-8x7b-GGUF/resolve/main/dolphin-2.7-mixtral-8x7b-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "chatml",
+    "reverse_prompt": "",
+    "context_size": 4096,
+    "vector_size": 0,
+    "metrics": {}
+}

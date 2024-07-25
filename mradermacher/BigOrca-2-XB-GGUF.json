@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/BigOrca-2-XB-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-17T00:02:48Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "BigOrca-2-XB.IQ3_M.gguf",
+            "size": "10505001312",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "4ac861b38e6dd055884f83cbfc110e2bb878e25f8f2114a825d64a3aee6a50ee",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BigOrca-2-XB-GGUF/resolve/main/BigOrca-2-XB.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "BigOrca-2-XB.IQ3_S.gguf",
+            "size": "9942374752",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "bf305c5c7953dfefd01e753812caefe49fed1db6af3fa73af01f0f5edda2c845",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BigOrca-2-XB-GGUF/resolve/main/BigOrca-2-XB.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "BigOrca-2-XB.IQ3_XS.gguf",
+            "size": "9418660192",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "8585bc59c4689a1d8786ba2a87b2ec96371c69b1df4776a827255529d71dd31d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BigOrca-2-XB-GGUF/resolve/main/BigOrca-2-XB.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "BigOrca-2-XB.IQ4_XS.gguf",
+            "size": "12302542688",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "63fc39f1e1104cc2224376a55a6696d6bb74a4d2180035738ac0a49b42ae4d25",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BigOrca-2-XB-GGUF/resolve/main/BigOrca-2-XB.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "BigOrca-2-XB.Q2_K.gguf",
+            "size": "8546609984",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "501d0bd054a1ccca750ccafdd2b198ada4918ccd1e038a6e62765b09faf856cc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BigOrca-2-XB-GGUF/resolve/main/BigOrca-2-XB.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "BigOrca-2-XB.Q3_K_L.gguf",
+            "size": "12165888352",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "1301baab9ff753e648489e82dd654c19f2232e72c2d69852a29ab1a41db1fbdf",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BigOrca-2-XB-GGUF/resolve/main/BigOrca-2-XB.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "BigOrca-2-XB.Q3_K_M.gguf",
+            "size": "11129764192",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "13a74f1309d3b7eafc2b349af04bc6912ad093d18f0b7755b1383ede83b01d89",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BigOrca-2-XB-GGUF/resolve/main/BigOrca-2-XB.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "BigOrca-2-XB.Q3_K_S.gguf",
+            "size": "9942374752",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "42a21913c7923509c2b2fdf7344edb9aae0ef70b28586c61cc9f9837f33861c8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BigOrca-2-XB-GGUF/resolve/main/BigOrca-2-XB.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "BigOrca-2-XB.Q4_K_M.gguf",
+            "size": "13763258688",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "1f4971d148ce3ba404b13961f966e44f4c0e300360c634dcb46ae1b3e6772984",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BigOrca-2-XB-GGUF/resolve/main/BigOrca-2-XB.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "BigOrca-2-XB.Q4_K_S.gguf",
+            "size": "12996938048",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "74ec611583ba8f2a360e0d0abdb8d04822d6ee5fe3ac03af0535cf872a3c6c92",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BigOrca-2-XB-GGUF/resolve/main/BigOrca-2-XB.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "BigOrca-2-XB.Q5_K_M.gguf",
+            "size": "16146968768",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e476570462019541a2b5a235aaccacbf867fcb0e70aae73bf48b459d36e8d060",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BigOrca-2-XB-GGUF/resolve/main/BigOrca-2-XB.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "BigOrca-2-XB.Q5_K_S.gguf",
+            "size": "15708983488",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "540b5c6b9ba11f026a3e0c49db99f8568db954a1df4ba5681e912031ec8ebb51",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BigOrca-2-XB-GGUF/resolve/main/BigOrca-2-XB.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "BigOrca-2-XB.Q6_K.gguf",
+            "size": "18679660736",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "4edd6ae4df2eeb2f8613c2528c21407b179be41279e2eb98fd651b582394b8a6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BigOrca-2-XB-GGUF/resolve/main/BigOrca-2-XB.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "BigOrca-2-XB.Q8_0.gguf",
+            "size": "24096778048",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "e613a716d63d86af4ff29ae20b972ac4312316d5a388d5e7416b9316eeecee5c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/BigOrca-2-XB-GGUF/resolve/main/BigOrca-2-XB.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

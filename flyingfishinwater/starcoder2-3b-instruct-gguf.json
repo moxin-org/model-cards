@@ -1,0 +1,43 @@
+{
+    "id": "flyingfishinwater/starcoder2-3b-instruct-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "flyingfishinwater",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-07T18:31:21Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "starcoder2-3b-instruct-gguf_f16.gguf",
+            "size": "6064559200",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ba39d140b33be47bd3dafc78b580e95fdd40bee04339a81a2fea58be396f2824",
+            "download": {
+                "default": "https://huggingface.co/flyingfishinwater/starcoder2-3b-instruct-gguf/resolve/main/starcoder2-3b-instruct-gguf_f16.gguf"
+            }
+        },
+        {
+            "name": "starcoder2-3b-instruct-gguf_Q8_0.gguf",
+            "size": "3224556672",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "e53fb8655d477339f277ad2bd74cf3d869cfa3ba9e792a58f4784b7d1cd3dd64",
+            "download": {
+                "default": "https://huggingface.co/flyingfishinwater/starcoder2-3b-instruct-gguf/resolve/main/starcoder2-3b-instruct-gguf_Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

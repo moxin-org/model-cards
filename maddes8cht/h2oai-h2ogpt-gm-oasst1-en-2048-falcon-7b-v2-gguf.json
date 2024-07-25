@@ -1,0 +1,163 @@
+{
+    "id": "maddes8cht/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "maddes8cht",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-23T06:28:36Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q2_K.gguf",
+            "size": "4025162688",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "bd6d9b465299798db9b6bb08c5cf2bb0fa5f2c7905a5c993e442a8847d371c65",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-gguf/resolve/main/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q3_K_L.gguf",
+            "size": "4562154432",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "41f340ebbe5676d8058aaea1da977e2c3d4c55eccefbe703d720b06567e852dd",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-gguf/resolve/main/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q3_K_M.gguf",
+            "size": "4365999040",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "4caf9a59c674c74c64a59a0e4843d06a70b7355051367065a045be719cc8db10",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-gguf/resolve/main/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q3_K_S.gguf",
+            "size": "4127384512",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "fe3d7562347cedafcf0ae34cecdf1405065699dde3121075434361976fe99d48",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-gguf/resolve/main/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q4_0.gguf",
+            "size": "4210994112",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "97984c25d0206f8abebc582febce7e56f5311c202abe63c424d396ee28796c0a",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-gguf/resolve/main/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q4_1.gguf",
+            "size": "4643582912",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "a756b837f5fab632e0805a99be16b84bf2ee09aaa37c20a2192b0d4740304fc0",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-gguf/resolve/main/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q4_1.gguf"
+            }
+        },
+        {
+            "name": "h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q4_K_M.gguf",
+            "size": "4975385792",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "2f03a2f41d474fe67f589227a2ccb3a7c8813bebf2078a41afded9a779ed13cc",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-gguf/resolve/main/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q4_K_S.gguf",
+            "size": "4745804736",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "5c74d7f1517c7fd0fe970465257a92e6bd8f4226c8b97a80bf78d595e6e1cf10",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-gguf/resolve/main/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q5_0.gguf",
+            "size": "5076171712",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "d0978151c1b98e54fb4adff81ce45fc457aa37633e2df87278cc4b1e6dd46b4e",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-gguf/resolve/main/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q5_1.gguf",
+            "size": "5508760512",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "c907605eceb45f342a7831e6b86838c2f370565c5fb9d01f9e6b0bb534d9b5b3",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-gguf/resolve/main/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q5_1.gguf"
+            }
+        },
+        {
+            "name": "h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q5_K_M.gguf",
+            "size": "5731380160",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "116c76e390bfb2da10a8f66511e5040b9b87d03b392de3f3ec76e860af523524",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-gguf/resolve/main/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q5_K_S.gguf",
+            "size": "5343577024",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "e4c665b25a2ee7847d769d1a16e75ca26e194bf23c12ee5fa265c9be0d78dc2e",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-gguf/resolve/main/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q6_K.gguf",
+            "size": "7031618496",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "00089563ae5b2704886caaecfaa1b4387f934b9917bfa7a621375bd3ff77245f",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-gguf/resolve/main/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q8_0.gguf",
+            "size": "7671704512",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "af5118a87c3916e29f96b3b104e3608c75934469e4d74d681f805b1ef89072d5",
+            "download": {
+                "default": "https://huggingface.co/maddes8cht/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-gguf/resolve/main/h2oai-h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

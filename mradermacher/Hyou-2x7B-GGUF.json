@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Hyou-2x7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-05T08:47:08Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Hyou-2x7B.IQ3_M.gguf",
+            "size": "5738829792",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "70145488b7bda270e825ca37fd46c989257e8a0fcca25a4e197e99ea53428c46",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyou-2x7B-GGUF/resolve/main/Hyou-2x7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Hyou-2x7B.IQ3_S.gguf",
+            "size": "5605136352",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "6e5976459800b7a29e9991180a4acec49876231d88b1799dcc18f476979949ff",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyou-2x7B-GGUF/resolve/main/Hyou-2x7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Hyou-2x7B.IQ3_XS.gguf",
+            "size": "5298427872",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "38acf9034b93227d38c72ddaecc8cc20782ea0e73979b0c3334bf651dc46d5e4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyou-2x7B-GGUF/resolve/main/Hyou-2x7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Hyou-2x7B.IQ4_XS.gguf",
+            "size": "6976354272",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "2efb69f04e4490919cea3b0f988cf7229608eed06ed6ac238cb146463662711c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyou-2x7B-GGUF/resolve/main/Hyou-2x7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Hyou-2x7B.Q2_K.gguf",
+            "size": "4760303584",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "4f49d80992c9c9dae6d1f461ba724c40a1e3ca3352f11661083b40bd228e66fd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyou-2x7B-GGUF/resolve/main/Hyou-2x7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Hyou-2x7B.Q3_K_L.gguf",
+            "size": "6729209824",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "20139c5584661651a5d316078ea9a720fef81af50872c5ff21a8972bdc92a5b0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyou-2x7B-GGUF/resolve/main/Hyou-2x7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Hyou-2x7B.Q3_K_M.gguf",
+            "size": "6205970400",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "85986bf736fe4da580c03c2f5c84d8bfd90c3084bf57f47145f505e892a4ed6a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyou-2x7B-GGUF/resolve/main/Hyou-2x7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hyou-2x7B.Q3_K_S.gguf",
+            "size": "5587310560",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "df213a6431ae1e9b7eb85699e5e032d5f3878c1026cd8117fe8e7dad89556855",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyou-2x7B-GGUF/resolve/main/Hyou-2x7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hyou-2x7B.Q4_K_M.gguf",
+            "size": "7782086624",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c3250fd7c6d1fe1a0048c8d00fd28150a61594b515f78a2c84522c8aab736beb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyou-2x7B-GGUF/resolve/main/Hyou-2x7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hyou-2x7B.Q4_K_S.gguf",
+            "size": "7341160416",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "9cd2840a1bbb0ba0378ba6111a423737646e3dfb991b07a8fa8552872142f284",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyou-2x7B-GGUF/resolve/main/Hyou-2x7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hyou-2x7B.Q5_K_M.gguf",
+            "size": "9132259296",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "64978cf9fd06d7f5b840caae54458226e327cf223752368f4683c2e6c5447f6c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyou-2x7B-GGUF/resolve/main/Hyou-2x7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hyou-2x7B.Q5_K_S.gguf",
+            "size": "8873785312",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "752af4934a42f6aa391ae92cc93f51e9af2ab61ec396b5daaa8b12ef5d9004c9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyou-2x7B-GGUF/resolve/main/Hyou-2x7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hyou-2x7B.Q6_K.gguf",
+            "size": "10566817760",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "d14fb405d6fff1f4e08d648dfcd6ef3ab1032525505aa29dfe058d6f16f5023c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyou-2x7B-GGUF/resolve/main/Hyou-2x7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Hyou-2x7B.Q8_0.gguf",
+            "size": "13685856224",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "71c7790fb66b613f47f4bf2f10e69e9fc46e8bccf7364df1cd0d9f50132f81c1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyou-2x7B-GGUF/resolve/main/Hyou-2x7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

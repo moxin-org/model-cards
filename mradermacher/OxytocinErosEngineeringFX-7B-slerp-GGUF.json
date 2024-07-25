@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/OxytocinErosEngineeringFX-7B-slerp-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-10T06:28:13Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "OxytocinErosEngineeringFX-7B-slerp.IQ3_M.gguf",
+            "size": "3284891360",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "61b9a4c78fc15379de6d20fb83e920f3f9246f190b3d6814bd36bbcffc6a0336",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OxytocinErosEngineeringFX-7B-slerp-GGUF/resolve/main/OxytocinErosEngineeringFX-7B-slerp.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "OxytocinErosEngineeringFX-7B-slerp.IQ3_S.gguf",
+            "size": "3182393056",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "c32feb73ab1a2aa3e8c1399f636c1269cf76180ac40131c31264ad1413fc3ea8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OxytocinErosEngineeringFX-7B-slerp-GGUF/resolve/main/OxytocinErosEngineeringFX-7B-slerp.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "OxytocinErosEngineeringFX-7B-slerp.IQ3_XS.gguf",
+            "size": "3018815200",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "37bdfbb35dabae52f6726907517f144374bd80d01ae6959de6fb2613fedcb773",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OxytocinErosEngineeringFX-7B-slerp-GGUF/resolve/main/OxytocinErosEngineeringFX-7B-slerp.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "OxytocinErosEngineeringFX-7B-slerp.IQ4_XS.gguf",
+            "size": "3944388320",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "0da959ca907caeb18097524af3957c10638341c65faaf577d86e31b344b24fa5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OxytocinErosEngineeringFX-7B-slerp-GGUF/resolve/main/OxytocinErosEngineeringFX-7B-slerp.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "OxytocinErosEngineeringFX-7B-slerp.Q2_K.gguf",
+            "size": "2719241952",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "7fb305deddac2be5f944124204267fe167d5e6c86241fbae3af312ec09690791",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OxytocinErosEngineeringFX-7B-slerp-GGUF/resolve/main/OxytocinErosEngineeringFX-7B-slerp.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "OxytocinErosEngineeringFX-7B-slerp.Q3_K_L.gguf",
+            "size": "3822024416",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "c5eb2a9fa90bcfe4886f50544cbcdf15f5ba8f75f53e8e4ec7362de7d413cd81",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OxytocinErosEngineeringFX-7B-slerp-GGUF/resolve/main/OxytocinErosEngineeringFX-7B-slerp.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "OxytocinErosEngineeringFX-7B-slerp.Q3_K_M.gguf",
+            "size": "3518985952",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "1b8868dd90b26bc312fd2f2e95886a14cfd08b56df7cd04e00ee0af328a3afd0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OxytocinErosEngineeringFX-7B-slerp-GGUF/resolve/main/OxytocinErosEngineeringFX-7B-slerp.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "OxytocinErosEngineeringFX-7B-slerp.Q3_K_S.gguf",
+            "size": "3164567264",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "f524c0089492872468a5019460ed836e52bf34695244dca641780357021556e6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OxytocinErosEngineeringFX-7B-slerp-GGUF/resolve/main/OxytocinErosEngineeringFX-7B-slerp.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "OxytocinErosEngineeringFX-7B-slerp.Q4_K_M.gguf",
+            "size": "4368439008",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "33b23a93515bf4c6f7085c00635492908e28d073317640bb7cbf8c2ee76914d6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OxytocinErosEngineeringFX-7B-slerp-GGUF/resolve/main/OxytocinErosEngineeringFX-7B-slerp.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "OxytocinErosEngineeringFX-7B-slerp.Q4_K_S.gguf",
+            "size": "4140373728",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "23954baae9f7f3b76c9e0593f58017627b08efa73bd83e264d5db7eae9e01063",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OxytocinErosEngineeringFX-7B-slerp-GGUF/resolve/main/OxytocinErosEngineeringFX-7B-slerp.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "OxytocinErosEngineeringFX-7B-slerp.Q5_K_M.gguf",
+            "size": "5131409120",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "14df7947f0d65a46925869c79fbb2ed2b03c0c2f276729dfa34e13b64c9342ea",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OxytocinErosEngineeringFX-7B-slerp-GGUF/resolve/main/OxytocinErosEngineeringFX-7B-slerp.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "OxytocinErosEngineeringFX-7B-slerp.Q5_K_S.gguf",
+            "size": "4997715680",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "39988c302c04a1416e342ca253ba34ade528e6afb30c45ba3f40bc776156fae7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OxytocinErosEngineeringFX-7B-slerp-GGUF/resolve/main/OxytocinErosEngineeringFX-7B-slerp.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "OxytocinErosEngineeringFX-7B-slerp.Q6_K.gguf",
+            "size": "5942064864",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "eb3a62644c237bdda2b76a7da8bda0af14786417063434499a2571282469e925",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OxytocinErosEngineeringFX-7B-slerp-GGUF/resolve/main/OxytocinErosEngineeringFX-7B-slerp.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "OxytocinErosEngineeringFX-7B-slerp.Q8_0.gguf",
+            "size": "7695857376",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "9bf2575ce7e6b9cd83946802390fc0841bc91d8ee74cda70448b68a178827229",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/OxytocinErosEngineeringFX-7B-slerp-GGUF/resolve/main/OxytocinErosEngineeringFX-7B-slerp.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

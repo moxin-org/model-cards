@@ -1,0 +1,43 @@
+{
+    "id": "Azazelle/Sina-Thor-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Azazelle",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-11T00:58:47Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Sina-Thor-7b_Q4_K_M.gguf",
+            "size": "4369375296",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e129fac9df29e50c3a66679db4dc1b3e32e84fa4151c9fddf6e038aa550e982d",
+            "download": {
+                "default": "https://huggingface.co/Azazelle/Sina-Thor-7b-GGUF/resolve/main/Sina-Thor-7b_Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Sina-Thor-7b.gguf",
+            "size": "14485667872",
+            "quantization": "",
+            "tags": [],
+            "sha256": "38a1ad39d87ef69441d93f75c7f5e9b553c244d844dfa02a8773a596f6a5743b",
+            "download": {
+                "default": "https://huggingface.co/Azazelle/Sina-Thor-7b-GGUF/resolve/main/Sina-Thor-7b.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

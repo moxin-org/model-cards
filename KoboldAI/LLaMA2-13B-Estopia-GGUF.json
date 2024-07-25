@@ -1,0 +1,173 @@
+{
+    "id": "KoboldAI/LLaMA2-13B-Estopia-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "KoboldAI",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-14T14:27:09Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "LLaMA2-13B-Estopia.F16.gguf",
+            "size": "26033303552",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a66da13704aae57a21f36f28333b8d86ee2bf45c4b3314d72581d5c66cdeb660",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Estopia-GGUF/resolve/main/LLaMA2-13B-Estopia.F16.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Estopia.Q2_K.gguf",
+            "size": "5429348416",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "8b547acdfd18d95432daf4e7198a4acf182d6e689105e8d10aebd00e5e860615",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Estopia-GGUF/resolve/main/LLaMA2-13B-Estopia.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Estopia.Q3_K_L.gguf",
+            "size": "6929559616",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "9ed06641e54772170b4692c7d33ea6cfdff6f21def0d6f1d6721597ce6b20949",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Estopia-GGUF/resolve/main/LLaMA2-13B-Estopia.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Estopia.Q3_K_M.gguf",
+            "size": "6337769536",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "ff00619388100079157081908e744474eb7c4ae24053a31ac1460f3c46a935f2",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Estopia-GGUF/resolve/main/LLaMA2-13B-Estopia.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Estopia.Q3_K_S.gguf",
+            "size": "5658980416",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "1417bdfb2bd5648ba706738467a30f2360f19c9141b586393e26563702c204ac",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Estopia-GGUF/resolve/main/LLaMA2-13B-Estopia.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Estopia.Q4_0.gguf",
+            "size": "7365834816",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "8e8ae6a1b3e5caf4facf0f20e8b445a87baef260e2bd87cc0769c4304f7991c5",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Estopia-GGUF/resolve/main/LLaMA2-13B-Estopia.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Estopia.Q4_1.gguf",
+            "size": "8169060416",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "35169adf034d88da0f8f72340aa25df7f8f6dab82def547da4fdeee92de607c6",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Estopia-GGUF/resolve/main/LLaMA2-13B-Estopia.Q4_1.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Estopia.Q4_K_M.gguf",
+            "size": "7865956416",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4f2eb7a3e8efc3c3a4c67c2eb2e3361fc0195f7d870f9e0bf69a7f404c6ae978",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Estopia-GGUF/resolve/main/LLaMA2-13B-Estopia.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Estopia.Q4_K_S.gguf",
+            "size": "7414331456",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "b873b6cb5d03601e185f19fd37890360bce813759ad75bd5ad3e2e0a49ee4513",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Estopia-GGUF/resolve/main/LLaMA2-13B-Estopia.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Estopia.Q5_0.gguf",
+            "size": "8972286016",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "6a75ed47e0be49d8dddb79e842d82601887c4aadd11ee8adde7e608f973d0fbe",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Estopia-GGUF/resolve/main/LLaMA2-13B-Estopia.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Estopia.Q5_1.gguf",
+            "size": "9775511616",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "adcfd80345562f5ffcebc053f6099f5bcb48be06721a70fb69f38853243faeab",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Estopia-GGUF/resolve/main/LLaMA2-13B-Estopia.Q5_1.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Estopia.Q5_K_M.gguf",
+            "size": "9229924416",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "324da6b7d48566026c795c56b918ed8880d95d16c88147e31aa572e822c43129",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Estopia-GGUF/resolve/main/LLaMA2-13B-Estopia.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Estopia.Q5_K_S.gguf",
+            "size": "8972286016",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "c02c4723da28753ff6285eb06158797283c7ce7cfcf794c2e1290ac9b6020c9b",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Estopia-GGUF/resolve/main/LLaMA2-13B-Estopia.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Estopia.Q6_K.gguf",
+            "size": "10679140416",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "66130819c5f5ae2e1ddf78900bbfe4ea14780b650d5cbca9682a0496190e2b14",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Estopia-GGUF/resolve/main/LLaMA2-13B-Estopia.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Estopia.Q8_0.gguf",
+            "size": "13831319616",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "c54887683c2185370973935fc3ff663382f0702b3ce18774a28deadf9fea5f5a",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Estopia-GGUF/resolve/main/LLaMA2-13B-Estopia.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

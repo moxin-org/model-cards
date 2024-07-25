@@ -1,0 +1,93 @@
+{
+    "id": "prsyahmi/malaysian-mistral-7b-32k-instructions-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "prsyahmi",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-12T01:16:56Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "malaysian-mistral-7b-32k-instructions.fp16.gguf",
+            "size": "14484731488",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1108ac7504fd9b6edfa0d7f4b61ef85f6c1a533ece046b059152ed2f1d30305e",
+            "download": {
+                "default": "https://huggingface.co/prsyahmi/malaysian-mistral-7b-32k-instructions-GGUF/resolve/main/malaysian-mistral-7b-32k-instructions.fp16.gguf"
+            }
+        },
+        {
+            "name": "malaysian-mistral-7b-32k-instructions.Q2_K.gguf",
+            "size": "3083097728",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "bef7ddae7e34d758457ef480aec26b0fb780038db98fd7f1d9d56f0104fea4d0",
+            "download": {
+                "default": "https://huggingface.co/prsyahmi/malaysian-mistral-7b-32k-instructions-GGUF/resolve/main/malaysian-mistral-7b-32k-instructions.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "malaysian-mistral-7b-32k-instructions.Q3_K_M.gguf",
+            "size": "3518985856",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "af51b6d5c2cd08ca5a0bbb87fcc9cdc43791dbfb6ed5ce73359bcebc7d6e0210",
+            "download": {
+                "default": "https://huggingface.co/prsyahmi/malaysian-mistral-7b-32k-instructions-GGUF/resolve/main/malaysian-mistral-7b-32k-instructions.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "malaysian-mistral-7b-32k-instructions.Q4_K_M.gguf",
+            "size": "4368438912",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "15342fa62764c9890d8ee4702dc55ac00490d31e94f03a94285911cffd24abbc",
+            "download": {
+                "default": "https://huggingface.co/prsyahmi/malaysian-mistral-7b-32k-instructions-GGUF/resolve/main/malaysian-mistral-7b-32k-instructions.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "malaysian-mistral-7b-32k-instructions.Q4_K_S.gguf",
+            "size": "4140373632",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "1c3465f18d2ab6c4ec2957bae00a31100d0046901f4bd13641654c46d068f4bd",
+            "download": {
+                "default": "https://huggingface.co/prsyahmi/malaysian-mistral-7b-32k-instructions-GGUF/resolve/main/malaysian-mistral-7b-32k-instructions.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "malaysian-mistral-7b-32k-instructions.Q5_K_M.gguf",
+            "size": "5131409024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "18713c61ca8b8082bb515fb1aa51b36550fc17ec6b1f741009ab4f395fa84c69",
+            "download": {
+                "default": "https://huggingface.co/prsyahmi/malaysian-mistral-7b-32k-instructions-GGUF/resolve/main/malaysian-mistral-7b-32k-instructions.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "malaysian-mistral-7b-32k-instructions.Q6_K.gguf",
+            "size": "5942064768",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "f8b19a5cb08aa00aecb859b80490212b459afa035ddc50587748135d0797fd87",
+            "download": {
+                "default": "https://huggingface.co/prsyahmi/malaysian-mistral-7b-32k-instructions-GGUF/resolve/main/malaysian-mistral-7b-32k-instructions.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

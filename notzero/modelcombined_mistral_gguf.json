@@ -1,0 +1,33 @@
+{
+    "id": "notzero/modelcombined_mistral_gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "notzero",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-18T23:56:24Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-Q4_K_M.gguf",
+            "size": "4081004224",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "278d104f3fe0ad96a0f8014aa94ba2084bb7e6b9b8644049086b3b55bca5c858",
+            "download": {
+                "default": "https://huggingface.co/notzero/modelcombined_mistral_gguf/resolve/main/ggml-model-Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

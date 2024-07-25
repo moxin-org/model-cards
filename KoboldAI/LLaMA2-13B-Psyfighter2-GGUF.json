@@ -1,0 +1,173 @@
+{
+    "id": "KoboldAI/LLaMA2-13B-Psyfighter2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "KoboldAI",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-14T13:55:13Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "LLaMA2-13B-Psyfighter2.F16.gguf",
+            "size": "26033303424",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a00820bb1c0f231c10fb513f6abaae3ef021c843f5bb09c3d274cf8de2fb1fcc",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Psyfighter2-GGUF/resolve/main/LLaMA2-13B-Psyfighter2.F16.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Psyfighter2.Q2_K.gguf",
+            "size": "5429348288",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "2e6be53628bb06f86915762225ba163c587e7d2288c000a1490d5e52978797cb",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Psyfighter2-GGUF/resolve/main/LLaMA2-13B-Psyfighter2.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Psyfighter2.Q3_K_L.gguf",
+            "size": "6929559488",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "6cd41dd566dc09fa358c3cc6d8e9e7e7766803ddf23de867f789cbc9b9b26621",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Psyfighter2-GGUF/resolve/main/LLaMA2-13B-Psyfighter2.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Psyfighter2.Q3_K_M.gguf",
+            "size": "6337769408",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "44c22e36ebbff6cf586a0a9798170f2c8be94300545ff9cd30c70bb3b35214f4",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Psyfighter2-GGUF/resolve/main/LLaMA2-13B-Psyfighter2.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Psyfighter2.Q3_K_S.gguf",
+            "size": "5658980288",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "c6d0bed5e057f898fd1a3f932fefa34ab1ec0cae7f1880531e9bcbb656e129bc",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Psyfighter2-GGUF/resolve/main/LLaMA2-13B-Psyfighter2.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Psyfighter2.Q4_0.gguf",
+            "size": "7365834688",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "5899581a6bd9b97645811d2bd7dbf6fc07068540bb5930a5c97e7efdce678f66",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Psyfighter2-GGUF/resolve/main/LLaMA2-13B-Psyfighter2.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Psyfighter2.Q4_1.gguf",
+            "size": "8169060288",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "116aac1b1fea83523bfbeeaf925d2c2938f11af7153eed2267008cde0261593f",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Psyfighter2-GGUF/resolve/main/LLaMA2-13B-Psyfighter2.Q4_1.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Psyfighter2.Q4_K_M.gguf",
+            "size": "7865956288",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "dbadff148efde175159f136b4cc20d9f8f4e632c36e9f9c9e924339733949d61",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Psyfighter2-GGUF/resolve/main/LLaMA2-13B-Psyfighter2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Psyfighter2.Q4_K_S.gguf",
+            "size": "7414331328",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "a2cb80e1a7e37ba16119c2c5be9c3385c6b6de788507af6b71512c9833ded264",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Psyfighter2-GGUF/resolve/main/LLaMA2-13B-Psyfighter2.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Psyfighter2.Q5_0.gguf",
+            "size": "8972285888",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "c5dde752bec3af9bb3246ae8249a76cd23581a5df59a5cdd9907836c42d512bc",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Psyfighter2-GGUF/resolve/main/LLaMA2-13B-Psyfighter2.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Psyfighter2.Q5_1.gguf",
+            "size": "9775511488",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "c07bd61b9b0ff094bfa0161576f6c0d6d2c1d74d8d5956ef566e5a632e1959ca",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Psyfighter2-GGUF/resolve/main/LLaMA2-13B-Psyfighter2.Q5_1.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Psyfighter2.Q5_K_M.gguf",
+            "size": "9229924288",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "8cd4740626cab33f39085ed0d2953049f89bb1eadf517cf529d71d8f4bf9dd74",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Psyfighter2-GGUF/resolve/main/LLaMA2-13B-Psyfighter2.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Psyfighter2.Q5_K_S.gguf",
+            "size": "8972285888",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "1c16f6518430ac065fe22fb6efadbabff11e6ece9edd00fa6b776cf89d7b23c6",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Psyfighter2-GGUF/resolve/main/LLaMA2-13B-Psyfighter2.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Psyfighter2.Q6_K.gguf",
+            "size": "10679140288",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "19a965ee759b502f67e976c7f4405b6dec3a40ff27a3ecb3da5d840863d5e8bd",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Psyfighter2-GGUF/resolve/main/LLaMA2-13B-Psyfighter2.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "LLaMA2-13B-Psyfighter2.Q8_0.gguf",
+            "size": "13831319488",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "2f2626359721d9b0220272a0936fcc951139d47bc639fed3d5151e2187e9bac8",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/LLaMA2-13B-Psyfighter2-GGUF/resolve/main/LLaMA2-13B-Psyfighter2.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

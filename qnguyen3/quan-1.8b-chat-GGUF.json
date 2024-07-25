@@ -1,0 +1,43 @@
+{
+    "id": "qnguyen3/quan-1.8b-chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "qnguyen3",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-16T11:22:57Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "quan-1.8b-chat.Q4_K_M.gguf",
+            "size": "1215824864",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "7c3f3bde401a3693477e61fae87533609b7d6268e04089ccd1ee04151d6737d5",
+            "download": {
+                "default": "https://huggingface.co/qnguyen3/quan-1.8b-chat-GGUF/resolve/main/quan-1.8b-chat.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "quan-1.8b-chat.Q5_K_M.gguf",
+            "size": "1374847968",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f4ab6f877e91a5039fa88f4d003866f1c5acdf66e2ffc17452c9bcb46eb4ab04",
+            "download": {
+                "default": "https://huggingface.co/qnguyen3/quan-1.8b-chat-GGUF/resolve/main/quan-1.8b-chat.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

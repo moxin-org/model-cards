@@ -1,0 +1,43 @@
+{
+    "id": "mykor/paraphrase-multilingual-MiniLM-L12-v2.gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mykor",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-05T07:25:39Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "paraphrase-multilingual-MiniLM-L12-v2-f16.gguf",
+            "size": "250813184",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b2f69dfe8fb9c71e9f9d82674ff5ae284f6d943953317800e1503111967dd4bf",
+            "download": {
+                "default": "https://huggingface.co/mykor/paraphrase-multilingual-MiniLM-L12-v2.gguf/resolve/main/paraphrase-multilingual-MiniLM-L12-v2-f16.gguf"
+            }
+        },
+        {
+            "name": "paraphrase-multilingual-MiniLM-L12-v2-f32.gguf",
+            "size": "485703680",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1775160c26d0f1d9d1081017a76188e827f70c849b9c63a15b5d716970fcabc1",
+            "download": {
+                "default": "https://huggingface.co/mykor/paraphrase-multilingual-MiniLM-L12-v2.gguf/resolve/main/paraphrase-multilingual-MiniLM-L12-v2-f32.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

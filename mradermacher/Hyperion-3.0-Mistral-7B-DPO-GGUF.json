@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/Hyperion-3.0-Mistral-7B-DPO-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-24T20:36:49Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Hyperion-3.0-Mistral-7B-DPO.IQ3_M.gguf",
+            "size": "3439515392",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "a35a3620369fc7da5e37bbe6d934d1c1730b1ac4e427062e551e231a1e062dce",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-3.0-Mistral-7B-DPO-GGUF/resolve/main/Hyperion-3.0-Mistral-7B-DPO.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-3.0-Mistral-7B-DPO.IQ3_S.gguf",
+            "size": "3337017088",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "caf4da75c0b52451e38ef4bb5b2842bd45373dcbe3ba2cf224671613a6dba2f3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-3.0-Mistral-7B-DPO-GGUF/resolve/main/Hyperion-3.0-Mistral-7B-DPO.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-3.0-Mistral-7B-DPO.IQ3_XS.gguf",
+            "size": "3173439232",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "37cb6cb5709b27e04eb6a6e3a5eae42fbcb1b4955c91a715dff4e40ee68e16f0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-3.0-Mistral-7B-DPO-GGUF/resolve/main/Hyperion-3.0-Mistral-7B-DPO.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-3.0-Mistral-7B-DPO.IQ4_NL.gguf",
+            "size": "4309677824",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "1e84ae78cd12e8aacfc73fdb7e242345fecd0ade41ceabf49a636f9871ffe651",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-3.0-Mistral-7B-DPO-GGUF/resolve/main/Hyperion-3.0-Mistral-7B-DPO.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-3.0-Mistral-7B-DPO.IQ4_XS.gguf",
+            "size": "4099012352",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "6923232b9653bf74cce4a6e04ddbe43ad48c95bfb923ab6d44456c7843f37515",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-3.0-Mistral-7B-DPO-GGUF/resolve/main/Hyperion-3.0-Mistral-7B-DPO.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-3.0-Mistral-7B-DPO.Q2_K.gguf",
+            "size": "2873865984",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "6612119d8a0aa9070635d61e2aee6733835cfa825d7489f844d55ccd38443016",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-3.0-Mistral-7B-DPO-GGUF/resolve/main/Hyperion-3.0-Mistral-7B-DPO.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-3.0-Mistral-7B-DPO.Q3_K_L.gguf",
+            "size": "3976648448",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "92053058f7cfb7f6f49b19ea4eea2f70412d5997aefc6476c4a8b06e89ddcd17",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-3.0-Mistral-7B-DPO-GGUF/resolve/main/Hyperion-3.0-Mistral-7B-DPO.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-3.0-Mistral-7B-DPO.Q3_K_M.gguf",
+            "size": "3673609984",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "8e561793926a5e7f53e89bdfea71f684247877b8f4b437b4063e4832502169ba",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-3.0-Mistral-7B-DPO-GGUF/resolve/main/Hyperion-3.0-Mistral-7B-DPO.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-3.0-Mistral-7B-DPO.Q3_K_S.gguf",
+            "size": "3319191296",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "ba617c5165136cab22985c71b07b6941559a87ea0c59a14812d85d8e43934495",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-3.0-Mistral-7B-DPO-GGUF/resolve/main/Hyperion-3.0-Mistral-7B-DPO.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-3.0-Mistral-7B-DPO.Q4_0.gguf",
+            "size": "4263540480",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "3eccbebaa915e3ee89bb7754e31005a225856dae51065c92fd301f48e977056b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-3.0-Mistral-7B-DPO-GGUF/resolve/main/Hyperion-3.0-Mistral-7B-DPO.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-3.0-Mistral-7B-DPO.Q4_K_M.gguf",
+            "size": "4523063040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c7397449d09dc1c315beac80365a4c76e504519fc63b353bf50bfa12dd76d1b6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-3.0-Mistral-7B-DPO-GGUF/resolve/main/Hyperion-3.0-Mistral-7B-DPO.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-3.0-Mistral-7B-DPO.Q4_K_S.gguf",
+            "size": "4294997760",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "d42855b84c2777e5b7356a8470a7cbb69008eb967ea141d784137ce11956b1ac",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-3.0-Mistral-7B-DPO-GGUF/resolve/main/Hyperion-3.0-Mistral-7B-DPO.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-3.0-Mistral-7B-DPO.Q5_K_M.gguf",
+            "size": "5286033152",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "758826b135df65cd9a143bdd67e61f047a9dee9bc047a7358c2f00a832f557e4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-3.0-Mistral-7B-DPO-GGUF/resolve/main/Hyperion-3.0-Mistral-7B-DPO.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-3.0-Mistral-7B-DPO.Q5_K_S.gguf",
+            "size": "5152339712",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "e7515774025a23a54bfc94aa74d6e240c4dcee928bea166d564933414190c966",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-3.0-Mistral-7B-DPO-GGUF/resolve/main/Hyperion-3.0-Mistral-7B-DPO.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-3.0-Mistral-7B-DPO.Q6_K.gguf",
+            "size": "6096688896",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "957fe01a8dcbddbfa24792489fdf48c9ef48e61cb5a6c822673b6a03168bc23d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-3.0-Mistral-7B-DPO-GGUF/resolve/main/Hyperion-3.0-Mistral-7B-DPO.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Hyperion-3.0-Mistral-7B-DPO.Q8_0.gguf",
+            "size": "7818737408",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "026c7124efbf1c6473a95082ca8de02f223c2b6e2299092c984a0bf718d9c71b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Hyperion-3.0-Mistral-7B-DPO-GGUF/resolve/main/Hyperion-3.0-Mistral-7B-DPO.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

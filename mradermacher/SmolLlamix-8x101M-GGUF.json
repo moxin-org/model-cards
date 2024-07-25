@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/SmolLlamix-8x101M-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-20T12:25:59Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "SmolLlamix-8x101M.IQ3_M.gguf",
+            "size": "218259072",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "196742b901a5ac89f5d1a933ddb4a78cf955d7389d21cd365a5d01a76497c3cb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SmolLlamix-8x101M-GGUF/resolve/main/SmolLlamix-8x101M.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "SmolLlamix-8x101M.IQ3_S.gguf",
+            "size": "213245568",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "429978b98b70b26fb3aec1c82a50f3f7492c7c9c6930fddbd4ceca8ad2b65875",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SmolLlamix-8x101M-GGUF/resolve/main/SmolLlamix-8x101M.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "SmolLlamix-8x101M.IQ3_XS.gguf",
+            "size": "204232320",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "e0c34999893f19f959a9f409a567b58658064f25190fc5e58acf4de6ce588f10",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SmolLlamix-8x101M-GGUF/resolve/main/SmolLlamix-8x101M.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "SmolLlamix-8x101M.IQ4_XS.gguf",
+            "size": "250615680",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "dbe5718fcd1732271f7046a48e25f2a2f5f5caeae5ae43e395592ee73c864790",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SmolLlamix-8x101M-GGUF/resolve/main/SmolLlamix-8x101M.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "SmolLlamix-8x101M.Q2_K.gguf",
+            "size": "187377024",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "213beb0b7b7f2b1cbe6f7268182822944a8a9059c9cbc75409376f02d0a0614a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SmolLlamix-8x101M-GGUF/resolve/main/SmolLlamix-8x101M.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "SmolLlamix-8x101M.Q3_K_L.gguf",
+            "size": "241529472",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "064f4b992310e1618375b4432ba30241d905a2ebe9e2b82dac53c4a7f43a966a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SmolLlamix-8x101M-GGUF/resolve/main/SmolLlamix-8x101M.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "SmolLlamix-8x101M.Q3_K_M.gguf",
+            "size": "228286080",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "63b88ddecd3d8aec92f1095b4de24e707ae810fdec9fd95c81c4ffc23295d4cb",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SmolLlamix-8x101M-GGUF/resolve/main/SmolLlamix-8x101M.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "SmolLlamix-8x101M.Q3_K_S.gguf",
+            "size": "213245568",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "ae10102865a28f27db6ac581de2882c317e37a9960d3a4e8ca173d9116972741",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SmolLlamix-8x101M-GGUF/resolve/main/SmolLlamix-8x101M.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "SmolLlamix-8x101M.Q4_K_M.gguf",
+            "size": "271846272",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5d7d1c557475c3562e7e4142b7f94784e6b2cd26cbb74a0060ad802259c1475a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SmolLlamix-8x101M-GGUF/resolve/main/SmolLlamix-8x101M.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "SmolLlamix-8x101M.Q4_K_S.gguf",
+            "size": "262114176",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "fc334a95f13a1fcd3e8ee5f52119cb00e342fb0e488045110addeda5c19f134c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SmolLlamix-8x101M-GGUF/resolve/main/SmolLlamix-8x101M.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "SmolLlamix-8x101M.Q5_K_M.gguf",
+            "size": "313121664",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "09c0503388c14fc49ec21949a3048efbc941b9b9ff95f709f2cbdea10dbaa3af",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SmolLlamix-8x101M-GGUF/resolve/main/SmolLlamix-8x101M.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "SmolLlamix-8x101M.Q5_K_S.gguf",
+            "size": "308108160",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "722c8021836295408be09ad51de5a32260a8c8d877c26e99fcb8847d1ee7c194",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SmolLlamix-8x101M-GGUF/resolve/main/SmolLlamix-8x101M.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "SmolLlamix-8x101M.Q6_K.gguf",
+            "size": "357446784",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "7f8c15831b11f525e1e2a5cea855465b9bebdd3dc32dfe5be5522f26ec7adc26",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SmolLlamix-8x101M-GGUF/resolve/main/SmolLlamix-8x101M.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "SmolLlamix-8x101M.Q8_0.gguf",
+            "size": "447417216",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "9e7c7fc387482574beda064956cab032b3cc3f7be4bdde29cc3604591c72546d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/SmolLlamix-8x101M-GGUF/resolve/main/SmolLlamix-8x101M.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

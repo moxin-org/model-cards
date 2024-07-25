@@ -1,0 +1,53 @@
+{
+    "id": "nediaz/Enlighten_Instruct_merged-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "nediaz",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-12T15:00:12Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Enlighten_Instruct_merged.fp16.gguf",
+            "size": "14484732096",
+            "quantization": "",
+            "tags": [],
+            "sha256": "04cf4ca2c3101a1f67b602c63558b57f4f65b78e858ceec9b392b378324b5799",
+            "download": {
+                "default": "https://huggingface.co/nediaz/Enlighten_Instruct_merged-GGUF/resolve/main/Enlighten_Instruct_merged.fp16.gguf"
+            }
+        },
+        {
+            "name": "Enlighten_Instruct_merged.q4_K_S.gguf",
+            "size": "4140374272",
+            "quantization": "",
+            "tags": [],
+            "sha256": "78609bf0ee5481b5667b360dc29c6215a107e024c51ba7fb105877ddb2ca4ec5",
+            "download": {
+                "default": "https://huggingface.co/nediaz/Enlighten_Instruct_merged-GGUF/resolve/main/Enlighten_Instruct_merged.q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Enlighten_Instruct_merged.q5_K_M.gguf",
+            "size": "5131409664",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0ae50268b7279046091b5c20d95d197995eb5a610e4c1ed44325a0943f183718",
+            "download": {
+                "default": "https://huggingface.co/nediaz/Enlighten_Instruct_merged-GGUF/resolve/main/Enlighten_Instruct_merged.q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

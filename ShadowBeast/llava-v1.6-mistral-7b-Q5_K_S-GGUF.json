@@ -1,0 +1,43 @@
+{
+    "id": "ShadowBeast/llava-v1.6-mistral-7b-Q5_K_S-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "ShadowBeast",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-16T16:15:13Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llava-v1.6-mistral-7b-Q5_K_S.gguf",
+            "size": "4997716224",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "ba230b2b8b2e12a15d5dc94df812ae0c5e5ba839d0c32463a170d1c442a9631e",
+            "download": {
+                "default": "https://huggingface.co/ShadowBeast/llava-v1.6-mistral-7b-Q5_K_S-GGUF/resolve/main/llava-v1.6-mistral-7b-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "mmproj-model-f16.gguf",
+            "size": "624451168",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b569399e8b652c0f1cd3e629faef3c608328f4e6af612f9574b9c52a573c3f7d",
+            "download": {
+                "default": "https://huggingface.co/ShadowBeast/llava-v1.6-mistral-7b-Q5_K_S-GGUF/resolve/main/mmproj-model-f16.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

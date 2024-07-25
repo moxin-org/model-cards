@@ -1,0 +1,113 @@
+{
+    "id": "NurtureAI/SynthIA-7B-v2.0-16k-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "NurtureAI",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-14T23:33:27Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "synthia-7b-v2-16k-f16.gguf",
+            "size": "14484731456",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7d3a028a3ef48c20c8806cb6b3f62f776eca1072e12db00473b3e5353ad8e80f",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/SynthIA-7B-v2.0-16k-GGUF/resolve/main/synthia-7b-v2-16k-f16.gguf"
+            }
+        },
+        {
+            "name": "synthia-7b-v2-16k-q2_k.gguf",
+            "size": "3083097728",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4e162223183c8c444585bd84d05bee8464d6439a27bd43e066f3125d2d2879ca",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/SynthIA-7B-v2.0-16k-GGUF/resolve/main/synthia-7b-v2-16k-q2_k.gguf"
+            }
+        },
+        {
+            "name": "synthia-7b-v2-16k-q3_k.gguf",
+            "size": "3518985856",
+            "quantization": "",
+            "tags": [],
+            "sha256": "42156bb88f4982630f3e2b76dea074ed37785c7c200e780e3323a755a97a66ab",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/SynthIA-7B-v2.0-16k-GGUF/resolve/main/synthia-7b-v2-16k-q3_k.gguf"
+            }
+        },
+        {
+            "name": "synthia-7b-v2-16k-q4_1.gguf",
+            "size": "4553315968",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f30d75ecf6baef52cd67159fc67f4b1f86d994b830ada0da468a91e8a104e70f",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/SynthIA-7B-v2.0-16k-GGUF/resolve/main/synthia-7b-v2-16k-q4_1.gguf"
+            }
+        },
+        {
+            "name": "synthia-7b-v2-16k-q4_k_m.gguf",
+            "size": "4368438912",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a03268edef14af4a44b6143272649a942ac7ac6d8951c75867bed54a4e4a50a3",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/SynthIA-7B-v2.0-16k-GGUF/resolve/main/synthia-7b-v2-16k-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "synthia-7b-v2-16k-q5_k_m.gguf",
+            "size": "5131409024",
+            "quantization": "",
+            "tags": [],
+            "sha256": "aa838fe97c29a6333da036e29e6c43ecb876fecb9575376865a4d79088afb6d0",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/SynthIA-7B-v2.0-16k-GGUF/resolve/main/synthia-7b-v2-16k-q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "synthia-7b-v2-16k-q5_k.gguf",
+            "size": "5131409024",
+            "quantization": "",
+            "tags": [],
+            "sha256": "aa838fe97c29a6333da036e29e6c43ecb876fecb9575376865a4d79088afb6d0",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/SynthIA-7B-v2.0-16k-GGUF/resolve/main/synthia-7b-v2-16k-q5_k.gguf"
+            }
+        },
+        {
+            "name": "synthia-7b-v2-16k-q6_k.gguf",
+            "size": "5942064768",
+            "quantization": "",
+            "tags": [],
+            "sha256": "65ccbee51ef0afb650ba2625319cf5885be576559a08a1a84fd885196235fffa",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/SynthIA-7B-v2.0-16k-GGUF/resolve/main/synthia-7b-v2-16k-q6_k.gguf"
+            }
+        },
+        {
+            "name": "synthia-7b-v2-16k-q8_0.gguf",
+            "size": "7695857280",
+            "quantization": "",
+            "tags": [],
+            "sha256": "29308f979b4b8e5d19e5649fbcb2bb0085f75a7089e81078fec6506633592e27",
+            "download": {
+                "default": "https://huggingface.co/NurtureAI/SynthIA-7B-v2.0-16k-GGUF/resolve/main/synthia-7b-v2-16k-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,193 @@
+{
+    "id": "mradermacher/llama2_70b_longlora_fp16_32k_ROPE8-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-09T22:00:21Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "llama2_70b_longlora_fp16_32k_ROPE8.i1-IQ3_XXS.gguf",
+            "size": "26925528128",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "1cbd9126d8328d8c321d9f49488ad4f168fd7886a5fe5e1003e54e88c4d457ad",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama2_70b_longlora_fp16_32k_ROPE8-i1-GGUF/resolve/main/llama2_70b_longlora_fp16_32k_ROPE8.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "llama2_70b_longlora_fp16_32k_ROPE8.i1-Q5_K_S.gguf",
+            "size": "47770645568",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "ae53902c9f46d7e2132c0026574338183ec1300b39574ad90a9a05c9990f5769",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama2_70b_longlora_fp16_32k_ROPE8-i1-GGUF/resolve/main/llama2_70b_longlora_fp16_32k_ROPE8.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "llama2_70b_longlora_fp16_32k_ROPE8.i1-Q5_K_M.gguf",
+            "size": "49063015488",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "395711190a9bfcf52c1e110a5e4e43792727cd9623e017f543d814c27a498ec9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama2_70b_longlora_fp16_32k_ROPE8-i1-GGUF/resolve/main/llama2_70b_longlora_fp16_32k_ROPE8.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama2_70b_longlora_fp16_32k_ROPE8.i1-Q4_K_S.gguf",
+            "size": "39558984768",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "0656852a522e8ed17e1d64a5d4623f6aba00fb1d1c89695bbfe73b965fbf5c61",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama2_70b_longlora_fp16_32k_ROPE8-i1-GGUF/resolve/main/llama2_70b_longlora_fp16_32k_ROPE8.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "llama2_70b_longlora_fp16_32k_ROPE8.i1-Q4_K_M.gguf",
+            "size": "41732158528",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "bca3d19ed57ab7d69698f7481b15fcaabba50908dd6dd803f9feeff5d691b810",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama2_70b_longlora_fp16_32k_ROPE8-i1-GGUF/resolve/main/llama2_70b_longlora_fp16_32k_ROPE8.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama2_70b_longlora_fp16_32k_ROPE8.i1-Q3_K_S.gguf",
+            "size": "30228542528",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "a74169682eec147ac35102a0b0f5bdcecb5b723d9977f15e9322ae9eb753f537",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama2_70b_longlora_fp16_32k_ROPE8-i1-GGUF/resolve/main/llama2_70b_longlora_fp16_32k_ROPE8.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "llama2_70b_longlora_fp16_32k_ROPE8.i1-Q3_K_M.gguf",
+            "size": "33583985728",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e1870b56f6d7df21da82ed4f271fa5b2a073a6bda34930909db6a47a9cd7c454",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama2_70b_longlora_fp16_32k_ROPE8-i1-GGUF/resolve/main/llama2_70b_longlora_fp16_32k_ROPE8.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "llama2_70b_longlora_fp16_32k_ROPE8.i1-Q3_K_L.gguf",
+            "size": "36457083968",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "4ff7c6526ad0d9d49ce6c82932ba2cc4a889a551cefb4d8869491f2bdc82d0f3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama2_70b_longlora_fp16_32k_ROPE8-i1-GGUF/resolve/main/llama2_70b_longlora_fp16_32k_ROPE8.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "llama2_70b_longlora_fp16_32k_ROPE8.i1-Q2_K.gguf",
+            "size": "25771684928",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "99e00af1637390db41a18a98f06ba1e26b52b64731eefaefad577cfec7e0951e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama2_70b_longlora_fp16_32k_ROPE8-i1-GGUF/resolve/main/llama2_70b_longlora_fp16_32k_ROPE8.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "llama2_70b_longlora_fp16_32k_ROPE8.i1-IQ1_S.gguf",
+            "size": "14879601728",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "1d79e1da8352b642ba78105e412ca6a30140f9ac11a24339825d123fee4b4691",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama2_70b_longlora_fp16_32k_ROPE8-i1-GGUF/resolve/main/llama2_70b_longlora_fp16_32k_ROPE8.i1-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "llama2_70b_longlora_fp16_32k_ROPE8.i1-IQ3_XS.gguf",
+            "size": "28451206208",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "a584500d527d89c0aa421bf2c24002c03be895ede57542152af4b9f5b1b2d3a8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama2_70b_longlora_fp16_32k_ROPE8-i1-GGUF/resolve/main/llama2_70b_longlora_fp16_32k_ROPE8.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "llama2_70b_longlora_fp16_32k_ROPE8.i1-IQ3_S.gguf",
+            "size": "30228542528",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "99df1bb8ba695644db71c49bd7d8df0c437eb65bc4f537f25a656f9cbf831d18",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama2_70b_longlora_fp16_32k_ROPE8-i1-GGUF/resolve/main/llama2_70b_longlora_fp16_32k_ROPE8.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "llama2_70b_longlora_fp16_32k_ROPE8.i1-IQ3_M.gguf",
+            "size": "31253525568",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "8edf65c8329cc94429039fb177708e3a11553bde37a2f6a73f826a1e959c9309",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama2_70b_longlora_fp16_32k_ROPE8-i1-GGUF/resolve/main/llama2_70b_longlora_fp16_32k_ROPE8.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "llama2_70b_longlora_fp16_32k_ROPE8.i1-IQ2_XXS.gguf",
+            "size": "18633503808",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "43ff45279442594bd6419a5f35822bb8ee4d6ea59f17d5a06573c9c092ed9c0c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama2_70b_longlora_fp16_32k_ROPE8-i1-GGUF/resolve/main/llama2_70b_longlora_fp16_32k_ROPE8.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "llama2_70b_longlora_fp16_32k_ROPE8.i1-IQ2_XS.gguf",
+            "size": "20678227008",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "f35ffd3edc706a51818b359318761bcc8f8aa83f56365534b92408528755aa09",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama2_70b_longlora_fp16_32k_ROPE8-i1-GGUF/resolve/main/llama2_70b_longlora_fp16_32k_ROPE8.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "llama2_70b_longlora_fp16_32k_ROPE8.i1-IQ2_S.gguf",
+            "size": "21698376768",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "89ff00c9c32b6143932ba7c019d25085fe7cc51228a87b5df7ab91f56aebd008",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama2_70b_longlora_fp16_32k_ROPE8-i1-GGUF/resolve/main/llama2_70b_longlora_fp16_32k_ROPE8.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "llama2_70b_longlora_fp16_32k_ROPE8.i1-IQ2_M.gguf",
+            "size": "23575327808",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "fe451f219d06bc57000a70bd88e68248d54015b9e58ea0ae46097e35a2ce63c9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/llama2_70b_longlora_fp16_32k_ROPE8-i1-GGUF/resolve/main/llama2_70b_longlora_fp16_32k_ROPE8.i1-IQ2_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

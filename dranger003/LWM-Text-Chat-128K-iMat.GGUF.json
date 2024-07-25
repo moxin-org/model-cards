@@ -1,0 +1,83 @@
+{
+    "id": "dranger003/LWM-Text-Chat-128K-iMat.GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "dranger003",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-14T14:14:59Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-lwm-text-chat-128k-f16.gguf",
+            "size": "13478104864",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0af35bb3d600fb122bd4eca6a6a9c705d252b0f6b94460fb2021a888b6b06b18",
+            "download": {
+                "default": "https://huggingface.co/dranger003/LWM-Text-Chat-128K-iMat.GGUF/resolve/main/ggml-lwm-text-chat-128k-f16.gguf"
+            }
+        },
+        {
+            "name": "ggml-lwm-text-chat-128k-iq3_xxs.gguf",
+            "size": "2687315776",
+            "quantization": "",
+            "tags": [],
+            "sha256": "374fbdc0e6831bda5f5df4f953f2ae6059a743da70db3ec714c1d1875275debd",
+            "download": {
+                "default": "https://huggingface.co/dranger003/LWM-Text-Chat-128K-iMat.GGUF/resolve/main/ggml-lwm-text-chat-128k-iq3_xxs.gguf"
+            }
+        },
+        {
+            "name": "ggml-lwm-text-chat-128k-q4_k_m.gguf",
+            "size": "4081004352",
+            "quantization": "",
+            "tags": [],
+            "sha256": "10d9e69ad5ed660b55bbd6efa638eeec0b6788e6e16d0b7f7069b1a47e95c57e",
+            "download": {
+                "default": "https://huggingface.co/dranger003/LWM-Text-Chat-128K-iMat.GGUF/resolve/main/ggml-lwm-text-chat-128k-q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "ggml-lwm-text-chat-128k-q5_k_m.gguf",
+            "size": "4783157056",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e0e0ecdc2a8e95e043c6007b9a7c8e59f0b989c7964f1ecb56845b2c12adc3ec",
+            "download": {
+                "default": "https://huggingface.co/dranger003/LWM-Text-Chat-128K-iMat.GGUF/resolve/main/ggml-lwm-text-chat-128k-q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "ggml-lwm-text-chat-128k-q6_k.gguf",
+            "size": "5529194304",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b1685e378ed42d495cbf7f4a58108112965a9b1750e568250f11c3e67b2d850f",
+            "download": {
+                "default": "https://huggingface.co/dranger003/LWM-Text-Chat-128K-iMat.GGUF/resolve/main/ggml-lwm-text-chat-128k-q6_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-lwm-text-chat-128k-q8_0.gguf",
+            "size": "7161089856",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ab5f65ff614c4bd7b0e8521dd24cdbafc3511118ebe8a35721a0f98a3112912e",
+            "download": {
+                "default": "https://huggingface.co/dranger003/LWM-Text-Chat-128K-iMat.GGUF/resolve/main/ggml-lwm-text-chat-128k-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

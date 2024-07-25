@@ -1,0 +1,43 @@
+{
+    "id": "Danielbrdz/Barcenas-Mistral-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Danielbrdz",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-23T17:06:40Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Barcenas-Mistral-7b.Q4_K_M.gguf",
+            "size": "4368438912",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "f296a52606112badd692436fdae57e6d3b0ed9c6be54d1a75893444157ae30db",
+            "download": {
+                "default": "https://huggingface.co/Danielbrdz/Barcenas-Mistral-7b-GGUF/resolve/main/Barcenas-Mistral-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Barcenas-Mistral-7b.Q5_K_M.gguf",
+            "size": "5131408992",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "1555dc2478973a4fb15da96dcef83f0942777c7472039561e1a73905155b1b08",
+            "download": {
+                "default": "https://huggingface.co/Danielbrdz/Barcenas-Mistral-7b-GGUF/resolve/main/Barcenas-Mistral-7b.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

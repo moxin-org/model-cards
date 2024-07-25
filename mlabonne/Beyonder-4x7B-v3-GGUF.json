@@ -1,0 +1,63 @@
+{
+    "id": "mlabonne/Beyonder-4x7B-v3-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mlabonne",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-22T11:35:48Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "beyonder-4x7b-v3.Q4_K_M.gguf",
+            "size": "14608853024",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "7a62ab440f86deb89c01e965dee8b88a87a85bdadb066bb4afb2c19c62a25c76",
+            "download": {
+                "default": "https://huggingface.co/mlabonne/Beyonder-4x7B-v3-GGUF/resolve/main/beyonder-4x7b-v3.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "beyonder-4x7b-v3.Q5_K_M.gguf",
+            "size": "17133430816",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "efd38cc2385eff44b1597a198bda6396e9352e536d097ef34c53036a409501cc",
+            "download": {
+                "default": "https://huggingface.co/mlabonne/Beyonder-4x7B-v3-GGUF/resolve/main/beyonder-4x7b-v3.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "beyonder-4x7b-v3.Q6_K.gguf",
+            "size": "19815794720",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b6512a9ecb56f386beed2aeb7157bba9407721b0546f7b36b0b13bf618dd0e93",
+            "download": {
+                "default": "https://huggingface.co/mlabonne/Beyonder-4x7B-v3-GGUF/resolve/main/beyonder-4x7b-v3.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "beyonder-4x7b-v3.Q8_0.gguf",
+            "size": "25665325088",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "19b4708cfec1b6e64d3b1a7c243f3f8de56ed0c52db66041b4ccd65c583e8207",
+            "download": {
+                "default": "https://huggingface.co/mlabonne/Beyonder-4x7B-v3-GGUF/resolve/main/beyonder-4x7b-v3.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

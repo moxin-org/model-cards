@@ -1,0 +1,43 @@
+{
+    "id": "support-pvelocity/Code-Llama-2-13B-instruct-text2sql-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "support-pvelocity",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-07T20:44:09Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Code-Llama-2-13B-instruct-text2sql.q4_k_m.gguf",
+            "size": "7866070048",
+            "quantization": "",
+            "tags": [],
+            "sha256": "46e234afca6c9eb89820ed87093155f95e708e2b326d5512a06db07c86d76f58",
+            "download": {
+                "default": "https://huggingface.co/support-pvelocity/Code-Llama-2-13B-instruct-text2sql-GGUF/resolve/main/Code-Llama-2-13B-instruct-text2sql.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "ggml-vocab-llama.gguf",
+            "size": "",
+            "quantization": "",
+            "tags": [],
+            "sha256": "",
+            "download": {
+                "default": "https://huggingface.co/support-pvelocity/Code-Llama-2-13B-instruct-text2sql-GGUF/resolve/main/ggml-vocab-llama.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

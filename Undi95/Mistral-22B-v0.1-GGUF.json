@@ -1,0 +1,93 @@
+{
+    "id": "Undi95/Mistral-22B-v0.1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Undi95",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-11T14:47:02Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Mistral-22B-v0.1.q3_k_m.gguf",
+            "size": "10750904672",
+            "quantization": "",
+            "tags": [],
+            "sha256": "01ab6359f18de023a2e37796d40e73c91d55a173cd0bbaabdd2861799adece00",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-22B-v0.1-GGUF/resolve/main/Mistral-22B-v0.1.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "Mistral-22B-v0.1.q4_k_m.gguf",
+            "size": "13334690144",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f4ba826c66cc0356b83267fad3731dbd558e2c07245704462ea863365df91c90",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-22B-v0.1-GGUF/resolve/main/Mistral-22B-v0.1.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "Mistral-22B-v0.1.q4_k_s.gguf",
+            "size": "12653836640",
+            "quantization": "",
+            "tags": [],
+            "sha256": "280e0dd4eb9369f30334e6bedf000b780d22d7d6a8c907048d2caed8a72ba0d2",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-22B-v0.1-GGUF/resolve/main/Mistral-22B-v0.1.q4_k_s.gguf"
+            }
+        },
+        {
+            "name": "Mistral-22B-v0.1.q5_k_m.gguf",
+            "size": "15715416416",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6d5c3796af34bc28ca7a3e4e8756119d33d49226c5dbb80d56304dd31af77b7d",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-22B-v0.1-GGUF/resolve/main/Mistral-22B-v0.1.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "Mistral-22B-v0.1.q5_k_s.gguf",
+            "size": "15317678432",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a342856471c4eccb9eb5635d80aec12fa70db91dbce41afe08a8de9129922d3c",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-22B-v0.1-GGUF/resolve/main/Mistral-22B-v0.1.q5_k_s.gguf"
+            }
+        },
+        {
+            "name": "Mistral-22B-v0.1.q6_k.gguf",
+            "size": "18244938080",
+            "quantization": "",
+            "tags": [],
+            "sha256": "8285c911a8f4f34f2815c660bf6c2b25a022d8f65dc02625b15c5a567dc42ba9",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-22B-v0.1-GGUF/resolve/main/Mistral-22B-v0.1.q6_k.gguf"
+            }
+        },
+        {
+            "name": "Mistral-22B-v0.1.q8_0.gguf",
+            "size": "23630498144",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e02023e6eb3cc16961c08b326a0bbe5451f9b0c1fd49c73f0d98bcef10c9fb64",
+            "download": {
+                "default": "https://huggingface.co/Undi95/Mistral-22B-v0.1-GGUF/resolve/main/Mistral-22B-v0.1.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

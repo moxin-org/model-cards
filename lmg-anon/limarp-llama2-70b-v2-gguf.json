@@ -1,0 +1,43 @@
+{
+    "id": "lmg-anon/limarp-llama2-70b-v2-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "lmg-anon",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-28T21:27:56Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "limarp-llama2-70b-v2-Q3_K_M.gguf",
+            "size": "33186657184",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "6cb436bbe5b9881638f201cc0c32d94b5a58736c847e3366718434e8faa17e2e",
+            "download": {
+                "default": "https://huggingface.co/lmg-anon/limarp-llama2-70b-v2-gguf/resolve/main/limarp-llama2-70b-v2-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "limarp-llama2-70b-v2-Q5_K_M.gguf",
+            "size": "48753767328",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "c2c14342a853a0afd633f2dba8beb292d4b929078fa8202c274272b34830b1b4",
+            "download": {
+                "default": "https://huggingface.co/lmg-anon/limarp-llama2-70b-v2-gguf/resolve/main/limarp-llama2-70b-v2-Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

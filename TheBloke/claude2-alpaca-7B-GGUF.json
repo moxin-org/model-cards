@@ -1,0 +1,143 @@
+{
+    "id": "TheBloke/claude2-alpaca-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-10T10:42:03Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "claude2-alpaca-7b.Q2_K.gguf",
+            "size": "2825945408",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "512d945fcd869e3fcaf2cf7f986ddbfc669ff190c0eb97e3986a1d9b8d72f7d9",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/claude2-alpaca-7B-GGUF/resolve/main/claude2-alpaca-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "claude2-alpaca-7b.Q3_K_L.gguf",
+            "size": "3597116128",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "5bb6dee8479bc36b962e27b5263a04cb0dde2e1d90e7b8a0b0d7ad2ed049e221",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/claude2-alpaca-7B-GGUF/resolve/main/claude2-alpaca-7b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "claude2-alpaca-7b.Q3_K_M.gguf",
+            "size": "3298009824",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "9b1ed0db6756244bd0287ca4fe2f74b45f5d5564d2e7b40ccfc5eeeb85395d98",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/claude2-alpaca-7B-GGUF/resolve/main/claude2-alpaca-7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "claude2-alpaca-7b.Q3_K_S.gguf",
+            "size": "2948309728",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "516ff0a794b27c40b83348c0ee7a07753cb537c4c842fd4ca153c96329b0ae36",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/claude2-alpaca-7B-GGUF/resolve/main/claude2-alpaca-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "claude2-alpaca-7b.Q4_0.gguf",
+            "size": "3825812736",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "573c2020cbd44981ece28cf2d12128a058346cc4ec9747a7250b0950f0fa7750",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/claude2-alpaca-7B-GGUF/resolve/main/claude2-alpaca-7b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "claude2-alpaca-7b.Q4_K_M.gguf",
+            "size": "4081009920",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "6c3152b4c37fc5930599d187be74461584cfe0a94420d3bb8db88283325ebdc3",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/claude2-alpaca-7B-GGUF/resolve/main/claude2-alpaca-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "claude2-alpaca-7b.Q4_K_S.gguf",
+            "size": "3856745728",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "a1e4519b2b2468036ba743d1b27234940febb2a56d7a8b9c0893c44168406bfc",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/claude2-alpaca-7B-GGUF/resolve/main/claude2-alpaca-7b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "claude2-alpaca-7b.Q5_0.gguf",
+            "size": "4651697920",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "4be4e5c88d484b1ac6d93cd60b45b1a6da808fbeca5dac497b7270f5d599ae97",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/claude2-alpaca-7B-GGUF/resolve/main/claude2-alpaca-7b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "claude2-alpaca-7b.Q5_K_M.gguf",
+            "size": "4783163136",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5ab8896b73a30f70f9a9fe9f4525d3848a3d0cd5c6cb4cb7ac9c82736fae85ee",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/claude2-alpaca-7B-GGUF/resolve/main/claude2-alpaca-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "claude2-alpaca-7b.Q5_K_S.gguf",
+            "size": "4651697920",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "b316741dda3f9618801c42d0a687437720d871a5f530e783496e9afc7d57a436",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/claude2-alpaca-7B-GGUF/resolve/main/claude2-alpaca-7b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "claude2-alpaca-7b.Q6_K.gguf",
+            "size": "5529200928",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "0e691219f605446f535c0b0b06378f262fd34980d0d06db4ac68f7b0fa41e88b",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/claude2-alpaca-7B-GGUF/resolve/main/claude2-alpaca-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "claude2-alpaca-7b.Q8_0.gguf",
+            "size": "7161098464",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "5053a76676e3dfb8b3c19d6c990ed5499fcd5a7261f0f293c33b0e94e3a0e6e4",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/claude2-alpaca-7B-GGUF/resolve/main/claude2-alpaca-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

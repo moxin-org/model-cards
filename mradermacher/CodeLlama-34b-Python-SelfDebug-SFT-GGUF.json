@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/CodeLlama-34b-Python-SelfDebug-SFT-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-03T11:31:04Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "CodeLlama-34b-Python-SelfDebug-SFT.IQ3_M.gguf",
+            "size": "15539613888",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "437b7fe65f19df34467db4022f24bc10f1f9c3b51c4fbc8900c9d8ccc9f412bd",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CodeLlama-34b-Python-SelfDebug-SFT-GGUF/resolve/main/CodeLlama-34b-Python-SelfDebug-SFT.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-34b-Python-SelfDebug-SFT.IQ3_S.gguf",
+            "size": "14968074432",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "96b24998eda2e2f857ef7b3ccf583cc49f2285c512323ae988986cc9c17ae8d0",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CodeLlama-34b-Python-SelfDebug-SFT-GGUF/resolve/main/CodeLlama-34b-Python-SelfDebug-SFT.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-34b-Python-SelfDebug-SFT.IQ3_XS.gguf",
+            "size": "14189506752",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "184b1f677f8981130e809fc9ed98cf30a8ca6fefe51d59dacdcd19edd135a339",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CodeLlama-34b-Python-SelfDebug-SFT-GGUF/resolve/main/CodeLlama-34b-Python-SelfDebug-SFT.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-34b-Python-SelfDebug-SFT.IQ4_XS.gguf",
+            "size": "18547011776",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "bc41531e17f314497c7ece1f10ead4f2edc24d2f244451795262871ac49a6dd1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CodeLlama-34b-Python-SelfDebug-SFT-GGUF/resolve/main/CodeLlama-34b-Python-SelfDebug-SFT.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-34b-Python-SelfDebug-SFT.Q2_K.gguf",
+            "size": "12814938304",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "645b078df7fba0edd28dc6011af7f27465be085d0ee2f2e8027c875ce2684f8c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CodeLlama-34b-Python-SelfDebug-SFT-GGUF/resolve/main/CodeLlama-34b-Python-SelfDebug-SFT.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-34b-Python-SelfDebug-SFT.Q3_K_L.gguf",
+            "size": "18080772288",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "59f0b8ceb6c7a66be21895f1d7b061eda2e7a0b4b863bc77c18491207018b91a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CodeLlama-34b-Python-SelfDebug-SFT-GGUF/resolve/main/CodeLlama-34b-Python-SelfDebug-SFT.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-34b-Python-SelfDebug-SFT.Q3_K_M.gguf",
+            "size": "16615387328",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "1fee47f310e5c6c8eac8faf0cf66b8278a5dc9b567a3df9601d2d60258e86b18",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CodeLlama-34b-Python-SelfDebug-SFT-GGUF/resolve/main/CodeLlama-34b-Python-SelfDebug-SFT.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-34b-Python-SelfDebug-SFT.Q3_K_S.gguf",
+            "size": "14914597056",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "b899625973c4c1efa220f931222a8fbde0785d4291858e335a683334f75aaa2e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CodeLlama-34b-Python-SelfDebug-SFT-GGUF/resolve/main/CodeLlama-34b-Python-SelfDebug-SFT.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-34b-Python-SelfDebug-SFT.Q4_K_M.gguf",
+            "size": "20529148096",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "72dae8f894df8e0144d9af13f1c96081e8194ead2261779cf5e95b78d4150d85",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CodeLlama-34b-Python-SelfDebug-SFT-GGUF/resolve/main/CodeLlama-34b-Python-SelfDebug-SFT.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-34b-Python-SelfDebug-SFT.Q4_K_S.gguf",
+            "size": "19500757184",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "3f8b5f804d0e5dedf12a00bec5ae9a791ccf5d77734a1818b6924b24bc0b64e7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CodeLlama-34b-Python-SelfDebug-SFT-GGUF/resolve/main/CodeLlama-34b-Python-SelfDebug-SFT.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-34b-Python-SelfDebug-SFT.Q5_K_M.gguf",
+            "size": "24148046016",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "a1f6ce1a51fb4f31b20509b5dff90564b4fe45dae2977270875b51527409d0aa",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CodeLlama-34b-Python-SelfDebug-SFT-GGUF/resolve/main/CodeLlama-34b-Python-SelfDebug-SFT.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-34b-Python-SelfDebug-SFT.Q5_K_S.gguf",
+            "size": "23546425536",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "9f4920f232fad42f2fbec0b7ca30e8044dacbef9801b1b519ccea82612626595",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CodeLlama-34b-Python-SelfDebug-SFT-GGUF/resolve/main/CodeLlama-34b-Python-SelfDebug-SFT.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-34b-Python-SelfDebug-SFT.Q6_K.gguf",
+            "size": "27993125056",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "a415d120b0bf7fb4e003823e4283a7d3114791178ad7117238ad4fefd8c9d779",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CodeLlama-34b-Python-SelfDebug-SFT-GGUF/resolve/main/CodeLlama-34b-Python-SelfDebug-SFT.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "CodeLlama-34b-Python-SelfDebug-SFT.Q8_0.gguf",
+            "size": "36101812416",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "eb4e11e6e67f20d60ba5ac5c18f9cddf2a5ca08699b25ddfa59c7b1575208477",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/CodeLlama-34b-Python-SelfDebug-SFT-GGUF/resolve/main/CodeLlama-34b-Python-SelfDebug-SFT.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

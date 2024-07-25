@@ -1,0 +1,43 @@
+{
+    "id": "operator-technology/op-phi-1.5-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "operator-technology",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-02T13:01:00Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "op-phi-1.5-f16.gguf",
+            "size": "2830407328",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6775115d4fd172dcc9a35920327495256f76d60b4ec19e71b21e24c69f365ddc",
+            "download": {
+                "default": "https://huggingface.co/operator-technology/op-phi-1.5-gguf/resolve/main/op-phi-1.5-f16.gguf"
+            }
+        },
+        {
+            "name": "op-phi-1.5-q4k.gguf",
+            "size": "797775520",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5a49fbd19fd56a54e32a5f116891ecd94ce560d3c577225187a03409823a6a44",
+            "download": {
+                "default": "https://huggingface.co/operator-technology/op-phi-1.5-gguf/resolve/main/op-phi-1.5-q4k.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

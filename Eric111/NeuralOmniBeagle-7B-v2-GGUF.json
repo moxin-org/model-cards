@@ -1,0 +1,63 @@
+{
+    "id": "Eric111/NeuralOmniBeagle-7B-v2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Eric111",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-03T21:32:50Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "neuralomnibeagle-7b-v2.Q2_K.gguf",
+            "size": "2719241920",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "61bc649c97af46a03321c6487098ecf3cff1904957317d76cdc8477c1ce065d1",
+            "download": {
+                "default": "https://huggingface.co/Eric111/NeuralOmniBeagle-7B-v2-GGUF/resolve/main/neuralomnibeagle-7b-v2.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "neuralomnibeagle-7b-v2.Q3_K_M.gguf",
+            "size": "3518985920",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "247a49e164dba54a37bd73cce410527dfc5ab8dee2223ef32ade7f2ea3897244",
+            "download": {
+                "default": "https://huggingface.co/Eric111/NeuralOmniBeagle-7B-v2-GGUF/resolve/main/neuralomnibeagle-7b-v2.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "neuralomnibeagle-7b-v2.Q4_K_M.gguf",
+            "size": "4368438976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "e23ffc1d26551e754d5379e8efcd884907488bbd24d692e6a450326c4842e7f4",
+            "download": {
+                "default": "https://huggingface.co/Eric111/NeuralOmniBeagle-7B-v2-GGUF/resolve/main/neuralomnibeagle-7b-v2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "neuralomnibeagle-7b-v2.Q8_0.gguf",
+            "size": "7695857344",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "ae2bec9c6d8236f04d3fce8a964d92563b13a794c4351014f8a8fb4407f9968e",
+            "download": {
+                "default": "https://huggingface.co/Eric111/NeuralOmniBeagle-7B-v2-GGUF/resolve/main/neuralomnibeagle-7b-v2.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

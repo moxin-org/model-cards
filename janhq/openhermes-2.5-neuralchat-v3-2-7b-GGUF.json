@@ -1,0 +1,63 @@
+{
+    "id": "janhq/openhermes-2.5-neuralchat-v3-2-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "janhq",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-08T12:18:41Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "openhermes-2.5-neural-chat-7b-v3-2-7b.Q3_K_M.gguf",
+            "size": "3518985920",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "62fa50018f1893048ec18545c322b904117fc5ffa21c643a191fb3f190428303",
+            "download": {
+                "default": "https://huggingface.co/janhq/openhermes-2.5-neuralchat-v3-2-7b-GGUF/resolve/main/openhermes-2.5-neural-chat-7b-v3-2-7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "openhermes-2.5-neural-chat-7b-v3-2-7b.Q4_K_M.gguf",
+            "size": "4368438976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "6a85dd2fb5b7e39095fcb637d84500954a73100052aa75c921155c802ab18bb4",
+            "download": {
+                "default": "https://huggingface.co/janhq/openhermes-2.5-neuralchat-v3-2-7b-GGUF/resolve/main/openhermes-2.5-neural-chat-7b-v3-2-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "openhermes-2.5-neural-chat-7b-v3-2-7b.Q5_K_M.gguf",
+            "size": "5131409088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f60c259a06d21c112221c38520da6fb60f2725048406f7415ff29ee5b48d088f",
+            "download": {
+                "default": "https://huggingface.co/janhq/openhermes-2.5-neuralchat-v3-2-7b-GGUF/resolve/main/openhermes-2.5-neural-chat-7b-v3-2-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "openhermes-2.5-neural-chat-7b-v3-2-7b.Q8_0.gguf",
+            "size": "7695857344",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "fb821a61ed9c01d809e373c0427e078ca26cf92b601bfbc1bde38f8dc67f4856",
+            "download": {
+                "default": "https://huggingface.co/janhq/openhermes-2.5-neuralchat-v3-2-7b-GGUF/resolve/main/openhermes-2.5-neural-chat-7b-v3-2-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

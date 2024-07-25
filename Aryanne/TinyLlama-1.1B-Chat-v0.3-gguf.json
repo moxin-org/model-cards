@@ -1,0 +1,83 @@
+{
+    "id": "Aryanne/TinyLlama-1.1B-Chat-v0.3-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Aryanne",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-10-02T13:23:16Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "f16-tinyllama-1.1b-chat-v0.3.gguf",
+            "size": "2201041408",
+            "quantization": "",
+            "tags": [],
+            "sha256": "91ba69c3edca6723663fb263cb393d28156ca1458edff5ea6899594160acb6a7",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/TinyLlama-1.1B-Chat-v0.3-gguf/resolve/main/f16-tinyllama-1.1b-chat-v0.3.gguf"
+            }
+        },
+        {
+            "name": "q2_k-tinyllama-1.1b-chat-v0.3.gguf",
+            "size": "482149824",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b0a87b19a043e2ea30ca405dcb6a0dbae073b580f1f2df070ccf977be19f0500",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/TinyLlama-1.1B-Chat-v0.3-gguf/resolve/main/q2_k-tinyllama-1.1b-chat-v0.3.gguf"
+            }
+        },
+        {
+            "name": "q4_0-tinyllama-1.1b-chat-v0.3.gguf",
+            "size": "636734304",
+            "quantization": "",
+            "tags": [],
+            "sha256": "aac4e2734eed73d682da6d17e2256e837377860766d852de7c64de669c6e2791",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/TinyLlama-1.1B-Chat-v0.3-gguf/resolve/main/q4_0-tinyllama-1.1b-chat-v0.3.gguf"
+            }
+        },
+        {
+            "name": "q5_0-tinyllama-1.1b-chat-v0.3.gguf",
+            "size": "766037600",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0bc584f4124fc2d83c8d3b8b26920fe58257896f6272c5ba65b2936f7dc4b021",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/TinyLlama-1.1B-Chat-v0.3-gguf/resolve/main/q5_0-tinyllama-1.1b-chat-v0.3.gguf"
+            }
+        },
+        {
+            "name": "q6_k-tinyllama-1.1b-chat-v0.3.gguf",
+            "size": "903422368",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b3609d47caf5f86ee8a238f956227bd2bb422d3b808794515d3b444e5a5e9d5d",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/TinyLlama-1.1B-Chat-v0.3-gguf/resolve/main/q6_k-tinyllama-1.1b-chat-v0.3.gguf"
+            }
+        },
+        {
+            "name": "q8_0-tinyllama-1.1b-chat-v0.3.gguf",
+            "size": "1169820960",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d9fe11d78c25a4a2761216516053afdd1c50edc42e0a2c73d92e009e12ae1371",
+            "download": {
+                "default": "https://huggingface.co/Aryanne/TinyLlama-1.1B-Chat-v0.3-gguf/resolve/main/q8_0-tinyllama-1.1b-chat-v0.3.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

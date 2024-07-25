@@ -1,0 +1,43 @@
+{
+    "id": "CorticalStack/pastiche-crown-clown-7b-dare-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "CorticalStack",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-20T19:49:43Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "pastiche-crown-clown-7b-dare-gguf.Q4_K_M.gguf",
+            "size": "4368439264",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "487c6d66a2eb1dcbb1525bce1a01b7308a3e96ec3fd9da89474dfb6031f09fa3",
+            "download": {
+                "default": "https://huggingface.co/CorticalStack/pastiche-crown-clown-7b-dare-gguf/resolve/main/pastiche-crown-clown-7b-dare-gguf.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "pastiche-crown-clown-7b-dare.Q4_K_M.gguf",
+            "size": "4368439040",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "94e47abd5426b9238e21504599555207e790bf0d2f0b6cc17a0ec8351790e962",
+            "download": {
+                "default": "https://huggingface.co/CorticalStack/pastiche-crown-clown-7b-dare-gguf/resolve/main/pastiche-crown-clown-7b-dare.Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

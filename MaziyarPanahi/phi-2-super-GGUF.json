@@ -1,0 +1,133 @@
+{
+    "id": "MaziyarPanahi/phi-2-super-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "MaziyarPanahi",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-07T21:09:42Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "phi-2-super.IQ4_XS.gguf",
+            "size": "1552497760",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "8c60d44a024f22fe2e3558a8d75f55a853eb396dd7b586b47eab32ca678362a2",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/phi-2-super-GGUF/resolve/main/phi-2-super.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "phi-2-super.Q2_K.gguf",
+            "size": "1109720160",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "3ea04f2f720165733bc68e5916165535e33e0742b20b9800ebe09db4b895d7b5",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/phi-2-super-GGUF/resolve/main/phi-2-super.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "phi-2-super.Q3_K_L.gguf",
+            "size": "1575230560",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "fb1d9c26f02ae6a7c68f9f4aa0a4b7e142d96b67d1099ca3eb00e5606c0d5016",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/phi-2-super-GGUF/resolve/main/phi-2-super.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "phi-2-super.Q3_K_M.gguf",
+            "size": "1432689760",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "81d7e0ae03d9c7b3fb1c49165ab4e00d53f18ab55b0af97b04f0f27327a40326",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/phi-2-super-GGUF/resolve/main/phi-2-super.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "phi-2-super.Q3_K_S.gguf",
+            "size": "1250827360",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "fa655b9505a7a611a70ef77689ada5c94f97a56db3a6764fca98728c9141851d",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/phi-2-super-GGUF/resolve/main/phi-2-super.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "phi-2-super.Q4_K_M.gguf",
+            "size": "1737636960",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5a691ba06743e39b90f599e3879726534505ae6112cb77790d0d74597f8f0aa9",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/phi-2-super-GGUF/resolve/main/phi-2-super.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "phi-2-super.Q4_K_S.gguf",
+            "size": "1631960160",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "1a1a02dd9daeadff34ddb77ad0b89857cdf23b54edb80cbc7e5597023a02de3a",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/phi-2-super-GGUF/resolve/main/phi-2-super.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "phi-2-super.Q5_K_M.gguf",
+            "size": "2003057760",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ac6cc5d70a64868cf0bd2b720d0c20489da5bf2115905a9956d544e9f2e62a19",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/phi-2-super-GGUF/resolve/main/phi-2-super.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "phi-2-super.Q5_K_S.gguf",
+            "size": "1933425760",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "f524f0fcba30a8c4b3c12887ca7d7303043ddbdec4e43d0fb6cc0b24a985aa2c",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/phi-2-super-GGUF/resolve/main/phi-2-super.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "phi-2-super.Q6_K.gguf",
+            "size": "2285067360",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "1ad453685505306cecb151fc673c67727733952f44de3451138ed799934cf834",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/phi-2-super-GGUF/resolve/main/phi-2-super.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "phi-2-super.Q8_0.gguf",
+            "size": "2958040160",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "8afb1ec7140a9b38684cc0c4509cffe275977489405f36c74a656f607d09b030",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/phi-2-super-GGUF/resolve/main/phi-2-super.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

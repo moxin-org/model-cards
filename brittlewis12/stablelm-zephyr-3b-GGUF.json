@@ -1,0 +1,133 @@
+{
+    "id": "brittlewis12/stablelm-zephyr-3b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "brittlewis12",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-25T03:48:48Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "stablelm-zephyr-3b.fp16.gguf",
+            "size": "5593341824",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3a5a4fa0f96898a9172fbe701b26fc4b093378706560c24bcb834846b8bfbb47",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stablelm-zephyr-3b-GGUF/resolve/main/stablelm-zephyr-3b.fp16.gguf"
+            }
+        },
+        {
+            "name": "stablelm-zephyr-3b.Q2_K.gguf",
+            "size": "1083755968",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "f9146e08ea1ab8861eeb1d34e1c96af452da1c473f329d6af253afa033d9bc9d",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stablelm-zephyr-3b-GGUF/resolve/main/stablelm-zephyr-3b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "stablelm-zephyr-3b.Q3_K_L.gguf",
+            "size": "1508564928",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "423e1fbad2a643a71859fd258afe2a94796e1837e2a0aab84d28d7077f2f2a42",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stablelm-zephyr-3b-GGUF/resolve/main/stablelm-zephyr-3b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "stablelm-zephyr-3b.Q3_K_M.gguf",
+            "size": "1391419328",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "79af463bbb616ab4ab645a41357016eeaafde55eef34a42d8a4a7c3b63b8d03f",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stablelm-zephyr-3b-GGUF/resolve/main/stablelm-zephyr-3b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "stablelm-zephyr-3b.Q3_K_S.gguf",
+            "size": "1254449088",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "8e978844efc8f893fa8fc1f201faacbfcecf5c2da9b7be458e43ac6caa3316b1",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stablelm-zephyr-3b-GGUF/resolve/main/stablelm-zephyr-3b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "stablelm-zephyr-3b.Q4_K_M.gguf",
+            "size": "1708595648",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "7314f8689e3c4dccd3f72e922c8b647989740362c227e271cd45cb2827d72317",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stablelm-zephyr-3b-GGUF/resolve/main/stablelm-zephyr-3b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "stablelm-zephyr-3b.Q4_K_S.gguf",
+            "size": "1620695488",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "3725cca430d7d8aca27a11b1ec2450ffed408ff8648b698c5089ee3eee0c43e4",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stablelm-zephyr-3b-GGUF/resolve/main/stablelm-zephyr-3b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "stablelm-zephyr-3b.Q5_K_M.gguf",
+            "size": "1993390528",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ff09c6282369ff1f9f433ee4edf12bc08c5a7ed57f783e4683b8953aa3136aad",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stablelm-zephyr-3b-GGUF/resolve/main/stablelm-zephyr-3b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "stablelm-zephyr-3b.Q5_K_S.gguf",
+            "size": "1941862848",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "44c9a7cd1d7493599cbe11409c4784a6fc89de383cbfaa0284df048a89267025",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stablelm-zephyr-3b-GGUF/resolve/main/stablelm-zephyr-3b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "stablelm-zephyr-3b.Q6_K.gguf",
+            "size": "2295985088",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "1e40ba65d7049df028a2c247fe3d03a04157b9eb5912ec51c059bb1f28520d9f",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stablelm-zephyr-3b-GGUF/resolve/main/stablelm-zephyr-3b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "stablelm-zephyr-3b.Q8_0.gguf",
+            "size": "2972925888",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "80ba5542cedcd6058d23cc15b7e749b13c397cf26112577320d3de9797790d54",
+            "download": {
+                "default": "https://huggingface.co/brittlewis12/stablelm-zephyr-3b-GGUF/resolve/main/stablelm-zephyr-3b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

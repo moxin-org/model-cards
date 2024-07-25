@@ -1,0 +1,43 @@
+{
+    "id": "InferenceIllusionist/M7-Evil-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "InferenceIllusionist",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-16T10:46:42Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "m7-evil-7b-Q6_K.gguf",
+            "size": "5942064896",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "ccaf4eba37a789c8dad1d3348de99ab7920b980226b1d8a2250d7d327e259515",
+            "download": {
+                "default": "https://huggingface.co/InferenceIllusionist/M7-Evil-7b-GGUF/resolve/main/m7-evil-7b-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "m7-evil-7b-Q8.gguf",
+            "size": "7695857344",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e6ad69c1737be1c6c212ba74be0ee224b8f72e37fb274a878aa9db9b7f5b57e1",
+            "download": {
+                "default": "https://huggingface.co/InferenceIllusionist/M7-Evil-7b-GGUF/resolve/main/m7-evil-7b-Q8.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

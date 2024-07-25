@@ -1,0 +1,123 @@
+{
+    "id": "mradermacher/goliath-120b-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-17T12:03:14Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "goliath-120b.i1-IQ1_M.gguf",
+            "size": "27453435104",
+            "quantization": "Q1_M",
+            "tags": [],
+            "sha256": "20f7e427588d344b1dea932785700a134e3e00e9350a2a44104d381b5cd37c15",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/goliath-120b-i1-GGUF/resolve/main/goliath-120b.i1-IQ1_M.gguf"
+            }
+        },
+        {
+            "name": "goliath-120b.i1-IQ1_S.gguf",
+            "size": "25042037984",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "1cf9520d0837b13b4923f460e64fc16e489e709bc307d3aefb5b96069e1c0d2f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/goliath-120b-i1-GGUF/resolve/main/goliath-120b.i1-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "goliath-120b.i1-IQ2_M.gguf",
+            "size": "39915187424",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "3300239fdc3d296fb49e0989db5a0f68659c667e45e7be6bd6824bff106c992f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/goliath-120b-i1-GGUF/resolve/main/goliath-120b.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "goliath-120b.i1-IQ2_S.gguf",
+            "size": "36699991264",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "806d9b0e5dcf5e3429e28de88b57516cc09c26d0dc8f3e2d479ebb99aeaf8ca6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/goliath-120b-i1-GGUF/resolve/main/goliath-120b.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "goliath-120b.i1-IQ2_XS.gguf",
+            "size": "34974936288",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "d669dfca7ca94208a01ff6ccf32d4591c834b4d011a9d28cec6609f1695754ec",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/goliath-120b-i1-GGUF/resolve/main/goliath-120b.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "goliath-120b.i1-IQ2_XXS.gguf",
+            "size": "31472430304",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "33ddfe41774919adcc8c3a9bdb49da70c80299681c99a347a0a64807a6b6d179",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/goliath-120b-i1-GGUF/resolve/main/goliath-120b.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "goliath-120b.i1-IQ3_XS.gguf",
+            "size": "48284855520",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "c8f6fa2e0c19872bb678032c714839525de7d06eb777ed8ae1516b5783c0ed15",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/goliath-120b-i1-GGUF/resolve/main/goliath-120b.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "goliath-120b.i1-IQ3_XXS.gguf",
+            "size": "46193224928",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "b681bc8ef0c26b07562dcea6e55d5e6934771c2f1fa1136be1ca85e596876fa7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/goliath-120b-i1-GGUF/resolve/main/goliath-120b.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "goliath-120b.i1-Q2_K.gguf",
+            "size": "43554974944",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "65c9666ff660904a8428620b797a5ed1dad1a842c8873eb07a6dde543619190f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/goliath-120b-i1-GGUF/resolve/main/goliath-120b.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "goliath-120b.i1-Q3_K_XS.gguf",
+            "size": "48185044192",
+            "quantization": "Q3_K_XS",
+            "tags": [],
+            "sha256": "985bd42f07e8a3d345912ffe84d5216d872a30340e13c2416da1e8f5648f3e4d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/goliath-120b-i1-GGUF/resolve/main/goliath-120b.i1-Q3_K_XS.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

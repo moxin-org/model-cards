@@ -1,0 +1,33 @@
+{
+    "id": "gaianet/Vitalik-ETH-Llama2-7B-Chat-GGUF",
+    "status": "published",
+    "model_type": "chat",
+    "name": "Vitalik-ETH-Llama2-7B-Chat-GGUF",
+    "summary": "Llama 2 is a collection of pretrained and fine-tuned generative text models ranging in scale from 7 billion to 70 billion parameters. This is the repository for the 7B fine-tuned model, optimized for dialogue use cases and converted for the Hugging Face Transformers format. Links to other models can be found in the index at the bottom.",
+    "author": {
+        "name": "gaianet",
+        "url": "",
+        "description": ""
+    },
+    "size": "7B",
+    "requires": "8GB+ RAM",
+    "released_at": "2024-03-20T01:29:21Z",
+    "architecture": "llama",
+    "files": [
+        {
+            "name": "Vitalik-ETH-Llama2-7B-Chat-Q5_K_M.gguf",
+            "size": "4783157856",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "913eef9af0a765346025319002427e9f51914694f34ff3b05e79781f1241c330",
+            "download": {
+                "default": "https://huggingface.co/gaianet/Vitalik-ETH-Llama2-7B-Chat-GGUF/resolve/main/Vitalik-ETH-Llama2-7B-Chat-Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "llama-2-chat",
+    "reverse_prompt": "",
+    "context_size": 4096,
+    "vector_size": 0,
+    "metrics": {}
+}

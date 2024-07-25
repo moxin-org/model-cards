@@ -1,0 +1,143 @@
+{
+    "id": "RichardErkhov/MobiLlama-1B-Chat-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "RichardErkhov",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-25T19:23:48Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "MobiLlama-1B-Chat.Q2_K.gguf",
+            "size": "504039936",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "b7e3fd54a48debefab7cb44c01b32d3cb49ddaba66e5b5e352faf600528056a6",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/MobiLlama-1B-Chat-gguf/resolve/main/MobiLlama-1B-Chat.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "MobiLlama-1B-Chat.Q3_K_L.gguf",
+            "size": "681728512",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "4822ad2e96fdcd4a9e6861101385dbcb019c6574d2dbfe21bcd7a25d40ae81db",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/MobiLlama-1B-Chat-gguf/resolve/main/MobiLlama-1B-Chat.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "MobiLlama-1B-Chat.Q3_K_M.gguf",
+            "size": "629430784",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "87f804c0fd4d273c276cede745ffde34434dc61f90a47af504f3ca02ba97846c",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/MobiLlama-1B-Chat-gguf/resolve/main/MobiLlama-1B-Chat.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "MobiLlama-1B-Chat.Q3_K_S.gguf",
+            "size": "568728064",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "5ba37a01607e2c19e574713f3872d4606a4a181aebb59c3bf457f68818e19d12",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/MobiLlama-1B-Chat-gguf/resolve/main/MobiLlama-1B-Chat.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "MobiLlama-1B-Chat.Q4_0.gguf",
+            "size": "727558656",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "bdaaf34b4cb138792ce672d9b21c70275568b482efbd38c3a28d5c5e6f83aeb2",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/MobiLlama-1B-Chat-gguf/resolve/main/MobiLlama-1B-Chat.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "MobiLlama-1B-Chat.Q4_K_M.gguf",
+            "size": "768109056",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "dd463e0214526a4157840e9367be71d284c7a82f16c38db1dc90e0b5288949b3",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/MobiLlama-1B-Chat-gguf/resolve/main/MobiLlama-1B-Chat.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "MobiLlama-1B-Chat.Q4_K_S.gguf",
+            "size": "732539392",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "a4fe0849fe3239ebd3de0c768cee281c9c6227018c9346bf36feea208f9d2af7",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/MobiLlama-1B-Chat-gguf/resolve/main/MobiLlama-1B-Chat.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "MobiLlama-1B-Chat.Q5_0.gguf",
+            "size": "877046272",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "a388d50919e4a1a5f0b6d7f19fc7c61ce5f44139d5d0593ad768eefab633fceb",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/MobiLlama-1B-Chat-gguf/resolve/main/MobiLlama-1B-Chat.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "MobiLlama-1B-Chat.Q5_K_M.gguf",
+            "size": "897935872",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "d9b3b8c21b44bc5d6c5fad7ad8d98db3ac1ec80e4afdb3c55211f3d07af357b2",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/MobiLlama-1B-Chat-gguf/resolve/main/MobiLlama-1B-Chat.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "MobiLlama-1B-Chat.Q5_K_S.gguf",
+            "size": "877046272",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "e8e54a6962fd57e31dd3c95edf6e4921d1bd604ec066f7c279dbef90e2fcbb95",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/MobiLlama-1B-Chat-gguf/resolve/main/MobiLlama-1B-Chat.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "MobiLlama-1B-Chat.Q6_K.gguf",
+            "size": "1035876864",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "2289b5f83de36452e9f25c72200d5092d71f6b89f42a95cc6bd55ca20bb42133",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/MobiLlama-1B-Chat-gguf/resolve/main/MobiLlama-1B-Chat.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "MobiLlama-1B-Chat.Q8_0.gguf",
+            "size": "1341381120",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "75b856a4865f5386bf6085ddb177068f67d7b0bcbcd6c66033d980701046eba4",
+            "download": {
+                "default": "https://huggingface.co/RichardErkhov/MobiLlama-1B-Chat-gguf/resolve/main/MobiLlama-1B-Chat.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,143 @@
+{
+    "id": "MaziyarPanahi/Yi-9B-200K-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "MaziyarPanahi",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-18T12:37:08Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Yi-9B-200K.fp16.gguf",
+            "size": "17661112032",
+            "quantization": "",
+            "tags": [],
+            "sha256": "ca048ac9fa4648ebe723c8d5c94c5d2757e26aed6fc7fed2a10031429dde63fa",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/Yi-9B-200K-GGUF/resolve/main/Yi-9B-200K.fp16.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-200K.IQ4_XS.gguf",
+            "size": "4827279136",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "553226152c92126741a850f7980c915e09c0762519682b7167e8dc741e6b47bf",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/Yi-9B-200K-GGUF/resolve/main/Yi-9B-200K.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-200K.Q2_K.gguf",
+            "size": "3354324768",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "e8e81a36ed7cd54ef520a04c84e82732a510518fcf0987b1391d9a11bf5c4e08",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/Yi-9B-200K-GGUF/resolve/main/Yi-9B-200K.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-200K.Q3_K_L.gguf",
+            "size": "4690751264",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "9bdeab26c96b3ece4ea62374c25f42523ec54c376ae1200b62df8baddb3c3d90",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/Yi-9B-200K-GGUF/resolve/main/Yi-9B-200K.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-200K.Q3_K_M.gguf",
+            "size": "4324405024",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "e4065c7bf4c2fa252ce4a31c24b47191be3a37cbe7ea39cdb9bd12eb3e3f051d",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/Yi-9B-200K-GGUF/resolve/main/Yi-9B-200K.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-200K.Q3_K_S.gguf",
+            "size": "3899207456",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "8e1ad147184f3dc74cbc180ecf7b3dd8b9b7ba6b80f3a4d8b0b067fd36a63da1",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/Yi-9B-200K-GGUF/resolve/main/Yi-9B-200K.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-200K.Q4_K_M.gguf",
+            "size": "5328957216",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "940b82adb7425c742d5593460972bec948f6c94840e9c98fe3ade6682c0e6441",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/Yi-9B-200K-GGUF/resolve/main/Yi-9B-200K.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-200K.Q4_K_S.gguf",
+            "size": "5071859488",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "7cb08f543150b61c90ff58e984292ecdabc103e9c390058ed72cd1797c6c5bf0",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/Yi-9B-200K-GGUF/resolve/main/Yi-9B-200K.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-200K.Q5_K_M.gguf",
+            "size": "6258257696",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "daaf5ed5db8d709f2813e8f087f980d26e9179fc7b7cfd5cbc0cb2cec1f29e93",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/Yi-9B-200K-GGUF/resolve/main/Yi-9B-200K.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-200K.Q5_K_S.gguf",
+            "size": "6107852576",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "70d8d70f8fdc312ce3b0e8321da8cdad07b35f98ba46a239c804865b93d28c61",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/Yi-9B-200K-GGUF/resolve/main/Yi-9B-200K.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-200K.Q6_K.gguf",
+            "size": "7245639456",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "63357c24dddc7a27b4eb60ccfa02be41637bbdb07b5f733e064ee095ba3c4dd2",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/Yi-9B-200K-GGUF/resolve/main/Yi-9B-200K.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Yi-9B-200K.Q8_0.gguf",
+            "size": "9383915296",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "a3ef7be9a8f6c6e92fa81df69e80a005280e720915173364e033e34e413dfff1",
+            "download": {
+                "default": "https://huggingface.co/MaziyarPanahi/Yi-9B-200K-GGUF/resolve/main/Yi-9B-200K.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

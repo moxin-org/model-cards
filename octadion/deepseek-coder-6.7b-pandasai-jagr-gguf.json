@@ -1,0 +1,43 @@
+{
+    "id": "octadion/deepseek-coder-6.7b-pandasai-jagr-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "octadion",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-21T02:39:28Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "deepseek-coder-6.7b-pandasai-jagr-Q4_K_M.gguf",
+            "size": "4082485024",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "c9d5aadaa0ab2223170aab2b3a8b6351b3f2864bbdd1985a13f5f5b50c6d0417",
+            "download": {
+                "default": "https://huggingface.co/octadion/deepseek-coder-6.7b-pandasai-jagr-gguf/resolve/main/deepseek-coder-6.7b-pandasai-jagr-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "deepseek-coder-6.7b-pandasai-jagr-Q5_K_M.gguf",
+            "size": "4784775360",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e2ec7afe20711df87b4e46a56244c906a6d63b7281619fe6619b12d8ca51dc5f",
+            "download": {
+                "default": "https://huggingface.co/octadion/deepseek-coder-6.7b-pandasai-jagr-gguf/resolve/main/deepseek-coder-6.7b-pandasai-jagr-Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,73 @@
+{
+    "id": "Alsebay/RainyMotip-2x7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Alsebay",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-22T01:47:17Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "RainyMotip-2x7B-fp16.gguf",
+            "size": "25759553472",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0d3d019856fad59b7612ebd8e9d6b729777e3c90664b56204e5dd59768bee31c",
+            "download": {
+                "default": "https://huggingface.co/Alsebay/RainyMotip-2x7B-GGUF/resolve/main/RainyMotip-2x7B-fp16.gguf"
+            }
+        },
+        {
+            "name": "RainyMotip-2x7B-Q4_K_M.gguf",
+            "size": "7782086656",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "3be7d46c01c3104ba179b61a9db310db5f7fbe594127f69f521d5c5d54237e8b",
+            "download": {
+                "default": "https://huggingface.co/Alsebay/RainyMotip-2x7B-GGUF/resolve/main/RainyMotip-2x7B-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "RainyMotip-2x7B-Q5_K_M.gguf",
+            "size": "9132259328",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "93cd11a05b1664bc11923e56ab1a44fe02ccb4ffc4883e2c2b9c3bc75040d765",
+            "download": {
+                "default": "https://huggingface.co/Alsebay/RainyMotip-2x7B-GGUF/resolve/main/RainyMotip-2x7B-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "RainyMotip-2x7B-Q6_K.gguf",
+            "size": "10566817792",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "b19032cca32e93846403dfc933fcba2edf6818e8a93ff229a33c3fd36a11eca0",
+            "download": {
+                "default": "https://huggingface.co/Alsebay/RainyMotip-2x7B-GGUF/resolve/main/RainyMotip-2x7B-Q6_K.gguf"
+            }
+        },
+        {
+            "name": "RainyMotip-2x7B-Q8_O.gguf",
+            "size": "13685610432",
+            "quantization": "Q8_O",
+            "tags": [],
+            "sha256": "71c2f4d4ca346fd8f777035ce7a0eb5c455652570f7cd4291f844613f5fbae19",
+            "download": {
+                "default": "https://huggingface.co/Alsebay/RainyMotip-2x7B-GGUF/resolve/main/RainyMotip-2x7B-Q8_O.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

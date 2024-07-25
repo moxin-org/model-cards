@@ -1,0 +1,163 @@
+{
+    "id": "ChristianAzinn/e5-base-v2-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "ChristianAzinn",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-08T03:33:18Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "e5-base-v2_fp16.gguf",
+            "size": "218789984",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c8b5e0ca8c46550c6be3dc977cc8e5a694098be3f8500c8265759daf62a40956",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/e5-base-v2-gguf/resolve/main/e5-base-v2_fp16.gguf"
+            }
+        },
+        {
+            "name": "e5-base-v2_fp32.gguf",
+            "size": "436327520",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7fe9c645ccc78b0e8b6ddfe5ac7dd10bd10551037f9c765362bd78ccb188edbd",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/e5-base-v2-gguf/resolve/main/e5-base-v2_fp32.gguf"
+            }
+        },
+        {
+            "name": "e5-base-v2.Q2_K.gguf",
+            "size": "54236512",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "f84aff6c468da6c126a224e8de328b294bc045fa0ea6ca9c371837fef55bb175",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/e5-base-v2-gguf/resolve/main/e5-base-v2.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "e5-base-v2.Q3_K_L.gguf",
+            "size": "69498208",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "9f392549d542cd3237aa2606792642936b268936cfa46503318299bb3f2dea46",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/e5-base-v2-gguf/resolve/main/e5-base-v2.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "e5-base-v2.Q3_K_M.gguf",
+            "size": "64632160",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "a927426131f0be484b87a2c54c0fa3d4b4c00ffea9d531e46a49d155090ec825",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/e5-base-v2-gguf/resolve/main/e5-base-v2.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "e5-base-v2.Q3_K_S.gguf",
+            "size": "58549600",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "3a4a158e8d0d670b5dfba4b5a02fe081cce7ff40b2234da6ede00b993268f03c",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/e5-base-v2-gguf/resolve/main/e5-base-v2.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "e5-base-v2.Q4_0.gguf",
+            "size": "69829984",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "f0db118b19d5a435457652d350b62477c656bfe2ca4aa8d5c435a7cd5a1c5f6a",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/e5-base-v2-gguf/resolve/main/e5-base-v2.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "e5-base-v2.Q4_K_M.gguf",
+            "size": "74391904",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "d12793d3d73b75fc9522958e5a55fad87db08996c0037d2f14ac85872c41b55e",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/e5-base-v2-gguf/resolve/main/e5-base-v2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "e5-base-v2.Q4_K_S.gguf",
+            "size": "71009632",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "45111db3eaf3386bca0c54193ec4c1e7e507d308e9b04659af542c4f40a53160",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/e5-base-v2-gguf/resolve/main/e5-base-v2.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "e5-base-v2.Q5_0.gguf",
+            "size": "80446816",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "be1be8729945d317779cff9a93e4d956c989348a2fb17b3baf59720cf15add52",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/e5-base-v2-gguf/resolve/main/e5-base-v2.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "e5-base-v2.Q5_K_M.gguf",
+            "size": "82796896",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "114fbdbc43f1b06e37f3ff58907ecf35ee46d82d1a769d635f9aba473c946189",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/e5-base-v2-gguf/resolve/main/e5-base-v2.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "e5-base-v2.Q5_K_S.gguf",
+            "size": "80446816",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "eb257d19ee02c3d2c83eb634c09e4a86c9da538205728adbee11105e7868b10d",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/e5-base-v2-gguf/resolve/main/e5-base-v2.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "e5-base-v2.Q6_K.gguf",
+            "size": "91727200",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "5c815c312f3de063d0d953f836943eda1b3c59b6b89743b90b6c62a9481bd579",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/e5-base-v2-gguf/resolve/main/e5-base-v2.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "e5-base-v2.Q8_0.gguf",
+            "size": "117974400",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "92b10450d6926146c32acc0db60fc951921e88c287455d7d3fecfebc6a3af042",
+            "download": {
+                "default": "https://huggingface.co/ChristianAzinn/e5-base-v2-gguf/resolve/main/e5-base-v2.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

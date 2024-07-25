@@ -1,0 +1,63 @@
+{
+    "id": "beowolx/CodeNinja-1.0-OpenChat-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "beowolx",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-20T21:40:36Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "codeninja-1.0-openchat-7b.Q4_K_M.gguf",
+            "size": "4368450592",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "2db70173ddb78b76c996bf6297a1628b3deb9063681f02d0d3ca471a3363d5b7",
+            "download": {
+                "default": "https://huggingface.co/beowolx/CodeNinja-1.0-OpenChat-7B-GGUF/resolve/main/codeninja-1.0-openchat-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "codeninja-1.0-openchat-7b.Q5_K_M.gguf",
+            "size": "5131421728",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "35c8e07ce42787b010bb057d67861e5f243b84762062de79eff3607d5917d217",
+            "download": {
+                "default": "https://huggingface.co/beowolx/CodeNinja-1.0-OpenChat-7B-GGUF/resolve/main/codeninja-1.0-openchat-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "codeninja-1.0-openchat-7b.Q5_K_S.gguf",
+            "size": "4997728288",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "05a83e33651093233781da6e5df1bcce5880202e0aec566ef77ade05c4cb0c50",
+            "download": {
+                "default": "https://huggingface.co/beowolx/CodeNinja-1.0-OpenChat-7B-GGUF/resolve/main/codeninja-1.0-openchat-7b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "codeninja-1.0-openchat-7b.Q8_0.gguf",
+            "size": "7695875040",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "8829fc8b72240c0da06ee8297694e3df3958dadf3fb974f22d6f110919ccdf11",
+            "download": {
+                "default": "https://huggingface.co/beowolx/CodeNinja-1.0-OpenChat-7B-GGUF/resolve/main/codeninja-1.0-openchat-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

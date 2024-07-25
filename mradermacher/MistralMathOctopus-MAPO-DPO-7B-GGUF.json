@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/MistralMathOctopus-MAPO-DPO-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-28T12:41:37Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "MistralMathOctopus-MAPO-DPO-7B.IQ3_M.gguf",
+            "size": "3439525344",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "f6668b84c07cd7d6cb1eb36310748da7f88f1a262e36af41d3a5d5f836dc5f6d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MistralMathOctopus-MAPO-DPO-7B-GGUF/resolve/main/MistralMathOctopus-MAPO-DPO-7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "MistralMathOctopus-MAPO-DPO-7B.IQ3_S.gguf",
+            "size": "3337027040",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "31f0058452b435f3007b521b3b474a22e1f808fee95492217a21245c1ba22734",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MistralMathOctopus-MAPO-DPO-7B-GGUF/resolve/main/MistralMathOctopus-MAPO-DPO-7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "MistralMathOctopus-MAPO-DPO-7B.IQ3_XS.gguf",
+            "size": "3173449184",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "3ede2a959cd67133cc94ff8269ebbbb2d744a250e418604c1b1c79e4ed462739",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MistralMathOctopus-MAPO-DPO-7B-GGUF/resolve/main/MistralMathOctopus-MAPO-DPO-7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "MistralMathOctopus-MAPO-DPO-7B.IQ4_NL.gguf",
+            "size": "4309688320",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "14b36ef33ac007d2308d861cc08290c7920f4127fd502969f57f32811bb56fe7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MistralMathOctopus-MAPO-DPO-7B-GGUF/resolve/main/MistralMathOctopus-MAPO-DPO-7B.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "MistralMathOctopus-MAPO-DPO-7B.IQ4_XS.gguf",
+            "size": "4099022720",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "f657a69c00471a12218c808b3ea15606131e30cc638f8a0ffebaccfaed60f1c7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MistralMathOctopus-MAPO-DPO-7B-GGUF/resolve/main/MistralMathOctopus-MAPO-DPO-7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "MistralMathOctopus-MAPO-DPO-7B.Q2_K.gguf",
+            "size": "2873875520",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "fc50bb6aa39ef6b12b878b453e715127697aed71683055635fbc29fea527f9b2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MistralMathOctopus-MAPO-DPO-7B-GGUF/resolve/main/MistralMathOctopus-MAPO-DPO-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "MistralMathOctopus-MAPO-DPO-7B.Q3_K_L.gguf",
+            "size": "3976658400",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "384297d94e01d852441f1e9c7178d6fa29df8df18a956af4713c3e8dfe6a7c06",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MistralMathOctopus-MAPO-DPO-7B-GGUF/resolve/main/MistralMathOctopus-MAPO-DPO-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "MistralMathOctopus-MAPO-DPO-7B.Q3_K_M.gguf",
+            "size": "3673619936",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "c9e1236d6f8d7e323f7733d3eaaccdbb259d1eea4cbe699a53edd24c59b78297",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MistralMathOctopus-MAPO-DPO-7B-GGUF/resolve/main/MistralMathOctopus-MAPO-DPO-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "MistralMathOctopus-MAPO-DPO-7B.Q3_K_S.gguf",
+            "size": "3319201248",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "fe8df088e26a509513202d5cc14778fac4f9835653810c474461ef26479d3c4d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MistralMathOctopus-MAPO-DPO-7B-GGUF/resolve/main/MistralMathOctopus-MAPO-DPO-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "MistralMathOctopus-MAPO-DPO-7B.Q4_0.gguf",
+            "size": "4263550976",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "0c69078d989976532fe23faba5f1abfc40a42e34deeba8d49a162f02910334d1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MistralMathOctopus-MAPO-DPO-7B-GGUF/resolve/main/MistralMathOctopus-MAPO-DPO-7B.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "MistralMathOctopus-MAPO-DPO-7B.Q4_K_M.gguf",
+            "size": "4523073536",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "f2146c189fedb004fc13a8011ffcaf892a2fccd47f17d8bc5b3717906809224c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MistralMathOctopus-MAPO-DPO-7B-GGUF/resolve/main/MistralMathOctopus-MAPO-DPO-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "MistralMathOctopus-MAPO-DPO-7B.Q4_K_S.gguf",
+            "size": "4295008256",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "d83ca8b7ffacf3e3d8013a31da48a5a1700480fe83b40b9833c364c6ce187d4d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MistralMathOctopus-MAPO-DPO-7B-GGUF/resolve/main/MistralMathOctopus-MAPO-DPO-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "MistralMathOctopus-MAPO-DPO-7B.Q5_K_M.gguf",
+            "size": "5286044160",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "1090acfe410a1090ba0eb0301775965f4b77c084ec0226058db567c5695bd6d2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MistralMathOctopus-MAPO-DPO-7B-GGUF/resolve/main/MistralMathOctopus-MAPO-DPO-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "MistralMathOctopus-MAPO-DPO-7B.Q5_K_S.gguf",
+            "size": "5152350720",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "a27ffd4626f9fbb8e9300417c004eb0cf35f1832a92b7c180c0e660c1998bf13",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MistralMathOctopus-MAPO-DPO-7B-GGUF/resolve/main/MistralMathOctopus-MAPO-DPO-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "MistralMathOctopus-MAPO-DPO-7B.Q6_K.gguf",
+            "size": "6096700448",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "fff037df9fa58138ef0becbcda0aaa3fc2d3f284f7cf5a2ca56f4dd89e21d83a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MistralMathOctopus-MAPO-DPO-7B-GGUF/resolve/main/MistralMathOctopus-MAPO-DPO-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "MistralMathOctopus-MAPO-DPO-7B.Q8_0.gguf",
+            "size": "7818749952",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "a02304ac39a9f8e8f830dddb52b098457ccfc1f1cb370a2e68cda057cb50e0f4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/MistralMathOctopus-MAPO-DPO-7B-GGUF/resolve/main/MistralMathOctopus-MAPO-DPO-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

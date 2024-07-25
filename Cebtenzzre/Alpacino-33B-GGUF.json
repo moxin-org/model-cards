@@ -1,0 +1,43 @@
+{
+    "id": "Cebtenzzre/Alpacino-33B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Cebtenzzre",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-19T00:37:31Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "alpacino-33B.Q5_K_M.gguf",
+            "size": "23047116192",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "0d62ed2e74af217ce46fdf82d197f826d0358baa2ae155a307bc67c5ddc27717",
+            "download": {
+                "default": "https://huggingface.co/Cebtenzzre/Alpacino-33B-GGUF/resolve/main/alpacino-33B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "alpacino-33B.Q6_K.gguf",
+            "size": "26687216032",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "d75d9f86ebe7ed1390bc75fb1c52ad5f20597b9a453b6266a034348fdb8d9177",
+            "download": {
+                "default": "https://huggingface.co/Cebtenzzre/Alpacino-33B-GGUF/resolve/main/alpacino-33B.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,53 @@
+{
+    "id": "zon5000/MedLLM_merged-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "zon5000",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-31T06:17:04Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "MedLLM_merged.fp16.gguf",
+            "size": "14484732128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d6c78cd30745b86b24a04d5989fbae26c30541552df8e9a5c81a8e25381c9c19",
+            "download": {
+                "default": "https://huggingface.co/zon5000/MedLLM_merged-GGUF/resolve/main/MedLLM_merged.fp16.gguf"
+            }
+        },
+        {
+            "name": "MedLLM_merged.q4_K_S.gguf",
+            "size": "4140374304",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5ab2603fba1080e362f1736c41be1d7e34fb467bb935f3be5af8432e47c382ce",
+            "download": {
+                "default": "https://huggingface.co/zon5000/MedLLM_merged-GGUF/resolve/main/MedLLM_merged.q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "MedLLM_merged.q5_K_M.gguf",
+            "size": "5131409696",
+            "quantization": "",
+            "tags": [],
+            "sha256": "c7352af3fe625c2526b4b0a2f50b30071a69666d78e268a464a43f07af1f3c9e",
+            "download": {
+                "default": "https://huggingface.co/zon5000/MedLLM_merged-GGUF/resolve/main/MedLLM_merged.q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 4096,
+    "vector_size": 0,
+    "metrics": null
+}

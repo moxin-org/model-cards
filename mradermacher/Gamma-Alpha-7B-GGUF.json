@@ -1,0 +1,183 @@
+{
+    "id": "mradermacher/Gamma-Alpha-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-29T05:56:00Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Gamma-Alpha-7B.IQ3_M.gguf",
+            "size": "3439515328",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "093ab8c8431cd8664943221e408dd0c5375a2c015d175f443bda615c5b37d033",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gamma-Alpha-7B-GGUF/resolve/main/Gamma-Alpha-7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Gamma-Alpha-7B.IQ3_S.gguf",
+            "size": "3337017024",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "9213546b40048ef7f9fe6d0d7cb93f7e30ee7c53fa788fea2c5f458edc2abc2a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gamma-Alpha-7B-GGUF/resolve/main/Gamma-Alpha-7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Gamma-Alpha-7B.IQ3_XS.gguf",
+            "size": "3173439168",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "9038d1344a3432e7b52c4e72faaa0aa6b8a4f762e581dd396b93ef7183ff8a46",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gamma-Alpha-7B-GGUF/resolve/main/Gamma-Alpha-7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Gamma-Alpha-7B.IQ4_NL.gguf",
+            "size": "4309677760",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "46b260379884a2380ea61fb8385ff00bef6dc025c1e1779924e60d7cd21d89d4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gamma-Alpha-7B-GGUF/resolve/main/Gamma-Alpha-7B.IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Gamma-Alpha-7B.IQ4_XS.gguf",
+            "size": "4099012288",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "b06efd1cb8ca6510e2fa139c22f8cc1bb5f4a250a5bc5f0d0b42c773505cbce3",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gamma-Alpha-7B-GGUF/resolve/main/Gamma-Alpha-7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Gamma-Alpha-7B.Q2_K.gguf",
+            "size": "2873865920",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "0ec341ee01085ca0a074a7de0f37bd185b3e7126f242cae49df73abe58f4bad5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gamma-Alpha-7B-GGUF/resolve/main/Gamma-Alpha-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Gamma-Alpha-7B.Q3_K_L.gguf",
+            "size": "3976648384",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "4edc7ba7bc77501262f1043426d02c1bc4ce39023ca6653e6926816a88a5b65a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gamma-Alpha-7B-GGUF/resolve/main/Gamma-Alpha-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Gamma-Alpha-7B.Q3_K_M.gguf",
+            "size": "3673609920",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "893b1219bb0bcc9f152fee3810f9bf5fb1ad0281ee6b8939fcbf42e5ab7e3872",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gamma-Alpha-7B-GGUF/resolve/main/Gamma-Alpha-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Gamma-Alpha-7B.Q3_K_S.gguf",
+            "size": "3319191232",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "4779481df25052d40da6855f0152f8e05afc71aa5ce11efd816371f2d8357d1c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gamma-Alpha-7B-GGUF/resolve/main/Gamma-Alpha-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Gamma-Alpha-7B.Q4_0.gguf",
+            "size": "4263540416",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "aafa1643463a7f76f0c8b4a23d0006387d623509366362ec8ac085f433250059",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gamma-Alpha-7B-GGUF/resolve/main/Gamma-Alpha-7B.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Gamma-Alpha-7B.Q4_K_M.gguf",
+            "size": "4523062976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "cbc8763b89650f6d1a4fe096a996d3d9b3609a61682f1541cbb9d765d6221704",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gamma-Alpha-7B-GGUF/resolve/main/Gamma-Alpha-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Gamma-Alpha-7B.Q4_K_S.gguf",
+            "size": "4294997696",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "9613ebfc81a4af8ebd280858f2deeb21278fad073292d4fffc6fbd38d275f9d5",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gamma-Alpha-7B-GGUF/resolve/main/Gamma-Alpha-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Gamma-Alpha-7B.Q5_K_M.gguf",
+            "size": "5286033088",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "cc98e20bbd31887d465b80e88a6ae06580a1bd8d42c8beb31ac6c6ce8040ced7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gamma-Alpha-7B-GGUF/resolve/main/Gamma-Alpha-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Gamma-Alpha-7B.Q5_K_S.gguf",
+            "size": "5152339648",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "849b65308f787f40f1cdbd63dcb122fe80bfc9a98658a79c898214a3792a7544",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gamma-Alpha-7B-GGUF/resolve/main/Gamma-Alpha-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Gamma-Alpha-7B.Q6_K.gguf",
+            "size": "6096688832",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "464802020bca1691441eacaaaba7de6302e54be32459ff2062850e4a057f47f1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gamma-Alpha-7B-GGUF/resolve/main/Gamma-Alpha-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Gamma-Alpha-7B.Q8_0.gguf",
+            "size": "7818737344",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "8ee2a13e08e1bd33312b5c97180f5c4a9bc59f290c080cb231c18157d0afecce",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Gamma-Alpha-7B-GGUF/resolve/main/Gamma-Alpha-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

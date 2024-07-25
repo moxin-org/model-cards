@@ -1,0 +1,123 @@
+{
+    "id": "TheBloke/tulu-2-70B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "TheBloke",
+        "url": "https://github.com/TheBloke",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-11-24T03:57:09Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "tulu-2-70b.Q2_K.gguf",
+            "size": "29279253504",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "1c63c49e221a1f57a6af14818e27cc8881cae313bbce59591ac5ae931780c1df",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/tulu-2-70B-GGUF/resolve/main/tulu-2-70b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "tulu-2-70b.Q3_K_L.gguf",
+            "size": "36147835904",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "f0bf4e77d1a997579fdbdbae66f0d82f85cd2be360dd4aeba0347e861dd16020",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/tulu-2-70B-GGUF/resolve/main/tulu-2-70b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "tulu-2-70b.Q3_K_M.gguf",
+            "size": "33186657280",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "3e818dd21d7e50c61171f29e333ac19c22837b721d6120a03f2d882e55e3f3f6",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/tulu-2-70B-GGUF/resolve/main/tulu-2-70b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "tulu-2-70b.Q3_K_S.gguf",
+            "size": "29919294464",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "b27cc6748f15bfdf424c22df65b0019a70e3708efe8919e70e73c277a8fe3404",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/tulu-2-70B-GGUF/resolve/main/tulu-2-70b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "tulu-2-70b.Q4_0.gguf",
+            "size": "38872249344",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "802ed8adafbdf458d522a79f8f47b6811ec44e2f940a24c30a583b3a4cc67cc3",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/tulu-2-70B-GGUF/resolve/main/tulu-2-70b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "tulu-2-70b.Q4_K_M.gguf",
+            "size": "41422910464",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "8e1c5a8ce3951b8ecac0d2d58d75cb6df8b38eecc0d534728f75f8bf8b4982b2",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/tulu-2-70B-GGUF/resolve/main/tulu-2-70b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "tulu-2-70b.Q4_K_S.gguf",
+            "size": "39073575936",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "46fb534ecff4e4f4499cec1dc907f83e3de4b6bf0d006debccfc5322ef9cc698",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/tulu-2-70B-GGUF/resolve/main/tulu-2-70b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "tulu-2-70b.Q5_0.gguf",
+            "size": "47461397504",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "badd560eb99bce51c138e6273ce28bc92dc0ac536168d4560e17591ac69a4c67",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/tulu-2-70B-GGUF/resolve/main/tulu-2-70b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "tulu-2-70b.Q5_K_M.gguf",
+            "size": "48753767424",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "ec26d19d78d6d625259cf199a8d85c317c54b6cdb2d737e2dc7440ab109c3062",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/tulu-2-70B-GGUF/resolve/main/tulu-2-70b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "tulu-2-70b.Q5_K_S.gguf",
+            "size": "47461397504",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "1b22b98942c78ae9394ed571faedd4af474f850977e49d4ce5e44c89cc7e1b99",
+            "download": {
+                "default": "https://huggingface.co/TheBloke/tulu-2-70B-GGUF/resolve/main/tulu-2-70b.Q5_K_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,93 @@
+{
+    "id": "mradermacher/giant-macaroni-120b-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-22T13:50:24Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "giant-macaroni-120b.i1-IQ1_S.gguf",
+            "size": "26089698240",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "dcbc3106518d6f4cdd27cf82286b78ed874e1af9dc95ddd3d6edca6e48d2e3f2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/giant-macaroni-120b-i1-GGUF/resolve/main/giant-macaroni-120b.i1-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "giant-macaroni-120b.i1-IQ2_M.gguf",
+            "size": "41290003392",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "0e4f4d16ce96abf477e1582e35cea9d7a51a6fe6fc295dd4d56464759a934bea",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/giant-macaroni-120b-i1-GGUF/resolve/main/giant-macaroni-120b.i1-IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "giant-macaroni-120b.i1-IQ2_S.gguf",
+            "size": "38001669056",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "82a777bdbcee4b1c181bf68fb67c85d6161909287ec77948eb0a4b665f1565a6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/giant-macaroni-120b-i1-GGUF/resolve/main/giant-macaroni-120b.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "giant-macaroni-120b.i1-IQ2_XS.gguf",
+            "size": "36248302528",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "8a2229ab3a9276adfd13e16eb057ae8adff3a62d95ec28c7211872cf7df249e2",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/giant-macaroni-120b-i1-GGUF/resolve/main/giant-macaroni-120b.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "giant-macaroni-120b.i1-IQ2_XXS.gguf",
+            "size": "32666366912",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "ed88af6c7cf59314348524b4c950821047aefda8f2839223d9fd96bf563d31bc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/giant-macaroni-120b-i1-GGUF/resolve/main/giant-macaroni-120b.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "giant-macaroni-120b.i1-IQ3_XXS.gguf",
+            "size": "47018898368",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "6df8e19ffff6446fb9d4d5920dafc3dccec89d229c36b4e22426349cf9b39bc8",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/giant-macaroni-120b-i1-GGUF/resolve/main/giant-macaroni-120b.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "giant-macaroni-120b.i1-Q2_K.gguf",
+            "size": "45019640768",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "ac3fe542b3d4ccead5cc5f4b31e416c481e25d16b3e269cafd8769107c85b85b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/giant-macaroni-120b-i1-GGUF/resolve/main/giant-macaroni-120b.i1-Q2_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

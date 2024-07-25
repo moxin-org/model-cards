@@ -1,0 +1,163 @@
+{
+    "id": "hfl/chinese-llama-2-7b-64k-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "hfl",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-21T05:45:22Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-f16.gguf",
+            "size": "13860294400",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7d3d488620813762cfcc84eb831aa0cb0e00c709d7266a60cc1ed0c6b26e5570",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-7b-64k-gguf/resolve/main/ggml-model-f16.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q2_k-im.gguf",
+            "size": "2642956064",
+            "quantization": "",
+            "tags": [],
+            "sha256": "853201f7635d81028a0875ba645c1e86ecea392d49e59f4f492ff17600a08155",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-7b-64k-gguf/resolve/main/ggml-model-q2_k-im.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q2_k.gguf",
+            "size": "2936033056",
+            "quantization": "",
+            "tags": [],
+            "sha256": "43cadde50b1425794e2e6e354ce1cb1bb52f5338fdb205bc9eecbbf24ca50cfd",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-7b-64k-gguf/resolve/main/ggml-model-q2_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q3_k-im.gguf",
+            "size": "3417788192",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2ad5c319dafd961026fbd5f6eaa38dae6a9fb86d489c179b7d701eac794a0b5c",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-7b-64k-gguf/resolve/main/ggml-model-q3_k-im.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q3_k.gguf",
+            "size": "3417788192",
+            "quantization": "",
+            "tags": [],
+            "sha256": "70aafd835f38a77bc72c3c188dd21570e97fc12796abb8854b84961d3e7aeac3",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-7b-64k-gguf/resolve/main/ggml-model-q3_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_0.gguf",
+            "size": "3958263584",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9fc53612307bf08439e899af991dfbbdec410413d37574f7f2c18f67aadd0417",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-7b-64k-gguf/resolve/main/ggml-model-q4_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_k-im.gguf",
+            "size": "4213460768",
+            "quantization": "",
+            "tags": [],
+            "sha256": "bf33d38f694cb4648714f373b05c77b605c3986705872f6651fce3e33318b18b",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-7b-64k-gguf/resolve/main/ggml-model-q4_k-im.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q4_k.gguf",
+            "size": "4213460768",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5d345486280b569db5cf50aafde9936813ef14d20143d01127887df650483303",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-7b-64k-gguf/resolve/main/ggml-model-q4_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_0.gguf",
+            "size": "4796075808",
+            "quantization": "",
+            "tags": [],
+            "sha256": "3057dd624b6101b2fcd9c59b8c45a31f0db0faae18fd4f336790c0da5ca5996c",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-7b-64k-gguf/resolve/main/ggml-model-q5_0.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_k-im.gguf",
+            "size": "4927541024",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d7b9804c15979fed1b73ac5a9c17161a15d009dfbad2583726000908983b40b7",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-7b-64k-gguf/resolve/main/ggml-model-q5_k-im.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q5_k.gguf",
+            "size": "4927541024",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5f7716c15838414b63a2beba8b181310762dd4c409c3339dcf6971becf21cbbe",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-7b-64k-gguf/resolve/main/ggml-model-q5_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q6_k-im.gguf",
+            "size": "5686251296",
+            "quantization": "",
+            "tags": [],
+            "sha256": "eb10372629f10f82ca889ddd0c28cf0c755a8d3d6bd8de36369780b4910dd7cf",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-7b-64k-gguf/resolve/main/ggml-model-q6_k-im.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q6_k.gguf",
+            "size": "5686251296",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b041e79299eca3593d95311c025c0bf5ab8528d05aa9c89f95607c11d31455f5",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-7b-64k-gguf/resolve/main/ggml-model-q6_k.gguf"
+            }
+        },
+        {
+            "name": "ggml-model-q8_0.gguf",
+            "size": "7364366112",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b9178e9ead24dd2b887078901e78563a88231b3e2232b5eb0a7ca12437131a59",
+            "download": {
+                "default": "https://huggingface.co/hfl/chinese-llama-2-7b-64k-gguf/resolve/main/ggml-model-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

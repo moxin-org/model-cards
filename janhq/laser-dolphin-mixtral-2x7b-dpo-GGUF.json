@@ -1,0 +1,63 @@
+{
+    "id": "janhq/laser-dolphin-mixtral-2x7b-dpo-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "janhq",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-16T01:08:41Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "laser-dolphin-mixtral-2x7b-dpo.Q3_K_M.gguf",
+            "size": "5678424416",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "94d5e4d0525df8def5022c48a4d4ee0dc934177b1c55312f01f8b48e835c5433",
+            "download": {
+                "default": "https://huggingface.co/janhq/laser-dolphin-mixtral-2x7b-dpo-GGUF/resolve/main/laser-dolphin-mixtral-2x7b-dpo.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "laser-dolphin-mixtral-2x7b-dpo.Q4_K_M.gguf",
+            "size": "7298580832",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "63c40a4f7c070a1150fbf414067e429ffe4738fedda3965096e0f63523326bcd",
+            "download": {
+                "default": "https://huggingface.co/janhq/laser-dolphin-mixtral-2x7b-dpo-GGUF/resolve/main/laser-dolphin-mixtral-2x7b-dpo.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "laser-dolphin-mixtral-2x7b-dpo.Q5_K_M.gguf",
+            "size": "8883634528",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "5919015dc0e04e44500600c4dee160cef554f8476261a30fbd57e3b565af9900",
+            "download": {
+                "default": "https://huggingface.co/janhq/laser-dolphin-mixtral-2x7b-dpo-GGUF/resolve/main/laser-dolphin-mixtral-2x7b-dpo.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "laser-dolphin-mixtral-2x7b-dpo.Q8_0.gguf",
+            "size": "13686792544",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "9e3366600d15b4f5d5f0a9cd8e51d665a5576319a77fc1f15cb76d43c108fc75",
+            "download": {
+                "default": "https://huggingface.co/janhq/laser-dolphin-mixtral-2x7b-dpo-GGUF/resolve/main/laser-dolphin-mixtral-2x7b-dpo.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

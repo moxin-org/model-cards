@@ -1,0 +1,33 @@
+{
+    "id": "second-state/test-code",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "second-state",
+        "url": "https://github.com/second-state",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-23T08:24:10Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Phi-3-mini-4k-instruct-Q5_K_M.gguf",
+            "size": "2715010368",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "b7cff8e1ea75ae8a08126bb3375986b03b9922022069751cdff12ce49023dbb7",
+            "download": {
+                "default": "https://huggingface.co/second-state/test-code/resolve/main/Phi-3-mini-4k-instruct-Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

@@ -1,0 +1,53 @@
+{
+    "id": "jtatman/SciPhi-Mistral-RAG-Hermes-7B-32k-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "jtatman",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-25T15:25:21Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "SciPhi-Mistral-RAG-Hermes-7B-32k-Q_4_K_M.gguf",
+            "size": "3967892672",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d08b931988ffa526d38f3c159a9b096d4b3c4ba1e64bcb3c642239c01664a05c",
+            "download": {
+                "default": "https://huggingface.co/jtatman/SciPhi-Mistral-RAG-Hermes-7B-32k-gguf/resolve/main/SciPhi-Mistral-RAG-Hermes-7B-32k-Q_4_K_M.gguf"
+            }
+        },
+        {
+            "name": "SciPhi-Mistral-RAG-Hermes-7B-32k-Q2_K.gguf",
+            "size": "2478522560",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "9c308fef62b84f5f09245921dedeb9597c3407508df447c08608b2afee8f435a",
+            "download": {
+                "default": "https://huggingface.co/jtatman/SciPhi-Mistral-RAG-Hermes-7B-32k-gguf/resolve/main/SciPhi-Mistral-RAG-Hermes-7B-32k-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "SciPhi-Mistral-RAG-Hermes-7B-32k-Q4_0.gguf",
+            "size": "3740810432",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "c7ca518c823fe9a418c8018f1fe11ecac74a305a8e3c74db39734477268329d4",
+            "download": {
+                "default": "https://huggingface.co/jtatman/SciPhi-Mistral-RAG-Hermes-7B-32k-gguf/resolve/main/SciPhi-Mistral-RAG-Hermes-7B-32k-Q4_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

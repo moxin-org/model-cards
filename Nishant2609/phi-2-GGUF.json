@@ -1,0 +1,43 @@
+{
+    "id": "Nishant2609/phi-2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Nishant2609",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-25T08:49:43Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "phi-2.gguf",
+            "size": "11120548352",
+            "quantization": "",
+            "tags": [],
+            "sha256": "636eb68dd4954f018d0a47a52322cca364d5b27d166f1037ed58d64d4d8bf608",
+            "download": {
+                "default": "https://huggingface.co/Nishant2609/phi-2-GGUF/resolve/main/phi-2.gguf"
+            }
+        },
+        {
+            "name": "phi-2.Q4_K_M.gguf",
+            "size": "1737636384",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "013e0e421b70dc169adb0c0010171202371e907e5f648084e4ddc8ad9985127a",
+            "download": {
+                "default": "https://huggingface.co/Nishant2609/phi-2-GGUF/resolve/main/phi-2.Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

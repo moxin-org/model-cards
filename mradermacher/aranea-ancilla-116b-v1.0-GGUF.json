@@ -1,0 +1,43 @@
+{
+    "id": "mradermacher/aranea-ancilla-116b-v1.0-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-09T22:07:23Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "aranea-ancilla-116b-v1.0.IQ3_XS.gguf",
+            "size": "47762942816",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "ee0bbfdaa4d3aa7216267644bfc769fa1ae2101e12a6552b86437c58484ecf7b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/aranea-ancilla-116b-v1.0-GGUF/resolve/main/aranea-ancilla-116b-v1.0.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "aranea-ancilla-116b-v1.0.Q2_K.gguf",
+            "size": "42932267872",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "4156f35f5b558e36c601372907fa17cd9aae180e2ce77336508c359ec0696368",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/aranea-ancilla-116b-v1.0-GGUF/resolve/main/aranea-ancilla-116b-v1.0.Q2_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

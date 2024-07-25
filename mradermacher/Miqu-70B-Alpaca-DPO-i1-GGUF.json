@@ -1,0 +1,223 @@
+{
+    "id": "mradermacher/Miqu-70B-Alpaca-DPO-i1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-25T08:20:05Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Miqu-70B-Alpaca-DPO.i1-IQ4_XS.gguf",
+            "size": "37139068416",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "af7579a1cfe464150385fbdde6dbcb6a66a912a4832113d3c49ccf8e6782c7a4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Miqu-70B-Alpaca-DPO-i1-GGUF/resolve/main/Miqu-70B-Alpaca-DPO.i1-IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Miqu-70B-Alpaca-DPO.i1-Q5_K_S.gguf",
+            "size": "47770646016",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "2a9ba794911c5fe7a7513eeb1d9b8686a0ca1d1369800320c53c04e8a5aca699",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Miqu-70B-Alpaca-DPO-i1-GGUF/resolve/main/Miqu-70B-Alpaca-DPO.i1-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Miqu-70B-Alpaca-DPO.i1-Q5_K_M.gguf",
+            "size": "49063015936",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "113b1f206d2ec130d40f59cae5fefdbb697d381e0efc2de1873eaf09f9c09dc6",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Miqu-70B-Alpaca-DPO-i1-GGUF/resolve/main/Miqu-70B-Alpaca-DPO.i1-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Miqu-70B-Alpaca-DPO.i1-Q4_K_S.gguf",
+            "size": "39558985216",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "07873910f0d3bb6d48b1b310bc35f8ade8912bb56cc9952c057f57939948645e",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Miqu-70B-Alpaca-DPO-i1-GGUF/resolve/main/Miqu-70B-Alpaca-DPO.i1-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Miqu-70B-Alpaca-DPO.i1-Q4_K_M.gguf",
+            "size": "41732158976",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "6a78c7dd16d4167722ae78d5528815c53603b0bfdfba7f5807ee566f5c6b2ad1",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Miqu-70B-Alpaca-DPO-i1-GGUF/resolve/main/Miqu-70B-Alpaca-DPO.i1-Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Miqu-70B-Alpaca-DPO.i1-Q4_0.gguf",
+            "size": "39328298496",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "bbd7d88d00a24d2f071f87ff45bd428181dc21db9f73557e8303483846b75009",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Miqu-70B-Alpaca-DPO-i1-GGUF/resolve/main/Miqu-70B-Alpaca-DPO.i1-Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Miqu-70B-Alpaca-DPO.i1-Q3_K_S.gguf",
+            "size": "30228542976",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "3c65e96cdc14c12076ba9c8ef7b2b63bae127e23a9ee3cbc7f0fd8b3e4f138f7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Miqu-70B-Alpaca-DPO-i1-GGUF/resolve/main/Miqu-70B-Alpaca-DPO.i1-Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Miqu-70B-Alpaca-DPO.i1-Q3_K_M.gguf",
+            "size": "33583986176",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "038dd6727d059f6f1f606a7f89179e01357435e22ebc3454e2550e49496393c9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Miqu-70B-Alpaca-DPO-i1-GGUF/resolve/main/Miqu-70B-Alpaca-DPO.i1-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Miqu-70B-Alpaca-DPO.i1-Q3_K_L.gguf",
+            "size": "36457084416",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "77d19c612db5a6b0cb9e18ad5bcca4ae494f6fb061bb4793ac332a9f0602863b",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Miqu-70B-Alpaca-DPO-i1-GGUF/resolve/main/Miqu-70B-Alpaca-DPO.i1-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Miqu-70B-Alpaca-DPO.i1-Q2_K.gguf",
+            "size": "25771685376",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "415e38c3411087742172893728d1d1e25cabfad11b9fbbd5a800d2505d2f9478",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Miqu-70B-Alpaca-DPO-i1-GGUF/resolve/main/Miqu-70B-Alpaca-DPO.i1-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Miqu-70B-Alpaca-DPO.i1-IQ1_S.gguf",
+            "size": "14879602176",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "a7d39d10eb5fdb5d4d6ec07bfa8ce0c9735e3a9fedb1708ffed5b3fe9f05b67c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Miqu-70B-Alpaca-DPO-i1-GGUF/resolve/main/Miqu-70B-Alpaca-DPO.i1-IQ1_S.gguf"
+            }
+        },
+        {
+            "name": "Miqu-70B-Alpaca-DPO.i1-IQ4_NL.gguf",
+            "size": "39265383936",
+            "quantization": "Q4_NL",
+            "tags": [],
+            "sha256": "d85f8e3cd265fcf1470fedbbdff6b7d743b46cd954eae2022e86d5008e6e8f0c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Miqu-70B-Alpaca-DPO-i1-GGUF/resolve/main/Miqu-70B-Alpaca-DPO.i1-IQ4_NL.gguf"
+            }
+        },
+        {
+            "name": "Miqu-70B-Alpaca-DPO.i1-IQ3_XXS.gguf",
+            "size": "26925528576",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "ef183ecbed974c032b568ebdda3aa58042c1ba30f8a3e1929fa53d3fee85dc6a",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Miqu-70B-Alpaca-DPO-i1-GGUF/resolve/main/Miqu-70B-Alpaca-DPO.i1-IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "Miqu-70B-Alpaca-DPO.i1-IQ3_XS.gguf",
+            "size": "28624221696",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "9c5b2aa14fd6456335eb75f56549fdddc0d744cc3514114bebebad3688d83d1c",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Miqu-70B-Alpaca-DPO-i1-GGUF/resolve/main/Miqu-70B-Alpaca-DPO.i1-IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Miqu-70B-Alpaca-DPO.i1-IQ3_S.gguf",
+            "size": "30228542976",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "ed74cfebbe0c1c0e487c6f5c4ceb561d910e8bb5eac09a63bded333a84ed6052",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Miqu-70B-Alpaca-DPO-i1-GGUF/resolve/main/Miqu-70B-Alpaca-DPO.i1-IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Miqu-70B-Alpaca-DPO.i1-IQ3_M.gguf",
+            "size": "31253526016",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "5b4baf1d10bba5b723a39a8229457dc1a40226859008c3374f37cbdd6581c9e7",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Miqu-70B-Alpaca-DPO-i1-GGUF/resolve/main/Miqu-70B-Alpaca-DPO.i1-IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Miqu-70B-Alpaca-DPO.i1-IQ2_XXS.gguf",
+            "size": "18633504256",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "e7e4cd689657e00d3f7430ef24279e0b5b4846e0ed9b48abdef76706a22f1dbc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Miqu-70B-Alpaca-DPO-i1-GGUF/resolve/main/Miqu-70B-Alpaca-DPO.i1-IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "Miqu-70B-Alpaca-DPO.i1-IQ2_XS.gguf",
+            "size": "20678227456",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "b9f0dec4cab9481e9808e98d45b21f46f918d28fc31f8f9ee1dd52d02f16e639",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Miqu-70B-Alpaca-DPO-i1-GGUF/resolve/main/Miqu-70B-Alpaca-DPO.i1-IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "Miqu-70B-Alpaca-DPO.i1-IQ2_S.gguf",
+            "size": "21698377216",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "d6b5830e11f4984331ada13d6baa225d37de8bf9527374f10ce2d509f92d2545",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Miqu-70B-Alpaca-DPO-i1-GGUF/resolve/main/Miqu-70B-Alpaca-DPO.i1-IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "Miqu-70B-Alpaca-DPO.i1-IQ2_M.gguf",
+            "size": "23575328256",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "50ec912f7087f11d0d4a28ea8570fa15280807f3fe509f3dd6ad842787bbe4cc",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Miqu-70B-Alpaca-DPO-i1-GGUF/resolve/main/Miqu-70B-Alpaca-DPO.i1-IQ2_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

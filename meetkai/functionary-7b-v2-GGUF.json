@@ -1,0 +1,53 @@
+{
+    "id": "meetkai/functionary-7b-v2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "meetkai",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-07T15:51:25Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "functionary-7b-v2.f16.gguf",
+            "size": "14484798144",
+            "quantization": "",
+            "tags": [],
+            "sha256": "76542e59dfd7bf5e36cfcc9f07183fd00dbfc18f4779670402f511e85b10a73a",
+            "download": {
+                "default": "https://huggingface.co/meetkai/functionary-7b-v2-GGUF/resolve/main/functionary-7b-v2.f16.gguf"
+            }
+        },
+        {
+            "name": "functionary-7b-v2.q4_0.gguf",
+            "size": "4108940128",
+            "quantization": "",
+            "tags": [],
+            "sha256": "85cdd07dbc74c57109c1709fa2d7f86a741771962e7587d27bfae3c4296091f6",
+            "download": {
+                "default": "https://huggingface.co/meetkai/functionary-7b-v2-GGUF/resolve/main/functionary-7b-v2.q4_0.gguf"
+            }
+        },
+        {
+            "name": "functionary-7b-v2.q8_0.gguf",
+            "size": "7695893216",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7e0a3a84e186d2e3758d84c94c64d840b6a49f1a27052771edab85354ea587b1",
+            "download": {
+                "default": "https://huggingface.co/meetkai/functionary-7b-v2-GGUF/resolve/main/functionary-7b-v2.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

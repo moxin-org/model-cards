@@ -1,0 +1,143 @@
+{
+    "id": "konz00/Kunocchini-7b-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "konz00",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-10T07:52:24Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Kunocchini-7b.Q2_K.gguf",
+            "size": "2719241856",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "e323fad5d2c5b68ac4cef986aa690b508acc012c9942a571461ecc366a64b2b4",
+            "download": {
+                "default": "https://huggingface.co/konz00/Kunocchini-7b-GGUF/resolve/main/Kunocchini-7b.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Kunocchini-7b.Q3_K_L.gguf",
+            "size": "3822024320",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "f21917fe982312a40bb89a545218265d1162e5def9ee2b4a50548735cff62ca0",
+            "download": {
+                "default": "https://huggingface.co/konz00/Kunocchini-7b-GGUF/resolve/main/Kunocchini-7b.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Kunocchini-7b.Q3_K_M.gguf",
+            "size": "3518985856",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "b60e1435589f43d056790ee4fef9b09dd00876194fa30190c19584457f635f59",
+            "download": {
+                "default": "https://huggingface.co/konz00/Kunocchini-7b-GGUF/resolve/main/Kunocchini-7b.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Kunocchini-7b.Q3_K_S.gguf",
+            "size": "3164567168",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "71169996fa8b4806ada03d0af1b63a4ad83d0f3f650b261df9a58689d1273a05",
+            "download": {
+                "default": "https://huggingface.co/konz00/Kunocchini-7b-GGUF/resolve/main/Kunocchini-7b.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Kunocchini-7b.Q4_0.gguf",
+            "size": "4108916352",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "4b564977f263f3ab1c1bbbd4221d1cf892a54b44cf6aa27fc8519678619d69d3",
+            "download": {
+                "default": "https://huggingface.co/konz00/Kunocchini-7b-GGUF/resolve/main/Kunocchini-7b.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "Kunocchini-7b.Q4_K_M.gguf",
+            "size": "4368438912",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "aa8a6843ef8c2bd50504ed13947dd1e75acdd700b46f0b91d6c38561a7c91e60",
+            "download": {
+                "default": "https://huggingface.co/konz00/Kunocchini-7b-GGUF/resolve/main/Kunocchini-7b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Kunocchini-7b.Q4_K_S.gguf",
+            "size": "4140373632",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "2ebd60400a8942cb9e5b74e73e501ad33403f01a9b3c9776ebb75be5890ae143",
+            "download": {
+                "default": "https://huggingface.co/konz00/Kunocchini-7b-GGUF/resolve/main/Kunocchini-7b.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Kunocchini-7b.Q5_0.gguf",
+            "size": "4997715584",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "e81dc61d0e284965461baab0f6822ea7deee4f3ce863f52c691b46a8a45da5d5",
+            "download": {
+                "default": "https://huggingface.co/konz00/Kunocchini-7b-GGUF/resolve/main/Kunocchini-7b.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Kunocchini-7b.Q5_K_M.gguf",
+            "size": "5131409024",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "87cab6416f7430fe3940054cdb755594e3920f9e0a1ea52554bb4d5e6f780ea2",
+            "download": {
+                "default": "https://huggingface.co/konz00/Kunocchini-7b-GGUF/resolve/main/Kunocchini-7b.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Kunocchini-7b.Q5_K_S.gguf",
+            "size": "4997715584",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "68a32056d28df0440a49e508a80ad55529256cbb0d88e40e682314d25de39fea",
+            "download": {
+                "default": "https://huggingface.co/konz00/Kunocchini-7b-GGUF/resolve/main/Kunocchini-7b.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Kunocchini-7b.Q6_K.gguf",
+            "size": "5942064768",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "bb74ece5caa1db41063f98523ed26b1cc6d9f47f4c1632cdc357ba23c67b6b3c",
+            "download": {
+                "default": "https://huggingface.co/konz00/Kunocchini-7b-GGUF/resolve/main/Kunocchini-7b.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Kunocchini-7b.Q8_0.gguf",
+            "size": "7695857280",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "22a1ccc2af2f2f63acb6c4b8de4daf56640cc648f592927393f3e0a615316f23",
+            "download": {
+                "default": "https://huggingface.co/konz00/Kunocchini-7b-GGUF/resolve/main/Kunocchini-7b.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

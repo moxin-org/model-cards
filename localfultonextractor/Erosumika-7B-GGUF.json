@@ -1,0 +1,63 @@
+{
+    "id": "localfultonextractor/Erosumika-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "localfultonextractor",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-19T21:06:28Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Erosumika-7B.q3_K_M.gguf",
+            "size": "3518986304",
+            "quantization": "",
+            "tags": [],
+            "sha256": "95c041d8247e82b61d3b424a1467f5fb9b19e10c70be33ae8711b987045ace08",
+            "download": {
+                "default": "https://huggingface.co/localfultonextractor/Erosumika-7B-GGUF/resolve/main/Erosumika-7B.q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Erosumika-7B.q4_K_M.gguf",
+            "size": "4368439360",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b24aef3e5e972e133082898edd1157b33a0f55721e98a7cd4732815c8e69aeb2",
+            "download": {
+                "default": "https://huggingface.co/localfultonextractor/Erosumika-7B-GGUF/resolve/main/Erosumika-7B.q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Erosumika-7B.q5_K_M.gguf",
+            "size": "5131409472",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7a993f20bdc8d9d7b2f3a7c988157f5b1d9a68fbe25a01aa3ab2154028b668c1",
+            "download": {
+                "default": "https://huggingface.co/localfultonextractor/Erosumika-7B-GGUF/resolve/main/Erosumika-7B.q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Erosumika-7B.q8_0.gguf",
+            "size": "7695857728",
+            "quantization": "",
+            "tags": [],
+            "sha256": "45a370f4ccbe17d56e2f56ccd513c8b8ccfb3fdb4643226ac99f76f954dd926f",
+            "download": {
+                "default": "https://huggingface.co/localfultonextractor/Erosumika-7B-GGUF/resolve/main/Erosumika-7B.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

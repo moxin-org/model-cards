@@ -1,0 +1,93 @@
+{
+    "id": "s3nh/Photolens-llama-2-13b-langchain-chat-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "s3nh",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-09-01T11:23:57Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Photolens-llama-2-13b-langchain-chat.Q2_K.gguf",
+            "size": "5429348224",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "95edf4699e009b40c7626309a099d24d52df2b32a899419fcdc5836c76c109ee",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Photolens-llama-2-13b-langchain-chat-GGUF/resolve/main/Photolens-llama-2-13b-langchain-chat.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Photolens-llama-2-13b-langchain-chat.Q3_K_S.gguf",
+            "size": "5658980224",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "ec82827cf1848e656522a9f77869da847a3c2c7776fbc75c59c6dd3ed77cb772",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Photolens-llama-2-13b-langchain-chat-GGUF/resolve/main/Photolens-llama-2-13b-langchain-chat.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Photolens-llama-2-13b-langchain-chat.Q4_K_M.gguf",
+            "size": "7865956224",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "dd8d97007344070e4ad4c296d8be8cde39b6d4120392d4c5f8b71773eb462be8",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Photolens-llama-2-13b-langchain-chat-GGUF/resolve/main/Photolens-llama-2-13b-langchain-chat.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Photolens-llama-2-13b-langchain-chat.Q4_K_S.gguf",
+            "size": "7414331264",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "a7962b37a62507bdeec0df3b1aaaf275aafab89af89c377287740303e48e4e11",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Photolens-llama-2-13b-langchain-chat-GGUF/resolve/main/Photolens-llama-2-13b-langchain-chat.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Photolens-llama-2-13b-langchain-chat.Q5_K_S.gguf",
+            "size": "8972285824",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "d998356d6855405030bc653fc81b662b2eb9da30ce2cb8b0113568785d79706e",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Photolens-llama-2-13b-langchain-chat-GGUF/resolve/main/Photolens-llama-2-13b-langchain-chat.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Photolens-llama-2-13b-langchain-chat.Q6_K.gguf",
+            "size": "10679140224",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "e1d70c68746cf3ff54d43da9944b6dab5d87e727542fe4e80de0e26c942947ac",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Photolens-llama-2-13b-langchain-chat-GGUF/resolve/main/Photolens-llama-2-13b-langchain-chat.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Photolens-llama-2-13b-langchain-chat.Q8_0.gguf",
+            "size": "13831319424",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "0c45bb8ee05fc23572f948752522917ac5a1a981647f7e822d5a0ad716c60a76",
+            "download": {
+                "default": "https://huggingface.co/s3nh/Photolens-llama-2-13b-langchain-chat-GGUF/resolve/main/Photolens-llama-2-13b-langchain-chat.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

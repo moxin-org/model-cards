@@ -1,0 +1,73 @@
+{
+    "id": "prithivida/all-MiniLM-L6-v2-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "prithivida",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-29T02:57:28Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "all-MiniLM-L6-v2-f16.gguf",
+            "size": "45942240",
+            "quantization": "",
+            "tags": [],
+            "sha256": "fce0fa2bf56ec009fd9b4e775f3119e2c568f257e02972f6e1c3afa7db7ded75",
+            "download": {
+                "default": "https://huggingface.co/prithivida/all-MiniLM-L6-v2-gguf/resolve/main/all-MiniLM-L6-v2-f16.gguf"
+            }
+        },
+        {
+            "name": "all-MiniLM-L6-v2-f32.gguf",
+            "size": "91306464",
+            "quantization": "",
+            "tags": [],
+            "sha256": "083fe03371c6c98da1417c002bf3e175ecfb0d7e267903d9c39df0439a412514",
+            "download": {
+                "default": "https://huggingface.co/prithivida/all-MiniLM-L6-v2-gguf/resolve/main/all-MiniLM-L6-v2-f32.gguf"
+            }
+        },
+        {
+            "name": "all-MiniLM-L6-v2-q4_0.gguf",
+            "size": "13336800",
+            "quantization": "",
+            "tags": [],
+            "sha256": "11482d852bcc1e80319db38ff9cc06f8cfd55a195c3b82d14c30e88cba302fbe",
+            "download": {
+                "default": "https://huggingface.co/prithivida/all-MiniLM-L6-v2-gguf/resolve/main/all-MiniLM-L6-v2-q4_0.gguf"
+            }
+        },
+        {
+            "name": "all-MiniLM-L6-v2-q4_1.gguf",
+            "size": "14754400",
+            "quantization": "",
+            "tags": [],
+            "sha256": "db874a9fc73bbe79fd5ca595ca0b90ed455308d09f90c7193350c1f5e0dc3770",
+            "download": {
+                "default": "https://huggingface.co/prithivida/all-MiniLM-L6-v2-gguf/resolve/main/all-MiniLM-L6-v2-q4_1.gguf"
+            }
+        },
+        {
+            "name": "all-MiniLM-L6-v2-q8_0.gguf",
+            "size": "24677856",
+            "quantization": "",
+            "tags": [],
+            "sha256": "408db9f6d9204ffbe31b49dc313d0bb7473fc0e2e357c21ba6da2d42f801e431",
+            "download": {
+                "default": "https://huggingface.co/prithivida/all-MiniLM-L6-v2-gguf/resolve/main/all-MiniLM-L6-v2-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

@@ -1,0 +1,43 @@
+{
+    "id": "mkayhko/laser-dolphin-mixtral-4x7b-dpo.GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mkayhko",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-03T11:27:07Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "laser-dolphin-mixtral-4x7b-dpo-Q3_K_M.gguf",
+            "size": "11580458816",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "95b91273445454d251e7657f3592656a6a77eb4aec73e81e27609e358b6bd2fc",
+            "download": {
+                "default": "https://huggingface.co/mkayhko/laser-dolphin-mixtral-4x7b-dpo.GGUF/resolve/main/laser-dolphin-mixtral-4x7b-dpo-Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "laser-dolphin-mixtral-4x7b-dpo-Q4_K_M.gguf",
+            "size": "14609901376",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "dca6492d07f8300466c140fe8b903e21b4a75cc56dd26051b851d8f3498e439b",
+            "download": {
+                "default": "https://huggingface.co/mkayhko/laser-dolphin-mixtral-4x7b-dpo.GGUF/resolve/main/laser-dolphin-mixtral-4x7b-dpo-Q4_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

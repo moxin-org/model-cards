@@ -1,0 +1,123 @@
+{
+    "id": "dagbs/Phi-Bode-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "dagbs",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-15T03:08:22Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Phi-Bode.Q2_K.gguf",
+            "size": "1109719648",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "273a44fb073bf54156cdbe5d6ad9b09d254df46424f992fcc12234a9ffef3db6",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Phi-Bode-GGUF/resolve/main/Phi-Bode.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Phi-Bode.Q3_K_L.gguf",
+            "size": "1575230048",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "765c4bee5a68b1f0cff4a6a21ab0ea0d7e741a54b8ca21c7c922d209a7437f65",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Phi-Bode-GGUF/resolve/main/Phi-Bode.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Phi-Bode.Q3_K_M.gguf",
+            "size": "1432689248",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "3ee5ed1e47889302f9a2c49a62516e4e5fd9202d551561dbd23fa85f4ff952b4",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Phi-Bode-GGUF/resolve/main/Phi-Bode.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Phi-Bode.Q3_K_S.gguf",
+            "size": "1250826848",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "e125d926c4798a4bcb6792ee15b33f157ae6d9e54b3f491c3ec63bda904b9474",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Phi-Bode-GGUF/resolve/main/Phi-Bode.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Phi-Bode.Q4_K_M.gguf",
+            "size": "1737636448",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4dfa296620d39a0757a9ee7e4cf39b99f658fa00697167749413319c0b65763d",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Phi-Bode-GGUF/resolve/main/Phi-Bode.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Phi-Bode.Q4_K_S.gguf",
+            "size": "1631959648",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "e1231c2e5f2dffaf6071664821e1e3286c10405d3fafbe4b1ab64b07d091d388",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Phi-Bode-GGUF/resolve/main/Phi-Bode.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Phi-Bode.Q5_K_M.gguf",
+            "size": "2003057248",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "1750836ddf22825656c4a802a1080ef559b3b8d56d45f2d2d838987a3ad11842",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Phi-Bode-GGUF/resolve/main/Phi-Bode.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Phi-Bode.Q5_K_S.gguf",
+            "size": "1933425248",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "597791d0189162eecffd75818e76145ef70290bf6fe20b811b6e78a9a0a5cf2d",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Phi-Bode-GGUF/resolve/main/Phi-Bode.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Phi-Bode.Q6_K.gguf",
+            "size": "2285066848",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "c5d03b4e1cad832434e931c1c714ab46c54d9597fc350fc9435c88b9b144570d",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Phi-Bode-GGUF/resolve/main/Phi-Bode.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Phi-Bode.Q8_0.gguf",
+            "size": "2958039648",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "12b7cc270cd968a7e18e7728339c650691d266403341e1cac0ae2b727f6e6aab",
+            "download": {
+                "default": "https://huggingface.co/dagbs/Phi-Bode-GGUF/resolve/main/Phi-Bode.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

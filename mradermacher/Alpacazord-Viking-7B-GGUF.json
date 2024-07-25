@@ -1,0 +1,163 @@
+{
+    "id": "mradermacher/Alpacazord-Viking-7B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "mradermacher",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-04-11T06:21:56Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Alpacazord-Viking-7B.IQ3_M.gguf",
+            "size": "3626805888",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "fdee907944f3317766b75f5d76ce328f6fb7f23574a19098c3dcd1f1e01a853d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Alpacazord-Viking-7B-GGUF/resolve/main/Alpacazord-Viking-7B.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "Alpacazord-Viking-7B.IQ3_S.gguf",
+            "size": "3460246144",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "feb94fcaced81ee3c627a8ca336b82b13b31533019ba6927e69cb04ad99ef286",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Alpacazord-Viking-7B-GGUF/resolve/main/Alpacazord-Viking-7B.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "Alpacazord-Viking-7B.IQ3_XS.gguf",
+            "size": "3308464768",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "9217ed8681c4582c319f5e7563c33d1059cd03ccf5b10324ee575ba44a16e890",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Alpacazord-Viking-7B-GGUF/resolve/main/Alpacazord-Viking-7B.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "Alpacazord-Viking-7B.IQ4_XS.gguf",
+            "size": "4200671872",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "56771aeb72c5a72ba7b7b0b1669d577d2e54b4ecebe50efa7da835902c9e64ec",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Alpacazord-Viking-7B-GGUF/resolve/main/Alpacazord-Viking-7B.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "Alpacazord-Viking-7B.Q2_K.gguf",
+            "size": "3003591296",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "b86bb1e0b67818990e3966aaa109ee6a3255309a31f30202508ffdbf98d071e4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Alpacazord-Viking-7B-GGUF/resolve/main/Alpacazord-Viking-7B.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Alpacazord-Viking-7B.Q3_K_L.gguf",
+            "size": "4109052544",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "0bb6ff1448aeb056ace47593baee744264a7565a09e9aff5d9248383ba2c89a4",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Alpacazord-Viking-7B-GGUF/resolve/main/Alpacazord-Viking-7B.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Alpacazord-Viking-7B.Q3_K_M.gguf",
+            "size": "3809946240",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "50e013c67bf4aed4ce1f439295af1c4146b67a56ba3bdd9c75b7f7f0cde57319",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Alpacazord-Viking-7B-GGUF/resolve/main/Alpacazord-Viking-7B.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "Alpacazord-Viking-7B.Q3_K_S.gguf",
+            "size": "3460246144",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "e88a04268ea9386be028f25513d162dfe2b02893644cbd4b60e1a9dfbca68d7d",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Alpacazord-Viking-7B-GGUF/resolve/main/Alpacazord-Viking-7B.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "Alpacazord-Viking-7B.Q4_K_M.gguf",
+            "size": "4646840960",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5c23f6ae2c6c4874effaa3d870fcaad60846beabf8029005eef2fe370d0fb26f",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Alpacazord-Viking-7B-GGUF/resolve/main/Alpacazord-Viking-7B.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Alpacazord-Viking-7B.Q4_K_S.gguf",
+            "size": "4422576768",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "33b1e543c149ee82197a3ca02e0d55c426c8d6bc8cb39de1283073c224a306f9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Alpacazord-Viking-7B-GGUF/resolve/main/Alpacazord-Viking-7B.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Alpacazord-Viking-7B.Q5_K_M.gguf",
+            "size": "5399718528",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "e5a728541349ce005debad0061814134b70df892519c9856e6acadcc6ef933ef",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Alpacazord-Viking-7B-GGUF/resolve/main/Alpacazord-Viking-7B.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Alpacazord-Viking-7B.Q5_K_S.gguf",
+            "size": "5268253312",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "34269efe773933c8b54403a623a8f20ee33f46671081783893ae814ac06bd890",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Alpacazord-Viking-7B-GGUF/resolve/main/Alpacazord-Viking-7B.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Alpacazord-Viking-7B.Q6_K.gguf",
+            "size": "6199650944",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "1d7c80f6a8a9599868a5f8bb0430422eadc10906b8c32d45bd6192b2d4ae7e88",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Alpacazord-Viking-7B-GGUF/resolve/main/Alpacazord-Viking-7B.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "Alpacazord-Viking-7B.Q8_0.gguf",
+            "size": "8028105344",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "e256b190b530e139ebff58a6ab6ec5ec238067215f11b15a0c36e18c9a1236c9",
+            "download": {
+                "default": "https://huggingface.co/mradermacher/Alpacazord-Viking-7B-GGUF/resolve/main/Alpacazord-Viking-7B.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": null
+}

@@ -1,0 +1,93 @@
+{
+    "id": "afrideva/zephyr-220m-sft-full-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "afrideva",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-20T07:42:47Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "zephyr-220m-sft-full.fp16.gguf",
+            "size": "436502720",
+            "quantization": "",
+            "tags": [],
+            "sha256": "30bb7d8a9902de884127d773b0234efb94f5a34d97a577902f3fe10758f79382",
+            "download": {
+                "default": "https://huggingface.co/afrideva/zephyr-220m-sft-full-GGUF/resolve/main/zephyr-220m-sft-full.fp16.gguf"
+            }
+        },
+        {
+            "name": "zephyr-220m-sft-full.q2_k.gguf",
+            "size": "94430432",
+            "quantization": "",
+            "tags": [],
+            "sha256": "614c93a26e6a14b0f62b1f6c185fb97e203f412b07007a2c3052b9b1dc761a5a",
+            "download": {
+                "default": "https://huggingface.co/afrideva/zephyr-220m-sft-full-GGUF/resolve/main/zephyr-220m-sft-full.q2_k.gguf"
+            }
+        },
+        {
+            "name": "zephyr-220m-sft-full.q3_k_m.gguf",
+            "size": "114651360",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d6bb1018df97fedd1d7697e4881103738a3e6e0af4e1d1520f3fd9980837e37e",
+            "download": {
+                "default": "https://huggingface.co/afrideva/zephyr-220m-sft-full-GGUF/resolve/main/zephyr-220m-sft-full.q3_k_m.gguf"
+            }
+        },
+        {
+            "name": "zephyr-220m-sft-full.q4_k_m.gguf",
+            "size": "137581792",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2ba37270a4c52d5d50d668ae84a61282bb055ec189875085f91b14863e74547b",
+            "download": {
+                "default": "https://huggingface.co/afrideva/zephyr-220m-sft-full-GGUF/resolve/main/zephyr-220m-sft-full.q4_k_m.gguf"
+            }
+        },
+        {
+            "name": "zephyr-220m-sft-full.q5_k_m.gguf",
+            "size": "157914336",
+            "quantization": "",
+            "tags": [],
+            "sha256": "19fb8dc52d906f8e388dd2d2b0ab9534dd247ce06c5ab08721c0087b7eb7000b",
+            "download": {
+                "default": "https://huggingface.co/afrideva/zephyr-220m-sft-full-GGUF/resolve/main/zephyr-220m-sft-full.q5_k_m.gguf"
+            }
+        },
+        {
+            "name": "zephyr-220m-sft-full.q6_k.gguf",
+            "size": "179517664",
+            "quantization": "",
+            "tags": [],
+            "sha256": "4eb3ba93db0e185bc251527a3a4ea7121866611b781bb309b419a38a310c265e",
+            "download": {
+                "default": "https://huggingface.co/afrideva/zephyr-220m-sft-full-GGUF/resolve/main/zephyr-220m-sft-full.q6_k.gguf"
+            }
+        },
+        {
+            "name": "zephyr-220m-sft-full.q8_0.gguf",
+            "size": "232276192",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f7fabb2d8d491d149601517b58fd9baa02aa7662e0103a747b39b45b5e579b62",
+            "download": {
+                "default": "https://huggingface.co/afrideva/zephyr-220m-sft-full-GGUF/resolve/main/zephyr-220m-sft-full.q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

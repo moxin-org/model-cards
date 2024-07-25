@@ -1,0 +1,173 @@
+{
+    "id": "KoboldAI/Mistral-7B-Holodeck-1-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "KoboldAI",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-14T12:10:33Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "mistral7b-holodeck-v1.F16.gguf",
+            "size": "14484731488",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f7f43563b0f93d0a1dcf1d65cfce07cfb6fffc91a92feef4bbab5ffae6906228",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/Mistral-7B-Holodeck-1-GGUF/resolve/main/mistral7b-holodeck-v1.F16.gguf"
+            }
+        },
+        {
+            "name": "mistral7b-holodeck-v1.Q2_K.gguf",
+            "size": "3083097760",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "c6426f104b5eae4bfb916c8ef10cc70b94b03e519c65fb1de397de786c8fa7ef",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/Mistral-7B-Holodeck-1-GGUF/resolve/main/mistral7b-holodeck-v1.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "mistral7b-holodeck-v1.Q3_K_L.gguf",
+            "size": "3822024352",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "9d8e1ae3d3a0133a380336cca8a49e69fe6618a57c7b8b3efe53838cd13979ae",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/Mistral-7B-Holodeck-1-GGUF/resolve/main/mistral7b-holodeck-v1.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "mistral7b-holodeck-v1.Q3_K_M.gguf",
+            "size": "3518985888",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "5fc93fc3c84ccfbd98b4295a9e3cf16139d0fb9fd924126c8e48feb6ac6937f0",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/Mistral-7B-Holodeck-1-GGUF/resolve/main/mistral7b-holodeck-v1.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral7b-holodeck-v1.Q3_K_S.gguf",
+            "size": "3164567200",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "f9f4746773494ccfebc31778fa9c64dd734eb518d2999da92aa5d6b1a42468b8",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/Mistral-7B-Holodeck-1-GGUF/resolve/main/mistral7b-holodeck-v1.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "mistral7b-holodeck-v1.Q4_0.gguf",
+            "size": "4108916384",
+            "quantization": "Q4_0",
+            "tags": [],
+            "sha256": "179df0a96c491224aaf420b196d3bd5a2536d621ec3b3500b4c235b2e850fd42",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/Mistral-7B-Holodeck-1-GGUF/resolve/main/mistral7b-holodeck-v1.Q4_0.gguf"
+            }
+        },
+        {
+            "name": "mistral7b-holodeck-v1.Q4_1.gguf",
+            "size": "4553316000",
+            "quantization": "Q4_1",
+            "tags": [],
+            "sha256": "b6806d2920e96dd376717a7e44d6e58f72c4874f2145799c9d7da74764e2435a",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/Mistral-7B-Holodeck-1-GGUF/resolve/main/mistral7b-holodeck-v1.Q4_1.gguf"
+            }
+        },
+        {
+            "name": "mistral7b-holodeck-v1.Q4_K_M.gguf",
+            "size": "4368438944",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "5f583ad62b8ac501d0cb24edfffa938e0173de3dd7f95049739324bbf9b6bf29",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/Mistral-7B-Holodeck-1-GGUF/resolve/main/mistral7b-holodeck-v1.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral7b-holodeck-v1.Q4_K_S.gguf",
+            "size": "4140373664",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "b8fab1815a5c4f11bc5c79f70df8865e1ee0805df516c27a9d9cb3dbf6153ac3",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/Mistral-7B-Holodeck-1-GGUF/resolve/main/mistral7b-holodeck-v1.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "mistral7b-holodeck-v1.Q5_0.gguf",
+            "size": "4997715616",
+            "quantization": "Q5_0",
+            "tags": [],
+            "sha256": "3731f54efa4002a6a180d51b03d4fc17b3d8e05d7067d65761d213e102dc186e",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/Mistral-7B-Holodeck-1-GGUF/resolve/main/mistral7b-holodeck-v1.Q5_0.gguf"
+            }
+        },
+        {
+            "name": "mistral7b-holodeck-v1.Q5_1.gguf",
+            "size": "5442115232",
+            "quantization": "Q5_1",
+            "tags": [],
+            "sha256": "d1bdc4a186a8bd2ae9717ed323a80df665a737de45e1fa631929e82371932782",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/Mistral-7B-Holodeck-1-GGUF/resolve/main/mistral7b-holodeck-v1.Q5_1.gguf"
+            }
+        },
+        {
+            "name": "mistral7b-holodeck-v1.Q5_K_M.gguf",
+            "size": "5131409056",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "b9c6d69ce5fb5c41dfb0042f9cc0351ba5d5e36d684ce99a48c2233fd597b81f",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/Mistral-7B-Holodeck-1-GGUF/resolve/main/mistral7b-holodeck-v1.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "mistral7b-holodeck-v1.Q5_K_S.gguf",
+            "size": "4997715616",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "285eea6a52175e9744c6d14320c80bdb6dd99d50341bff35edbbac79466ec10e",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/Mistral-7B-Holodeck-1-GGUF/resolve/main/mistral7b-holodeck-v1.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "mistral7b-holodeck-v1.Q6_K.gguf",
+            "size": "5942064800",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "443cc15865a030ff37eaa861b2006cc515324172203a7c14d16e390a577a3ade",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/Mistral-7B-Holodeck-1-GGUF/resolve/main/mistral7b-holodeck-v1.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "mistral7b-holodeck-v1.Q8_0.gguf",
+            "size": "7695857312",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "632b73d68eaa44042b65705826fec8e014114d9196c7fd79616a0580d35b6833",
+            "download": {
+                "default": "https://huggingface.co/KoboldAI/Mistral-7B-Holodeck-1-GGUF/resolve/main/mistral7b-holodeck-v1.Q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

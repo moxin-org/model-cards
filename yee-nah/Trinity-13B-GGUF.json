@@ -1,0 +1,43 @@
+{
+    "id": "yee-nah/Trinity-13B-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "yee-nah",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-20T16:20:34Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "trinity-13b.Q4_K_M.gguf",
+            "size": "7866070080",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "96e9d306480b6dee210d4f78c63b4273281c873099feeba7aa2838016bf91901",
+            "download": {
+                "default": "https://huggingface.co/yee-nah/Trinity-13B-GGUF/resolve/main/trinity-13b.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "trinity-13b.Q5_K_M.gguf",
+            "size": "9230048320",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "f29c1e55e8c4a2a52205a63cd0b3e4f9613f637e5fb33f5c4266f0493ed827fb",
+            "download": {
+                "default": "https://huggingface.co/yee-nah/Trinity-13B-GGUF/resolve/main/trinity-13b.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

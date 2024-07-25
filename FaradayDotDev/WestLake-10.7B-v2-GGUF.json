@@ -1,0 +1,243 @@
+{
+    "id": "FaradayDotDev/WestLake-10.7B-v2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "FaradayDotDev",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-03-20T16:52:07Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "WestLake-10.7B-v2.Q2_K_S.gguf",
+            "size": "3717757088",
+            "quantization": "Q2_K_S",
+            "tags": [],
+            "sha256": "2a8cca2550e42c452190fbf6ce1a43b0a2fbcacb86d60fbf54ba22b0e7e181a5",
+            "download": {
+                "default": "https://huggingface.co/FaradayDotDev/WestLake-10.7B-v2-GGUF/resolve/main/WestLake-10.7B-v2.Q2_K_S.gguf"
+            }
+        },
+        {
+            "name": "WestLake-10.7B-v2.Q8_0.gguf",
+            "size": "11404155040",
+            "quantization": "Q8_0",
+            "tags": [],
+            "sha256": "3294dce77d460b4e6447db9a548b984edfe4b23c7f74deb4aece3c8f05621174",
+            "download": {
+                "default": "https://huggingface.co/FaradayDotDev/WestLake-10.7B-v2-GGUF/resolve/main/WestLake-10.7B-v2.Q8_0.gguf"
+            }
+        },
+        {
+            "name": "WestLake-10.7B-v2.Q6_K.gguf",
+            "size": "8805210272",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "20ffef9f9de27398572f2d1faf17f753e54fd351f71146531ec435c2003a47bf",
+            "download": {
+                "default": "https://huggingface.co/FaradayDotDev/WestLake-10.7B-v2-GGUF/resolve/main/WestLake-10.7B-v2.Q6_K.gguf"
+            }
+        },
+        {
+            "name": "WestLake-10.7B-v2.Q5_K_S.gguf",
+            "size": "7397390496",
+            "quantization": "Q5_K_S",
+            "tags": [],
+            "sha256": "fa558005b5a3d2480ac8948aeab31da611e94fc627cc8bdcdb6e96d09f198027",
+            "download": {
+                "default": "https://huggingface.co/FaradayDotDev/WestLake-10.7B-v2-GGUF/resolve/main/WestLake-10.7B-v2.Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "WestLake-10.7B-v2.Q5_K_M.gguf",
+            "size": "7597930656",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "3d7dd2f850ca236f3964cbe6d1b7173170983a4b2c3969b4a7ed97ff794e8eda",
+            "download": {
+                "default": "https://huggingface.co/FaradayDotDev/WestLake-10.7B-v2-GGUF/resolve/main/WestLake-10.7B-v2.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "WestLake-10.7B-v2.Q4_K_S.gguf",
+            "size": "6118520992",
+            "quantization": "Q4_K_S",
+            "tags": [],
+            "sha256": "1b549d3254efde3005fb1434a1a2b2c9aad0f45677c87d644ac4fecde19cdb10",
+            "download": {
+                "default": "https://huggingface.co/FaradayDotDev/WestLake-10.7B-v2-GGUF/resolve/main/WestLake-10.7B-v2.Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "WestLake-10.7B-v2.Q4_K_M.gguf",
+            "size": "6461667488",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "36f60b3561a57e73d194da6d76ea1c76b3c5bdf1e2d3a8fb29e207ed6291e9cc",
+            "download": {
+                "default": "https://huggingface.co/FaradayDotDev/WestLake-10.7B-v2-GGUF/resolve/main/WestLake-10.7B-v2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "WestLake-10.7B-v2.Q3_K_S.gguf",
+            "size": "4664563872",
+            "quantization": "Q3_K_S",
+            "tags": [],
+            "sha256": "0d33a0de14e45237c3ce8cbce86e600a02633179449aa0e5cef5ee46138cfba3",
+            "download": {
+                "default": "https://huggingface.co/FaradayDotDev/WestLake-10.7B-v2-GGUF/resolve/main/WestLake-10.7B-v2.Q3_K_S.gguf"
+            }
+        },
+        {
+            "name": "WestLake-10.7B-v2.Q3_K_M.gguf",
+            "size": "5195667616",
+            "quantization": "Q3_K_M",
+            "tags": [],
+            "sha256": "4c8bdf22f9b2d104537185eff126937b02b55bbcb434135898ab5d78235a9239",
+            "download": {
+                "default": "https://huggingface.co/FaradayDotDev/WestLake-10.7B-v2-GGUF/resolve/main/WestLake-10.7B-v2.Q3_K_M.gguf"
+            }
+        },
+        {
+            "name": "WestLake-10.7B-v2.Q3_K_L.gguf",
+            "size": "5650749600",
+            "quantization": "Q3_K_L",
+            "tags": [],
+            "sha256": "5bde49b94be113e5d8b622841983666c45bddaae81ac531694d9c8e557884d48",
+            "download": {
+                "default": "https://huggingface.co/FaradayDotDev/WestLake-10.7B-v2-GGUF/resolve/main/WestLake-10.7B-v2.Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "WestLake-10.7B-v2.Q2_K.gguf",
+            "size": "4003231904",
+            "quantization": "Q2_K",
+            "tags": [],
+            "sha256": "ad184ded4e251e11e8acba91dfbab5985594b38860a95257b93fe6dedb8b50f3",
+            "download": {
+                "default": "https://huggingface.co/FaradayDotDev/WestLake-10.7B-v2-GGUF/resolve/main/WestLake-10.7B-v2.Q2_K.gguf"
+            }
+        },
+        {
+            "name": "WestLake-10.7B-v2.F16.gguf",
+            "size": "21464586336",
+            "quantization": "",
+            "tags": [],
+            "sha256": "abc076606eb700f0d775eb11cf3d8975979af550aa9b068538f180de554cc99f",
+            "download": {
+                "default": "https://huggingface.co/FaradayDotDev/WestLake-10.7B-v2-GGUF/resolve/main/WestLake-10.7B-v2.F16.gguf"
+            }
+        },
+        {
+            "name": "WestLake-10.7B-v2.IQ4_XS.gguf",
+            "size": "5772589216",
+            "quantization": "Q4_XS",
+            "tags": [],
+            "sha256": "98f784b79544e15f18083eb273451b7e6390df3b395c682c0f73f309db164ba7",
+            "download": {
+                "default": "https://huggingface.co/FaradayDotDev/WestLake-10.7B-v2-GGUF/resolve/main/WestLake-10.7B-v2.IQ4_XS.gguf"
+            }
+        },
+        {
+            "name": "WestLake-10.7B-v2.IQ3_XXS.gguf",
+            "size": "4167432352",
+            "quantization": "Q3_XXS",
+            "tags": [],
+            "sha256": "c33fbb53fae4943f5f5f51b9bfd8201caaa1c90c687fde2bf6c2ea7db30ab248",
+            "download": {
+                "default": "https://huggingface.co/FaradayDotDev/WestLake-10.7B-v2-GGUF/resolve/main/WestLake-10.7B-v2.IQ3_XXS.gguf"
+            }
+        },
+        {
+            "name": "WestLake-10.7B-v2.IQ3_XS.gguf",
+            "size": "4419197088",
+            "quantization": "Q3_XS",
+            "tags": [],
+            "sha256": "8997ffb8112e11b1fd52b429dc2c2c4df0d442fc80d7c5cf15e02028ed67ea74",
+            "download": {
+                "default": "https://huggingface.co/FaradayDotDev/WestLake-10.7B-v2-GGUF/resolve/main/WestLake-10.7B-v2.IQ3_XS.gguf"
+            }
+        },
+        {
+            "name": "WestLake-10.7B-v2.IQ3_S.gguf",
+            "size": "4691302560",
+            "quantization": "Q3_S",
+            "tags": [],
+            "sha256": "5e3b6eb1c6f612ddc29be1114dd15300399bdd635ba05e7837cefa138d60f14b",
+            "download": {
+                "default": "https://huggingface.co/FaradayDotDev/WestLake-10.7B-v2-GGUF/resolve/main/WestLake-10.7B-v2.IQ3_S.gguf"
+            }
+        },
+        {
+            "name": "WestLake-10.7B-v2.IQ3_M.gguf",
+            "size": "4845050016",
+            "quantization": "Q3_M",
+            "tags": [],
+            "sha256": "cccbe1b78e98f408d299ca1608fd106d68a0fda11f442c07ef42156bdc3263d4",
+            "download": {
+                "default": "https://huggingface.co/FaradayDotDev/WestLake-10.7B-v2-GGUF/resolve/main/WestLake-10.7B-v2.IQ3_M.gguf"
+            }
+        },
+        {
+            "name": "WestLake-10.7B-v2.IQ2_XXS.gguf",
+            "size": "2920601760",
+            "quantization": "Q2_XXS",
+            "tags": [],
+            "sha256": "eff54325b1025da45dd6e00f007d0566614f991bc41b0a059abb3b8d4fdee13a",
+            "download": {
+                "default": "https://huggingface.co/FaradayDotDev/WestLake-10.7B-v2-GGUF/resolve/main/WestLake-10.7B-v2.IQ2_XXS.gguf"
+            }
+        },
+        {
+            "name": "WestLake-10.7B-v2.IQ2_XS.gguf",
+            "size": "3230455968",
+            "quantization": "Q2_XS",
+            "tags": [],
+            "sha256": "3279a7504f90aa2db512e64c615b5c3b83bdcdd2564f4822c7259c13db1f0045",
+            "download": {
+                "default": "https://huggingface.co/FaradayDotDev/WestLake-10.7B-v2-GGUF/resolve/main/WestLake-10.7B-v2.IQ2_XS.gguf"
+            }
+        },
+        {
+            "name": "WestLake-10.7B-v2.IQ2_S.gguf",
+            "size": "3392796832",
+            "quantization": "Q2_S",
+            "tags": [],
+            "sha256": "6598c13a58d20ffbd831049fb7881a597b2f69639aa4daf3e28331b74010eeab",
+            "download": {
+                "default": "https://huggingface.co/FaradayDotDev/WestLake-10.7B-v2-GGUF/resolve/main/WestLake-10.7B-v2.IQ2_S.gguf"
+            }
+        },
+        {
+            "name": "WestLake-10.7B-v2.IQ2_M.gguf",
+            "size": "3677485216",
+            "quantization": "Q2_M",
+            "tags": [],
+            "sha256": "d0c0d28d380c162f75db73e375939d01815860afafdbafc42926e7e46e06f9a7",
+            "download": {
+                "default": "https://huggingface.co/FaradayDotDev/WestLake-10.7B-v2-GGUF/resolve/main/WestLake-10.7B-v2.IQ2_M.gguf"
+            }
+        },
+        {
+            "name": "WestLake-10.7B-v2.IQ1_S.gguf",
+            "size": "2351224992",
+            "quantization": "Q1_S",
+            "tags": [],
+            "sha256": "90925216463256da658762af9589512213b85a976a559ee96a8a56bc828b362f",
+            "download": {
+                "default": "https://huggingface.co/FaradayDotDev/WestLake-10.7B-v2-GGUF/resolve/main/WestLake-10.7B-v2.IQ1_S.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

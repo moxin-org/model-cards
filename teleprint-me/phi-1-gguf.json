@@ -1,0 +1,63 @@
+{
+    "id": "teleprint-me/phi-1-gguf",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "teleprint-me",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2023-12-20T22:38:49Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "ggml-model-f16.gguf",
+            "size": "2839534944",
+            "quantization": "",
+            "tags": [],
+            "sha256": "2ab296bd2812a44b3575020b98bdf35a5ed8b65c1f213eb354a9a3682cc866ae",
+            "download": {
+                "default": "https://huggingface.co/teleprint-me/phi-1-gguf/resolve/main/ggml-model-f16.gguf"
+            }
+        },
+        {
+            "name": "phi-1-q4_K.gguf",
+            "size": "918314400",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a2e1632d855d3ab1d7553b392270a7a59d85564dc1a50bee403d6856ece1232f",
+            "download": {
+                "default": "https://huggingface.co/teleprint-me/phi-1-gguf/resolve/main/phi-1-q4_K.gguf"
+            }
+        },
+        {
+            "name": "phi-1-q6_K.gguf",
+            "size": "1167121824",
+            "quantization": "",
+            "tags": [],
+            "sha256": "e8d11c6a67d9981176b36a4b1e415b198df7a8c27c3802b67ae6ea8640f936d0",
+            "download": {
+                "default": "https://huggingface.co/teleprint-me/phi-1-gguf/resolve/main/phi-1-q6_K.gguf"
+            }
+        },
+        {
+            "name": "phi-1-q8_0.gguf",
+            "size": "1510464928",
+            "quantization": "",
+            "tags": [],
+            "sha256": "395d31d716a21026dd63b1f9bc198b5a31749b210a353370e10cc926a7736201",
+            "download": {
+                "default": "https://huggingface.co/teleprint-me/phi-1-gguf/resolve/main/phi-1-q8_0.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

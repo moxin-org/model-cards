@@ -1,0 +1,53 @@
+{
+    "id": "Kukedlc/sqlcoder-7b-2-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "Kukedlc",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-07T20:28:37Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "sqlcoder-7b-2.Q4_K_M.gguf",
+            "size": "4081095392",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "3c594be79c1d87f69171340c2f5df6dfd74f8c059b8df2bc27e5746b5da30824",
+            "download": {
+                "default": "https://huggingface.co/Kukedlc/sqlcoder-7b-2-GGUF/resolve/main/sqlcoder-7b-2.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "sqlcoder-7b-2.Q5_K_M.gguf",
+            "size": "4783256288",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "c27b0befaa33624f04c8c1eb8ecb3b4c2e3c541483fd3df069df6ee489defda0",
+            "download": {
+                "default": "https://huggingface.co/Kukedlc/sqlcoder-7b-2-GGUF/resolve/main/sqlcoder-7b-2.Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "sqlcoder-7b-q5_k_m.gguf",
+            "size": "4783256288",
+            "quantization": "",
+            "tags": [],
+            "sha256": "0068f25d1fc37cb25aa6be85064432eeeb1a0754d97139c0d2eb3529fc8fc32b",
+            "download": {
+                "default": "https://huggingface.co/Kukedlc/sqlcoder-7b-2-GGUF/resolve/main/sqlcoder-7b-q5_k_m.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

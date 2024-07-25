@@ -1,0 +1,43 @@
+{
+    "id": "PoojaBhati/Recipe_Ingrident-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "PoojaBhati",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-01-24T15:56:41Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "recipe_ingrident.Q4_K_M.gguf",
+            "size": "4081004256",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "4b350c55590d6b0bffccc197f69552a4dda10b3199e126551328c7e4166fba85",
+            "download": {
+                "default": "https://huggingface.co/PoojaBhati/Recipe_Ingrident-GGUF/resolve/main/recipe_ingrident.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "recipe_ingrident.Q5_K_M.gguf",
+            "size": "4783156960",
+            "quantization": "Q5_K_M",
+            "tags": [],
+            "sha256": "dd8305cbf13a6f20d7ddaf9783c5dd520d1e24b5d2097b3928d28abad6def929",
+            "download": {
+                "default": "https://huggingface.co/PoojaBhati/Recipe_Ingrident-GGUF/resolve/main/recipe_ingrident.Q5_K_M.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}

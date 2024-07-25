@@ -1,0 +1,43 @@
+{
+    "id": "datatab/Yugo55-GPT-v4-Quantized-GGUF",
+    "status": "init",
+    "model_type": "unknown",
+    "name": "",
+    "summary": "",
+    "author": {
+        "name": "datatab",
+        "url": "",
+        "description": ""
+    },
+    "size": "",
+    "requires": "",
+    "released_at": "2024-02-29T22:06:01Z",
+    "architecture": "",
+    "files": [
+        {
+            "name": "Yugo55-GPT-v4-Quantized-GGUF.Q4_K_M.gguf",
+            "size": "4368439264",
+            "quantization": "Q4_K_M",
+            "tags": [],
+            "sha256": "1908f72a14b2e3d2cf4115c2ef8c47980474e228cca02322bd702c1528dd911f",
+            "download": {
+                "default": "https://huggingface.co/datatab/Yugo55-GPT-v4-Quantized-GGUF/resolve/main/Yugo55-GPT-v4-Quantized-GGUF.Q4_K_M.gguf"
+            }
+        },
+        {
+            "name": "Yugo55-GPT-v4-Quantized-GGUF.Q6_K.gguf",
+            "size": "5942065120",
+            "quantization": "Q6_K",
+            "tags": [],
+            "sha256": "f44caec6045b829fc80049450e7ea21de1c7e4d0d0374ccc209ea48671eed80c",
+            "download": {
+                "default": "https://huggingface.co/datatab/Yugo55-GPT-v4-Quantized-GGUF/resolve/main/Yugo55-GPT-v4-Quantized-GGUF.Q6_K.gguf"
+            }
+        }
+    ],
+    "prompt_template": "",
+    "reverse_prompt": "",
+    "context_size": 0,
+    "vector_size": 0,
+    "metrics": {}
+}
