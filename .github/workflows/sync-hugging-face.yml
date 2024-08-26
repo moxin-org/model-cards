@@ -1,0 +1,23 @@
+name: Update Index Release
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Fetch from huggingface
+      run: |
+        python sync-model.py
+
+    - name: update the release index.json
+      run: |
+        gh release upload index_release index.json --clobber
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
