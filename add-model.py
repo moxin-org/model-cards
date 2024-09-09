@@ -94,11 +94,12 @@ def save_model_card(model_card):
 
 file_path = "./index.json"
 model_id = sys.argv[1]
+prompt_template = sys.argv[2]
 
 indexs = read_index(file_path)
 
 model_index, model_card = parse_to_model_cards(
-    get_huggingface_models(model_id), True, "chat", prompt_template="phi-3-chat"
+    get_huggingface_models(model_id), True, "chat", prompt_template=prompt_template
 )
 
 indexs.append(model_index)
