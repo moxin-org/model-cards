@@ -1,796 +1,206 @@
 [
     {
-        "id": "second-state/Mistral-Nemo-Instruct-2407-GGUF",
-        "name": "",
+        "id": "second-state/Qwen2.5-Coder-1.5B-Instruct-GGUF",
+        "name": "Qwen2.5 Coder 1.5B Instruct",
         "architecture": "",
         "model_type": "unknown"
     },
     {
-        "id": "second-state/StarCoder2-15B-GGUF",
-        "name": "StarCoder2-15B-GGUF",
+        "id": "second-state/Qwen2.5-Coder-7B-Instruct-GGUF",
+        "name": "Qwen2.5 Coder 7B Instruct",
         "architecture": "",
         "model_type": "unknown"
     },
     {
-        "id": "second-state/stablelm-2-zephyr-1.6b-GGUF",
-        "name": "",
+        "id": "second-state/Qwen2.5-Math-1.5B-Instruct-GGUF",
+        "name": "Qwen2.5 Math 1.5B Instruct",
         "architecture": "",
         "model_type": "unknown"
     },
     {
-        "id": "second-state/Gemma-7b-it-GGUF",
-        "name": "",
+        "id": "second-state/Qwen2.5-Math-7B-Instruct-GGUF",
+        "name": "Qwen2.5 Math 7B Instruct",
         "architecture": "",
         "model_type": "unknown"
     },
     {
-        "id": "second-state/Baichuan2-13B-Chat-GGUF",
-        "name": "",
+        "id": "second-state/Qwen2.5-0.5B-Instruct-GGUF",
+        "name": "Qwen2.5 0.5B Instruct",
         "architecture": "",
         "model_type": "unknown"
     },
     {
-        "id": "second-state/StarCoder2-7B-GGUF",
-        "name": "",
-        "architecture": "",
-        "featured": true,
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Wizard-Vicuna-13B-Uncensored-GGUF",
-        "name": "",
+        "id": "second-state/Qwen2.5-1.5B-Instruct-GGUF",
+        "name": "Qwen2.5 1.5B Instruct",
         "architecture": "",
         "model_type": "unknown"
     },
     {
-        "id": "second-state/Llama-3-8B-Instruct-GGUF",
-        "name": "Llama-3-8B-Instruct-GGUF",
-        "architecture": "llama",
-        "featured": true,
-        "model_type": "instruct",
-        "like_count": 8,
-        "download_count": 4059
-    },
-    {
-        "id": "second-state/Orca-2-13B-GGUF",
-        "name": "",
+        "id": "second-state/Qwen2.5-3B-Instruct-GGUF",
+        "name": "Qwen2.5 3B Instruct",
         "architecture": "",
         "model_type": "unknown"
     },
     {
-        "id": "second-state/Deepseek-Coder-6.7B-Instruct-GGUF",
-        "name": "",
+        "id": "second-state/Qwen2.5-7B-Instruct-GGUF",
+        "name": "Qwen2.5 7B Instruct",
         "architecture": "",
         "model_type": "unknown"
     },
     {
-        "id": "second-state/Octopus-v2-GGUF",
-        "name": "",
+        "id": "second-state/Qwen2.5-14B-Instruct-GGUF",
+        "name": "Qwen2.5 14B Instruct",
         "architecture": "",
         "model_type": "unknown"
     },
     {
-        "id": "second-state/StarCoder2-3B-GGUF",
-        "name": "",
+        "id": "second-state/Qwen2.5-32B-Instruct-GGUF",
+        "name": "Qwen2.5 32B Instruct",
         "architecture": "",
         "model_type": "unknown"
     },
     {
-        "id": "second-state/Yi-1.5-9B-Chat-16K-GGUF",
-        "name": "",
+        "id": "second-state/Qwen2.5-72B-Instruct-GGUF",
+        "name": "Qwen2.5 72B Instruct",
         "architecture": "",
         "model_type": "unknown"
     },
     {
-        "id": "second-state/Dolphin-2.7-mixtral-8x7b-GGUF",
-        "name": "Mixtral 8x7b with Dolphin 2.7",
-        "architecture": "Llama2",
-        "featured": true,
-        "model_type": "instruct",
-        "like_count": 5,
-        "download_count": 460
-    },
-    {
-        "id": "second-state/E5-Mistral-7B-Instruct-Embedding-GGUF",
-        "name": "",
+        "id": "second-state/DeepSeek-V2.5-GGUF",
+        "name": "DeepSeek V2.5",
         "architecture": "",
         "model_type": "unknown"
     },
     {
-        "id": "second-state/gemma-2-27b-it-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Mixtral-8x7B-Instruct-v0.1-GGUF",
-        "name": "Mixtral 8x7b",
-        "architecture": "Llama2",
-        "featured": true,
-        "model_type": "instruct",
-        "like_count": 5,
-        "download_count": 386
-    },
-    {
-        "id": "second-state/Qwen1.5-14B-Chat-GGUF",
-        "name": "Qwen1.5-14B-Chat-GGUF",
-        "architecture": "qwen",
-        "featured": true,
-        "model_type": "chat",
-        "like_count": 4,
-        "download_count": 7492
-    },
-    {
-        "id": "second-state/Yi-1.5-34B-Chat-GGUF",
-        "name": "Yi-1.5 34B chat",
-        "architecture": "",
-        "featured": true,
-        "model_type": "chat",
-        "like_count": 4,
-        "download_count": 176
-    },
-    {
-        "id": "second-state/Yi-1.5-6B-Chat-GGUF",
-        "name": "Yi-1.5 6B Chat",
-        "architecture": "",
-        "featured": true,
-        "model_type": "chat",
-        "like_count": 4,
-        "download_count": 1188
-    },
-    {
-        "id": "second-state/Baichuan2-7B-Chat-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Gemma-2b-it-GGUF",
-        "name": "Gemma-2b-it-GGUF",
-        "architecture": "gemma",
-        "featured": true,
-        "model_type": "instruct",
-        "like_count": 4,
-        "download_count": 830
-    },
-    {
-        "id": "second-state/glm-4-9b-chat-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Meta-Llama-3-70B-Instruct-GGUF",
-        "name": "Meta-Llama-3-70B-Instruct-GGUF",
-        "architecture": "llama",
-        "featured": true,
-        "model_type": "instruct",
-        "like_count": 4,
-        "download_count": 455
-    },
-    {
-        "id": "second-state/Nous-Hermes-2-Mixtral-8x7B-SFT-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/OpenHermes-2.5-Mistral-7B-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Deepseek-LLM-7B-Chat-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/gemma-2-9b-it-GGUF",
-        "name": "Gemma 2 9b",
-        "architecture": "",
-        "featured": true,
-        "model_type": "chat",
-        "like_count": 4,
-        "download_count": 4256
-    },
-    {
-        "id": "second-state/Llama-3-8B-Instruct-Gradient-1048k-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Llama-3-8B-Japanese-Instruct-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/OpenChat-3.5-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Phi-3-mini-4k-instruct-GGUF",
-        "name": "Phi-3-mini-4k-instruct",
-        "architecture": "llama",
-        "featured": true,
-        "model_type": "instruct",
-        "like_count": 3,
-        "download_count": 837
-    },
-    {
-        "id": "second-state/Qwen1.5-0.5B-Chat-GGUF",
-        "name": "Qwen1.5-0.5B-Chat-GGUF",
-        "architecture": "qwen",
-        "featured": true,
-        "model_type": "chat",
-        "like_count": 3,
-        "download_count": 1021
-    },
-    {
-        "id": "second-state/Starling-LM-7B-alpha-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Yi-1.5-34B-Chat-16K-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Qwen1.5-1.8B-Chat-GGUF",
-        "name": "Qwen1.5-1.8B-Chat-GGUF",
-        "architecture": "qwen",
-        "featured": true,
-        "model_type": "chat",
-        "like_count": 2,
-        "download_count": 535
-    },
-    {
-        "id": "second-state/Qwen1.5-110B-Chat-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Samantha-1.11-CodeLlama-34B-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/stable-diffusion-v-1-4-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/stable-diffusion-v1-5-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/WizardCoder-Python-7B-v1.0-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Yi-1.5-9B-Chat-GGUF",
-        "name": "Yi-1.5 9B Chat",
-        "architecture": "",
-        "featured": true,
-        "model_type": "chat",
-        "like_count": 3,
-        "download_count": 4841
-    },
-    {
-        "id": "second-state/Yi-34Bx2-MoE-60B-GGUF",
-        "name": "Yi 2x34B",
-        "architecture": "Llama2",
-        "featured": true,
-        "model_type": "chat",
-        "like_count": 2,
-        "download_count": 293
-    },
-    {
-        "id": "second-state/All-MiniLM-L6-v2-Embedding-GGUF",
-        "name": "Sentence Transformers MiniLM",
-        "architecture": "llama",
-        "model_type": "embedding"
-    },
-    {
-        "id": "second-state/CodeLlama-13B-Instruct-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/CodeLlama-70b-Instruct-hf-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/CodeQwen1.5-7B-Chat-GGUF",
-        "name": "",
+        "id": "second-state/DeepSeek-Coder-V2-Instruct-GGUF",
+        "name": "DeepSeek Coder V2 Instruct",
         "architecture": "",
         "model_type": "unknown"
     },
     {
         "id": "second-state/DeepSeek-Coder-V2-Lite-Instruct-GGUF",
-        "name": "",
+        "name": "DeepSeek Coder V2 Lite Instruct",
         "architecture": "",
         "model_type": "unknown"
     },
     {
-        "id": "second-state/Gemma-2-9B-Chinese-Chat-GGUF",
-        "name": "",
+        "id": "second-state/Yi-Coder-1.5B-Chat-GGUF",
+        "name": "Yi Coder 1.5B Chat",
         "architecture": "",
         "model_type": "unknown"
     },
     {
-        "id": "second-state/gte-Qwen2-1.5B-instruct-GGUF",
-        "name": "",
+        "id": "second-state/Yi-Coder-9B-Chat-GGUF",
+        "name": "Yi Coder 9B Chat",
         "architecture": "",
         "model_type": "unknown"
     },
     {
-        "id": "second-state/Hermes-2-Pro-Llama-3-8B-GGUF",
-        "name": "",
+        "id": "second-state/Yi-1.5-9B-Chat-16K-GGUF",
+        "name": "Yi 1.5 9B Chat 16K",
         "architecture": "",
         "model_type": "unknown"
     },
     {
-        "id": "second-state/Llama-2-13B-Chat-GGUF",
-        "name": "Llama-2-13B-Chat-GGUF",
-        "architecture": "llama",
-        "featured": true,
-        "model_type": "chat",
-        "like_count": 2,
-        "download_count": 433
-    },
-    {
-        "id": "second-state/Llama-2-7B-Chat-GGUF",
-        "name": "Llama-2-7B-Chat-GGUF",
-        "architecture": "llama",
-        "featured": true,
-        "model_type": "chat",
-        "like_count": 2,
-        "download_count": 1149
-    },
-    {
-        "id": "second-state/Llama-3-8B-Instruct-262k-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Llava-v1.6-Vicuna-7B-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Mistral-7B-Instruct-v0.1-GGUF",
-        "name": "Mistral-7B-Instruct-v0.1-GGUF",
-        "architecture": "mistral",
-        "featured": true,
-        "model_type": "instruct",
-        "like_count": 2,
-        "download_count": 1190
-    },
-    {
-        "id": "second-state/Nous-Hermes-2-Mixtral-8x7B-DPO-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/OpenChat-3.5-0106-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/OrionStar-Yi-34B-Chat-Llama-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/phi-2-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Phi-3-medium-128k-instruct-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Phi-3-mini-128k-instruct-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Qwen1.5-7B-Chat-GGUF",
-        "name": "Qwen1.5-7B-Chat-GGUF",
-        "architecture": "qwen",
-        "model_type": "chat",
-        "like_count": 1,
-        "download_count": 4222
-    },
-    {
-        "id": "second-state/Qwen2-7B-Instruct-GGUF",
-        "name": "Qwen2-7B-Instruct",
-        "architecture": "",
-        "featured": true,
-        "model_type": "instruct",
-        "like_count": 1,
-        "download_count": 234
-    },
-    {
-        "id": "second-state/Samantha-1.2-Mistral-7B-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/SOLAR-10.7B-Instruct-v1.0-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/TinyLlama-1.1B-Chat-v1.0-GGUF",
-        "name": "TinyLlama-1.1B-Chat-v1.0-GGUF",
-        "architecture": "",
-        "model_type": "chat",
-        "like_count": 1,
-        "download_count": 363
-    },
-    {
-        "id": "second-state/TinyLlama-1.1B-Chat-v1.0-NEW-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/WizardLM-13B-V1.0-Uncensored-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Yi-34B-Chat-GGUF",
-        "name": "Yi 34B chat",
-        "architecture": "Llama2",
-        "featured": true,
-        "model_type": "chat",
-        "like_count": 1,
-        "download_count": 607
-    },
-    {
-        "id": "second-state/CodeGemma-7b-it-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Dolphin-2.2-Yi-34B-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/dolphin-2.6-mistral-7B-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/glm-4-9b-chat-1m-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/internlm2_5-7b-chat-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Liberated-Qwen1.5-72B-GGUF",
-        "name": "Qwen 1.5 72B with Liberated finetuning",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/llm-compiler-7b-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Mistral-7B-Instruct-v0.2-GGUF",
-        "name": "Mistral-7B-Instruct-v0.2-GGUF",
-        "architecture": "mistral",
-        "featured": true,
-        "model_type": "instruct",
-        "like_count": 1,
-        "download_count": 6293
-    },
-    {
-        "id": "second-state/MistralLite-7B-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Nomic-embed-text-v1.5-Embedding-GGUF",
-        "name": "Nomic embed text v1.5",
-        "architecture": "",
-        "model_type": "embedding"
-    },
-    {
-        "id": "second-state/C4AI-Command-R-v01-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/ChatAllInOne-Yi-34B-200K-V1-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Codestral-22B-v0.1-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/DeepSeek-V2-Lite-Chat-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/ELYZA-japanese-Llama-2-13b-fast-instruct-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/gemma-1.1-2b-it-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/gemma-1.1-7b-it-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Llama-3-Groq-8B-Tool-Use-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Llama-3-Instruct-8B-SimPO-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Llama3-8B-Chinese-Chat-GGUF",
-        "name": "Llama 3 8B Chinese Chat",
-        "architecture": "Llama3",
-        "featured": true,
-        "model_type": "chat",
-        "like_count": 0,
-        "download_count": 3172
-    },
-    {
-        "id": "second-state/Llava-v1.5-7B-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/llm-compiler-13b-ftd-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/llm-compiler-13b-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/llm-compiler-7b-ftd-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/mathstral-7B-v0.1-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Meta-Llama-3.1-70B-Instruct-GGUF",
-        "name": "",
+        "id": "second-state/Yi-1.5-34B-Chat-16K-GGUF",
+        "name": "Yi 1.5 34B Chat 16K",
         "architecture": "",
         "model_type": "unknown"
     },
     {
         "id": "second-state/Meta-Llama-3.1-8B-Instruct-GGUF",
-        "name": "",
+        "name": "Meta Llama 3.1 8B Instruct",
         "architecture": "",
         "model_type": "unknown"
     },
     {
-        "id": "second-state/Mistral-7B-Instruct-v0.3-GGUF",
-        "name": "",
+        "id": "second-state/Meta-Llama-3.1-70B-Instruct-GGUF",
+        "name": "Meta Llama 3.1 70B Instruct",
         "architecture": "",
         "model_type": "unknown"
     },
     {
-        "id": "second-state/Neural-Chat-7B-v3-1-GGUF",
-        "name": "",
+        "id": "second-state/Llama-3-Groq-8B-Tool-Use-GGUF",
+        "name": "Llama 3 Groq 8B Tool Use",
         "architecture": "",
         "model_type": "unknown"
     },
     {
-        "id": "second-state/Neural-Chat-7B-v3-3-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/NeuralBeagle14-7B-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/openchat-3.5-1210-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Phi-3-medium-4k-instruct-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Qwen1.5-4B-Chat-GGUF",
-        "name": "Qwen1.5-4B-Chat-GGUF",
-        "architecture": "qwen",
-        "featured": true,
-        "model_type": "chat",
-        "like_count": 0,
-        "download_count": 564
-    },
-    {
-        "id": "second-state/Qwen2-0.5B-Instruct-GGUF",
-        "name": "Qwen2-0.5B-Instruct",
-        "architecture": "",
-        "featured": true,
-        "model_type": "instruct",
-        "like_count": 0,
-        "download_count": 355
-    },
-    {
-        "id": "second-state/Qwen2-1.5B-Instruct-GGUF",
-        "name": "Qwen2-1.5B-Instruct",
-        "architecture": "",
-        "featured": true,
-        "model_type": "instruct",
-        "like_count": 0,
-        "download_count": 554
-    },
-    {
-        "id": "second-state/Qwen2-72B-Instruct-GGUF",
-        "name": "",
-        "architecture": "",
-        "featured": true,
-        "model_type": "instruct",
-        "like_count": 0,
-        "download_count": 274
-    },
-    {
-        "id": "second-state/stable-diffusion-2-1-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/stablelm-2-12b-chat-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/StarCoder2-15B-Instruct-v0.1-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/test-code",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Yi-34B-200K-GGUF",
-        "name": "Yi 34B with 200k context length",
-        "architecture": "Llama2",
-        "featured": true,
-        "model_type": "chat",
-        "like_count": 0,
-        "download_count": 2385
-    },
-    {
-        "id": "second-state/Yi-6B-Chat-GGUF",
-        "name": "Yi 6B Chat GGUF",
-        "architecture": "llama",
-        "featured": true,
-        "model_type": "chat",
-        "like_count": 0,
-        "download_count": 4549
-    },
-    {
-        "id": "second-state/Zephyr-7B-Alpha-GGUF",
-        "name": "",
-        "architecture": "",
-        "model_type": "unknown"
-    },
-    {
-        "id": "second-state/Zephyr-7B-Beta-GGUF",
-        "name": "",
+        "id": "second-state/Llama-3-Groq-70B-Tool-Use-GGUF",
+        "name": "Llama 3 Groq 70B Tool Use",
         "architecture": "",
         "model_type": "unknown"
     },
     {
         "id": "second-state/Phi-3.5-mini-instruct-GGUF",
-        "name": "Phi-3.5-mini-instruct-GGUF",
+        "name": "Phi 3.5 mini instruct",
         "architecture": "",
-        "featured": true,
-        "model_type": "chat",
-        "like_count": 0,
-        "download_count": 179
+        "model_type": "unknown"
     },
     {
-        "id": "second-state/Yi-Coder-9B-Chat-GGUF",
-        "name": "Yi-Coder-9B-Chat-GGUF",
+        "id": "second-state/gemma-2-2b-it-GGUF",
+        "name": "gemma 2 2b it",
         "architecture": "",
-        "featured": true,
-        "model_type": "chat",
-        "like_count": 0,
-        "download_count": 422
+        "model_type": "unknown"
+    },
+    {
+        "id": "second-state/gemma-2-9b-it-GGUF",
+        "name": "gemma 2 9b it",
+        "architecture": "",
+        "model_type": "unknown"
+    },
+    {
+        "id": "second-state/gemma-2-27b-it-GGUF",
+        "name": "gemma 2 27b it",
+        "architecture": "",
+        "model_type": "unknown"
+    },
+    {
+        "id": "second-state/datagemma-rig-27b-it-GGUF",
+        "name": "data gemma rig 27b it",
+        "architecture": "",
+        "model_type": "unknown"
+    },
+    {
+        "id": "second-state/datagemma-rag-27b-it-GGUF",
+        "name": "data gemma rag 27b it",
+        "architecture": "",
+        "model_type": "unknown"
+    },
+    {
+        "id": "second-state/Mistral-Nemo-Instruct-2407-GGUF",
+        "name": "Mistral Nemo Instruct 2407",
+        "architecture": "",
+        "model_type": "unknown"
+    },
+    {
+        "id": "second-state/Mistral-7B-Instruct-v0.3-GGUF",
+        "name": "Mistral 7B Instruct v0.3",
+        "architecture": "",
+        "model_type": "unknown"
+    },
+    {
+        "id": "second-state/Mistral-Large-Instruct-2407-GGUF",
+        "name": "Mistral Large Instruct 2407",
+        "architecture": "",
+        "model_type": "unknown"
+    },
+    {
+        "id": "second-state/Codestral-22B-v0.1-GGUF",
+        "name": "Codestral 22B v0.1",
+        "architecture": "",
+        "model_type": "unknown"
+    },
+    {
+        "id": "second-state/glm-4-9b-chat-GGUF",
+        "name": "glm 4 9b chat",
+        "architecture": "",
+        "model_type": "unknown"
+    },
+    {
+        "id": "second-state/Nemotron-Mini-4B-Instruct-GGUF",
+        "name": "Nemotron Mini 4B Instruct",
+        "architecture": "",
+        "model_type": "unknown"
     }
 ]
