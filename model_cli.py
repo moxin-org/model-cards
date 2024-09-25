@@ -102,8 +102,10 @@ def save_model_card(model_card):
 file_path = "./index.json"
 action = sys.argv[1]
 
-indexs = read_index(file_path)
-
+try:
+    indexs = read_index(file_path)
+except:
+    indexs = []
 
 def add_model():
     model_id = sys.argv[2]
@@ -111,10 +113,11 @@ def add_model():
     try:
         model_card = load_model_card(model_id)
         print(f"Model {model_id} already exists")
-        print("Recover form local")
-        indexs.append(model_card["index"])
-        rewrite_index(file_path, indexs)
-        return
+        if model_card['index'] not None:
+            indexs.append(model_card["index"])
+            print("Recover form local")
+            rewrite_index(file_path, indexs)
+            return
     except:
         print(f"Model {model_id} not found")
 
