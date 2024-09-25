@@ -1,33 +1,22 @@
 {
     "id": "second-state/glm-4-9b-chat-GGUF",
-    "status": "init",
-    "model_type": "unknown",
-    "name": "",
-    "summary": "",
+    "name": "glm-4-9b-chat-GGUF",
     "author": {
         "name": "second-state",
-        "url": "https://github.com/second-state",
+        "url": "https://huggingface.co/second-state",
         "description": ""
     },
+    "summary": "",
     "size": "",
     "requires": "",
-    "released_at": "2024-07-08T03:44:46Z",
     "architecture": "",
+    "released_at": "2024-07-08T03:44:46.000Z",
     "files": [
         {
-            "name": "glm-4-9b-chat-f16.gguf",
-            "size": "18806968320",
-            "quantization": "",
-            "tags": [],
-            "sha256": "098b5b4788ca67aba7dc83260fb1c8ff1decbd0d0b40f38e008ae36da5a24433",
-            "download": {
-                "default": "https://huggingface.co/second-state/glm-4-9b-chat-GGUF/resolve/main/glm-4-9b-chat-f16.gguf"
-            }
-        },
-        {
             "name": "glm-4-9b-chat-Q2_K.gguf",
+            "url": "https://huggingface.co/second-state/glm-4-9b-chat-GGUF/resolve/main/glm-4-9b-chat-Q2_K.gguf",
             "size": "3991900160",
-            "quantization": "Q2_K",
+            "quantization": "",
             "tags": [],
             "sha256": "b0f79f5ab2a31363b18b87e11b7d7e629907a79d4b01bf2911733b93e1c00243",
             "download": {
@@ -36,8 +25,9 @@
         },
         {
             "name": "glm-4-9b-chat-Q3_K_L.gguf",
+            "url": "https://huggingface.co/second-state/glm-4-9b-chat-GGUF/resolve/main/glm-4-9b-chat-Q3_K_L.gguf",
             "size": "5281452032",
-            "quantization": "Q3_K_L",
+            "quantization": "",
             "tags": [],
             "sha256": "df9f3510184c900025cd8be78bd9ce7289f61626264cbef3f3c7d845c7acb163",
             "download": {
@@ -46,8 +36,9 @@
         },
         {
             "name": "glm-4-9b-chat-Q3_K_M.gguf",
+            "url": "https://huggingface.co/second-state/glm-4-9b-chat-GGUF/resolve/main/glm-4-9b-chat-Q3_K_M.gguf",
             "size": "5064331264",
-            "quantization": "Q3_K_M",
+            "quantization": "",
             "tags": [],
             "sha256": "b39db9b8890bfaaa7b3776cb72f3c5997d62f1bcdd154340ea83b6af3a29941a",
             "download": {
@@ -56,8 +47,9 @@
         },
         {
             "name": "glm-4-9b-chat-Q3_K_S.gguf",
+            "url": "https://huggingface.co/second-state/glm-4-9b-chat-GGUF/resolve/main/glm-4-9b-chat-Q3_K_S.gguf",
             "size": "4587425792",
-            "quantization": "Q3_K_S",
+            "quantization": "",
             "tags": [],
             "sha256": "77bd835b3273f436f2a811cfd79397f1c4f757dfd0d0c3b4a75fc359e30e4c62",
             "download": {
@@ -66,8 +58,9 @@
         },
         {
             "name": "glm-4-9b-chat-Q4_0.gguf",
+            "url": "https://huggingface.co/second-state/glm-4-9b-chat-GGUF/resolve/main/glm-4-9b-chat-Q4_0.gguf",
             "size": "5455319040",
-            "quantization": "Q4_0",
+            "quantization": "",
             "tags": [],
             "sha256": "1e5ca5210db61296ea23c2ccdaa3f21e03faacb1777fa74dd3b02a2b1bfa7328",
             "download": {
@@ -76,8 +69,9 @@
         },
         {
             "name": "glm-4-9b-chat-Q4_K_M.gguf",
+            "url": "https://huggingface.co/second-state/glm-4-9b-chat-GGUF/resolve/main/glm-4-9b-chat-Q4_K_M.gguf",
             "size": "6250926080",
-            "quantization": "Q4_K_M",
+            "quantization": "",
             "tags": [],
             "sha256": "eb30fa5273749385c6a42b8df12a692ea3ab552fbf8883ce87af9938f69e9f4c",
             "download": {
@@ -86,8 +80,9 @@
         },
         {
             "name": "glm-4-9b-chat-Q4_K_S.gguf",
+            "url": "https://huggingface.co/second-state/glm-4-9b-chat-GGUF/resolve/main/glm-4-9b-chat-Q4_K_S.gguf",
             "size": "5753344000",
-            "quantization": "Q4_K_S",
+            "quantization": "",
             "tags": [],
             "sha256": "2dfb0ae3374b6591f8d6c96649e75769473f4b28211bd201dd282b8a6cca3c29",
             "download": {
@@ -96,8 +91,9 @@
         },
         {
             "name": "glm-4-9b-chat-Q5_0.gguf",
+            "url": "https://huggingface.co/second-state/glm-4-9b-chat-GGUF/resolve/main/glm-4-9b-chat-Q5_0.gguf",
             "size": "6552653824",
-            "quantization": "Q5_0",
+            "quantization": "",
             "tags": [],
             "sha256": "d3de154d55c0d39bb6d072fe54cc02294cdc540c1cd40a1b68ba394dc48ad2b7",
             "download": {
@@ -106,8 +102,9 @@
         },
         {
             "name": "glm-4-9b-chat-Q5_K_M.gguf",
+            "url": "https://huggingface.co/second-state/glm-4-9b-chat-GGUF/resolve/main/glm-4-9b-chat-Q5_K_M.gguf",
             "size": "7143788544",
-            "quantization": "Q5_K_M",
+            "quantization": "",
             "tags": [],
             "sha256": "43d4c700435aff2a61cef96606cf1da0d8080f4d4b1b21c4871203258f51f965",
             "download": {
@@ -116,8 +113,9 @@
         },
         {
             "name": "glm-4-9b-chat-Q5_K_S.gguf",
+            "url": "https://huggingface.co/second-state/glm-4-9b-chat-GGUF/resolve/main/glm-4-9b-chat-Q5_K_S.gguf",
             "size": "6692900864",
-            "quantization": "Q5_K_S",
+            "quantization": "",
             "tags": [],
             "sha256": "f845d61252fd6331492f96602c894bebcbb60c31023be28d84e8abe996560352",
             "download": {
@@ -126,8 +124,9 @@
         },
         {
             "name": "glm-4-9b-chat-Q6_K.gguf",
+            "url": "https://huggingface.co/second-state/glm-4-9b-chat-GGUF/resolve/main/glm-4-9b-chat-Q6_K.gguf",
             "size": "8262029312",
-            "quantization": "Q6_K",
+            "quantization": "",
             "tags": [],
             "sha256": "154ad8ffadcc4bc7d1962bfad26c947f9501f30bfdadf9a8e07a0c7f999c84c2",
             "download": {
@@ -136,18 +135,29 @@
         },
         {
             "name": "glm-4-9b-chat-Q8_0.gguf",
+            "url": "https://huggingface.co/second-state/glm-4-9b-chat-GGUF/resolve/main/glm-4-9b-chat-Q8_0.gguf",
             "size": "9994997760",
-            "quantization": "Q8_0",
+            "quantization": "",
             "tags": [],
             "sha256": "e5e708922aaecfffaa635d6bf0a05433290462fe7c45826a7401010ddd617a6a",
             "download": {
                 "default": "https://huggingface.co/second-state/glm-4-9b-chat-GGUF/resolve/main/glm-4-9b-chat-Q8_0.gguf"
             }
+        },
+        {
+            "name": "glm-4-9b-chat-f16.gguf",
+            "url": "https://huggingface.co/second-state/glm-4-9b-chat-GGUF/resolve/main/glm-4-9b-chat-f16.gguf",
+            "size": "18806968320",
+            "quantization": "",
+            "tags": [],
+            "sha256": "098b5b4788ca67aba7dc83260fb1c8ff1decbd0d0b40f38e008ae36da5a24433",
+            "download": {
+                "default": "https://huggingface.co/second-state/glm-4-9b-chat-GGUF/resolve/main/glm-4-9b-chat-f16.gguf"
+            }
         }
     ],
-    "prompt_template": "",
+    "prompt_template": "glm-4-chat",
     "reverse_prompt": "",
-    "context_size": 4096,
-    "vector_size": 0,
-    "metrics": null
+    "context_size": "131072",
+    "metrics": {}
 }

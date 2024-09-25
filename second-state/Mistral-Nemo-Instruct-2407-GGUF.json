@@ -1,153 +1,163 @@
 {
     "id": "second-state/Mistral-Nemo-Instruct-2407-GGUF",
-    "status": "init",
-    "model_type": "unknown",
-    "name": "",
-    "summary": "",
+    "name": "Mistral-Nemo-Instruct-2407-GGUF",
     "author": {
         "name": "second-state",
-        "url": "https://github.com/second-state",
+        "url": "https://huggingface.co/second-state",
         "description": ""
     },
+    "summary": "",
     "size": "",
     "requires": "",
-    "released_at": "2024-07-18T16:17:35Z",
     "architecture": "",
+    "released_at": "2024-07-18T16:17:35.000Z",
     "files": [
         {
-            "name": "Mistral-Nemo-Instruct-2407-f16.gguf",
-            "size": "24504276160",
+            "name": "Mistral-Nemo-Instruct-2407-Q2_K.gguf",
+            "url": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-Q2_K.gguf",
+            "size": "4791047872",
             "quantization": "",
             "tags": [],
-            "sha256": "79f73cc27fa7e71e3dc24eaa2123986057a162490d03e7f3cd68e2400e7b99ed",
-            "download": {
-                "default": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-f16.gguf"
-            }
-        },
-        {
-            "name": "Mistral-Nemo-Instruct-2407-Q2_K.gguf",
-            "size": "4791047360",
-            "quantization": "Q2_K",
-            "tags": [],
-            "sha256": "c7f71d89e5639dc05d06a791995d1e73a0ce57fe26935d6c8f81683df6788dcb",
+            "sha256": "bea290d014fa76c3cf7e0a3021094ede6d8cf8195becfd55e726bf2fed9a735b",
             "download": {
                 "default": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-Q2_K.gguf"
             }
         },
         {
             "name": "Mistral-Nemo-Instruct-2407-Q3_K_L.gguf",
-            "size": "6561502400",
-            "quantization": "Q3_K_L",
+            "url": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-Q3_K_L.gguf",
+            "size": "6561502912",
+            "quantization": "",
             "tags": [],
-            "sha256": "0fd145c5552d56c7d09b9480d4bc66a88adee4e60ea14df5093f311f33740c81",
+            "sha256": "27eb59d2642133da264bb15f9f998a361228790e6cb72abefa533c22841e1b65",
             "download": {
                 "default": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-Q3_K_L.gguf"
             }
         },
         {
             "name": "Mistral-Nemo-Instruct-2407-Q3_K_M.gguf",
-            "size": "6083089600",
-            "quantization": "Q3_K_M",
+            "url": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-Q3_K_M.gguf",
+            "size": "6083090112",
+            "quantization": "",
             "tags": [],
-            "sha256": "ef85ae3b60c5291bc47bafb4e88f597bc0a43edc33d08816b7cd5a3b65dc9e60",
+            "sha256": "634e7fac8c9e6830295331ae54182c000a1cef492d26a0f57138f4a7bf28b2de",
             "download": {
                 "default": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-Q3_K_M.gguf"
             }
         },
         {
             "name": "Mistral-Nemo-Instruct-2407-Q3_K_S.gguf",
-            "size": "5534225600",
-            "quantization": "Q3_K_S",
+            "url": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-Q3_K_S.gguf",
+            "size": "5534226112",
+            "quantization": "",
             "tags": [],
-            "sha256": "4b8cb539153646078651c5b9175f5091912cdadeb196a6936d7f45b0fc2ce5a7",
+            "sha256": "c3842eb732ce303a2ad5989c897825d9c2b0df50bbda29a80b4412043c76663b",
             "download": {
                 "default": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-Q3_K_S.gguf"
             }
         },
         {
             "name": "Mistral-Nemo-Instruct-2407-Q4_0.gguf",
-            "size": "7071700160",
-            "quantization": "Q4_0",
+            "url": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-Q4_0.gguf",
+            "size": "7071700672",
+            "quantization": "",
             "tags": [],
-            "sha256": "fa578425ea3b78cd464120e875ff4d61a7ee431f44d56374991d27af15355562",
+            "sha256": "7817bc6f4b3891d2aa6003bd8a826554cab4acec14d46c91e898e31251af7f3f",
             "download": {
                 "default": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-Q4_0.gguf"
             }
         },
         {
             "name": "Mistral-Nemo-Instruct-2407-Q4_K_M.gguf",
-            "size": "7477204160",
-            "quantization": "Q4_K_M",
+            "url": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-Q4_K_M.gguf",
+            "size": "7477204672",
+            "quantization": "",
             "tags": [],
-            "sha256": "946688eeb3a244eb7c8083907a01b146505b8ed33e615d82980f75249221099f",
+            "sha256": "186ac886e5cf42a6ca0815e60504f13c7cc95446eb05ac2f1515e388976cebcf",
             "download": {
                 "default": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-Q4_K_M.gguf"
             }
         },
         {
             "name": "Mistral-Nemo-Instruct-2407-Q4_K_S.gguf",
-            "size": "7120196800",
-            "quantization": "Q4_K_S",
+            "url": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-Q4_K_S.gguf",
+            "size": "7120197312",
+            "quantization": "",
             "tags": [],
-            "sha256": "bb07ad649afb5bcf0189845cf5b27ceae32463f78ca1d6dd62184ec7771bab4a",
+            "sha256": "00eda01cc0a4868050e4bd64fdf4890d940d7c756a29901225c8ffd61d1b4ac8",
             "download": {
                 "default": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-Q4_K_S.gguf"
             }
         },
         {
             "name": "Mistral-Nemo-Instruct-2407-Q5_0.gguf",
-            "size": "8518735040",
-            "quantization": "Q5_0",
+            "url": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-Q5_0.gguf",
+            "size": "8518735552",
+            "quantization": "",
             "tags": [],
-            "sha256": "7362398656e539323cc8a3da0bbf3be0310b762a5bfe26d268ed1631005bc37c",
+            "sha256": "f66aec032377d2c767a13f89c0149023f5283635de9a4389bd54e16ed3f99051",
             "download": {
                 "default": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-Q5_0.gguf"
             }
         },
         {
             "name": "Mistral-Nemo-Instruct-2407-Q5_K_M.gguf",
-            "size": "8727631040",
-            "quantization": "Q5_K_M",
+            "url": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-Q5_K_M.gguf",
+            "size": "8727631552",
+            "quantization": "",
             "tags": [],
-            "sha256": "913722d032f33fbbe2f7374fe3c27c89f13c7cc52cf4ed2078b0297d9a6d9441",
+            "sha256": "fdc6d65155e7908af3b9675a84f08400d0df8bc470281ec5d183f5d886a4824a",
             "download": {
                 "default": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-Q5_K_M.gguf"
             }
         },
         {
             "name": "Mistral-Nemo-Instruct-2407-Q5_K_S.gguf",
-            "size": "8518735040",
-            "quantization": "Q5_K_S",
+            "url": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-Q5_K_S.gguf",
+            "size": "8518735552",
+            "quantization": "",
             "tags": [],
-            "sha256": "ef8ce0d9f397418797992b6d7ccaeddd3acf4e84b77f26bd29ac284a2864d6dd",
+            "sha256": "b3ce16c9a4ec48d02cdbe4bdef829e7f628ebae05bddad6ba1aab7c0cf37d782",
             "download": {
                 "default": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-Q5_K_S.gguf"
             }
         },
         {
             "name": "Mistral-Nemo-Instruct-2407-Q6_K.gguf",
-            "size": "10056209600",
-            "quantization": "Q6_K",
+            "url": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-Q6_K.gguf",
+            "size": "10056210112",
+            "quantization": "",
             "tags": [],
-            "sha256": "f26a7ed456d33120b9a5b545f23e82c5ca2c4583ed6baa071b994920a56922f1",
+            "sha256": "48318ea51217b0c92a12314d738a5982b273c5d335c118a903c0b3a96756977a",
             "download": {
                 "default": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-Q6_K.gguf"
             }
         },
         {
             "name": "Mistral-Nemo-Instruct-2407-Q8_0.gguf",
-            "size": "13022368960",
-            "quantization": "Q8_0",
+            "url": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-Q8_0.gguf",
+            "size": "13022369472",
+            "quantization": "",
             "tags": [],
-            "sha256": "863a9129f1cf490da86a77f4cab7205fc29e3c1daf7757b29a300d7ba243aaa8",
+            "sha256": "824229be17606dd8177fc91c1d330b065bc4f3de2873eab614376b988dcbf48a",
             "download": {
                 "default": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-Q8_0.gguf"
             }
+        },
+        {
+            "name": "Mistral-Nemo-Instruct-2407-f16.gguf",
+            "url": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-f16.gguf",
+            "size": "24504276672",
+            "quantization": "",
+            "tags": [],
+            "sha256": "7a9581ae7a87e5727aa1b0670f439ffe2a31a4bcb38ca201f9cd76ac975d31ae",
+            "download": {
+                "default": "https://huggingface.co/second-state/Mistral-Nemo-Instruct-2407-GGUF/resolve/main/Mistral-Nemo-Instruct-2407-f16.gguf"
+            }
         }
     ],
-    "prompt_template": "",
+    "prompt_template": "mistral-instruct",
     "reverse_prompt": "",
-    "context_size": 5120,
-    "vector_size": 0,
-    "metrics": null
+    "context_size": "131072",
+    "metrics": {}
 }

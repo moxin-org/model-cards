@@ -113,7 +113,7 @@ def add_model():
     try:
         model_card = load_model_card(model_id)
         print(f"Model {model_id} already exists")
-        if model_card['index'] not None:
+        if model_card['index'] is not None:
             indexs.append(model_card["index"])
             print("Recover form local")
             rewrite_index(file_path, indexs)
@@ -122,9 +122,10 @@ def add_model():
         print(f"Model {model_id} not found")
 
     prompt_template = sys.argv[3]
+    context_size = sys.argv[4]
     print("Try fetch from Hugging Face")
     model_index, model_card = parse_to_model_cards(
-        get_huggingface_models(model_id), True, "chat", prompt_template=prompt_template
+        get_huggingface_models(model_id), True, "instruct", prompt_template=prompt_template, context_size=context_size
     )
 
     indexs.append(model_index)

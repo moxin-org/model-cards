@@ -1,153 +1,163 @@
 {
     "id": "second-state/Yi-1.5-9B-Chat-16K-GGUF",
-    "status": "init",
-    "model_type": "unknown",
-    "name": "",
-    "summary": "",
+    "name": "Yi-1.5-9B-Chat-16K-GGUF",
     "author": {
         "name": "second-state",
-        "url": "https://github.com/second-state",
+        "url": "https://huggingface.co/second-state",
         "description": ""
     },
+    "summary": "",
     "size": "",
     "requires": "",
-    "released_at": "2024-05-17T14:33:38Z",
     "architecture": "",
+    "released_at": "2024-05-17T14:33:38.000Z",
     "files": [
         {
-            "name": "Yi-1.5-9B-Chat-16K-f16.gguf",
-            "size": "17661112576",
+            "name": "Yi-1.5-9B-Chat-16K-Q2_K.gguf",
+            "url": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-Q2_K.gguf",
+            "size": "3354325344",
             "quantization": "",
             "tags": [],
-            "sha256": "fa086a44b425719decbeb81a493d941a1b3a71113c4a2e09efc0767737d5eb10",
-            "download": {
-                "default": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-f16.gguf"
-            }
-        },
-        {
-            "name": "Yi-1.5-9B-Chat-16K-Q2_K.gguf",
-            "size": "3354325312",
-            "quantization": "Q2_K",
-            "tags": [],
-            "sha256": "0e0277a90855c606523150717a1317ce7f454dc72c31ba9bc335a8a116d28a4e",
+            "sha256": "393e36603d1f2dd5ee33a7da92d8037ebf0c927b5f2d51f2ffa0bc701ba996dd",
             "download": {
                 "default": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-Q2_K.gguf"
             }
         },
         {
             "name": "Yi-1.5-9B-Chat-16K-Q3_K_L.gguf",
-            "size": "4690751808",
-            "quantization": "Q3_K_L",
+            "url": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-Q3_K_L.gguf",
+            "size": "4690751840",
+            "quantization": "",
             "tags": [],
-            "sha256": "4ff1ffe885ce92313a03460c31710215097cd7a1ff1cadcdc2798bc3cd5fe30d",
+            "sha256": "d7ef02a3a22f5216faa9ed846d38ad06b39f431cee57f95be941665c1622c3e1",
             "download": {
                 "default": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-Q3_K_L.gguf"
             }
         },
         {
             "name": "Yi-1.5-9B-Chat-16K-Q3_K_M.gguf",
-            "size": "4324405568",
-            "quantization": "Q3_K_M",
+            "url": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-Q3_K_M.gguf",
+            "size": "4324405600",
+            "quantization": "",
             "tags": [],
-            "sha256": "776c984100e617fb4c945b63529ab9209bc52193e5a2d26d9d6fc1ab9d955cbe",
+            "sha256": "50d81524d71d226366975842411da875f9ef0ceddba1187df03410392168b60e",
             "download": {
                 "default": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-Q3_K_M.gguf"
             }
         },
         {
             "name": "Yi-1.5-9B-Chat-16K-Q3_K_S.gguf",
-            "size": "3899208000",
-            "quantization": "Q3_K_S",
+            "url": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-Q3_K_S.gguf",
+            "size": "3899208032",
+            "quantization": "",
             "tags": [],
-            "sha256": "54160c3345ce084d74383ad65c683ec69caf1cd96624ea721d6946cbf110a35d",
+            "sha256": "36dbab3a75174fd8c6977b326b6580017eceb579a3f4b6c7b99a8aaef33e7ca8",
             "download": {
                 "default": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-Q3_K_S.gguf"
             }
         },
         {
             "name": "Yi-1.5-9B-Chat-16K-Q4_0.gguf",
-            "size": "5036994880",
-            "quantization": "Q4_0",
+            "url": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-Q4_0.gguf",
+            "size": "5036994912",
+            "quantization": "",
             "tags": [],
-            "sha256": "d667d725da89430df4cda27dff8d96dc3c4008a71e56a0a6603faab6bc4dc15b",
+            "sha256": "23c716476f24d772365d586866f2c11856c60e0c22d865365a2eb92b8f0efcfa",
             "download": {
                 "default": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-Q4_0.gguf"
             }
         },
         {
             "name": "Yi-1.5-9B-Chat-16K-Q4_K_M.gguf",
-            "size": "5328957760",
-            "quantization": "Q4_K_M",
+            "url": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-Q4_K_M.gguf",
+            "size": "5328957792",
+            "quantization": "",
             "tags": [],
-            "sha256": "52d1c64b5a3137b157f84efc01af45afcfe9c3bf57299f90dc781169a438672b",
+            "sha256": "a3d9f179572523cc8c198b0ad2e05e94ea92eea4a5765d1cb1199e10e910f220",
             "download": {
                 "default": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-Q4_K_M.gguf"
             }
         },
         {
             "name": "Yi-1.5-9B-Chat-16K-Q4_K_S.gguf",
-            "size": "5071860032",
-            "quantization": "Q4_K_S",
+            "url": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-Q4_K_S.gguf",
+            "size": "5071860064",
+            "quantization": "",
             "tags": [],
-            "sha256": "2b5089e7425eee14172d8d972b5889f5af4b2e3d3968a4276ecc06b9ab6c5a59",
+            "sha256": "6ac7f4a409f2a45d6e7b61441a314562d6beebdbe8199d7d2706cf1bf5473132",
             "download": {
                 "default": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-Q4_K_S.gguf"
             }
         },
         {
             "name": "Yi-1.5-9B-Chat-16K-Q5_0.gguf",
-            "size": "6107853120",
-            "quantization": "Q5_0",
+            "url": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-Q5_0.gguf",
+            "size": "6107853152",
+            "quantization": "",
             "tags": [],
-            "sha256": "a090b2859f96c5429b6bd217b9ff5cf784f29ad02bf05727ca9c21fb93e24818",
+            "sha256": "17e8ad54081062e023997796b943a6a669430a6016c79a2c5f05b71f2f76dbb9",
             "download": {
                 "default": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-Q5_0.gguf"
             }
         },
         {
             "name": "Yi-1.5-9B-Chat-16K-Q5_K_M.gguf",
-            "size": "6258258240",
-            "quantization": "Q5_K_M",
+            "url": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-Q5_K_M.gguf",
+            "size": "6258258272",
+            "quantization": "",
             "tags": [],
-            "sha256": "fcb389ee10ea90b34b574c048b43c065ea5ad20603e5f331f773519efa1418cb",
+            "sha256": "ca2ab962fb986ed5afad48417d7946a5301acac93c0d0e46f3385cf0977856f1",
             "download": {
                 "default": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-Q5_K_M.gguf"
             }
         },
         {
             "name": "Yi-1.5-9B-Chat-16K-Q5_K_S.gguf",
-            "size": "6107853120",
-            "quantization": "Q5_K_S",
+            "url": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-Q5_K_S.gguf",
+            "size": "6107853152",
+            "quantization": "",
             "tags": [],
-            "sha256": "2c35644b5cc694f71b9ac3b7f7c6be71c2d1c0256204fbcc8a10bf32bc4f8cee",
+            "sha256": "928d5aa97c8ab0240083afe2b0d756d3f2777ade0f944d1b3679ab84be4c0aeb",
             "download": {
                 "default": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-Q5_K_S.gguf"
             }
         },
         {
             "name": "Yi-1.5-9B-Chat-16K-Q6_K.gguf",
-            "size": "7245640000",
-            "quantization": "Q6_K",
+            "url": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-Q6_K.gguf",
+            "size": "7245640032",
+            "quantization": "",
             "tags": [],
-            "sha256": "40ef66ef904e030b86c31b59d561c1846b56b494b3e1e9912c213bcb866a0db2",
+            "sha256": "c2d31e2f06c20bcbae60576fab54c007d895738679ec5ceee8c9d12a7827eee5",
             "download": {
                 "default": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-Q6_K.gguf"
             }
         },
         {
             "name": "Yi-1.5-9B-Chat-16K-Q8_0.gguf",
-            "size": "9383915840",
-            "quantization": "Q8_0",
+            "url": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-Q8_0.gguf",
+            "size": "9383915872",
+            "quantization": "",
             "tags": [],
-            "sha256": "77e90b3ab7614a85e9f59f8a35138df08e20261fff316fb1419bd60532f026bf",
+            "sha256": "e38892320ba6f7a98f1757637830666ec3f7dd2412f131ddac63a900509bc24c",
             "download": {
                 "default": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-Q8_0.gguf"
             }
+        },
+        {
+            "name": "Yi-1.5-9B-Chat-16K-f16.gguf",
+            "url": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-f16.gguf",
+            "size": "17661112672",
+            "quantization": "",
+            "tags": [],
+            "sha256": "531283b57dd2c3c2e3a9a1667738ec493285ad7e3b5202d1f278a134a8cfc273",
+            "download": {
+                "default": "https://huggingface.co/second-state/Yi-1.5-9B-Chat-16K-GGUF/resolve/main/Yi-1.5-9B-Chat-16K-f16.gguf"
+            }
         }
     ],
-    "prompt_template": "",
+    "prompt_template": "chatml",
     "reverse_prompt": "",
-    "context_size": 0,
-    "vector_size": 0,
-    "metrics": null
+    "context_size": "131072",
+    "metrics": {}
 }

@@ -1,23 +1,55 @@
 {
     "id": "second-state/Meta-Llama-3.1-70B-Instruct-GGUF",
-    "status": "published",
-    "model_type": "unknown",
-    "name": "",
-    "summary": "",
+    "name": "Meta-Llama-3.1-70B-Instruct-GGUF",
     "author": {
         "name": "second-state",
-        "url": "https://github.com/second-state",
+        "url": "https://huggingface.co/second-state",
         "description": ""
     },
+    "summary": "",
     "size": "",
     "requires": "",
-    "released_at": "2024-07-24T01:11:15Z",
     "architecture": "",
+    "released_at": "2024-07-24T01:11:15.000Z",
     "files": [
         {
+            "name": "Meta-Llama-3.1-70B-Instruct-Q2_K.gguf",
+            "url": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q2_K.gguf",
+            "size": "26375108480",
+            "quantization": "",
+            "tags": [],
+            "sha256": "cd0884f3924eb28b8995c59d91ee6b1598aef2449a5873fd24e743484653cf56",
+            "download": {
+                "default": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q2_K.gguf"
+            }
+        },
+        {
+            "name": "Meta-Llama-3.1-70B-Instruct-Q3_K_L.gguf",
+            "url": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q3_K_L.gguf",
+            "size": "37140592512",
+            "quantization": "",
+            "tags": [],
+            "sha256": "083158c2ff0c80ee74724c731161237fa5f1b9aa88f7e99516455913ff14c137",
+            "download": {
+                "default": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q3_K_L.gguf"
+            }
+        },
+        {
+            "name": "Meta-Llama-3.1-70B-Instruct-Q3_K_M.gguf",
+            "url": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q3_K_M.gguf",
+            "size": "34267494272",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9b53d5ab691c0f96733ef61bc6b9457177921a6ee1920115a844adc8f6262ffe",
+            "download": {
+                "default": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q3_K_M.gguf"
+            }
+        },
+        {
             "name": "Meta-Llama-3.1-70B-Instruct-Q3_K_S.gguf",
+            "url": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q3_K_S.gguf",
             "size": "30912051072",
-            "quantization": "Q3_K_S",
+            "quantization": "",
             "tags": [],
             "sha256": "aa301ccfb2d5dd8c17fafa0ffc3a70a0ad4aff90bd80292eebc766311cf31335",
             "download": {
@@ -26,8 +58,9 @@
         },
         {
             "name": "Meta-Llama-3.1-70B-Instruct-Q4_0.gguf",
+            "url": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q4_0.gguf",
             "size": "39969732480",
-            "quantization": "Q4_0",
+            "quantization": "",
             "tags": [],
             "sha256": "ba14342cb57a0e883e70aa60f949a10a1571f26cb83afd588a66a8cbd1c54221",
             "download": {
@@ -36,18 +69,172 @@
         },
         {
             "name": "Meta-Llama-3.1-70B-Instruct-Q4_K_M.gguf",
+            "url": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q4_K_M.gguf",
             "size": "42520393600",
-            "quantization": "Q4_K_M",
+            "quantization": "",
             "tags": [],
             "sha256": "84a1ab5096ee3c72db938e00995f96e1126f43b7f60a56718ddff41214e9bb72",
             "download": {
                 "default": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q4_K_M.gguf"
             }
+        },
+        {
+            "name": "Meta-Llama-3.1-70B-Instruct-Q4_K_S.gguf",
+            "url": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q4_K_S.gguf",
+            "size": "40347219840",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6ed5ff3baa88cbc9ced87965cc82773822362537cf1f28adf5f0a9d4c8b0b41a",
+            "download": {
+                "default": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q4_K_S.gguf"
+            }
+        },
+        {
+            "name": "Meta-Llama-3.1-70B-Instruct-Q5_0.gguf",
+            "url": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q5_0.gguf",
+            "size": "48657446784",
+            "quantization": "",
+            "tags": [],
+            "sha256": "d20b2009ba17c14c0bd39914e2da5e9320aff77660b4cdc9ee7415fd69bf389e",
+            "download": {
+                "default": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q5_0.gguf"
+            }
+        },
+        {
+            "name": "Meta-Llama-3.1-70B-Instruct-Q5_K_M.gguf",
+            "url": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q5_K_M.gguf",
+            "size": "49949816704",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5bbf65860b64423053c89fc7c9684f8ada48156cf83bad93a743b9acc87f56c5",
+            "download": {
+                "default": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q5_K_M.gguf"
+            }
+        },
+        {
+            "name": "Meta-Llama-3.1-70B-Instruct-Q5_K_S.gguf",
+            "url": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q5_K_S.gguf",
+            "size": "48657446784",
+            "quantization": "",
+            "tags": [],
+            "sha256": "9e8b027e34469944c1926030e4f7460f7243598b5515eff95b874b47f91fe87f",
+            "download": {
+                "default": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q5_K_S.gguf"
+            }
+        },
+        {
+            "name": "Meta-Llama-3.1-70B-Instruct-Q6_K-00001-of-00002.gguf",
+            "url": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q6_K-00001-of-00002.gguf",
+            "size": "29842630112",
+            "quantization": "",
+            "tags": [],
+            "sha256": "6a6a3999c6999d814aa24844b1cff43adefaa78fc051fe5c094fbf289324c3a9",
+            "download": {
+                "default": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q6_K-00001-of-00002.gguf"
+            }
+        },
+        {
+            "name": "Meta-Llama-3.1-70B-Instruct-Q6_K-00002-of-00002.gguf",
+            "url": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q6_K-00002-of-00002.gguf",
+            "size": "28045513312",
+            "quantization": "",
+            "tags": [],
+            "sha256": "cd372f381c904f52d83e3af4388b9c3448ad59a98929c5e2a30a91010a82f82a",
+            "download": {
+                "default": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q6_K-00002-of-00002.gguf"
+            }
+        },
+        {
+            "name": "Meta-Llama-3.1-70B-Instruct-Q8_0-00001-of-00003.gguf",
+            "url": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q8_0-00001-of-00003.gguf",
+            "size": "29807939872",
+            "quantization": "",
+            "tags": [],
+            "sha256": "5da5496e4c2700af8cf4df29c3cfa970110941dfa16d17f8e22178e03dd317ca",
+            "download": {
+                "default": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q8_0-00001-of-00003.gguf"
+            }
+        },
+        {
+            "name": "Meta-Llama-3.1-70B-Instruct-Q8_0-00002-of-00003.gguf",
+            "url": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q8_0-00002-of-00003.gguf",
+            "size": "29753427360",
+            "quantization": "",
+            "tags": [],
+            "sha256": "65ae4877c46a356c1e21e11bfbc5a2bd59731c9aa7850fc38a519b62d1ca37f0",
+            "download": {
+                "default": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q8_0-00002-of-00003.gguf"
+            }
+        },
+        {
+            "name": "Meta-Llama-3.1-70B-Instruct-Q8_0-00003-of-00003.gguf",
+            "url": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q8_0-00003-of-00003.gguf",
+            "size": "15413682688",
+            "quantization": "",
+            "tags": [],
+            "sha256": "f2a2f673ab21719c404b25d47622a60295f5fd4d6b0a4fbce4d860184f90c1f4",
+            "download": {
+                "default": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q8_0-00003-of-00003.gguf"
+            }
+        },
+        {
+            "name": "Meta-Llama-3.1-70B-Instruct-f16-00001-of-00005.gguf",
+            "url": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-f16-00001-of-00005.gguf",
+            "size": "29960434016",
+            "quantization": "",
+            "tags": [],
+            "sha256": "70e3200f739f736f2c1b76bdda92599a038d29946b9a40aae48b31cb55c086d0",
+            "download": {
+                "default": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-f16-00001-of-00005.gguf"
+            }
+        },
+        {
+            "name": "Meta-Llama-3.1-70B-Instruct-f16-00002-of-00005.gguf",
+            "url": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-f16-00002-of-00005.gguf",
+            "size": "29562578048",
+            "quantization": "",
+            "tags": [],
+            "sha256": "42c705bcb5214dd5d1cc9016f39679b833210cd52881d6701969459164c99fac",
+            "download": {
+                "default": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-f16-00002-of-00005.gguf"
+            }
+        },
+        {
+            "name": "Meta-Llama-3.1-70B-Instruct-f16-00003-of-00005.gguf",
+            "url": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-f16-00003-of-00005.gguf",
+            "size": "29864633824",
+            "quantization": "",
+            "tags": [],
+            "sha256": "beeefeb5ec011b3da6e5b6aad19a7bf0a555b37988dbda68c39c35a0fae9e840",
+            "download": {
+                "default": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-f16-00003-of-00005.gguf"
+            }
+        },
+        {
+            "name": "Meta-Llama-3.1-70B-Instruct-f16-00004-of-00005.gguf",
+            "url": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-f16-00004-of-00005.gguf",
+            "size": "29562545216",
+            "quantization": "",
+            "tags": [],
+            "sha256": "1eb8522b55951ebae31fafbca1650097e5193cc7d75e673b45d35b9c52ec8596",
+            "download": {
+                "default": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-f16-00004-of-00005.gguf"
+            }
+        },
+        {
+            "name": "Meta-Llama-3.1-70B-Instruct-f16-00005-of-00005.gguf",
+            "url": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-f16-00005-of-00005.gguf",
+            "size": "22167722464",
+            "quantization": "",
+            "tags": [],
+            "sha256": "b46ca384a14cc1292ad6a96e2edcf56e9669b68e82109fff1dd41d82c96d3fac",
+            "download": {
+                "default": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-f16-00005-of-00005.gguf"
+            }
         }
     ],
-    "prompt_template": "",
+    "prompt_template": "llama-3-chat",
     "reverse_prompt": "",
-    "context_size": 8192,
-    "vector_size": 0,
-    "metrics": null
+    "context_size": "131072",
+    "metrics": {}
 }

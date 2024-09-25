@@ -1,33 +1,22 @@
 {
     "id": "second-state/Llama-3-Groq-8B-Tool-Use-GGUF",
-    "status": "init",
-    "model_type": "unknown",
-    "name": "",
-    "summary": "",
+    "name": "Llama-3-Groq-8B-Tool-Use-GGUF",
     "author": {
         "name": "second-state",
-        "url": "https://github.com/second-state",
+        "url": "https://huggingface.co/second-state",
         "description": ""
     },
+    "summary": "",
     "size": "",
     "requires": "",
-    "released_at": "2024-07-19T02:20:06Z",
     "architecture": "",
+    "released_at": "2024-07-19T02:20:06.000Z",
     "files": [
         {
-            "name": "Llama-3-Groq-8B-Tool-Use-f16.gguf",
-            "size": "16068989440",
-            "quantization": "",
-            "tags": [],
-            "sha256": "a46d1c03e57debeefacc648cc57496948b46d559352dd1ec95dc42f03ff82705",
-            "download": {
-                "default": "https://huggingface.co/second-state/Llama-3-Groq-8B-Tool-Use-GGUF/resolve/main/Llama-3-Groq-8B-Tool-Use-f16.gguf"
-            }
-        },
-        {
             "name": "Llama-3-Groq-8B-Tool-Use-Q2_K.gguf",
+            "url": "https://huggingface.co/second-state/Llama-3-Groq-8B-Tool-Use-GGUF/resolve/main/Llama-3-Groq-8B-Tool-Use-Q2_K.gguf",
             "size": "3179159616",
-            "quantization": "Q2_K",
+            "quantization": "",
             "tags": [],
             "sha256": "2a68cbb3c060db2477e3903fa4ad58c55cec7d8d746b3fbf06528834dce1bc81",
             "download": {
@@ -36,8 +25,9 @@
         },
         {
             "name": "Llama-3-Groq-8B-Tool-Use-Q3_K_L.gguf",
+            "url": "https://huggingface.co/second-state/Llama-3-Groq-8B-Tool-Use-GGUF/resolve/main/Llama-3-Groq-8B-Tool-Use-Q3_K_L.gguf",
             "size": "4321987072",
-            "quantization": "Q3_K_L",
+            "quantization": "",
             "tags": [],
             "sha256": "e07e960878e928c812bb8221be1a67bc52c39e130883f88e71224269556f4643",
             "download": {
@@ -46,8 +36,9 @@
         },
         {
             "name": "Llama-3-Groq-8B-Tool-Use-Q3_K_M.gguf",
+            "url": "https://huggingface.co/second-state/Llama-3-Groq-8B-Tool-Use-GGUF/resolve/main/Llama-3-Groq-8B-Tool-Use-Q3_K_M.gguf",
             "size": "4018948608",
-            "quantization": "Q3_K_M",
+            "quantization": "",
             "tags": [],
             "sha256": "1b25169c87c4524438b18fc6c639bcd2facfc871cd62852e877e511c19e54b64",
             "download": {
@@ -56,8 +47,9 @@
         },
         {
             "name": "Llama-3-Groq-8B-Tool-Use-Q3_K_S.gguf",
+            "url": "https://huggingface.co/second-state/Llama-3-Groq-8B-Tool-Use-GGUF/resolve/main/Llama-3-Groq-8B-Tool-Use-Q3_K_S.gguf",
             "size": "3664529920",
-            "quantization": "Q3_K_S",
+            "quantization": "",
             "tags": [],
             "sha256": "5c4b659295ba5eb440cedd973a1396cb63584f21653a41a4fb133d57dfdcd04a",
             "download": {
@@ -66,8 +58,9 @@
         },
         {
             "name": "Llama-3-Groq-8B-Tool-Use-Q4_0.gguf",
+            "url": "https://huggingface.co/second-state/Llama-3-Groq-8B-Tool-Use-GGUF/resolve/main/Llama-3-Groq-8B-Tool-Use-Q4_0.gguf",
             "size": "4661245632",
-            "quantization": "Q4_0",
+            "quantization": "",
             "tags": [],
             "sha256": "599eb1519ad94d920d09ed9f086eaada58dd6975f480bf44c7787c13f12b34e3",
             "download": {
@@ -76,8 +69,9 @@
         },
         {
             "name": "Llama-3-Groq-8B-Tool-Use-Q4_K_M.gguf",
+            "url": "https://huggingface.co/second-state/Llama-3-Groq-8B-Tool-Use-GGUF/resolve/main/Llama-3-Groq-8B-Tool-Use-Q4_K_M.gguf",
             "size": "4920768192",
-            "quantization": "Q4_K_M",
+            "quantization": "",
             "tags": [],
             "sha256": "fe5befe6403a919e048eb5cf3d0038b0a6d4a5b6ec2f25fea8292af27fa918b0",
             "download": {
@@ -86,8 +80,9 @@
         },
         {
             "name": "Llama-3-Groq-8B-Tool-Use-Q4_K_S.gguf",
+            "url": "https://huggingface.co/second-state/Llama-3-Groq-8B-Tool-Use-GGUF/resolve/main/Llama-3-Groq-8B-Tool-Use-Q4_K_S.gguf",
             "size": "4692702912",
-            "quantization": "Q4_K_S",
+            "quantization": "",
             "tags": [],
             "sha256": "884ad4b028d3989b83041238a6011ce6ad34c25498d8e6dc9def0fd50c0e735f",
             "download": {
@@ -96,8 +91,9 @@
         },
         {
             "name": "Llama-3-Groq-8B-Tool-Use-Q5_0.gguf",
+            "url": "https://huggingface.co/second-state/Llama-3-Groq-8B-Tool-Use-GGUF/resolve/main/Llama-3-Groq-8B-Tool-Use-Q5_0.gguf",
             "size": "5599331008",
-            "quantization": "Q5_0",
+            "quantization": "",
             "tags": [],
             "sha256": "770556afc3c25919398765478709075a4b9c7f15dc9424abceff880cfca4f980",
             "download": {
@@ -106,8 +102,9 @@
         },
         {
             "name": "Llama-3-Groq-8B-Tool-Use-Q5_K_M.gguf",
+            "url": "https://huggingface.co/second-state/Llama-3-Groq-8B-Tool-Use-GGUF/resolve/main/Llama-3-Groq-8B-Tool-Use-Q5_K_M.gguf",
             "size": "5733024448",
-            "quantization": "Q5_K_M",
+            "quantization": "",
             "tags": [],
             "sha256": "d9cfcd97c83387ac1a8102384c3836b230e58517e0d9f79ed6ef0e136f52f0ce",
             "download": {
@@ -116,8 +113,9 @@
         },
         {
             "name": "Llama-3-Groq-8B-Tool-Use-Q5_K_S.gguf",
+            "url": "https://huggingface.co/second-state/Llama-3-Groq-8B-Tool-Use-GGUF/resolve/main/Llama-3-Groq-8B-Tool-Use-Q5_K_S.gguf",
             "size": "5599331008",
-            "quantization": "Q5_K_S",
+            "quantization": "",
             "tags": [],
             "sha256": "32bd452523689a51c1ddb879686147597c123e20f11ffdd461e0c049a113f2ed",
             "download": {
@@ -126,8 +124,9 @@
         },
         {
             "name": "Llama-3-Groq-8B-Tool-Use-Q6_K.gguf",
+            "url": "https://huggingface.co/second-state/Llama-3-Groq-8B-Tool-Use-GGUF/resolve/main/Llama-3-Groq-8B-Tool-Use-Q6_K.gguf",
             "size": "6596046720",
-            "quantization": "Q6_K",
+            "quantization": "",
             "tags": [],
             "sha256": "990181f531fca400c5d5415c012b03ed6c8866806b49cfa1a4802c454cfd5720",
             "download": {
@@ -136,18 +135,29 @@
         },
         {
             "name": "Llama-3-Groq-8B-Tool-Use-Q8_0.gguf",
+            "url": "https://huggingface.co/second-state/Llama-3-Groq-8B-Tool-Use-GGUF/resolve/main/Llama-3-Groq-8B-Tool-Use-Q8_0.gguf",
             "size": "8540823040",
-            "quantization": "Q8_0",
+            "quantization": "",
             "tags": [],
             "sha256": "7ea26741c68aa8e45db1730de0faf2e089844b1dbf3bf401e019f1235c24af30",
             "download": {
                 "default": "https://huggingface.co/second-state/Llama-3-Groq-8B-Tool-Use-GGUF/resolve/main/Llama-3-Groq-8B-Tool-Use-Q8_0.gguf"
             }
+        },
+        {
+            "name": "Llama-3-Groq-8B-Tool-Use-f16.gguf",
+            "url": "https://huggingface.co/second-state/Llama-3-Groq-8B-Tool-Use-GGUF/resolve/main/Llama-3-Groq-8B-Tool-Use-f16.gguf",
+            "size": "16068989440",
+            "quantization": "",
+            "tags": [],
+            "sha256": "a46d1c03e57debeefacc648cc57496948b46d559352dd1ec95dc42f03ff82705",
+            "download": {
+                "default": "https://huggingface.co/second-state/Llama-3-Groq-8B-Tool-Use-GGUF/resolve/main/Llama-3-Groq-8B-Tool-Use-f16.gguf"
+            }
         }
     ],
-    "prompt_template": "",
+    "prompt_template": "groq-llama3-tool",
     "reverse_prompt": "",
-    "context_size": 4096,
-    "vector_size": 0,
-    "metrics": null
+    "context_size": "8192",
+    "metrics": {}
 }

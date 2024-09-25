@@ -1,33 +1,22 @@
 {
     "id": "second-state/Codestral-22B-v0.1-GGUF",
-    "status": "init",
-    "model_type": "unknown",
-    "name": "",
-    "summary": "",
+    "name": "Codestral-22B-v0.1-GGUF",
     "author": {
         "name": "second-state",
-        "url": "https://github.com/second-state",
+        "url": "https://huggingface.co/second-state",
         "description": ""
     },
+    "summary": "",
     "size": "",
     "requires": "",
-    "released_at": "2024-05-30T06:01:37Z",
     "architecture": "",
+    "released_at": "2024-05-30T06:01:37.000Z",
     "files": [
         {
-            "name": "Codestral-22B-v0.1-hf-f16.gguf",
-            "size": "44496724064",
-            "quantization": "",
-            "tags": [],
-            "sha256": "117c03f0cccf12b35dff9505feff4752a143c3e1210ceab0dc2708d5164a2748",
-            "download": {
-                "default": "https://huggingface.co/second-state/Codestral-22B-v0.1-GGUF/resolve/main/Codestral-22B-v0.1-hf-f16.gguf"
-            }
-        },
-        {
             "name": "Codestral-22B-v0.1-hf-Q2_K.gguf",
+            "url": "https://huggingface.co/second-state/Codestral-22B-v0.1-GGUF/resolve/main/Codestral-22B-v0.1-hf-Q2_K.gguf",
             "size": "8272093280",
-            "quantization": "Q2_K",
+            "quantization": "",
             "tags": [],
             "sha256": "04c1c14533d056e8b0c1357b826bd02a85b3c824a4bc7a9de2f32dfd7a0d66d8",
             "download": {
@@ -36,8 +25,9 @@
         },
         {
             "name": "Codestral-22B-v0.1-hf-Q3_K_L.gguf",
+            "url": "https://huggingface.co/second-state/Codestral-22B-v0.1-GGUF/resolve/main/Codestral-22B-v0.1-hf-Q3_K_L.gguf",
             "size": "11730428000",
-            "quantization": "Q3_K_L",
+            "quantization": "",
             "tags": [],
             "sha256": "f68164486ed41683bb762bb0e437de8af93ce284e99fae6ad6bf052f7b0e4644",
             "download": {
@@ -46,8 +36,9 @@
         },
         {
             "name": "Codestral-22B-v0.1-hf-Q3_K_M.gguf",
+            "url": "https://huggingface.co/second-state/Codestral-22B-v0.1-GGUF/resolve/main/Codestral-22B-v0.1-hf-Q3_K_M.gguf",
             "size": "10756825184",
-            "quantization": "Q3_K_M",
+            "quantization": "",
             "tags": [],
             "sha256": "853beccb32c1f244f905dec3ac789e9184843c19f4b56ba9e21f84282fe2e905",
             "download": {
@@ -56,8 +47,9 @@
         },
         {
             "name": "Codestral-22B-v0.1-hf-Q3_K_S.gguf",
+            "url": "https://huggingface.co/second-state/Codestral-22B-v0.1-GGUF/resolve/main/Codestral-22B-v0.1-hf-Q3_K_S.gguf",
             "size": "9641271392",
-            "quantization": "Q3_K_S",
+            "quantization": "",
             "tags": [],
             "sha256": "62b3d6e5252e9565c29467fdb61a63c3bc15a7af217b73f9505dfae5134e86f0",
             "download": {
@@ -66,8 +58,9 @@
         },
         {
             "name": "Codestral-22B-v0.1-hf-Q4_0.gguf",
+            "url": "https://huggingface.co/second-state/Codestral-22B-v0.1-GGUF/resolve/main/Codestral-22B-v0.1-hf-Q4_0.gguf",
             "size": "12569157728",
-            "quantization": "Q4_0",
+            "quantization": "",
             "tags": [],
             "sha256": "29b8b4b387e386f2ae1ae680e2f0229cbe54bb3feae4e30edd9437381abc5bfb",
             "download": {
@@ -76,8 +69,9 @@
         },
         {
             "name": "Codestral-22B-v0.1-hf-Q4_K_M.gguf",
+            "url": "https://huggingface.co/second-state/Codestral-22B-v0.1-GGUF/resolve/main/Codestral-22B-v0.1-hf-Q4_K_M.gguf",
             "size": "13341237344",
-            "quantization": "Q4_K_M",
+            "quantization": "",
             "tags": [],
             "sha256": "d6f00ec3910bb92d7d3960896a6f39dee6c96c74c3980d2dcf00cd1a230c79f9",
             "download": {
@@ -86,8 +80,9 @@
         },
         {
             "name": "Codestral-22B-v0.1-hf-Q4_K_S.gguf",
+            "url": "https://huggingface.co/second-state/Codestral-22B-v0.1-GGUF/resolve/main/Codestral-22B-v0.1-hf-Q4_K_S.gguf",
             "size": "12660383840",
-            "quantization": "Q4_K_S",
+            "quantization": "",
             "tags": [],
             "sha256": "d1de4d003dc11c00f4d88a834ce5084159823c243cd220f6913396c4a7975ba2",
             "download": {
@@ -96,8 +91,9 @@
         },
         {
             "name": "Codestral-22B-v0.1-hf-Q5_0.gguf",
+            "url": "https://huggingface.co/second-state/Codestral-22B-v0.1-GGUF/resolve/main/Codestral-22B-v0.1-hf-Q5_0.gguf",
             "size": "15324815456",
-            "quantization": "Q5_0",
+            "quantization": "",
             "tags": [],
             "sha256": "0805e6a68b624e5c3c5b64ce28ee3b55b7eda1b542b616b90a75ab0f916fad90",
             "download": {
@@ -106,8 +102,9 @@
         },
         {
             "name": "Codestral-22B-v0.1-hf-Q5_K_M.gguf",
+            "url": "https://huggingface.co/second-state/Codestral-22B-v0.1-GGUF/resolve/main/Codestral-22B-v0.1-hf-Q5_K_M.gguf",
             "size": "15722553440",
-            "quantization": "Q5_K_M",
+            "quantization": "",
             "tags": [],
             "sha256": "feb20766a3408696cb530607e2c20ef9d4952721e39bffd309ccd78bc3f027b2",
             "download": {
@@ -116,8 +113,9 @@
         },
         {
             "name": "Codestral-22B-v0.1-hf-Q5_K_S.gguf",
+            "url": "https://huggingface.co/second-state/Codestral-22B-v0.1-GGUF/resolve/main/Codestral-22B-v0.1-hf-Q5_K_S.gguf",
             "size": "15324815456",
-            "quantization": "Q5_K_S",
+            "quantization": "",
             "tags": [],
             "sha256": "48c89d589913d6c62538efd47b16044562f8d742252f03e89d40fd03f8b8c259",
             "download": {
@@ -126,8 +124,9 @@
         },
         {
             "name": "Codestral-22B-v0.1-hf-Q6_K.gguf",
+            "url": "https://huggingface.co/second-state/Codestral-22B-v0.1-GGUF/resolve/main/Codestral-22B-v0.1-hf-Q6_K.gguf",
             "size": "18252701792",
-            "quantization": "Q6_K",
+            "quantization": "",
             "tags": [],
             "sha256": "2a2baa54f094e19fb116fa89df55f92b42c5f7d5abd3e620f8fb96cf8aae395f",
             "download": {
@@ -136,18 +135,29 @@
         },
         {
             "name": "Codestral-22B-v0.1-hf-Q8_0.gguf",
+            "url": "https://huggingface.co/second-state/Codestral-22B-v0.1-GGUF/resolve/main/Codestral-22B-v0.1-hf-Q8_0.gguf",
             "size": "23640547424",
-            "quantization": "Q8_0",
+            "quantization": "",
             "tags": [],
             "sha256": "cb0bb7640669172ee4d758a80b6d149f665dcc9d9d744ab6ea2216654b45523c",
             "download": {
                 "default": "https://huggingface.co/second-state/Codestral-22B-v0.1-GGUF/resolve/main/Codestral-22B-v0.1-hf-Q8_0.gguf"
             }
+        },
+        {
+            "name": "Codestral-22B-v0.1-hf-f16.gguf",
+            "url": "https://huggingface.co/second-state/Codestral-22B-v0.1-GGUF/resolve/main/Codestral-22B-v0.1-hf-f16.gguf",
+            "size": "44496724064",
+            "quantization": "",
+            "tags": [],
+            "sha256": "117c03f0cccf12b35dff9505feff4752a143c3e1210ceab0dc2708d5164a2748",
+            "download": {
+                "default": "https://huggingface.co/second-state/Codestral-22B-v0.1-GGUF/resolve/main/Codestral-22B-v0.1-hf-f16.gguf"
+            }
         }
     ],
-    "prompt_template": "",
+    "prompt_template": "mistral-instruct",
     "reverse_prompt": "",
-    "context_size": 6144,
-    "vector_size": 0,
-    "metrics": null
+    "context_size": "32768",
+    "metrics": {}
 }
