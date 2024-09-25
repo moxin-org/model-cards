@@ -84,6 +84,13 @@ def rewrite_index(file_path, indexs):
         file.write(text)
 
 
+def load_model_card(model_id) -> dict:
+    file_path = f"./{model_id}.json"
+    with open(file_path, "r", encoding="utf-8") as file:
+        data = json.load(file)
+        return data
+
+
 def save_model_card(model_card):
     file_path = f"./{model_card['id']}.json"
     text = json.dumps(model_card, indent=4)
@@ -93,15 +100,49 @@ def save_model_card(model_card):
 
 
 file_path = "./index.json"
-model_id = sys.argv[1]
-prompt_template = sys.argv[2]
+action = sys.argv[1]
 
 indexs = read_index(file_path)
 
-model_index, model_card = parse_to_model_cards(
-    get_huggingface_models(model_id), True, "chat", prompt_template=prompt_template
-)
 
-indexs.append(model_index)
-save_model_card(model_card)
-rewrite_index(file_path, indexs)
+def add_model():
+    model_id = sys.argv[2]
+
+    try:
+        model_card = load_model_card(model_id)
+        print(f"Model {model_id} already exists")
+        print("Recover form local")
+        indexs.append(model_card["index"])
+        rewrite_index(file_path, indexs)
+        return
+    except:
+        print(f"Model {model_id} not found")
+
+    prompt_template = sys.argv[3]
+    print("Try fetch from Hugging Face")
+    model_index, model_card = parse_to_model_cards(
+        get_huggingface_models(model_id), True, "chat", prompt_template=prompt_template
+    )
+
+    indexs.append(model_index)
+    save_model_card(model_card)
+    rewrite_index(file_path, indexs)
+
+
+def delete_model():
+    model_id = sys.argv[2]
+    for index in indexs:
+        if index["id"] == model_id:
+            indexs.remove(index)
+            model_card = load_model_card(model_id)
+            model_card["index"] = index
+            save_model_card(model_card)
+            break
+    rewrite_index(file_path, indexs)
+    pass
+
+
+if action == "add":
+    add_model()
+elif action in ["delete", "remove"]:
+    delete_model()
