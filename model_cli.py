@@ -16,7 +16,7 @@ def parse_to_model_cards(
     hugging_face_model,
     featured,
     model_type,
-    prompt_template="llama-3-chat",
+    prompt_template,
     reverse_prompt="",
     context_size=4096,
 ):
@@ -100,20 +100,25 @@ def save_model_card(model_card):
 
 
 file_path = "./index.json"
-action = sys.argv[1]
 
 try:
     indexs = read_index(file_path)
 except:
     indexs = []
 
-def add_model():
-    model_id = sys.argv[2]
 
+def get_value_or_default(l: list, index: int, default=None):
+    try:
+        return l[index]
+    except:
+        return default
+
+
+def add_model(model_id, prompt_template, context_size: int):
     try:
         model_card = load_model_card(model_id)
         print(f"Model {model_id} already exists")
-        if model_card['index'] is not None:
+        if model_card["index"] is not None:
             indexs.append(model_card["index"])
             print("Recover form local")
             rewrite_index(file_path, indexs)
@@ -121,11 +126,13 @@ def add_model():
     except:
         print(f"Model {model_id} not found")
 
-    prompt_template = sys.argv[3]
-    context_size = sys.argv[4]
     print("Try fetch from Hugging Face")
     model_index, model_card = parse_to_model_cards(
-        get_huggingface_models(model_id), True, "instruct", prompt_template=prompt_template, context_size=context_size
+        get_huggingface_models(model_id),
+        True,
+        "chat",
+        prompt_template=prompt_template,
+        context_size=context_size,
     )
 
     indexs.append(model_index)
@@ -133,8 +140,7 @@ def add_model():
     rewrite_index(file_path, indexs)
 
 
-def delete_model():
-    model_id = sys.argv[2]
+def delete_model(model_id):
     for index in indexs:
         if index["id"] == model_id:
             indexs.remove(index)
@@ -146,7 +152,30 @@ def delete_model():
     pass
 
 
+action = get_value_or_default(sys.argv, 1, None)
+model_id = get_value_or_default(sys.argv, 2, None)
+if model_id is None:
+    print("model_id is required")
+    sys.exit(1)
+
 if action == "add":
-    add_model()
+    prompt_template = get_value_or_default(sys.argv, 3)
+    if prompt_template is None:
+        print("prompt_template is required")
+        print(
+            "Usage: python model_cli.py add <model_id> <prompt_template> <context_size>"
+        )
+        sys.exit(1)
+    context_size = int(get_value_or_default(sys.argv, 4, "4096"))
+
+    add_model(model_id, prompt_template, context_size)
 elif action in ["delete", "remove"]:
-    delete_model()
+    delete_model(model_id)
+else:
+    print("Usage:")
+    print()
+    print(
+        "Add a Model Card:\n python model_cli.py add <model_id> <prompt_template> <context_size>"
+    )
+    print()
+    print("Delete Model Card:\n python model_cli.py delete <model_id>")
