@@ -107,6 +107,14 @@ except:
     indexs = []
 
 
+def update_indexs(index):
+    for i, item in enumerate(indexs):
+        if item["id"] == index["id"]:
+            indexs[i] = index
+            return
+    indexs.append(index)
+
+
 def get_value_or_default(l: list, index: int, default=None):
     try:
         return l[index]
@@ -119,7 +127,7 @@ def add_model(model_id, prompt_template, context_size: int):
         model_card = load_model_card(model_id)
         print(f"Model {model_id} already exists")
         if model_card["index"] is not None:
-            indexs.append(model_card["index"])
+            update_indexs(model_card["index"])
             print("Recover form local")
             rewrite_index(file_path, indexs)
             return
@@ -135,7 +143,7 @@ def add_model(model_id, prompt_template, context_size: int):
         context_size=context_size,
     )
 
-    indexs.append(model_index)
+    update_indexs(model_index)
     save_model_card(model_card)
     rewrite_index(file_path, indexs)
 
