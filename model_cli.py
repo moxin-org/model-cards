@@ -160,6 +160,21 @@ def delete_model(model_id):
     pass
 
 
+def add_model_card_download_url(model_id, country_code: str):
+    model_card = load_model_card(model_id)
+    for file in model_card["files"]:
+        file_name = file["name"]
+        if country_code == "CN":
+            file["download"][
+                country_code
+            ] = f"https://hf-mirror.com/{model_id}/resolve/main/{file_name}"
+        else:
+            file["download"][
+                "default"
+            ] = f"https://huggingface.co/{model_id}/resolve/main/{file_name}"
+    save_model_card(model_card)
+
+
 action = get_value_or_default(sys.argv, 1, None)
 model_id = get_value_or_default(sys.argv, 2, None)
 if model_id is None:
@@ -179,6 +194,14 @@ if action == "add":
     add_model(model_id, prompt_template, context_size)
 elif action in ["delete", "remove"]:
     delete_model(model_id)
+elif action in ["update_download_url"]:
+    country_code = get_value_or_default(sys.argv, 3, "default")
+    if model_id == "all":
+        for index in indexs:
+            print(f"Update {index['id']}")
+            add_model_card_download_url(index["id"], country_code)
+    else:
+        add_model_card_download_url(model_id, country_code)
 else:
     print("Usage:")
     print()
